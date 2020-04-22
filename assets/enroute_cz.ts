@@ -44,6 +44,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="183"/>
+        <source>Really set %1 ft?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="186"/>
         <source>The altitude reported by the satellite navigation system is %1 AMSL. That is a big difference.</source>
         <translation type="unfinished"></translation>
@@ -461,6 +466,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="142"/>
+        <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../enroute/src/qml/pages/MapManager.qml" line="197"/>
         <source>Update list of maps</source>
         <translation type="unfinished"></translation>
@@ -488,6 +498,11 @@
     <message>
         <location filename="../../enroute/src/qml/pages/MapManager.qml" line="355"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="408"/>
+        <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -676,28 +691,43 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="66"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="55"/>
+        <source>Upper airspaces currently hidden</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="58"/>
+        <source>All airspaces currently shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="72"/>
         <source>Download Maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="66"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="72"/>
         <source>Updates available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="81"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="87"/>
         <source>System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="89"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="95"/>
         <source>Keep Screen On</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="102"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="108"/>
         <source>Current Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="108"/>
+        <source>SatNav Status</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -706,6 +736,11 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/UpdateMapDialog.qml" line="27"/>
         <source>Map updates available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/dialogs/UpdateMapDialog.qml" line="28"/>
+        <source>&lt;p&gt;One or several of your installed maps can be updated. The estimated download size is %1.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -721,6 +756,11 @@
 </context>
 <context>
     <name>WaypointDescription</name>
+    <message>
+        <location filename="../../enroute/src/qml/dialogs/WaypointDescription.qml" line="237"/>
+        <source>mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Thank you for suggesting a correction in the map data. Please describe the issue here.</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/WaypointDescription.qml" line="295"/>
         <source>Direct to</source>
@@ -760,37 +800,42 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="168"/>
+        <location filename="../../enroute/src/qml/main.qml" line="152"/>
+        <source>Insufficient reception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/main.qml" line="169"/>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="188"/>
+        <location filename="../../enroute/src/qml/main.qml" line="189"/>
         <source>About Enroute</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="203"/>
+        <location filename="../../enroute/src/qml/main.qml" line="204"/>
         <source>Bug report</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="219"/>
+        <location filename="../../enroute/src/qml/main.qml" line="220"/>
         <source>Participate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="242"/>
+        <location filename="../../enroute/src/qml/main.qml" line="243"/>
         <source>Exit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="348"/>
+        <location filename="../../enroute/src/qml/main.qml" line="349"/>
         <source>Do you wish to exit Enroute?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="363"/>
+        <location filename="../../enroute/src/qml/main.qml" line="364"/>
         <source>What&apos;s new …?</source>
         <translation type="unfinished"></translation>
     </message>
