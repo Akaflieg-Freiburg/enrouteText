@@ -9,6 +9,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="52"/>
+        <source>If you have good satellite reception and if know your altitude precisely, you can set the satellite altimeter here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="62"/>
         <source>Altitude</source>
         <translation type="unfinished"></translation>
@@ -20,17 +25,27 @@
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="84"/>
+        <source>The current raw altimeter reading as reported by the satellite navigation system is %1 AMSL. The corrected altitude is %2 AMSL.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="86"/>
         <source>Insufficient satellite reception. Altimeter cannot be set.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="153"/>
+        <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="155"/>
         <source>Altimeter cannot be set</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="156"/>
+        <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="158"/>
         <source>Insufficient satellite reception. Please try again once reception becomes better.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="186"/>
+        <source>The altitude reported by the satellite navigation system is %1 AMSL. That is a big difference.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
