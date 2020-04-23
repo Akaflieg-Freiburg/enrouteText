@@ -827,7 +827,7 @@
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="243"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Beenden</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="349"/>
