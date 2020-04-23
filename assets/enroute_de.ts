@@ -703,7 +703,7 @@
     <message>
         <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="72"/>
         <source>Download Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Karten herunterladen</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="72"/>
