@@ -452,7 +452,7 @@
     <message>
         <location filename="../../enroute/src/qml/pages/MapManager.qml" line="31"/>
         <source>Download Maps</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Karten herunterladen</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/MapManager.qml" line="124"/>
