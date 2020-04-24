@@ -721,12 +721,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="108"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="109"/>
+        <source>Prefer English language</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="122"/>
         <source>Current Status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="108"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="122"/>
         <source>SatNav Status</source>
         <translation type="unfinished"></translation>
     </message>
