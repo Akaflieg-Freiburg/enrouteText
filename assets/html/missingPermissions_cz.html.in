@@ -1,0 +1,15 @@
+<h3>Missing Permissions</h3>
+
+<p>The app <strong>enroute flight navigation</strong> will not start because
+  some essential permissions have not been granted.  Please re-start the app and
+  grant the required permissions.  If you have chosen to deny some permissions
+  permanently, you may need to go to the Android Settings app to grant the
+  permissions there.</p>
+
+<p>Our <a href="https://akaflieg-freiburg.github.io/enroute/privacy#privileges-of-the-android-app"
+  title="privacy policies">privacy policies</a> explain why the permissions are
+  needed and what they are used for.</p>
+
+<p>Fly safely and enjoy many happy landings!</p>
+
+<p>&#8212; Stefan Kebekus.</p>
