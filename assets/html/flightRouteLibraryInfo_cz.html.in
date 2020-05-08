@@ -1,0 +1,6 @@
+<p>The flight routes are stored in
+  standard <a href="https://geojson.org">GeoJson format</a> in the
+  directory <strong>%1</strong>.  The flight routes can be accessed by other
+  software, such as backup or file synchronization apps.</p>
+
+<p>This can be useful to share a flight route library with other devices.</p>
