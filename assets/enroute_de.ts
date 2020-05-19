@@ -976,37 +976,37 @@
 <context>
     <name>SettingsPage</name>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="29"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="30"/>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="46"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="47"/>
         <source>Moving Map</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="54"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="55"/>
         <source>Hide Airspaces above FL100</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="55"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="56"/>
         <source>Upper airspaces currently hidden</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="58"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="59"/>
         <source>All airspaces currently shown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="73"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="74"/>
         <source>Libraries</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="80"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="81"/>
         <source>Flight Routes</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1015,32 +1015,32 @@
         <translation type="vanished">Karten herunterladen</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="93"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="94"/>
         <source>Updates available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="93"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="94"/>
         <source>Maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="108"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="109"/>
         <source>System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="116"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="117"/>
         <source>Prefer English</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="129"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="130"/>
         <source>Current Status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="129"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="130"/>
         <source>SatNav Status</source>
         <translation type="unfinished"></translation>
     </message>
