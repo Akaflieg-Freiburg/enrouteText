@@ -336,7 +336,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute_GPX.cpp" line="284"/>
+        <location filename="../../enroute/src/FlightRoute_GPX.cpp" line="282"/>
         <source>Error interpreting GPX file: no valid route found.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -703,7 +703,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/items/ImportManager.qml" line="105"/>
+        <location filename="../../enroute/src/qml/items/ImportManager.qml" line="112"/>
         <source>Error importing flight route</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1144,12 +1144,12 @@
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="313"/>
+        <location filename="../../enroute/src/qml/main.qml" line="318"/>
         <source>Do you wish to exit Enroute?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="328"/>
+        <location filename="../../enroute/src/qml/main.qml" line="333"/>
         <source>What&apos;s new …?</source>
         <translation type="unfinished"></translation>
     </message>
