@@ -1,10 +1,12 @@
-<h3>Bug Report</h3>
+<h3>Berichte über Fehler</h3>
 
-<p>We aim to provide very high-quality software. Fixing errors is therefore
-  always our first priority. We are grateful for every report that we get.</p>
+<p>Unser Ziel ist, Software höchster Qualität zu liefern. Die Fehlerbehebung hat daher 
+immer unsere erste Priorität. Wir sind für jede Meldung dankbar, die uns erreicht.</p>
 
-<p>Please report errors through
-  the <a href="https://github.com/Akaflieg-Freiburg/enroute/issues">GitHub issue
-  tracker</a> (this might require opening an account with GitHub).  If you find
-  this difficult, then please <a href="mailto:stefan.kebekus@gmail.com">contact
-  the author</a> directly.</p>
+<p>Bitte melden Sie Fehler am besten über den 
+  <a href="https://github.com/Akaflieg-Freiburg/enroute/issues">GitHub issue
+  tracker</a> (das könnte ein GitHub-Konto erfordern).  
+  Wenn Sie das als schwierig empfinden, schreiben Sie
+gern direkt an <a href="mailto:stefan.kebekus@gmail.com">den Autor</a>.
+  </p>
+
