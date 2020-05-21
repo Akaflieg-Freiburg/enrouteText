@@ -1,4 +1,4 @@
-<h3>Authors</h3>
+<h3>Autoren</h3>
 
 <br>
 
@@ -6,41 +6,41 @@
   <tr>
     <td>
       <p>
-	The app <strong>enroute flight navigation</strong> was written by Stefan
-	Kebekus, flight enthusiast since 1986 and member of the Akaflieg
-	Freiburg flight club. Stefan flies gliders and motor planes.
+	Die App <strong>enroute Flugnavigation</strong> wurde entwickelt von Stefan
+	Kebekus, flugbegeistert seit 1986 und Mitglied des Akaflieg
+	Freiburg Luftsportvereins. Stefan fliegt Segel- und Motorflugzeuge.
       </p>
-      <h4>Address</h4>
+      <h4>Adresse</h4>
       Stefan Kebekus<br>
       Wintererstraße 77<br>
       79104 Freiburg<br>
-      Germany<br>
+      Deutschland<br>
       <br>
-      <a href="mailto:stefan.kebekus@gmail.com">e-mail</a>
+      <a href="mailto:stefan.kebekus@gmail.com">E-Mail</a>
     </td>
     <td>
       <p align="center">&nbsp;<img src="/icons/kebekus.jpg" alt="Stefan Kebekus" height="140"><br>
 	Stefan Kebekus<br>
-	Pic: Patrick Seeger
+	Foto: Patrick Seeger
       </p>
     </td>
   </tr>
   <tr>
     <td>
       <br>
-      <h3>Contributing Author</h3>
+      <h3>Weitere Autorenbeiträge</h3>
       <br>
     </td>
   </tr>
   <tr>
     <td>
       <p>
-	Johannes Zellner joined the development in 2020.  He contributes to the
-	C++ and QML code base of the app and helps with bug fixing.
+	Johannes Zellner kam 2020 als Entwickler dazu. Er trägt zur Codebasis der App in 
+	C++ und QML bei und unterstützt bei der Fehlerbehebung.
       </p>
       <br>
       <br>
-      <a href="mailto:johannes@zellner.org">e-mail</a>
+      <a href="mailto:johannes@zellner.org">E-Mail</a>
     </td>
     <td>
       <p align="center">&nbsp;<img src="/icons/zellner.jpg" alt="Johannes Zellner" height="140"><br>
