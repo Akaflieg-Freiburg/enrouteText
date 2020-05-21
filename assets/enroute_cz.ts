@@ -1145,5 +1145,15 @@
         <source>What&apos;s new …?</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../enroute/src/main.cpp" line="70"/>
+        <source>enroute flight navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/main.cpp" line="73"/>
+        <source>File to import.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 </TS>
