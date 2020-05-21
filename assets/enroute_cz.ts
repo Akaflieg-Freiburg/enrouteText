@@ -1136,12 +1136,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="318"/>
+        <location filename="../../enroute/src/qml/main.qml" line="325"/>
         <source>Do you wish to exit Enroute?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="333"/>
+        <location filename="../../enroute/src/qml/main.qml" line="340"/>
         <source>What&apos;s new …?</source>
         <translation type="unfinished"></translation>
     </message>
