@@ -1,8 +1,9 @@
-<h4>Version ${PROJECT_VERSION}, Technology Test</h4>
+<h4>Version ${PROJECT_VERSION}, Technologie-Test</h4>
 
-<p>Before we get started, we would like to point out that this app comes with no
-guarantees.  It may not work as expected and the data shown might be incomplete,
-outdated or otherwise incorrect.  <strong>This app is no substitute for proper
-flight preparation or good pilotage.</strong></p>
+<p>Zu allererst müssen wir klarstellen, dass <strong>diese App und die verwendeten Luftfahrtdaten 
+ohne irgendwelche Garantie, Gewährleistung oder Haftung zur Verfügung gestellt werden</strong>. 
+Die App ist nicht Luftfahrt-zertifiziert und erfüllt keine Luftfahrt-Standards. Sie kann Fehler enthalten und evtl. anders arbeiten als erwartet. 
+Die angezeigten Luftfahrtdaten können unvollständig, veraltet oder anderweitig fehlerhaft sein.
+<strong>Diese App ersetzt weder die vorgeschriebene Flugvorbereitung noch das erforderliche Können und Wissen als Pilot.</strong></p>
 
-<p>Fly safely and enjoy many happy landings!</p>
+<p>Fliegen Sie sicher! Viele 'happy landings'!</p>
