@@ -1,18 +1,16 @@
-<p>This version is a major milestone for us.  Many things have changed
-  internally, but not all of the changes are immediately visible to the
-  user.</p>
+<p>Diese Version bedeutet für uns einen größeren Meilenstein. Intern hat sich Vieles geändert, 
+doch nicht alle Änderungen sind für den Benutzer direkt sichtbar.</p>
 
-<p>In response to requests by our users, flight routes can now be saved for
-  later use.  With a bit of know-how, it is now even possible to use standard
-  file synchronization software to share a library of flight routes among
-  several devices.</p>
+<p>Als Antwort auf die Anfragen unserer Benutzer können Flugstrecken jetzt für die weitere Verwendung gespeichert werden.
+  Wenn man sich etwas auskennt, kann man jetzt sogar Standardsoftware zur Dateisynchronisierung benutzen,
+  um seine Sammlung von Flugstrecken auf mehrere Geräte zu verteilen.</p>
 
-<p>Johannes Zellner has joined the development team. He implemented code that
-  allows to share flight routes with other apps.  If desired, you can also
-  import flight routes in GPX format from other programs, such as "fl95.de".
-  Johannes also implemented geoid altitude correction, which tracks the
-  different definitions of 'sea level' used in aviation and in satellite
-  navigation.  The corrections will be applied automatically and will give more
-  precise altitude readings.</p>
+<p>Johannes Zellner ergänzt jetzt unser Entwicklerteam. Er implementierte Code, der 
+  erlaubt, Flugstrecken mit anderen Apps zu teilen. Bei Bedarf können Sie auch 
+  Flugstrecken im GPX-Format aus anderen Programmen wie z.B. "fl95.de" importieren.
+  Johannes implementierte auch eine am Erdgeoid orientierte Höhenkorrektur, welche die 
+  unterschiedlichen Definitionen des 'Sea Level' der Luftfahrt und der Satellitennavigation 
+  einbezieht. Diese Korrekturen werden automatisch berücksichtigt und führen zu einer 
+  genaueren Anzeige der Flughöhe.</p>
 
 <p>-- Stefan Kebekus.</p>
