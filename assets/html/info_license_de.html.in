@@ -15,7 +15,7 @@ V3</a>. Dieses Programm verwendet die Bibliothek
 die unter der <a href="https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt">MIT License</a>
 lizenziert ist. Dieses Programm verwendet die Bibliothek
 <a href="https://openssl.org">OpenSSL</a>, lizenziert unter der
-<a href="https://www.openssl.org/source/license.html>"Apache License 2.0</a>.</p>
+<a href="https://www.openssl.org/source/license.html>">Apache License 2.0</a>.</p>
 
 <p>Dieses Programm verwendet verschiedenen Versionen der 
 <a href="https://github.com/google/roboto">Google Roboto Fonts</a>, die unter der 

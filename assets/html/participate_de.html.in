@@ -1,8 +1,10 @@
 <h3>Neue Funktionen und Verbesserungen vorschlagen</h3>
 
-<p>Wir haben mit <strong>enroute</strong> noch viel vor: Sehen Sie sich 
+<p>Wir haben mit <strong>enroute flight navigation</strong> noch viel vor: Sehen
+Sie sich
 unsere <a href="https://github.com/Akaflieg-Freiburg/enroute/projects">Projektliste
-auf GitHub</a> an, um zu sehen, woran wir arbeiten.  Machen Sie gern weitere Vorschläge auf dem 
+auf GitHub</a> an, um zu sehen, woran wir arbeiten.  Machen Sie gern weitere
+Vorschläge auf dem
 <a href="https://github.com/Akaflieg-Freiburg/enroute/issues">GitHub issue
 tracker</a> (das könnte ein GitHub-Konto erfordern). Wenn Sie das als schwierig empfinden, schreiben Sie
 auch gern direkt an <a href="mailto:stefan.kebekus@gmail.com">den Autor</a>. 
@@ -10,15 +12,16 @@ Bitte haben Sie Verständnis, dass wir evtl. nicht alle Ihre Vorschlägen sofort
 
 <h3>Mitmachen</h3>
 
-<p>Wenn Sie Enroute <strong>in Ihre Muttersprache übersetzen</strong> möchten, 
-würden wir uns freuen, <a href="mailto:stefan.kebekus@gmail.com">von Ihnen zu hören</a>. 
-Programmiererfahrung ist nicht erforderlich, versierter Umgang mit einem Computer
-allerdings schon.</p>
+<p>Wenn Sie die App <strong>in Ihre Muttersprache übersetzen</strong> möchten,
+würden wir uns freuen, <a href="mailto:stefan.kebekus@gmail.com">von Ihnen zu
+hören</a>.  Programmiererfahrung ist nicht erforderlich, versierter Umgang mit
+einem Computer allerdings schon.</p>
 
-<p>Diese App sollte auch auf <strong>Apple-Geräten</strong> gut laufen. Wenn Sie sie gern 
-nach iOS portieren würden und Erfahrung in der Entwicklung mit C++/Qt und 
-Apple-Systemen haben, <a href="mailto:stefan.kebekus@gmail.com">melden Sie sich gern noch heute</a>
-bei uns.</p>
+<p>Diese App sollte auch auf <strong>Apple-Geräten</strong> gut laufen. Wenn Sie
+sie gern nach iOS portieren würden und Erfahrung in der Entwicklung mit C++/Qt
+und Apple-Systemen haben, <a href="mailto:stefan.kebekus@gmail.com">melden Sie
+sich gern noch heute</a> bei uns.</p>
 
-<p>Sollten Sie geläufig in C++ programmieren können und uns <strong>unterstützen</strong> wollen, 
+<p>Sollten Sie geläufig in C++ programmieren können und
+uns <strong>unterstützen</strong> wollen,
 <a href="mailto:stefan.kebekus@gmail.com">hören wir ebenfalls gern von Ihnen</a>.</p>
