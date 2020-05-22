@@ -341,7 +341,7 @@
         <translation>Fehler beim Öffnen der Datei  &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute_GPX.cpp" line="284"/>
+        <location filename="../../enroute/src/FlightRoute_GPX.cpp" line="282"/>
         <source>Error interpreting GPX file: no valid route found.</source>
         <translation>Fehler beim Lesen der GPX-Datei: keine gültige Strecke gefunden</translation>
     </message>
@@ -709,7 +709,7 @@
         <translation>Dies überschreibt die aktuelle Strecke. Sie kann danach nicht wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/items/ImportManager.qml" line="105"/>
+        <location filename="../../enroute/src/qml/items/ImportManager.qml" line="112"/>
         <source>Error importing flight route</source>
         <translation>Fehler beim Import der Flugstrecke</translation>
     </message>
@@ -1157,15 +1157,25 @@
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="313"/>
+        <location filename="../../enroute/src/qml/main.qml" line="325"/>
         <source>Do you wish to exit Enroute?</source>
         <translatorcomment>groß/klein?</translatorcomment>
         <translation>Enroute verlassen?</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="328"/>
+        <location filename="../../enroute/src/qml/main.qml" line="340"/>
         <source>What&apos;s new …?</source>
         <translation>Was ist neu ...?</translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/main.cpp" line="70"/>
+        <source>enroute flight navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/main.cpp" line="73"/>
+        <source>File to import.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
