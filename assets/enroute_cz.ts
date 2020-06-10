@@ -95,172 +95,172 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="288"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="287"/>
         <source>the remote server refused the connection (the server is not accepting requests)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="292"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="291"/>
         <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="297"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="296"/>
         <source>the remote host name was not found (invalid hostname)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="301"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="300"/>
         <source>the connection to the remote server timed out</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="306"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="305"/>
         <source>the operation was canceled via calls to abort() or close() before it was finished</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="310"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="309"/>
         <source>the SSL/TLS handshake failed and the encrypted channel could not be established. The sslErrors() signal should have been emitted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="315"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="314"/>
         <source>the connection was broken due to disconnection from the network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="319"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="318"/>
         <source>the connection was broken due to disconnection from the network or failure to start the network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="324"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="323"/>
         <source>the background request is not currently allowed due to platform policy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="328"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="327"/>
         <source>while following redirects, the maximum limit was reached</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="332"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="331"/>
         <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="337"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="336"/>
         <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="342"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="341"/>
         <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="347"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="346"/>
         <source>the proxy host name was not found (invalid proxy hostname)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="351"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="350"/>
         <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="356"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="355"/>
         <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="361"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="360"/>
         <source>the access to the remote content was denied (similar to HTTP error 403)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="365"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="364"/>
         <source>the operation requested on the remote content is not permitted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="369"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="368"/>
         <source>the remote content was not found at the server (similar to HTTP error 404)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="373"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="372"/>
         <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="378"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="377"/>
         <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="383"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="382"/>
         <source>the request could not be completed due to a conflict with the current state of the resource</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="388"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="387"/>
         <source>the requested resource is no longer available at the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="392"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="391"/>
         <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="398"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="397"/>
         <source>the server does not support the functionality required to fulfill the request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="402"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="401"/>
         <source>the server is unable to handle the request at this time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="407"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="406"/>
         <source>the Network Access API cannot honor the request because the protocol is not known</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="411"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="410"/>
         <source>the requested operation is invalid for this protocol</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="415"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="414"/>
         <source>an unknown network-related error was detected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="419"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="418"/>
         <source>an unknown proxy-related error was detected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="423"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="422"/>
         <source>an unknown error related to the remote content was detected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="427"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="426"/>
         <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="432"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="431"/>
         <source>an unknown error related to the server response was detected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Downloadable.cpp" line="436"/>
+        <location filename="../../enroute/src/Downloadable.cpp" line="435"/>
         <source>unknown</source>
         <translation type="unfinished"></translation>
     </message>
@@ -296,42 +296,42 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="283"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="297"/>
         <source>Cruise speed not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="285"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="299"/>
         <source>Fuel consumption not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="289"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="303"/>
         <source>Wind speed not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="292"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="306"/>
         <source>Wind direction not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="325"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="339"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="328"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="342"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="334"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="348"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="341"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="355"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -375,10 +375,177 @@
     </message>
 </context>
 <context>
+    <name>FlightRouteEditor</name>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="33"/>
+        <source>Flight Route</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="87"/>
+        <source>Move Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="97"/>
+        <source>Move Down</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="107"/>
+        <source>Remove</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="167"/>
+        <source>Open from library …</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="178"/>
+        <source>Save to library …</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="190"/>
+        <source>View Library …</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="201"/>
+        <source>Import …</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="213"/>
+        <source>Export …</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="217"/>
+        <source>… to GeoJson file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="232"/>
+        <source>… to GPX file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="248"/>
+        <source>Open in other app …</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="252"/>
+        <source>… in GeoJson format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="269"/>
+        <source>… in GPX format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="290"/>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="302"/>
+        <source>Reverse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="324"/>
+        <source>Route</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="325"/>
+        <source>Aircraft and Wind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="350"/>
+        <source>&lt;h2&gt;Empty Route&lt;/h2&gt;&lt;p&gt;Use the button &apos;Add Waypoint&apos; below.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="381"/>
+        <source>Aircraft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="388"/>
+        <source>Cruise Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="405"/>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="434"/>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="461"/>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="497"/>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="524"/>
+        <source>undefined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="417"/>
+        <source>Descent Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="446"/>
+        <source>Fuel consumption</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="463"/>
+        <source>l/h</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="475"/>
+        <source>Wind</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="482"/>
+        <source>Direction</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="509"/>
+        <source>Speed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="563"/>
+        <source>Add Waypoint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="581"/>
+        <source>Clear route?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="593"/>
+        <source>Once erased, the current flight route cannot be restored.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="635"/>
+        <source>Error exporting data…</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FlightRouteManageLibraryPage</name>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="31"/>
-        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="379"/>
+        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="381"/>
         <source>Flight Route Library</source>
         <translation type="unfinished"></translation>
     </message>
@@ -458,42 +625,42 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="388"/>
+        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="390"/>
         <source>Overwrite current flight route?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="398"/>
+        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="400"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="426"/>
+        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="430"/>
         <source>Remove from device?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="436"/>
+        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="440"/>
         <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="465"/>
+        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="471"/>
         <source>Rename Flight Route</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="483"/>
+        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="489"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="509"/>
+        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="515"/>
         <source>Rename</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="537"/>
+        <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="545"/>
         <source>Error exporting data…</source>
         <translation type="unfinished"></translation>
     </message>
@@ -511,185 +678,18 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="149"/>
+        <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="151"/>
         <source>An error occurred…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="194"/>
+        <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="198"/>
         <source>Overwrite current flight route?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="204"/>
+        <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="208"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>FlightRoutePage</name>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="32"/>
-        <source>Flight Route</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="86"/>
-        <source>Move Up</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="96"/>
-        <source>Move Down</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="106"/>
-        <source>Remove</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="166"/>
-        <source>Open from library …</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="177"/>
-        <source>Save to library …</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="189"/>
-        <source>View Library …</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="250"/>
-        <source>… in GeoJson format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="267"/>
-        <source>… in GPX format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="246"/>
-        <source>Open in other app …</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="200"/>
-        <source>Import …</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="211"/>
-        <source>Export …</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="215"/>
-        <source>… to GeoJson file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="230"/>
-        <source>… to GPX file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="288"/>
-        <source>Clear</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="300"/>
-        <source>Reverse</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="322"/>
-        <source>Route</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="323"/>
-        <source>Aircraft and Wind</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="348"/>
-        <source>&lt;h2&gt;Empty Route&lt;/h2&gt;&lt;p&gt;Use the button &apos;Add Waypoint&apos; below.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="379"/>
-        <source>Aircraft</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="386"/>
-        <source>Cruise Speed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="401"/>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="428"/>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="455"/>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="491"/>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="518"/>
-        <source>undefined</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="413"/>
-        <source>Descent Speed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="440"/>
-        <source>Fuel consumption</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="457"/>
-        <source>l/h</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="469"/>
-        <source>Wind</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="476"/>
-        <source>Direction</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="503"/>
-        <source>Speed</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="557"/>
-        <source>Add Waypoint</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="575"/>
-        <source>Clear route?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="587"/>
-        <source>Once erased, the current flight route cannot be restored.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/FlightRoutePage.qml" line="627"/>
-        <source>Error exporting data…</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -711,12 +711,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="206"/>
+        <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="208"/>
         <source>Overwrite file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="213"/>
+        <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="215"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -739,7 +739,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/items/ImportManager.qml" line="115"/>
+        <location filename="../../enroute/src/qml/items/ImportManager.qml" line="117"/>
         <source>Error importing flight route</source>
         <translation type="unfinished"></translation>
     </message>
@@ -765,7 +765,7 @@
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../enroute/src/qml/items/MFM.qml" line="235"/>
+        <location filename="../../enroute/src/qml/items/MFM.qml" line="239"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -854,47 +854,47 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="46"/>
+        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="44"/>
         <source>Import data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="48"/>
+        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="46"/>
         <source>All files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="70"/>
+        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="68"/>
         <source>No suitable file sharing app could be found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="73"/>
+        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="71"/>
         <source>Export flight route</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="75"/>
+        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="73"/>
         <source>%1 (*.%2);;All files (*)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="81"/>
+        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="79"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="84"/>
+        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="82"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="101"/>
+        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="99"/>
         <source>No suitable app for viewing this data could be found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="106"/>
+        <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="104"/>
         <source>Unable to open data in other app.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -925,7 +925,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/NearbyAirfields.qml" line="89"/>
+        <location filename="../../enroute/src/qml/pages/NearbyAirfields.qml" line="92"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No airfields available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1058,62 +1058,77 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="47"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="46"/>
         <source>Moving Map</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="55"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="54"/>
         <source>Hide Airspaces above FL100</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="56"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="55"/>
         <source>Upper airspaces currently hidden</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="59"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="58"/>
         <source>All airspaces currently shown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="74"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="73"/>
         <source>Libraries</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="81"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="80"/>
         <source>Flight Routes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="94"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="93"/>
         <source>Updates available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="94"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="93"/>
         <source>Maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="109"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="108"/>
         <source>System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="117"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="116"/>
+        <source>Prefer metric units</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="119"/>
+        <source>Horizontal speed in km/h, distance in km</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="120"/>
+        <source>Horizontal speed in kt, distance in NM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="135"/>
         <source>Prefer English</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="130"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="148"/>
         <source>Current Status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="130"/>
+        <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="148"/>
         <source>SatNav Status</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1217,12 +1232,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="325"/>
+        <location filename="../../enroute/src/qml/main.qml" line="331"/>
         <source>Do you wish to exit Enroute?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="340"/>
+        <location filename="../../enroute/src/qml/main.qml" line="346"/>
         <source>What&apos;s new …?</source>
         <translation type="unfinished"></translation>
     </message>
