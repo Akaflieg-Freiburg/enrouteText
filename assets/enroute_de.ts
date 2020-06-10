@@ -954,7 +954,62 @@
 &lt;p&gt;German: Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;E-Mail&lt;/a&gt;. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;h3&gt;Autoren&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Die App &lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; wurde von Stefan Kebekus entwickelt. Stefan ist seit 1986 flugbegeistert und Mitglied der Akaflieg Freiburg. Stefan fliegt Segel- und Motorflugzeuge.&lt;/p&gt;
+      &lt;h4&gt;Adresse&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstraße 77&lt;br&gt;
+      79104 Freiburg&lt;br&gt;
+      Deutschland&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;E-Mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;img src=&quot;/icons/kebekus.jpg&quot; alt=&quot;Stefan Kebekus&quot; height=&quot;140&quot;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Foto: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;br&gt;
+      &lt;h3&gt;Weitere Autorenbeiträge&lt;/h3&gt;
+      &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Heiner Tholen baut gern, egal ob analog oder digital, fliegend oder erdgebunden. Er verwendet enroute als Pilot von Ultraleicht-Flugzeugen. Heiner ist seit Mitte 2020 bei der Entwicklung von enroute dabei. Er trägt zur C++/QML Codebasis bei.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Johannes Zellner kam 2020 als Entwickler dazu. Er trägt zur Codebasis der App in C++ und QML bei und hilft bei der Fehlerbehebung.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;&lt;a href=&quot;mailto:johannes@zellner.org&quot;&gt;E-Mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;img src=&quot;/icons/zellner.jpg&quot; alt=&quot;Johannes Zellner&quot; height=&quot;140&quot;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;Übersetzungen&lt;/h3&gt;
+
+&lt;p&gt;Deutsch: Markus Sachs, &lt;a href=&quot;mailto:ms@squawk-vfr.de&quot;&gt;E-Mail&lt;/a&gt;. Markus ist Trike-Pilot. Auf allem anderen, was fliegt, ist er begeisterter Mit-Flieger.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+</translation>
     </message>
 </context>
 <context>
