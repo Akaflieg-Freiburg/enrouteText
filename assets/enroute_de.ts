@@ -1367,17 +1367,17 @@
     <message>
         <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="116"/>
         <source>Prefer metric units</source>
-        <translation type="unfinished"></translation>
+        <translation>Metrische Einheiten bevorzugen</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="119"/>
         <source>Horizontal speed in km/h, distance in km</source>
-        <translation type="unfinished"></translation>
+        <translation>Geschwindigkeit in km/h, Distanzen in km</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="120"/>
         <source>Horizontal speed in kt, distance in NM</source>
-        <translation type="unfinished"></translation>
+        <translation>Geschwindigkeit in kt, Distanzen in NM</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="135"/>
