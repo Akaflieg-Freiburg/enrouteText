@@ -883,7 +883,7 @@
         <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="30"/>
         <source>About Enroute</source>
         <translatorcomment>enroute groß/klein?</translatorcomment>
-        <translation>Über enroute</translation>
+        <translation type="unfinished">Über enroute</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="47"/>
@@ -954,7 +954,7 @@
 &lt;p&gt;German: Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;E-Mail&lt;/a&gt;. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 </source>
-        <translation type="unfinished">
+        <translation>
 &lt;h3&gt;Autoren&lt;/h3&gt;
 
 &lt;br&gt;
@@ -984,7 +984,7 @@
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Heiner Tholen baut gern, egal ob analog oder digital, fliegend oder erdgebunden. Er verwendet enroute als Pilot von Ultraleicht-Flugzeugen. Heiner ist seit Mitte 2020 bei der Entwicklung von enroute dabei. Er trägt zur C++/QML Codebasis bei.&lt;/p&gt;
+      &lt;p&gt;Heiner Tholen baut gern, egal ob analog oder digital, fliegend oder erdgebunden. Er verwendet &lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; als Pilot von Ultraleicht-Flugzeugen. Heiner ist seit Mitte 2020 bei der Entwicklung dabei. Er trägt zur C++/QML Codebasis bei.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
       &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
