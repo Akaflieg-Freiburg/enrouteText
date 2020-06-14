@@ -1459,6 +1459,11 @@
         <source>Add to route</source>
         <translation>Zur Strecke hinzufügen</translation>
     </message>
+    <message>
+        <location filename="../../enroute/src/qml/dialogs/WaypointDescription.qml" line="309"/>
+        <source>Remove from route</source>
+        <translation>Aus Strecke entfernen</translation>
+    </message>
 </context>
 <context>
     <name>main</name>
