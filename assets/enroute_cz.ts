@@ -839,64 +839,54 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="59"/>
-        <source>aviation maps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="62"/>
-        <source>base maps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-      <location filename="../../enroute/src/qml/pages/MapManager.qml" line="150"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="124"/>
         <source>Uninstall</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="166"/>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="435"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="140"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="409"/>
         <source>Download Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="167"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="141"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="222"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="196"/>
         <source>Update list of maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="234"/>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="420"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="208"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="394"/>
         <source>Download all updates…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="259"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="233"/>
         <source>Aviation Maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="262"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="236"/>
         <source>Base Maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="353"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="327"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="380"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="354"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="436"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="410"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1205,19 +1195,6 @@
     </message>
 </context>
 <context>
-    <name>TooManyDownloadsDialog</name>
-    <message>
-        <location filename="../../enroute/src/qml/dialogs/TooManyDownloadsDialog.qml" line="33"/>
-        <source>Download anyways</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/dialogs/TooManyDownloadsDialog.qml" line="37"/>
-        <source>Cancel</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>UpdateMapDialog</name>
     <message>
         <location filename="../../enroute/src/qml/dialogs/UpdateMapDialog.qml" line="27"/>
@@ -1255,11 +1232,6 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/WaypointDescription.qml" line="309"/>
         <source>Add to route</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/dialogs/WaypointDescription.qml" line="309"/>
-        <source>Remove from route</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
