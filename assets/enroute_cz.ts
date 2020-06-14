@@ -1234,6 +1234,11 @@
         <source>Add to route</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../enroute/src/qml/dialogs/WaypointDescription.qml" line="309"/>
+        <source>Remove from route</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>main</name>
