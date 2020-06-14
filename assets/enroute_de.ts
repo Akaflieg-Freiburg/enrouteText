@@ -1033,54 +1033,64 @@
         <translation>Karten</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="124"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="59"/>
+        <source>aviation maps</source>
+        <translation>Luftfahrtkarten</translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="62"/>
+        <source>base maps</source>
+        <translation>Basiskarten</translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="150"/>
         <source>Uninstall</source>
         <translation>Deinstallieren</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="140"/>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="409"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="166"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="435"/>
         <source>Download Error</source>
         <translation>Fehler beim Download</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="141"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="167"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Download fehlgeschlagen:&lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Grund: %2.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="196"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="222"/>
         <source>Update list of maps</source>
         <translation>Liste der Karten aktualisieren</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="208"/>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="394"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="234"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="420"/>
         <source>Download all updates…</source>
         <translation>Alle Updates herunterladen ...</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="233"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="259"/>
         <source>Aviation Maps</source>
         <translation>Luftfahrtkarten</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="236"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="262"/>
         <source>Base Maps</source>
         <translation>Basiskarten</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="327"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="353"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste der verfügbaren Karten wurde noch nicht vom Server geladen. Sie können das über &apos;Aktualisieren&apos; im Menü anstoßen. Suchen Sie dafür nach dem Symbol &apos;&amp;#8942;&apos; in der Ecke  rechts oben auf dem Schirm.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="354"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="380"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Download läuft …&lt;/h3&gt;&lt;p&gt;Bitte einen Moment Geduld, während wir die Liste der verfügbaren Karten herunterladen…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="410"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="436"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Download der Liste der Luftfahrtkarten fehlgeschlagen.&lt;/p&gt;&lt;p&gt;Grund: %1.&lt;/p&gt;</translation>
     </message>
@@ -1394,6 +1404,19 @@
         <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="148"/>
         <source>SatNav Status</source>
         <translation>Satellitenstatus</translation>
+    </message>
+</context>
+<context>
+    <name>TooManyDownloadsDialog</name>
+    <message>
+        <location filename="../../enroute/src/qml/dialogs/TooManyDownloadsDialog.qml" line="33"/>
+        <source>Download anyways</source>
+        <translation>Trotzdem laden</translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/dialogs/TooManyDownloadsDialog.qml" line="37"/>
+        <source>Cancel</source>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
