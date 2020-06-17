@@ -979,15 +979,15 @@
     </message>
 </context>
 <context>
-    <name>NearbyAirfields</name>
+    <name>Nearby</name>
     <message>
-        <location filename="../../enroute/src/qml/pages/NearbyAirfields.qml" line="31"/>
-        <source>Nearby Airfields</source>
+        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="31"/>
+        <source>Nearby</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/NearbyAirfields.qml" line="92"/>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No airfields available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
+        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="92"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
