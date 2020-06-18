@@ -281,57 +281,57 @@
 <context>
     <name>FlightRoute</name>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="197"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="234"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="202"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="239"/>
         <source>Unable to write to file &apos;%1&apos; for writing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="239"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="276"/>
         <source>Flight Route</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="297"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="334"/>
         <source>Cruise speed not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="299"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="336"/>
         <source>Fuel consumption not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="303"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="340"/>
         <source>Wind speed not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="306"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="343"/>
         <source>Wind direction not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="339"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="376"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="342"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="379"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="348"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="385"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="355"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="392"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -826,7 +826,7 @@
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../enroute/src/qml/items/MFM.qml" line="239"/>
+        <location filename="../../enroute/src/qml/items/MFM.qml" line="241"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -839,54 +839,64 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="124"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="59"/>
+        <source>aviation maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="62"/>
+        <source>base maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="150"/>
         <source>Uninstall</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="140"/>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="409"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="166"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="435"/>
         <source>Download Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="141"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="167"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="196"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="222"/>
         <source>Update list of maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="208"/>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="394"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="234"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="420"/>
         <source>Download all updates…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="233"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="259"/>
         <source>Aviation Maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="236"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="262"/>
         <source>Base Maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="327"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="353"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="354"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="380"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="410"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="436"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -986,7 +996,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="92"/>
+        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="109"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1002,32 +1012,32 @@
 <context>
     <name>SatNav</name>
     <message>
-        <location filename="../../enroute/src/SatNav.cpp" line="313"/>
+        <location filename="../../enroute/src/SatNav.cpp" line="320"/>
         <source>Not installed or access denied</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/SatNav.cpp" line="316"/>
+        <location filename="../../enroute/src/SatNav.cpp" line="323"/>
         <source>Access denied</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/SatNav.cpp" line="319"/>
+        <location filename="../../enroute/src/SatNav.cpp" line="326"/>
         <source>Connection to SatNav system lost</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/SatNav.cpp" line="322"/>
+        <location filename="../../enroute/src/SatNav.cpp" line="329"/>
         <source>Unknown error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/SatNav.cpp" line="325"/>
+        <location filename="../../enroute/src/SatNav.cpp" line="332"/>
         <source>Waiting for signal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/SatNav.cpp" line="327"/>
+        <location filename="../../enroute/src/SatNav.cpp" line="334"/>
         <source>OK</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1195,6 +1205,19 @@
     </message>
 </context>
 <context>
+    <name>TooManyDownloadsDialog</name>
+    <message>
+        <location filename="../../enroute/src/qml/dialogs/TooManyDownloadsDialog.qml" line="33"/>
+        <source>Download anyways</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/dialogs/TooManyDownloadsDialog.qml" line="37"/>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>UpdateMapDialog</name>
     <message>
         <location filename="../../enroute/src/qml/dialogs/UpdateMapDialog.qml" line="27"/>
@@ -1234,6 +1257,11 @@
         <source>Add to route</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../enroute/src/qml/dialogs/WaypointDescription.qml" line="309"/>
+        <source>Remove from route</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>main</name>
@@ -1254,7 +1282,7 @@
     </message>
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="86"/>
-        <source>Nearby Airfields</source>
+        <source>Nearby</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1293,12 +1321,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="331"/>
+        <location filename="../../enroute/src/qml/main.qml" line="334"/>
         <source>Do you wish to exit Enroute?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="346"/>
+        <location filename="../../enroute/src/qml/main.qml" line="349"/>
         <source>What&apos;s new …?</source>
         <translation type="unfinished"></translation>
     </message>

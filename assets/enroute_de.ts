@@ -285,58 +285,58 @@
 <context>
     <name>FlightRoute</name>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="197"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="234"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Datei &apos;%1&apos; kann nicht zum Schreiben geöffnet werden</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="202"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="239"/>
         <source>Unable to write to file &apos;%1&apos; for writing.</source>
         <translatorcomment>das engl. Original ist schräg; soll es heißen: Unable to open ...?</translatorcomment>
         <translation>Datei &apos;%1&apos; kann nicht geschrieben werden</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="239"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="276"/>
         <source>Flight Route</source>
         <translation type="unfinished">Flugstrecke</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="297"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="334"/>
         <source>Cruise speed not specified.</source>
         <translation>Keine Reisegeschwindigkeit genannt</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="299"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="336"/>
         <source>Fuel consumption not specified.</source>
         <translation>Treibstoffverbrauch nicht benannt</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="303"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="340"/>
         <source>Wind speed not specified.</source>
         <translation>Windgeschwindigkeit nicht benannt</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="306"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="343"/>
         <source>Wind direction not specified.</source>
         <translation>Windrichtung nicht benannt</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="339"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="376"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
         <translation>Datei &apos;%1&apos; kann nicht zum Lesen geöffnet werden</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="342"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="379"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
         <translation>Datei &apos;%1&apos; kann nicht gelesen werden</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="348"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="385"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
         <translation>Datei &apos;%1&apos; unverständlich, Grund: %2.</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="355"/>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="392"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation>Inhalt der Datei &apos;%1&apos; unverständlich.</translation>
     </message>
@@ -1015,7 +1015,7 @@
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../enroute/src/qml/items/MFM.qml" line="239"/>
+        <location filename="../../enroute/src/qml/items/MFM.qml" line="241"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translatorcomment>evtl. &apos;Sammlung&apos; noch anpassen</translatorcomment>
         <translation>&lt;p&gt;&lt;strong&gt;Keine Luftfahrtkarte installiert.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bitte gehen Sie im Menü zu &lt;strong&gt;Einstellungen/Sammlung/Karten&lt;/strong&gt;.&lt;/p&gt;</translation>
@@ -1033,62 +1033,64 @@
         <translation>Karten</translation>
     </message>
     <message>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="59"/>
         <source>aviation maps</source>
-        <translation type="vanished">Luftfahrtkarten</translation>
+        <translation>Luftfahrtkarten</translation>
     </message>
     <message>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="62"/>
         <source>base maps</source>
-        <translation type="vanished">Basiskarten</translation>
+        <translation>Basiskarten</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="124"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="150"/>
         <source>Uninstall</source>
         <translation>Deinstallieren</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="140"/>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="409"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="166"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="435"/>
         <source>Download Error</source>
         <translation>Fehler beim Download</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="141"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="167"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Download fehlgeschlagen:&lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Grund: %2.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="196"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="222"/>
         <source>Update list of maps</source>
         <translation>Liste der Karten aktualisieren</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="208"/>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="394"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="234"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="420"/>
         <source>Download all updates…</source>
         <translation>Alle Updates herunterladen ...</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="233"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="259"/>
         <source>Aviation Maps</source>
         <translation>Luftfahrtkarten</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="236"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="262"/>
         <source>Base Maps</source>
         <translation>Basiskarten</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="327"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="353"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste der verfügbaren Karten wurde noch nicht vom Server geladen. Sie können das über &apos;Aktualisieren&apos; im Menü anstoßen. Suchen Sie dafür nach dem Symbol &apos;&amp;#8942;&apos; in der Ecke  rechts oben auf dem Schirm.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="354"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="380"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Download läuft …&lt;/h3&gt;&lt;p&gt;Bitte einen Moment Geduld, während wir die Liste der verfügbaren Karten herunterladen…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="410"/>
+        <location filename="../../enroute/src/qml/pages/MapManager.qml" line="436"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Download der Liste der Luftfahrtkarten fehlgeschlagen.&lt;/p&gt;&lt;p&gt;Grund: %1.&lt;/p&gt;</translation>
     </message>
@@ -1188,7 +1190,7 @@
         <translation>Nächstgelegene</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="92"/>
+        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="109"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Daten verfügbar. Bitte installieren Sie eine Luftfahrtkarte.&lt;/p&gt;</translation>
     </message>
@@ -1205,32 +1207,32 @@
 <context>
     <name>SatNav</name>
     <message>
-        <location filename="../../enroute/src/SatNav.cpp" line="313"/>
+        <location filename="../../enroute/src/SatNav.cpp" line="320"/>
         <source>Not installed or access denied</source>
         <translation>Nicht installiert oder kein Zugriff</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/SatNav.cpp" line="316"/>
+        <location filename="../../enroute/src/SatNav.cpp" line="323"/>
         <source>Access denied</source>
         <translation>Kein Zugriff</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/SatNav.cpp" line="319"/>
+        <location filename="../../enroute/src/SatNav.cpp" line="326"/>
         <source>Connection to SatNav system lost</source>
         <translation>Satellitenverbindung verloren</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/SatNav.cpp" line="322"/>
+        <location filename="../../enroute/src/SatNav.cpp" line="329"/>
         <source>Unknown error</source>
         <translation>Unbekannter Fehler</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/SatNav.cpp" line="325"/>
+        <location filename="../../enroute/src/SatNav.cpp" line="332"/>
         <source>Waiting for signal</source>
         <translation>Warte auf Signal ...</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/SatNav.cpp" line="327"/>
+        <location filename="../../enroute/src/SatNav.cpp" line="334"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -1407,12 +1409,14 @@
 <context>
     <name>TooManyDownloadsDialog</name>
     <message>
+        <location filename="../../enroute/src/qml/dialogs/TooManyDownloadsDialog.qml" line="33"/>
         <source>Download anyways</source>
-        <translation type="vanished">Trotzdem laden</translation>
+        <translation>Trotzdem laden</translation>
     </message>
     <message>
+        <location filename="../../enroute/src/qml/dialogs/TooManyDownloadsDialog.qml" line="37"/>
         <source>Cancel</source>
-        <translation type="vanished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -1456,8 +1460,9 @@
         <translation>Zur Strecke hinzufügen</translation>
     </message>
     <message>
+        <location filename="../../enroute/src/qml/dialogs/WaypointDescription.qml" line="309"/>
         <source>Remove from route</source>
-        <translation type="vanished">Aus Strecke entfernen</translation>
+        <translation>Aus Strecke entfernen</translation>
     </message>
 </context>
 <context>
@@ -1478,9 +1483,13 @@
         <translation>Strecke</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="86"/>
         <source>Nearby Airfields</source>
-        <translation>Nächstgelegene Flugplätze</translation>
+        <translation type="vanished">Nächstgelegene Flugplätze</translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/main.qml" line="86"/>
+        <source>Nearby</source>
+        <translation type="unfinished">Nächstgelegene</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="106"/>
@@ -1519,13 +1528,13 @@
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="331"/>
+        <location filename="../../enroute/src/qml/main.qml" line="334"/>
         <source>Do you wish to exit Enroute?</source>
         <translatorcomment>groß/klein?</translatorcomment>
         <translation>Enroute verlassen?</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="346"/>
+        <location filename="../../enroute/src/qml/main.qml" line="349"/>
         <source>What&apos;s new …?</source>
         <translation>Was ist neu ...?</translation>
     </message>
