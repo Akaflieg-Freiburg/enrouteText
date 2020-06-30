@@ -1108,7 +1108,22 @@
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;h3&gt;Willkommen zu enroute Flugnavigation - einem Projekt der Akaflieg Freiburg&lt;/h3&gt;
+
+&lt;p&gt;Danke für die Benutzung dieser Navigations-App! Vor allem anderen müssen wir klarstellen, 
+dass &lt;strong&gt;diese App und die verwendeten Luftfahrtdaten ohne irgendwelche Garantie, Gewährleistung oder Haftung zur Verfügung gestellt werden&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Die App ist nicht Luftfahrt-zertifiziert und erfüllt keine Luftfahrt-Standards. Sie kann Fehler enthalten und evtl. anders arbeiten als erwartet.
+&lt;/p&gt;
+
+&lt;p&gt;Die Luftfahrtdaten stammen nicht aus offiziellen Quellen. Sie können unvollständig, veraltet oder anderweitig fehlerhaft sein.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Diese App ersetzt weder die vorgeschriebene Flugvorbereitung noch das erforderliche Können und Wissen als Pilot.&lt;/strong&gt; 
+Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt;
+
+&lt;p&gt;Fliegen Sie sicher! Viele &quot;happy landings&quot;!&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="126"/>
