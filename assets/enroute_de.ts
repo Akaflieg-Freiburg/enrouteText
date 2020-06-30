@@ -1013,6 +1013,17 @@
     </message>
 </context>
 <context>
+    <name>Librarian</name>
+    <message>
+        <location filename="../../enroute/src/Librarian.cpp" line="37"/>
+        <source>
+&lt;p&gt;In response to requests by our users, there is now an option to use metric
+units for horizontal distances and speeds.
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MFM</name>
     <message>
         <location filename="../../enroute/src/qml/items/MFM.qml" line="241"/>
@@ -1507,34 +1518,48 @@
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="144"/>
         <source>About Enroute</source>
         <translatorcomment>groß/klein?</translatorcomment>
-        <translation>Über enroute</translation>
+        <translation type="vanished">Über enroute</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="159"/>
+        <location filename="../../enroute/src/qml/main.qml" line="144"/>
+        <source>About this app</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/main.qml" line="161"/>
+        <source>App info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/main.qml" line="175"/>
         <source>Bug report</source>
         <translation>Fehler melden</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="174"/>
+        <location filename="../../enroute/src/qml/main.qml" line="189"/>
         <source>Participate</source>
         <translation>Mitmachen</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="196"/>
+        <location filename="../../enroute/src/qml/main.qml" line="205"/>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/main.qml" line="227"/>
         <source>Exit</source>
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="334"/>
+        <location filename="../../enroute/src/qml/main.qml" line="365"/>
         <source>Do you wish to exit Enroute?</source>
         <translatorcomment>groß/klein?</translatorcomment>
         <translation>Enroute verlassen?</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="349"/>
+        <location filename="../../enroute/src/qml/main.qml" line="380"/>
         <source>What&apos;s new …?</source>
         <translation>Was ist neu ...?</translation>
     </message>
