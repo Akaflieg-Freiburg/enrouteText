@@ -754,7 +754,7 @@
     <message>
         <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="47"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Autheurs</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="50"/>
@@ -844,7 +844,7 @@
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;L'app &lt;strong&gt;enroute navigation&lt;/strong&gt; est écrite par Stefan Kebekus, amateur pilote depuis 1986 et membre de l'aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
+      &lt;p&gt;L'application &lt;strong&gt;enroute navigation&lt;/strong&gt; est écrite par Stefan Kebekus, amateur pilote depuis 1986 et membre de l'aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
       &lt;h4&gt;Adresse&lt;/h4&gt;
       Stefan Kebekus&lt;br&gt;
       Wintererstraße 77&lt;br&gt;
@@ -862,6 +862,17 @@
       &lt;br&gt;
       &lt;h3&gt;Co-autheurs&lt;/h3&gt;
       &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Adrien Crovato est pilote privé et ingénieur en aérospatiale. Il a rejoint l'équipe en 2020 et contribue au code C++ and QML.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
@@ -890,6 +901,8 @@
 
 &lt;h3&gt;Traductions&lt;/h3&gt;
 
+&lt;p&gt;&lt;strong&gt;Français:&lt;/strong&gt; Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
+
 &lt;p&gt;Allemand: Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;E-Mail&lt;/a&gt;. Markus pilote des deltaplanes et est un &apos;co-pilote&apos; enthousiate sur tout autre type d'appareil.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 </translation>
@@ -903,7 +916,13 @@
 
 &lt;p&gt;Please report errors through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Signaler un bug&lt;/h3&gt;
+
+&lt;p&gt;Nous sommes soucieux de vous fournir une application de haute qualité. Notre priorité première est donc de corriger les bugs et nous vous remecions d'avance pour votre rapport.&lt;/p&gt;
+
+&lt;p&gt;Merci de soumettre vos rapports via &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub&lt;/a&gt;. Si vous n'avez pas de compte Github, vous pouvez &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contacter l'autheur&lt;/a&gt; directement.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="120"/>
@@ -922,7 +941,21 @@
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Bienvenue sur enroute navigation - Un projet de Akaflieg Freiburg&lt;/h3&gt;
+
+&lt;p&gt;Merci d'utiliser cette application de navigation ! Avant de commencer, nous insistons sur le fait que &lt;strong&gt;cette application et les données aéronautiques sont fournies sans garanties&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;L'application n'est pas certifiée et peut contenir des erreurs ou ne pas se comporter comme attendu.&lt;/p&gt;
+
+&lt;p&gt;Les données aéronautiques ne viennent pas de souces officielles. Elles peuvent donc être incomplètes, obselètes ou erronées.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cette application ne se substitue en aucun cas à une préparation de vol rigoureuse et à un bon pilotage.&lt;/strong&gt; Nous espérons que vous appécierez l'application et qu'elle vous sera utile.&lt;/p&gt;
+
+&lt;p&gt;Restez prudent et bons vols !&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="138"/>
@@ -935,7 +968,15 @@
 
 &lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Adrien Crovato et Heiner Tholen ont rejoint l'équipe de développement. Il est maintenant possible d'utiliser les &lt;strong&gt;unités métriques&lt;/strong&gt; pour les distances et vitesses horizontales, et la page &lt;strong&gt;A proximité&lt;/strong&gt; affiche plus d'informations.&lt;/p&gt;
+
+&lt;p&gt;Les cartes de l'&lt;strong&gt;Argentine&lt;/strong&gt; et du &lt;strong&gt;Brésil&lt;/strong&gt; ont été ajoutées. Nous continuerons à mettre ces cartes à jour de manière hebdomadaire.&lt;/p&gt;
+
+&lt;p&gt;Markus Sachs a traduit l'application en &lt;strong&gt;allemand&lt;/strong&gt;, et Adrien l'a traduite en &lt;strong&gt;français&lt;/strong&gt;. Si vous préférez l'anglais, rendez-vous sur la page &apos;Paramètres&apos; où une option de langue à été ajoutée.&lt;/p&gt;
+
+&lt;p&gt;Michael Horbaschk a documenté l'application au travers d'un &lt;strong&gt;manuel&lt;/strong&gt;.&lt;/p&gt;
+</translation>
     </message>
 </context>
 <context>
@@ -1433,12 +1474,12 @@
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="144"/>
         <source>About this app</source>
-        <translation type="unfinished"></translation>
+        <translation>A propos</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="161"/>
         <source>App info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informations</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="175"/>
@@ -1453,7 +1494,7 @@
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="205"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manuel</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="227"/>
