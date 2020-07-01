@@ -1167,7 +1167,16 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;h3&gt;Fehlende Berechtigungen&lt;/h3&gt;
+
+&lt;p&gt;Die App &lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; wird ohne einige wesentliche Berechtigungen nicht laufen. Bitte starten Sie dann die App neu und gewähren Sie die benötigten Berechtigungen. Wenn Sie auf Ihrem Gerät Berechtigungen dauerhaft verweigern sollten, müssten Sie die für enroute benötigten evtl. in den Android-Einstellungen gewähren.&lt;/p&gt;
+
+&lt;p&gt;Unsere &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/privacy#privileges-of-the-android-app&quot; title=&quot;privacy policies&quot;&gt;Privacy Policies&lt;/a&gt; erklären, warum diese Berechtigungen benötigt werden und wofür sie verwendet werden.&lt;/p&gt;
+
+&lt;p&gt;Fliegen Sie sicher! Viele &apos;happy landings&apos;!&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="162"/>
