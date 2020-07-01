@@ -1133,7 +1133,11 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 
 &lt;p&gt;Please report errors through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;h3&gt;Berichte über Fehler&lt;/h3&gt;
+
+&lt;p&gt;Unser Ziel ist, Software höchster Qualität zu liefern. Die Fehlerbehebung hat daher immer unsere erste Priorität. Wir sind für jede Meldung dankbar, die uns erreicht.&lt;/p&gt;
+
+&lt;p&gt;Bitte melden Sie Fehler am besten über den &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (das könnte ein GitHub-Konto erfordern). Wenn Sie das als schwierig empfinden, schreiben Sie gern direkt an &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;den Autor&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="120"/>
