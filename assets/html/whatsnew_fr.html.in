@@ -1,0 +1,16 @@
+<p>Cette version est une étape majeure pour nous. Beaucoup de choses ont changées 
+   dans le logiciel, même si ce n'est pas visible directement par l'utilisateur.</p>
+
+<p>En réponse aux demandes de nos utilisateurs, il est maintenant possible de 
+   sauvegarder les routes. Il est même possible de partager ces routes avec 
+   d'autres appareils en utilisant des programmes de synchronisation de fichiers.</p>
+
+<p>Johannes Zellner a rejoint l'équipe et a implémenté le code permettant de 
+   partager les routes avec d'autres applications. Vous pouvez également 
+   importer des routes au format GPX depuis d'autres logiciels, comme "fl95.de". 
+   Johannes a également implémenté une correction d'altitude, qui se base sur 
+   les différentes définitions du 'niveau de la mer' utilisées en aviation et 
+   en navigation satellite. Les corrections sont appliquées automatiquement et 
+   donnent une indication d'altitude plus précise.</p>
+
+<p>-- Stefan Kebekus.</p>

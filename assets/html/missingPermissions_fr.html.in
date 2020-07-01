@@ -1,0 +1,15 @@
+<h3>Autorisations manquantes</h3>
+
+<p>L'application <strong>enroute navigation</strong> ne peut pas démarrer car
+  certaines autorisations essentielles n'ont pas été accordées. Merci de redémarrer 
+  l'application et de donner ces autorisations. Si vous avez refusé des autorisations 
+  de manière permanente, vous devrez vous rendre dans les paramètres 
+  d'application de votre téléphone pour y accorder les autorisations.</p>
+
+<p>Notre <a href="https://akaflieg-freiburg.github.io/enroute/privacy#privileges-of-the-android-app"
+  title="privacy policies">politique de confidentialité</a> explique quelles 
+  autorisations sont nécessaires et pourquoi elles sont utilisées.</p>
+
+<p>Bon vol !</p>
+
+<p>&#8212; Stefan Kebekus.</p>

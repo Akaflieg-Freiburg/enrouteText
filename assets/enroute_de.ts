@@ -1190,6 +1190,21 @@
         <translation>Nächstgelegene</translation>
     </message>
     <message>
+        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="45"/>
+        <source>Airfield</source>
+        <translation>Flugplätzen</translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="48"/>
+        <source>Navigational aids</source>
+        <translation>Navigationshilfen</translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="51"/>
+        <source>Reporting points</source>
+        <translation>Meldepunktes</translation>
+    </message>
+    <message>
         <location filename="../../enroute/src/qml/pages/Nearby.qml" line="109"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Daten verfügbar. Bitte installieren Sie eine Luftfahrtkarte.&lt;/p&gt;</translation>
