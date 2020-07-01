@@ -1,7 +1,0 @@
-<p>Die Flugstrecken werden im <a href="https://geojson.org">GeoJson-Standardformat</a> im folgenden Verzeichnis gespeichert:<p>
-
-<p><strong><a href="file:%1">%1</a></strong></p>
-
-<p>Auf die Flugstrecken kann auch mit anderen Programmen zugegriffen werden, 
-wie etwa Backup-Software oder Apps zur Datei-Synchronisation. 
-Dadurch können die Flugstrecken bei Bedarf auf andere Geräte übertragen werden.</p>
