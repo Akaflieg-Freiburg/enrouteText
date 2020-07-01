@@ -1018,6 +1018,7 @@
 <context>
     <name>Librarian</name>
     <message>
+        <location filename="../../enroute/src/Librarian.cpp" line="120"/>
         <source>
 &lt;h3&gt;Welcome to enroute flight navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
@@ -1033,7 +1034,7 @@
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;
 </source>
-        <translation type="obsolete">&lt;h3&gt;Willkommen zu enroute Flugnavigation - einem Projekt der Akaflieg Freiburg&lt;/h3&gt;
+        <translation type="unfinished">&lt;h3&gt;Willkommen zu enroute Flugnavigation - einem Projekt der Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Danke für die Benutzung dieser Navigations-App! Vor allem anderen müssen wir klarstellen, 
 dass &lt;strong&gt;diese App und die verwendeten Luftfahrtdaten ohne irgendwelche Garantie, Gewährleistung oder Haftung zur Verfügung gestellt werden&lt;/strong&gt;.&lt;/p&gt;
@@ -1140,13 +1141,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 &lt;p&gt;Bitte melden Sie Fehler am besten über den &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (das könnte ein GitHub-Konto erfordern). Wenn Sie das als schwierig empfinden, schreiben Sie gern direkt an &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;den Autor&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Librarian.cpp" line="120"/>
-        <source>
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/Librarian.cpp" line="125"/>
+        <location filename="../../enroute/src/Librarian.cpp" line="138"/>
         <source>
 &lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded.&lt;/p&gt;
 
