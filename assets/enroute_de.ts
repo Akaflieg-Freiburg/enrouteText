@@ -887,8 +887,12 @@
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="47"/>
+        <source>Authors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Author</source>
-        <translation>Autor</translation>
+        <translation type="vanished">Autor</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="50"/>
@@ -896,7 +900,6 @@
         <translation>Lizenz</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="101"/>
         <source>
 &lt;h3&gt;Authors&lt;/h3&gt;
 
@@ -954,7 +957,7 @@
 &lt;p&gt;German: Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;E-Mail&lt;/a&gt;. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h3&gt;Autoren&lt;/h3&gt;
 
 &lt;br&gt;
@@ -1010,6 +1013,145 @@
 &lt;p&gt;Deutsch: Markus Sachs, &lt;a href=&quot;mailto:ms@squawk-vfr.de&quot;&gt;E-Mail&lt;/a&gt;. Markus ist Trike-Pilot. Auf allem anderen, was fliegt, ist er begeisterter Mit-Flieger.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 </translation>
+    </message>
+</context>
+<context>
+    <name>Librarian</name>
+    <message>
+        <location filename="../../enroute/src/Librarian.cpp" line="120"/>
+        <source>
+&lt;h3&gt;Welcome to enroute flight navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
+
+&lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The app is not certified to satisfy aviation standards. It may contain errors and may not work as expected.&lt;/p&gt;
+
+&lt;p&gt;The aviation data does not come from official sources. It might be incomplete, outdated or otherwise incorrect.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This app is no substitute for proper flight preparation or good pilotage.&lt;/strong&gt; We hope you enjoy the app and that you do find it useful.&lt;/p&gt;
+
+&lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;
+</source>
+        <translation type="unfinished">&lt;h3&gt;Willkommen zu enroute Flugnavigation - einem Projekt der Akaflieg Freiburg&lt;/h3&gt;
+
+&lt;p&gt;Danke für die Benutzung dieser Navigations-App! Vor allem anderen müssen wir klarstellen, 
+dass &lt;strong&gt;diese App und die verwendeten Luftfahrtdaten ohne irgendwelche Garantie, Gewährleistung oder Haftung zur Verfügung gestellt werden&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Die App ist nicht Luftfahrt-zertifiziert und erfüllt keine Luftfahrt-Standards. Sie kann Fehler enthalten und evtl. anders arbeiten als erwartet.
+&lt;/p&gt;
+
+&lt;p&gt;Die Luftfahrtdaten stammen nicht aus offiziellen Quellen. Sie können unvollständig, veraltet oder anderweitig fehlerhaft sein.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Diese App ersetzt weder die vorgeschriebene Flugvorbereitung noch das erforderliche Können und Wissen als Pilot.&lt;/strong&gt; 
+Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt;
+
+&lt;p&gt;Fliegen Sie sicher! Viele &quot;happy landings&quot;!&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/Librarian.cpp" line="37"/>
+        <source>
+&lt;h3&gt;Authors&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;The app &lt;strong&gt;enroute flight navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
+      &lt;h4&gt;Address&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstraße 77&lt;br&gt;
+      79104 Freiburg&lt;br&gt;
+      Germany&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Pic: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;br&gt;
+      &lt;h3&gt;Contributing Authors&lt;/h3&gt;
+      &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Adrien Crovato is a private pilot and aerospace engineer. He joined the development team in 2020, and contributes to the C++ and QML code base.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses enroute as a pilot of ultralight planes. Heiner joined the enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
+     &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Johannes Zellner joined the development in 2020.  He contributes to the C++ and QML code base of the app and helps with bug fixing.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;Translations&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;e-mail&lt;/a&gt;. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/Librarian.cpp" line="110"/>
+        <source>
+&lt;h3&gt;Bug Report&lt;/h3&gt;
+
+&lt;p&gt;We aim to provide very high-quality software. Fixing errors is therefore always our first priority. We are grateful for every report that we get.&lt;/p&gt;
+
+&lt;p&gt;Please report errors through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.&lt;/p&gt;
+</source>
+        <translation type="unfinished">&lt;h3&gt;Berichte über Fehler&lt;/h3&gt;
+
+&lt;p&gt;Unser Ziel ist, Software höchster Qualität zu liefern. Die Fehlerbehebung hat daher immer unsere erste Priorität. Wir sind für jede Meldung dankbar, die uns erreicht.&lt;/p&gt;
+
+&lt;p&gt;Bitte melden Sie Fehler am besten über den &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (das könnte ein GitHub-Konto erfordern). Wenn Sie das als schwierig empfinden, schreiben Sie gern direkt an &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;den Autor&lt;/a&gt;.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/Librarian.cpp" line="138"/>
+        <source>
+&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded.&lt;/p&gt;
+
+&lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
+
+&lt;p&gt;Markus Sachs has translated the app to &lt;strong&gt;German&lt;/strong&gt;.  If you prefer English, go to the &apos;Settings&apos; page where a language option has been added.&lt;/p&gt;
+
+&lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;
+</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1522,34 +1664,48 @@
         <translation>Einstellungen</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="144"/>
         <source>About Enroute</source>
         <translatorcomment>groß/klein?</translatorcomment>
-        <translation>Über enroute</translation>
+        <translation type="vanished">Über enroute</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="159"/>
+        <location filename="../../enroute/src/qml/main.qml" line="144"/>
+        <source>About this app</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/main.qml" line="161"/>
+        <source>App info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/main.qml" line="175"/>
         <source>Bug report</source>
         <translation>Fehler melden</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="174"/>
+        <location filename="../../enroute/src/qml/main.qml" line="189"/>
         <source>Participate</source>
         <translation>Mitmachen</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="196"/>
+        <location filename="../../enroute/src/qml/main.qml" line="205"/>
+        <source>Manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/qml/main.qml" line="227"/>
         <source>Exit</source>
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="334"/>
+        <location filename="../../enroute/src/qml/main.qml" line="365"/>
         <source>Do you wish to exit Enroute?</source>
         <translatorcomment>groß/klein?</translatorcomment>
         <translation>Enroute verlassen?</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/main.qml" line="349"/>
+        <location filename="../../enroute/src/qml/main.qml" line="380"/>
         <source>What&apos;s new …?</source>
         <translation>Was ist neu ...?</translation>
     </message>
