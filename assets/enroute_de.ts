@@ -296,7 +296,7 @@
     <message>
         <location filename="../../enroute/src/FlightRoute.cpp" line="239"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann nicht in Datei &apos;%1&apos; schreiben.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/FlightRoute.cpp" line="276"/>
@@ -432,12 +432,12 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="217"/>
         <source>… to GeoJson file</source>
-        <translation type="unfinished"></translation>
+        <translation>… als GeoJson-Datei</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="232"/>
         <source>… to GPX file</source>
-        <translation type="unfinished"></translation>
+        <translation>… als GPX-Datei</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="248"/>
@@ -447,12 +447,12 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="252"/>
         <source>… in GeoJson format</source>
-        <translation type="unfinished"></translation>
+        <translation>... im GeoJson-Format</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="269"/>
         <source>… in GPX format</source>
-        <translation type="unfinished"></translation>
+        <translation>... im GPX-Format</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="290"/>
@@ -477,7 +477,7 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="350"/>
         <source>&lt;h2&gt;Empty Route&lt;/h2&gt;&lt;p&gt;Use the button &apos;Add Waypoint&apos; below.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h2&gt;Keine Strecke definiert&lt;/h2&gt;&lt;p&gt;Drücken Sie &apos;Wegpunkt hinzufügen&apos; unten.&lt;/p&gt;</translation>
+        <translation>&lt;h2&gt;Keine Strecke definiert&lt;/h2&gt;&lt;p&gt;Drücken Sie &apos;Wegpunkt hinzufügen&apos; unten.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="381"/>
@@ -589,27 +589,27 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="80"/>
         <source>Info …</source>
-        <translation type="unfinished"></translation>
+        <translation>Info …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="89"/>
         <source>Import …</source>
-        <translation type="unfinished">Importieren …</translation>
+        <translation>Importieren …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="165"/>
         <source>Export …</source>
-        <translation type="unfinished">Exportieren …</translation>
+        <translation>Exportieren …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="168"/>
         <source>… to GeoJson file</source>
-        <translation type="unfinished"></translation>
+        <translation>… als GeoJson-Datei</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="185"/>
         <source>… to GPX file</source>
-        <translation type="unfinished"></translation>
+        <translation>… als GPX-Datei</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="244"/>
@@ -644,38 +644,38 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="400"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="unfinished">Die Strecke &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Strecke. Diese kann dann NICHT mehr wiederhergestellt werden.</translation>
+        <translation>Die Strecke &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Strecke. Diese kann dann nicht mehr wiederhergestellt werden.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="430"/>
         <source>Remove from device?</source>
-        <translation type="unfinished">Vom Gerät löschen?</translation>
+        <translation>Vom Gerät löschen?</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="440"/>
         <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation type="unfinished">Die Strecke &lt;strong&gt;%1&lt;/strong&gt; kann nach dem Löschen nicht wiederhergestellt werden.</translation>
+        <translation>Die Strecke &lt;strong&gt;%1&lt;/strong&gt; kann nach dem Löschen nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="471"/>
         <source>Rename Flight Route</source>
-        <translation type="unfinished">Flugstrecke umbenennen</translation>
+        <translation>Flugstrecke umbenennen</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="489"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translatorcomment>evtl. kürzer: Geben Sie für &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translatorcomment>
-        <translation type="unfinished">Geben Sie für die Strecke &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translation>
+        <translation>Geben Sie für die Strecke &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="515"/>
         <source>Rename</source>
-        <translation type="unfinished">Umbenennen</translation>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="545"/>
         <source>Error exporting data…</source>
-        <translation type="unfinished">Fehler beim Exportieren der Daten…</translation>
+        <translation>Fehler beim Exportieren der Daten…</translation>
     </message>
 </context>
 <context>
@@ -683,27 +683,27 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="30"/>
         <source>Load Flight Route from Library…</source>
-        <translation type="unfinished">Flugstrecke laden ...</translation>
+        <translation>Flugstrecke aus Bibliothek laden ...</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="72"/>
         <source>Choose a flight route from the list below.</source>
-        <translation type="unfinished">Flugstrecke aus der Liste unten auswählen.</translation>
+        <translation>Flugstrecke aus der Liste unten auswählen.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="151"/>
         <source>An error occurred…</source>
-        <translation type="unfinished">Fehler aufgetreten ...</translation>
+        <translation>Fehler aufgetreten ...</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="198"/>
         <source>Overwrite current flight route?</source>
-        <translation type="unfinished">Aktuelle Flugstrecke überschreiben?</translation>
+        <translation>Aktuelle Flugstrecke überschreiben?</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="208"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="unfinished">Die Strecke &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Strecke. Diese kann dann nicht wiederhergestellt werden.</translation>
+        <translation>Die Strecke &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Strecke. Diese kann dann nicht wiederhergestellt werden.</translation>
     </message>
 </context>
 <context>
@@ -834,27 +834,27 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="30"/>
         <source>Save Flight Route…</source>
-        <translation type="unfinished">Flugstrecke speichern ...</translation>
+        <translation>Flugstrecke speichern ...</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="71"/>
         <source>Enter a file name or choose an existing name from the list below.</source>
-        <translation type="unfinished">Dateinamen eingeben oder vorhandenen aus der Liste unten wählen</translation>
+        <translation>Dateinamen eingeben oder vorhandenen Namen aus der Liste unten wählen.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="156"/>
         <source>An error occurred…</source>
-        <translation type="unfinished">Es ist ein Fehler aufgetreten ...</translation>
+        <translation>Es ist ein Fehler aufgetreten ...</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="208"/>
         <source>Overwrite file?</source>
-        <translation type="unfinished">Datei überschreiben?</translation>
+        <translation>Datei überschreiben?</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="215"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
-        <translation type="unfinished">Die Datei &lt;strong&gt;%1&lt;/strong&gt; existiert schon. Überschreiben?</translation>
+        <translation>Die Datei &lt;strong&gt;%1&lt;/strong&gt; existiert schon. Überschreiben?</translation>
     </message>
 </context>
 <context>
@@ -862,22 +862,22 @@
     <message>
         <location filename="../../enroute/src/qml/items/ImportManager.qml" line="41"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; could not be recognized.</source>
-        <translation type="unfinished">Datei &lt;strong&gt;%1&lt;/strong&gt;: Unbekannter Dateityp.</translation>
+        <translation>Datei &lt;strong&gt;%1&lt;/strong&gt;: Unbekannter Dateityp.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/items/ImportManager.qml" line="60"/>
         <source>Import Flight Route?</source>
-        <translation type="unfinished">Flugstrecke importieren?</translation>
+        <translation>Flugstrecke importieren?</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/items/ImportManager.qml" line="72"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="unfinished">Dies überschreibt die aktuelle Strecke. Sie kann danach nicht wiederhergestellt werden.</translation>
+        <translation>Dies überschreibt die aktuelle Strecke. Sie kann danach nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/items/ImportManager.qml" line="117"/>
         <source>Error importing flight route</source>
-        <translation type="unfinished">Fehler beim Import der Flugstrecke</translation>
+        <translation>Fehler beim Import der Flugstrecke</translation>
     </message>
 </context>
 <context>
