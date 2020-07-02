@@ -1,8 +1,0 @@
-<p>Les routes sont sauvegardées au format standard
-   <a href="https://geojson.org">GeoJson</a> dans le répertoire suivant :<p>
-
-<p><strong><a href="file:%1">%1</a></strong></p>
-
-<p>Les routes sont accessibles via d'autres programmes, comme des applications 
-   de sauvegarde ou de transfert, et peuvent être partagées avec d'autres
-   appareils.</p>
