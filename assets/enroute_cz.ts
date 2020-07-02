@@ -1159,21 +1159,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="45"/>
-        <source>Airfield</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="48"/>
-        <source>Navigational aids</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="51"/>
-        <source>Reporting points</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../enroute/src/qml/pages/Nearby.qml" line="109"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>

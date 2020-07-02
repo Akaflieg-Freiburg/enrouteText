@@ -2,16 +2,39 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="fr_FR">
 <context>
+    <name>A proximité</name>
+    <message>
+        <source>Nearby</source>
+        <translation type="vanished">A proximité</translation>
+    </message>
+    <message>
+        <source>Airfield</source>
+        <translation type="vanished">Aérodromes</translation>
+    </message>
+    <message>
+        <source>Navigational aids</source>
+        <translation type="vanished">Balises</translation>
+    </message>
+    <message>
+        <source>Reporting points</source>
+        <translation type="vanished">Points de report</translation>
+    </message>
+    <message>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune donnée disponible. Merci de vous assurer qu&apos;une carté aéronautique est installée.&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
     <name>AltitudeCorrectionDialog</name>
     <message>
         <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="30"/>
         <source>Set Altimeter</source>
-        <translation>Régler l'altimètre</translation>
+        <translation>Régler l&apos;altimètre</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="52"/>
         <source>If you have good satellite reception and if know your altitude precisely, you can set the satellite altimeter here.</source>
-        <translation>Vous pouvez régler l'altimètre si la réception satellite est bonne et si vous connaissez votre altitude avec précision.</translation>
+        <translation>Vous pouvez régler l&apos;altimètre si la réception satellite est bonne et si vous connaissez votre altitude avec précision.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="62"/>
@@ -26,17 +49,17 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="84"/>
         <source>The current raw altimeter reading as reported by the satellite navigation system is %1 AMSL. The corrected altitude is %2 AMSL.</source>
-        <translation>L'altitude donnée par le système de navigation satellite est de %1 AMSL. L'altitude corrigée est de %2 AMSL.</translation>
+        <translation>L&apos;altitude donnée par le système de navigation satellite est de %1 AMSL. L&apos;altitude corrigée est de %2 AMSL.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="86"/>
         <source>Insufficient satellite reception. Altimeter cannot be set.</source>
-        <translation>Réception satellite insuffisante. L'altimètre ne peut être réglé.</translation>
+        <translation>Réception satellite insuffisante. L&apos;altimètre ne peut être réglé.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="155"/>
         <source>Altimeter cannot be set</source>
-        <translation>L'altimètre ne peut être réglé</translation>
+        <translation>L&apos;altimètre ne peut être réglé</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="158"/>
@@ -51,7 +74,7 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/AltitudeCorrectionDialog.qml" line="186"/>
         <source>The altitude reported by the satellite navigation system is %1 AMSL. That is a big difference.</source>
-        <translation>L'altitude donnée par le système de navigation satellite est de %1 AMSL. C'est une grande différence.</translation>
+        <translation>L&apos;altitude donnée par le système de navigation satellite est de %1 AMSL. C&apos;est une grande différence.</translation>
     </message>
 </context>
 <context>
@@ -97,7 +120,7 @@
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="287"/>
         <source>the remote server refused the connection (the server is not accepting requests)</source>
-        <translation>la connexion a été refusée par le serveur (le serveur n'accèpte pas les requêtes)</translation>
+        <translation>la connexion a été refusée par le serveur (le serveur n&apos;accèpte pas les requêtes)</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="291"/>
@@ -107,22 +130,22 @@
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="296"/>
         <source>the remote host name was not found (invalid hostname)</source>
-        <translation>le nom de l'hôte n'a pas été trouvée (nom invalide)</translation>
+        <translation>le nom de l&apos;hôte n&apos;a pas été trouvée (nom invalide)</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="300"/>
         <source>the connection to the remote server timed out</source>
-        <translation>le délai d'attente de la connexion au serveur a été dépassé</translation>
+        <translation>le délai d&apos;attente de la connexion au serveur a été dépassé</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="305"/>
         <source>the operation was canceled via calls to abort() or close() before it was finished</source>
-        <translation>l'opération a été annulée par un appel aux méthodes abort() ou close() avant d'être terminée</translation>
+        <translation>l&apos;opération a été annulée par un appel aux méthodes abort() ou close() avant d&apos;être terminée</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="309"/>
         <source>the SSL/TLS handshake failed and the encrypted channel could not be established. The sslErrors() signal should have been emitted</source>
-        <translation>un canal sécurisé n'a pas pu être établi car la négociaton SSL/TLS a échouée. Un signal sslErrors() devrait avoir été émis</translation>
+        <translation>un canal sécurisé n&apos;a pas pu être établi car la négociaton SSL/TLS a échouée. Un signal sslErrors() devrait avoir été émis</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="314"/>
@@ -132,7 +155,7 @@
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="318"/>
         <source>the connection was broken due to disconnection from the network or failure to start the network</source>
-        <translation>la connexion a été interrompue car vous avez été déconnecté du réseau ou le réseau n'a pas pu s'initialiser</translation>
+        <translation>la connexion a été interrompue car vous avez été déconnecté du réseau ou le réseau n&apos;a pas pu s&apos;initialiser</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="323"/>
@@ -147,12 +170,12 @@
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="331"/>
         <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
-        <translation>l'API du réseau a détecté une redirection vers un protocol non crypté (http) à partir d'un protocal crypté (https)</translation>
+        <translation>l&apos;API du réseau a détecté une redirection vers un protocol non crypté (http) à partir d&apos;un protocal crypté (https)</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="336"/>
         <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
-        <translation>la connexion au serveur proxy a été refusée (le serveur proxy n'accepte pas de requêtes)</translation>
+        <translation>la connexion au serveur proxy a été refusée (le serveur proxy n&apos;accepte pas de requêtes)</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="341"/>
@@ -162,77 +185,77 @@
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="346"/>
         <source>the proxy host name was not found (invalid proxy hostname)</source>
-        <translation>le nom de l'hôte du proxy n'a pas été trouvée (nom du proxy invalide)</translation>
+        <translation>le nom de l&apos;hôte du proxy n&apos;a pas été trouvée (nom du proxy invalide)</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="350"/>
         <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
-        <translation>le délai d'attente de la connexion au serveur proxy a été dépassé ou le proxy n'a pas répondu dans les temps</translation>
+        <translation>le délai d&apos;attente de la connexion au serveur proxy a été dépassé ou le proxy n&apos;a pas répondu dans les temps</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="355"/>
         <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
-        <translation>une authentification est requise par le serveur proxy, mais il n'a accepté aucun des identifiants fournis (s'il y en avait)</translation>
+        <translation>une authentification est requise par le serveur proxy, mais il n&apos;a accepté aucun des identifiants fournis (s&apos;il y en avait)</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="360"/>
         <source>the access to the remote content was denied (similar to HTTP error 403)</source>
-        <translation>l'accès au contenu distant a été refusé (similaire à l'erreur HTTP 403)</translation>
+        <translation>l&apos;accès au contenu distant a été refusé (similaire à l&apos;erreur HTTP 403)</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="364"/>
         <source>the operation requested on the remote content is not permitted</source>
-        <translation>l'opération demandée sur le contenu distant n'est pas autorisée</translation>
+        <translation>l&apos;opération demandée sur le contenu distant n&apos;est pas autorisée</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="368"/>
         <source>the remote content was not found at the server (similar to HTTP error 404)</source>
-        <translation>le contenu distant n'a pas été trouvé sur le serveur (similaire à l'erreur HTTP 404)</translation>
+        <translation>le contenu distant n&apos;a pas été trouvé sur le serveur (similaire à l&apos;erreur HTTP 404)</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="372"/>
         <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
-        <translation>une authentification est requise par le serveur pour distribuer le contenu, mais il n'a accepté aucun des identifiants fournis (s'il y en avait)</translation>
+        <translation>une authentification est requise par le serveur pour distribuer le contenu, mais il n&apos;a accepté aucun des identifiants fournis (s&apos;il y en avait)</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="377"/>
         <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
-        <translation>la requête devait être réenvoyée, mais cela a échoué, par exemple parce que les données envoyées n'ont pas pu être relues</translation>
+        <translation>la requête devait être réenvoyée, mais cela a échoué, par exemple parce que les données envoyées n&apos;ont pas pu être relues</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="382"/>
         <source>the request could not be completed due to a conflict with the current state of the resource</source>
-        <translation>la requête n'a pas être traitée à cause d'un conflit avec l'état de la ressource</translation>
+        <translation>la requête n&apos;a pas être traitée à cause d&apos;un conflit avec l&apos;état de la ressource</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="387"/>
         <source>the requested resource is no longer available at the server</source>
-        <translation>la ressource demandée n'est plus disponible sur le serveur</translation>
+        <translation>la ressource demandée n&apos;est plus disponible sur le serveur</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="391"/>
         <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
-        <translation>une condition innatendue a été rencontré par le serveur et il n'a pas traiter la requête</translation>
+        <translation>une condition innatendue a été rencontré par le serveur et il n&apos;a pas traiter la requête</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="397"/>
         <source>the server does not support the functionality required to fulfill the request</source>
-        <translation>la fonctionnalité requise pour traiter la requête n'est pas supportée par le serveur</translation>
+        <translation>la fonctionnalité requise pour traiter la requête n&apos;est pas supportée par le serveur</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="401"/>
         <source>the server is unable to handle the request at this time</source>
-        <translation>le serveur n'est actuellement pas disponible pour traiter la requête</translation>
+        <translation>le serveur n&apos;est actuellement pas disponible pour traiter la requête</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="406"/>
         <source>the Network Access API cannot honor the request because the protocol is not known</source>
-        <translation>l'API réseau ne peut pas traiter la requête car le protocol est inconnu</translation>
+        <translation>l&apos;API réseau ne peut pas traiter la requête car le protocol est inconnu</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="410"/>
         <source>the requested operation is invalid for this protocol</source>
-        <translation>l'opération demandée est invalide pour ce protocol</translation>
+        <translation>l&apos;opération demandée est invalide pour ce protocol</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Downloadable.cpp" line="414"/>
@@ -286,9 +309,13 @@
         <translation>Ouverture du fichier &apos;%1&apos; pour écriture impossible.</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/FlightRoute.cpp" line="239"/>
         <source>Unable to write to file &apos;%1&apos; for writing.</source>
-        <translation>Ecriture du fichier &apos;%1&apos; impossible.</translation>
+        <translation type="vanished">Ecriture du fichier &apos;%1&apos; impossible.</translation>
+    </message>
+    <message>
+        <location filename="../../enroute/src/FlightRoute.cpp" line="239"/>
+        <source>Unable to write to file &apos;%1&apos;.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../enroute/src/FlightRoute.cpp" line="276"/>
@@ -338,12 +365,12 @@
     <message>
         <location filename="../../enroute/src/FlightRoute_GPX.cpp" line="146"/>
         <source>Error opening file &apos;%1&apos;</source>
-        <translation>Erreur lors du l'ouverture du fichier &apos;%1&apos;</translation>
+        <translation>Erreur lors du l&apos;ouverture du fichier &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../enroute/src/FlightRoute_GPX.cpp" line="282"/>
         <source>Error interpreting GPX file: no valid route found.</source>
-        <translation>Erreur lors de l'interprétation du fichier GPX: pas de route valide.</translation>
+        <translation>Erreur lors de l&apos;interprétation du fichier GPX: pas de route valide.</translation>
     </message>
 </context>
 <context>
@@ -366,7 +393,7 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteAddWPDialog.qml" line="113"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant n'a été trouvé. Assurez-vous qu'une carte aéronautique a été installée.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant n&apos;a été trouvé. Assurez-vous qu&apos;une carte aéronautique a été installée.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteAddWPDialog.qml" line="114"/>
@@ -538,7 +565,7 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="635"/>
         <source>Error exporting data…</source>
-        <translation>Erreur lors de l'exportation des données…</translation>
+        <translation>Erreur lors de l&apos;exportation des données…</translation>
     </message>
 </context>
 <context>
@@ -622,7 +649,7 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="334"/>
         <source>An error occurred…</source>
-        <translation>Une erreur s'est produite…</translation>
+        <translation>Une erreur s&apos;est produite…</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="390"/>
@@ -637,7 +664,7 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="430"/>
         <source>Remove from device?</source>
-        <translation>Effacer de l'appareil ?</translation>
+        <translation>Effacer de l&apos;appareil ?</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="440"/>
@@ -662,7 +689,7 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="545"/>
         <source>Error exporting data…</source>
-        <translation>Erreur lors de l'exportation des données…</translation>
+        <translation>Erreur lors de l&apos;exportation des données…</translation>
     </message>
 </context>
 <context>
@@ -680,7 +707,7 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="151"/>
         <source>An error occurred…</source>
-        <translation>Une erreur s'est produite…</translation>
+        <translation>Une erreur s&apos;est produite…</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="198"/>
@@ -708,7 +735,7 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="156"/>
         <source>An error occurred…</source>
-        <translation>Une erreur s'est produite…</translation>
+        <translation>Une erreur s&apos;est produite…</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="208"/>
@@ -718,7 +745,7 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="215"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
-        <translation>Le fichier &lt;strong&gt;%1&lt;/strong&gt; existe déjà dans la bibliothèque. Voulez-vous l'écraser ?</translation>
+        <translation>Le fichier &lt;strong&gt;%1&lt;/strong&gt; existe déjà dans la bibliothèque. Voulez-vous l&apos;écraser ?</translation>
     </message>
 </context>
 <context>
@@ -726,7 +753,7 @@
     <message>
         <location filename="../../enroute/src/qml/items/ImportManager.qml" line="41"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; could not be recognized.</source>
-        <translation>Le type du fichier &lt;strong&gt;%1&lt;/strong&gt; n'est pas reconnu.</translation>
+        <translation>Le type du fichier &lt;strong&gt;%1&lt;/strong&gt; n&apos;est pas reconnu.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/items/ImportManager.qml" line="60"/>
@@ -741,7 +768,7 @@
     <message>
         <location filename="../../enroute/src/qml/items/ImportManager.qml" line="117"/>
         <source>Error importing flight route</source>
-        <translation>Erreur lors de l'importation de la route</translation>
+        <translation>Erreur lors de l&apos;importation de la route</translation>
     </message>
 </context>
 <context>
@@ -749,7 +776,7 @@
     <message>
         <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="30"/>
         <source>About Enroute</source>
-        <translation>A propos d'Enroute</translation>
+        <translation>A propos d&apos;Enroute</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="47"/>
@@ -793,21 +820,21 @@
         <translation>
 &lt;h3&gt;enroute navigation ${PROJECT_VERSION}&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;enroute navigation&lt;/strong&gt; est une application de navigation VFR gratuite dévelopée en tant que projet de l'aéroclub Akaflieg Freiburg.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;enroute navigation&lt;/strong&gt; est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Simple, élégante et fonctionnelle&lt;/li&gt;
   &lt;li&gt;Pas de publicité, ni de version &quot;pro&quot; commerciale&lt;/li&gt;
-  &lt;li&gt;Pas d'enregistremment, ni de compte requis&lt;/li&gt;
+  &lt;li&gt;Pas d&apos;enregistremment, ni de compte requis&lt;/li&gt;
   &lt;li&gt;Ne vous espionne pas&lt;/li&gt;
   &lt;li&gt;100% Open Source, écrite sans intérêt commercial&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Rendez-vous sur le &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;site web&lt;/a&gt; pour plus d'informations.&lt;/p&gt;
+&lt;p&gt;Rendez-vous sur le &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;site web&lt;/a&gt; pour plus d&apos;informations.&lt;/p&gt;
 
 &lt;h3&gt;Sponsor académique&lt;/h3&gt;
       
-&lt;p&gt;L'autheur remercie son sponsor académique, l'&lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Université de Freiburg&lt;/a&gt;. L'Université fournit l'infrastructure nécessaire pour générer les cartes et les distribuer.&lt;/p&gt;
+&lt;p&gt;L&apos;autheur remercie son sponsor académique, l&apos;&lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Université de Freiburg&lt;/a&gt;. L&apos;Université fournit l&apos;infrastructure nécessaire pour générer les cartes et les distribuer.&lt;/p&gt;
 
 &lt;h3&gt;Remerciements&lt;/h3&gt;
 
@@ -840,13 +867,13 @@
 &lt;p&gt;Ce logiciel est licensié sous la &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; ou tout autre version plus récente de la même license.&lt;/p&gt;
 
 
-&lt;h4&gt;Autres logiciels et données inclus dans l'application&lt;/h4&gt;
+&lt;h4&gt;Autres logiciels et données inclus dans l&apos;application&lt;/h4&gt;
 
 &lt;p&gt;Ce programme inclut plusieurs bibliothèques du projet &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt;, licensié sous la license &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, licensiée sous la &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;license MIT&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, licensiée sous la license &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Ce programme inclut plusieurs versions des polices &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;Google Roboto Fonts&lt;/a&gt;, licensiées sous la license &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt;. Ce programme inclut plusieurs icônes &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;Google Material Design Icons&lt;/a&gt;, licensées sous la &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Le style des fonds de carte est basé sur une version modifiée du style &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, lui-même dérivé du OSM Bright de Mapbox Open Styles. Le code est licencié sous la license &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. Le design provient (même s'il a été largement modifié) du OSM Bright from Mapbox Open Styles, licensié sous la license &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. Les données affichées sur la carte proviennent de &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; sous la license &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
+&lt;p&gt;Le style des fonds de carte est basé sur une version modifiée du style &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, lui-même dérivé du OSM Bright de Mapbox Open Styles. Le code est licencié sous la license &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. Le design provient (même s&apos;il a été largement modifié) du OSM Bright from Mapbox Open Styles, licensié sous la license &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. Les données affichées sur la carte proviennent de &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; sous la license &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
 
 &lt;p&gt;Les données aéronautiques proviennent de &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, et sont licensiées sous la license &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. Certaines données et cartes proviennent également de &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, et sont licensiées sous la license &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;
 </translation>
@@ -868,13 +895,13 @@
         <translation>
 &lt;h3&gt;Suggérer des améliorations ou des nouvelles fonctionalités&lt;/h3&gt;
 
-&lt;p&gt;Nous developpons activement &lt;strong&gt;enroute navigation&lt;/strong&gt;, notre &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;page de projet GitHub&lt;/a&gt; donne une vue d'ensemble sur nos futurs projets. Si vous avez d'autres suggestions, n'hésitez pas à ouvrir une &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;issue GitHub&lt;/a&gt;. Si vous ne possédez pas un compte GitHub, vous pouvez &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contacter l'autheur&lt;/a&gt; directement. Toutes vos suggestions ne pourront sans doute pas être implémentées dans l'immédiat. Nous vous remercions pour votre compréhension.&lt;/p&gt;
+&lt;p&gt;Nous developpons activement &lt;strong&gt;enroute navigation&lt;/strong&gt;, notre &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;page de projet GitHub&lt;/a&gt; donne une vue d&apos;ensemble sur nos futurs projets. Si vous avez d&apos;autres suggestions, n&apos;hésitez pas à ouvrir une &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;issue GitHub&lt;/a&gt;. Si vous ne possédez pas un compte GitHub, vous pouvez &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contacter l&apos;autheur&lt;/a&gt; directement. Toutes vos suggestions ne pourront sans doute pas être implémentées dans l&apos;immédiat. Nous vous remercions pour votre compréhension.&lt;/p&gt;
 
 &lt;h3&gt;Rejoindre le projet&lt;/h3&gt;
 
-&lt;p&gt;Si vous souhaitez &lt;strong&gt;traduire l'application dans votre langue&lt;/strong&gt;, n'hésitez pas à &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;nous contacter&lt;/a&gt;. Une expérience de programmeur n'est pas nécessaire, mais des compétences en informatique sont requises.&lt;/p&gt;
+&lt;p&gt;Si vous souhaitez &lt;strong&gt;traduire l&apos;application dans votre langue&lt;/strong&gt;, n&apos;hésitez pas à &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;nous contacter&lt;/a&gt;. Une expérience de programmeur n&apos;est pas nécessaire, mais des compétences en informatique sont requises.&lt;/p&gt;
 
-&lt;p&gt;Cette application devrait fonctionner sur les &lt;strong&gt;appareils Apple&lt;/strong&gt;. Si vous voulez porter cette application vers iOS et si vous avez de l'expérience en programmation C++/Qt et avec les sytèmes d'Apple, &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contactez-nous&lt;/a&gt; !&lt;/p&gt;
+&lt;p&gt;Cette application devrait fonctionner sur les &lt;strong&gt;appareils Apple&lt;/strong&gt;. Si vous voulez porter cette application vers iOS et si vous avez de l&apos;expérience en programmation C++/Qt et avec les sytèmes d&apos;Apple, &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contactez-nous&lt;/a&gt; !&lt;/p&gt;
 
 &lt;p&gt;Si vous maitrisez le C++ et que vous voulez &lt;strong&gt;nous aider dans le développement&lt;/strong&gt;, &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contactez-nous&lt;/a&gt; !&lt;/p&gt;
 </translation>
@@ -895,15 +922,15 @@
         <translation>
 &lt;h3&gt;Trop de cartes&lt;/h3&gt;
 
-&lt;p&gt;Merci d'utiliser enroute navigation, votre engouement nous touche beaucoup.&lt;/p&gt;
+&lt;p&gt;Merci d&apos;utiliser enroute navigation, votre engouement nous touche beaucoup.&lt;/p&gt;
 
 &lt;p&gt;Cependant, nous vous demandons de bien vouloir &lt;strong&gt;vous limiter à 8 %1.&lt;/strong&gt;
 
-&lt;p&gt;La bande passante requise pour télécharger les cartes est fournie par l'Université de Freiburg, à la condition que &lt;strong&gt;les coups restent raisonnables.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;La bande passante requise pour télécharger les cartes est fournie par l&apos;Université de Freiburg, à la condition que &lt;strong&gt;les coups restent raisonnables.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;D'autre part, l'application enroute sera plus performante si elle ne doit pas traiter des tonnes de données d'un seul coup.&lt;/p&gt;
+&lt;p&gt;D&apos;autre part, l&apos;application enroute sera plus performante si elle ne doit pas traiter des tonnes de données d&apos;un seul coup.&lt;/p&gt;
 
-&lt;p&gt;Nous faisons notre possible pour éviter d'imposer une limite sur le nombre de cartes. Merci d'être compréhensifs et de nous y aider. Vous avez déjà &lt;strong&gt;%2 cartes&lt;/strong&gt;.
+&lt;p&gt;Nous faisons notre possible pour éviter d&apos;imposer une limite sur le nombre de cartes. Merci d&apos;être compréhensifs et de nous y aider. Vous avez déjà &lt;strong&gt;%2 cartes&lt;/strong&gt;.
 </translation>
     </message>
     <message>
@@ -986,7 +1013,7 @@
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;L'application &lt;strong&gt;enroute navigation&lt;/strong&gt; est écrite par Stefan Kebekus, amateur pilote depuis 1986 et membre de l'aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
+      &lt;p&gt;L&apos;application &lt;strong&gt;enroute navigation&lt;/strong&gt; est écrite par Stefan Kebekus, amateur pilote depuis 1986 et membre de l&apos;aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
       &lt;h4&gt;Adresse&lt;/h4&gt;
       Stefan Kebekus&lt;br&gt;
       Wintererstraße 77&lt;br&gt;
@@ -1008,7 +1035,7 @@
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Adrien Crovato est pilote privé et ingénieur en aérospatiale. Il a rejoint l'équipe en 2020 et contribue au code C++ and QML.&lt;/p&gt;
+      &lt;p&gt;Adrien Crovato est pilote privé et ingénieur en aérospatiale. Il a rejoint l&apos;équipe en 2020 et contribue au code C++ and QML.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
       &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
@@ -1019,7 +1046,7 @@
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Heiner Tholen aime construire des choses, autant analogiques que digitales, en vol autant qu'au sol. Il utilise enroute en tant que pilote d'ULM. Heiner a rejoint l'équipe mi-2020 et contribue au développement du code C++/QML.&lt;/p&gt;
+      &lt;p&gt;Heiner Tholen aime construire des choses, autant analogiques que digitales, en vol autant qu&apos;au sol. Il utilise enroute en tant que pilote d&apos;ULM. Heiner a rejoint l&apos;équipe mi-2020 et contribue au développement du code C++/QML.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
       &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
@@ -1030,7 +1057,7 @@
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Johannes Zellner a rejoint l'équipe en 2020. Il contribue au code C++ et QML de l'application et aide à résoudre les bugs.&lt;/p&gt;
+      &lt;p&gt;Johannes Zellner a rejoint l&apos;équipe en 2020. Il contribue au code C++ et QML de l&apos;application et aide à résoudre les bugs.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
       &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
@@ -1045,7 +1072,7 @@
 
 &lt;p&gt;&lt;strong&gt;Français:&lt;/strong&gt; Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Allemand: Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;E-Mail&lt;/a&gt;. Markus pilote des deltaplanes et est un &apos;co-pilote&apos; enthousiate sur tout autre type d'appareil.&lt;/p&gt;
+&lt;p&gt;Allemand: Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;E-Mail&lt;/a&gt;. Markus pilote des deltaplanes et est un &apos;co-pilote&apos; enthousiate sur tout autre type d&apos;appareil.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 </translation>
     </message>
@@ -1061,9 +1088,9 @@
         <translation>
 &lt;h3&gt;Signaler un bug&lt;/h3&gt;
 
-&lt;p&gt;Nous sommes soucieux de vous fournir une application de haute qualité. Notre priorité première est donc de corriger les bugs et nous vous remecions d'avance pour votre rapport.&lt;/p&gt;
+&lt;p&gt;Nous sommes soucieux de vous fournir une application de haute qualité. Notre priorité première est donc de corriger les bugs et nous vous remecions d&apos;avance pour votre rapport.&lt;/p&gt;
 
-&lt;p&gt;Merci de soumettre vos rapports via &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub&lt;/a&gt;. Si vous n'avez pas de compte Github, vous pouvez &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contacter l'autheur&lt;/a&gt; directement.&lt;/p&gt;
+&lt;p&gt;Merci de soumettre vos rapports via &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub&lt;/a&gt;. Si vous n&apos;avez pas de compte Github, vous pouvez &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contacter l&apos;autheur&lt;/a&gt; directement.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -1086,13 +1113,13 @@
         <translation>
 &lt;h3&gt;Bienvenue sur enroute navigation - Un projet de Akaflieg Freiburg&lt;/h3&gt;
 
-&lt;p&gt;Merci d'utiliser cette application de navigation ! Avant de commencer, nous insistons sur le fait que &lt;strong&gt;cette application et les données aéronautiques sont fournies sans garanties&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Merci d&apos;utiliser cette application de navigation ! Avant de commencer, nous insistons sur le fait que &lt;strong&gt;cette application et les données aéronautiques sont fournies sans garanties&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;L'application n'est pas certifiée et peut contenir des erreurs ou ne pas se comporter comme attendu.&lt;/p&gt;
+&lt;p&gt;L&apos;application n&apos;est pas certifiée et peut contenir des erreurs ou ne pas se comporter comme attendu.&lt;/p&gt;
 
 &lt;p&gt;Les données aéronautiques ne viennent pas de souces officielles. Elles peuvent donc être incomplètes, obselètes ou erronées.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Cette application ne se substitue en aucun cas à une préparation de vol rigoureuse et à un bon pilotage.&lt;/strong&gt; Nous espérons que vous appécierez l'application et qu'elle vous sera utile.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cette application ne se substitue en aucun cas à une préparation de vol rigoureuse et à un bon pilotage.&lt;/strong&gt; Nous espérons que vous appécierez l&apos;application et qu&apos;elle vous sera utile.&lt;/p&gt;
 
 &lt;p&gt;Restez prudent et bons vols !&lt;/p&gt;
 
@@ -1113,7 +1140,7 @@
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Les routes sont accessibles via d'autres programmes, comme des applications de sauvegarde ou de transfert, et peuvent être partagées avec d'autres appareils.&lt;/p&gt;
+&lt;p&gt;Les routes sont accessibles via d&apos;autres programmes, comme des applications de sauvegarde ou de transfert, et peuvent être partagées avec d&apos;autres appareils.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -1131,7 +1158,7 @@
         <translation>
 &lt;h3&gt;Autorisations manquantes&lt;/h3&gt;
 
-&lt;p&gt;L'application &lt;strong&gt;enroute navigation&lt;/strong&gt; ne peut pas démarrer car certaines autorisations essentielles n'ont pas été accordées. Merci de redémarrer l'application et de donner ces autorisations. Si vous avez refusé des autorisations de manière permanente, vous devrez vous rendre dans les paramètres d'application de votre téléphone pour y accorder les autorisations.&lt;/p&gt;
+&lt;p&gt;L&apos;application &lt;strong&gt;enroute navigation&lt;/strong&gt; ne peut pas démarrer car certaines autorisations essentielles n&apos;ont pas été accordées. Merci de redémarrer l&apos;application et de donner ces autorisations. Si vous avez refusé des autorisations de manière permanente, vous devrez vous rendre dans les paramètres d&apos;application de votre téléphone pour y accorder les autorisations.&lt;/p&gt;
 
 &lt;p&gt;Notre &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/privacy#privileges-of-the-android-app&quot; title=&quot;privacy policies&quot;&gt;politique de confidentialité&lt;/a&gt; explique quelles autorisations sont nécessaires et pourquoi elles sont utilisées.&lt;/p&gt;
 
@@ -1152,13 +1179,13 @@
 &lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;
 </source>
         <translation>
-&lt;p&gt;Adrien Crovato et Heiner Tholen ont rejoint l'équipe de développement. Il est maintenant possible d'utiliser les &lt;strong&gt;unités métriques&lt;/strong&gt; pour les distances et vitesses horizontales, et la page &lt;strong&gt;A proximité&lt;/strong&gt; affiche plus d'informations.&lt;/p&gt;
+&lt;p&gt;Adrien Crovato et Heiner Tholen ont rejoint l&apos;équipe de développement. Il est maintenant possible d&apos;utiliser les &lt;strong&gt;unités métriques&lt;/strong&gt; pour les distances et vitesses horizontales, et la page &lt;strong&gt;A proximité&lt;/strong&gt; affiche plus d&apos;informations.&lt;/p&gt;
 
-&lt;p&gt;Les cartes de l'&lt;strong&gt;Argentine&lt;/strong&gt; et du &lt;strong&gt;Brésil&lt;/strong&gt; ont été ajoutées. Nous continuerons à mettre ces cartes à jour de manière hebdomadaire.&lt;/p&gt;
+&lt;p&gt;Les cartes de l&apos;&lt;strong&gt;Argentine&lt;/strong&gt; et du &lt;strong&gt;Brésil&lt;/strong&gt; ont été ajoutées. Nous continuerons à mettre ces cartes à jour de manière hebdomadaire.&lt;/p&gt;
 
-&lt;p&gt;Markus Sachs a traduit l'application en &lt;strong&gt;allemand&lt;/strong&gt;, et Adrien l'a traduite en &lt;strong&gt;français&lt;/strong&gt;. Si vous préférez l'anglais, rendez-vous sur la page &apos;Paramètres&apos; où une option de langue à été ajoutée.&lt;/p&gt;
+&lt;p&gt;Markus Sachs a traduit l&apos;application en &lt;strong&gt;allemand&lt;/strong&gt;, et Adrien l&apos;a traduite en &lt;strong&gt;français&lt;/strong&gt;. Si vous préférez l&apos;anglais, rendez-vous sur la page &apos;Paramètres&apos; où une option de langue à été ajoutée.&lt;/p&gt;
 
-&lt;p&gt;Michael Horbaschk a documenté l'application au travers d'un &lt;strong&gt;manuel&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Michael Horbaschk a documenté l&apos;application au travers d&apos;un &lt;strong&gt;manuel&lt;/strong&gt;.&lt;/p&gt;
 </translation>
     </message>
 </context>
@@ -1227,7 +1254,7 @@
     <message>
         <location filename="../../enroute/src/qml/pages/MapManager.qml" line="353"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n'a pas encore été téléchargée du serveur. Vous pouvez redémarrer le téléchargement manuellement en utilisant &apos;Mettre à jour&apos; depuis le menu. Le menu est accessible en cliquant sur le symbole &apos;&amp;#8942;&apos; dans le coin supérieur droit de l'écran.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n&apos;a pas encore été téléchargée du serveur. Vous pouvez redémarrer le téléchargement manuellement en utilisant &apos;Mettre à jour&apos; depuis le menu. Le menu est accessible en cliquant sur le symbole &apos;&amp;#8942;&apos; dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/MapManager.qml" line="380"/>
@@ -1253,7 +1280,7 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/MissingPermissionsDialog.qml" line="32"/>
         <source>Close App</source>
-        <translation>Fermer l'application</translation>
+        <translation>Fermer l&apos;application</translation>
     </message>
 </context>
 <context>
@@ -1276,7 +1303,7 @@
     <message>
         <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="68"/>
         <source>No suitable file sharing app could be found.</source>
-        <translation>Aucun fichier de partage d'application n'a pu être trouvé</translation>
+        <translation>Aucun fichier de partage d&apos;application n&apos;a pu être trouvé</translation>
     </message>
     <message>
         <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="71"/>
@@ -1291,22 +1318,22 @@
     <message>
         <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="79"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation>Impossible d'ouvrir le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
+        <translation>Impossible d&apos;ouvrir le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="82"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation>Impossible d'écrire dans le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
+        <translation>Impossible d&apos;écrire dans le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="99"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation>Aucune application permettant de visualiser ces données n'a été trouvée.</translation>
+        <translation>Aucune application permettant de visualiser ces données n&apos;a été trouvée.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="104"/>
         <source>Unable to open data in other app.</source>
-        <translation>Impossible d'ouvrir les données dans une autre application.</translation>
+        <translation>Impossible d&apos;ouvrir les données dans une autre application.</translation>
     </message>
 </context>
 <context>
@@ -1328,31 +1355,16 @@
     </message>
 </context>
 <context>
-    <name>A proximité</name>
+    <name>Nearby</name>
     <message>
         <location filename="../../enroute/src/qml/pages/Nearby.qml" line="31"/>
         <source>Nearby</source>
-        <translation>A proximité</translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="45"/>
-        <source>Airfield</source>
-        <translation>Aérodromes</translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="48"/>
-        <source>Navigational aids</source>
-        <translation>Balises</translation>
-    </message>
-    <message>
-        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="51"/>
-        <source>Reporting points</source>
-        <translation>Points de report</translation>
+        <translation type="unfinished">A proximité</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/Nearby.qml" line="109"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune donnée disponible. Merci de vous assurer qu'une carté aéronautique est installée.&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune donnée disponible. Merci de vous assurer qu&apos;une carté aéronautique est installée.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1442,7 +1454,7 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/SatNavStatusDialog.qml" line="81"/>
         <source>Error Estimate</source>
-        <translation>Estimation de l'erreur</translation>
+        <translation>Estimation de l&apos;erreur</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/SatNavStatusDialog.qml" line="84"/>
@@ -1545,7 +1557,7 @@
     <message>
         <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="135"/>
         <source>Prefer English</source>
-        <translation>Utiliser l'anglais</translation>
+        <translation>Utiliser l&apos;anglais</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="148"/>
@@ -1642,7 +1654,7 @@
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="106"/>
         <source>Set Altimeter</source>
-        <translation>Régler l'altimètre</translation>
+        <translation>Régler l&apos;altimètre</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="107"/>
@@ -1697,7 +1709,7 @@
     <message>
         <location filename="../../enroute/src/main.cpp" line="79"/>
         <source>enroute flight navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
-        <translation>enroute navigation est une application de navigation VFR gratuite dévelopée en tant que projet de l'aéroclub Akaflieg Freiburg.</translation>
+        <translation>enroute navigation est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/main.cpp" line="82"/>

@@ -1565,19 +1565,16 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
         <translation>Nächstgelegene</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="45"/>
         <source>Airfield</source>
-        <translation>Flugplätzen</translation>
+        <translation type="vanished">Flugplätzen</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="48"/>
         <source>Navigational aids</source>
-        <translation>Navigationshilfen</translation>
+        <translation type="vanished">Navigationshilfen</translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/Nearby.qml" line="51"/>
         <source>Reporting points</source>
-        <translation>Meldepunktes</translation>
+        <translation type="vanished">Meldepunktes</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/Nearby.qml" line="109"/>
