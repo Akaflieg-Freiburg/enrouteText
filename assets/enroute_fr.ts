@@ -287,7 +287,7 @@
     </message>
     <message>
         <location filename="../../enroute/src/FlightRoute.cpp" line="239"/>
-        <source>Unable to write to file &apos;%1&apos; for writing.</source>
+        <source>Unable to write to file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
