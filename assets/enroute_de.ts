@@ -1123,7 +1123,62 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 &lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;e-mail&lt;/a&gt;. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;h3&gt;Autoren&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Die App &lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; wurde von Stefan Kebekus entwickelt. Stefan ist seit 1986 flugbegeistert und Mitglied der Akaflieg Freiburg. Stefan fliegt Segel- und Motorflugzeuge.&lt;/p&gt;
+      &lt;h4&gt;Adresse&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstraße 77&lt;br&gt;
+      79104 Freiburg&lt;br&gt;
+      Deutschland&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;E-Mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;img src=&quot;/icons/kebekus.jpg&quot; alt=&quot;Stefan Kebekus&quot; height=&quot;140&quot;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Foto: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;br&gt;
+      &lt;h3&gt;Weitere Autorenbeiträge&lt;/h3&gt;
+      &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Heiner Tholen baut gern, egal ob analog oder digital, fliegend oder erdgebunden. Er verwendet &lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; als Pilot von Ultraleicht-Flugzeugen. Heiner ist seit Mitte 2020 bei der Entwicklung dabei. Er trägt zur C++/QML Codebasis bei.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Johannes Zellner kam 2020 als Entwickler dazu. Er trägt zur Codebasis der App in C++ und QML bei und hilft bei der Fehlerbehebung.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;&lt;a href=&quot;mailto:johannes@zellner.org&quot;&gt;E-Mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;img src=&quot;/icons/zellner.jpg&quot; alt=&quot;Johannes Zellner&quot; height=&quot;140&quot;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;Übersetzungen&lt;/h3&gt;
+
+&lt;p&gt;Deutsch: Markus Sachs, &lt;a href=&quot;mailto:ms@squawk-vfr.de&quot;&gt;E-Mail&lt;/a&gt;. Markus ist Trike-Pilot. Auf allem anderen, was fliegt, ist er begeisterter Mit-Flieger.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="37"/>
@@ -1151,7 +1206,29 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;h3&gt;enroute Flugnavigation ${PROJECT_VERSION}&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; ist eine kostenlose Navigations-App für VFR-Piloten, entwickelt als Projekt der Akaflieg Freiburg.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Einfach, elegant und funktional&lt;/li&gt;
+  &lt;li&gt;Keine Anzeigen, keine kommerzielle &quot;Pro&quot;-Version&lt;/li&gt;
+  &lt;li&gt;Keine Registrierung, keine Mitgliedschaft&lt;/li&gt;
+  &lt;li&gt;Spioniert Sie nicht aus&lt;/li&gt;
+  &lt;li&gt;100% Open Source, geschrieben ohne kommerzielle Interessen&lt;/li&gt;
+&lt;/ul&gt;
+
+Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unserer Website&lt;/a&gt; finden sich weiterführende Informationen.
+
+&lt;h3&gt;Akademischer Sponsor&lt;/h3&gt;
+
+&lt;p&gt;Der Autor ist dankbar für die Unterstützung unseres akademischen Sponsors, der &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Universität Freiburg&lt;/a&gt;. Sie stellt uns freundlicherweise die Infrastruktur zur Erzeugung unserer Karten und die Bandbreite der Netzanbindung zur Verfügung.&lt;/p&gt;
+
+&lt;h3&gt;Weitere Danksagungen&lt;/h3&gt;
+
+&lt;p&gt;Dieses Programm basiert auf einer Anzahl von Open-Source-Bibliotheken, einschließlich &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; und &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Freundlicherweise zur Verfügung gestellt werden uns die Luftfahrtdaten von den Projekten &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; und &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;Open Flightmaps&lt;/a&gt; sowie die Basiskarten von  &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Details dazu finden Sie in der Dokumentation.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="64"/>
@@ -1171,7 +1248,21 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 
 &lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;h3&gt;Lizenz&lt;/h3&gt;
+
+&lt;p&gt;Dieses Programm ist lizenziert unter der &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; oder, nach Ihrer Wahl, irgendeiner späteren Version dieser Lizenz.&lt;/p&gt;
+
+
+&lt;h4&gt;Software und Daten von dritter Seite in diesem Programm&lt;/h4&gt;
+
+&lt;p&gt;Dieses Programm verwendet diverse Bibliotheken des &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt;-Projekts, lizenziert unter der &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;. Dieses Programm verwendet die Bibliothek &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, die unter der &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;MIT License&lt;/a&gt; lizenziert ist. Dieses Programm verwendet die  Bibliothek &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, lizenziert unter der &lt;a href=&quot;https://www.openssl.org/source/license.html&gt;&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dieses Programm verwendet verschiedenen Versionen der &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;Google Roboto Fonts&lt;/a&gt;, die unter der &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; lizenziert sind. Dieses Programm verwendet diverse &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;Google Material Design Icons&lt;/a&gt;, die unter der &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; lizenziert sind.&lt;/p&gt;
+
+&lt;p&gt;Die Stilspezifikation der Basiskarte ist eine modifizierte Version des &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, das wiederum ursprünglich von OSM Bright aus den Mapbox Open Styles abgeleitet wurde. Der Code ist lizenziert unter der &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. Das Design ist abgeleitet (wenn auch stark verändert) von OSM Bright aus den Mapbox Open Styles, lizenziert unter der &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. Die Karte stellt interpretierte und modifizierte Daten aus &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; dar mit der &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
+
+&lt;p&gt;Die Karte stellt interpretierte Daten aus &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; dar, lizenziert unter einer &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA-Lizenz&lt;/a&gt;. Die Karte stellt außerdem interpretierte Daten aus &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt; dar, lizenziert unter der &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="83"/>
@@ -1187,7 +1278,18 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 
 &lt;p&gt;If you are fluent in C++ and if you would like to &lt;strong&gt;help with the programming&lt;/strong&gt;, &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;let us know&lt;/a&gt;.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;h3&gt;Neue Funktionen und Verbesserungen vorschlagen&lt;/h3&gt;
+
+&lt;p&gt;Wir haben mit &lt;strong&gt;enroute flight navigation&lt;/strong&gt; noch viel vor: Sehen Sie sich unsere &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;Projektliste auf GitHub&lt;/a&gt; an, um zu sehen, woran wir arbeiten.  Machen Sie gern weitere Vorschläge auf dem &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (das könnte ein GitHub-Konto erfordern). Wenn Sie das als schwierig empfinden, schreiben Sie auch gern direkt an &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;den Autor&lt;/a&gt;. Bitte haben Sie Verständnis, dass wir evtl. nicht alle Ihre Vorschlägen sofort umsetzen können.&lt;/p&gt;
+
+&lt;h3&gt;Mitmachen&lt;/h3&gt;
+
+&lt;p&gt;Wenn Sie die App &lt;strong&gt;in Ihre Muttersprache übersetzen&lt;/strong&gt; möchten, würden wir uns freuen, &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;von Ihnen zu hören&lt;/a&gt;.  Programmiererfahrung ist nicht erforderlich, versierter Umgang mit einem Computer allerdings schon.&lt;/p&gt;
+
+&lt;p&gt;Diese App sollte auch auf &lt;strong&gt;Apple-Geräten&lt;/strong&gt; gut laufen. Wenn Sie sie gern nach iOS portieren würden und Erfahrung in der Entwicklung mit C++/Qt und Apple-Systemen haben, &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;melden Sie sich gern noch heute&lt;/a&gt; bei uns.&lt;/p&gt;
+
+&lt;p&gt;Sollten Sie geläufig in C++ programmieren können und uns &lt;strong&gt;unterstützen&lt;/strong&gt; wollen, &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;hören wir ebenfalls gern von Ihnen&lt;/a&gt;.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="98"/>
@@ -1202,7 +1304,18 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 &lt;p&gt;On the other, the enroute app will perform much better if it doesn&apos;t have to process many megabytes of map-data at once.&lt;/p&gt;
 
 &lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that. You already have &lt;strong&gt;%2 maps&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;h3&gt;Zu viele Karten&lt;/h3&gt;
+
+&lt;p&gt;Vielen Dank dafür, dass Sie enroute benutzen. Wir freuen uns sehr über Ihre Begeisterung.&lt;/p&gt;
+
+&lt;p&gt;Allerdings möchten wir Sie bitten &lt;strong&gt;maximal 8 %1 herunterzuladen&lt;strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Zum einen wird der Karten-Download freundlicherweise von der Universität Freiburg bereitgestellt, &lt;strong&gt;allerdings nur solange die Kosten sich in einem vertretbaren Rahmen abspielen&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Zum anderen funktioniert die enroute App deutlich besser und schneller, wenn sie nicht viele Megabytes von Kartendaten prozessieren muss.&lt;/p&gt;
+
+&lt;p&gt;Wir geben unser Bestes um eine Begrenzung der Kartenzahl in der Zukunft zu vermeiden. Bitte helfen Sie uns dabei. Sie haben nun schon &lt;strong&gt;%2 Karten&lt;/strong&gt;.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="186"/>
