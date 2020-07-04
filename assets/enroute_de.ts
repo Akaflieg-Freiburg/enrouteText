@@ -326,7 +326,7 @@
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="347"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Berechnung unvollständig. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="375"/>
