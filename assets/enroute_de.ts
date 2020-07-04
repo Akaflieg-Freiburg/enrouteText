@@ -884,13 +884,13 @@
     <name>InfoPage</name>
     <message>
         <source>About Enroute</source>
-        <translatorcomment>enroute groß/klein?</translatorcomment>
-        <translation type="obsolete">Über enroute</translation>
+        <translatorcomment>Enroute groß/klein?</translatorcomment>
+        <translation type="obsolete">Über Enroute</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="30"/>
-        <source>About enroute flight navigation</source>
-        <translation>Über enroute Flugnavigation</translation>
+        <source>About Enroute Flight Navigation</source>
+        <translation>Über Enroute Flugnavigation</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="46"/>
@@ -915,7 +915,7 @@
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;The app &lt;strong&gt;enroute flight navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
+      &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
       &lt;h4&gt;Address&lt;/h4&gt;
       Stefan Kebekus&lt;br&gt;
       Wintererstraße 77&lt;br&gt;
@@ -937,7 +937,7 @@
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses enroute as a pilot of ultralight planes. Heiner joined the enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
+      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses Enroute as a pilot of ultralight planes. Heiner joined the Enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
       &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
@@ -972,7 +972,7 @@
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Die App &lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; wurde von Stefan Kebekus entwickelt. Stefan ist seit 1986 flugbegeistert und Mitglied der Akaflieg Freiburg. Stefan fliegt Segel- und Motorflugzeuge.&lt;/p&gt;
+      &lt;p&gt;Die App &lt;strong&gt;Enroute Flugnavigation&lt;/strong&gt; wurde von Stefan Kebekus entwickelt. Stefan ist seit 1986 flugbegeistert und Mitglied der Akaflieg Freiburg. Stefan fliegt Segel- und Motorflugzeuge.&lt;/p&gt;
       &lt;h4&gt;Adresse&lt;/h4&gt;
       Stefan Kebekus&lt;br&gt;
       Wintererstraße 77&lt;br&gt;
@@ -994,7 +994,7 @@
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Heiner Tholen baut gern, egal ob analog oder digital, fliegend oder erdgebunden. Er verwendet &lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; als Pilot von Ultraleicht-Flugzeugen. Heiner ist seit Mitte 2020 bei der Entwicklung dabei. Er trägt zur C++/QML Codebasis bei.&lt;/p&gt;
+      &lt;p&gt;Heiner Tholen baut gern, egal ob analog oder digital, fliegend oder erdgebunden. Er verwendet &lt;strong&gt;Enroute Flugnavigation&lt;/strong&gt; als Pilot von Ultraleicht-Flugzeugen. Heiner ist seit Mitte 2020 bei der Entwicklung dabei. Er trägt zur C++/QML Codebasis bei.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
       &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
@@ -1026,9 +1026,9 @@
     <name>Librarian</name>
     <message>
         <source>
-&lt;h3&gt;Welcome to enroute flight navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
+&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
-&lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Thank you for using this Flight Navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;The app is not certified to satisfy aviation standards. It may contain errors and may not work as expected.&lt;/p&gt;
 
@@ -1041,7 +1041,7 @@
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;
 </source>
         <translation type="vanished">
-&lt;h3&gt;Willkommen zu enroute Flugnavigation - einem Projekt der Akaflieg Freiburg&lt;/h3&gt;
+&lt;h3&gt;Willkommen zu Enroute Flugnavigation - einem Projekt der Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Danke für die Benutzung dieser Navigations-App! Vor allem anderen müssen wir klarstellen, 
 dass &lt;strong&gt;diese App und die verwendeten Luftfahrtdaten ohne irgendwelche Garantie, Gewährleistung oder Haftung zur Verfügung gestellt werden&lt;/strong&gt;.&lt;/p&gt;
@@ -1068,7 +1068,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;The app &lt;strong&gt;enroute flight navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
+      &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
       &lt;h4&gt;Address&lt;/h4&gt;
       Stefan Kebekus&lt;br&gt;
       Wintererstraße 77&lt;br&gt;
@@ -1101,7 +1101,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses enroute as a pilot of ultralight planes. Heiner joined the enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
+      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses Enroute as a pilot of ultralight planes. Heiner joined the Enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
       &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
@@ -1138,7 +1138,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Die App &lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; wurde von Stefan Kebekus entwickelt. Stefan ist seit 1986 flugbegeistert und Mitglied der Akaflieg Freiburg. Stefan fliegt Segel- und Motorflugzeuge.&lt;/p&gt;
+      &lt;p&gt;Die App &lt;strong&gt;Enroute Flugnavigation&lt;/strong&gt; wurde von Stefan Kebekus entwickelt. Stefan ist seit 1986 flugbegeistert und Mitglied der Akaflieg Freiburg. Stefan fliegt Segel- und Motorflugzeuge.&lt;/p&gt;
       &lt;h4&gt;Adresse&lt;/h4&gt;
       Stefan Kebekus&lt;br&gt;
       Wintererstraße 77&lt;br&gt;
@@ -1160,7 +1160,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Heiner Tholen baut gern, egal ob analog oder digital, fliegend oder erdgebunden. Er verwendet &lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; als Pilot von Ultraleicht-Flugzeugen. Heiner ist seit Mitte 2020 bei der Entwicklung dabei. Er trägt zur C++/QML Codebasis bei.&lt;/p&gt;
+      &lt;p&gt;Heiner Tholen baut gern, egal ob analog oder digital, fliegend oder erdgebunden. Er verwendet &lt;strong&gt;Enroute Flugnavigation&lt;/strong&gt; als Pilot von Ultraleicht-Flugzeugen. Heiner ist seit Mitte 2020 bei der Entwicklung dabei. Er trägt zur C++/QML Codebasis bei.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
       &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
@@ -1189,9 +1189,9 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     </message>
     <message>
         <source>
-&lt;h3&gt;enroute flight navigation ${PROJECT_VERSION}&lt;/h3&gt;
+&lt;h3&gt;Enroute Flight Navigation ${PROJECT_VERSION}&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;enroute flight navigation&lt;/strong&gt; is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Simple, elegant and functional&lt;/li&gt;
@@ -1212,9 +1212,9 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="obsolete">&lt;h3&gt;enroute Flugnavigation ${PROJECT_VERSION}&lt;/h3&gt;
+        <translation type="obsolete">&lt;h3&gt;Enroute Flugnavigation ${PROJECT_VERSION}&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; ist eine kostenlose Navigations-App für VFR-Piloten, entwickelt als Projekt der Akaflieg Freiburg.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Enroute Flugnavigation&lt;/strong&gt; ist eine kostenlose Navigations-App für VFR-Piloten, entwickelt als Projekt der Akaflieg Freiburg.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Einfach, elegant und funktional&lt;/li&gt;
@@ -1273,7 +1273,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
     <message>
         <source>&lt;h3&gt;Suggest features and improvements&lt;/h3&gt;
 
-&lt;p&gt;We have great plans for &lt;strong&gt;enroute flight navigation&lt;/strong&gt;, check our &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;project list at GitHub&lt;/a&gt; to see what&apos;s coming.  Please make further suggestions through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.  We ask for your understanding that not all your suggestions can be implemented immediately.&lt;/p&gt;
+&lt;p&gt;We have great plans for &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;, check our &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;project list at GitHub&lt;/a&gt; to see what&apos;s coming.  Please make further suggestions through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.  We ask for your understanding that not all your suggestions can be implemented immediately.&lt;/p&gt;
 
 &lt;h3&gt;Join the project&lt;/h3&gt;
 
@@ -1285,7 +1285,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 </source>
         <translation type="vanished">&lt;h3&gt;Neue Funktionen und Verbesserungen vorschlagen&lt;/h3&gt;
 
-&lt;p&gt;Wir haben mit &lt;strong&gt;enroute flight navigation&lt;/strong&gt; noch viel vor: Sehen Sie sich unsere &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;Projektliste auf GitHub&lt;/a&gt; an, um zu sehen, woran wir arbeiten.  Machen Sie gern weitere Vorschläge auf dem &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (das könnte ein GitHub-Konto erfordern). Wenn Sie das als schwierig empfinden, schreiben Sie auch gern direkt an &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;den Autor&lt;/a&gt;. Bitte haben Sie Verständnis, dass wir evtl. nicht alle Ihre Vorschlägen sofort umsetzen können.&lt;/p&gt;
+&lt;p&gt;Wir haben mit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; noch viel vor: Sehen Sie sich unsere &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;Projektliste auf GitHub&lt;/a&gt; an, um zu sehen, woran wir arbeiten.  Machen Sie gern weitere Vorschläge auf dem &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (das könnte ein GitHub-Konto erfordern). Wenn Sie das als schwierig empfinden, schreiben Sie auch gern direkt an &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;den Autor&lt;/a&gt;. Bitte haben Sie Verständnis, dass wir evtl. nicht alle Ihre Vorschlägen sofort umsetzen können.&lt;/p&gt;
 
 &lt;h3&gt;Mitmachen&lt;/h3&gt;
 
@@ -1299,25 +1299,25 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
     <message>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
-&lt;p&gt;Thank you for using enroute flight navigation, we appreciate your engagement very much.&lt;/p&gt;
+&lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
 
 &lt;p&gt;However, we&apos;d like to ask you &lt;strong&gt;to limit yourself to 8 %1.&lt;/strong&gt;
 
 &lt;p&gt;On the one hand, the bandwidth for map downloads is kindly sponsored by the University of Freiburg, under the assumption that &lt;strong&gt;the costs stays within reasonable limits.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;On the other, the enroute app will perform much better if it doesn&apos;t have to process many megabytes of map-data at once.&lt;/p&gt;
+&lt;p&gt;On the other, the Enroute app will perform much better if it doesn&apos;t have to process many megabytes of map-data at once.&lt;/p&gt;
 
 &lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that. You already have &lt;strong&gt;%2 maps&lt;/strong&gt;.</source>
         <translation type="obsolete">
 &lt;h3&gt;Zu viele Karten&lt;/h3&gt;
 
-&lt;p&gt;Vielen Dank dafür, dass Sie enroute benutzen. Wir freuen uns sehr über Ihre Begeisterung.&lt;/p&gt;
+&lt;p&gt;Vielen Dank dafür, dass Sie Enroute benutzen. Wir freuen uns sehr über Ihre Begeisterung.&lt;/p&gt;
 
 &lt;p&gt;Allerdings möchten wir Sie bitten &lt;strong&gt;maximal 8 %1 herunterzuladen&lt;strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Zum einen wird der Karten-Download freundlicherweise von der Universität Freiburg bereitgestellt, &lt;strong&gt;allerdings nur solange die Kosten sich in einem vertretbaren Rahmen abspielen&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Zum anderen funktioniert die enroute App deutlich besser und schneller, wenn sie nicht viele Megabytes von Kartendaten prozessieren muss.&lt;/p&gt;
+&lt;p&gt;Zum anderen funktioniert die Enroute App deutlich besser und schneller, wenn sie nicht viele Megabytes von Kartendaten prozessieren muss.&lt;/p&gt;
 
 &lt;p&gt;Wir geben unser Bestes um eine Begrenzung der Kartenzahl in der Zukunft zu vermeiden. Bitte helfen Sie uns dabei. Sie haben nun schon &lt;strong&gt;%2 Karten&lt;/strong&gt;.&lt;/p&gt;
 </translation>
@@ -1353,7 +1353,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
     <message>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
-&lt;p&gt;The app &lt;strong&gt;enroute flight navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
+&lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
 
 &lt;p&gt;Our &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/privacy#privileges-of-the-android-app&quot; title=&quot;privacy policies&quot;&gt;privacy policies&lt;/a&gt; explain why the permissions are needed and what they are used for.&lt;/p&gt;
 
@@ -1363,7 +1363,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 </source>
         <translation type="obsolete">&lt;h3&gt;Fehlende Berechtigungen&lt;/h3&gt;
 
-&lt;p&gt;Die App &lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; wird ohne einige wesentliche Berechtigungen nicht laufen. Bitte starten Sie dann die App neu und gewähren Sie die benötigten Berechtigungen. Wenn Sie auf Ihrem Gerät Berechtigungen dauerhaft verweigern sollten, müssten Sie die für enroute benötigten evtl. in den Android-Einstellungen gewähren.&lt;/p&gt;
+&lt;p&gt;Die App &lt;strong&gt;Enroute Flugnavigation&lt;/strong&gt; wird ohne einige wesentliche Berechtigungen nicht laufen. Bitte starten Sie dann die App neu und gewähren Sie die benötigten Berechtigungen. Wenn Sie auf Ihrem Gerät Berechtigungen dauerhaft verweigern sollten, müssten Sie die für Enroute benötigten evtl. in den Android-Einstellungen gewähren.&lt;/p&gt;
 
 &lt;p&gt;Unsere &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/privacy#privileges-of-the-android-app&quot; title=&quot;privacy policies&quot;&gt;Privacy Policies&lt;/a&gt; erklären, warum diese Berechtigungen benötigt werden und wofür sie verwendet werden.&lt;/p&gt;
 
@@ -1374,9 +1374,9 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
     </message>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="37"/>
-        <source>&lt;h3&gt;enroute flight navigation ${PROJECT_VERSION}&lt;/h3&gt;
+        <source>&lt;h3&gt;Enroute Flight Navigation ${PROJECT_VERSION}&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;enroute flight navigation&lt;/strong&gt; is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Simple, elegant and functional&lt;/li&gt;
@@ -1397,9 +1397,9 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;enroute Flugnavigation ${PROJECT_VERSION}&lt;/h3&gt;
+        <translation>&lt;h3&gt;Enroute Flugnavigation ${PROJECT_VERSION}&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; ist eine kostenlose Navigations-App für VFR-Piloten, entwickelt als Projekt der Akaflieg Freiburg.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Enroute Flugnavigation&lt;/strong&gt; ist eine kostenlose Navigations-App für VFR-Piloten, entwickelt als Projekt der Akaflieg Freiburg.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Einfach, elegant und funktional&lt;/li&gt;
@@ -1455,7 +1455,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
         <location filename="../../enroute/src/Librarian.cpp" line="79"/>
         <source>&lt;h3&gt;Suggest features and improvements&lt;/h3&gt;
 
-&lt;p&gt;We have great plans for &lt;strong&gt;enroute flight navigation&lt;/strong&gt;, check our &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;project list at GitHub&lt;/a&gt; to see what&apos;s coming.  Please make further suggestions through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.  We ask for your understanding that not all your suggestions can be implemented immediately.&lt;/p&gt;
+&lt;p&gt;We have great plans for &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;, check our &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;project list at GitHub&lt;/a&gt; to see what&apos;s coming.  Please make further suggestions through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.  We ask for your understanding that not all your suggestions can be implemented immediately.&lt;/p&gt;
 
 &lt;h3&gt;Join the project&lt;/h3&gt;
 
@@ -1466,7 +1466,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;If you are fluent in C++ and if you would like to &lt;strong&gt;help with the programming&lt;/strong&gt;, &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;let us know&lt;/a&gt;.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Neue Funktionen und Verbesserungen vorschlagen&lt;/h3&gt;
 
-&lt;p&gt;Wir haben mit &lt;strong&gt;enroute flight navigation&lt;/strong&gt; noch viel vor: Sehen Sie sich unsere &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;Projektliste auf GitHub&lt;/a&gt; an, um zu sehen, woran wir arbeiten.  Machen Sie gern weitere Vorschläge auf dem &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (das könnte ein GitHub-Konto erfordern). Wenn Sie das als schwierig empfinden, schreiben Sie auch gern direkt an &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;den Autor&lt;/a&gt;. Bitte haben Sie Verständnis, dass wir evtl. nicht alle Ihre Vorschlägen sofort umsetzen können.&lt;/p&gt;
+&lt;p&gt;Wir haben mit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; noch viel vor: Sehen Sie sich unsere &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;Projektliste auf GitHub&lt;/a&gt; an, um zu sehen, woran wir arbeiten.  Machen Sie gern weitere Vorschläge auf dem &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (das könnte ein GitHub-Konto erfordern). Wenn Sie das als schwierig empfinden, schreiben Sie auch gern direkt an &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;den Autor&lt;/a&gt;. Bitte haben Sie Verständnis, dass wir evtl. nicht alle Ihre Vorschlägen sofort umsetzen können.&lt;/p&gt;
 
 &lt;h3&gt;Mitmachen&lt;/h3&gt;
 
@@ -1480,16 +1480,26 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
         <location filename="../../enroute/src/Librarian.cpp" line="93"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
-&lt;p&gt;Thank you for using enroute flight navigation, we appreciate your engagement very much.&lt;/p&gt;
+&lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
 
 &lt;p&gt;However, we&apos;d like to ask you &lt;strong&gt;to limit yourself to 8 %1.&lt;/strong&gt;
 
 &lt;p&gt;On the one hand, the bandwidth for map downloads is kindly sponsored by the University of Freiburg, under the assumption that &lt;strong&gt;the costs stays within reasonable limits.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;On the other, the enroute app will perform much better if it doesn&apos;t have to process many megabytes of map-data at once.&lt;/p&gt;
+&lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
 
 &lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that. You already have &lt;strong&gt;%2 maps&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation></translation>
+        <translation>&lt;h3&gt;Zu viele Karten&lt;/h3&gt;
+
+&lt;p&gt;Vielen Dank dafür, dass Sie Enroute benutzen. Wir freuen uns sehr über Ihre Begeisterung.&lt;/p&gt;
+
+&lt;p&gt;Allerdings möchten wir Sie bitten &lt;strong&gt;maximal 8 %1 herunterzuladen&lt;strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Zum einen wird der Karten-Download freundlicherweise von der Universität Freiburg bereitgestellt, &lt;strong&gt;allerdings nur solange die Kosten sich in einem vertretbaren Rahmen abspielen&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Zum anderen funktioniert die App deutlich besser und schneller, wenn sie nicht viele Megabytes von Kartendaten prozessieren muss.&lt;/p&gt;
+
+&lt;p&gt;Wir geben unser Bestes um eine Begrenzung der Kartenzahl in der Zukunft zu vermeiden. Bitte helfen Sie uns dabei. Sie haben nun schon &lt;strong&gt;%2 Karten&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="108"/>
@@ -1500,7 +1510,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;The app &lt;strong&gt;enroute flight navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
+      &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
       &lt;h4&gt;Address&lt;/h4&gt;
       Stefan Kebekus&lt;br&gt;
       Wintererstraße 77&lt;br&gt;
@@ -1533,7 +1543,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses enroute as a pilot of ultralight planes. Heiner joined the enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
+      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses Enroute as a pilot of ultralight planes. Heiner joined the Enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
       &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
@@ -1568,7 +1578,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Die App &lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; wurde von Stefan Kebekus entwickelt. Stefan ist seit 1986 flugbegeistert und Mitglied der Akaflieg Freiburg. Stefan fliegt Segel- und Motorflugzeuge.&lt;/p&gt;
+      &lt;p&gt;Die App &lt;strong&gt;Enroute Flugnavigation&lt;/strong&gt; wurde von Stefan Kebekus entwickelt. Stefan ist seit 1986 flugbegeistert und Mitglied der Akaflieg Freiburg. Stefan fliegt Segel- und Motorflugzeuge.&lt;/p&gt;
       &lt;h4&gt;Adresse&lt;/h4&gt;
       Stefan Kebekus&lt;br&gt;
       Wintererstraße 77&lt;br&gt;
@@ -1601,7 +1611,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
     &lt;/td&gt;
   &lt;/tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Heiner Tholen baut gern, egal ob analog oder digital, fliegend oder erdgebunden. Er verwendet &lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; als Pilot von Ultraleicht-Flugzeugen. Heiner ist seit Mitte 2020 bei der Entwicklung dabei. Er trägt zur C++/QML Codebasis bei.&lt;/p&gt;
+      &lt;p&gt;Heiner Tholen baut gern, egal ob analog oder digital, fliegend oder erdgebunden. Er verwendet &lt;strong&gt;Enroute Flugnavigation&lt;/strong&gt; als Pilot von Ultraleicht-Flugzeugen. Heiner ist seit Mitte 2020 bei der Entwicklung dabei. Er trägt zur C++/QML Codebasis bei.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
       &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
@@ -1644,7 +1654,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
     </message>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="187"/>
-        <source>&lt;h3&gt;Welcome to enroute flight navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
+        <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
 
@@ -1657,7 +1667,23 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Willkommen zu enroute Flugnavigation - einem Projekt der Akaflieg Freiburg&lt;/h3&gt;
+        <translation></translation>
+    </message>
+    <message>
+        <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
+
+&lt;p&gt;Thank you for using this Flight Navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The app is not certified to satisfy aviation standards. It may contain errors and may not work as expected.&lt;/p&gt;
+
+&lt;p&gt;The aviation data does not come from official sources. It might be incomplete, outdated or otherwise incorrect.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This app is no substitute for proper flight preparation or good pilotage.&lt;/strong&gt; We hope you enjoy the app and that you do find it useful.&lt;/p&gt;
+
+&lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;h3&gt;Willkommen zu Enroute Flugnavigation - einem Projekt der Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Danke für die Benutzung dieser Navigations-App! Vor allem anderen müssen wir klarstellen, 
 dass &lt;strong&gt;diese App und die verwendeten Luftfahrtdaten ohne irgendwelche Garantie, Gewährleistung oder Haftung zur Verfügung gestellt werden&lt;/strong&gt;.&lt;/p&gt;
@@ -1691,7 +1717,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <location filename="../../enroute/src/Librarian.cpp" line="211"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
-&lt;p&gt;The app &lt;strong&gt;enroute flight navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
+&lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
 
 &lt;p&gt;Our &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/privacy#privileges-of-the-android-app&quot; title=&quot;privacy policies&quot;&gt;privacy policies&lt;/a&gt; explain why the permissions are needed and what they are used for.&lt;/p&gt;
 
@@ -1700,7 +1726,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Fehlende Berechtigungen&lt;/h3&gt;
 
-&lt;p&gt;Die App &lt;strong&gt;enroute Flugnavigation&lt;/strong&gt; wird ohne einige wesentliche Berechtigungen nicht laufen. Bitte starten Sie dann die App neu und gewähren Sie die benötigten Berechtigungen. Wenn Sie auf Ihrem Gerät Berechtigungen dauerhaft verweigern sollten, müssten Sie die für enroute benötigten evtl. in den Android-Einstellungen gewähren.&lt;/p&gt;
+&lt;p&gt;Die App &lt;strong&gt;Enroute Flugnavigation&lt;/strong&gt; wird ohne einige wesentliche Berechtigungen nicht laufen. Bitte starten Sie dann die App neu und gewähren Sie die benötigten Berechtigungen. Wenn Sie auf Ihrem Gerät Berechtigungen dauerhaft verweigern sollten, müssten Sie die für Enroute benötigten evtl. in den Android-Einstellungen gewähren.&lt;/p&gt;
 
 &lt;p&gt;Unsere &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/privacy#privileges-of-the-android-app&quot; title=&quot;privacy policies&quot;&gt;Privacy Policies&lt;/a&gt; erklären, warum diese Berechtigungen benötigt werden und wofür sie verwendet werden.&lt;/p&gt;
 
@@ -1919,8 +1945,8 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <name>ParticipatePage</name>
     <message>
         <source>Help to make Enroute better</source>
-        <translatorcomment>enroute groß/klein?</translatorcomment>
-        <translation type="obsolete">Helfen Sie uns, enroute zu verbessern!</translation>
+        <translatorcomment>Enroute groß/klein?</translatorcomment>
+        <translation type="obsolete">Helfen Sie uns, Enroute zu verbessern!</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/ParticipatePage.qml" line="29"/>
@@ -2212,8 +2238,8 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="36"/>
         <location filename="../../enroute/src/qml/main.qml" line="56"/>
-        <source>enroute flight navigation</source>
-        <translation>enroute Flugnavigation</translation>
+        <source>Enroute Flight Navigation</source>
+        <translation>Enroute Flugnavigation</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="70"/>
@@ -2246,7 +2272,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <source>About Enroute</source>
         <translatorcomment>groß/klein?</translatorcomment>
-        <translation type="vanished">Über enroute</translation>
+        <translation type="vanished">Über Enroute</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="86"/>
@@ -2285,8 +2311,8 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     </message>
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="365"/>
-        <source>Do you wish to exit enroute flight navigation?</source>
-        <translation>Möchten Sie enroute Flugnaviation verlassen?</translation>
+        <source>Do you wish to exit Enroute Flight Navigation?</source>
+        <translation>Möchten Sie Enroute Flugnaviation verlassen?</translation>
     </message>
     <message>
         <source>Do you wish to exit Enroute?</source>
@@ -2300,8 +2326,8 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     </message>
     <message>
         <location filename="../../enroute/src/main.cpp" line="79"/>
-        <source>enroute flight navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
-        <translation>enroute Flugnavigation ist eine kostenlose Navigations-App für VFR Piloten. Die App wurde als Projekt der Akaflieg Freiburg entwickelt.</translation>
+        <source>Enroute Flight Navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
+        <translation>Enroute Flugnavigation ist eine kostenlose Navigations-App für VFR Piloten. Die App wurde als Projekt der Akaflieg Freiburg entwickelt.</translation>
     </message>
     <message>
         <location filename="../../enroute/src/main.cpp" line="82"/>
