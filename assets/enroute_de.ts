@@ -437,12 +437,12 @@
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="217"/>
         <source>… to GeoJSON file</source>
-        <translation type="unfinished"></translation>
+        <translation>… als GeoJSON-Datei</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="252"/>
         <source>… in GeoJSON format</source>
-        <translation type="unfinished"></translation>
+        <translation>… im GeoJSON-Format</translation>
     </message>
     <message>
         <source>… to GeoJson file</source>
@@ -641,7 +641,7 @@
     <message>
         <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="168"/>
         <source>… to GeoJSON file</source>
-        <translation type="unfinished"></translation>
+        <translation>… als GeoJSON-Datei</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="185"/>
@@ -651,7 +651,7 @@
     <message>
         <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="205"/>
         <source>… in GeoJSON format</source>
-        <translation type="unfinished"></translation>
+        <translation>… im GeoJSON-Format</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="244"/>
@@ -1723,7 +1723,11 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Die Flugstrecken werden im &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON-Standardformat&lt;/a&gt; im folgenden Verzeichnis gespeichert:&lt;p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Auf die Flugstrecken kann auch mit anderen Programmen zugegriffen werden, wie etwa Backup-Software oder Apps zur Datei-Synchronisation. Dadurch können die Flugstrecken bei Bedarf auf andere Geräte übertragen werden.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="223"/>
