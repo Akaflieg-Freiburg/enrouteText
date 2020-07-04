@@ -364,7 +364,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="30"/>
         <source>Add Waypoint to Route</source>
-        <translation>+ Wegpkt zur Route</translation>
+        <translation>Wegpunkt hinzufügen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="66"/>
@@ -436,8 +436,17 @@
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="217"/>
+        <source>… to GeoJSON file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="252"/>
+        <source>… in GeoJSON format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>… to GeoJson file</source>
-        <translation>… als GeoJson-Datei</translation>
+        <translation type="vanished">… als GeoJson-Datei</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="232"/>
@@ -450,9 +459,8 @@
         <translation>In anderer App öffnen …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="252"/>
         <source>… in GeoJson format</source>
-        <translation>… im GeoJson-Format</translation>
+        <translation type="vanished">… im GeoJson-Format</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="269"/>
@@ -477,28 +485,28 @@
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="325"/>
         <source>ACFT and Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>LFZ und Wind</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="350"/>
         <source>&lt;h2&gt;Empty Route&lt;/h2&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h2&gt;Keine Strecke definiert&lt;/h2&gt;&lt;p&gt;Drücken Sie unten &lt;strong&gt;Wegpunkt hinzufügen&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="381"/>
         <source>True Airspeed</source>
-        <translation type="unfinished"></translation>
+        <translation>Wahre Fluggeschwindigkeit</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="388"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="457"/>
         <source>Cruise</source>
-        <translation type="unfinished"></translation>
+        <translation>Reiseflug</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="418"/>
         <source>Descent</source>
-        <translation type="unfinished"></translation>
+        <translation>Sinkflug</translation>
     </message>
     <message>
         <source>Aircraft and Wind</source>
@@ -598,9 +606,8 @@
         <translation type="vanished">Senden …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="205"/>
         <source>… in GeoJson format</source>
-        <translation>… im GeoJson-Format</translation>
+        <translation type="vanished">… im GeoJson-Format</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="222"/>
@@ -628,14 +635,23 @@
         <translation>Exportieren …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="168"/>
         <source>… to GeoJson file</source>
-        <translation>… als GeoJson-Datei</translation>
+        <translation type="vanished">… als GeoJson-Datei</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="168"/>
+        <source>… to GeoJSON file</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="185"/>
         <source>… to GPX file</source>
         <translation>… als GPX-Datei</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="205"/>
+        <source>… in GeoJSON format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="244"/>
@@ -719,7 +735,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="82"/>
         <source>Filter Flight Route Names</source>
-        <translation type="unfinished">Flugstrecken nach Namen filtern</translation>
+        <translation>Flugstrecken nach Namen filtern</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="151"/>
@@ -1701,6 +1717,15 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
         <translation></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="203"/>
+        <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="223"/>
         <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded.&lt;/p&gt;
 
@@ -1749,13 +1774,12 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="203"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJson format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Die Flugstrecken werden im &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJson-Standardformat&lt;/a&gt; im folgenden Verzeichnis gespeichert:&lt;p&gt;
+        <translation type="vanished">&lt;p&gt;Die Flugstrecken werden im &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJson-Standardformat&lt;/a&gt; im folgenden Verzeichnis gespeichert:&lt;p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -2078,7 +2102,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="81"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Error Estimate</source>

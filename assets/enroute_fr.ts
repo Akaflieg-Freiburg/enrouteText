@@ -455,8 +455,17 @@
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="217"/>
+        <source>… to GeoJSON file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="252"/>
+        <source>… in GeoJSON format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>… to GeoJson file</source>
-        <translation>… en GeoJson</translation>
+        <translation type="vanished">… en GeoJson</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="232"/>
@@ -469,9 +478,8 @@
         <translation>Ouvrir dans une autre app …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="252"/>
         <source>… in GeoJson format</source>
-        <translation>… au format GeoJson</translation>
+        <translation type="vanished">… au format GeoJson</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="269"/>
@@ -628,9 +636,8 @@
         <translation>Exporter …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="168"/>
         <source>… to GeoJson file</source>
-        <translation>… en GeoJson</translation>
+        <translation type="vanished">… en GeoJson</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="185"/>
@@ -643,9 +650,18 @@
         <translation>Ouvrir dans une autre app …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="205"/>
         <source>… in GeoJson format</source>
-        <translation>… au format GeoJson</translation>
+        <translation type="vanished">… au format GeoJson</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="168"/>
+        <source>… to GeoJSON file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="205"/>
+        <source>… in GeoJSON format</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="222"/>
@@ -1369,6 +1385,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="203"/>
+        <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="211"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
@@ -1407,15 +1432,6 @@
 &lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="203"/>
-        <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJson format&lt;/a&gt; in the following directory.&lt;p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

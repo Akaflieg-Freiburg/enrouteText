@@ -427,11 +427,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="217"/>
-        <source>… to GeoJson file</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="232"/>
         <source>… to GPX file</source>
         <translation type="unfinished"></translation>
@@ -439,11 +434,6 @@
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="248"/>
         <source>Open in other app …</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="252"/>
-        <source>… in GeoJson format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -499,6 +489,16 @@
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="510"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="538"/>
         <source>undefined</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="217"/>
+        <source>… to GeoJSON file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="252"/>
+        <source>… in GeoJSON format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -566,11 +566,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="205"/>
-        <source>… in GeoJson format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="222"/>
         <source>… in GPX format</source>
         <translation type="unfinished"></translation>
@@ -597,12 +592,17 @@
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="168"/>
-        <source>… to GeoJson file</source>
+        <source>… to GeoJSON file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="185"/>
         <source>… to GPX file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="205"/>
+        <source>… in GeoJSON format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -924,6 +924,15 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="203"/>
+        <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="211"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
@@ -969,15 +978,6 @@
 &lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
 
 &lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that. You already have &lt;strong&gt;%2 maps&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="203"/>
-        <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJson format&lt;/a&gt; in the following directory.&lt;p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
