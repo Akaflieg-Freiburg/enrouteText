@@ -748,16 +748,16 @@
     <name>InfoPage</name>
     <message>
         <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="30"/>
-        <source>About Enroute</source>
+        <source>About enroute flight navigation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="47"/>
+        <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="46"/>
         <source>Authors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="50"/>
+        <location filename="../../enroute/src/qml/pages/InfoPage.qml" line="49"/>
         <source>License</source>
         <translation type="unfinished"></translation>
     </message>
@@ -766,8 +766,7 @@
     <name>Librarian</name>
     <message>
         <location filename="../../enroute/src/Librarian.cpp" line="37"/>
-        <source>
-&lt;h3&gt;enroute flight navigation ${PROJECT_VERSION}&lt;/h3&gt;
+        <source>&lt;h3&gt;enroute flight navigation ${PROJECT_VERSION}&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;enroute flight navigation&lt;/strong&gt; is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.&lt;/p&gt;
 
@@ -793,12 +792,10 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Librarian.cpp" line="64"/>
-        <source>
-&lt;h3&gt;License&lt;/h3&gt;
+        <location filename="../../enroute/src/Librarian.cpp" line="63"/>
+        <source>&lt;h3&gt;License&lt;/h3&gt;
 
 &lt;p&gt;This program is licensed under the &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; or, at your choice, any later version of this license.&lt;/p&gt;
-
 
 &lt;h4&gt;Third-Party software and data included in this program&lt;/h4&gt;
 
@@ -808,12 +805,11 @@
 
 &lt;p&gt;The style specification of the basemap is a modified version of the &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, which is in turn originally derived from OSM Bright from Mapbox Open Styles. The code is licenses under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. The design is derived (although heavily altered) from OSM Bright from Mapbox Open Styles which is licensed under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. The map is displaying and styling modified data from &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; with &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
 
-&lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;
-</source>
+&lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Librarian.cpp" line="83"/>
+        <location filename="../../enroute/src/Librarian.cpp" line="79"/>
         <source>&lt;h3&gt;Suggest features and improvements&lt;/h3&gt;
 
 &lt;p&gt;We have great plans for &lt;strong&gt;enroute flight navigation&lt;/strong&gt;, check our &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;project list at GitHub&lt;/a&gt; to see what&apos;s coming.  Please make further suggestions through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.  We ask for your understanding that not all your suggestions can be implemented immediately.&lt;/p&gt;
@@ -824,12 +820,11 @@
 
 &lt;p&gt;This app should run fine on &lt;strong&gt;Apple devices&lt;/strong&gt;. If you would like to port the app to iOS and if you have development experience with C++/Qt programming and with Apple systems, like &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;get in touch with us&lt;/a&gt; today.&lt;/p&gt;
 
-&lt;p&gt;If you are fluent in C++ and if you would like to &lt;strong&gt;help with the programming&lt;/strong&gt;, &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;let us know&lt;/a&gt;.&lt;/p&gt;
-</source>
+&lt;p&gt;If you are fluent in C++ and if you would like to &lt;strong&gt;help with the programming&lt;/strong&gt;, &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;let us know&lt;/a&gt;.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Librarian.cpp" line="98"/>
+        <location filename="../../enroute/src/Librarian.cpp" line="93"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using enroute flight navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -840,13 +835,12 @@
 
 &lt;p&gt;On the other, the enroute app will perform much better if it doesn&apos;t have to process many megabytes of map-data at once.&lt;/p&gt;
 
-&lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that. You already have &lt;strong&gt;%2 maps&lt;/strong&gt;.</source>
+&lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that. You already have &lt;strong&gt;%2 maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Librarian.cpp" line="113"/>
-        <source>
-&lt;h3&gt;Authors&lt;/h3&gt;
+        <location filename="../../enroute/src/Librarian.cpp" line="108"/>
+        <source>&lt;h3&gt;Authors&lt;/h3&gt;
 
 &lt;br&gt;
 
@@ -913,25 +907,21 @@
 &lt;p&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;e-mail&lt;/a&gt;. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-</source>
+&lt;p&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Librarian.cpp" line="186"/>
-        <source>
-&lt;h3&gt;Bug Report&lt;/h3&gt;
+        <location filename="../../enroute/src/Librarian.cpp" line="179"/>
+        <source>&lt;h3&gt;Bug Report&lt;/h3&gt;
 
 &lt;p&gt;We aim to provide very high-quality software. Fixing errors is therefore always our first priority. We are grateful for every report that we get.&lt;/p&gt;
 
-&lt;p&gt;Please report errors through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.&lt;/p&gt;
-</source>
+&lt;p&gt;Please report errors through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Librarian.cpp" line="196"/>
-        <source>
-&lt;h3&gt;Welcome to enroute flight navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
+        <location filename="../../enroute/src/Librarian.cpp" line="187"/>
+        <source>&lt;h3&gt;Welcome to enroute flight navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
 
@@ -943,23 +933,20 @@
 
 &lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
 
-&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;
-</source>
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Librarian.cpp" line="214"/>
-        <source>
-&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJson format&lt;/a&gt; in the following directory.&lt;p&gt;
+        <location filename="../../enroute/src/Librarian.cpp" line="203"/>
+        <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJson format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;
-</source>
+&lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Librarian.cpp" line="224"/>
+        <location filename="../../enroute/src/Librarian.cpp" line="211"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;enroute flight navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -968,21 +955,18 @@
 
 &lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
 
-&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;
-</source>
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../enroute/src/Librarian.cpp" line="238"/>
-        <source>
-&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded.&lt;/p&gt;
+        <location filename="../../enroute/src/Librarian.cpp" line="223"/>
+        <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded.&lt;/p&gt;
 
 &lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
 
 &lt;p&gt;Markus Sachs has translated the app to &lt;strong&gt;German&lt;/strong&gt;.  If you prefer English, go to the &apos;Settings&apos; page where a language option has been added.&lt;/p&gt;
 
-&lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;
-</source>
+&lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1147,7 +1131,7 @@
     </message>
     <message>
         <location filename="../../enroute/src/qml/items/NavBar.qml" line="99"/>
-        <source>Track</source>
+        <source>TT</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1168,7 +1152,7 @@
     <name>ParticipatePage</name>
     <message>
         <location filename="../../enroute/src/qml/pages/ParticipatePage.qml" line="29"/>
-        <source>Help to make Enroute better</source>
+        <source>Improve this app</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1186,7 +1170,7 @@
     </message>
     <message>
         <location filename="../../enroute/src/SatNav.cpp" line="326"/>
-        <source>Connection to SatNav system lost</source>
+        <source>Connection to satellite system lost</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1210,7 +1194,7 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/SatNavStatusDialog.qml" line="29"/>
         <location filename="../../enroute/src/qml/dialogs/SatNavStatusDialog.qml" line="51"/>
-        <source>SatNav Status</source>
+        <source>Satellite Status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1260,7 +1244,7 @@
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/SatNavStatusDialog.qml" line="87"/>
-        <source>Track</source>
+        <source>TT</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1363,7 +1347,7 @@
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/SettingsPage.qml" line="148"/>
-        <source>SatNav Status</source>
+        <source>Satellite Status</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1430,10 +1414,6 @@
     <name>main</name>
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="36"/>
-        <source>Akaflieg Freiburg - Enroute</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../enroute/src/qml/main.qml" line="56"/>
         <source>enroute flight navigation</source>
         <translation type="unfinished"></translation>
@@ -1445,7 +1425,7 @@
     </message>
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="86"/>
-        <source>Nearby</source>
+        <source>Nearby Waypoints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1495,7 +1475,7 @@
     </message>
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="365"/>
-        <source>Do you wish to exit Enroute?</source>
+        <source>Do you wish to exit enroute flight navigation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
