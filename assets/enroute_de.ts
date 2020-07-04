@@ -2052,7 +2052,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../enroute/src/qml/dialogs/SatNavStatusDialog.qml" line="84"/>
         <source>Ground Speed</source>
-        <translation>Geschwindigkeit über Grund</translation>
+        <translation>v&lt;sub&gt;g&lt;/sub&gt;</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/SatNavStatusDialog.qml" line="87"/>
@@ -2081,8 +2081,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../enroute/src/qml/dialogs/SatNavStatusDialog.qml" line="107"/>
         <source>Geoidal separation</source>
-        <translatorcomment>Hier fehlt mir der Zusammenhang, um zu verstehen, was gemeint ist</translatorcomment>
-        <translation>Geoidale Abschottung???</translation>
+        <translation>Geoid-Korrektur</translation>
     </message>
 </context>
 <context>
