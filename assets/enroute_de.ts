@@ -290,7 +290,7 @@
     </message>
     <message>
         <source>Unable to write to file &apos;%1&apos; for writing.</source>
-        <translatorcomment>das engl. Original ist schräg; soll es heißen: Unable to open ...?</translatorcomment>
+        <translatorcomment>das engl. Original ist schräg; soll es heißen: Unable to open …?</translatorcomment>
         <translation type="obsolete">Datei &apos;%1&apos; kann nicht geschrieben werden</translation>
     </message>
     <message>
@@ -407,17 +407,17 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="167"/>
         <source>Open from library …</source>
-        <translation>Aus Bibliothek laden ...</translation>
+        <translation>Aus Bibliothek laden …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="178"/>
         <source>Save to library …</source>
-        <translation>In Bibliothek speichern ...</translation>
+        <translation>In Bibliothek speichern …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="190"/>
         <source>View Library …</source>
-        <translation>Bibliothek betrachten ...</translation>
+        <translation>Bibliothek betrachten …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="201"/>
@@ -442,17 +442,17 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="248"/>
         <source>Open in other app …</source>
-        <translation>In anderer App öffnen ...</translation>
+        <translation>In anderer App öffnen …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="252"/>
         <source>… in GeoJson format</source>
-        <translation>... im GeoJson-Format</translation>
+        <translation>… im GeoJson-Format</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="269"/>
         <source>… in GPX format</source>
-        <translation>... im GPX-Format</translation>
+        <translation>… im GPX-Format</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteEditor.qml" line="290"/>
@@ -569,7 +569,7 @@
     </message>
     <message>
         <source>Send …</source>
-        <translation type="vanished">Senden ...</translation>
+        <translation type="vanished">Senden …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="205"/>
@@ -584,7 +584,7 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="202"/>
         <source>Open in other app …</source>
-        <translation>In anderer App öffnen ...</translation>
+        <translation>In anderer App öffnen …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="80"/>
@@ -614,12 +614,12 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="244"/>
         <source>Rename …</source>
-        <translation>Umbenennen ...</translation>
+        <translation>Umbenennen …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="256"/>
         <source>Remove …</source>
-        <translation>Löschen ...</translation>
+        <translation>Löschen …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="298"/>
@@ -634,7 +634,7 @@
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="334"/>
         <source>An error occurred…</source>
-        <translation>Fehler aufgetreten ...</translation>
+        <translation>Fehler aufgetreten …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/FlightRouteManageLibraryPage.qml" line="390"/>
@@ -683,7 +683,7 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="30"/>
         <source>Load Flight Route from Library…</source>
-        <translation>Flugstrecke aus Bibliothek laden ...</translation>
+        <translation>Flugstrecke aus Bibliothek laden …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="72"/>
@@ -693,7 +693,7 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="151"/>
         <source>An error occurred…</source>
-        <translation>Fehler aufgetreten ...</translation>
+        <translation>Fehler aufgetreten …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteOpenDialog.qml" line="198"/>
@@ -726,31 +726,31 @@
     </message>
     <message>
         <source>Open from library …</source>
-        <translation type="vanished">Öffnen ...</translation>
+        <translation type="vanished">Öffnen …</translation>
     </message>
     <message>
         <source>Save to library …</source>
-        <translation type="vanished">Speichern ...</translation>
+        <translation type="vanished">Speichern …</translation>
     </message>
     <message>
         <source>View Library …</source>
-        <translation type="vanished">Liste sichten ...</translation>
+        <translation type="vanished">Liste sichten …</translation>
     </message>
     <message>
         <source>Send …</source>
-        <translation type="vanished">Senden ...</translation>
+        <translation type="vanished">Senden …</translation>
     </message>
     <message>
         <source>… in GeoJson format</source>
-        <translation type="vanished">... im GeoJson-Format</translation>
+        <translation type="vanished">… im GeoJson-Format</translation>
     </message>
     <message>
         <source>… in GPX format</source>
-        <translation type="vanished">... im GPX-Format</translation>
+        <translation type="vanished">… im GPX-Format</translation>
     </message>
     <message>
         <source>Open in other app …</source>
-        <translation type="vanished">In anderer App öffnen ...</translation>
+        <translation type="vanished">In anderer App öffnen …</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -834,7 +834,7 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="30"/>
         <source>Save Flight Route…</source>
-        <translation>Flugstrecke speichern ...</translation>
+        <translation>Flugstrecke speichern …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="71"/>
@@ -844,7 +844,7 @@
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="156"/>
         <source>An error occurred…</source>
-        <translation>Es ist ein Fehler aufgetreten ...</translation>
+        <translation>Es ist ein Fehler aufgetreten …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/dialogs/FlightRouteSaveDialog.qml" line="208"/>
@@ -1775,7 +1775,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <location filename="../../enroute/src/qml/pages/MapManager.qml" line="234"/>
         <location filename="../../enroute/src/qml/pages/MapManager.qml" line="420"/>
         <source>Download all updates…</source>
-        <translation>Alle Aktualisierungen herunterladen ...</translation>
+        <translation>Alle Aktualisierungen herunterladen …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/qml/pages/MapManager.qml" line="259"/>
@@ -1824,7 +1824,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../enroute/src/MobileAdaptor.cpp" line="135"/>
         <source>Downloading map data…</source>
-        <translation>Kartendaten werden heruntergeladen ...</translation>
+        <translation>Kartendaten werden heruntergeladen …</translation>
     </message>
     <message>
         <location filename="../../enroute/src/MobileAdaptor_share.cpp" line="44"/>
@@ -2296,7 +2296,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../enroute/src/qml/main.qml" line="380"/>
         <source>What&apos;s new …?</source>
-        <translation>Was ist neu ...?</translation>
+        <translation>Was ist neu …?</translation>
     </message>
     <message>
         <location filename="../../enroute/src/main.cpp" line="79"/>
