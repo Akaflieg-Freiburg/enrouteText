@@ -429,37 +429,37 @@
         <translation>Supprimer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="167"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="168"/>
         <source>Open from library …</source>
         <translation>Ouvrir depuis la bibliothèque …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="178"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="179"/>
         <source>Save to library …</source>
         <translation>Sauvegarder dans la bibliothèque …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="190"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="191"/>
         <source>View Library …</source>
         <translation>Voir la bibliothèque …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="201"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="202"/>
         <source>Import …</source>
         <translation>Importer …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="213"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="214"/>
         <source>Export …</source>
         <translation>Exporter …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="217"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="218"/>
         <source>… to GeoJSON file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="252"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="253"/>
         <source>… in GeoJSON format</source>
         <translation type="unfinished"></translation>
     </message>
@@ -468,12 +468,12 @@
         <translation type="vanished">… en GeoJson</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="232"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="233"/>
         <source>… to GPX file</source>
         <translation>… en GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="248"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="249"/>
         <source>Open in other app …</source>
         <translation>Ouvrir dans une autre app …</translation>
     </message>
@@ -482,48 +482,48 @@
         <translation type="vanished">… au format GeoJson</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="269"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="270"/>
         <source>… in GPX format</source>
         <translation>… au format GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="290"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="291"/>
         <source>Clear</source>
         <translation>Effacer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="302"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="303"/>
         <source>Reverse</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="324"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="325"/>
         <source>Route</source>
         <translation>Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="325"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="326"/>
         <source>ACFT and Wind</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="350"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="351"/>
         <source>&lt;h2&gt;Empty Route&lt;/h2&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="381"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="382"/>
         <source>True Airspeed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="388"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="457"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="389"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="458"/>
         <source>Cruise</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="418"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="419"/>
         <source>Descent</source>
         <translation type="unfinished"></translation>
     </message>
@@ -544,11 +544,11 @@
         <translation type="vanished">Vitesse de croisière</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="406"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="436"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="473"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="510"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="538"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="407"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="437"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="474"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="511"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="539"/>
         <source>undefined</source>
         <translation>non défini</translation>
     </message>
@@ -557,47 +557,47 @@
         <translation type="vanished">Vitesse de descente</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="450"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="451"/>
         <source>Fuel consumption</source>
         <translation>Consommation de carburant</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="475"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="476"/>
         <source>l/h</source>
         <translation>l/h</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="487"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="488"/>
         <source>Wind</source>
         <translation>Vent</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="494"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="495"/>
         <source>Direction</source>
         <translation>Direction</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="522"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="523"/>
         <source>Speed</source>
         <translation>Vitesse</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="577"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="578"/>
         <source>Add Waypoint</source>
         <translation>Ajouter un point tournant</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="595"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="596"/>
         <source>Clear route?</source>
         <translation>Effacer la route ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="607"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="608"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>La route ne pourra pas être rétablie si elle est effacée.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="649"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="650"/>
         <source>Error exporting data…</source>
         <translation>Erreur lors de l&apos;exportation des données…</translation>
     </message>
@@ -780,17 +780,22 @@
         <translation>Entrez un nom de fichier ou choisissez un nom existant depuis la liste ci-dessous.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="156"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="82"/>
+        <source>File Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="158"/>
         <source>An error occurred…</source>
         <translation>Une erreur s&apos;est produite…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="208"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="210"/>
         <source>Overwrite file?</source>
         <translation>Ecraser le fichier ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="215"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="217"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
         <translation>Le fichier &lt;strong&gt;%1&lt;/strong&gt; existe déjà dans la bibliothèque. Voulez-vous l&apos;écraser ?</translation>
     </message>
@@ -1585,14 +1590,22 @@
 <context>
     <name>NavBar</name>
     <message>
-        <location filename="../../../src/qml/items/NavBar.qml" line="84"/>
         <source>Altitude</source>
-        <translation>Altitude</translation>
+        <translation type="vanished">Altitude</translation>
+    </message>
+    <message>
+        <source>Ground Speed</source>
+        <translation type="vanished">Vitesse sol</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/NavBar.qml" line="84"/>
+        <source>ALT</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="92"/>
-        <source>Ground Speed</source>
-        <translation>Vitesse sol</translation>
+        <source>GS</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="99"/>
@@ -1607,12 +1620,31 @@
 <context>
     <name>Nearby</name>
     <message>
-        <location filename="../../../src/qml/pages/Nearby.qml" line="31"/>
         <source>Nearby</source>
-        <translation type="unfinished">A proximité</translation>
+        <translation type="obsolete">A proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Nearby.qml" line="109"/>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="31"/>
+        <source>Nearby Waypoints</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="44"/>
+        <source>AD</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="45"/>
+        <source>NAV</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="46"/>
+        <source>REP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="101"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation type="unfinished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune donnée disponible. Merci de vous assurer qu&apos;une carté aéronautique est installée.&lt;/p&gt;</translation>
     </message>
@@ -1889,18 +1921,34 @@
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="295"/>
+        <source>Direct</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="310"/>
+        <source>from Route</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="310"/>
+        <source>to Route</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Route</source>
+        <translation type="obsolete">Route</translation>
+    </message>
+    <message>
         <source>Direct to</source>
-        <translation>Aller vers</translation>
+        <translation type="vanished">Aller vers</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="309"/>
         <source>Remove from route</source>
-        <translation>Enlever de la route</translation>
+        <translation type="vanished">Enlever de la route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="309"/>
         <source>Add to route</source>
-        <translation>Ajouter à la route</translation>
+        <translation type="vanished">Ajouter à la route</translation>
     </message>
 </context>
 <context>
