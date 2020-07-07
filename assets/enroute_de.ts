@@ -25,32 +25,36 @@
         <translation>ft MSL</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="84"/>
         <source>The current raw altimeter reading as reported by the satellite navigation system is %1 AMSL. The corrected altitude is %2 AMSL.</source>
-        <translation>Die Flughöhe laut SatNav ist %1 AMSL, die korrigierte Flughöhe ist %2 AMSL.</translation>
+        <translation type="vanished">Die Flughöhe laut SatNav ist %1 AMSL, die korrigierte Flughöhe ist %2 AMSL.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="86"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="84"/>
+        <source>The current raw altimeter reading as reported by the satellite navigation system is %1 AMSL.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="85"/>
         <source>Insufficient satellite reception. Altimeter cannot be set.</source>
         <translation>Ungenügender Satellitenempfang. Höhenmesser kann nicht eingestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="155"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="154"/>
         <source>Altimeter cannot be set</source>
         <translation>Höhenmesser kann nicht eingestellt werden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="158"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="157"/>
         <source>Insufficient satellite reception. Please try again once reception becomes better.</source>
         <translation>Ungenügender Satellitenempfang. Bitte bei besserem Empfang neu versuchen.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="183"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="182"/>
         <source>Really set %1 ft?</source>
         <translation>Wirklich %1 ft einstellen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="186"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="185"/>
         <source>The altitude reported by the satellite navigation system is %1 AMSL. That is a big difference.</source>
         <translation>Die Flughöhe laut SatNav ist %1 AMSL. Das ist eine große Differenz!</translation>
     </message>
@@ -433,6 +437,11 @@
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="214"/>
         <source>Export …</source>
         <translation>Exportieren …</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="214"/>
+        <source>Share …</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="218"/>
