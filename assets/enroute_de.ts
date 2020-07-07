@@ -31,7 +31,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="84"/>
         <source>The current raw altimeter reading as reported by the satellite navigation system is %1 AMSL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Flughöhe laut Satellitensystem ist %1 AMSL.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="85"/>
@@ -441,7 +441,7 @@
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="214"/>
         <source>Share …</source>
-        <translation type="unfinished"></translation>
+        <translation>Teilen …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="218"/>
@@ -593,22 +593,142 @@
     </message>
 </context>
 <context>
+    <name>FlightRouteLibrary</name>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="31"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="381"/>
+        <source>Flight Route Library</source>
+        <translation type="unfinished">Flugstrecken</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="80"/>
+        <source>Info …</source>
+        <translation type="unfinished">Info …</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="89"/>
+        <source>Import …</source>
+        <translation type="unfinished">Importieren …</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="112"/>
+        <source>Filter Flight Route Names</source>
+        <translation type="unfinished">Flugstrecken nach Namen filtern</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="150"/>
+        <source>Open</source>
+        <translation type="unfinished">Öffnen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="165"/>
+        <source>Export …</source>
+        <translation type="unfinished">Exportieren …</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="168"/>
+        <source>… to GeoJSON file</source>
+        <translation type="unfinished">… als GeoJSON-Datei</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="185"/>
+        <source>… to GPX file</source>
+        <translation type="unfinished">… als GPX-Datei</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="202"/>
+        <source>Open in other app …</source>
+        <translation type="unfinished">In anderer App öffnen …</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="205"/>
+        <source>… in GeoJSON format</source>
+        <translation type="unfinished">… im GeoJSON-Format</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="222"/>
+        <source>… in GPX format</source>
+        <translation type="unfinished">… im GPX-Format</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="244"/>
+        <source>Rename …</source>
+        <translation type="unfinished">Umbenennen …</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="256"/>
+        <source>Remove …</source>
+        <translation type="unfinished">Löschen …</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="298"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes available. To add a route here, chose &apos;Flight Route&apos; from the main menu, edit a route and save it to the library.&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Strecken vorhanden.Zum Hinzufügen &apos;Flugstrecke&apos; im Hauptmenü wählen, eine Strecke edieren und dann speichern.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="299"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes match your filter criteria.&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Strecken passen zur Auswahl.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="334"/>
+        <source>An error occurred…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="390"/>
+        <source>Overwrite current flight route?</source>
+        <translation type="unfinished">Aktuelle Flugstrecke überschreiben?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="400"/>
+        <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="430"/>
+        <source>Remove from device?</source>
+        <translation type="unfinished">Vom Gerät löschen?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="440"/>
+        <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
+        <translation type="unfinished">Die Strecke &lt;strong&gt;%1&lt;/strong&gt; kann nach dem Löschen nicht wiederhergestellt werden.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="471"/>
+        <source>Rename Flight Route</source>
+        <translation type="unfinished">Flugstrecke umbenennen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="489"/>
+        <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
+        <translation type="unfinished">Geben Sie für die Strecke &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="515"/>
+        <source>Rename</source>
+        <translation type="unfinished">Umbenennen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="545"/>
+        <source>Error exporting data…</source>
+        <translation type="unfinished">Fehler beim Exportieren der Daten…</translation>
+    </message>
+</context>
+<context>
     <name>FlightRouteManageLibraryPage</name>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="31"/>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="381"/>
         <source>Flight Route Library</source>
-        <translation>Flugstrecken</translation>
+        <translation type="vanished">Flugstrecken</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="112"/>
         <source>Filter Flight Route Names</source>
-        <translation>Flugstrecken nach Namen filtern</translation>
+        <translation type="vanished">Flugstrecken nach Namen filtern</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="150"/>
         <source>Open</source>
-        <translation>Öffnen</translation>
+        <translation type="vanished">Öffnen</translation>
     </message>
     <message>
         <source>Send …</source>
@@ -619,114 +739,93 @@
         <translation type="vanished">… im GeoJson-Format</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="222"/>
         <source>… in GPX format</source>
-        <translation>… im GPX-Format</translation>
+        <translation type="vanished">… im GPX-Format</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="202"/>
         <source>Open in other app …</source>
-        <translation>In anderer App öffnen …</translation>
+        <translation type="vanished">In anderer App öffnen …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="80"/>
         <source>Info …</source>
-        <translation>Info …</translation>
+        <translation type="vanished">Info …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="89"/>
         <source>Import …</source>
-        <translation>Importieren …</translation>
+        <translation type="vanished">Importieren …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="165"/>
         <source>Export …</source>
-        <translation>Exportieren …</translation>
+        <translation type="vanished">Exportieren …</translation>
     </message>
     <message>
         <source>… to GeoJson file</source>
         <translation type="vanished">… als GeoJson-Datei</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="168"/>
         <source>… to GeoJSON file</source>
-        <translation>… als GeoJSON-Datei</translation>
+        <translation type="vanished">… als GeoJSON-Datei</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="185"/>
         <source>… to GPX file</source>
-        <translation>… als GPX-Datei</translation>
+        <translation type="vanished">… als GPX-Datei</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="205"/>
         <source>… in GeoJSON format</source>
-        <translation>… im GeoJSON-Format</translation>
+        <translation type="vanished">… im GeoJSON-Format</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="244"/>
         <source>Rename …</source>
-        <translation>Umbenennen …</translation>
+        <translation type="vanished">Umbenennen …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="256"/>
         <source>Remove …</source>
-        <translation>Löschen …</translation>
+        <translation type="vanished">Löschen …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="298"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes available. To add a route here, chose &apos;Flight Route&apos; from the main menu, edit a route and save it to the library.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Strecken vorhanden.Zum Hinzufügen &apos;Flugstrecke&apos; im Hauptmenü wählen, eine Strecke edieren und dann speichern.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Strecken vorhanden.Zum Hinzufügen &apos;Flugstrecke&apos; im Hauptmenü wählen, eine Strecke edieren und dann speichern.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="299"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes match your filter criteria.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Strecken passen zur Auswahl.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Strecken passen zur Auswahl.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="334"/>
         <source>An error occurred…</source>
-        <translation>Fehler aufgetreten …</translation>
+        <translation type="vanished">Fehler aufgetreten …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="390"/>
         <source>Overwrite current flight route?</source>
-        <translation>Aktuelle Flugstrecke überschreiben?</translation>
+        <translation type="vanished">Aktuelle Flugstrecke überschreiben?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="400"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation>Die Strecke &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Strecke. Diese kann dann nicht mehr wiederhergestellt werden.</translation>
+        <translation type="vanished">Die Strecke &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Strecke. Diese kann dann nicht mehr wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="430"/>
         <source>Remove from device?</source>
-        <translation>Vom Gerät löschen?</translation>
+        <translation type="vanished">Vom Gerät löschen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="440"/>
         <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation>Die Strecke &lt;strong&gt;%1&lt;/strong&gt; kann nach dem Löschen nicht wiederhergestellt werden.</translation>
+        <translation type="vanished">Die Strecke &lt;strong&gt;%1&lt;/strong&gt; kann nach dem Löschen nicht wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="471"/>
         <source>Rename Flight Route</source>
-        <translation>Flugstrecke umbenennen</translation>
+        <translation type="vanished">Flugstrecke umbenennen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="489"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translatorcomment>evtl. kürzer: Geben Sie für &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translatorcomment>
-        <translation>Geben Sie für die Strecke &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translation>
+        <translation type="vanished">Geben Sie für die Strecke &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="515"/>
         <source>Rename</source>
-        <translation>Umbenennen</translation>
+        <translation type="vanished">Umbenennen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteManageLibraryPage.qml" line="545"/>
         <source>Error exporting data…</source>
-        <translation>Fehler beim Exportieren der Daten…</translation>
+        <translation type="vanished">Fehler beim Exportieren der Daten…</translation>
     </message>
 </context>
 <context>
