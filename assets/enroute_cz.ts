@@ -1295,17 +1295,7 @@
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="101"/>
-        <source>Altitude (raw)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="104"/>
-        <source>Altitude (corrected)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="107"/>
-        <source>Geoidal separation</source>
+        <source>ALT</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

@@ -622,7 +622,7 @@
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="151"/>
         <source>Open …</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="166"/>
@@ -632,7 +632,7 @@
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="166"/>
         <source>Share …</source>
-        <translation type="unfinished">Teilen …</translation>
+        <translation>Teilen …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="169"/>
@@ -2258,6 +2258,11 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation>Fehler</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="101"/>
+        <source>ALT</source>
+        <translation type="unfinished">ALT</translation>
+    </message>
+    <message>
         <source>Error Estimate</source>
         <translation type="vanished">Geschätzter Fehler</translation>
     </message>
@@ -2281,19 +2286,16 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation>Vertikal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="101"/>
         <source>Altitude (raw)</source>
-        <translation>Flughöhe (roh)</translation>
+        <translation type="vanished">Flughöhe (roh)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="104"/>
         <source>Altitude (corrected)</source>
-        <translation>Flughöhe (korrigiert)</translation>
+        <translation type="vanished">Flughöhe (korrigiert)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="107"/>
         <source>Geoidal separation</source>
-        <translation>Geoid-Korrektur</translation>
+        <translation type="vanished">Geoid-Korrektur</translation>
     </message>
 </context>
 <context>
@@ -2315,7 +2317,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="54"/>
         <source>Hide Airspaces ≥ FL100</source>
-        <translation type="unfinished"></translation>
+        <translation>Lufträume ≥ FL 100 ausblenden</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="55"/>
@@ -2340,22 +2342,22 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="116"/>
         <source>Use metric units</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwende metrische Einheiten</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="119"/>
         <source>Speed in km/h, distance in km</source>
-        <translation type="unfinished"></translation>
+        <translation>Geschwindigkeit in km/h, Distanzen in km</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="120"/>
         <source>Speed in kt, distance in NM</source>
-        <translation type="unfinished"></translation>
+        <translation>Geschwindigkeit in kt, Distanzen in NM</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="135"/>
         <source>Use English</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwende Englisch</translation>
     </message>
     <message>
         <source>Download Maps</source>
@@ -2542,12 +2544,12 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/main.qml" line="141"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Information</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="156"/>
         <source>About Enroute Flight Navigation</source>
-        <translation type="unfinished">Über Enroute Flight Navigation</translation>
+        <translation>Über Enroute Flight Navigation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="170"/>

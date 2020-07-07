@@ -1860,6 +1860,11 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="101"/>
+        <source>ALT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error Estimate</source>
         <translation type="vanished">Estimation de l&apos;erreur</translation>
     </message>
@@ -1883,19 +1888,16 @@
         <translation>Vertical</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="101"/>
         <source>Altitude (raw)</source>
-        <translation>Altitude</translation>
+        <translation type="vanished">Altitude</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="104"/>
         <source>Altitude (corrected)</source>
-        <translation>Altitude corrigée</translation>
+        <translation type="vanished">Altitude corrigée</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="107"/>
         <source>Geoidal separation</source>
-        <translation>Séparation géoïdale</translation>
+        <translation type="vanished">Séparation géoïdale</translation>
     </message>
 </context>
 <context>
