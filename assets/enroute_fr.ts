@@ -775,7 +775,7 @@
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="30"/>
         <source>About Enroute Flight Navigation</source>
-        <translation>A propos d&apos;Enroute navigation</translation>
+        <translation>A propos d&apos;Enroute Flight Navigation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="46"/>
@@ -892,7 +892,7 @@
         <translation>
 &lt;h3&gt;Suggérer des améliorations ou des nouvelles fonctionalités&lt;/h3&gt;
 
-&lt;p&gt;Nous developpons activement &lt;strong&gt;Enroute Navigation&lt;/strong&gt;, notre &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/xroute/projects&quot;&gt;page de projet GitHub&lt;/a&gt; donne une vue d&apos;ensemble sur nos futurs projets. Si vous avez d&apos;autres suggestions, n&apos;hésitez pas à ouvrir une &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/xroute/issues&quot;&gt;issue GitHub&lt;/a&gt;. Si vous ne possédez pas un compte GitHub, vous pouvez &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contacter l&apos;autheur&lt;/a&gt; directement. Toutes vos suggestions ne pourront sans doute pas être implémentées dans l&apos;immédiat. Nous vous remercions pour votre compréhension.&lt;/p&gt;
+&lt;p&gt;Nous developpons activement &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;, notre &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/xroute/projects&quot;&gt;page de projet GitHub&lt;/a&gt; donne une vue d&apos;ensemble sur nos futurs projets. Si vous avez d&apos;autres suggestions, n&apos;hésitez pas à ouvrir une &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/xroute/issues&quot;&gt;issue GitHub&lt;/a&gt;. Si vous ne possédez pas un compte GitHub, vous pouvez &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contacter l&apos;autheur&lt;/a&gt; directement. Toutes vos suggestions ne pourront sans doute pas être implémentées dans l&apos;immédiat. Nous vous remercions pour votre compréhension.&lt;/p&gt;
 
 &lt;h3&gt;Rejoindre le projet&lt;/h3&gt;
 
@@ -925,7 +925,7 @@
 
 &lt;p&gt;La bande passante requise pour télécharger les cartes est fournie par l&apos;Université de Freiburg, à la condition que &lt;strong&gt;les coups restent raisonnables.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;D&apos;autre part, l&apos;application Enroute sera plus performante si elle ne doit pas traiter des tonnes de données d&apos;un seul coup.&lt;/p&gt;
+&lt;p&gt;D&apos;autre part, l&apos;application sera plus performante si elle ne doit pas traiter des tonnes de données d&apos;un seul coup.&lt;/p&gt;
 
 &lt;p&gt;Nous faisons notre possible pour éviter d&apos;imposer une limite sur le nombre de cartes. Merci d&apos;être compréhensifs et de nous y aider. Vous avez déjà &lt;strong&gt;%2 cartes&lt;/strong&gt;.
 </translation>
@@ -1625,7 +1625,7 @@
     <message>
         <location filename="../../../src/qml/main.qml" line="36"/>
         <source>Enroute Flight Navigation</source>
-        <translation>Enroute Navigation</translation>
+        <translation>Enroute Flight Navigation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="67"/>
@@ -1685,7 +1685,7 @@
     <message>
         <location filename="../../../src/qml/main.qml" line="360"/>
         <source>Do you wish to exit Enroute Flight Navigation?</source>
-        <translation>Voulez-vous quitter enroute navigation</translation>
+        <translation>Voulez-vous quitter Enroute Flight Navigation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="375"/>
@@ -1695,7 +1695,7 @@
     <message>
         <location filename="../../../src/main.cpp" line="79"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
-        <translation>Enroute Navigation est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.</translation>
+        <translation>Enroute Flight Navigation est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="82"/>
