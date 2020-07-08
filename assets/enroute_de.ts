@@ -1616,7 +1616,31 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+
+&lt;p&gt;Version %1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ist eine kostenlose Navigations-App für VFR-Piloten, entwickelt als Projekt der Akaflieg Freiburg.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Einfach, elegant und funktional&lt;/li&gt;
+  &lt;li&gt;Keine Anzeigen, keine kommerzielle &quot;Pro&quot;-Version&lt;/li&gt;
+  &lt;li&gt;Keine Registrierung, keine Mitgliedschaft&lt;/li&gt;
+  &lt;li&gt;Spioniert Sie nicht aus&lt;/li&gt;
+  &lt;li&gt;100% Open Source, geschrieben ohne kommerzielle Interessen&lt;/li&gt;
+&lt;/ul&gt;
+
+Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unserer Website&lt;/a&gt; finden sich weiterführende Informationen.
+
+&lt;h3&gt;Akademischer Sponsor&lt;/h3&gt;
+
+&lt;p&gt;Der Autor ist dankbar für die Unterstützung unseres akademischen Sponsors, der &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Universität Freiburg&lt;/a&gt;. Sie stellt uns freundlicherweise die Infrastruktur zur Erzeugung unserer Karten und die Bandbreite der Netzanbindung zur Verfügung.&lt;/p&gt;
+
+&lt;h3&gt;Weitere Danksagungen&lt;/h3&gt;
+
+&lt;p&gt;Dieses Programm basiert auf einer Anzahl von Open-Source-Bibliotheken, einschließlich &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; und &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Freundlicherweise zur Verfügung gestellt werden uns die Luftfahrtdaten von den Projekten &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; und &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;Open Flightmaps&lt;/a&gt; sowie die Basiskarten von  &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Details dazu finden Sie in der Dokumentation.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="65"/>
