@@ -24,13 +24,9 @@
         <translation>ft AMSL</translation>
     </message>
     <message>
-        <source>The current raw altimeter reading as reported by the satellite navigation system is %1 AMSL. The corrected altitude is %2 AMSL.</source>
-        <translation type="vanished">L&apos;altitude donnée par le système de navigation satellite est de %1 AMSL. L&apos;altitude corrigée est de %2 AMSL.</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="84"/>
         <source>The current raw altimeter reading as reported by the satellite navigation system is %1 AMSL.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;altitude donnée par le système de navigation satellite est de %1 AMSL.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="85"/>
@@ -433,7 +429,7 @@
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="214"/>
         <source>Share …</source>
-        <translation type="unfinished"></translation>
+        <translation>Partager …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="218"/>
@@ -454,10 +450,6 @@
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="249"/>
         <source>Open in other app …</source>
         <translation>Ouvrir dans une autre app …</translation>
-    </message>
-    <message>
-        <source>… in GeoJson format</source>
-        <translation type="vanished">… au format GeoJson</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="270"/>
@@ -515,10 +507,6 @@
         <translation>non défini</translation>
     </message>
     <message>
-        <source>Descent Speed</source>
-        <translation type="vanished">Vitesse de descente</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="451"/>
         <source>Fuel consumption</source>
         <translation>Consommation de carburant</translation>
@@ -570,230 +558,127 @@
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="31"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="382"/>
         <source>Flight Route Library</source>
-        <translation type="unfinished">Bibliothèque des routes</translation>
+        <translation>Bibliothèque des routes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="80"/>
         <source>Info …</source>
-        <translation type="unfinished">Info …</translation>
+        <translation>Info …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="89"/>
         <source>Import …</source>
-        <translation type="unfinished">Importer …</translation>
+        <translation>Importer …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="113"/>
         <source>Filter Flight Route Names</source>
-        <translation type="unfinished">Filtrer les routes</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="obsolete">Ouvrir</translation>
+        <translation>Filtrer les routes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="151"/>
         <source>Open …</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="166"/>
         <source>Export …</source>
-        <translation type="unfinished">Exporter …</translation>
+        <translation>Exporter …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="166"/>
         <source>Share …</source>
-        <translation type="unfinished"></translation>
+        <translation>Partager …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="169"/>
         <source>… to GeoJSON file</source>
-        <translation type="unfinished"></translation>
+        <translation>… en GeoJSON</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="186"/>
         <source>… to GPX file</source>
-        <translation type="unfinished">… en GPX</translation>
+        <translation>… en GPX</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
         <source>Open in other app …</source>
-        <translation type="unfinished">Ouvrir dans une autre app …</translation>
+        <translation>Ouvrir dans une autre app …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="206"/>
         <source>… in GeoJSON format</source>
-        <translation type="unfinished"></translation>
+        <translation>… au format GeoJSON</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="223"/>
         <source>… in GPX format</source>
-        <translation type="unfinished">… au format GPX</translation>
+        <translation>… au format GPX</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="245"/>
         <source>Rename …</source>
-        <translation type="unfinished">Renommer …</translation>
+        <translation>Renommer …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="257"/>
         <source>Remove …</source>
-        <translation type="unfinished">Supprimer …</translation>
+        <translation>Supprimer …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="299"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes available. To add a route here, chose &apos;Flight Route&apos; from the main menu, edit a route and save it to the library.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune route disponible. Pour ajouter une route, choissisez &apos;Route&apos; depuis le menu principal, modifiez la route et sauvegardez la dans la bibliothèque.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune route disponible. Pour ajouter une route, choissisez &apos;Route&apos; depuis le menu principal, modifiez la route et sauvegardez la dans la bibliothèque.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="300"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes match your filter criteria.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune route ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune route ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="335"/>
         <source>An error occurred…</source>
-        <translation type="unfinished">Une erreur s&apos;est produite…</translation>
+        <translation>Une erreur s&apos;est produite…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="391"/>
         <source>Overwrite current flight route?</source>
-        <translation type="unfinished">Ecraser la route actuelle ?</translation>
+        <translation>Ecraser la route actuelle ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="401"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="unfinished">Charger la route &lt;strong&gt;%1&lt;/strong&gt; écrasera la route actuelle. Une fois écrasée, la route actuelle ne pourra plus être restaurée.</translation>
+        <translation>Charger la route &lt;strong&gt;%1&lt;/strong&gt; écrasera la route actuelle. Une fois écrasée, la route actuelle ne pourra plus être restaurée.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="431"/>
         <source>Remove from device?</source>
-        <translation type="unfinished">Effacer de l&apos;appareil ?</translation>
+        <translation>Effacer de l&apos;appareil ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="441"/>
         <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation type="unfinished">Après que la route &lt;strong&gt;%1&lt;/strong&gt; ait été supprimée, elle ne pourra pas être restaurée.</translation>
+        <translation>La route &lt;strong&gt;%1&lt;/strong&gt; ne pourra pas être restaurée si elle est suprrimée.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="472"/>
         <source>Rename Flight Route</source>
-        <translation type="unfinished">Renommer la route</translation>
+        <translation>Renommer la route</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="490"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished">Entrez un nouveau nom de route &lt;strong&gt;%1&lt;/strong&gt;.</translation>
+        <translation>Entrez un nouveau nom de route &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="516"/>
         <source>Rename</source>
-        <translation type="unfinished">Renommer</translation>
+        <translation>Renommer</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="546"/>
         <source>Error exporting data…</source>
-        <translation type="unfinished">Erreur lors de l&apos;exportation des données…</translation>
-    </message>
-</context>
-<context>
-    <name>FlightRouteManageLibraryPage</name>
-    <message>
-        <source>Flight Route Library</source>
-        <translation type="vanished">Bibliothèque des routes</translation>
-    </message>
-    <message>
-        <source>Info …</source>
-        <translation type="vanished">Info …</translation>
-    </message>
-    <message>
-        <source>Import …</source>
-        <translation type="vanished">Importer …</translation>
-    </message>
-    <message>
-        <source>Filter Flight Route Names</source>
-        <translation type="vanished">Filtrer les routes</translation>
-    </message>
-    <message>
-        <source>Open</source>
-        <translation type="vanished">Ouvrir</translation>
-    </message>
-    <message>
-        <source>Export …</source>
-        <translation type="vanished">Exporter …</translation>
-    </message>
-    <message>
-        <source>… to GeoJson file</source>
-        <translation type="vanished">… en GeoJson</translation>
-    </message>
-    <message>
-        <source>… to GPX file</source>
-        <translation type="vanished">… en GPX</translation>
-    </message>
-    <message>
-        <source>Open in other app …</source>
-        <translation type="vanished">Ouvrir dans une autre app …</translation>
-    </message>
-    <message>
-        <source>… in GeoJson format</source>
-        <translation type="vanished">… au format GeoJson</translation>
-    </message>
-    <message>
-        <source>… in GPX format</source>
-        <translation type="vanished">… au format GPX</translation>
-    </message>
-    <message>
-        <source>Rename …</source>
-        <translation type="vanished">Renommer …</translation>
-    </message>
-    <message>
-        <source>Remove …</source>
-        <translation type="vanished">Supprimer …</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes available. To add a route here, chose &apos;Flight Route&apos; from the main menu, edit a route and save it to the library.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune route disponible. Pour ajouter une route, choissisez &apos;Route&apos; depuis le menu principal, modifiez la route et sauvegardez la dans la bibliothèque.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes match your filter criteria.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune route ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>An error occurred…</source>
-        <translation type="vanished">Une erreur s&apos;est produite…</translation>
-    </message>
-    <message>
-        <source>Overwrite current flight route?</source>
-        <translation type="vanished">Ecraser la route actuelle ?</translation>
-    </message>
-    <message>
-        <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="vanished">Charger la route &lt;strong&gt;%1&lt;/strong&gt; écrasera la route actuelle. Une fois écrasée, la route actuelle ne pourra plus être restaurée.</translation>
-    </message>
-    <message>
-        <source>Remove from device?</source>
-        <translation type="vanished">Effacer de l&apos;appareil ?</translation>
-    </message>
-    <message>
-        <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation type="vanished">Après que la route &lt;strong&gt;%1&lt;/strong&gt; ait été supprimée, elle ne pourra pas être restaurée.</translation>
-    </message>
-    <message>
-        <source>Rename Flight Route</source>
-        <translation type="vanished">Renommer la route</translation>
-    </message>
-    <message>
-        <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="vanished">Entrez un nouveau nom de route &lt;strong&gt;%1&lt;/strong&gt;.</translation>
-    </message>
-    <message>
-        <source>Rename</source>
-        <translation type="vanished">Renommer</translation>
-    </message>
-    <message>
-        <source>Error exporting data…</source>
-        <translation type="vanished">Erreur lors de l&apos;exportation des données…</translation>
+        <translation>Erreur lors de l&apos;exportation des données…</translation>
     </message>
 </context>
 <context>
@@ -844,7 +729,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="82"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom du fichier</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="158"/>
@@ -906,7 +791,7 @@
 <context>
     <name>Librarian</name>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="63"/>
+        <location filename="../../../src/Librarian.cpp" line="65"/>
         <source>&lt;h3&gt;License&lt;/h3&gt;
 
 &lt;p&gt;This program is licensed under the &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; or, at your choice, any later version of this license.&lt;/p&gt;
@@ -925,7 +810,6 @@
 
 &lt;p&gt;Ce logiciel est licensié sous la &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; ou tout autre version plus récente de la même license.&lt;/p&gt;
 
-
 &lt;h4&gt;Autres logiciels et données inclus dans l&apos;application&lt;/h4&gt;
 
 &lt;p&gt;Ce programme inclut plusieurs bibliothèques du projet &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt;, licensié sous la license &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, licensiée sous la &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;license MIT&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, licensiée sous la license &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
@@ -939,7 +823,9 @@
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="37"/>
-        <source>&lt;h3&gt;Enroute Flight Navigation ${PROJECT_VERSION}&lt;/h3&gt;
+        <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+
+&lt;p&gt;Version %1&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.&lt;/p&gt;
 
@@ -963,9 +849,11 @@
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
         <translation>
-&lt;h3&gt;Enroute Flight Navigation ${PROJECT_VERSION}&lt;/h3&gt;
+&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Enroute Navigation&lt;/strong&gt; est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.&lt;/p&gt;
+&lt;p&gt;Version %1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Simple, élégante et fonctionnelle&lt;/li&gt;
@@ -989,7 +877,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="79"/>
+        <location filename="../../../src/Librarian.cpp" line="81"/>
         <source>&lt;h3&gt;Suggest features and improvements&lt;/h3&gt;
 
 &lt;p&gt;We have great plans for &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;, check our &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;project list at GitHub&lt;/a&gt; to see what&apos;s coming.  Please make further suggestions through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.  We ask for your understanding that not all your suggestions can be implemented immediately.&lt;/p&gt;
@@ -1016,7 +904,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="93"/>
+        <location filename="../../../src/Librarian.cpp" line="95"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -1031,7 +919,7 @@
         <translation>
 &lt;h3&gt;Trop de cartes&lt;/h3&gt;
 
-&lt;p&gt;Merci d&apos;utiliser Enroute Navigation, votre engouement nous touche beaucoup.&lt;/p&gt;
+&lt;p&gt;Merci d&apos;utiliser Enroute Flight Navigation, votre engouement nous touche beaucoup.&lt;/p&gt;
 
 &lt;p&gt;Cependant, nous vous demandons de bien vouloir &lt;strong&gt;vous limiter à 8 %1.&lt;/strong&gt;
 
@@ -1043,7 +931,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="108"/>
+        <location filename="../../../src/Librarian.cpp" line="110"/>
         <source>&lt;h3&gt;Authors&lt;/h3&gt;
 
 &lt;br&gt;
@@ -1120,7 +1008,7 @@
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;L&apos;application &lt;strong&gt;Enroute Navigation&lt;/strong&gt; est écrite par Stefan Kebekus, amateur pilote depuis 1986 et membre de l&apos;aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
+      &lt;p&gt;L&apos;application &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est développée par Stefan Kebekus, amateur pilote depuis 1986 et membre de l&apos;aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
       &lt;h4&gt;Adresse&lt;/h4&gt;
       Stefan Kebekus&lt;br&gt;
       Wintererstraße 77&lt;br&gt;
@@ -1184,7 +1072,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="179"/>
+        <location filename="../../../src/Librarian.cpp" line="181"/>
         <source>&lt;h3&gt;Bug Report&lt;/h3&gt;
 
 &lt;p&gt;We aim to provide very high-quality software. Fixing errors is therefore always our first priority. We are grateful for every report that we get.&lt;/p&gt;
@@ -1199,7 +1087,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="203"/>
+        <location filename="../../../src/Librarian.cpp" line="205"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1214,7 +1102,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="211"/>
+        <location filename="../../../src/Librarian.cpp" line="213"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -1227,7 +1115,7 @@
         <translation>
 &lt;h3&gt;Autorisations manquantes&lt;/h3&gt;
 
-&lt;p&gt;L&apos;application &lt;strong&gt;Enroute Navigation&lt;/strong&gt; ne peut pas démarrer car certaines autorisations essentielles n&apos;ont pas été accordées. Merci de redémarrer l&apos;application et de donner ces autorisations. Si vous avez refusé des autorisations de manière permanente, vous devrez vous rendre dans les paramètres d&apos;application de votre téléphone pour y accorder les autorisations.&lt;/p&gt;
+&lt;p&gt;L&apos;application &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ne peut pas démarrer car certaines autorisations essentielles n&apos;ont pas été accordées. Merci de redémarrer l&apos;application et de donner ces autorisations. Si vous avez refusé des autorisations de manière permanente, vous devrez vous rendre dans les paramètres d&apos;application de votre téléphone pour y accorder les autorisations.&lt;/p&gt;
 
 &lt;p&gt;Notre &lt;a href=&quot;https://akaflieg-freiburg.github.io/xroute/privacy#privileges-of-the-android-app&quot; title=&quot;privacy policies&quot;&gt;politique de confidentialité&lt;/a&gt; explique quelles autorisations sont nécessaires et pourquoi elles sont utilisées.&lt;/p&gt;
 
@@ -1237,7 +1125,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="223"/>
+        <location filename="../../../src/Librarian.cpp" line="225"/>
         <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded.&lt;/p&gt;
 
 &lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
@@ -1256,196 +1144,6 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="65"/>
-        <source>&lt;h3&gt;License&lt;/h3&gt;
-
-&lt;p&gt;This program is licensed under the &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; or, at your choice, any later version of this license.&lt;/p&gt;
-
-&lt;h4&gt;Third-Party software and data included in this program&lt;/h4&gt;
-
-&lt;p&gt;This program includes several libraries from the &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt; project, licensed under the &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;. This program includes the library &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;MIT license&lt;/a&gt;. This program includes the library &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, licensed under the &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This program includes versions of the &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;Google Roboto Fonts&lt;/a&gt;, which are licensed under the &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; license. This program includes several &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;Google Material Design Icons&lt;/a&gt;, which are licensed under the &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; license.&lt;/p&gt;
-
-&lt;p&gt;The style specification of the basemap is a modified version of the &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, which is in turn originally derived from OSM Bright from Mapbox Open Styles. The code is licenses under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. The design is derived (although heavily altered) from OSM Bright from Mapbox Open Styles which is licensed under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. The map is displaying and styling modified data from &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; with &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
-
-&lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="37"/>
-        <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
-
-&lt;p&gt;Version %1&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Simple, elegant and functional&lt;/li&gt;
-  &lt;li&gt;No ads, no commercical &quot;pro&quot; version&lt;/li&gt;
-  &lt;li&gt;No registration, no membership&lt;/li&gt;
-  &lt;li&gt;Does not spy on you&lt;/li&gt;
-  &lt;li&gt;100% Open Source, written without commercial interest&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Check &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;the web site&lt;/a&gt; for more information.&lt;/p&gt;
-
-&lt;h3&gt;Academic Sponsor&lt;/h3&gt;
-      
-&lt;p&gt;The author gratefully acknowledges support by our academic sponsor, the &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;University of Freiburg&lt;/a&gt;.  The university kindly provides the infrastructure used to generate our maps, and the bandwidth required to serve them.&lt;/p&gt;
-
-&lt;h3&gt;Acknowledgements&lt;/h3&gt;
-
-&lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="81"/>
-        <source>&lt;h3&gt;Suggest features and improvements&lt;/h3&gt;
-
-&lt;p&gt;We have great plans for &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;, check our &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;project list at GitHub&lt;/a&gt; to see what&apos;s coming.  Please make further suggestions through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.  We ask for your understanding that not all your suggestions can be implemented immediately.&lt;/p&gt;
-
-&lt;h3&gt;Join the project&lt;/h3&gt;
-
-&lt;p&gt;If you would like to &lt;strong&gt;translate the app to your native language&lt;/strong&gt;, we would like to &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;hear from you&lt;/a&gt;. Programming experience is not necessary, but good computer skills are required.&lt;/p&gt;
-
-&lt;p&gt;This app should run fine on &lt;strong&gt;Apple devices&lt;/strong&gt;. If you would like to port the app to iOS and if you have development experience with C++/Qt programming and with Apple systems, like &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;get in touch with us&lt;/a&gt; today.&lt;/p&gt;
-
-&lt;p&gt;If you are fluent in C++ and if you would like to &lt;strong&gt;help with the programming&lt;/strong&gt;, &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;let us know&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="95"/>
-        <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
-
-&lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
-
-&lt;p&gt;However, we&apos;d like to ask you &lt;strong&gt;to limit yourself to 8 %1.&lt;/strong&gt;
-
-&lt;p&gt;On the one hand, the bandwidth for map downloads is kindly sponsored by the University of Freiburg, under the assumption that &lt;strong&gt;the costs stays within reasonable limits.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
-
-&lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that. You already have &lt;strong&gt;%2 maps&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="110"/>
-        <source>&lt;h3&gt;Authors&lt;/h3&gt;
-
-&lt;br&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
-      &lt;h4&gt;Address&lt;/h4&gt;
-      Stefan Kebekus&lt;br&gt;
-      Wintererstraße 77&lt;br&gt;
-      79104 Freiburg&lt;br&gt;
-      Germany&lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Pic: Patrick Seeger&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;br&gt;
-      &lt;h3&gt;Contributing Authors&lt;/h3&gt;
-      &lt;br&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Adrien Crovato is a private pilot and aerospace engineer. He joined the development team in 2020, and contributes to the C++ and QML code base.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses Enroute as a pilot of ultralight planes. Heiner joined the Enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
-     &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Johannes Zellner joined the development in 2020.  He contributes to the C++ and QML code base of the app and helps with bug fixing.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h3&gt;Translations&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;e-mail&lt;/a&gt;. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="181"/>
-        <source>&lt;h3&gt;Bug Report&lt;/h3&gt;
-
-&lt;p&gt;We aim to provide very high-quality software. Fixing errors is therefore always our first priority. We are grateful for every report that we get.&lt;/p&gt;
-
-&lt;p&gt;Please report errors through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="205"/>
-        <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="213"/>
-        <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
-
-&lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
-
-&lt;p&gt;Our &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/privacy#privileges-of-the-android-app&quot; title=&quot;privacy policies&quot;&gt;privacy policies&lt;/a&gt; explain why the permissions are needed and what they are used for.&lt;/p&gt;
-
-&lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
-
-&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="225"/>
-        <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded.&lt;/p&gt;
-
-&lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
-
-&lt;p&gt;Markus Sachs and Adrien Crovato have translated the app to &lt;strong&gt;French&lt;/strong&gt; and &lt;strong&gt;German&lt;/strong&gt;.  If you prefer English, go to the &apos;Settings&apos; page where a language option has been added.&lt;/p&gt;
-
-&lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="189"/>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
@@ -1461,7 +1159,7 @@
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
         <translation>
-&lt;h3&gt;Bienvenue sur Enroute Navigation - Un projet de Akaflieg Freiburg&lt;/h3&gt;
+&lt;h3&gt;Bienvenue sur Enroute Flight Navigation - Un projet de Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Merci d&apos;utiliser cette application de navigation ! Avant de commencer, nous insistons sur le fait que &lt;strong&gt;cette application et les données aéronautiques sont fournies sans garanties&lt;/strong&gt;.&lt;/p&gt;
 
@@ -1627,54 +1325,42 @@
 <context>
     <name>NavBar</name>
     <message>
-        <source>Altitude</source>
-        <translation type="vanished">Altitude</translation>
-    </message>
-    <message>
-        <source>Ground Speed</source>
-        <translation type="vanished">Vitesse sol</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="84"/>
         <source>ALT</source>
-        <translation type="unfinished"></translation>
+        <translation>ALT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="92"/>
         <source>GS</source>
-        <translation type="unfinished"></translation>
+        <translation>GS</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="99"/>
         <source>TT</source>
-        <translation>Route</translation>
+        <translation>TT</translation>
     </message>
 </context>
 <context>
     <name>Nearby</name>
     <message>
-        <source>Nearby</source>
-        <translation type="obsolete">A proximité</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="31"/>
         <source>Nearby Waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>A proximité</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="44"/>
         <source>AD</source>
-        <translation type="unfinished"></translation>
+        <translation>AD</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="45"/>
         <source>NAV</source>
-        <translation type="unfinished"></translation>
+        <translation>NAV</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="46"/>
         <source>REP</source>
-        <translation type="unfinished"></translation>
+        <translation>REP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="101"/>
@@ -1769,16 +1455,12 @@
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="81"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="101"/>
         <source>ALT</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error Estimate</source>
-        <translation type="vanished">Estimation de l&apos;erreur</translation>
+        <translation>ALT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="84"/>
@@ -1795,18 +1477,6 @@
         <source>Vertical</source>
         <translation>Vertical</translation>
     </message>
-    <message>
-        <source>Altitude (raw)</source>
-        <translation type="vanished">Altitude</translation>
-    </message>
-    <message>
-        <source>Altitude (corrected)</source>
-        <translation type="vanished">Altitude corrigée</translation>
-    </message>
-    <message>
-        <source>Geoidal separation</source>
-        <translation type="vanished">Séparation géoïdale</translation>
-    </message>
 </context>
 <context>
     <name>SettingsPage</name>
@@ -1821,13 +1491,9 @@
         <translation>Carte</translation>
     </message>
     <message>
-        <source>Hide Airspaces above FL100</source>
-        <translation type="vanished">Cacher les espaces aériens au-dessus du FL100</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="54"/>
         <source>Hide Airspaces ≥ FL100</source>
-        <translation type="unfinished"></translation>
+        <translation>Cacher les espaces aériens ≥ FL100</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="55"/>
@@ -1867,38 +1533,22 @@
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="116"/>
         <source>Use metric units</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser les unités métriques</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="119"/>
         <source>Speed in km/h, distance in km</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitesse en km/h, distance en km</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="120"/>
         <source>Speed in kt, distance in NM</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitesse en kt, distance en NM</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="135"/>
         <source>Use English</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Prefer metric units</source>
-        <translation type="vanished">Utiliser les unités métriques</translation>
-    </message>
-    <message>
-        <source>Horizontal speed in km/h, distance in km</source>
-        <translation type="vanished">Vitesse horizontale en km/h, distance en km</translation>
-    </message>
-    <message>
-        <source>Horizontal speed in kt, distance in NM</source>
-        <translation type="vanished">Vitesse horizontale en kt, distance en NM</translation>
-    </message>
-    <message>
-        <source>Prefer English</source>
-        <translation type="vanished">Utiliser l&apos;anglais</translation>
+        <translation>Utiliser l&apos;anglais</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="148"/>
@@ -1957,33 +1607,17 @@
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="295"/>
         <source>Direct</source>
-        <translation type="unfinished"></translation>
+        <translation>Direct</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="310"/>
         <source>from Route</source>
-        <translation type="unfinished"></translation>
+        <translation>de la route</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="310"/>
         <source>to Route</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Route</source>
-        <translation type="obsolete">Route</translation>
-    </message>
-    <message>
-        <source>Direct to</source>
-        <translation type="vanished">Aller vers</translation>
-    </message>
-    <message>
-        <source>Remove from route</source>
-        <translation type="vanished">Enlever de la route</translation>
-    </message>
-    <message>
-        <source>Add to route</source>
-        <translation type="vanished">Ajouter à la route</translation>
+        <translation>à la route</translation>
     </message>
 </context>
 <context>
@@ -2019,22 +1653,14 @@
         <translation>Paramètres</translation>
     </message>
     <message>
-        <source>About this app</source>
-        <translation type="vanished">A propos</translation>
-    </message>
-    <message>
-        <source>App info</source>
-        <translation type="vanished">Informations</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/main.qml" line="141"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informations</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="156"/>
         <source>About Enroute Flight Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>A propos d&apos;Enroute Flight Navigation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="170"/>
