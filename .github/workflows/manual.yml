@@ -4,7 +4,6 @@ on:
   push:
     branches: [ master ]
 
-
 jobs:
   build:
 
@@ -18,7 +17,7 @@ jobs:
     - name: Generate PDF
       run: |
         cd EnrouteManual
-	libreoffice --convert-to pdf IntroducingEnroute.odt
+        libreoffice --convert-to pdf IntroducingEnroute.odt
     - name: Publish Documentation
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
