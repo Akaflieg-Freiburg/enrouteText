@@ -1001,7 +1001,7 @@
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="242"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="241"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1451,94 +1451,77 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="51"/>
-        <location filename="../../../src/qml/main.qml" line="69"/>
-        <source>Ground</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/main.qml" line="56"/>
-        <location filename="../../../src/qml/main.qml" line="71"/>
-        <source>Flight</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/main.qml" line="61"/>
-        <source>Autom.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/main.qml" line="104"/>
+        <location filename="../../../src/qml/main.qml" line="67"/>
         <source>Route</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="120"/>
+        <location filename="../../../src/qml/main.qml" line="83"/>
         <source>Nearby Waypoints</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="140"/>
+        <location filename="../../../src/qml/main.qml" line="103"/>
         <source>Set Altimeter</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="141"/>
+        <location filename="../../../src/qml/main.qml" line="104"/>
         <source>Insufficient reception</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="158"/>
+        <location filename="../../../src/qml/main.qml" line="121"/>
         <source>Settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="179"/>
+        <location filename="../../../src/qml/main.qml" line="141"/>
         <source>Information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="195"/>
+        <location filename="../../../src/qml/main.qml" line="156"/>
         <source>About Enroute Flight Navigation</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="209"/>
+        <location filename="../../../src/qml/main.qml" line="170"/>
         <source>Bug report</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="223"/>
+        <location filename="../../../src/qml/main.qml" line="184"/>
         <source>Participate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="240"/>
+        <location filename="../../../src/qml/main.qml" line="200"/>
         <source>Manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="263"/>
+        <location filename="../../../src/qml/main.qml" line="222"/>
         <source>Exit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="410"/>
+        <location filename="../../../src/qml/main.qml" line="360"/>
         <source>Do you wish to exit Enroute Flight Navigation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="425"/>
+        <location filename="../../../src/qml/main.qml" line="375"/>
         <source>What&apos;s new …?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="80"/>
+        <location filename="../../../src/main.cpp" line="79"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="83"/>
+        <location filename="../../../src/main.cpp" line="82"/>
         <source>File to import.</source>
         <translation type="unfinished"></translation>
     </message>

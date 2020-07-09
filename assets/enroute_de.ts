@@ -1988,7 +1988,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="242"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="241"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translatorcomment>evtl. &apos;Sammlung&apos; noch anpassen</translatorcomment>
         <translation>&lt;p&gt;&lt;strong&gt;Keine Luftfahrtkarte installiert.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bitte gehen Sie im Menü zu &lt;strong&gt;Einstellungen/Bibliothek/Karten&lt;/strong&gt;.&lt;/p&gt;</translation>
@@ -2548,24 +2548,15 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation>Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="51"/>
-        <location filename="../../../src/qml/main.qml" line="69"/>
         <source>Ground</source>
-        <translation type="unfinished">Boden</translation>
+        <translation type="obsolete">Boden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="56"/>
-        <location filename="../../../src/qml/main.qml" line="71"/>
         <source>Flight</source>
-        <translation type="unfinished">Flug</translation>
+        <translation type="obsolete">Flug</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="61"/>
-        <source>Autom.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/main.qml" line="104"/>
+        <location filename="../../../src/qml/main.qml" line="67"/>
         <source>Route</source>
         <translation>Flugstrecke</translation>
     </message>
@@ -2578,17 +2569,17 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="obsolete">Nächstgelegene</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="140"/>
+        <location filename="../../../src/qml/main.qml" line="103"/>
         <source>Set Altimeter</source>
         <translation>Höhenmesser einstellen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="141"/>
+        <location filename="../../../src/qml/main.qml" line="104"/>
         <source>Insufficient reception</source>
         <translation>Ungenügender Empfang</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="158"/>
+        <location filename="../../../src/qml/main.qml" line="121"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
@@ -2598,7 +2589,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="vanished">Über Enroute</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="120"/>
+        <location filename="../../../src/qml/main.qml" line="83"/>
         <source>Nearby Waypoints</source>
         <translation>Nahegelegene Wegpunkte</translation>
     </message>
@@ -2611,37 +2602,37 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="vanished">App-Info</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="179"/>
+        <location filename="../../../src/qml/main.qml" line="141"/>
         <source>Information</source>
         <translation>Information</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="195"/>
+        <location filename="../../../src/qml/main.qml" line="156"/>
         <source>About Enroute Flight Navigation</source>
         <translation>Über Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="209"/>
+        <location filename="../../../src/qml/main.qml" line="170"/>
         <source>Bug report</source>
         <translation>Fehlermeldung</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="223"/>
+        <location filename="../../../src/qml/main.qml" line="184"/>
         <source>Participate</source>
         <translation>Mitmachen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="240"/>
+        <location filename="../../../src/qml/main.qml" line="200"/>
         <source>Manual</source>
         <translation>Handbuch</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="263"/>
+        <location filename="../../../src/qml/main.qml" line="222"/>
         <source>Exit</source>
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="410"/>
+        <location filename="../../../src/qml/main.qml" line="360"/>
         <source>Do you wish to exit Enroute Flight Navigation?</source>
         <translation>Möchten Sie Enroute Flugnaviation verlassen?</translation>
     </message>
@@ -2651,17 +2642,17 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="obsolete">Enroute verlassen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="425"/>
+        <location filename="../../../src/qml/main.qml" line="375"/>
         <source>What&apos;s new …?</source>
         <translation>Was ist neu …?</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="80"/>
+        <location filename="../../../src/main.cpp" line="79"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation ist eine kostenlose Navigations-App für VFR Piloten. Die App wurde als Projekt der Akaflieg Freiburg entwickelt.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="83"/>
+        <location filename="../../../src/main.cpp" line="82"/>
         <source>File to import.</source>
         <translation>Datei zum Importieren</translation>
     </message>
