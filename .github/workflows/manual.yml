@@ -23,5 +23,5 @@ jobs:
       with:
         BRANCH: gh-pages
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        FOLDER: .
+        FOLDER: EnrouteManual
         TARGET_FOLDER: manual/pdf
