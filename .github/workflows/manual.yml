@@ -21,8 +21,7 @@ jobs:
     - name: Publish Documentation
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
-        REPOSITORY_NAME: Akaflieg-Freiburg/enroute
         BRANCH: gh-pages
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         FOLDER: .
-        TARGET_FOLDER: assets/pdf
+        TARGET_FOLDER: manual/pdf
