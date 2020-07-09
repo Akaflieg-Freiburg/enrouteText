@@ -15,7 +15,8 @@ headers = {'Authorization': 'token {}'.format(sys.argv[1])}
 issueNumbers = {
     "cz": 8,
     "de": 5,
-    "fr": 7
+    "fr": 7,
+    "pl": 9
     }
 
 
