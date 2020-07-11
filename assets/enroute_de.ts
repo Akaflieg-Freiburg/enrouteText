@@ -1723,7 +1723,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;Wir geben unser Bestes um eine Begrenzung der Kartenzahl in der Zukunft zu vermeiden. Bitte helfen Sie uns dabei. Sie haben nun schon &lt;strong&gt;%2 Karten&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="110"/>
+        <location filename="../../../src/Librarian.cpp" line="109"/>
         <source>&lt;h3&gt;Authors&lt;/h3&gt;
 
 &lt;br&gt;
@@ -1861,7 +1861,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="181"/>
+        <location filename="../../../src/Librarian.cpp" line="180"/>
         <source>&lt;h3&gt;Bug Report&lt;/h3&gt;
 
 &lt;p&gt;We aim to provide very high-quality software. Fixing errors is therefore always our first priority. We are grateful for every report that we get.&lt;/p&gt;
@@ -1874,7 +1874,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;Bitte melden Sie Fehler am besten über den &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (das könnte ein GitHub-Konto erfordern). Wenn Sie das als schwierig empfinden, schreiben Sie gern direkt an &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;den Autor&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="189"/>
+        <location filename="../../../src/Librarian.cpp" line="188"/>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
@@ -1891,7 +1891,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="205"/>
+        <location filename="../../../src/Librarian.cpp" line="204"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1904,7 +1904,17 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;Auf die Flugstrecken kann auch mit anderen Programmen zugegriffen werden, wie etwa Backup-Software oder Apps zur Datei-Synchronisation. Dadurch können die Flugstrecken bei Bedarf auf andere Geräte übertragen werden.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="225"/>
+        <location filename="../../../src/Librarian.cpp" line="224"/>
+        <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded. For pilots of very slow-flying aircrafts (such as paramotors) there is now a switch to &lt;strong&gt;enable flight mode&lt;/strong&gt; manually.&lt;/p&gt;
+
+&lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
+
+&lt;p&gt;Markus Sachs and Adrien Crovato have translated the app to &lt;strong&gt;French&lt;/strong&gt; and &lt;strong&gt;German&lt;/strong&gt;.  If you prefer English, go to the &lt;strong&gt;Settings&lt;/strong&gt; page where a language option has been added.&lt;/p&gt;
+
+&lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded.&lt;/p&gt;
 
 &lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
@@ -1912,7 +1922,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;Markus Sachs and Adrien Crovato have translated the app to &lt;strong&gt;French&lt;/strong&gt; and &lt;strong&gt;German&lt;/strong&gt;.  If you prefer English, go to the &apos;Settings&apos; page where a language option has been added.&lt;/p&gt;
 
 &lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Adrien Crovato und Heiner Tholen verstärken das Entwicklungs-Team. Dank ihrer Beiträge gibt es jetzt eine Option, um Distanzen und Geschwindigkeiten in &lt;strong&gt;metrischen Einheiten&lt;/strong&gt; anzuzeigen. Zusätzlich wurde die Seite mit &lt;strong&gt;Nahegelegenen Wegpunkten&lt;/strong&gt; überarbeitet.&lt;/p&gt;
+        <translation type="vanished">&lt;p&gt;Adrien Crovato und Heiner Tholen verstärken das Entwicklungs-Team. Dank ihrer Beiträge gibt es jetzt eine Option, um Distanzen und Geschwindigkeiten in &lt;strong&gt;metrischen Einheiten&lt;/strong&gt; anzuzeigen. Zusätzlich wurde die Seite mit &lt;strong&gt;Nahegelegenen Wegpunkten&lt;/strong&gt; überarbeitet.&lt;/p&gt;
 
 &lt;p&gt;Wir bieten jetzt Karten für &lt;strong&gt;Argentinien&lt;/strong&gt; und &lt;strong&gt;Brasilien&lt;/strong&gt;, wie immer mit wöchentlichen Aktualisierungen.&lt;/p&gt;
 
@@ -1964,7 +1974,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 &lt;p&gt;Auf die Flugstrecken kann auch mit anderen Programmen zugegriffen werden, wie etwa Backup-Software oder Apps zur Datei-Synchronisation. Dadurch können die Flugstrecken bei Bedarf auf andere Geräte übertragen werden.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="213"/>
+        <location filename="../../../src/Librarian.cpp" line="212"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -1988,7 +1998,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="241"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="240"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translatorcomment>evtl. &apos;Sammlung&apos; noch anpassen</translatorcomment>
         <translation>&lt;p&gt;&lt;strong&gt;Keine Luftfahrtkarte installiert.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bitte gehen Sie im Menü zu &lt;strong&gt;Einstellungen/Bibliothek/Karten&lt;/strong&gt;.&lt;/p&gt;</translation>
@@ -2372,42 +2382,55 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation>Lufträume ≥ FL 100 ausblenden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="55"/>
         <source>Upper airspaces currently hidden</source>
-        <translation>Oberer Laufraum zzt. ausgeblendet</translation>
+        <translation type="vanished">Oberer Laufraum zzt. ausgeblendet</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="58"/>
         <source>All airspaces currently shown</source>
-        <translation>Alle Lufträume werden angezeigt</translation>
+        <translation type="vanished">Alle Lufträume werden angezeigt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="73"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
         <source>Libraries</source>
         <translation>Bibliotheken</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="80"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
         <source>Flight Routes</source>
         <translation>Flugstrecken</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="116"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="124"/>
+        <source>Automatic flight detection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="127"/>
+        <source>Switching to flight-mode at 30 kt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="131"/>
+        <source>Always in flight-mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="149"/>
         <source>Use metric units</source>
         <translation>Verwende metrische Einheiten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="119"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
         <source>Speed in km/h, distance in km</source>
         <translation>Geschwindigkeit in km/h, Distanzen in km</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="120"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="153"/>
         <source>Speed in kt, distance in NM</source>
         <translation>Geschwindigkeit in kt, Distanzen in NM</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="135"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="168"/>
         <source>Use English</source>
         <translation>Verwende Englisch</translation>
     </message>
@@ -2416,17 +2439,27 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="vanished">Karten herunterladen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="93"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="101"/>
         <source>Updates available</source>
         <translation>Aktualisierungen verfügbar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="93"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="99"/>
         <source>Maps</source>
         <translation>Karten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="108"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="57"/>
+        <source>Upper airspaces hidden</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="61"/>
+        <source>All airspaces shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="116"/>
         <source>System</source>
         <translation>System</translation>
     </message>
@@ -2447,12 +2480,12 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="vanished">Englisch bevorzugen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="148"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="183"/>
         <source>Current Status</source>
         <translation>Aktueller Status</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="148"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="181"/>
         <source>Satellite Status</source>
         <translation>Satellitenstatus</translation>
     </message>

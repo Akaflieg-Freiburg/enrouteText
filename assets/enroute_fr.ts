@@ -931,7 +931,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="110"/>
+        <location filename="../../../src/Librarian.cpp" line="109"/>
         <source>&lt;h3&gt;Authors&lt;/h3&gt;
 
 &lt;br&gt;
@@ -1072,7 +1072,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="181"/>
+        <location filename="../../../src/Librarian.cpp" line="180"/>
         <source>&lt;h3&gt;Bug Report&lt;/h3&gt;
 
 &lt;p&gt;We aim to provide very high-quality software. Fixing errors is therefore always our first priority. We are grateful for every report that we get.&lt;/p&gt;
@@ -1087,7 +1087,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="205"/>
+        <location filename="../../../src/Librarian.cpp" line="204"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1102,7 +1102,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="213"/>
+        <location filename="../../../src/Librarian.cpp" line="212"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -1125,7 +1125,17 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="225"/>
+        <location filename="../../../src/Librarian.cpp" line="224"/>
+        <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded. For pilots of very slow-flying aircrafts (such as paramotors) there is now a switch to &lt;strong&gt;enable flight mode&lt;/strong&gt; manually.&lt;/p&gt;
+
+&lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
+
+&lt;p&gt;Markus Sachs and Adrien Crovato have translated the app to &lt;strong&gt;French&lt;/strong&gt; and &lt;strong&gt;German&lt;/strong&gt;.  If you prefer English, go to the &lt;strong&gt;Settings&lt;/strong&gt; page where a language option has been added.&lt;/p&gt;
+
+&lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded.&lt;/p&gt;
 
 &lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
@@ -1133,7 +1143,7 @@
 &lt;p&gt;Markus Sachs and Adrien Crovato have translated the app to &lt;strong&gt;French&lt;/strong&gt; and &lt;strong&gt;German&lt;/strong&gt;.  If you prefer English, go to the &apos;Settings&apos; page where a language option has been added.&lt;/p&gt;
 
 &lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
-        <translation>
+        <translation type="vanished">
 &lt;p&gt;Adrien Crovato et Heiner Tholen ont rejoint l&apos;équipe de développement. Il est maintenant possible d&apos;utiliser les &lt;strong&gt;unités métriques&lt;/strong&gt; pour les distances et vitesses horizontales, et la page &lt;strong&gt;A proximité&lt;/strong&gt; affiche plus d&apos;informations.&lt;/p&gt;
 
 &lt;p&gt;Les cartes de l&apos;&lt;strong&gt;Argentine&lt;/strong&gt; et du &lt;strong&gt;Brésil&lt;/strong&gt; ont été ajoutées. Nous continuerons à mettre les cartes à jour de manière hebdomadaire.&lt;/p&gt;
@@ -1144,7 +1154,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="189"/>
+        <location filename="../../../src/Librarian.cpp" line="188"/>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
@@ -1178,7 +1188,7 @@
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="241"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="240"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Aucune carte aéronautique installée.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ouvrez le menu et allez dans &lt;strong&gt;Paramètres/Bibliothèque/Cartes&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
@@ -1496,67 +1506,90 @@
         <translation>Cacher les espaces aériens ≥ FL100</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="55"/>
         <source>Upper airspaces currently hidden</source>
-        <translation>Espaces aériens supérieurs cachés</translation>
+        <translation type="vanished">Espaces aériens supérieurs cachés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="58"/>
         <source>All airspaces currently shown</source>
-        <translation>Tous les espaces aériens affichés</translation>
+        <translation type="vanished">Tous les espaces aériens affichés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="73"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="57"/>
+        <source>Upper airspaces hidden</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="61"/>
+        <source>All airspaces shown</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
         <source>Libraries</source>
         <translation>Bibliothèques</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="80"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
         <source>Flight Routes</source>
         <translation>Routes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="93"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="99"/>
         <source>Maps</source>
         <translation>Cartes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="93"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="101"/>
         <source>Updates available</source>
         <translation>Mises à jour disponibles</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="108"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="116"/>
         <source>System</source>
         <translation>Système</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="116"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="124"/>
+        <source>Automatic flight detection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="127"/>
+        <source>Switching to flight-mode at 30 kt</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="131"/>
+        <source>Always in flight-mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="149"/>
         <source>Use metric units</source>
         <translation>Utiliser les unités métriques</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="119"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
         <source>Speed in km/h, distance in km</source>
         <translation>Vitesse en km/h, distance en km</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="120"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="153"/>
         <source>Speed in kt, distance in NM</source>
         <translation>Vitesse en kt, distance en NM</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="135"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="168"/>
         <source>Use English</source>
         <translation>Utiliser l&apos;anglais</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="148"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="181"/>
         <source>Satellite Status</source>
         <translation>Statut du système satellite</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="148"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="183"/>
         <source>Current Status</source>
         <translation>Statut</translation>
     </message>
