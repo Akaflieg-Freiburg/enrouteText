@@ -2667,7 +2667,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/main.qml" line="360"/>
         <source>Do you wish to exit Enroute Flight Navigation?</source>
-        <translation>Möchten Sie Enroute Flugnaviation verlassen?</translation>
+        <translation>Möchten Sie Enroute Flight Navigation verlassen?</translation>
     </message>
     <message>
         <source>Do you wish to exit Enroute?</source>
