@@ -56,7 +56,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="185"/>
         <source>The altitude reported by the satellite navigation system is %1 AMSL. That is a big difference.</source>
-        <translation>Die Flughöhe laut SatNav ist %1 AMSL. Das ist eine große Differenz!</translation>
+        <translation>Die Flughöhe laut SatNav ist %1 AMSL. Das ist eine große Abweichung.</translation>
     </message>
 </context>
 <context>
@@ -360,7 +360,7 @@
     <message>
         <location filename="../../../src/FlightRoute_GPX.cpp" line="282"/>
         <source>Error interpreting GPX file: no valid route found.</source>
-        <translation>Fehler beim Lesen der GPX-Datei: keine gültige Strecke gefunden</translation>
+        <translation>Fehler beim Lesen der GPX-Datei: keine gültige Strecke gefunden.</translation>
     </message>
 </context>
 <context>
@@ -1888,7 +1888,19 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
-        <translation></translation>
+        <translation>&lt;h3&gt;Willkommen zu Enroute Flight Navigation - einem Projekt der Akaflieg Freiburg&lt;/h3&gt;
+
+&lt;p&gt;Danke für die Benutzung dieser Navigations-App! Bevor es losgeht, müssen wir klarstellen, dass &lt;strong&gt;diese App und die verwendeten Luftfahrtdaten ohne irgendwelche Garantie, Gewährleistung oder Haftung zur Verfügung gestellt werden&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Die App ist nicht Luftfahrt-zertifiziert und erfüllt keine Luftfahrt-Standards. Sie kann Fehler enthalten und evtl. anders arbeiten als erwartet.&lt;/p&gt;
+
+&lt;p&gt;Die Luftfahrtdaten stammen nicht aus offiziellen Quellen. Sie können unvollständig, veraltet oder anderweitig fehlerhaft sein.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Diese App ersetzt weder die vorgeschriebene Flugvorbereitung noch das erforderliche Können und Wissen als Pilot.&lt;/strong&gt; Wir hoffen, Sie finden trotzdem Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt;
+
+&lt;p&gt;Fliegen Sie sicher! Viele &quot;happy landings&quot;!&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="204"/>
@@ -1912,7 +1924,13 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;Markus Sachs and Adrien Crovato have translated the app to &lt;strong&gt;French&lt;/strong&gt; and &lt;strong&gt;German&lt;/strong&gt;.  If you prefer English, go to the &lt;strong&gt;Settings&lt;/strong&gt; page where a language option has been added.&lt;/p&gt;
 
 &lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Adrien Crovato und Heiner Tholen verstärken das Entwicklungs-Team. Dank ihrer Beiträge gibt es jetzt eine Option, um Distanzen und Geschwindigkeiten in &lt;strong&gt;metrischen Einheiten&lt;/strong&gt; anzuzeigen. Zusätzlich wurde die Seite mit &lt;strong&gt;Nahegelegenen Wegpunkten&lt;/strong&gt; überarbeitet. Für Piloten von sehr langsamen Fluggeräten (wie z.B. Motorschirmen) gibt es jetzt eine Einstellung um den &lt;strong&gt;Flugmodus&lt;/strong&gt; manuell zu erzwingen.&lt;/p&gt;
+
+&lt;p&gt;Wir bieten jetzt Karten für &lt;strong&gt;Argentinien&lt;/strong&gt; und &lt;strong&gt;Brasilien&lt;/strong&gt;, wie immer mit wöchentlichen Aktualisierungen.&lt;/p&gt;
+
+&lt;p&gt;Markus Sachs und Adrien Crovato übersetzten die App in das &lt;strong&gt;Deutsche&lt;/strong&gt; und &lt;strong&gt;Französische&lt;/strong&gt;. Falls Sie die App lieber weiterhin in in Englisch möchten, gibt es dafür eine Option.&lt;/p&gt;
+
+&lt;p&gt;Michael Horbaschk hat freundlicherweise ein &lt;strong&gt;Handbuch&lt;/strong&gt; für die App geschrieben, das in der nächsten Zeit noch erweitert wird.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded.&lt;/p&gt;
@@ -1922,7 +1940,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;Markus Sachs and Adrien Crovato have translated the app to &lt;strong&gt;French&lt;/strong&gt; and &lt;strong&gt;German&lt;/strong&gt;.  If you prefer English, go to the &apos;Settings&apos; page where a language option has been added.&lt;/p&gt;
 
 &lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Adrien Crovato und Heiner Tholen verstärken das Entwicklungs-Team. Dank ihrer Beiträge gibt es jetzt eine Option, um Distanzen und Geschwindigkeiten in &lt;strong&gt;metrischen Einheiten&lt;/strong&gt; anzuzeigen. Zusätzlich wurde die Seite mit &lt;strong&gt;Nahegelegenen Wegpunkten&lt;/strong&gt; überarbeitet.&lt;/p&gt;
+        <translation>&lt;p&gt;Adrien Crovato und Heiner Tholen verstärken das Entwicklungs-Team. Dank ihrer Beiträge gibt es jetzt eine Option, um Distanzen und Geschwindigkeiten in &lt;strong&gt;metrischen Einheiten&lt;/strong&gt; anzuzeigen. Zusätzlich wurde die Seite mit &lt;strong&gt;Nahegelegenen Wegpunkten&lt;/strong&gt; überarbeitet.&lt;/p&gt;
 
 &lt;p&gt;Wir bieten jetzt Karten für &lt;strong&gt;Argentinien&lt;/strong&gt; und &lt;strong&gt;Brasilien&lt;/strong&gt;, wie immer mit wöchentlichen Aktualisierungen.&lt;/p&gt;
 
@@ -2139,7 +2157,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="99"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation>Keine geeignete App gefunden, um diese Daten anzuzeigen</translation>
+        <translation>Keine geeignete App gefunden, um diese Daten anzuzeigen.</translation>
     </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="104"/>
@@ -2402,17 +2420,17 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="124"/>
         <source>Automatic flight detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Automat. Flugerkennung</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="127"/>
         <source>Switching to flight-mode at 30 kt</source>
-        <translation type="unfinished"></translation>
+        <translation>Bei GS &gt; 30kt im Flugmodus</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="131"/>
         <source>Always in flight-mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Immer im Flugmodus</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="149"/>
@@ -2451,12 +2469,12 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="57"/>
         <source>Upper airspaces hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Oberer Laufraum zzt. ausgeblendet</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="61"/>
         <source>All airspaces shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Lufträume werden angezeigt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="116"/>
@@ -2687,7 +2705,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/main.cpp" line="82"/>
         <source>File to import.</source>
-        <translation>Datei zum Importieren</translation>
+        <translation>Datei zum Importieren.</translation>
     </message>
 </context>
 </TS>
