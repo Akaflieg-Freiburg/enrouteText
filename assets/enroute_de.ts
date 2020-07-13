@@ -39,22 +39,22 @@
         <translation>Ungenügender Satellitenempfang. Höhenmesser kann nicht eingestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="154"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="149"/>
         <source>Altimeter cannot be set</source>
         <translation>Höhenmesser kann nicht eingestellt werden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="157"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="152"/>
         <source>Insufficient satellite reception. Please try again once reception becomes better.</source>
         <translation>Ungenügender Satellitenempfang. Bitte bei besserem Empfang neu versuchen.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="182"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="177"/>
         <source>Really set %1 ft?</source>
         <translation>Wirklich %1 ft einstellen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="185"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="180"/>
         <source>The altitude reported by the satellite navigation system is %1 AMSL. That is a big difference.</source>
         <translation>Die Flughöhe laut SatNav ist %1 AMSL. Das ist eine große Abweichung.</translation>
     </message>
@@ -587,7 +587,7 @@
         <translation>Die aktuelle Strecke kann nach dem Löschen nicht wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="650"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="644"/>
         <source>Error exporting data…</source>
         <translation>Fehler beim Exportieren der Daten…</translation>
     </message>
@@ -596,7 +596,7 @@
     <name>FlightRouteLibrary</name>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="31"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="382"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="376"/>
         <source>Flight Route Library</source>
         <translation>Flugstrecken</translation>
     </message>
@@ -685,42 +685,42 @@
         <translation>Fehler aufgetreten …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="391"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="385"/>
         <source>Overwrite current flight route?</source>
         <translation>Aktuelle Flugstrecke überschreiben?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="401"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="395"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Die Strecke &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Strecke. Diese kann dann nicht mehr wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="431"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="419"/>
         <source>Remove from device?</source>
         <translation>Vom Gerät löschen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="441"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="429"/>
         <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Die Strecke &lt;strong&gt;%1&lt;/strong&gt; kann nach dem Löschen nicht wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="472"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="454"/>
         <source>Rename Flight Route</source>
         <translation>Flugstrecke umbenennen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="490"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="472"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Geben Sie für die Strecke &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="516"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="498"/>
         <source>Rename</source>
         <translation>Umbenennen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="546"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="522"/>
         <source>Error exporting data…</source>
         <translation>Fehler beim Exportieren der Daten…</translation>
     </message>
@@ -855,17 +855,17 @@
         <translation>Flugstrecken nach Namen filtern</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="151"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="144"/>
         <source>An error occurred…</source>
         <translation>Fehler aufgetreten …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="198"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="185"/>
         <source>Overwrite current flight route?</source>
         <translation>Aktuelle Flugstrecke überschreiben?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="208"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="195"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Die Strecke &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Strecke. Diese kann dann nicht wiederhergestellt werden.</translation>
     </message>
@@ -1011,17 +1011,17 @@
         <translation>Dateinamen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="158"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="151"/>
         <source>An error occurred…</source>
         <translation>Es ist ein Fehler aufgetreten …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="210"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="197"/>
         <source>Overwrite file?</source>
         <translation>Datei überschreiben?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="217"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="204"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
         <translation>Die Datei &lt;strong&gt;%1&lt;/strong&gt; existiert schon. Überschreiben?</translation>
     </message>
@@ -1044,7 +1044,7 @@
         <translation>Dies überschreibt die aktuelle Strecke. Sie kann danach nicht wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="117"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="110"/>
         <source>Error importing flight route</source>
         <translation>Fehler beim Import der Flugstrecke</translation>
     </message>
@@ -2594,7 +2594,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="obsolete">Akaflieg Freiburg - Enroute</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="36"/>
+        <location filename="../../../src/qml/main.qml" line="35"/>
         <source>Enroute Flight Navigation</source>
         <translation>Enroute Flight Navigation</translation>
     </message>
@@ -2607,7 +2607,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="obsolete">Flug</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="67"/>
+        <location filename="../../../src/qml/main.qml" line="66"/>
         <source>Route</source>
         <translation>Flugstrecke</translation>
     </message>
@@ -2620,17 +2620,17 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="obsolete">Nächstgelegene</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="103"/>
+        <location filename="../../../src/qml/main.qml" line="102"/>
         <source>Set Altimeter</source>
         <translation>Höhenmesser einstellen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="104"/>
+        <location filename="../../../src/qml/main.qml" line="103"/>
         <source>Insufficient reception</source>
         <translation>Ungenügender Empfang</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="121"/>
+        <location filename="../../../src/qml/main.qml" line="120"/>
         <source>Settings</source>
         <translation>Einstellungen</translation>
     </message>
@@ -2640,7 +2640,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="vanished">Über Enroute</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="83"/>
+        <location filename="../../../src/qml/main.qml" line="82"/>
         <source>Nearby Waypoints</source>
         <translation>Nahegelegene Wegpunkte</translation>
     </message>
@@ -2653,37 +2653,37 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="vanished">App-Info</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="141"/>
+        <location filename="../../../src/qml/main.qml" line="140"/>
         <source>Information</source>
         <translation>Information</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="156"/>
+        <location filename="../../../src/qml/main.qml" line="155"/>
         <source>About Enroute Flight Navigation</source>
         <translation>Über Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="170"/>
+        <location filename="../../../src/qml/main.qml" line="169"/>
         <source>Bug report</source>
         <translation>Fehlermeldung</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="184"/>
+        <location filename="../../../src/qml/main.qml" line="183"/>
         <source>Participate</source>
         <translation>Mitmachen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="200"/>
+        <location filename="../../../src/qml/main.qml" line="199"/>
         <source>Manual</source>
         <translation>Handbuch</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="222"/>
+        <location filename="../../../src/qml/main.qml" line="221"/>
         <source>Exit</source>
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="359"/>
+        <location filename="../../../src/qml/main.qml" line="338"/>
         <source>Do you wish to exit Enroute Flight Navigation?</source>
         <translation>Möchten Sie Enroute Flight Navigation verlassen?</translation>
     </message>
@@ -2693,7 +2693,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="obsolete">Enroute verlassen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="374"/>
+        <location filename="../../../src/qml/main.qml" line="353"/>
         <source>What&apos;s new …?</source>
         <translation>Was ist neu …?</translation>
     </message>
