@@ -1001,7 +1001,7 @@
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="240"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="233"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1319,22 +1319,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="104"/>
         <source>Libraries</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="111"/>
         <source>Flight Routes</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="101"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="126"/>
         <source>Updates available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="99"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="124"/>
         <source>Maps</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1349,22 +1349,22 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="116"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
         <source>System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="124"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
         <source>Automatic flight detection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="127"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="82"/>
         <source>Switching to flight-mode at 30 kt</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="131"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
         <source>Always in flight-mode</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1521,12 +1521,12 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="360"/>
+        <location filename="../../../src/qml/main.qml" line="359"/>
         <source>Do you wish to exit Enroute Flight Navigation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="375"/>
+        <location filename="../../../src/qml/main.qml" line="374"/>
         <source>What&apos;s new …?</source>
         <translation type="unfinished"></translation>
     </message>

@@ -1940,7 +1940,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;Markus Sachs and Adrien Crovato have translated the app to &lt;strong&gt;French&lt;/strong&gt; and &lt;strong&gt;German&lt;/strong&gt;.  If you prefer English, go to the &apos;Settings&apos; page where a language option has been added.&lt;/p&gt;
 
 &lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Adrien Crovato und Heiner Tholen verstärken das Entwicklungs-Team. Dank ihrer Beiträge gibt es jetzt eine Option, um Distanzen und Geschwindigkeiten in &lt;strong&gt;metrischen Einheiten&lt;/strong&gt; anzuzeigen. Zusätzlich wurde die Seite mit &lt;strong&gt;Nahegelegenen Wegpunkten&lt;/strong&gt; überarbeitet.&lt;/p&gt;
+        <translation type="vanished">&lt;p&gt;Adrien Crovato und Heiner Tholen verstärken das Entwicklungs-Team. Dank ihrer Beiträge gibt es jetzt eine Option, um Distanzen und Geschwindigkeiten in &lt;strong&gt;metrischen Einheiten&lt;/strong&gt; anzuzeigen. Zusätzlich wurde die Seite mit &lt;strong&gt;Nahegelegenen Wegpunkten&lt;/strong&gt; überarbeitet.&lt;/p&gt;
 
 &lt;p&gt;Wir bieten jetzt Karten für &lt;strong&gt;Argentinien&lt;/strong&gt; und &lt;strong&gt;Brasilien&lt;/strong&gt;, wie immer mit wöchentlichen Aktualisierungen.&lt;/p&gt;
 
@@ -2016,7 +2016,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="240"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="233"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translatorcomment>evtl. &apos;Sammlung&apos; noch anpassen</translatorcomment>
         <translation>&lt;p&gt;&lt;strong&gt;Keine Luftfahrtkarte installiert.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bitte gehen Sie im Menü zu &lt;strong&gt;Einstellungen/Bibliothek/Karten&lt;/strong&gt;.&lt;/p&gt;</translation>
@@ -2408,27 +2408,27 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="vanished">Alle Lufträume werden angezeigt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="104"/>
         <source>Libraries</source>
         <translation>Bibliotheken</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="111"/>
         <source>Flight Routes</source>
         <translation>Flugstrecken</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="124"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
         <source>Automatic flight detection</source>
         <translation>Automat. Flugerkennung</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="127"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="82"/>
         <source>Switching to flight-mode at 30 kt</source>
         <translation>Bei GS &gt; 30kt im Flugmodus</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="131"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
         <source>Always in flight-mode</source>
         <translation>Immer im Flugmodus</translation>
     </message>
@@ -2457,12 +2457,12 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="vanished">Karten herunterladen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="101"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="126"/>
         <source>Updates available</source>
         <translation>Aktualisierungen verfügbar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="99"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="124"/>
         <source>Maps</source>
         <translation>Karten</translation>
     </message>
@@ -2477,7 +2477,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation>Alle Lufträume werden angezeigt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="116"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
         <source>System</source>
         <translation>System</translation>
     </message>
@@ -2683,7 +2683,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="360"/>
+        <location filename="../../../src/qml/main.qml" line="359"/>
         <source>Do you wish to exit Enroute Flight Navigation?</source>
         <translation>Möchten Sie Enroute Flight Navigation verlassen?</translation>
     </message>
@@ -2693,7 +2693,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="obsolete">Enroute verlassen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="375"/>
+        <location filename="../../../src/qml/main.qml" line="374"/>
         <source>What&apos;s new …?</source>
         <translation>Was ist neu …?</translation>
     </message>
