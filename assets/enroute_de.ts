@@ -2188,7 +2188,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="99"/>
         <source>TT</source>
-        <translation>rwKüG</translation>
+        <translation>TT</translation>
     </message>
 </context>
 <context>
@@ -2340,7 +2340,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="84"/>
         <source>GS</source>
-        <translation type="unfinished">GS</translation>
+        <translation>GS</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="101"/>
@@ -2358,7 +2358,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="87"/>
         <source>TT</source>
-        <translation>rwKüG</translation>
+        <translation>TT</translation>
     </message>
     <message>
         <source>Track</source>
@@ -2689,7 +2689,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/main.qml" line="338"/>
         <source>Exit…?</source>
-        <translation type="unfinished"></translation>
+        <translation>Beenden…?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="339"/>
