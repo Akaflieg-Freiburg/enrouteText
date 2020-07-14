@@ -2016,7 +2016,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="233"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="232"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translatorcomment>evtl. &apos;Sammlung&apos; noch anpassen</translatorcomment>
         <translation>&lt;p&gt;&lt;strong&gt;Keine Luftfahrtkarte installiert.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Bitte gehen Sie im Menü zu &lt;strong&gt;Einstellungen/Bibliothek/Karten&lt;/strong&gt;.&lt;/p&gt;</translation>
@@ -2251,12 +2251,12 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 <context>
     <name>SatNav</name>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="320"/>
+        <location filename="../../../src/SatNav.cpp" line="321"/>
         <source>Not installed or access denied</source>
         <translation>Nicht installiert oder kein Zugriff</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="323"/>
+        <location filename="../../../src/SatNav.cpp" line="324"/>
         <source>Access denied</source>
         <translation>Kein Zugriff</translation>
     </message>
@@ -2265,22 +2265,22 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="obsolete">Satellitenverbindung verloren</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="326"/>
+        <location filename="../../../src/SatNav.cpp" line="327"/>
         <source>Connection to satellite system lost</source>
         <translation>Satellitenverbindung verloren</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="329"/>
+        <location filename="../../../src/SatNav.cpp" line="330"/>
         <source>Unknown error</source>
         <translation>Unbekannter Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="332"/>
+        <location filename="../../../src/SatNav.cpp" line="333"/>
         <source>Waiting for signal</source>
         <translation>Warte auf Signal</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="334"/>
+        <location filename="../../../src/SatNav.cpp" line="335"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -2338,6 +2338,11 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation>Fehler</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="84"/>
+        <source>GS</source>
+        <translation type="unfinished">GS</translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="101"/>
         <source>ALT</source>
         <translation>ALT</translation>
@@ -2347,9 +2352,8 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="vanished">Geschätzter Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="84"/>
         <source>Ground Speed</source>
-        <translation>v&lt;sub&gt;g&lt;/sub&gt;</translation>
+        <translation type="vanished">v&lt;sub&gt;g&lt;/sub&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="87"/>
@@ -2684,6 +2688,11 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="338"/>
+        <source>Exit…?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="339"/>
         <source>Do you wish to exit Enroute Flight Navigation?</source>
         <translation>Möchten Sie Enroute Flight Navigation verlassen?</translation>
     </message>
@@ -2693,7 +2702,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="obsolete">Enroute verlassen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="353"/>
+        <location filename="../../../src/qml/main.qml" line="350"/>
         <source>What&apos;s new …?</source>
         <translation>Was ist neu …?</translation>
     </message>

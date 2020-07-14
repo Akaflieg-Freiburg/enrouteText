@@ -1188,7 +1188,7 @@
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="233"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="232"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Aucune carte aéronautique installée.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ouvrez le menu et allez dans &lt;strong&gt;Paramètres/Bibliothèque/Cartes&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
@@ -1389,32 +1389,32 @@
 <context>
     <name>SatNav</name>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="320"/>
+        <location filename="../../../src/SatNav.cpp" line="321"/>
         <source>Not installed or access denied</source>
         <translation>Non installé ou accès refusé</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="323"/>
+        <location filename="../../../src/SatNav.cpp" line="324"/>
         <source>Access denied</source>
         <translation>Accès refusé</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="326"/>
+        <location filename="../../../src/SatNav.cpp" line="327"/>
         <source>Connection to satellite system lost</source>
         <translation>Connexion satellite perdue</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="329"/>
+        <location filename="../../../src/SatNav.cpp" line="330"/>
         <source>Unknown error</source>
         <translation>Erreur inconnue</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="332"/>
+        <location filename="../../../src/SatNav.cpp" line="333"/>
         <source>Waiting for signal</source>
         <translation>En attente du signal</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="334"/>
+        <location filename="../../../src/SatNav.cpp" line="335"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -1468,14 +1468,18 @@
         <translation>Erreur</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="84"/>
+        <source>GS</source>
+        <translation type="unfinished">GS</translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="101"/>
         <source>ALT</source>
         <translation>ALT</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="84"/>
         <source>Ground Speed</source>
-        <translation>Vitesse sol</translation>
+        <translation type="vanished">Vitesse sol</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="87"/>
@@ -1725,11 +1729,16 @@
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="338"/>
+        <source>Exit…?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="339"/>
         <source>Do you wish to exit Enroute Flight Navigation?</source>
         <translation>Voulez-vous quitter Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="353"/>
+        <location filename="../../../src/qml/main.qml" line="350"/>
         <source>What&apos;s new …?</source>
         <translation>Nouveautés</translation>
     </message>

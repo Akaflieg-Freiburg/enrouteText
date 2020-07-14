@@ -1001,7 +1001,7 @@
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="233"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="232"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1202,32 +1202,32 @@
 <context>
     <name>SatNav</name>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="320"/>
+        <location filename="../../../src/SatNav.cpp" line="321"/>
         <source>Not installed or access denied</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="323"/>
+        <location filename="../../../src/SatNav.cpp" line="324"/>
         <source>Access denied</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="326"/>
+        <location filename="../../../src/SatNav.cpp" line="327"/>
         <source>Connection to satellite system lost</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="329"/>
+        <location filename="../../../src/SatNav.cpp" line="330"/>
         <source>Unknown error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="332"/>
+        <location filename="../../../src/SatNav.cpp" line="333"/>
         <source>Waiting for signal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="334"/>
+        <location filename="../../../src/SatNav.cpp" line="335"/>
         <source>OK</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1282,7 +1282,7 @@
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="84"/>
-        <source>Ground Speed</source>
+        <source>GS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1522,11 +1522,16 @@
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="338"/>
+        <source>Exit…?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="339"/>
         <source>Do you wish to exit Enroute Flight Navigation?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="353"/>
+        <location filename="../../../src/qml/main.qml" line="350"/>
         <source>What&apos;s new …?</source>
         <translation type="unfinished"></translation>
     </message>
