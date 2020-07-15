@@ -6,7 +6,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="30"/>
         <source>Set Altimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw wysokościomierz</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="52"/>
@@ -16,7 +16,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="62"/>
         <source>Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="72"/>
@@ -26,7 +26,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="84"/>
         <source>The current raw altimeter reading as reported by the satellite navigation system is %1 AMSL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obecny surowy odczyt wysokościomierza z nawigacji satelitarnej wynosi %1 AMSL.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="85"/>
@@ -36,7 +36,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="149"/>
         <source>Altimeter cannot be set</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość nie może zostać ustawiona</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="152"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="177"/>
         <source>Really set %1 ft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy na pewno ustawić %1 ft?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="180"/>
@@ -59,7 +59,7 @@
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="29"/>
         <source>Bug Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgłoś błąd</translation>
     </message>
 </context>
 <context>
@@ -67,12 +67,12 @@
     <message>
         <location filename="../../../src/Downloadable.cpp" line="57"/>
         <source>downloading … %1% complete</source>
-        <translation type="unfinished"></translation>
+        <translation>pobieranie ... %1% ukończone</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="62"/>
         <source>installed • %1</source>
-        <translation type="unfinished"></translation>
+        <translation>zainstalowano %1</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="67"/>
@@ -82,17 +82,17 @@
     <message>
         <location filename="../../../src/Downloadable.cpp" line="69"/>
         <source>no longer supported</source>
-        <translation type="unfinished"></translation>
+        <translation>dłużej nie jest wspierane</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="71"/>
         <source>not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>nie zainstalowane</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="76"/>
         <source>file size unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>wielkość pliku jest nieznana</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="287"/>
@@ -177,7 +177,7 @@
     <message>
         <location filename="../../../src/Downloadable.cpp" line="360"/>
         <source>the access to the remote content was denied (similar to HTTP error 403)</source>
-        <translation type="unfinished"></translation>
+        <translation>brak dostępu do zdalnej zawartości (identycznie jak błąd HTTP 403)</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="364"/>
@@ -270,12 +270,12 @@
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="32"/>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaakceptuj</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="36"/>
         <source>Reject</source>
-        <translation type="unfinished"></translation>
+        <translation>Odrzuć</translation>
     </message>
 </context>
 <context>
@@ -719,32 +719,32 @@
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="30"/>
         <source>Save Flight Route…</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz plan lotu...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="71"/>
         <source>Enter a file name or choose an existing name from the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wpisz nazwę pliku lub wybierz istniejącą nazwę z listy poniżej.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="82"/>
         <source>File Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa Pliku</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="151"/>
         <source>An error occurred…</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="197"/>
         <source>Overwrite file?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy nadpisać plik?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="204"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik &lt;strong&gt;%1&lt;/strong&gt; już istnieje w bibliotece. Czy chcesz go nadpisać?</translation>
     </message>
 </context>
 <context>
@@ -752,22 +752,22 @@
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="41"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; could not be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ pliku &lt;strong&gt;%1&lt;/strong&gt; nie może zostać rozpoznany.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="60"/>
         <source>Import Flight Route?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaimportować plan lotu?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="72"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>To nadpisze obecną trasę. Raz nadpisana obecna trasa lotu nie może zostać odzyskana.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="110"/>
         <source>Error importing flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd w trakcie importu planu lotu</translation>
     </message>
 </context>
 <context>
@@ -775,17 +775,17 @@
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="30"/>
         <source>About Enroute Flight Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>O Enroute Flight Navigation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="46"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorzy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="49"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencja</translation>
     </message>
 </context>
 <context>
@@ -1003,7 +1003,7 @@
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="232"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Nie ma żadnej zainstalowanej mapy lotniczej.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Otwórz menu i przejdź do &lt;strong&gt;Ustawienia/Biblioteka/Mapy&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1089,7 +1089,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/MissingPermissionsDialog.qml" line="32"/>
         <source>Close App</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamknij Aplikację</translation>
     </message>
 </context>
 <context>
@@ -1168,7 +1168,7 @@
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="31"/>
         <source>Nearby Waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobliskie Punkty Orientacyjne</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="44"/>
@@ -1188,7 +1188,7 @@
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="101"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Wybacz!&lt;/h3&gt;&lt;p&gt;Brak dostępnych danych. Upewnij się, że mapa lotnicza jest zainstalowana.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1196,7 +1196,7 @@
     <message>
         <location filename="../../../src/qml/pages/ParticipatePage.qml" line="29"/>
         <source>Improve this app</source>
-        <translation type="unfinished"></translation>
+        <translation>Ulepsz aplikację</translation>
     </message>
 </context>
 <context>
@@ -1204,32 +1204,32 @@
     <message>
         <location filename="../../../src/SatNav.cpp" line="321"/>
         <source>Not installed or access denied</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie zainstalowano lub odmowa dostępu</translation>
     </message>
     <message>
         <location filename="../../../src/SatNav.cpp" line="324"/>
         <source>Access denied</source>
-        <translation type="unfinished"></translation>
+        <translation>Odmowa dostępu</translation>
     </message>
     <message>
         <location filename="../../../src/SatNav.cpp" line="327"/>
         <source>Connection to satellite system lost</source>
-        <translation type="unfinished"></translation>
+        <translation>Łączność satelitarna została utracona</translation>
     </message>
     <message>
         <location filename="../../../src/SatNav.cpp" line="330"/>
         <source>Unknown error</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieznany błąd</translation>
     </message>
     <message>
         <location filename="../../../src/SatNav.cpp" line="333"/>
         <source>Waiting for signal</source>
-        <translation type="unfinished"></translation>
+        <translation>Oczekiwanie na sygnał</translation>
     </message>
     <message>
         <location filename="../../../src/SatNav.cpp" line="335"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1238,47 +1238,47 @@
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="29"/>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="51"/>
         <source>Satellite Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status Satelity</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="58"/>
         <source>Last Fix</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ostatnia korekta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="61"/>
         <source>Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="62"/>
         <source>Flight</source>
-        <translation type="unfinished"></translation>
+        <translation>Lot</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="62"/>
         <source>Ground</source>
-        <translation type="unfinished"></translation>
+        <translation>Ziemia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="70"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziome</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="75"/>
         <source>Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Szerokość</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="78"/>
         <source>Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Długość</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="81"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="84"/>
@@ -1293,7 +1293,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="96"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Pionowe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="101"/>
@@ -1417,22 +1417,22 @@
     <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="27"/>
         <source>Map updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępne są aktualizacje map</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="28"/>
         <source>&lt;p&gt;One or several of your installed maps can be updated. The estimated download size is %1.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Jedna lub więcej z zainstalowanych map może zostać zaktualizowana. Przewidywana wielkość pobierania %1. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="32"/>
         <source>Update now</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaktualizuj teraz</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="36"/>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation>Potem</translation>
     </message>
 </context>
 <context>
@@ -1440,22 +1440,22 @@
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="237"/>
         <source>mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Thank you for suggesting a correction in the map data. Please describe the issue here.</source>
-        <translation type="unfinished"></translation>
+        <translation>mailto:stefan.kebekus@gmail.com?subject=Enroute,Error Report&amp;body=Dziękuję za sugestie korekt w mapach. Proszę, opisz tutaj swój problem.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="295"/>
         <source>Direct</source>
-        <translation type="unfinished"></translation>
+        <translation>Bezpośredni</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="310"/>
         <source>from Route</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ze Szlaku</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="310"/>
         <source>to Route</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">do Szlaku</translation>
     </message>
 </context>
 <context>
@@ -1473,12 +1473,12 @@
     <message>
         <location filename="../../../src/qml/main.qml" line="82"/>
         <source>Nearby Waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobliskie Punkty Nawigacyjne</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="102"/>
         <source>Set Altimeter</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw Wysokościomierz</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="103"/>
@@ -1488,52 +1488,52 @@
     <message>
         <location filename="../../../src/qml/main.qml" line="120"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="140"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacja</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="155"/>
         <source>About Enroute Flight Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>O Enroute Flight Navigation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="169"/>
         <source>Bug report</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgłoszenie błędu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="183"/>
         <source>Participate</source>
-        <translation type="unfinished"></translation>
+        <translation>Uczestnicz</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="199"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Instrukcja obsługi</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="221"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyjście</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="338"/>
         <source>Exit…?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyjść...?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="339"/>
         <source>Do you wish to exit Enroute Flight Navigation?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Czy chcesz opuścić Enroute Flight Navigation?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="350"/>
         <source>What&apos;s new …?</source>
-        <translation type="unfinished"></translation>
+        <translation>Co nowego ...?</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="79"/>
@@ -1543,7 +1543,7 @@
     <message>
         <location filename="../../../src/main.cpp" line="82"/>
         <source>File to import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik do zaimportowania.</translation>
     </message>
 </context>
 </TS>
