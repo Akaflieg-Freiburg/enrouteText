@@ -13,7 +13,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install Additional Software
       run: |
-        sudo apt install libreoffice
+        sudo apt install libreoffice --no-install-recommends  --no-install-suggests
     - name: Generate PDF
       run: |
         cd EnrouteManual
