@@ -891,16 +891,23 @@
   &lt;/tr&gt;
 &lt;/table&gt;
 
+&lt;h3&gt;Manual&lt;/h3&gt;
+
+&lt;p&gt;The manual has kindly been provided by Michael Horbaschk.&lt;/p&gt;
+
 &lt;h3&gt;Translations&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;e-mail&lt;/a&gt;. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;French:&lt;/strong&gt; Szymon Kocur.&lt;/p&gt;
+
 &lt;p&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="188"/>
+        <location filename="../../../src/Librarian.cpp" line="195"/>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
@@ -917,7 +924,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="204"/>
+        <location filename="../../../src/Librarian.cpp" line="211"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -926,7 +933,7 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="212"/>
+        <location filename="../../../src/Librarian.cpp" line="219"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -939,18 +946,18 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="224"/>
-        <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded. For pilots of very slow-flying aircrafts (such as paramotors) there is now a switch to &lt;strong&gt;enable flight mode&lt;/strong&gt; manually.&lt;/p&gt;
+        <location filename="../../../src/Librarian.cpp" line="231"/>
+        <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded. For pilots of very slow-flying aircrafts (such as paramotors) there is now a switch to &lt;strong&gt;set flight mode manually&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
 
-&lt;p&gt;Markus Sachs and Adrien Crovato have translated the app to &lt;strong&gt;French&lt;/strong&gt; and &lt;strong&gt;German&lt;/strong&gt;.  If you prefer English, go to the &lt;strong&gt;Settings&lt;/strong&gt; page where a language option has been added.&lt;/p&gt;
+&lt;p&gt;Adrien Crovato, Markus Sachs and Szymon Kocur have translated the app to &lt;strong&gt;French&lt;/strong&gt;, &lt;strong&gt;German&lt;/strong&gt; and &lt;strong&gt;Polish&lt;/strong&gt;.  If you prefer English, go to the &lt;strong&gt;Settings&lt;/strong&gt; page where a language option has been added.&lt;/p&gt;
 
 &lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="180"/>
+        <location filename="../../../src/Librarian.cpp" line="187"/>
         <source>&lt;h3&gt;Bug Report&lt;/h3&gt;
 
 &lt;p&gt;We aim to provide very high-quality software. Fixing errors is therefore always our first priority. We are grateful for every report that we get.&lt;/p&gt;
