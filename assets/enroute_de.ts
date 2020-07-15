@@ -9,52 +9,69 @@
         <translation>Höhenmesser einstellen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="52"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="56"/>
         <source>If you have good satellite reception and if know your altitude precisely, you can set the satellite altimeter here.</source>
         <translation>Bei gutem Satellitenempfang und genau bekannter Flughöhe können Sie hier die Satelliten-Höhenanzeige justieren.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="62"/>
         <source>Altitude</source>
-        <translation>Flughöhe</translation>
+        <translation type="vanished">Flughöhe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="72"/>
         <source>ft AMSL</source>
         <translatorcomment>ich würde hier englisch bleiben, nicht ü/NN oder so</translatorcomment>
-        <translation>ft MSL</translation>
+        <translation type="vanished">ft MSL</translation>
     </message>
     <message>
         <source>The current raw altimeter reading as reported by the satellite navigation system is %1 AMSL. The corrected altitude is %2 AMSL.</source>
         <translation type="vanished">Die Flughöhe laut SatNav ist %1 AMSL, die korrigierte Flughöhe ist %2 AMSL.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="84"/>
         <source>The current raw altimeter reading as reported by the satellite navigation system is %1 AMSL.</source>
-        <translation>Die Flughöhe laut Satellitensystem ist %1 AMSL.</translation>
+        <translation type="vanished">Die Flughöhe laut Satellitensystem ist %1 AMSL.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="85"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="66"/>
+        <source>ALT</source>
+        <translation type="unfinished">ALT</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="77"/>
+        <source>ft MSL</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="89"/>
+        <source>The current raw altimeter reading as reported by the satellite navigation system is %1 MSL.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="90"/>
         <source>Insufficient satellite reception. Altimeter cannot be set.</source>
         <translation>Ungenügender Satellitenempfang. Höhenmesser kann nicht eingestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="149"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="148"/>
+        <source>Use Sat</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="156"/>
         <source>Altimeter cannot be set</source>
         <translation>Höhenmesser kann nicht eingestellt werden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="152"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="159"/>
         <source>Insufficient satellite reception. Please try again once reception becomes better.</source>
         <translation>Ungenügender Satellitenempfang. Bitte bei besserem Empfang neu versuchen.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="177"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="183"/>
         <source>Really set %1 ft?</source>
         <translation>Wirklich %1 ft einstellen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="180"/>
+        <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="186"/>
         <source>The altitude reported by the satellite navigation system is %1 AMSL. That is a big difference.</source>
         <translation>Die Flughöhe laut SatNav ist %1 AMSL. Das ist eine große Abweichung.</translation>
     </message>
@@ -2251,12 +2268,12 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 <context>
     <name>SatNav</name>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="321"/>
+        <location filename="../../../src/SatNav.cpp" line="319"/>
         <source>Not installed or access denied</source>
         <translation>Nicht installiert oder kein Zugriff</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="324"/>
+        <location filename="../../../src/SatNav.cpp" line="322"/>
         <source>Access denied</source>
         <translation>Kein Zugriff</translation>
     </message>
@@ -2265,22 +2282,22 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="obsolete">Satellitenverbindung verloren</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="327"/>
+        <location filename="../../../src/SatNav.cpp" line="325"/>
         <source>Connection to satellite system lost</source>
         <translation>Satellitenverbindung verloren</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="330"/>
+        <location filename="../../../src/SatNav.cpp" line="328"/>
         <source>Unknown error</source>
         <translation>Unbekannter Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="333"/>
+        <location filename="../../../src/SatNav.cpp" line="331"/>
         <source>Waiting for signal</source>
         <translation>Warte auf Signal</translation>
     </message>
     <message>
-        <location filename="../../../src/SatNav.cpp" line="335"/>
+        <location filename="../../../src/SatNav.cpp" line="333"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -2565,14 +2582,24 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation>Direkt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="310"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="314"/>
         <source>from Route</source>
         <translation>von Strecke</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="310"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="314"/>
         <source>to Route</source>
         <translation>zu Strecke</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="336"/>
+        <source>Overwrite current flight route?</source>
+        <translation type="unfinished">Aktuelle Flugstrecke überschreiben?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="346"/>
+        <source>Once overwritten, the current flight route cannot be restored.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Route</source>
