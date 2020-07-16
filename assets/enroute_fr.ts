@@ -14,31 +14,19 @@
         <translation>Vous pouvez régler l&apos;altimètre si la réception satellite est bonne et si vous connaissez votre altitude avec précision.</translation>
     </message>
     <message>
-        <source>Altitude</source>
-        <translation type="vanished">Altitude</translation>
-    </message>
-    <message>
-        <source>ft AMSL</source>
-        <translation type="vanished">ft AMSL</translation>
-    </message>
-    <message>
-        <source>The current raw altimeter reading as reported by the satellite navigation system is %1 AMSL.</source>
-        <translation type="vanished">L&apos;altitude donnée par le système de navigation satellite est de %1 AMSL.</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="66"/>
         <source>ALT</source>
-        <translation type="unfinished">ALT</translation>
+        <translation>ALT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="77"/>
         <source>ft MSL</source>
-        <translation type="unfinished"></translation>
+        <translation>ft MSL</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="89"/>
         <source>The current raw altimeter reading as reported by the satellite navigation system is %1 MSL.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;altitude donnée par le système de navigation satellite est de %1 AMSL.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="90"/>
@@ -48,7 +36,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="148"/>
         <source>Use Sat</source>
-        <translation type="unfinished"></translation>
+        <translation>Utiliser GPS</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="156"/>
@@ -1024,89 +1012,7 @@
 &lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="231"/>
-        <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded. For pilots of very slow-flying aircrafts (such as paramotors) there is now a switch to &lt;strong&gt;set flight mode manually&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
-
-&lt;p&gt;Adrien Crovato, Markus Sachs and Szymon Kocur have translated the app to &lt;strong&gt;French&lt;/strong&gt;, &lt;strong&gt;German&lt;/strong&gt; and &lt;strong&gt;Polish&lt;/strong&gt;.  If you prefer English, go to the &lt;strong&gt;Settings&lt;/strong&gt; page where a language option has been added.&lt;/p&gt;
-
-&lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Authors&lt;/h3&gt;
-
-&lt;br&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
-      &lt;h4&gt;Address&lt;/h4&gt;
-      Stefan Kebekus&lt;br&gt;
-      Wintererstraße 77&lt;br&gt;
-      79104 Freiburg&lt;br&gt;
-      Germany&lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Pic: Patrick Seeger&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;br&gt;
-      &lt;h3&gt;Contributing Authors&lt;/h3&gt;
-      &lt;br&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Adrien Crovato is a private pilot and aerospace engineer. He joined the development team in 2020, and contributes to the C++ and QML code base.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses Enroute as a pilot of ultralight planes. Heiner joined the Enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
-     &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Johannes Zellner joined the development in 2020.  He contributes to the C++ and QML code base of the app and helps with bug fixing.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h3&gt;Translations&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;e-mail&lt;/a&gt;. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;</source>
-        <translation type="vanished">
+        <translation>
 &lt;h3&gt;Autheurs&lt;/h3&gt;
 
 &lt;br&gt;
@@ -1169,12 +1075,38 @@
   &lt;/tr&gt;
 &lt;/table&gt;
 
+&lt;h3&gt;Manuel&lt;/h3&gt;
+
+&lt;p&gt;Le manuel a été écrit par Michael Horbaschk.&lt;/p&gt;
+
 &lt;h3&gt;Traductions&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;Français&lt;/strong&gt;: Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Allemand&lt;/strong&gt;: Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;E-Mail&lt;/a&gt;. Markus pilote des deltaplanes et est un &apos;co-pilote&apos; enthousiate sur tout autre type d&apos;appareil.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Polonais&lt;/strong&gt;: Szymon Kocur.&lt;/p&gt;
+
 &lt;p&gt;&lt;/p&gt;
+</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="231"/>
+        <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded. For pilots of very slow-flying aircrafts (such as paramotors) there is now a switch to &lt;strong&gt;set flight mode manually&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
+
+&lt;p&gt;Adrien Crovato, Markus Sachs and Szymon Kocur have translated the app to &lt;strong&gt;French&lt;/strong&gt;, &lt;strong&gt;German&lt;/strong&gt; and &lt;strong&gt;Polish&lt;/strong&gt;.  If you prefer English, go to the &lt;strong&gt;Settings&lt;/strong&gt; page where a language option has been added.&lt;/p&gt;
+
+&lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
+        <translation>
+&lt;p&gt;Adrien Crovato et Heiner Tholen ont rejoint l&apos;équipe de développement. Il est maintenant possible d&apos;utiliser les &lt;strong&gt;unités métriques&lt;/strong&gt; pour les distances et vitesses horizontales, et la page &lt;strong&gt;A proximité&lt;/strong&gt; affiche plus d&apos;informations. Les pilotes d'avions lents (comme les paramoteurs) peuvent maintenant &lt;strong&gt;activer le mode vol manuellement&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Les cartes de l&apos;&lt;strong&gt;Argentine&lt;/strong&gt; et du &lt;strong&gt;Brésil&lt;/strong&gt; ont été ajoutées. Nous continuerons à mettre les cartes à jour de manière hebdomadaire.&lt;/p&gt;
+
+&lt;p&gt;L&apos;application a été traduite en &lt;strong&gt;français&lt;/strong&gt;, en &lt;strong&gt;allemand&lt;/strong&gt; et en &lt;strong&gt;polonais&lt;/strong&gt; par Adrien Crovato, Markus Sachs et Szymon Kocur, respectivement. Une option à été ajoutée sur la page &apos;Paramètres&apos; pour que l&apos;application soit affichée en l&apos;anglais.&lt;/p&gt;
+
+&lt;p&gt;Michael Horbaschk a documenté l&apos;application au travers d&apos;un &lt;strong&gt;manuel&lt;/strong&gt;.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -1228,24 +1160,6 @@
 &lt;p&gt;Bon vols !&lt;/p&gt;
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded.&lt;/p&gt;
-
-&lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
-
-&lt;p&gt;Markus Sachs and Adrien Crovato have translated the app to &lt;strong&gt;French&lt;/strong&gt; and &lt;strong&gt;German&lt;/strong&gt;.  If you prefer English, go to the &apos;Settings&apos; page where a language option has been added.&lt;/p&gt;
-
-&lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
-        <translation type="vanished">
-&lt;p&gt;Adrien Crovato et Heiner Tholen ont rejoint l&apos;équipe de développement. Il est maintenant possible d&apos;utiliser les &lt;strong&gt;unités métriques&lt;/strong&gt; pour les distances et vitesses horizontales, et la page &lt;strong&gt;A proximité&lt;/strong&gt; affiche plus d&apos;informations.&lt;/p&gt;
-
-&lt;p&gt;Les cartes de l&apos;&lt;strong&gt;Argentine&lt;/strong&gt; et du &lt;strong&gt;Brésil&lt;/strong&gt; ont été ajoutées. Nous continuerons à mettre les cartes à jour de manière hebdomadaire.&lt;/p&gt;
-
-&lt;p&gt;Markus Sachs a traduit l&apos;application en &lt;strong&gt;allemand&lt;/strong&gt;, et Adrien l&apos;a traduite en &lt;strong&gt;français&lt;/strong&gt;. Si vous préférez l&apos;anglais, rendez-vous sur la page &apos;Paramètres&apos; où une option de langue à été ajoutée.&lt;/p&gt;
-
-&lt;p&gt;Michael Horbaschk a documenté l&apos;application au travers d&apos;un &lt;strong&gt;manuel&lt;/strong&gt;.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -1565,7 +1479,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="84"/>
         <source>GS</source>
-        <translation type="unfinished">GS</translation>
+        <translation>GS</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="101"/>
@@ -1573,13 +1487,9 @@
         <translation>ALT</translation>
     </message>
     <message>
-        <source>Ground Speed</source>
-        <translation type="vanished">Vitesse sol</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="87"/>
         <source>TT</source>
-        <translation>Route</translation>
+        <translation>TT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="96"/>
@@ -1605,22 +1515,14 @@
         <translation>Cacher les espaces aériens ≥ FL100</translation>
     </message>
     <message>
-        <source>Upper airspaces currently hidden</source>
-        <translation type="vanished">Espaces aériens supérieurs cachés</translation>
-    </message>
-    <message>
-        <source>All airspaces currently shown</source>
-        <translation type="vanished">Tous les espaces aériens affichés</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="57"/>
         <source>Upper airspaces hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaces aériens supérieurs cachés</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="61"/>
         <source>All airspaces shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaces aériens tous affichés</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="104"/>
@@ -1650,17 +1552,17 @@
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
         <source>Automatic flight detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Détéction automatique du mode vol</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="82"/>
         <source>Switching to flight-mode at 30 kt</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode vol actif au-delà de 30 kt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
         <source>Always in flight-mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode vol toujours actif</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="149"/>
@@ -1754,12 +1656,12 @@
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="336"/>
         <source>Overwrite current flight route?</source>
-        <translation type="unfinished">Ecraser la route actuelle ?</translation>
+        <translation>Ecraser la route actuelle ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="346"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>La route ne pourra pas être restaurée si elle est écrasée.</translation>
     </message>
 </context>
 <context>
@@ -1768,14 +1670,6 @@
         <location filename="../../../src/qml/main.qml" line="35"/>
         <source>Enroute Flight Navigation</source>
         <translation>Enroute Flight Navigation</translation>
-    </message>
-    <message>
-        <source>Ground</source>
-        <translation type="obsolete">Sol</translation>
-    </message>
-    <message>
-        <source>Flight</source>
-        <translation type="obsolete">Vol</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="66"/>
@@ -1835,7 +1729,7 @@
     <message>
         <location filename="../../../src/qml/main.qml" line="338"/>
         <source>Exit…?</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitter ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="339"/>
