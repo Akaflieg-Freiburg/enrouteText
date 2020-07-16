@@ -901,7 +901,7 @@
 
 &lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;e-mail&lt;/a&gt;. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;French:&lt;/strong&gt; Szymon Kocur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
