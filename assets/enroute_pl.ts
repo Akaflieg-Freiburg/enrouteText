@@ -11,27 +11,27 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="56"/>
         <source>If you have good satellite reception and if know your altitude precisely, you can set the satellite altimeter here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli masz dobry sygnał z satelity i znasz dokładnie swoją wysokość, to możesz tutaj ustawić wysokość satelitarną.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="66"/>
         <source>ALT</source>
-        <translation type="unfinished">ALT</translation>
+        <translation>ALT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="77"/>
         <source>ft MSL</source>
-        <translation type="unfinished"></translation>
+        <translation>ft MSL</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="89"/>
         <source>The current raw altimeter reading as reported by the satellite navigation system is %1 MSL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obecny surowy odczyt wysokościomierza z systemu nawigacji satelitarnej to %1 MSL.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="90"/>
         <source>Insufficient satellite reception. Altimeter cannot be set.</source>
-        <translation type="unfinished"></translation>
+        <translation>Słaby odbiór z satelity. Wysokościomierz nie może zostać ustawiony.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="148"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="159"/>
         <source>Insufficient satellite reception. Please try again once reception becomes better.</source>
-        <translation type="unfinished"></translation>
+        <translation>Słaby odbiór z satelity. Spróbuj ponownie, gdy sygnał się poprawi.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="183"/>
@@ -56,7 +56,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="186"/>
         <source>The altitude reported by the satellite navigation system is %1 AMSL. That is a big difference.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość zwrócona z systemu nawigacji satelitarnej to %1 AMSL. To duża różnica.</translation>
     </message>
 </context>
 <context>
@@ -1171,7 +1171,7 @@
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="62"/>
         <source>base maps</source>
-        <translation type="unfinished"></translation>
+        <translation>mapy podstawowe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="150"/>
@@ -1187,7 +1187,7 @@
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="167"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Błąd przy pobieraniu &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Powód: %2.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="222"/>
@@ -1208,7 +1208,7 @@
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="262"/>
         <source>Base Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapy podstawowe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="353"/>
@@ -1231,7 +1231,7 @@
     <message>
         <location filename="../../../src/qml/pages/MapPage.qml" line="33"/>
         <source>Moving Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa mobilna</translation>
     </message>
 </context>
 <context>
@@ -1247,52 +1247,52 @@
     <message>
         <location filename="../../../src/MobileAdaptor.cpp" line="135"/>
         <source>Downloading map data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie danych map...</translation>
     </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="44"/>
         <source>Import data</source>
-        <translation type="unfinished"></translation>
+        <translation>Import danych</translation>
     </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="46"/>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie pliki (*)</translation>
     </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="68"/>
         <source>No suitable file sharing app could be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można znaleźć odpowiedniej aplikacji udostępniającej pliki.</translation>
     </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="71"/>
         <source>Export flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyeksportuj trasę lotu</translation>
     </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="73"/>
         <source>%1 (*.%2);;All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (*.%2);;Wszystkie pliki (*)</translation>
     </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="79"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć pliku &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="82"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zapisać do pliku &lt;strong%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="99"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można znaleźć odpowiedniej aplikacji do przeglądania tych danych.</translation>
     </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="104"/>
         <source>Unable to open data in other app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć danych w innej aplikacji.</translation>
     </message>
 </context>
 <context>
@@ -1323,17 +1323,17 @@
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="44"/>
         <source>AD</source>
-        <translation type="unfinished"></translation>
+        <translation>AD</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="45"/>
         <source>NAV</source>
-        <translation type="unfinished"></translation>
+        <translation>NAV</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="46"/>
         <source>REP</source>
-        <translation type="unfinished"></translation>
+        <translation>REP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="101"/>
@@ -1456,97 +1456,97 @@
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="30"/>
         <source>Settings</source>
-        <translation type="unfinished">Ustawienia</translation>
+        <translation>Ustawienia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="46"/>
         <source>Moving Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa mobilna</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="54"/>
         <source>Hide Airspaces ≥ FL100</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj Przestrzenie Lotnicze ≥ FL100</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="57"/>
         <source>Upper airspaces hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyższe strefy lotnicze ukryte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="61"/>
         <source>All airspaces shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokazane wszystkie strefy lotnicze</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="104"/>
         <source>Libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteki</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="111"/>
         <source>Flight Routes</source>
-        <translation type="unfinished"></translation>
+        <translation>Trasy Lotnicze</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="124"/>
         <source>Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="126"/>
         <source>Updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępne aktualizacje</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>System</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
         <source>Automatic flight detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczna detekcja lotu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="82"/>
         <source>Switching to flight-mode at 30 kt</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmiana w tryb lotu od 30kt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
         <source>Always in flight-mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawsze w trybie lotu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="149"/>
         <source>Use metric units</source>
-        <translation type="unfinished"></translation>
+        <translation>Uzyj systemu metrycznego</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
         <source>Speed in km/h, distance in km</source>
-        <translation type="unfinished"></translation>
+        <translation>Prędkość w km/h, dystans w km</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="153"/>
         <source>Speed in kt, distance in NM</source>
-        <translation type="unfinished"></translation>
+        <translation>Prędkość w kt, dystans w NM</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="168"/>
         <source>Use English</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj angielskiego</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="181"/>
         <source>Satellite Status</source>
-        <translation type="unfinished">Status Satelity</translation>
+        <translation>Status Satelity</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="183"/>
         <source>Current Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Obecny Status</translation>
     </message>
 </context>
 <context>
@@ -1623,7 +1623,7 @@
     <message>
         <location filename="../../../src/qml/main.qml" line="35"/>
         <source>Enroute Flight Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="66"/>
@@ -1643,7 +1643,7 @@
     <message>
         <location filename="../../../src/qml/main.qml" line="103"/>
         <source>Insufficient reception</source>
-        <translation type="unfinished"></translation>
+        <translation>Słaby odbiór</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="120"/>
@@ -1698,7 +1698,7 @@
     <message>
         <location filename="../../../src/main.cpp" line="79"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation to darmowa nawigacja lotnicza dla pilotów VFR, rozwijana jako projekt Akaflieg Freiburg.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="82"/>
