@@ -33,17 +33,17 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="66"/>
         <source>ALT</source>
-        <translation type="unfinished">ALT</translation>
+        <translation>ALT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="77"/>
         <source>ft MSL</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="89"/>
         <source>The current raw altimeter reading as reported by the satellite navigation system is %1 MSL.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Flughöhe laut Satellitensystem ist %1 AMSL.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="90"/>
@@ -53,7 +53,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="148"/>
         <source>Use Sat</source>
-        <translation type="unfinished"></translation>
+        <translation>Verwende Sat</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="156"/>
@@ -1816,7 +1816,75 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Autoren&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Die App &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; wurde von Stefan Kebekus entwickelt. Stefan ist seit 1986 flugbegeistert und Mitglied der Akaflieg Freiburg. Stefan fliegt Segel- und Motorflugzeuge.&lt;/p&gt;
+      &lt;h4&gt;Adresse&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstraße 77&lt;br&gt;
+      79104 Freiburg&lt;br&gt;
+      Deutschland&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;E-Mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;img src=&quot;/icons/kebekus.jpg&quot; alt=&quot;Stefan Kebekus&quot; height=&quot;140&quot;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Foto: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;br&gt;
+      &lt;h3&gt;Weitere Autorenbeiträge&lt;/h3&gt;
+      &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Adrien Crovato ist Privatpilot und Luftfahrt-Ingenieur. Er ist seit 2020 dabei und trägt zur C++ /QML Codebasis bei.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Heiner Tholen baut gern, egal ob analog oder digital, fliegend oder erdgebunden. Er verwendet &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; als Pilot von Ultraleicht-Flugzeugen. Heiner ist seit Mitte 2020 bei der Entwicklung dabei. Er trägt zur C++/QML Codebasis bei.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Johannes Zellner kam 2020 als Entwickler dazu. Er trägt zur Codebasis der App in C++ und QML bei und hilft bei der Fehlerbehebung.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;&lt;a href=&quot;mailto:johannes@zellner.org&quot;&gt;E-Mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&quot;center&quot;&gt;&amp;nbsp;&lt;img src=&quot;/icons/zellner.jpg&quot; alt=&quot;Johannes Zellner&quot; height=&quot;140&quot;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;Übersetzungen&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Deutsch:&lt;/strong&gt; Markus Sachs, &lt;a href=&quot;mailto:ms@squawk-vfr.de&quot;&gt;E-Mail&lt;/a&gt;. Markus ist Trike-Pilot. Auf allem anderen, was fliegt, ist er begeisterter Mit-Flieger.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Französisch:&lt;/strong&gt; Adrien Crovato.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Polnisch:&lt;/strong&gt; Szymon Kocur.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="231"/>
@@ -1827,7 +1895,13 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;Adrien Crovato, Markus Sachs and Szymon Kocur have translated the app to &lt;strong&gt;French&lt;/strong&gt;, &lt;strong&gt;German&lt;/strong&gt; and &lt;strong&gt;Polish&lt;/strong&gt;.  If you prefer English, go to the &lt;strong&gt;Settings&lt;/strong&gt; page where a language option has been added.&lt;/p&gt;
 
 &lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Adrien Crovato und Heiner Tholen verstärken das Entwicklungs-Team. Dank ihrer Beiträge gibt es jetzt eine Option, um Distanzen und Geschwindigkeiten in &lt;strong&gt;metrischen Einheiten&lt;/strong&gt; anzuzeigen. Zusätzlich wurde die Seite mit &lt;strong&gt;Nahegelegenen Wegpunkten&lt;/strong&gt; überarbeitet. Für Piloten von sehr langsamen Fluggeräten (wie z.B. Motorschirmen) gibt es jetzt eine Einstellung um den &lt;strong&gt;Flugmodus&lt;/strong&gt; manuell zu erzwingen.&lt;/p&gt;
+
+&lt;p&gt;Wir bieten jetzt Karten für &lt;strong&gt;Argentinien&lt;/strong&gt; und &lt;strong&gt;Brasilien&lt;/strong&gt;, wie immer mit wöchentlichen Aktualisierungen.&lt;/p&gt;
+
+&lt;p&gt;Markus Sachs, Adrien Crovato und Szymon Kocur übersetzten die App in das &lt;strong&gt;Deutsche&lt;/strong&gt;, &lt;strong&gt;Französische&lt;/strong&gt; und &lt;strong&gt;Polnische&lt;/strong&gt;. Falls Sie die App lieber weiterhin in in Englisch möchten, gibt es dafür eine Option.&lt;/p&gt;
+
+&lt;p&gt;Michael Horbaschk hat freundlicherweise ein &lt;strong&gt;Handbuch&lt;/strong&gt; für die App geschrieben, das in der nächsten Zeit noch erweitert wird.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Authors&lt;/h3&gt;
@@ -2682,12 +2756,12 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="336"/>
         <source>Overwrite current flight route?</source>
-        <translation type="unfinished">Aktuelle Flugstrecke überschreiben?</translation>
+        <translation>Aktuelle Flugstrecke überschreiben?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="346"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die aktuelle Strecke kann nach dem Überschreiben nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>Route</source>
