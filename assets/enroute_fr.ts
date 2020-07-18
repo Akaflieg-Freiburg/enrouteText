@@ -796,7 +796,7 @@
 <context>
     <name>Librarian</name>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="65"/>
+        <location filename="../../../src/Librarian.cpp" line="68"/>
         <source>&lt;h3&gt;License&lt;/h3&gt;
 
 &lt;p&gt;This program is licensed under the &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; or, at your choice, any later version of this license.&lt;/p&gt;
@@ -827,7 +827,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="37"/>
+        <location filename="../../../src/Librarian.cpp" line="40"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -882,7 +882,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="81"/>
+        <location filename="../../../src/Librarian.cpp" line="84"/>
         <source>&lt;h3&gt;Suggest features and improvements&lt;/h3&gt;
 
 &lt;p&gt;We have great plans for &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;, check our &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/projects&quot;&gt;project list at GitHub&lt;/a&gt; to see what&apos;s coming.  Please make further suggestions through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.  We ask for your understanding that not all your suggestions can be implemented immediately.&lt;/p&gt;
@@ -909,7 +909,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="95"/>
+        <location filename="../../../src/Librarian.cpp" line="98"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -936,7 +936,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="109"/>
+        <location filename="../../../src/Librarian.cpp" line="112"/>
         <source>&lt;h3&gt;Authors&lt;/h3&gt;
 
 &lt;br&gt;
@@ -1091,7 +1091,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="231"/>
+        <location filename="../../../src/Librarian.cpp" line="234"/>
         <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded. For pilots of very slow-flying aircrafts (such as paramotors) there is now a switch to &lt;strong&gt;set flight mode manually&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
@@ -1100,7 +1100,7 @@
 
 &lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
         <translation>
-&lt;p&gt;Adrien Crovato et Heiner Tholen ont rejoint l&apos;équipe de développement. Il est maintenant possible d&apos;utiliser les &lt;strong&gt;unités métriques&lt;/strong&gt; pour les distances et vitesses horizontales, et la page &lt;strong&gt;A proximité&lt;/strong&gt; affiche plus d&apos;informations. Les pilotes d'avions lents (comme les paramoteurs) peuvent maintenant &lt;strong&gt;activer le mode vol manuellement&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Adrien Crovato et Heiner Tholen ont rejoint l&apos;équipe de développement. Il est maintenant possible d&apos;utiliser les &lt;strong&gt;unités métriques&lt;/strong&gt; pour les distances et vitesses horizontales, et la page &lt;strong&gt;A proximité&lt;/strong&gt; affiche plus d&apos;informations. Les pilotes d&apos;avions lents (comme les paramoteurs) peuvent maintenant &lt;strong&gt;activer le mode vol manuellement&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Les cartes de l&apos;&lt;strong&gt;Argentine&lt;/strong&gt; et du &lt;strong&gt;Brésil&lt;/strong&gt; ont été ajoutées. Nous continuerons à mettre les cartes à jour de manière hebdomadaire.&lt;/p&gt;
 
@@ -1110,7 +1110,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="187"/>
+        <location filename="../../../src/Librarian.cpp" line="190"/>
         <source>&lt;h3&gt;Bug Report&lt;/h3&gt;
 
 &lt;p&gt;We aim to provide very high-quality software. Fixing errors is therefore always our first priority. We are grateful for every report that we get.&lt;/p&gt;
@@ -1125,7 +1125,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="211"/>
+        <location filename="../../../src/Librarian.cpp" line="214"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1140,7 +1140,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="219"/>
+        <location filename="../../../src/Librarian.cpp" line="222"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -1163,7 +1163,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="195"/>
+        <location filename="../../../src/Librarian.cpp" line="198"/>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
