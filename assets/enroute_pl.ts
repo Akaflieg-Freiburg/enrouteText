@@ -102,82 +102,82 @@
     <message>
         <location filename="../../../src/Downloadable.cpp" line="287"/>
         <source>the remote server refused the connection (the server is not accepting requests)</source>
-        <translation type="unfinished"></translation>
+        <translation>zdalny serwer odrzucił połączenie (serwer nie akceptuje zapytań)</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="291"/>
         <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
-        <translation type="unfinished"></translation>
+        <translation>serwer zdalny zamknął połączenie przedwcześnie, zanim cała odpowiedź została odczytana i przetworzona</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="296"/>
         <source>the remote host name was not found (invalid hostname)</source>
-        <translation type="unfinished"></translation>
+        <translation>nazwa zdalnego hosta nie została odnaleziona (błędna nazwa hosta)</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="300"/>
         <source>the connection to the remote server timed out</source>
-        <translation type="unfinished"></translation>
+        <translation>połączenie z serwerem zdalnym wygasło</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="305"/>
         <source>the operation was canceled via calls to abort() or close() before it was finished</source>
-        <translation type="unfinished"></translation>
+        <translation>operacja została anulowana przez wywołania abort() lub close() zanim się zakończyła</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="309"/>
         <source>the SSL/TLS handshake failed and the encrypted channel could not be established. The sslErrors() signal should have been emitted</source>
-        <translation type="unfinished"></translation>
+        <translation>w trakcie połączenia SSL/TLS wystąpił błąd i nie można utworzyć zaszyfrowanego kanału. Sygnał sslErrors() powinien zostać wyemitowany</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="314"/>
         <source>the connection was broken due to disconnection from the network</source>
-        <translation type="unfinished"></translation>
+        <translation>połączenie zostało przerwane z powodu odłączenia od sieci</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="318"/>
         <source>the connection was broken due to disconnection from the network or failure to start the network</source>
-        <translation type="unfinished"></translation>
+        <translation>połączenie zostało przerwane z powodu odłączenia od sieci lub z powodu błędu uruchomienia sieci</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="323"/>
         <source>the background request is not currently allowed due to platform policy</source>
-        <translation type="unfinished"></translation>
+        <translation>zapytania w tle nie są aktualnie dozwolone ze względu na politykę platformy sprzętowej</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="327"/>
         <source>while following redirects, the maximum limit was reached</source>
-        <translation type="unfinished"></translation>
+        <translation>w trakcie podążania za przekierowaniami, osiągnięto maksymalny limit</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="331"/>
         <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
-        <translation type="unfinished"></translation>
+        <translation>w trakcie podążania za przekierowaniami, punkt dostępu sieciowego API wykrył przekierowanie z zaszyfrowanego protokołu (https) do niezaszyfrowanego (http)</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="336"/>
         <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
-        <translation type="unfinished"></translation>
+        <translation>połączenie z serwerem proxy zostało odrzucone (serwer proxy nie akceptuje zapytań)</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="341"/>
         <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
-        <translation type="unfinished"></translation>
+        <translation>serwer proxy zamknął przedwcześnie połączenie, zanim cała odpowiedź została odczytana i przetworzona</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="346"/>
         <source>the proxy host name was not found (invalid proxy hostname)</source>
-        <translation type="unfinished"></translation>
+        <translation>nazwa hosta proxy nie została odnaleziona (wadliwa nazwa hosta proxy)</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="350"/>
         <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
-        <translation type="unfinished"></translation>
+        <translation>zapytanie do proxy wygasło lub nie odpowiedziano na czas wysłanemu zapytaniu</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="355"/>
         <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
-        <translation type="unfinished"></translation>
+        <translation>proxy wymaga uwierzytelniania w celu weryfikacji zapytania, ale nie zaakceptowało żadnych przesłanych danych logowania (jeśli takowe były)</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="360"/>
@@ -187,27 +187,27 @@
     <message>
         <location filename="../../../src/Downloadable.cpp" line="364"/>
         <source>the operation requested on the remote content is not permitted</source>
-        <translation type="unfinished"></translation>
+        <translation>żądana operacja na zdalnej zawartości nie jest dozwolona</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="368"/>
         <source>the remote content was not found at the server (similar to HTTP error 404)</source>
-        <translation type="unfinished"></translation>
+        <translation>zdalna zawartość nie można zostać znaleziona na serwerze (to samo błąd HTTP 404)</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="372"/>
         <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
-        <translation type="unfinished"></translation>
+        <translation>serwer zdalny wymaga uwierzytelniania by zwrócić zawartość, ale dane dostępowe nie zostały zaakceptowane (jeśli takowe były)</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="377"/>
         <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
-        <translation type="unfinished"></translation>
+        <translation>zapytanie musi zostać ponownie wysłane, mógł wystąpić błąd na przykład z tego powodu, że wysyłane dane nie mogą zostać odczytane po raz drugi</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="382"/>
         <source>the request could not be completed due to a conflict with the current state of the resource</source>
-        <translation type="unfinished"></translation>
+        <translation>zapytanie nie może zostać ukończone z powodu konliktu stanów tego zasobu</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="387"/>
@@ -217,12 +217,12 @@
     <message>
         <location filename="../../../src/Downloadable.cpp" line="391"/>
         <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
-        <translation type="unfinished"></translation>
+        <translation>serwer napotkał niespodziewane okoliczności, które przeszkodziły w realizacji zapytania</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="397"/>
         <source>the server does not support the functionality required to fulfill the request</source>
-        <translation type="unfinished"></translation>
+        <translation>serwer nie posiada funkcjonalności wymaganej by spełnić zapytanie</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="401"/>
@@ -232,7 +232,7 @@
     <message>
         <location filename="../../../src/Downloadable.cpp" line="406"/>
         <source>the Network Access API cannot honor the request because the protocol is not known</source>
-        <translation type="unfinished"></translation>
+        <translation>Network Access API nie może przyjąć zapytania, bo protokół jest nieznany</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="410"/>
@@ -1123,7 +1123,19 @@
 &lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Witamy w Enroute Flight Navigation - Projekt Akaflieg Freiburg&lt;/h3&gt;
+
+&lt;p&gt;Dziękujemy za używanie tej nawigacji lotniczej! Zanim zaczniemy, musimy przypomnieć, że &lt;strong&gt;ta aplikacja i dane lotnicze są bez żadnej gwarancji&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Aplikacja nie jest certyfikowana, by spełnić standardy lotnicze. Może zawierać błędy i może nie działać jak powinna.&lt;/p&gt;
+
+&lt;p&gt;Dane lotnicze nie pochodzą z oficjalnych źródeł. Mogą być niekompletne, przeterminowane lub błędne.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ta aplikacja nie jest zamiennikiem prawidłowego przygotowania lotniczego czy dobrego pilotaźu.&lt;strong&gt; Mamy nadzieję, że spodoba Ci się ta aplikacja oraz, że będzie dla Ciebie przydatna.&lt;/p&gt;
+
+&lt;p&gt;Lataj bezpiecznie i ciesz się wieloma lądowaniami!&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="214"/>
@@ -1145,7 +1157,15 @@
 &lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Brakujące Uprawnienia&lt;/h3&gt;
+
+&lt;p&gt;Aplikacja &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; nie uruchomi się, bo nie zostały udzielone potrzebne uprawnienia. Proszę zrestartuj aplikację i udziel wymaganych uprawnień. Jeśli odrzuciłeś jakieś uprawnienia na stałe, możesz pójść do ustawień Androida i tam ich udzielić.&lt;/p&gt;
+
+&lt;p&gt;Nasza &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/privacy#privileges-of-the-android-app&quot; title=&quot;privacy policies&quot;&gt;polityka prywatności&lt;/a&gt; wytłumaczy, dlaczego potrzebujemy tych uprawnień.&lt;/p&gt;
+
+&lt;p&gt;Lataj bezpiecznie i ciesz się wieloma lądowaniami!&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
