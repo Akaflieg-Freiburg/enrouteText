@@ -2,11 +2,11 @@
 Type=Application
 Name=Enroute Flight Navigation
 GenericName=Flight Navigation
-GenericName[de]=Flight Navigation
+GenericName[de]=Flugnavigation
 GenericName[fr]=Flight Navigation
 GenericName[pl]=Flight Navigation
 Comment=Navigation app for VFR pilots
-Comment[de]=Navigation app for VFR pilots
+Comment[de]=Navigations-App für VFR-Piloten
 Comment[fr]=Application de navigation VFR
 Comment[pl]=Navigation app for VFR pilots
 Icon=${APP_ID}
