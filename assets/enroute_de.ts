@@ -1020,7 +1020,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="71"/>
         <source>Enter a file name or choose an existing name from the list below.</source>
-        <translation>Dateinamen eingeben oder vorhandenen Namen aus der Liste unten wählen.</translation>
+        <translation>Neuen Namen eingeben oder vorhandenen aus der Liste unten wählen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="82"/>
