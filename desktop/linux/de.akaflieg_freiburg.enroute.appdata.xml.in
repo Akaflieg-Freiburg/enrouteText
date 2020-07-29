@@ -6,7 +6,7 @@
   <project_license>GPL-3.0+</project_license>
   <name>Enroute Flight Navigation</name>
   <summary>A flight navigation app for VFR pilots</summary>
-  <summary xml:lang="de">Eine Flugnavigation für VFR-Piloten</summary>
+  <summary xml:lang="de">Flugnavigation für VFR-Piloten</summary>
   <summary xml:lang="fr">Une application de navigation VFR</summary>
   <summary xml:lang="pl">A flight navigation app for VFR pilots</summary>
   <description>

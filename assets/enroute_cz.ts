@@ -70,202 +70,202 @@
 <context>
     <name>Downloadable</name>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="57"/>
+        <location filename="../../../src/Downloadable.cpp" line="58"/>
         <source>downloading … %1% complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="62"/>
+        <location filename="../../../src/Downloadable.cpp" line="63"/>
         <source>installed • %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="67"/>
+        <location filename="../../../src/Downloadable.cpp" line="68"/>
         <source>update available</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="69"/>
+        <location filename="../../../src/Downloadable.cpp" line="70"/>
         <source>no longer supported</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="71"/>
+        <location filename="../../../src/Downloadable.cpp" line="72"/>
         <source>not installed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="76"/>
+        <location filename="../../../src/Downloadable.cpp" line="77"/>
         <source>file size unknown</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="287"/>
+        <location filename="../../../src/Downloadable.cpp" line="288"/>
         <source>the remote server refused the connection (the server is not accepting requests)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="291"/>
+        <location filename="../../../src/Downloadable.cpp" line="292"/>
         <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="296"/>
+        <location filename="../../../src/Downloadable.cpp" line="297"/>
         <source>the remote host name was not found (invalid hostname)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="300"/>
+        <location filename="../../../src/Downloadable.cpp" line="301"/>
         <source>the connection to the remote server timed out</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="305"/>
+        <location filename="../../../src/Downloadable.cpp" line="306"/>
         <source>the operation was canceled via calls to abort() or close() before it was finished</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="309"/>
+        <location filename="../../../src/Downloadable.cpp" line="310"/>
         <source>the SSL/TLS handshake failed and the encrypted channel could not be established. The sslErrors() signal should have been emitted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="314"/>
+        <location filename="../../../src/Downloadable.cpp" line="315"/>
         <source>the connection was broken due to disconnection from the network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="318"/>
+        <location filename="../../../src/Downloadable.cpp" line="319"/>
         <source>the connection was broken due to disconnection from the network or failure to start the network</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="323"/>
+        <location filename="../../../src/Downloadable.cpp" line="324"/>
         <source>the background request is not currently allowed due to platform policy</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="327"/>
+        <location filename="../../../src/Downloadable.cpp" line="328"/>
         <source>while following redirects, the maximum limit was reached</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="331"/>
+        <location filename="../../../src/Downloadable.cpp" line="332"/>
         <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="336"/>
+        <location filename="../../../src/Downloadable.cpp" line="337"/>
         <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="341"/>
+        <location filename="../../../src/Downloadable.cpp" line="342"/>
         <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="346"/>
+        <location filename="../../../src/Downloadable.cpp" line="347"/>
         <source>the proxy host name was not found (invalid proxy hostname)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="350"/>
+        <location filename="../../../src/Downloadable.cpp" line="351"/>
         <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="355"/>
+        <location filename="../../../src/Downloadable.cpp" line="356"/>
         <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="360"/>
+        <location filename="../../../src/Downloadable.cpp" line="361"/>
         <source>the access to the remote content was denied (similar to HTTP error 403)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="364"/>
+        <location filename="../../../src/Downloadable.cpp" line="365"/>
         <source>the operation requested on the remote content is not permitted</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="368"/>
+        <location filename="../../../src/Downloadable.cpp" line="369"/>
         <source>the remote content was not found at the server (similar to HTTP error 404)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="372"/>
+        <location filename="../../../src/Downloadable.cpp" line="373"/>
         <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="377"/>
+        <location filename="../../../src/Downloadable.cpp" line="378"/>
         <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="382"/>
+        <location filename="../../../src/Downloadable.cpp" line="383"/>
         <source>the request could not be completed due to a conflict with the current state of the resource</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="387"/>
+        <location filename="../../../src/Downloadable.cpp" line="388"/>
         <source>the requested resource is no longer available at the server</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="391"/>
+        <location filename="../../../src/Downloadable.cpp" line="392"/>
         <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="397"/>
+        <location filename="../../../src/Downloadable.cpp" line="398"/>
         <source>the server does not support the functionality required to fulfill the request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="401"/>
+        <location filename="../../../src/Downloadable.cpp" line="402"/>
         <source>the server is unable to handle the request at this time</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="406"/>
+        <location filename="../../../src/Downloadable.cpp" line="407"/>
         <source>the Network Access API cannot honor the request because the protocol is not known</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="410"/>
+        <location filename="../../../src/Downloadable.cpp" line="411"/>
         <source>the requested operation is invalid for this protocol</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="414"/>
+        <location filename="../../../src/Downloadable.cpp" line="415"/>
         <source>an unknown network-related error was detected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="418"/>
+        <location filename="../../../src/Downloadable.cpp" line="419"/>
         <source>an unknown proxy-related error was detected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="422"/>
+        <location filename="../../../src/Downloadable.cpp" line="423"/>
         <source>an unknown error related to the remote content was detected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="426"/>
+        <location filename="../../../src/Downloadable.cpp" line="427"/>
         <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="431"/>
+        <location filename="../../../src/Downloadable.cpp" line="432"/>
         <source>an unknown error related to the server response was detected</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Downloadable.cpp" line="435"/>
+        <location filename="../../../src/Downloadable.cpp" line="436"/>
         <source>unknown</source>
         <translation type="unfinished"></translation>
     </message>
@@ -737,17 +737,17 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="151"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="153"/>
         <source>An error occurred…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="197"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="199"/>
         <source>Overwrite file?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="204"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="206"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1021,69 +1021,69 @@
 <context>
     <name>MapManager</name>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="31"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="30"/>
         <source>Map Library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="59"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="58"/>
         <source>aviation maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="62"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="61"/>
         <source>base maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="150"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="149"/>
         <source>Uninstall</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="166"/>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="435"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="165"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="434"/>
         <source>Download Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="167"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="166"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="222"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="221"/>
         <source>Update list of maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="234"/>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="420"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="233"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="419"/>
         <source>Download all updates…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="259"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="258"/>
         <source>Aviation Maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="262"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="261"/>
         <source>Base Maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="353"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="352"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="380"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="379"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="436"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="435"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
