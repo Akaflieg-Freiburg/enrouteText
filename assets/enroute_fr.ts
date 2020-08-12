@@ -487,72 +487,72 @@
         <translation>&lt;h2&gt;Route vide&lt;/h2&gt;&lt;p&gt;Utilisez le bouton &apos;Ajouter un point tournant&apos; ci-dessous.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="448"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="455"/>
         <source>True Airspeed</source>
         <translation>Vitesse vraie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="455"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="524"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="462"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="537"/>
         <source>Cruise</source>
         <translation>Croisière</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="485"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="495"/>
         <source>Descent</source>
         <translation>Descente</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="405"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="433"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="473"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="503"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="540"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="409"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="440"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="483"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="516"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="553"/>
         <source>undefined</source>
         <translation>non défini</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="517"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="530"/>
         <source>Fuel consumption</source>
         <translation>Consommation de carburant</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="542"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="555"/>
         <source>l/h</source>
         <translation>l/h</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="382"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="383"/>
         <source>Wind</source>
         <translation>Vent</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="389"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="390"/>
         <source>Direction</source>
         <translation>Direction</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="417"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="421"/>
         <source>Speed</source>
         <translation>Vitesse</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="579"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="592"/>
         <source>Add Waypoint</source>
         <translation>Ajouter un point tournant</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="597"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="610"/>
         <source>Clear route?</source>
         <translation>Effacer la route ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="609"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="622"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>La route ne pourra pas être rétablie si elle est effacée.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="645"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="658"/>
         <source>Error exporting data…</source>
         <translation>Erreur lors de l&apos;exportation des données…</translation>
     </message>
@@ -1092,6 +1092,21 @@
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="234"/>
+        <source>&lt;p&gt;Adrien Crovato has implemented METRA/TAF access. Heiner Tholen has improved the map display.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="238"/>
+        <source>&lt;h3&gt;Weather Permissions&lt;/h3&gt;
+      
+&lt;p&gt;The weather feature implemented in &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; relies on data provided by the &lt;a href https://www.aviationweather.gov/&gt;Aviation Weather Center&lt;/a&gt; U.S. service.&lt;/p&gt;
+      
+&lt;p&gt;Using this feature will send your last-known location and your current route to a U.S. government website.&lt;/p&gt;
+
+&lt;p&gt;Note that &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is not responsible for any erroneous data that could be emitted by the Aviation Weather Center.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded. For pilots of very slow-flying aircrafts (such as paramotors) there is now a switch to &lt;strong&gt;set flight mode manually&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
@@ -1099,7 +1114,7 @@
 &lt;p&gt;Adrien Crovato, Markus Sachs and Szymon Kocur have translated the app to &lt;strong&gt;French&lt;/strong&gt;, &lt;strong&gt;German&lt;/strong&gt; and &lt;strong&gt;Polish&lt;/strong&gt;.  If you prefer English, go to the &lt;strong&gt;Settings&lt;/strong&gt; page where a language option has been added.&lt;/p&gt;
 
 &lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
-        <translation>
+        <translation type="vanished">
 &lt;p&gt;Adrien Crovato et Heiner Tholen ont rejoint l&apos;équipe de développement. Il est maintenant possible d&apos;utiliser les &lt;strong&gt;unités métriques&lt;/strong&gt; pour les distances et vitesses horizontales, et la page &lt;strong&gt;A proximité&lt;/strong&gt; affiche plus d&apos;informations. Les pilotes d&apos;avions lents (comme les paramoteurs) peuvent maintenant &lt;strong&gt;activer le mode vol manuellement&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Les cartes de l&apos;&lt;strong&gt;Argentine&lt;/strong&gt; et du &lt;strong&gt;Brésil&lt;/strong&gt; ont été ajoutées. Nous continuerons à mettre les cartes à jour de manière hebdomadaire.&lt;/p&gt;
@@ -1197,7 +1212,7 @@
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="232"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="263"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Aucune carte aéronautique installée.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ouvrez le menu et allez dans &lt;strong&gt;Paramètres/Bibliothèque/Cartes&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
@@ -1382,9 +1397,23 @@
         <translation>REP</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Nearby.qml" line="101"/>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="104"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aerodrome data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="126"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No navaid data available.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="148"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No reporting point data available.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune donnée disponible. Merci de vous assurer qu&apos;une carté aéronautique est installée.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune donnée disponible. Merci de vous assurer qu&apos;une carté aéronautique est installée.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1665,6 +1694,70 @@
     </message>
 </context>
 <context>
+    <name>WeatherPage</name>
+    <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="30"/>
+        <source>Weather</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="62"/>
+        <source>Enable automatic updates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="64"/>
+        <source>Stations will be updated every 30 minutes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="67"/>
+        <source>Automatic updates disabled</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="109"/>
+        <source>No stations available in a radius of 75 nm from your current position or route.&lt;p&gt;Please try to update the list by tapping &lt;strong&gt;Update stations&lt;/strong&gt; below.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="125"/>
+        <source>Update stations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="148"/>
+        <source>Update Error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="149"/>
+        <source>&lt;p&gt;Failed to update the list of stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>WeatherPermissions</name>
+    <message>
+        <location filename="../../../src/qml/dialogs/WeatherPermissions.qml" line="32"/>
+        <source>Accept</source>
+        <translation type="unfinished">Accepter</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WeatherPermissions.qml" line="36"/>
+        <source>Reject</source>
+        <translation type="unfinished">Refuser</translation>
+    </message>
+</context>
+<context>
+    <name>WeatherReport</name>
+    <message>
+        <location filename="../../../src/qml/dialogs/WeatherReport.qml" line="93"/>
+        <source>mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Thank you for suggesting a correction in the map data. Please describe the issue here.</source>
+        <translation type="unfinished">mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Merci de suggérer une correction dans les données cartographiques. Merci de décrire le problème ici.</translation>
+    </message>
+</context>
+<context>
     <name>main</name>
     <message>
         <location filename="../../../src/qml/main.qml" line="35"/>
@@ -1682,72 +1775,77 @@
         <translation>Points à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="102"/>
+        <location filename="../../../src/qml/main.qml" line="98"/>
+        <source>Weather</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="118"/>
         <source>Set Altimeter</source>
         <translation>Régler l&apos;altimètre</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="103"/>
+        <location filename="../../../src/qml/main.qml" line="119"/>
         <source>Insufficient reception</source>
         <translation>Réception insuffisante</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="120"/>
+        <location filename="../../../src/qml/main.qml" line="136"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="140"/>
+        <location filename="../../../src/qml/main.qml" line="156"/>
         <source>Information</source>
         <translation>Informations</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="155"/>
+        <location filename="../../../src/qml/main.qml" line="171"/>
         <source>About Enroute Flight Navigation</source>
         <translation>A propos d&apos;Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="169"/>
+        <location filename="../../../src/qml/main.qml" line="185"/>
         <source>Bug report</source>
         <translation>Signaler un bug</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="183"/>
+        <location filename="../../../src/qml/main.qml" line="199"/>
         <source>Participate</source>
         <translation>Contribuer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="199"/>
+        <location filename="../../../src/qml/main.qml" line="215"/>
         <source>Manual</source>
         <translation>Manuel</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="221"/>
+        <location filename="../../../src/qml/main.qml" line="237"/>
         <source>Exit</source>
         <translation>Quitter</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="338"/>
+        <location filename="../../../src/qml/main.qml" line="354"/>
         <source>Exit…?</source>
         <translation>Quitter ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="339"/>
+        <location filename="../../../src/qml/main.qml" line="355"/>
         <source>Do you wish to exit Enroute Flight Navigation?</source>
         <translation>Voulez-vous quitter Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="350"/>
+        <location filename="../../../src/qml/main.qml" line="366"/>
         <source>What&apos;s new …?</source>
         <translation>Nouveautés</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="79"/>
+        <location filename="../../../src/main.cpp" line="80"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="82"/>
+        <location filename="../../../src/main.cpp" line="83"/>
         <source>File to import.</source>
         <translation>Fichier à importer</translation>
     </message>
