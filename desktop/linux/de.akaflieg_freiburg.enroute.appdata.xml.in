@@ -36,7 +36,19 @@
   </releases>
   <screenshots>
     <screenshot type="default">
-      <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/10-Map.png</image>
+      <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/00-Desktop.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/01-Desktop.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/02-Desktop.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/03-Desktop.png</image>
+    </screenshot>
+    <screenshot>
+      <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/04-Desktop.png</image>
     </screenshot>
   </screenshots>
   <categories>
