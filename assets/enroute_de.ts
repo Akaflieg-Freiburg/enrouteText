@@ -1888,8 +1888,8 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="234"/>
-        <source>&lt;p&gt;Adrien Crovato has implemented METRA/TAF access. Heiner Tholen has improved the map display.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;p&gt;Adrien Crovato has implemented METAR/TAF access. Heiner Tholen has improved the map display.&lt;/p&gt;</source>
+        <translation>Adrien Crovato has den METAR/TAF-Zugang implemetiert und Heiner Tholen die Kartendarstellung verbessert.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="238"/>
