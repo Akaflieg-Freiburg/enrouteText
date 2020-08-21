@@ -2814,37 +2814,37 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="30"/>
         <source>Weather</source>
-        <translation type="unfinished"></translation>
+        <translation>Wetter</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="62"/>
         <source>Enable automatic updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatische Updates einschalten</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="64"/>
         <source>Stations will be updated every 30 minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>Stationen werden alle 30 min. aktualisiert</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="67"/>
         <source>Automatic updates disabled</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatische Updates ausgeschaltet</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="109"/>
         <source>No stations available in a radius of 75 nm from your current position or route.&lt;p&gt;Please try to update the list by tapping &lt;strong&gt;Update stations&lt;/strong&gt; below.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>In 75 nm Radius um die aktuelle Position sind keine Stationen verfügbar.&lt;p&gt;Bitte tippen Sie versuchsweise auf &lt;strong&gt;Stationen updaten&lt;/strong&gt; unten.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="125"/>
         <source>Update stations</source>
-        <translation type="unfinished"></translation>
+        <translation>Stationen updaten</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="148"/>
         <source>Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Update</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="149"/>
@@ -2857,12 +2857,12 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/dialogs/WeatherPermissions.qml" line="32"/>
         <source>Accept</source>
-        <translation type="unfinished">Akzeptieren</translation>
+        <translation>Akzeptieren</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WeatherPermissions.qml" line="36"/>
         <source>Reject</source>
-        <translation type="unfinished">Ablehnen</translation>
+        <translation>Ablehnen</translation>
     </message>
 </context>
 <context>
@@ -2870,7 +2870,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/dialogs/WeatherReport.qml" line="93"/>
         <source>mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Thank you for suggesting a correction in the map data. Please describe the issue here.</source>
-        <translation type="unfinished">mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Danke für Verbesserungsvorschläge bei den Kartendaten. Bitte beschreiben Sie Ihre Anregung hier.</translation>
+        <translation>mailto:stefan.kebekus@gmail.com?subject=Enroute, Fehlermeldung &amp;body=Danke für Verbesserungsvorschläge bei den Kartendaten. Bitte beschreiben Sie Ihre Anregung hier.</translation>
     </message>
 </context>
 <context>
@@ -2941,7 +2941,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/main.qml" line="98"/>
         <source>Weather</source>
-        <translation type="unfinished"></translation>
+        <translation>Wetter</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="156"/>
