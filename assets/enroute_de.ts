@@ -1900,7 +1900,16 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;Using this feature will send your last-known location and your current route to a U.S. government website.&lt;/p&gt;
 
 &lt;p&gt;Note that &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is not responsible for any erroneous data that could be emitted by the Aviation Weather Center.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        
+        <translation>
+        &lt;h3&gt;Nutzung der Wetterfunktion&lt;/h3&gt;
+      
+&lt;p&gt;Die in &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; implemetierte Wetterfunktion basiert auf Daten des &lt;a href https://www.aviationweather.gov/&gt;Aviation Weather Center&lt;/a&gt; US-amerikanischen Wetterdienstes.&lt;/p&gt;
+      
+&lt;p&gt;Bei Nutzung dieser Funktion werden Ihre letzte bekannte Position und Ihre aktuelle Strecke zu einer US-Regierungswebsite übertragen.&lt;/p&gt;
+
+&lt;p&gt;Beachten Sie: &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ist nicht verantwortlich for irgendwelche fehlerhafte Daten, die evtl. vom Aviation Weather Center übertragen werden.&lt;/p&gt;
+        </translation>
     </message>
     <message>
         <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded. For pilots of very slow-flying aircrafts (such as paramotors) there is now a switch to &lt;strong&gt;set flight mode manually&lt;/strong&gt;.&lt;/p&gt;
@@ -2426,17 +2435,23 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="104"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aerodrome data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+            &lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Flugplatzdaten verfügbar. Bitte stellen Sie sicher, dass eine Luftfahrtkarte installiert ist.&lt;/p&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="126"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No navaid data available.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+            &lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine NAVAID-Daten verfügbar.&lt;/p&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="148"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No reporting point data available.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+            &lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Meldepunktdaten verfügbar.&lt;/p&gt;
+        </translation>
     </message>
     <message>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
@@ -2849,7 +2864,9 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="149"/>
         <source>&lt;p&gt;Failed to update the list of stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+            &lt;p&gt;Update der Stationsliste fehlgeschlagen.&lt;/p&gt;&lt;p&gt;Ursache: %1.&lt;/p&gt;
+        </translation>
     </message>
 </context>
 <context>
