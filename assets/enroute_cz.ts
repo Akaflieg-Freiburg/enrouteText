@@ -68,6 +68,43 @@
     </message>
 </context>
 <context>
+    <name>Clock</name>
+    <message>
+        <location filename="../../../src/Clock.cpp" line="38"/>
+        <source>just now</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../../../src/Clock.cpp" line="45"/>
+        <source>%n hour(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <location filename="../../../src/Clock.cpp" line="48"/>
+        <source> and </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message numerus="yes">
+        <location filename="../../../src/Clock.cpp" line="53"/>
+        <source>%n minute(s)</source>
+        <translation type="unfinished">
+            <numerusform></numerusform>
+        </translation>
+    </message>
+    <message>
+        <location filename="../../../src/Clock.cpp" line="56"/>
+        <source>%1 ago</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Clock.cpp" line="58"/>
+        <source>in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Downloadable</name>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="58"/>
@@ -301,47 +338,47 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/FlightRoute.cpp" line="334"/>
+        <location filename="../../../src/FlightRoute.cpp" line="338"/>
         <source>Cruise speed not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/FlightRoute.cpp" line="336"/>
+        <location filename="../../../src/FlightRoute.cpp" line="340"/>
         <source>Fuel consumption not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/FlightRoute.cpp" line="340"/>
+        <location filename="../../../src/FlightRoute.cpp" line="344"/>
         <source>Wind speed not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/FlightRoute.cpp" line="343"/>
+        <location filename="../../../src/FlightRoute.cpp" line="347"/>
         <source>Wind direction not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/FlightRoute.cpp" line="347"/>
+        <location filename="../../../src/FlightRoute.cpp" line="351"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/FlightRoute.cpp" line="375"/>
+        <location filename="../../../src/FlightRoute.cpp" line="379"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/FlightRoute.cpp" line="378"/>
+        <location filename="../../../src/FlightRoute.cpp" line="382"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/FlightRoute.cpp" line="384"/>
+        <location filename="../../../src/FlightRoute.cpp" line="388"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/FlightRoute.cpp" line="391"/>
+        <location filename="../../../src/FlightRoute.cpp" line="395"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -467,37 +504,32 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="326"/>
-        <source>ACFT and Wind</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="351"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="352"/>
         <source>&lt;h2&gt;Empty Route&lt;/h2&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="464"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="470"/>
         <source>True Airspeed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="471"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="546"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="477"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="552"/>
         <source>Cruise</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="504"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="510"/>
         <source>Descent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="418"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="449"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="492"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="525"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="562"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="408"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="437"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="498"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="531"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="571"/>
         <source>undefined</source>
         <translation type="unfinished"></translation>
     </message>
@@ -512,47 +544,53 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="539"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="545"/>
         <source>Fuel consumption</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="571"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="574"/>
         <source>l/h</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="392"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="326"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="383"/>
         <source>Wind</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="399"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="327"/>
+        <source>ACFT</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="390"/>
         <source>Direction</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="430"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="420"/>
         <source>Speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="608"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="613"/>
         <source>Add Waypoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="626"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="631"/>
         <source>Clear route?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="638"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="643"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="674"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="679"/>
         <source>Error exporting data…</source>
         <translation type="unfinished"></translation>
     </message>
@@ -901,9 +939,29 @@
 
 &lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;e-mail&lt;/a&gt;. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur, computer science and aviation enthusiast. Laureate of many nationwide competitions.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="214"/>
+        <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
+
+&lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="238"/>
+        <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
+      
+&lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
+
+&lt;p&gt;In order to request up-to-date weather information, the app needs to &lt;strong&gt;send your location and your current route to the Aviation Weather Center&lt;/strong&gt; at regular intervals. If you agree to this, you can enable the weather feature by clicking on the button below. You can disable the feature at any time using the three-dot menu at the top of this screen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We have no control over data collected by the Aviation Weather Center. We do not guarantee correctness of the weather information in any way!&lt;/strong&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -924,15 +982,6 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="214"/>
-        <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="222"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
@@ -948,17 +997,6 @@
     <message>
         <location filename="../../../src/Librarian.cpp" line="234"/>
         <source>&lt;p&gt;Adrien Crovato has implemented METRA/TAF access. Heiner Tholen has improved the map display.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="238"/>
-        <source>&lt;h3&gt;Weather Permissions&lt;/h3&gt;
-      
-&lt;p&gt;The weather feature implemented in &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; relies on data provided by the &lt;a href https://www.aviationweather.gov/&gt;Aviation Weather Center&lt;/a&gt; U.S. service.&lt;/p&gt;
-      
-&lt;p&gt;Using this feature will send your last-known location and your current route to a U.S. government website.&lt;/p&gt;
-
-&lt;p&gt;Note that &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is not responsible for any erroneous data that could be emitted by the Aviation Weather Center.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1018,7 +1056,7 @@
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="263"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="270"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1498,64 +1536,48 @@
 <context>
     <name>WeatherPage</name>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="30"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="43"/>
         <source>Weather</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="62"/>
-        <source>Enable automatic updates</source>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="91"/>
+        <source>Update METAR/TAF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="64"/>
-        <source>Stations will be updated every 30 minutes</source>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="101"/>
+        <source>Disallow internet connection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="67"/>
-        <source>Automatic updates disabled</source>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="179"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="109"/>
-        <source>No stations available in a radius of 75 nm from your current position or route.&lt;p&gt;Please try to update the list by tapping &lt;strong&gt;Update stations&lt;/strong&gt; below.&lt;/p&gt;</source>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="223"/>
+        <source>Allow internet connection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="125"/>
-        <source>Update stations</source>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="251"/>
+        <source>Downloading METAR/TAF data…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="148"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="254"/>
+        <source>Last METAR/TAF update: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="267"/>
         <source>Update Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="149"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="268"/>
         <source>&lt;p&gt;Failed to update the list of stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>WeatherPermissions</name>
-    <message>
-        <location filename="../../../src/qml/dialogs/WeatherPermissions.qml" line="32"/>
-        <source>Accept</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/dialogs/WeatherPermissions.qml" line="36"/>
-        <source>Reject</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>WeatherReport</name>
-    <message>
-        <location filename="../../../src/qml/dialogs/WeatherReport.qml" line="93"/>
-        <source>mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Thank you for suggesting a correction in the map data. Please describe the issue here.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
