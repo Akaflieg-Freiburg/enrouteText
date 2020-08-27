@@ -72,38 +72,38 @@
     <message>
         <location filename="../../../src/Clock.cpp" line="38"/>
         <source>just now</source>
-        <translation type="unfinished"></translation>
+        <translation>maintenant</translation>
     </message>
     <message numerus="yes">
         <location filename="../../../src/Clock.cpp" line="45"/>
         <source>%n hour(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n heure</numerusform>
+            <numerusform>%n heures</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="48"/>
         <source> and </source>
-        <translation type="unfinished"></translation>
+        <translation> et </translation>
     </message>
     <message numerus="yes">
         <location filename="../../../src/Clock.cpp" line="53"/>
         <source>%n minute(s)</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n minute</numerusform>
+            <numerusform>%n minutes</numerusform>
         </translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="56"/>
         <source>%1 ago</source>
-        <translation type="unfinished"></translation>
+        <translation>il y a %1</translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="58"/>
         <source>in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>dans %1</translation>
     </message>
 </context>
 <context>
@@ -516,10 +516,6 @@
         <translation>Route</translation>
     </message>
     <message>
-        <source>ACFT and Wind</source>
-        <translation type="vanished">Avion et vent</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="352"/>
         <source>&lt;h2&gt;Empty Route&lt;/h2&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below.&lt;/p&gt;</source>
         <translation>&lt;h2&gt;Route vide&lt;/h2&gt;&lt;p&gt;Utilisez le bouton &apos;Ajouter un point tournant&apos; ci-dessous.&lt;/p&gt;</translation>
@@ -568,7 +564,7 @@
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="327"/>
         <source>ACFT</source>
-        <translation type="unfinished"></translation>
+        <translation>ACFT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="390"/>
@@ -1056,105 +1052,7 @@
 &lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur, computer science and aviation enthusiast. Laureate of many nationwide competitions.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="214"/>
-        <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
-
-&lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="238"/>
-        <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
-      
-&lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
-
-&lt;p&gt;In order to request up-to-date weather information, the app needs to &lt;strong&gt;send your location and your current route to the Aviation Weather Center&lt;/strong&gt; at regular intervals. If you agree to this, you can enable the weather feature by clicking on the button below. You can disable the feature at any time using the three-dot menu at the top of this screen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;We have no control over data collected by the Aviation Weather Center. We do not guarantee correctness of the weather information in any way!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Authors&lt;/h3&gt;
-
-&lt;br&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
-      &lt;h4&gt;Address&lt;/h4&gt;
-      Stefan Kebekus&lt;br&gt;
-      Wintererstraße 77&lt;br&gt;
-      79104 Freiburg&lt;br&gt;
-      Germany&lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Pic: Patrick Seeger&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;br&gt;
-      &lt;h3&gt;Contributing Authors&lt;/h3&gt;
-      &lt;br&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Adrien Crovato is a private pilot and aerospace engineer. He joined the development team in 2020, and contributes to the C++ and QML code base.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses Enroute as a pilot of ultralight planes. Heiner joined the Enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
-     &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Johannes Zellner joined the development in 2020.  He contributes to the C++ and QML code base of the app and helps with bug fixing.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h3&gt;Manual&lt;/h3&gt;
-
-&lt;p&gt;The manual has kindly been provided by Michael Horbaschk.&lt;/p&gt;
-
-&lt;h3&gt;Translations&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;e-mail&lt;/a&gt;. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</source>
-        <translation type="vanished">
+        <translation>
 &lt;h3&gt;Autheurs&lt;/h3&gt;
 
 &lt;br&gt;
@@ -1227,33 +1125,49 @@
 
 &lt;p&gt;&lt;strong&gt;Allemand&lt;/strong&gt;: Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;E-Mail&lt;/a&gt;. Markus pilote des deltaplanes et est un &apos;co-pilote&apos; enthousiate sur tout autre type d&apos;appareil.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Polonais&lt;/strong&gt;: Szymon Kocur.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Polonais&lt;/strong&gt;: Szymon Kocur, amateur de sciences informatiques et d'aviation. Lauréat de plusieurs compétitions internationales.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="234"/>
-        <source>&lt;p&gt;Adrien Crovato has implemented METRA/TAF access. Heiner Tholen has improved the map display.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <location filename="../../../src/Librarian.cpp" line="214"/>
+        <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
+
+&lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
+        <translation>
+&lt;p&gt;Les routes sont sauvegardées au format standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJson&lt;/a&gt; dans le répertoire suivant :&lt;p&gt;
+
+&lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Les routes sont accessibles via d&apos;autres programmes, comme des applications de sauvegarde ou de transfert, et peuvent être partagées avec d&apos;autres appareils.&lt;/p&gt;
+</translation>
     </message>
     <message>
-        <source>&lt;p&gt;Adrien Crovato and Heiner Tholen have joined the core development team. As a result of their efforts, there is now an option to use &lt;strong&gt;metric units&lt;/strong&gt; for horizontal distances and speeds, and the &lt;strong&gt;Nearby&lt;/strong&gt; page has been expanded. For pilots of very slow-flying aircrafts (such as paramotors) there is now a switch to &lt;strong&gt;set flight mode manually&lt;/strong&gt;.&lt;/p&gt;
+        <location filename="../../../src/Librarian.cpp" line="238"/>
+        <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
+      
+&lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
 
-&lt;p&gt;Maps has been added for &lt;strong&gt;Argentina&lt;/strong&gt; and &lt;strong&gt;Brazil&lt;/strong&gt;. As usual, we provide weekly updates.&lt;/p&gt;
+&lt;p&gt;In order to request up-to-date weather information, the app needs to &lt;strong&gt;send your location and your current route to the Aviation Weather Center&lt;/strong&gt; at regular intervals. If you agree to this, you can enable the weather feature by clicking on the button below. You can disable the feature at any time using the three-dot menu at the top of this screen.&lt;/p&gt;
 
-&lt;p&gt;Adrien Crovato, Markus Sachs and Szymon Kocur have translated the app to &lt;strong&gt;French&lt;/strong&gt;, &lt;strong&gt;German&lt;/strong&gt; and &lt;strong&gt;Polish&lt;/strong&gt;.  If you prefer English, go to the &lt;strong&gt;Settings&lt;/strong&gt; page where a language option has been added.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;We have no control over data collected by the Aviation Weather Center. We do not guarantee correctness of the weather information in any way!&lt;/strong&gt;&lt;/p&gt;</source>
+        <translation>
+&lt;h3&gt;Avis de confidentialité&lt;/h3&gt;
+      
+&lt;p&gt;Comme la plupart des autres logiciels, cette application utilise les données fournies par l&apos;&lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, un site dépendant du gouvernement des Etats-Unis d'Amérique.&lt;/p&gt;
 
-&lt;p&gt;Michael Horbaschk has kindly written a &lt;strong&gt;manual&lt;/strong&gt; for the app.&lt;/p&gt;</source>
-        <translation type="vanished">
-&lt;p&gt;Adrien Crovato et Heiner Tholen ont rejoint l&apos;équipe de développement. Il est maintenant possible d&apos;utiliser les &lt;strong&gt;unités métriques&lt;/strong&gt; pour les distances et vitesses horizontales, et la page &lt;strong&gt;A proximité&lt;/strong&gt; affiche plus d&apos;informations. Les pilotes d&apos;avions lents (comme les paramoteurs) peuvent maintenant &lt;strong&gt;activer le mode vol manuellement&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Pour mettre à jour les données météo, l'application doit &lt;strong&gt;envoyer votre position et route à l&apos;Aviation Weather Center&lt;/strong&gt; à intervalles réguliers. Si vous êtes d'accord, vous pouvez activer ce service en appuyant sur le bouton ci-dessous. Vous pouvez désactiver ce service à n'importe quel moment via le menu en haut à droite de l&apos;écran.&lt;/p&gt;
 
-&lt;p&gt;Les cartes de l&apos;&lt;strong&gt;Argentine&lt;/strong&gt; et du &lt;strong&gt;Brésil&lt;/strong&gt; ont été ajoutées. Nous continuerons à mettre les cartes à jour de manière hebdomadaire.&lt;/p&gt;
-
-&lt;p&gt;L&apos;application a été traduite en &lt;strong&gt;français&lt;/strong&gt;, en &lt;strong&gt;allemand&lt;/strong&gt; et en &lt;strong&gt;polonais&lt;/strong&gt; par Adrien Crovato, Markus Sachs et Szymon Kocur, respectivement. Une option à été ajoutée sur la page &apos;Paramètres&apos; pour que l&apos;application soit affichée en l&apos;anglais.&lt;/p&gt;
-
-&lt;p&gt;Michael Horbaschk a documenté l&apos;application au travers d&apos;un &lt;strong&gt;manuel&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nous n'avons aucun contrôle sur les données fournies par l&apos;Aviation Weather Center et ne pouvons donc en aucun cas garantir qu&apos;elles soient correctes.&lt;/strong&gt;&lt;/p&gt;
 </translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="234"/>
+        <source>&lt;p&gt;Adrien Crovato has implemented METRA/TAF access. Heiner Tholen has improved the map display.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Adrien Crovato a ajouté un accès aux METRA/TAF. Heiner Tholena amélioré l'affichage de la carte.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="190"/>
@@ -1268,20 +1182,6 @@
 &lt;p&gt;Nous sommes soucieux de vous fournir une application de haute qualité. Notre priorité première est donc de corriger les bugs et nous vous remecions d&apos;avance pour votre rapport.&lt;/p&gt;
 
 &lt;p&gt;Merci de soumettre vos rapports via &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/xroute/issues&quot;&gt;GitHub&lt;/a&gt;. Si vous n&apos;avez pas de compte Github, vous pouvez &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contacter l&apos;autheur&lt;/a&gt; directement.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
-        <translation type="vanished">
-&lt;p&gt;Les routes sont sauvegardées au format standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJson&lt;/a&gt; dans le répertoire suivant :&lt;p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Les routes sont accessibles via d&apos;autres programmes, comme des applications de sauvegarde ou de transfert, et peuvent être partagées avec d&apos;autres appareils.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -1529,21 +1429,17 @@
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="104"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aerodrome data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun aérodrome disponible. Merci de vous assurer qu&apos;une carté aéronautique est installée.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="126"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No navaid data available.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune aide à la navigation disponible.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="148"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No reporting point data available.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucune donnée disponible. Merci de vous assurer qu&apos;une carté aéronautique est installée.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point de report disponible.</translation>
     </message>
 </context>
 <context>
@@ -1828,65 +1724,47 @@
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="43"/>
         <source>Weather</source>
-        <translation type="unfinished"></translation>
+        <translation>Météo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="91"/>
         <source>Update METAR/TAF</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour METAR/TAF</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="101"/>
         <source>Disallow internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Refuser la connexion internet</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="179"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Désolé!&lt;/h3&gt;&lt;p&gt;METAR/TAF non disponible. Vous pouvez les télécharger manuellement en utilisant la fonction &apos;Mettre à jour METAR/TAF&apos; depuis le menu. Le menu est accessible via le symbole &apos;&amp;#8942;&apos; se trouvant dans le coin supérieur droit.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="223"/>
         <source>Allow internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoriser la connexion internet</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="251"/>
         <source>Downloading METAR/TAF data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement des METAR/TAF…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="254"/>
         <source>Last METAR/TAF update: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dernière mise à jour des METAR/TAF: %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="267"/>
         <source>Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de la mise à jour</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="268"/>
         <source>&lt;p&gt;Failed to update the list of stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>WeatherPermissions</name>
-    <message>
-        <source>Accept</source>
-        <translation type="obsolete">Accepter</translation>
-    </message>
-    <message>
-        <source>Reject</source>
-        <translation type="obsolete">Refuser</translation>
-    </message>
-</context>
-<context>
-    <name>WeatherReport</name>
-    <message>
-        <source>mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Thank you for suggesting a correction in the map data. Please describe the issue here.</source>
-        <translation type="obsolete">mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Merci de suggérer une correction dans les données cartographiques. Merci de décrire le problème ici.</translation>
+        <translation>&lt;p&gt;Echec lors de la mise à jour de la liste des stations.&lt;/p&gt;&lt;p&gt;Raison: %1.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1909,7 +1787,7 @@
     <message>
         <location filename="../../../src/qml/main.qml" line="98"/>
         <source>Weather</source>
-        <translation type="unfinished"></translation>
+        <translation>Météo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="118"/>
