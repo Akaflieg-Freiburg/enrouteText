@@ -1902,7 +1902,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
   &lt;tr&gt;
     &lt;td&gt;
       &lt;p&gt;Heiner Tholen baut gern Dinge, analog wie digital; manche heben ab, manche bleiben am Boden. Er nutzt Enroute als UL-Pilot. 
-            Heinerkam Mitte 2020 zum Enroute-Team und trägt ebenfalls in C++ und QML zum Code bei.&lt;/p&gt;
+            Heiner kam Mitte 2020 zum Enroute-Team und trägt ebenfalls in C++ und QML zum Code bei.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
       &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
@@ -1933,9 +1933,9 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;&lt;strong&gt;Französisch:&lt;/strong&gt; Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Deutsch:&lt;/strong&gt; Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;e-mail&lt;/a&gt;. 
-            Markus fliegt Trikes und ist bei allem anderen, was fliegt, begeisterter &apos;Co&apos;.&lt;/p&gt;
+            Markus fliegt Trike und ist bei allem anderen, was fliegt, begeisterter &apos;Co&apos;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Polnisch:&lt;/strong&gt; Szymon Kocur, Computerwissenschaftler und Luftfahrtenthusiast. Preisträger vieler nationaler Wettbewerbe.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Polnisch:&lt;/strong&gt; Szymon Kocur, Computerwissenschaftler und Luftfahrtenthusiast, außerdem Preisträger vieler nationaler Wettbewerbe.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;        
         
