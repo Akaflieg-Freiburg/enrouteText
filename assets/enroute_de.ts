@@ -89,12 +89,12 @@
     <message>
         <location filename="../../../src/Clock.cpp" line="38"/>
         <source>just now</source>
-        <translation type="unfinished"></translation>
+        <translation>genau jetzt</translation>
     </message>
     <message numerus="yes">
         <location filename="../../../src/Clock.cpp" line="45"/>
         <source>%n hour(s)</source>
-        <translation type="unfinished">
+        <translation>%n Stunde(n)
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
@@ -102,12 +102,12 @@
     <message>
         <location filename="../../../src/Clock.cpp" line="48"/>
         <source> and </source>
-        <translation type="unfinished"></translation>
+        <translation>und</translation>
     </message>
     <message numerus="yes">
         <location filename="../../../src/Clock.cpp" line="53"/>
         <source>%n minute(s)</source>
-        <translation type="unfinished">
+        <translation>%n Minute(n)
             <numerusform></numerusform>
             <numerusform></numerusform>
         </translation>
@@ -115,12 +115,12 @@
     <message>
         <location filename="../../../src/Clock.cpp" line="56"/>
         <source>%1 ago</source>
-        <translation type="unfinished"></translation>
+        <translation>vor %1</translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="58"/>
         <source>in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>in %1</translation>
     </message>
 </context>
 <context>
@@ -620,7 +620,7 @@
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="327"/>
         <source>ACFT</source>
-        <translation type="unfinished"></translation>
+        <translation>LFZ</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="390"/>
@@ -1869,12 +1869,12 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf die Flugstrecken kann von anderen Programmen zugegriffen werden, z.B. Backup- oder Synchronisierungssoftware. Dadurch lassen sich die Flugstrecken auch auf anderen Geräten verwenden.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="234"/>
-        <source>&lt;p&gt;Adrien Crovato has implemented METRA/TAF access. Heiner Tholen has improved the map display.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;p&gt;Adrien Crovato has implemented METAR/TAF access. Heiner Tholen has improved the map display.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Der METAR/TAF-Zugriff stammt von Adrien Crovato, die Kartenanzeige hat Heiner Tholen verbessert.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="238"/>
@@ -1885,7 +1885,16 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;In order to request up-to-date weather information, the app needs to &lt;strong&gt;send your location and your current route to the Aviation Weather Center&lt;/strong&gt; at regular intervals. If you agree to this, you can enable the weather feature by clicking on the button below. You can disable the feature at any time using the three-dot menu at the top of this screen.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;We have no control over data collected by the Aviation Weather Center. We do not guarantee correctness of the weather information in any way!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Warnung zur Datenverwendung&lt;/h3&gt;
+      
+&lt;p&gt;Wie viele andere Programme nutzt diese App Wetterdaten des &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, eine Website der US-Regierung.&lt;/p&gt;
+
+&lt;p&gt;Um aktuelle Wetterinformationen abzurufen, muss die App regelmäßig &lt;strong&gt;Ihren Standort und Ihre aktuelle Strecke an das Wettercenter senden&lt;/strong&gt;. 
+            Wenn Sie dem zustimmen, können Sie die Wetterfunktion durch Anklicken des Knopfs unten aktivieren. 
+            Sie können die Funktion jederzeit über das Menü (drei Punkte) oben auf dieser Seite deaktivieren.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wir haben keinen Einfluss auf die Daten aus dem Aviation Weather Center. 
+            Wir garantieren die Richtigkeit der Wetterinformationen in keiner Weise!&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Authors&lt;/h3&gt;
@@ -2997,32 +3006,34 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="91"/>
         <source>Update METAR/TAF</source>
-        <translation type="unfinished"></translation>
+        <translation>METAR/TAF aktualisieren</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="101"/>
         <source>Disallow internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Internet-Verbindung verbieten</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="179"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine METAR/TAF-Daten verfügbar. 
+            Sie können den Download manuell neu anstoßen über den Menüpunkt &apos;METAR/TAF aktualisieren&apos;. 
+            Sie finden das Menü hinter dem Symbol &apos;&amp;#8942;&apos; in der Ecke oben rechts dieser Seite.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="223"/>
         <source>Allow internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Internet-Verbindung zulassen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="251"/>
         <source>Downloading METAR/TAF data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Lade METAR/TAF-Daten herunter ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="254"/>
         <source>Last METAR/TAF update: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Letztes METAR/TAF-Update: %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="267"/>
