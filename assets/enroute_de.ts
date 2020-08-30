@@ -1860,9 +1860,9 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur, computer science and aviation enthusiast. Laureate of many nationwide competitions.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">
+        <translation>
 &lt;h3&gt;Autoren&lt;/h3&gt;
-
+            
 &lt;br&gt;
 
 &lt;table&gt;
