@@ -89,38 +89,66 @@
     <message>
         <location filename="../../../src/Clock.cpp" line="54"/>
         <source>just now</source>
+<<<<<<< HEAD
         <translation type="unfinished">gerade eben</translation>
+=======
+        <translation>genau jetzt</translation>
+>>>>>>> 744ec651e6a64a1a7419a4a01a20de92047e581d
     </message>
     <message numerus="yes">
         <location filename="../../../src/Clock.cpp" line="61"/>
         <source>%n hour(s)</source>
+<<<<<<< HEAD
         <translation type="unfinished">
             <numerusform>%n Stunde</numerusform>
             <numerusform>%n Stunden</numerusform>
+=======
+        <translation>%n Stunde(n)
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+>>>>>>> 744ec651e6a64a1a7419a4a01a20de92047e581d
         </translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="64"/>
         <source> and </source>
+<<<<<<< HEAD
         <translation type="unfinished"> und </translation>
+=======
+        <translation>und</translation>
+>>>>>>> 744ec651e6a64a1a7419a4a01a20de92047e581d
     </message>
     <message numerus="yes">
         <location filename="../../../src/Clock.cpp" line="69"/>
         <source>%n minute(s)</source>
+<<<<<<< HEAD
         <translation type="unfinished">
             <numerusform>%n Minute</numerusform>
             <numerusform>%n Minuten</numerusform>
+=======
+        <translation>%n Minute(n)
+            <numerusform></numerusform>
+            <numerusform></numerusform>
+>>>>>>> 744ec651e6a64a1a7419a4a01a20de92047e581d
         </translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="72"/>
         <source>%1 ago</source>
+<<<<<<< HEAD
         <translation type="unfinished">vor %1</translation>
+=======
+        <translation>vor %1</translation>
+>>>>>>> 744ec651e6a64a1a7419a4a01a20de92047e581d
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="74"/>
         <source>in %1</source>
+<<<<<<< HEAD
         <translation type="unfinished">in %1</translation>
+=======
+        <translation>in %1</translation>
+>>>>>>> 744ec651e6a64a1a7419a4a01a20de92047e581d
     </message>
 </context>
 <context>
@@ -620,7 +648,7 @@
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="327"/>
         <source>ACFT</source>
-        <translation type="unfinished"></translation>
+        <translation>LFZ</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="390"/>
@@ -1860,7 +1888,86 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur, computer Science and aviation enthusiast. Laureate of IT nationwide competitions, including &apos;HackYeah 2019&apos;, and &apos;Golden Wolf 2017&apos; for the best technological project in Poland.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Autoren&lt;/h3&gt;
+            
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Die App &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; wurde von Stefan Kebekus geschrieben, flugbegeistert seit 1986 und Mitglied des Fliegerclubs Akaflieg Freiburg. Stefan fliegt Segel- und Motorflugzeuge.&lt;/p&gt;
+      &lt;h4&gt;Adresse&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstraße 77&lt;br&gt;
+      79104 Freiburg&lt;br&gt;
+      Germany&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Foto: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;br&gt;
+      &lt;h3&gt;Mitwirkende Autoren&lt;/h3&gt;
+      &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Adrien Crovato ist Privatpilot und Ingenieur für Luft- und Raumfahrt. Er stieß 2020 zum Entwicklerteam und trägt zum Code in C++ und QML bei.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Heiner Tholen baut gern Dinge, analog wie digital; manche heben ab, manche bleiben am Boden. Er nutzt Enroute als UL-Pilot. 
+            Heiner kam Mitte 2020 zum Enroute-Team und trägt ebenfalls in C++ und QML zum Code bei.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
+     &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Johannes Zellner kam auch 2020 hinzu. Auch er trägt zum Code in C++ und QML bei und hilft bei der Fehlerbeseitigung.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;Handbuch&lt;/h3&gt;
+
+&lt;p&gt;Das Handbuch wurde freundlicherweise von Michael Horbaschk erstellt.&lt;/p&gt;
+
+&lt;h3&gt;Übersetzungen&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Französisch:&lt;/strong&gt; Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deutsch:&lt;/strong&gt; Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;e-mail&lt;/a&gt;. 
+            Markus fliegt Trike und ist bei allem anderen, was fliegt, begeisterter &apos;Co&apos;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Polnisch:&lt;/strong&gt; Szymon Kocur, Computerwissenschaftler und Luftfahrtenthusiast, außerdem Preisträger vieler nationaler Wettbewerbe.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;        
+        
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="214"/>
@@ -1869,12 +1976,12 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf die Flugstrecken kann von anderen Programmen zugegriffen werden, z.B. Backup- oder Synchronisierungssoftware. Dadurch lassen sich die Flugstrecken auch auf anderen Geräten verwenden.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="234"/>
-        <source>&lt;p&gt;Adrien Crovato has implemented METRA/TAF access. Heiner Tholen has improved the map display.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;p&gt;Adrien Crovato has implemented METAR/TAF access. Heiner Tholen has improved the map display.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Der METAR/TAF-Zugriff stammt von Adrien Crovato, die Kartenanzeige hat Heiner Tholen verbessert.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="238"/>
@@ -1885,7 +1992,16 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;In order to request up-to-date weather information, the app needs to &lt;strong&gt;send your location and your current route to the Aviation Weather Center&lt;/strong&gt; at regular intervals. If you agree to this, you can enable the weather feature by clicking on the button below. You can disable the feature at any time using the three-dot menu at the top of this screen.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;We have no control over data collected by the Aviation Weather Center. We do not guarantee correctness of the weather information in any way!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Warnung zur Datenverwendung&lt;/h3&gt;
+      
+&lt;p&gt;Wie viele andere Programme nutzt diese App Wetterdaten des &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, eine Website der US-Regierung.&lt;/p&gt;
+
+&lt;p&gt;Um aktuelle Wetterinformationen abzurufen, muss die App regelmäßig &lt;strong&gt;Ihren Standort und Ihre aktuelle Strecke an das Wettercenter senden&lt;/strong&gt;. 
+            Wenn Sie dem zustimmen, können Sie die Wetterfunktion durch Anklicken des Knopfs unten aktivieren. 
+            Sie können die Funktion jederzeit über das Menü (drei Punkte) oben auf dieser Seite deaktivieren.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Wir haben keinen Einfluss auf die Daten aus dem Aviation Weather Center. 
+            Wir garantieren die Richtigkeit der Wetterinformationen in keiner Weise!&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Authors&lt;/h3&gt;
@@ -3028,11 +3144,21 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="vanished">Stationen updaten</translation>
     </message>
     <message>
+<<<<<<< HEAD
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="104"/>
-        <source>Disallow internet connection</source>
-        <translation type="unfinished"></translation>
+=======
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="91"/>
+        <source>Update METAR/TAF</source>
+        <translation>METAR/TAF aktualisieren</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="101"/>
+>>>>>>> 744ec651e6a64a1a7419a4a01a20de92047e581d
+        <source>Disallow internet connection</source>
+        <translation>Internet-Verbindung verbieten</translation>
+    </message>
+    <message>
+<<<<<<< HEAD
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="276"/>
         <source>Allow internet connection</source>
         <translation type="unfinished"></translation>
@@ -3051,6 +3177,28 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="220"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAR data from the Aviation Weather Center…&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
+=======
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="179"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
+        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine METAR/TAF-Daten verfügbar. 
+            Sie können den Download manuell neu anstoßen über den Menüpunkt &apos;METAR/TAF aktualisieren&apos;. 
+            Sie finden das Menü hinter dem Symbol &apos;&amp;#8942;&apos; in der Ecke oben rechts dieser Seite.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="223"/>
+        <source>Allow internet connection</source>
+        <translation>Internet-Verbindung zulassen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="251"/>
+        <source>Downloading METAR/TAF data…</source>
+        <translation>Lade METAR/TAF-Daten herunter ...</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="254"/>
+        <source>Last METAR/TAF update: %1</source>
+        <translation>Letztes METAR/TAF-Update: %1</translation>
+>>>>>>> 744ec651e6a64a1a7419a4a01a20de92047e581d
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="322"/>
