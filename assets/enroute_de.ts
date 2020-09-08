@@ -87,40 +87,40 @@
 <context>
     <name>Clock</name>
     <message>
-        <location filename="../../../src/Clock.cpp" line="38"/>
+        <location filename="../../../src/Clock.cpp" line="54"/>
         <source>just now</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">gerade eben</translation>
     </message>
     <message numerus="yes">
-        <location filename="../../../src/Clock.cpp" line="45"/>
+        <location filename="../../../src/Clock.cpp" line="61"/>
         <source>%n hour(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n Stunde</numerusform>
+            <numerusform>%n Stunden</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Clock.cpp" line="48"/>
+        <location filename="../../../src/Clock.cpp" line="64"/>
         <source> and </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> und </translation>
     </message>
     <message numerus="yes">
-        <location filename="../../../src/Clock.cpp" line="53"/>
+        <location filename="../../../src/Clock.cpp" line="69"/>
         <source>%n minute(s)</source>
         <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n Minute</numerusform>
+            <numerusform>%n Minuten</numerusform>
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Clock.cpp" line="56"/>
+        <location filename="../../../src/Clock.cpp" line="72"/>
         <source>%1 ago</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vor %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Clock.cpp" line="58"/>
+        <location filename="../../../src/Clock.cpp" line="74"/>
         <source>in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">in %1</translation>
     </message>
 </context>
 <context>
@@ -1855,9 +1855,9 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 
 &lt;p&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;e-mail&lt;/a&gt;. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs, flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur, computer science and aviation enthusiast. Laureate of many nationwide competitions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur, computer Science and aviation enthusiast. Laureate of IT nationwide competitions, including &apos;HackYeah 2019&apos;, and &apos;Golden Wolf 2017&apos; for the best technological project in Poland.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
@@ -2451,6 +2451,34 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
     </message>
 </context>
 <context>
+    <name>Meteorologist</name>
+    <message>
+        <location filename="../../../src/Meteorologist.cpp" line="298"/>
+        <source>QNH: %1 hPa (%2)&lt;br&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Meteorologist.cpp" line="345"/>
+        <source>SR at %1, %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Meteorologist.cpp" line="347"/>
+        <source>Sunset at %1, %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Meteorologist.cpp" line="349"/>
+        <source>Sunrise at %1, %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Meteorologist.cpp" line="357"/>
+        <source>Last METAR/TAF update: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MissingPermissionsDialog</name>
     <message>
         <location filename="../../../src/qml/dialogs/MissingPermissionsDialog.qml" line="32"/>
@@ -2522,19 +2550,24 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="vanished">Geschwindigkeit über Grund</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/NavBar.qml" line="84"/>
+        <location filename="../../../src/qml/items/NavBar.qml" line="90"/>
         <source>ALT</source>
         <translation>ALT</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/NavBar.qml" line="92"/>
+        <location filename="../../../src/qml/items/NavBar.qml" line="98"/>
         <source>GS</source>
         <translation>GS</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/NavBar.qml" line="99"/>
+        <location filename="../../../src/qml/items/NavBar.qml" line="106"/>
         <source>TT</source>
         <translation>TT</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/NavBar.qml" line="114"/>
+        <source>Time</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2970,7 +3003,7 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
 <context>
     <name>WeatherPage</name>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="43"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="46"/>
         <source>Weather</source>
         <translation>Wetter</translation>
     </message>
@@ -2995,42 +3028,37 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation type="vanished">Stationen updaten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="91"/>
-        <source>Update METAR/TAF</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="101"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="104"/>
         <source>Disallow internet connection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="179"/>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="223"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="276"/>
         <source>Allow internet connection</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="251"/>
-        <source>Downloading METAR/TAF data…</source>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="94"/>
+        <source>Update METAR/TAF data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="254"/>
-        <source>Last METAR/TAF update: %1</source>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="182"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the three-dot menu at the top right corner of the screen.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="267"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="220"/>
+        <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAR data from the Aviation Weather Center…&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="322"/>
         <source>Update Error</source>
         <translation>Fehler beim Update</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="268"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="323"/>
         <source>&lt;p&gt;Failed to update the list of stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>
             &lt;p&gt;Update der Stationsliste fehlgeschlagen.&lt;/p&gt;&lt;p&gt;Ursache: %1.&lt;/p&gt;
@@ -3176,12 +3204,12 @@ Wir hoffen, Sie finden Gefallen daran und können Nutzen daraus ziehen.&lt;/p&gt
         <translation>Was ist neu …?</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="80"/>
+        <location filename="../../../src/main.cpp" line="82"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation ist eine kostenlose Navigations-App für VFR Piloten. Die App wurde als Projekt der Akaflieg Freiburg entwickelt.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="83"/>
+        <location filename="../../../src/main.cpp" line="85"/>
         <source>File to import.</source>
         <translation>Datei zum Importieren.</translation>
     </message>
