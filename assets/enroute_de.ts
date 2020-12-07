@@ -36,7 +36,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="146"/>
         <source>Use Sat</source>
-        <translation>Verwende Sat</translation>
+        <translation>Verwende GPS</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AltitudeCorrectionDialog.qml" line="154"/>
