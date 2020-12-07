@@ -801,7 +801,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/Downloadable.cpp" line="407"/>
         <source>the Network Access API cannot honor the request because the protocol is not known</source>
-        <translation>Die Netzwerk-Access-API akzeptiert die Anfrage nicht: unbekanntes Protokoll</translation>
+        <translation>Das API des Netzwerkzugangs akzeptiert die Anfrage nicht: unbekanntes Protokoll</translation>
     </message>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="411"/>
