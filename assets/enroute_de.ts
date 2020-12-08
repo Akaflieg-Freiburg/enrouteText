@@ -3692,7 +3692,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1281"/>
-        <source>thunderstorm with hail in the vicinite</source>
+        <source>thunderstorm with hail in the vicinity</source>
         <translation>Gewitter mit Hagel in der Nähe</translation>
     </message>
     <message>
