@@ -116,7 +116,7 @@ missing navaids, …), then please use the buttons below.&lt;/p&gt;
         <translation>
 &lt;p&gt;Für Nachrichten zu Luftfahrtdaten
 (wie etwa falsche Frequenzen, veraltete Platzrunden,
-fehlende Navigationshilfen, …) benutzen Sie bitte den Knopf unten.&lt;/p&gt;
+fehlende Navigationshilfen, …) benutzen Sie bitte den betreffenden Knopf unten.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -507,7 +507,7 @@ no better news.&lt;/p&gt;
 &lt;p&gt;Die von Ihnen genannten Luftfahrtdaten (Verfahren oder
 Meldepunkte) sind bei open flightmaps für
 einige Regionen verfügbar, aber nicht für Ihr Land. Wir kennen keine
-kostenlosen, öffentlich verfügbaren und verlässlichen Quelle für
+kostenlose, öffentlich verfügbare und verlässliche Quelle für
 solche Informationen, die wir in unserer App verwenden könnten.&lt;/p&gt;
 
 &lt;p&gt;Hier können wir nicht machen. Es tut uns leid, dass wir nichts
