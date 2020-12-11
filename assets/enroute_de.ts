@@ -125,7 +125,11 @@ fehlende Navigationshilfen, …) benutzen Sie bitte den betreffenden Knopf unten
 &lt;p&gt;Use this button to report an issue in the main
 application.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Die eigentliche Anwendung&lt;/h4&gt;
+
+&lt;p&gt;Mit diesem Knopf können Sie uns einen Hinweis zur Anwendung selbst schicken.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="122"/>
@@ -136,22 +140,27 @@ application.&lt;/p&gt;
 (such as wrong missing airspaces, wrong vertical limits,
 …), then please use the buttons below.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Lufträume&lt;/h4&gt;
+
+&lt;p&gt;Wenn Sie Probleme zu Lufträumen melden wollen (z.B. fehlende Lufträume, falsche vertikale Grenzen,
+…), nutzen Sie bitte den Knopf unten.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="135"/>
         <source>Flight Information Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>FIS-Sektoren</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="144"/>
         <source>Nature Reserve Areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Naturschutzgebiete</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="153"/>
         <source>All Other Airspacea</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle anderen Lufträume</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="162"/>
@@ -163,7 +172,11 @@ data (such as wrong airfield frequencies, outdated traffic
 patterns, missing navaids, …), then please use the buttons
 below.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Luftfahrtdaten&lt;/h4&gt;
+
+&lt;p&gt;Zur Meldung von Problemen mit anderen Luftfahrtdaten (z.B. falsche Flugplatzfrequenzen, veraltete Platzrunden, fehlende Navigationshilfen, …) nutzen Sie bitte die Knöpfe unten.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="176"/>
@@ -1390,7 +1403,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="145"/>
         <source>No information available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Information verfügbar.</translation>
     </message>
 </context>
 <context>
@@ -1776,7 +1789,8 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;For countries covered by open flightmaps, the map now
 shows nature reserve areas. This is extremely important if
 you fly in Austria.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;In Ländern, die OpenFlightmaps abdeckt, weist die Karte jetzt Naturschutzgebiete aus. Dies ist äußerst wichtig für Flüge in Österreich.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Suggest features and improvements&lt;/h3&gt;
@@ -2205,12 +2219,12 @@ you fly in Austria.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="150"/>
         <source>Map Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Karteninfo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="154"/>
         <source>Map Info: </source>
-        <translation type="unfinished"></translation>
+        <translation>Karteninfo: </translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="162"/>
@@ -3924,32 +3938,32 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1478"/>
         <source>snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1481"/>
         <source>snow grain precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>Schneegriesel in der Nähe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1484"/>
         <source>light snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>leichter Schneegriesel </translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1487"/>
         <source>moderate snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>mäßiger Schneegriesel</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1490"/>
         <source>heavy snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>schwerer Schneegriesel</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1493"/>
         <source>recent snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>vor kurzem Schneegriesel</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2169"/>
