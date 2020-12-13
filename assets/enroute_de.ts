@@ -164,7 +164,7 @@ application.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="153"/>
         <source>All Other Airspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle anderen Lufträume</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="162"/>
@@ -1412,22 +1412,22 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="110"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Installiert</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="112"/>
         <source>File Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dateigröße</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="126"/>
         <source>The map data was compiled from the following sources.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Kartendaten stammen aus folgenden Quellen:</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="160"/>
         <source>Internal Map Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Interne Kartendaten</translation>
     </message>
 </context>
 <context>
@@ -4931,12 +4931,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2176"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center Norfolk, VA.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die ID des Berichtherausgebers ist %1. Diese Vorhersage stammt vom Fleet Weather Center Norfolk, Virginia.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2179"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center San Diego, CA (FS).</source>
-        <translation type="unfinished"></translation>
+        <translation>Die ID des Berichtherausgebers ist %1. Diese Vorhersage stammt vom Fleet Weather Center San Diego, California (FS).</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2191"/>
