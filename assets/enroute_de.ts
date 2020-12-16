@@ -1815,7 +1815,8 @@ shows nature reserve areas. This is extremely important if
 you fly in Austria. The height of traffic circuits is now
 displayed prominently. Arrival and departure routes for
 control zones are more clearly marked.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;In Ländern, die OpenFlightmaps abdeckt, weist die Karte jetzt Naturschutzgebiete aus, äußerst wichtig für Flüge in Österreich. Die Platzrundenhöhen sind jetzt gut zu erkennen und die An- und Abflugstrecken der Kontrollzonen  deutlicher gekennzeichnet.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>
@@ -3947,27 +3948,27 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1431"/>
         <source>blowing sand in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>verwehender Sand in der Nähe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1434"/>
         <source>light blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>leicht verwehender Sand</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1437"/>
         <source>moderate blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>mäßig verwehender Sand</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1440"/>
         <source>heavy blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>stark verwehender Sand</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1443"/>
         <source>recent blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>vor kurzem verwehender Sand</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1453"/>
