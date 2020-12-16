@@ -1816,7 +1816,7 @@ you fly in Austria. The height of traffic circuits is now
 displayed prominently. Arrival and departure routes for
 control zones are more clearly marked.&lt;/p&gt;</source>
         <translation>
-&lt;p&gt;In Ländern, die OpenFlightmaps abdeckt, weist die Karte jetzt Naturschutzgebiete aus, äußerst wichtig für Flüge in Österreich. Die Platzrundenhöhen sind jetzt gut zu erkennen und die An- und Abflugstrecken der Kontrollzonen  deutlicher gekennzeichnet.&lt;/p&gt;</translation>
+&lt;p&gt;In Ländern, die OpenFlightmaps abdeckt, weist die Karte jetzt Naturschutzgebiete aus, äußerst wichtig für Flüge in Österreich. Die Platzrundenhöhen sind jetzt gut zu erkennen und die An- und Abflugstrecken der Kontrollzonen deutlicher gekennzeichnet.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>
