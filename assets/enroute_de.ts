@@ -1810,12 +1810,22 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
     <message>
         <location filename="../../../src/Librarian.cpp" line="233"/>
         <source>
+&lt;p&gt;For countries covered by open flightmaps: the map now
+shows nature reserve areas (extremely important if
+you fly in Austria). If avaliable, the height of traffic
+circuits is now displayed prominently. Arrival and
+departure routes for control zones are more clearly marked.
+Flight Information Sectors are shown.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
 &lt;p&gt;For countries covered by open flightmaps, the map now
 shows nature reserve areas. This is extremely important if
 you fly in Austria. The height of traffic circuits is now
 displayed prominently. Arrival and departure routes for
 control zones are more clearly marked.&lt;/p&gt;</source>
-        <translation>
+        <translation type="vanished">
 &lt;p&gt;In Ländern, die OpenFlightmaps abdeckt, weist die Karte jetzt Naturschutzgebiete aus, äußerst wichtig für Flüge in Österreich. Die Platzrundenhöhen sind jetzt gut zu erkennen und die An- und Abflugstrecken der Kontrollzonen deutlicher gekennzeichnet.&lt;/p&gt;</translation>
     </message>
     <message>
@@ -2778,27 +2788,27 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Danke für Verbesserungsvorschläge bei den Kartendaten. Bitte beschreiben Sie Ihre Anregung hier.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="357"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="360"/>
         <source>Direct</source>
         <translation>Direkt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="376"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
         <source>from Route</source>
         <translation>von Strecke</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="376"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
         <source>to Route</source>
         <translation>zur Strecke</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="398"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="401"/>
         <source>Overwrite current flight route?</source>
         <translation>Aktuelle Flugstrecke überschreiben?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="408"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="411"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation>Die aktuelle Strecke kann nach dem Überschreiben nicht wiederhergestellt werden.</translation>
     </message>

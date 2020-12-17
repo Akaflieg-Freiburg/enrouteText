@@ -1593,11 +1593,12 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
     <message>
         <location filename="../../../src/Librarian.cpp" line="233"/>
         <source>
-&lt;p&gt;For countries covered by open flightmaps, the map now
-shows nature reserve areas. This is extremely important if
-you fly in Austria. The height of traffic circuits is now
-displayed prominently. Arrival and departure routes for
-control zones are more clearly marked.&lt;/p&gt;</source>
+&lt;p&gt;For countries covered by open flightmaps: the map now
+shows nature reserve areas (extremely important if
+you fly in Austria). If avaliable, the height of traffic
+circuits is now displayed prominently. Arrival and
+departure routes for control zones are more clearly marked.
+Flight Information Sectors are shown.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2127,27 +2128,27 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation type="vanished">mailto:stefan.kebekus@gmail.com?subject=Enroute,Error Report&amp;body=Dziękuję za sugestie korekt w mapach. Proszę, opisz tutaj swój problem.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="357"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="360"/>
         <source>Direct</source>
         <translation>Bezpośredni</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="376"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
         <source>from Route</source>
         <translation>z Trasy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="376"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
         <source>to Route</source>
         <translation>do Trasy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="398"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="401"/>
         <source>Overwrite current flight route?</source>
         <translation>Czy nadpisać obecną trasę lotu?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="408"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="411"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation>Raz nadpisana, obecna trasa lotu nie będzie mogła zostać odzyskana.</translation>
     </message>

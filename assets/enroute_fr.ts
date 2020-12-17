@@ -1537,11 +1537,12 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
     <message>
         <location filename="../../../src/Librarian.cpp" line="233"/>
         <source>
-&lt;p&gt;For countries covered by open flightmaps, the map now
-shows nature reserve areas. This is extremely important if
-you fly in Austria. The height of traffic circuits is now
-displayed prominently. Arrival and departure routes for
-control zones are more clearly marked.&lt;/p&gt;</source>
+&lt;p&gt;For countries covered by open flightmaps: the map now
+shows nature reserve areas (extremely important if
+you fly in Austria). If avaliable, the height of traffic
+circuits is now displayed prominently. Arrival and
+departure routes for control zones are more clearly marked.
+Flight Information Sectors are shown.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2349,27 +2350,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>lire TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="357"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="360"/>
         <source>Direct</source>
         <translation>Direct</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="376"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
         <source>from Route</source>
         <translation>de la route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="376"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
         <source>to Route</source>
         <translation>à la route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="398"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="401"/>
         <source>Overwrite current flight route?</source>
         <translation>Ecraser la route actuelle ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="408"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="411"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation>La route ne pourra pas être restaurée si elle est écrasée.</translation>
     </message>
