@@ -1816,7 +1816,9 @@ you fly in Austria). If avaliable, the height of traffic
 circuits is now displayed prominently. Arrival and
 departure routes for control zones are more clearly marked.
 Flight Information Sectors are shown.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;In Ländern, die OpenFlightmaps abdeckt, weist die Karte jetzt Naturschutzgebiete aus, äußerst wichtig für Flüge in Österreich. Wo verfügbar, werden die Platzrundenhöhen jetzt deutlich dargestellt. Die An- und Abflugstrecken der Kontrollzonen sind deutlicher gekennzeichnet.
+Die Sektoren des Fluginformationsdienstes (FIS-Sektoren) werden angezeigt.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>
