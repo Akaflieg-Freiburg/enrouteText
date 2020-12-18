@@ -2686,7 +2686,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="126"/>
         <source>Item not available in flight</source>
-        <translation type="unfinished"></translation>
+        <translation>Funktion im Flug nicht aktiv</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="149"/>
