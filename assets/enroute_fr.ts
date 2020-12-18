@@ -1373,7 +1373,7 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/GeoMapProvider.cpp" line="160"/>
+        <location filename="../../../src/GeoMapProvider.cpp" line="155"/>
         <source>Internal Map Data</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1819,7 +1819,7 @@ Flight Information Sectors are shown.&lt;/p&gt;</source>
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="282"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="284"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Aucune carte aéronautique installée.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ouvrez le menu et allez dans &lt;strong&gt;Paramètres/Bibliothèque/Cartes&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
@@ -2256,9 +2256,14 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Cartes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="126"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="125"/>
         <source>Updates available</source>
         <translation>Mises à jour disponibles</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="126"/>
+        <source>Item not available in flight</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
@@ -2350,27 +2355,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>lire TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="360"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="358"/>
         <source>Direct</source>
         <translation>Direct</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="377"/>
         <source>from Route</source>
         <translation>de la route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="377"/>
         <source>to Route</source>
         <translation>à la route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="401"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="399"/>
         <source>Overwrite current flight route?</source>
         <translation>Ecraser la route actuelle ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="411"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="409"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation>La route ne pourra pas être restaurée si elle est écrasée.</translation>
     </message>
@@ -5104,7 +5109,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>QNH: %1 hPa à %2, %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_DownloadManager.cpp" line="344"/>
+        <location filename="../../../src/Weather_DownloadManager.cpp" line="342"/>
         <source>Waiting for precise position…</source>
         <translation>En attente de la position…</translation>
     </message>

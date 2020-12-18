@@ -1194,7 +1194,7 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/GeoMapProvider.cpp" line="160"/>
+        <location filename="../../../src/GeoMapProvider.cpp" line="155"/>
         <source>Internal Map Data</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1459,7 +1459,7 @@ Flight Information Sectors are shown.&lt;/p&gt;</source>
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="282"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="284"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1857,7 +1857,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="126"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="125"/>
         <source>Updates available</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1894,6 +1894,11 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
         <source>Always in flight-mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="126"/>
+        <source>Item not available in flight</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1966,27 +1971,27 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="360"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="358"/>
         <source>Direct</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="377"/>
         <source>from Route</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="377"/>
         <source>to Route</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="401"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="399"/>
         <source>Overwrite current flight route?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="411"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="409"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4720,7 +4725,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_DownloadManager.cpp" line="344"/>
+        <location filename="../../../src/Weather_DownloadManager.cpp" line="342"/>
         <source>Waiting for precise position…</source>
         <translation type="unfinished"></translation>
     </message>
