@@ -2554,7 +2554,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/SatNav.cpp" line="341"/>
         <source>Connection to satellite system lost</source>
-        <translation>Satellitenverbindung verloren</translation>
+        <translation>Kein GPS-Empfang</translation>
     </message>
     <message>
         <location filename="../../../src/SatNav.cpp" line="344"/>
@@ -4269,7 +4269,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/Weather_Decoder.cpp" line="793"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1770"/>
         <source>ice pellets</source>
-        <translation>Frostgraupel</translation>
+        <translation>Eiskörner</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1773"/>
