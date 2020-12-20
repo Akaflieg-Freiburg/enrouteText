@@ -89,29 +89,9 @@ Notre priorité première est donc de corriger les bugs. Nous vous remecions d&a
 </translation>
     </message>
     <message>
-        <source>
-&lt;p&gt;Use this button to report an issue in the main
-application.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;p&gt;Utilisez ce bouton pour signaler un problème dans l&apos;application.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="113"/>
         <source>Main application</source>
         <translation>Application</translation>
-    </message>
-    <message>
-        <source>
-&lt;p&gt;If you would like to report problems with the aviation
-data (such as wrong frequencies, outdated traffic patterns,
-missing navaids, …), then please use the buttons below.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;p&gt;Utilisez les boutons ci-dessous pour signaler un problème concernant les 
-données aéronautiques (fréquences, aides à la navigation, circuit d&apos;aérodrome, …).&lt;/p&gt;
-</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="101"/>
@@ -121,7 +101,11 @@ données aéronautiques (fréquences, aides à la navigation, circuit d&apos;aé
 &lt;p&gt;Use this button to report an issue in the main
 application.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Application&lt;/h4&gt;
+
+&lt;p&gt;Appuyez sur ce bouton pour signaler un problème dans l&apos;application.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="122"/>
@@ -132,22 +116,27 @@ application.&lt;/p&gt;
 (such as wrong missing airspaces, wrong vertical limits,
 …), then please use the buttons below.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Espaces aériens&lt;/h4&gt;
+
+&lt;p&gt;Utilisez le bouton ci-dessous pour signaler un problème concernant les
+espaces aériens (espaces manquants ou erronés, limites verticales erronées…).&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="135"/>
         <source>Flight Information Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Régions d'information de vol</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="144"/>
         <source>Nature Reserve Areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaces naturels protégés</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="153"/>
         <source>All Other Airspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Autres types d'espace</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="162"/>
@@ -159,7 +148,12 @@ data (such as wrong airfield frequencies, outdated traffic
 patterns, missing navaids, …), then please use the buttons
 below.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Données aéronautiques&lt;/h4&gt;
+
+&lt;p&gt;Utilisez le bouton ci-dessous pour signaler un problème concernant les
+données aéronautiques (fréquences erronées, aides à la navigation manquantes…).&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="176"/>
@@ -1355,27 +1349,27 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="108"/>
         <source>No information available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune information disponible</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="110"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Installée</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="112"/>
         <source>File Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille du fichier</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="126"/>
         <source>The map data was compiled from the following sources.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les données de carte ont été compilées depuis les sources suivantes.</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="155"/>
         <source>Internal Map Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Données de carte internes</translation>
     </message>
 </context>
 <context>
@@ -1543,13 +1537,13 @@ you fly in Austria). If avaliable, the height of traffic
 circuits is now displayed prominently. Arrival and
 departure routes for control zones are more clearly marked.
 Flight Information Sectors are shown.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-&lt;p&gt;This release implements the users&apos; most requested feature: tap on the north arrow to switch between map bearing modes &lt;strong&gt;North Up&lt;/strong&gt; and &lt;strong&gt;Track Up&lt;/strong&gt;, or use the standard rotation gesture to rotate the map manually.&lt;/p&gt;</source>
-        <translation type="vanished">
-&lt;p&gt;Cette nouvelle version implémente une capacité très demandée par les utilisateurs. Vous pouvez maintenant appuyer sur la flèche représentant le symbole du Nord pour changer l&apos;orientation de l&apos;écran : &lt;strong&gt;Nord&lt;/strong&gt; et &lt;strong&gt;Route&lt;/strong&gt;. Vous pouvez également orienter la carte manuellement.&lt;/p&gt;
+        <translation>
+&lt;p&gt;Les cartes des pays converts par les données 
+d&apos;open flightmaps affichent maintenant les espaces 
+naturels protégés. Si ils sont disponibles, les altitudes 
+des circuits et les procédures de départ et d&apos;arrivée 
+sont clairement affichés. Les régions d&apos;information 
+de vol sont aussi affichées.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -1844,12 +1838,12 @@ Flight Information Sectors are shown.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="150"/>
         <source>Map Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Information sur la carte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="154"/>
         <source>Map Info: </source>
-        <translation type="unfinished"></translation>
+        <translation>Information sur la carte :</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="162"/>
@@ -2263,7 +2257,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="126"/>
         <source>Item not available in flight</source>
-        <translation type="unfinished"></translation>
+        <translation>Non disponible en vol</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
@@ -3872,27 +3866,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1431"/>
         <source>blowing sand in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>chasse haute de sable à proximité</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1434"/>
         <source>light blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>légère chasse haute de sable</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1437"/>
         <source>moderate blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>chasse haute de sable modérée</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1440"/>
         <source>heavy blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>forte chasse haute de sable</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1443"/>
         <source>recent blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>chasse haute de sable récente</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1453"/>
@@ -3937,32 +3931,32 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1503"/>
         <source>snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>précipitations de neige en grains</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1506"/>
         <source>snow grain precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>précipitations de neige en grains à proximité</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1509"/>
         <source>light snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>légères précipitations de neige en grains</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1512"/>
         <source>moderate snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>précipitations de neige en grains modérées</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1515"/>
         <source>heavy snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>fortes précipitations de neige en grains</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1518"/>
         <source>recent snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>précipitations de neige en grains récentes</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1559"/>
@@ -4473,12 +4467,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2201"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center Norfolk, VA.</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifiant de la station: %1. Ce raport a été issu par le Fleet Weather Center Norfolk, VA.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2204"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center San Diego, CA (FS).</source>
-        <translation type="unfinished"></translation>
+        <translation>Identifiant de la station: %1. Ce raport a été issu par le Fleet Weather Center San Diego, CA (FS).</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2216"/>
