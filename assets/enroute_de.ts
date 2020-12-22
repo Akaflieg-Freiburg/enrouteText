@@ -583,32 +583,32 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/Clock.cpp" line="60"/>
         <source>just now</source>
-        <translation>JETZT</translation>
+        <translation>soeben</translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="67"/>
         <source>%1h</source>
-        <translation>%1h</translation>
+        <translation>%1 h</translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="69"/>
         <source>%1min</source>
-        <translation>%1min</translation>
+        <translation>%1 min</translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="71"/>
         <source>%1h and %2min</source>
-        <translation>%1h und %2min</translation>
+        <translation>%1 h und %2 min</translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="74"/>
         <source>%1 ago</source>
-        <translation>vor %1</translation>
+        <translation>vor %1 </translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="76"/>
         <source>in %1</source>
-        <translation>in %1</translation>
+        <translation>in %1 </translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="93"/>
