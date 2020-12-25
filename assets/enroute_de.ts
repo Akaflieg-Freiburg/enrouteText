@@ -3965,27 +3965,27 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1431"/>
         <source>blowing sand in the vicinity</source>
-        <translation>verwehender Sand in der Nähe</translation>
+        <translation>Flugsand in der Nähe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1434"/>
         <source>light blowing sand</source>
-        <translation>leicht verwehender Sand</translation>
+        <translation>leichter Flugsand</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1437"/>
         <source>moderate blowing sand</source>
-        <translation>mäßig verwehender Sand</translation>
+        <translation>mäßiger Flugsand</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1440"/>
         <source>heavy blowing sand</source>
-        <translation>stark verwehender Sand</translation>
+        <translation>starker Flugsand</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1443"/>
         <source>recent blowing sand</source>
-        <translation>vor kurzem verwehender Sand</translation>
+        <translation>vor kurzem Flugsand</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1453"/>
@@ -4010,7 +4010,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1493"/>
         <source>recent blowing snow</source>
-        <translation>vor kurzem verwehender Schnee</translation>
+        <translation>vor kurzem Flugschnee</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1503"/>
@@ -4543,22 +4543,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/Weather_Decoder.cpp" line="772"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1478"/>
         <source>blowing snow</source>
-        <translation>verwehender Schnee</translation>
+        <translation>Flugschnee</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1484"/>
         <source>light blowing snow</source>
-        <translation>leichter verwehender Schnee</translation>
+        <translation>leichter Flugschnee</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1487"/>
         <source>moderate blowing snow</source>
-        <translation>mäßiger verwehender Schnee</translation>
+        <translation>mäßiger Flugschnee</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1490"/>
         <source>heavy blowing snow</source>
-        <translation>schwerer verwehender Schnee</translation>
+        <translation>schwerer Flugschnee</translation>
     </message>
     <message>
         <source>drifting snow</source>
@@ -5334,7 +5334,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2578"/>
         <source>Blowing sand</source>
-        <translation>Verwehender Sand</translation>
+        <translation>Flugsand</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2582"/>
