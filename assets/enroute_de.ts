@@ -3163,7 +3163,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="575"/>
         <source>No cloud detected</source>
-        <translation>Keine Wolken entdeckt</translation>
+        <translation>Keine Wolken festgestellt</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="579"/>
@@ -5135,7 +5135,8 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2357"/>
         <source>State of %1:</source>
-        <translation>Status von %1:</translation>
+        <translatorcomment>&quot;für&quot; zur Vermeidung einer Kollision mit dem Dativ</translatorcomment>
+        <translation>Status für %1: </translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2363"/>
