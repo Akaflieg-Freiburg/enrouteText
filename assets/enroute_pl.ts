@@ -69,7 +69,7 @@
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="47"/>
         <source>Bug Report Home</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona główna raportu błędu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="86"/>
@@ -81,12 +81,19 @@ is therefore always our first priority. We are grateful for
 every report that we get, and we would also like to hear
 your suggestions for improvement.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt; Zgłoś błąd lub zasugeruj ulepszenie &lt;/h3&gt;
+
+&lt;p&gt; Naszym celem jest dostarczanie oprogramowania wysokiej jakości. Naprawianie błędów
+jest zatem zawsze naszym priorytetem. Jesteśmy wdzięczni za
+każde zgłoszenie, które otrzymujemy, i chcielibyśmy również usłyszeć
+Twoje sugestie dotyczące ulepszeń. &lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="113"/>
         <source>Main application</source>
-        <translation type="unfinished"></translation>
+        <translation>Główna aplikacja</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="101"/>
@@ -96,7 +103,12 @@ your suggestions for improvement.&lt;/p&gt;
 &lt;p&gt;Use this button to report an issue in the main
 application.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt; Główna aplikacja &lt;/h4&gt;
+
+&lt;p&gt; Użyj tego przycisku, aby zgłosić problem w głównej
+aplikacji. &lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="122"/>
@@ -107,22 +119,28 @@ application.&lt;/p&gt;
 (such as wrong missing airspaces, wrong vertical limits,
 …), then please use the buttons below.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt; Przestrzenie powietrzne &lt;/h4&gt;
+
+&lt;p&gt; Jeśli chcesz zgłosić problemy z przestrzeniami powietrznymi
+(takie jak błędne, brakujące przestrzenie powietrzne, złe granice pionowe,
+…), to prosimy użyj przycisków poniżej. &lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="135"/>
         <source>Flight Information Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Regiony informacji dot. lotu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="144"/>
         <source>Nature Reserve Areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Obszary natury</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="153"/>
         <source>All Other Airspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Wszystkie inne przestrzenie powietrzne</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="162"/>
@@ -134,39 +152,48 @@ data (such as wrong airfield frequencies, outdated traffic
 patterns, missing navaids, …), then please use the buttons
 below.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt; Dane lotnicze &lt;/h4&gt;
+
+&lt;p&gt; Jeśli chcesz zgłosić problemy z innymi danymi
+lotniczymi (takie jak nieprawidłowe częstotliwości lotnisk, przestarzałe wzorce
+ruchów, brakujące wskazówki nawigacyjne,…), to prosimy użyj przycisków
+poniżej. &lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="176"/>
         <source>Airfields</source>
-        <translation type="unfinished"></translation>
+        <translation>Lotniska</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="185"/>
         <source>Airspace</source>
-        <translation type="unfinished"></translation>
+        <translation>Przestrzenie powietrzne</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="194"/>
         <source>NavAids</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomoce nawigacyjne</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="203"/>
         <source>Procedures/Traffic circuits</source>
-        <translation type="unfinished"></translation>
+        <translation>Procedury/Trasy ruchu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="212"/>
         <source>Reporting points</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkty raportowania</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="221"/>
         <source>
 &lt;h4&gt;Thank you for your help!&lt;/h4&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Dziękujemy za Twoją pomoc!&lt;/h4&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="267"/>
@@ -190,24 +217,43 @@ not, please open a new issue. If you prefer to work on
 your desktop computer, you can also send yourself a link to
 GitHub by e-mail.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt; Zgłoś błąd lub zasugeruj ulepszenie &lt;/h3&gt;
+
+&lt;h4&gt; Problem w głównej aplikacji &lt;/h4&gt;
+
+&lt;p&gt; Podobnie jak wiele innych projektów oprogramowania, twórcy
+&lt;strong&gt; Enroute Flight Navigation &lt;/strong&gt; korzystają z usługi
+internetowej &lt;a href=&apos;https://github.com&apos;&gt; GitHub &lt;/a&gt; do
+koordynacji własnej pracy. Prosimy o używanie GitHub do
+przesłania swojego raportu. Gwarantuje to, że Twój raport będzie
+dostarczony do właściwych osób, oraz że Twój raport nie będzie
+zapomniany i że zostaniesz o powiadomiony o ich
+postępie. &lt;/p&gt;
+
+&lt;p&gt; Użyj poniższego przycisku, aby przejść do naszej strony zgłoszeń na GitHub
+ i sprawdź, czy problem nie został już zgłoszony. Gdyby
+nie, otwórz nowe zgłoszenie. Jeśli wolisz pracować nad tym na 
+twoim komputerze stacjonarnym, możesz również wysłać sobie łącze do
+GitHub przez e-mail. &lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="294"/>
         <source>Open GitHub Issue Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz stronę zgłoszeń na GitHub</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="303"/>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="407"/>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="671"/>
         <source>Send link by e-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyślij link za pomocą e-mail</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="307"/>
         <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to GitHub: https://github.com/Akaflieg-Freiburg/enroute/issues</source>
-        <translation type="unfinished"></translation>
+        <translation>mailto:?subject=Enroute Flight Navigation, Raport Błędu &amp;body=Link do projektu GitHub: https://github.com/Akaflieg-Freiburg/enroute/issues</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="312"/>
@@ -228,7 +274,23 @@ comes first!&lt;/p&gt;
 
 &lt;h3&gt;Thank you for your help!&lt;/h3&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt; Jeśli masz problemy z GitHubem, możesz skontaktować się z 
+&lt;a href = &apos;mailto: ms@squawk-vfr.de? subject = Enroute Flight
+Navigation, zgłoszenie problemu ”&gt; Markus Sachs &lt;/a&gt; przez e-mail.
+Markus uprzejmie zgłosił się do pomocy naszym użytkownikom w jego
+wolnym czasie. Zna język angielski i niemiecki. &lt;/p&gt;
+
+&lt;p&gt; Zwróć uwagę, że &lt;strong&gt; Enroute Flight
+ Navigation &lt;/strong&gt; tworzy bardzo mała grupa
+entuzjaści lotów w swoim wolnym czasie, jako wsparcie
+społeczności. Tworzenie wysokiej jakości oprogramowania wymaga czasu,
+i prosimy o zrozumienie, że tak nie jesteśmy 
+w stanie zaimplementować wszystkich żądanych funkcji. Naprawianie błędów zawsze
+jest na pierwszym miejscu! &lt;/p&gt;
+
+&lt;h3&gt; Dziękujemy za pomoc! &lt;/h3&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="375"/>
@@ -248,17 +310,32 @@ suggestion is approved, the correction will appear in
 &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; within a
 week.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt; Zgłoś błąd lub zasugeruj ulepszenie &lt;/h3&gt;
+
+&lt;h4&gt; Dane lotnicze &lt;/h4&gt;
+
+&lt;p&gt; Dane lotnicze, których dotyczy Twój raport, pochodzą z
+&lt;a href=&apos;http://openaip.net&apos;&gt; openAIP &lt;/a&gt;, darmowa lotnicza
+baza danych obsługiwana przez Garrecht Avionik GmbH w Niemczech. &lt;/p&gt;
+
+&lt;p&gt; Aby poprawić dane w openAIP, prosimy o Twoją pomoc.
+Przejdź do witryny internetowej openAIP, utwórz konto i
+zaloguj się. Następnie możesz zasugerować poprawki. Gdy twoja
+sugestia zostanie zatwierdzona, korekta pojawi się w
+&lt;strong&gt; Enroute Flight Navigation &lt;/strong&gt; w przeciągu
+tygodnia. &lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="398"/>
         <source>Open openAIP web site</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona internetowa openAIP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="411"/>
         <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to openAIP: https//openaip.net</source>
-        <translation type="unfinished"></translation>
+        <translation>mailto:?subject=Enroute Flight Navigation, Zgłoszenie błędu &amp;body=Link do openAIP: https//openaip.net</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="417"/>
@@ -272,7 +349,16 @@ time. Peter speaks English and German.&lt;/p&gt;
 
 &lt;h3&gt;Thank you for your help!&lt;/h3&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt; Jeśli masz problemy z witryną internetową openAIP, to
+możesz skontaktować się z 
+&lt;a href = &apos;mailto: peter.kemme@openflightmaps.org? subject = Enroute
+Flight Navigation, Zgłoszenie błędu ”&gt; Peter Kemme &lt;/a&gt; przez e-mail,
+który uprzejmie zgłosił się na ochotnika do pomocy naszym użytkownikom
+w swoim wolnym czasie. Piotr mówi po angielsku i niemiecku. &lt;/p&gt;
+
+&lt;h3&gt; Dziękujemy za pomoc! &lt;/h3&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="473"/>
@@ -297,7 +383,27 @@ discuss your issue in the forum there.&lt;/p&gt;
 
 &lt;h3&gt;Thank you for your help!&lt;/h3&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt; Zgłoś błąd lub zasugeruj ulepszenie &lt;/h3&gt;
+
+&lt;h4&gt; Dane o przestrzeniach powietrznych &lt;/h4&gt;
+
+&lt;p&gt; Dane o przestrzeniach powietrznych w &lt;strong&gt; Enroute Flight
+Navigation &lt;/strong&gt; pochodzą z
+&lt;a href=&apos;http://openaip.net&apos;&gt; openAIP &lt;/a&gt;, darmowej lotniczej
+bazy danych obsługiwanej przez Garrecht Avionik GmbH w Niemczech. &lt;/p&gt;
+
+&lt;p&gt; Dane przestrzeni powietrznej mogą być edytowane tylko przez administratorów
+openAIP. Proszę o kontakt z 
+&lt;a href = &apos;mailto: peter.kemme@openflightmaps.org? subject = Enroute
+Flight Navigation, Zgłoszenie błędu”&gt; Peter Kemme &lt;/a&gt; przez e-mail,
+który zna openAIP i uprzejmie zgłosił się do pomocy
+użytkownikom w swoim wolnym czasie. Piotr mówi po angielsku i niemiecku.
+Alternatywnie możesz otworzyć konto w openAIP i
+omówić swój problem na tamtym forum. &lt;/p&gt;
+
+&lt;h3&gt; Dziękujemy za pomoc! &lt;/h3&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="541"/>
@@ -332,23 +438,53 @@ following countries?&lt;/p&gt;
 &lt;li&gt;Sweden&lt;/li&gt;
 &lt;li&gt;Switzerland&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt; Zgłoś błąd lub zasugeruj ulepszenie &lt;/h3&gt;
+
+&lt;h4&gt; Dane lotnicze &lt;/h4&gt;
+
+&lt;p&gt; Czy Twój raport dotyczy danych lotniczych w jednym z
+następujących krajów? &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt; Austria &lt;/li&gt;
+&lt;li&gt; Belgia &lt;/li&gt;
+&lt;li&gt; Bułgaria &lt;/li&gt;
+&lt;li&gt; Chorwacja &lt;/li&gt;
+&lt;li&gt; Republika Czeska &lt;/li&gt;
+&lt;li&gt; Dania &lt;/li&gt;
+&lt;li&gt; Finlandia &lt;/li&gt;
+&lt;li&gt; Niemcy &lt;/li&gt;
+&lt;li&gt; Grecja &lt;/li&gt;
+&lt;li&gt; Węgry &lt;/li&gt;
+&lt;li&gt; Włochy &lt;/li&gt;
+&lt;li&gt; Namibia &lt;/li&gt;
+&lt;li&gt; Holandia &lt;/li&gt;
+&lt;li&gt; Malta &lt;/li&gt;
+&lt;li&gt; Polska &lt;/li&gt;
+&lt;li&gt; Rumunia &lt;/li&gt;
+&lt;li&gt; Słowacja &lt;/li&gt;
+&lt;li&gt; Słowenia &lt;/li&gt;
+&lt;li&gt; Republika Południowej Afryki &lt;/li&gt;
+&lt;li&gt; Szwecja &lt;/li&gt;
+&lt;li&gt; Szwajcaria &lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="579"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Tak</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="588"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="597"/>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="680"/>
         <source>&lt;h3&gt;Thank you for your help!&lt;/h3&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Dziękujemy za pomoc!&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="641"/>
@@ -366,17 +502,29 @@ by the open flightmaps association in Austria.&lt;/p&gt;
 report your issue. If you prefer to work on your desktop
 computer, you can also send yourself a link by e-mail.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt; Zgłoś błąd lub zasugeruj ulepszenie &lt;/h3&gt;
+
+&lt;h4&gt; Dane o przestrzeni powietrznej &lt;/h4&gt;
+
+&lt;p&gt; Dane lotnicze, których dotyczy Twój raport, pochodzą z
+&lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt; open flight maps &lt;/a&gt; baza danych lotniczych typu open source
+zarządzane przez stowarzyszenie open flightmaps w Austrii. &lt;/p&gt;
+
+&lt;p&gt; Skorzystaj z formularza raportu o błędzie przy otwieraniu map lotów aby
+zgłosić swój problem. Jeśli wolisz pracować na komputerze
+możesz również wysłać sobie łącze e-mailem. &lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="662"/>
         <source>Open error report form</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz formularz raportu błędu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="675"/>
         <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to open flightmaps error report form: https://docs.google.com/a/openflightmaps.org/forms/d/e/1FAIpQLSeBiqRbqioUaAp6H-FUtYMFduLGQmzOm1G3Dxyh2XALl5r3Nw/viewform</source>
-        <translation type="unfinished"></translation>
+        <translation>mailto:?subject=Enroute Flight Navigation, Zgłoszenie błędu &amp;body=Link do formularza zgłoszenia błędu open flightmaps : https://docs.google.com/a/openflightmaps.org/forms/d/e/1FAIpQLSeBiqRbqioUaAp6H-FUtYMFduLGQmzOm1G3Dxyh2XALl5r3Nw/viewform</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="727"/>
@@ -394,7 +542,20 @@ type of information that we could use in our app.&lt;/p&gt;
 &lt;p&gt;There is nothing that we can do. We regret that we have
 no better news.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt; Zgłoś błąd lub zasugeruj ulepszenie &lt;/h3&gt;
+
+&lt;h4&gt; Dane lotnicze &lt;/h4&gt;
+
+&lt;p&gt; Dane lotnicze, o których wspomniałeś (procedury lub
+punkty raportowania) jest dostępny z open flightmaps dla
+niektórych regionów, ale nie dla twojego kraju. Nie jesteśmy świadomi
+żadnego bezpłatnego, publicznie dostępnego i wiarygodnego źródła informacji
+tego typu, które moglibyśmy wykorzystać w naszej aplikacji. &lt;/p&gt;
+
+&lt;p&gt; Nic nie możemy zrobić. Żałujemy, że 
+nie mamy lepszych wiadomości. &lt;/p&gt;
+</translation>
     </message>
 </context>
 <context>
@@ -402,42 +563,42 @@ no better news.&lt;/p&gt;
     <message>
         <location filename="../../../src/Clock.cpp" line="60"/>
         <source>just now</source>
-        <translation type="unfinished"></translation>
+        <translation>teraz</translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="67"/>
         <source>%1h</source>
-        <translation type="unfinished"></translation>
+        <translation>%1g</translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="69"/>
         <source>%1min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1min</translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="71"/>
         <source>%1h and %2min</source>
-        <translation type="unfinished"></translation>
+        <translation>%1g i %2min</translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="74"/>
         <source>%1 ago</source>
-        <translation type="unfinished"></translation>
+        <translation>sprzed %1</translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="76"/>
         <source>in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>w %1</translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="93"/>
         <source>yesterday %1</source>
-        <translation type="unfinished"></translation>
+        <translation>wczoraj %1</translation>
     </message>
     <message>
         <location filename="../../../src/Clock.cpp" line="97"/>
         <source>tomorrow %1</source>
-        <translation type="unfinished"></translation>
+        <translation>jutro %1</translation>
     </message>
 </context>
 <context>
@@ -445,7 +606,7 @@ no better news.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="29"/>
         <source>Donate</source>
-        <translation type="unfinished"></translation>
+        <translation>Wspomóż</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="47"/>
@@ -481,7 +642,38 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
   &lt;/table&gt;
 &lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt; &lt;strong&gt; Enroute Flight Navigation &lt;/strong&gt; to
+niekomercyjny projekt Akaflieg Freiburg i
+Uniwersytet we Freiburgu. Aplikacja została napisana przez entuzjastów
+lotnictwa w swoim wolnym czasie, jako usługa dla 
+społeczności. Twórcy nie przyjmują darowizn &lt;/p&gt;
+
+&lt;p&gt; Jeśli cenisz aplikację, rozważ przekazanie darowizny dla
+Akaflieg Freiburg, uprzywilejowany podatkowo, klub lotniczy
+fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
+
+&lt;p&gt;
+  &lt;table&gt;
+    &lt;tr&gt;
+      &lt;td&gt;IBAN:&lt;/td&gt;
+      &lt;td&gt;DE35 6809 0000 0027 6409 07&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;BIC:&lt;/td&gt;
+      &lt;td&gt;GENODE61FR1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bank:&lt;/td&gt;
+      &lt;td&gt;Volksbank Freiburg&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Message:&lt;/td&gt;
+      &lt;td&gt;Enroute Flight Navigation&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/table&gt;
+&lt;/p&gt;
+</translation>
     </message>
 </context>
 <context>
@@ -837,7 +1029,7 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="191"/>
         <source>View Library …</source>
-        <translation>Biblioteka Widoków ...</translation>
+        <translation>Zobacz bibliotekę ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="202"/>
@@ -943,7 +1135,7 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="327"/>
         <source>ACFT</source>
-        <translation type="unfinished"></translation>
+        <translation>ACFT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="390"/>
@@ -1148,22 +1340,22 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="71"/>
         <source>Enter a name or choose an existing name from the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź nazwę lub wybierz istniejącą nazwę z listy poniżej.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="82"/>
         <source>Flight Route Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa planu lotu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="191"/>
         <source>Overwrite flight route?</source>
-        <translation type="unfinished"></translation>
+        <translation>Napisać plan lotu?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="198"/>
         <source>The route &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu &lt;strong&gt;%1&lt;/strong&gt; już istnieje w biblioteca. Czy chcesz go nadpisać?</translation>
     </message>
     <message>
         <source>Enter a file name or choose an existing name from the list below.</source>
@@ -1192,27 +1384,27 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="108"/>
         <source>No information available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak dostępnych informacji.</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="110"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Zainstalowana</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="112"/>
         <source>File Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar pliku</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="126"/>
         <source>The map data was compiled from the following sources.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane mapy zostały skompilowane z następujących źródeł.</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="155"/>
         <source>Internal Map Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Wewnętrzne dane map</translation>
     </message>
 </context>
 <context>
@@ -1337,7 +1529,31 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+
+&lt;p&gt;Wersja %1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; to darmowa nawigacja lotnicza dla pilotów VFR, rozwijana jako projekt Akaflieg Freiburg.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prosta, elegancka, funkcjonalna&lt;/li&gt;
+  &lt;li&gt;Bez reklam&lt;/li&gt;
+  &lt;li&gt;Bez rejestracji, bez członkostwa&lt;/li&gt;
+  &lt;li&gt;Nie szpieguje&lt;/li&gt;
+  &lt;li&gt;W 100% Otwarty Kod Źródłowy, stworzona bez zamysłu komercyjnego&lt;li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sprawdź &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;stronę internetową&lt;/a&gt; po więcej informacji.&lt;/p&gt;
+
+&lt;h3&gt;Sponsoring Akademicki&lt;/h3&gt;
+
+&lt;p&gt;Autor zawdzięcza pomoc naszemu sponsorowi akademickiemu &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;University of Freiburg&lt;/a&gt;. Uniwersytet dostarcza infrastrukturę używaną do generowania naszych map i przepustowość do ich hostowania.&lt;/p&gt;
+
+&lt;h3&gt;Podziękowania&lt;/h3&gt;
+
+&lt;p&gt;Ten program jest zbudowany używając bibliotek z otwartym kodem źródłowym, uwzględniając &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; oraz &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dane lotnicze są dostarczane przez &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; oraz projekt &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;. Mapy podstawowe dostarczane są dzięki &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Odwołaj się do dokumentacji by poznać więcej szczegółów.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="181"/>
@@ -1424,7 +1640,11 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Plany lotu są zapisywane w standardzie &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON&lt;/a&gt; w następującym katalogu.&lt;p&gt;
+
+&lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Plany lotu mogą być dostępne dla innych programów, takie jak programy do wykonywania kopii bezpieczeństwa lub aplikacje synchronizujące.  Może to być przydatne aby dzielić bibliotekę planów lotu z innymi urządzeniami.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="223"/>
@@ -1435,7 +1655,13 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
 &lt;p&gt;In order to request up-to-date weather information, the app needs to &lt;strong&gt;send your location and your current route to the Aviation Weather Center&lt;/strong&gt; at regular intervals. If you agree to this, you can enable the weather feature by clicking on the button below. You can disable the feature at any time using the three-dot menu at the top of this screen.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;We have no control over data collected by the Aviation Weather Center. We do not guarantee correctness of the weather information in any way!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt; Ostrzeżenie dotyczące prywatności &lt;/h3&gt;
+      
+&lt;p&gt; Podobnie jak większość innych programów, ta aplikacja korzysta z danych pogodowych dostarczonych przez &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt; Aviation Weather Center &lt;/a&gt;, stronę internetową rządu Stanów Zjednoczonych. &lt; / p&gt;
+
+&lt;p&gt; Aby dostarczać aktualnych informacji pogodowych, aplikacja musi &lt;strong&gt; wysyłać Twoją lokalizację i aktualną trasę do Lotniczego Centrum Pogody &lt;/strong&gt; w regularnych odstępach czasu. Jeśli się na to zgadzasz, możesz włączyć funkcję pogody, klikając przycisk poniżej. Możesz wyłączyć tę funkcję w dowolnym momencie, korzystając z menu z trzema kropkami u góry tego ekranu. &lt;/p&gt;
+
+&lt;p&gt; &lt;strong&gt; Nie mamy kontroli nad danymi gromadzonymi przez Aviation Weather Center. Nie gwarantujemy w żaden sposób poprawności informacji o pogodzie! &lt;/strong&gt; &lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Bug Report&lt;/h3&gt;
@@ -1528,7 +1754,83 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur, computer Science and aviation enthusiast. Laureate of IT nationwide competitions, including &apos;HackYeah 2019&apos;, and &apos;Golden Wolf 2017&apos; for the best technological project in Poland.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt; Autorzy &lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt; Aplikacja &lt;strong&gt; Enroute Flight Navigation &lt;/strong&gt; została napisana przez Stefana Kebekusa, entuzjastę lotów od 1986 roku i członka klubu lotniczego Akaflieg Freiburg. Stefan lata na szybowcach i samolotach motorowych. &lt;/p&gt;
+      &lt;h4&gt; Adres &lt;/h4&gt;
+      Stefan Kebekus &lt;br&gt;
+      Wintererstraße 77 &lt;br&gt;
+      79104 Freiburg &lt;br&gt;
+      Niemcy &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt; e-mail &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align = &apos;center&apos;&gt;&amp;nbsp;&lt;img src = &apos;/icons/kebekus.jpg&apos; alt = &apos;Stefan Kebekus&apos; height = &apos;140&apos;&gt; &lt;br&gt; Stefan Kebekus &lt;br&gt; Zdjęcie: Patrick Seeger &lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;br&gt;
+      &lt;h3&gt; Współpracujący autorzy &lt;/h3&gt;
+      &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt; Adrien Crovato jest prywatnym pilotem i inżynierem lotniczym. Dołączył do zespołu programistów w 2020 roku i współtworzy bazę kodu C ++ i QML. &lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt; e-mail &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align = &apos;center&apos;&gt;&amp;nbsp;&lt;img src = &apos;/icons/crovato.jpg&apos; alt = &apos;Adrien Crovato&apos; height = &apos;140&apos;&gt; &lt;br&gt; Adrien Crovato &lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt; Heiner Tholen lubi budować rzeczy analogowe i cyfrowe, zarówno lotnicze, jak i naziemne. Używa Enroute jako pilota samolotów ultralekkich. Heiner dołączył do zespołu Enroute w połowie 2020 roku i współtworzy bazę kodu C ++ / QML. &lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt; e-mail &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align = &apos;center&apos;&gt;&amp;nbsp;&lt;img src = &apos;/icons/tholen.jpg&apos; alt = &apos;Heiner Tholen&apos; height = &apos;140&apos;&gt; &lt;br&gt; Heiner Tholen &lt;/p&gt;
+     &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt; Johannes Zellner dołączył do rozwoju w 2020 roku. Wnosi wkład w bazę kodu C ++ i QML aplikacji oraz pomaga w naprawianiu błędów. &lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt; e-mail &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align = &apos;center&apos;&gt;&amp;nbsp;&lt;img src = &apos;/icons/zellner.jpg&apos; alt = &apos;Johannes Zellner&apos; height = &apos;140&apos;&gt; &lt;br&gt; Johannes Zellner &lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;Podręcznik&lt;/h3&gt;
+
+&lt;p&gt;Podręcznik został uprzejmie udostępniony przez Michaela Horbaschka.&lt;/p&gt;
+
+&lt;h3&gt;Tłumaczenia&lt;/h3&gt;
+
+&lt;p&gt; &lt;strong&gt;Francuski:&lt;/strong&gt; Adrien Crovato. Adrien został opisany powyżej. &lt;/p&gt;
+
+&lt;p&gt; &lt;strong&gt;Niemiecki:&lt;/strong&gt; Markus Sachs. Markus lata trójkołowcami i jest entuzjastycznym „współpracownikiem” na każdym innym, co lata. &lt;/p&gt;
+
+&lt;p&gt; &lt;strong&gt;FWłoski:&lt;/strong&gt; Ivan Battistella i Luca Bertoncello. Luca lata na ultralekkich samolotach od 2014 roku, aw 2019 został instruktorem lotów. Programuje od 1988 i pracuje jako administrator systemów w Dreźnie w Niemczech. Ivan Battistella zaczął ostatnio latać samolotami ultralekkimi. Pracuje jako niezależny konsultant ds. Oprogramowania. &lt;/p&gt;
+
+&lt;p&gt; &lt;strong&gt; Język polski: &lt;/strong&gt; Szymon Kocur, pasjonat informatyki i lotnictwa. Laureat ogólnopolskich konkursów informatycznych, w tym „HackYeah 2019” i „Złoty Wilk 2017” na najlepszy projekt technologiczny w Polsce. &lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="117"/>
@@ -1538,7 +1840,12 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
 &lt;p&gt;If you are convinced that the data is good enough to be added, you can request to add the country. Please go to &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enrouteServer/issues&quot;&gt;this web site&lt;/a&gt; and open an &apos;issue&apos; with your request. Please tell us who you are, where you fly and how you convinced yourself that the data is good. If you find that the data is not good enough, you are welcome to join the openAIP project and help to improve the data.&lt;/p&gt;
 
 &lt;p&gt;Please understand that we program this free app in our spare time, as a service to the community. Sadly, I should point out that sending us impolite demands is not likely to give the result that you desire.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt; Nasze dane lotnicze otrzymujemy z &lt;a href=&quot;http://openaip.net&quot;&gt; openAIP &lt;/a&gt;. Jest to organizacja non-profit, w której wolontariusze gromadzą dane lotnicze dla wielu krajów. Jeśli openAIP obejmuje twój kraj, być może będziemy w stanie wygenerować dla niego mapy. Najpierw jednak musimy mieć wystarczającą pewność, że dane openAIP są dokładne i kompletne. Proszę spojrzeć na &lt;a href=&quot;http://maps.openaip.net&quot;&gt; mapy openAIP &lt;/a&gt; i porównać ich wygląd z oficjalną mapą lotniczą swojego kraju. Czy są tam lotniska? Czy długości / kierunki i częstotliwości dróg startowych są prawidłowe? Czy NavAids są poprawnie wyświetlane, z poprawnymi kodami i częstotliwościami? A co z przestrzenią powietrzną? &lt;/p&gt;
+
+&lt;p&gt; Jeśli jesteś przekonany, że dane są wystarczająco dobre, aby je dodać, możesz poprosić o dodanie kraju. Przejdź do &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enrouteServer/issues&quot;&gt; tej witryny internetowej &lt;/a&gt; i otwórz „zgłoszenie” ze swoim żądaniem. Powiedz nam, kim jesteś, dokąd latasz i jak przekonałeś się, że dane są dobre. Jeśli stwierdzisz, że dane nie są wystarczająco dobre, możesz dołączyć do projektu openAIP i pomóc w ulepszaniu danych. &lt;/p&gt;
+
+&lt;p&gt; Pamiętaj, że w wolnym czasie programujemy tę bezpłatną aplikację jako usługę dla społeczności. Niestety, powinienem zaznaczyć, że wysyłanie nam niegrzecznych żądań raczej nie przyniesie pożądanego rezultatu. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="126"/>
@@ -1599,7 +1906,13 @@ you fly in Austria). If avaliable, the height of traffic
 circuits is now displayed prominently. Arrival and
 departure routes for control zones are more clearly marked.
 Flight Information Sectors are shown.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt; Kraje objęte przez open flightmaps: mapa aktualne
+pokazuje obszary rezerwatów przyrody (niezwykle ważne, jeśli
+latasz w Austrii). Jeśli jest dostępna, wysokość tras
+powietrznych jest teraz wyświetlana w widocznym miejscu. Trasy przylotów
+i odlotów do stref kontrolnych są wyraźniej oznaczone.
+Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1630,12 +1943,12 @@ Flight Information Sectors are shown.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="150"/>
         <source>Map Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacja dot. mapy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="154"/>
         <source>Map Info: </source>
-        <translation type="unfinished"></translation>
+        <translation>Informacja mapy: </translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="162"/>
@@ -1656,7 +1969,7 @@ Flight Information Sectors are shown.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="234"/>
         <source>Update list of maps</source>
-        <translation>Zaktualizuj llistę map</translation>
+        <translation>Zaktualizuj listę map</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="246"/>
@@ -1677,12 +1990,12 @@ Flight Information Sectors are shown.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="315"/>
         <source>How to request additional aviation maps…</source>
-        <translation type="unfinished"></translation>
+        <translation>Jak zażądać dodatkowych map nawigacyjnych...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="322"/>
         <source>Request additional aviation maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Zażądaj dodatkowych map nawigacyjnych</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="396"/>
@@ -1789,7 +2102,7 @@ Flight Information Sectors are shown.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="114"/>
         <source>Time</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas</translation>
     </message>
 </context>
 <context>
@@ -1817,17 +2130,17 @@ Flight Information Sectors are shown.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="122"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aerodrome data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Nie znaleziono danych lotniska. Proszę upewnić się, że mapy nawigacyjne są zainstalowane.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="144"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No navaid data available.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Brak dostępnych danych nawigacyjnych.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="166"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No reporting point data available.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Brak dostępnych danych punktów raportowania.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1839,7 +2152,7 @@ Flight Information Sectors are shown.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/qml/pages/ParticipatePage.qml" line="29"/>
         <source>Participate</source>
-        <translation type="unfinished">Uczestnicz</translation>
+        <translation>Uczestnicz</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ParticipatePage.qml" line="47"/>
@@ -1874,7 +2187,37 @@ like to port the app to iOS and if you have development
 experience with C++/Qt programming and with Apple systems,
 please get in touch with us by opening a GitHub issue.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt; Weź udział w rozwoju &lt;/h3&gt;
+
+&lt;p&gt; Mamy wielkie plany dla &lt;strong&gt; Enroute Flight
+Navigation &lt;/strong&gt;, sprawdź nasz
+projekt &lt;a href=&apos;https://github.com/Akaflieg-Freiburg/enroute/projects&apos;&gt;
+na GitHub &lt;/a&gt;, aby zobaczyć, co się dzieje. &lt;/p&gt;
+
+&lt;h3&gt; Przetłumacz &lt;/h3&gt;
+
+&lt;p&gt; Jeśli wiesz, jak korzystać z systemu kontroli wersji GIT i jeśli
+chciałbyś przetłumaczyć aplikację na swój rodzimy
+język, chcielibyśmy dostać od Ciebie wiadomość. Doświadczenie w
+programowaniu nie jest konieczne, ale dobra znajomość obsługi komputera jest
+wymagana. &lt;/p&gt;
+
+&lt;h3&gt; Dołącz do rozwoju &lt;/h3&gt;
+
+&lt;p&gt; Jeśli biegle posługujesz się językiem C ++ i chcesz pomóc
+z programowaniem, skontaktuj się z nami przez
+otwarcie zgłoszenia na GitHub. My też walczymy z zarządzaniem 
+energią na Androidzie i bylibyśmy wdzięczni za każdą pomoc,
+którą możemy otrzymać. &lt;/p&gt;
+
+&lt;h3&gt; Port aplikacji na iOS &lt;/h3&gt;
+
+&lt;p&gt; Ta aplikacja powinna działać dobrze na urządzeniach Apple. Jeśli chcesz
+przenieść aplikację na iOS i jeśli masz doświadczenie
+ w programowaniu w C ++ / Qt i systemach Apple,
+skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
+</translation>
     </message>
 </context>
 <context>
@@ -1999,12 +2342,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="57"/>
         <source>Upper airspaces hidden</source>
-        <translation>Wyższe strefy lotnicze ukryte</translation>
+        <translation>Wyższe przestrzenie lotnicze ukryte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="61"/>
         <source>All airspaces shown</source>
-        <translation>Pokazane wszystkie strefy lotnicze</translation>
+        <translation>Pokazane wszystkie przestrzenie lotnicze</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="104"/>
@@ -2029,7 +2372,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="126"/>
         <source>Item not available in flight</source>
-        <translation type="unfinished"></translation>
+        <translation>Element nie dostępny podczas lotu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
@@ -2054,7 +2397,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="149"/>
         <source>Use metric units</source>
-        <translation>Uzyj systemu metrycznego</translation>
+        <translation>Użyj systemu metrycznego</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
@@ -2121,12 +2464,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="82"/>
         <source>full report</source>
-        <translation type="unfinished"></translation>
+        <translation>pełny raport</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="83"/>
         <source>read TAF</source>
-        <translation type="unfinished"></translation>
+        <translation>odczytaj TAF</translation>
     </message>
     <message>
         <source>mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Thank you for suggesting a correction in the map data. Please describe the issue here.</source>
@@ -2163,145 +2506,145 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1700"/>
         <source>shallow</source>
-        <translation type="unfinished"></translation>
+        <translation>płytki</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1703"/>
         <source>partial</source>
-        <translation type="unfinished"></translation>
+        <translation>częściowy</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1706"/>
         <source>patches</source>
-        <translation type="unfinished"></translation>
+        <translation>łaty</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1709"/>
         <source>low drifting</source>
-        <translation type="unfinished"></translation>
+        <translation>niskie dryfowanie</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1712"/>
         <source>blowing</source>
-        <translation type="unfinished"></translation>
+        <translation>wieje</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1715"/>
         <source>showers</source>
-        <translation type="unfinished"></translation>
+        <translation>lekki deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="430"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1718"/>
         <source>thunderstorm</source>
-        <translation type="unfinished"></translation>
+        <translation>burza</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="371"/>
         <source>[unable to convert temperature to °C]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nie można przekonwertować temperatury do °C]</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="378"/>
         <source>slightly less than %1</source>
-        <translation type="unfinished"></translation>
+        <translation>lekko poniżej %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="380"/>
         <source>slightly more than %1</source>
-        <translation type="unfinished"></translation>
+        <translation>lekko powyżej %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="295"/>
         <source>[unable to convert pressure to hPa]</source>
-        <translation type="unfinished"></translation>
+        <translation>[brak możliwości konwersji ciśnienia do hPa]</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1721"/>
         <source>freezing</source>
-        <translation type="unfinished"></translation>
+        <translation>mroźnie</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1738"/>
         <source>light</source>
-        <translation type="unfinished"></translation>
+        <translation>lekko</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1741"/>
         <source>moderate</source>
-        <translation type="unfinished"></translation>
+        <translation>średnio</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1744"/>
         <source>heavy</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężko</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="787"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1154"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1755"/>
         <source>drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>mżawka</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="784"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1328"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1758"/>
         <source>rain</source>
-        <translation type="unfinished"></translation>
+        <translation>deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="790"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1761"/>
         <source>snow</source>
-        <translation type="unfinished"></translation>
+        <translation>śnieg</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1764"/>
         <source>snow grains</source>
-        <translation type="unfinished"></translation>
+        <translation>krupy śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="781"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1767"/>
         <source>ice crystals</source>
-        <translation type="unfinished"></translation>
+        <translation>kryształki lodu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="793"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1770"/>
         <source>ice pellets</source>
-        <translation type="unfinished"></translation>
+        <translation>granulki lodu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1773"/>
         <source>hail</source>
-        <translation type="unfinished"></translation>
+        <translation>grad</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1776"/>
         <source>small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>mały grad</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1241"/>
         <source>shallow fog</source>
-        <translation type="unfinished"></translation>
+        <translation>płytka mgła</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1238"/>
         <source>patches of fog</source>
-        <translation type="unfinished"></translation>
+        <translation>plamy mgły</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1232"/>
         <source>freezing fog</source>
-        <translation type="unfinished"></translation>
+        <translation>marznąca mgła</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1779"/>
         <source>undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>nieokreślone opady</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="105"/>
@@ -2321,1570 +2664,1570 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <location filename="../../../src/Weather_Decoder.cpp" line="1634"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1676"/>
         <source>not reported</source>
-        <translation type="unfinished"></translation>
+        <translation>nie raportowane</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="92"/>
         <source>Cloud cover %1/8, %2, base height %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokrywa chmur %1/8, %2, wysokość bazowa %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="96"/>
         <source>Cloud cover %1/8, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokrywa chmur %1/8, %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="108"/>
         <source>variable</source>
-        <translation type="unfinished"></translation>
+        <translation>zmienna</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="111"/>
         <source>no directional variation</source>
-        <translation type="unfinished"></translation>
+        <translation>brak zmienności kierunku</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="116"/>
         <source>[unable to produce value in °]</source>
-        <translation type="unfinished"></translation>
+        <translation>[brak możliwości otrzymania wartości w °]</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="127"/>
         <source>overhead</source>
-        <translation type="unfinished"></translation>
+        <translation>napowietrzny</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="130"/>
         <source>all quadrants (all directions)</source>
-        <translation type="unfinished"></translation>
+        <translation>wszystkie ćwiartki (we wszystkich kierunkach)</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="133"/>
         <source>unknown direction</source>
-        <translation type="unfinished"></translation>
+        <translation>nieznany kierunek</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="248"/>
         <source>no value</source>
-        <translation type="unfinished"></translation>
+        <translation>brak wartości</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="300"/>
         <source>all runways</source>
-        <translation type="unfinished"></translation>
+        <translation>wszystkie pasy startowe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="302"/>
         <source>same runway (repetition of last message)</source>
-        <translation type="unfinished"></translation>
+        <translation>ten sam pas startowy (powtórzenie ostatniej wiadomości)</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="306"/>
         <source>runway %1</source>
-        <translation type="unfinished"></translation>
+        <translation>pas startowy %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="309"/>
         <source>runway %1 LEFT</source>
-        <translation type="unfinished"></translation>
+        <translation>pas startowy %1 LEWY</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="312"/>
         <source>runway %1 CENTER</source>
-        <translation type="unfinished"></translation>
+        <translation>pas startowy %1 ŚRODEK</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="315"/>
         <source>runway %1 RIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>pas startowy %1 PRAWY</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="335"/>
         <source>[unable to convert speed to km/h]</source>
-        <translation type="unfinished"></translation>
+        <translation>[brak możliwości konwersji do km/h]</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="341"/>
         <source>[unable to convert speed to knots]</source>
-        <translation type="unfinished"></translation>
+        <translation>[brak możliwości konwersji prędkości do węzłów]</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="390"/>
         <source>state of sea surface: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>stan powierzchni morza:%1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="396"/>
         <source>wave height: %1 m</source>
-        <translation type="unfinished"></translation>
+        <translation>wysokość fali:%1 m</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="397"/>
         <source>[unable to convert wave height to meters]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nie można skonwertować wysokości fal na metry]</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="399"/>
         <source>wave height not reported</source>
-        <translation type="unfinished"></translation>
+        <translation>nie raportowana wysokość fal</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="426"/>
         <source>shower</source>
-        <translation type="unfinished"></translation>
+        <translation>przelotny deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="438"/>
         <source>recent %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ostatnio %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="442"/>
         <source>%1 in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="462"/>
         <source>began:</source>
-        <translation type="unfinished"></translation>
+        <translation>rozpoczęło się:</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="468"/>
         <source>ended:</source>
-        <translation type="unfinished"></translation>
+        <translation>zakończyło się:</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="514"/>
         <source>north</source>
-        <translation type="unfinished"></translation>
+        <translation>północ</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="517"/>
         <source>south</source>
-        <translation type="unfinished"></translation>
+        <translation>południe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="520"/>
         <source>west</source>
-        <translation type="unfinished"></translation>
+        <translation>zachód</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="523"/>
         <source>east</source>
-        <translation type="unfinished"></translation>
+        <translation>wschód</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="526"/>
         <source>northwest</source>
-        <translation type="unfinished"></translation>
+        <translation>północny-zachód</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="529"/>
         <source>northeast</source>
-        <translation type="unfinished"></translation>
+        <translation>północny-wschód</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="532"/>
         <source>southwest</source>
-        <translation type="unfinished"></translation>
+        <translation>południowy-zachód</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="535"/>
         <source>southeast</source>
-        <translation type="unfinished"></translation>
+        <translation>południowy-wschód</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="538"/>
         <source>true north</source>
-        <translation type="unfinished"></translation>
+        <translation>rzeczywista północ</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="541"/>
         <source>true west</source>
-        <translation type="unfinished"></translation>
+        <translation>rzeczywisty zachód</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="544"/>
         <source>true south</source>
-        <translation type="unfinished"></translation>
+        <translation>rzeczywiste południe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="547"/>
         <source>true east</source>
-        <translation type="unfinished"></translation>
+        <translation>rzeczywista wschód</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="550"/>
         <source>no directional variations</source>
-        <translation type="unfinished"></translation>
+        <translation>brak zmian kierunkowych</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="569"/>
         <source>Cloud amount not reported</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak raportowania ilości chmur</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="572"/>
         <source>No significant cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak znaczącego zachmurzenia</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="575"/>
         <source>No cloud detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie wykryto chmur</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="579"/>
         <source>Clear sky</source>
-        <translation type="unfinished"></translation>
+        <translation>Czyste niebo</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="582"/>
         <source>Few clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilka chmur</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="585"/>
         <source>Scattered clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozproszone chmury</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="588"/>
         <source>Broken clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozerwane chmury</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="591"/>
         <source>Overcast clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Zachmurzone</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="594"/>
         <source>Sky obscured</source>
-        <translation type="unfinished"></translation>
+        <translation>Niebo zasłonięte</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="597"/>
         <source>Few -- scattered clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Niewiele - rozproszone chmury</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="600"/>
         <source>Scattered -- broken clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozproszone - przerwane chmury</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="603"/>
         <source>Broken -- overcast clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Przerwane - zachmurzenie</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="727"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="730"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="825"/>
         <source>cumulonimbus</source>
-        <translation type="unfinished"></translation>
+        <translation>cumulonimbus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="733"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="822"/>
         <source>towering cumulus</source>
-        <translation type="unfinished"></translation>
+        <translation>strzeliste cumulusy</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="736"/>
         <source>cumulus</source>
-        <translation type="unfinished"></translation>
+        <translation>cumulus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="739"/>
         <source>cumulus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation>cumulus fractus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="742"/>
         <source>stratocumulus</source>
-        <translation type="unfinished"></translation>
+        <translation>stratocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="745"/>
         <source>nimbostratus</source>
-        <translation type="unfinished"></translation>
+        <translation>nimbostratus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="748"/>
         <source>stratus</source>
-        <translation type="unfinished"></translation>
+        <translation>stratus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="751"/>
         <source>stratus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation>stratus fractus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="754"/>
         <source>altostratus</source>
-        <translation type="unfinished"></translation>
+        <translation>altostratus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="757"/>
         <source>altocumulus</source>
-        <translation type="unfinished"></translation>
+        <translation>altocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="760"/>
         <source>altocumulus castellanus</source>
-        <translation type="unfinished"></translation>
+        <translation>altocumulus castellanus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="763"/>
         <source>cirrus</source>
-        <translation type="unfinished"></translation>
+        <translation>cirrus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="766"/>
         <source>cirrostratus</source>
-        <translation type="unfinished"></translation>
+        <translation>cirrostratus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="769"/>
         <source>cirrocumulus</source>
-        <translation type="unfinished"></translation>
+        <translation>cirrocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="778"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1428"/>
         <source>blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>podmuchy piasku</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="802"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1782"/>
         <source>mist</source>
-        <translation type="unfinished"></translation>
+        <translation>zamglenie</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="799"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1229"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1785"/>
         <source>fog</source>
-        <translation type="unfinished"></translation>
+        <translation>mgła</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="796"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1788"/>
         <source>smoke</source>
-        <translation type="unfinished"></translation>
+        <translation>dym</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="808"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1791"/>
         <source>volcanic ash</source>
-        <translation type="unfinished"></translation>
+        <translation>pył wulkaniczny</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1794"/>
         <source>dust</source>
-        <translation type="unfinished"></translation>
+        <translation>pył</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1797"/>
         <source>sand</source>
-        <translation type="unfinished"></translation>
+        <translation>piasek</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="805"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1800"/>
         <source>haze</source>
-        <translation type="unfinished"></translation>
+        <translation>mgła</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1281"/>
         <source>thunderstorm with hail in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>w pobliżu burza z gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1528"/>
         <source>low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nisko sypiący śnieg</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1531"/>
         <source>low drifting snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>nisko sypiący śnieg w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1534"/>
         <source>light low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation>lekki, słaby śnieg,</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1537"/>
         <source>moderate low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowanie słaby niski śnieg</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1540"/>
         <source>heavy low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężki, lekko przenaszalny śnieg</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1543"/>
         <source>recent low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawne niskie opady śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1553"/>
         <source>snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>opady śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1556"/>
         <source>snow showers in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>przelotne opady śniegu w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1803"/>
         <source>spray</source>
-        <translation type="unfinished"></translation>
+        <translation>spray</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1806"/>
         <source>dust or sand whirls</source>
-        <translation type="unfinished"></translation>
+        <translation>wiry pyłu lub piasku</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1809"/>
         <source>squalls</source>
-        <translation type="unfinished"></translation>
+        <translation>szkwały</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1812"/>
         <source>funnel cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>chmura lejowa</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1815"/>
         <source>sand storm</source>
-        <translation type="unfinished"></translation>
+        <translation>burza piaskowa</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1818"/>
         <source>dust storm</source>
-        <translation type="unfinished"></translation>
+        <translation>burza pyłowa</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1104"/>
         <source>precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>opad atmosferyczny</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1107"/>
         <source>light precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>lekkie opady</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1110"/>
         <source>moderate precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>średnie opady</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1113"/>
         <source>heavy precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężkie opady</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1163"/>
         <source>light drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>lekka mżawka</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1166"/>
         <source>moderate drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>średnia mżawka</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1169"/>
         <source>heavy drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężka mżawka</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="775"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1204"/>
         <source>blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation>podmuchy kurzu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1210"/>
         <source>light blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation>lekkie podmuchy kurzu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1213"/>
         <source>moderate blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation>średnie podmuchy kurzu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1216"/>
         <source>heavy blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężkie podmuchy kurzu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1235"/>
         <source>partial fog</source>
-        <translation type="unfinished"></translation>
+        <translation>częściowa mgła</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1334"/>
         <source>light rain</source>
-        <translation type="unfinished"></translation>
+        <translation>lekki deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1337"/>
         <source>moderate rain</source>
-        <translation type="unfinished"></translation>
+        <translation>średni deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1340"/>
         <source>heavy rain</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężki deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1384"/>
         <source>light rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation>lekkie przelotne opady deszczu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1387"/>
         <source>moderate rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation>średnie przelotne opady deszczu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1390"/>
         <source>heavy rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężkie przelotne opady deszczu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1393"/>
         <source>recent rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation>ostatnie ulewy</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1459"/>
         <source>light snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>lekkie opady śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1462"/>
         <source>moderate snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>średnie opady śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1465"/>
         <source>heavy snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężkie opady śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="772"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1478"/>
         <source>blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>śnieżyca</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="168"/>
         <source>19 to 55 km</source>
-        <translation type="unfinished"></translation>
+        <translation>19 do 55 km</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="170"/>
         <source>10 to 30 NM</source>
-        <translation type="unfinished"></translation>
+        <translation>10 do 30 NM</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="175"/>
         <source>9 to 19 km</source>
-        <translation type="unfinished"></translation>
+        <translation>9 do 19 km</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="177"/>
         <source>5 to 10 NM</source>
-        <translation type="unfinished"></translation>
+        <translation>5 do 10 NM</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="188"/>
         <source>[unable to get distance value in miles]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nie można uzyskać wartości odległości w milach]</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="204"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="222"/>
         <source>[unable to convert distance to meters]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nie można skonwertować odległości na metry]</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="209"/>
         <source>[unable to get distance&apos;s floating-point value]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nie można uzyskać wartości zmiennoprzecinkowej odległości]</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="279"/>
         <source>trace amount</source>
-        <translation type="unfinished"></translation>
+        <translation>śladowa ilość</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="284"/>
         <source>[unable to convert precipitation to mm]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nie można skonwertować opadów na mm]</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="354"/>
         <source>friction coefficient %1</source>
-        <translation type="unfinished"></translation>
+        <translation>współczynnik tarcia%1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="355"/>
         <source>[unable to produce a friction coefficient]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nie można uzyskać współczynnika tarcia]</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="358"/>
         <source>braking action %1</source>
-        <translation type="unfinished"></translation>
+        <translation>działanie hamowania%1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="361"/>
         <source>unreliable or unmeasurable</source>
-        <translation type="unfinished"></translation>
+        <translation>niewiarygodne lub niemierzalne</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="491"/>
         <source>poor (friction coefficient 0.0 to 0.25)</source>
-        <translation type="unfinished"></translation>
+        <translation>słaba (współczynnik tarcia 0,0 do 0,25)</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="494"/>
         <source>medium/poor (friction coefficient 0.26 to 0.29)</source>
-        <translation type="unfinished"></translation>
+        <translation>średni / słaby (współczynnik tarcia 0,26 do 0,29)</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="497"/>
         <source>medium (friction coefficient 0.30 to 0.35)</source>
-        <translation type="unfinished"></translation>
+        <translation>średni (współczynnik tarcia 0,30 do 0,35)</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="500"/>
         <source>medium/good (friction coefficient 0.36 to 0.40)</source>
-        <translation type="unfinished"></translation>
+        <translation>średni / dobry (współczynnik tarcia 0,36 do 0,40)</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="503"/>
         <source>good (friction coefficient 0.40 to 1.00)</source>
-        <translation type="unfinished"></translation>
+        <translation>dobry (współczynnik tarcia 0,40 do 1,00)</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="611"/>
         <source>No high-layer clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak chmur wysokowarstwowych</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="614"/>
         <source>Cirrus fibratus or Cirrus uncinus</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirrus fibratus lub Cirrus uncinus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="617"/>
         <source>Cirrus spissatus or Cirrus castellanus or Cirrus floccus</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirrus spissatus lub Cirrus castellanus lub Cirrus floccus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="620"/>
         <source>Cirrus spissatus cumulonimbogenitus</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirrus spissatus cumulonimbogenitus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="623"/>
         <source>Cirrus uncinus or Cirrus fibratus progressively invading the sky</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirrus uncinus lub Cirrus fibratus stopniowo pokrywają niebo</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="626"/>
         <source>Cirrus or Cirrostratus progressively invading the sky, but the continuous veil does not reach 45° above the horizon</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirrus lub Cirrostratus stopniowo pokrywają niebo, ale ciągła zasłona nie sięga 45° nad horyzontem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="629"/>
         <source>Cirrus or Cirrostratus progressively invading the sky, the continuous veil extends more than 45° above the horizon, without the sky being totally covered</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirrus lub Cirrostratus stopniowo pokrywają niebo, ciągła zasłona rozciąga się ponad 45 ° nad horyzontem, bez całkowitego zakrycia nieba</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="632"/>
         <source>Cirrostratus nebulosus or Cirrostratus fibratus covering the whole sky</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirrostratus nebulosus lub Cirrostratus fibratus pokrywające całe niebo</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="635"/>
         <source>Cirrostratus that is not invading the sky and that does not completely cover the whole sky</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirrostratus, który nie pokrywa nieba i nie pokrywa całego nieba</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="638"/>
         <source>Cirrocumulus alone</source>
-        <translation type="unfinished"></translation>
+        <translation>Pojedynczy Cirrocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="641"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="718"/>
         <source>Clouds are not observable</source>
-        <translation type="unfinished"></translation>
+        <translation>Chmury nie są widoczne</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="650"/>
         <source>No low layer clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak chmur niskowarstwowych</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="653"/>
         <source>Cumulus humilis or Cumulus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumulus humilis lub Cumulus fractus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="656"/>
         <source>Cumulus clouds with moderate or significant vertical extent</source>
-        <translation type="unfinished"></translation>
+        <translation>Chmury cumulusowe o umiarkowanym lub znacznym zasięgu pionowym</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="659"/>
         <source>Cumulonimbus calvus</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumulonimbus calvus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="662"/>
         <source>Stratocumulus cumulogenitus</source>
-        <translation type="unfinished"></translation>
+        <translation>Stratocumulus cumulogenitus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="665"/>
         <source>Stratocumulus non-cumulogenitus</source>
-        <translation type="unfinished"></translation>
+        <translation>Stratocumulus nie-cumulogenitus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="668"/>
         <source>Stratus nebulosus or Stratus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation>Stratus nebulosus lub Stratus fractus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="671"/>
         <source>Stratus fractus or Cumulus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation>Stratus fractus lub Cumulus fractus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="674"/>
         <source>Cumulus and Stratocumulus with bases at different levels</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumulus i Stratocumulus z bazami na różnych poziomach</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="680"/>
         <source>Clouds are not observable due to fog, blowing dust or sand, or other similar phenomena</source>
-        <translation type="unfinished"></translation>
+        <translation>Chmury nie są widoczne z powodu mgły, nadmuchiwanego pyłu lub piasku lub innych podobnych zjawisk</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="688"/>
         <source>No mid-layer clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak chmur w warstwie pośredniej</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="691"/>
         <source>Altostratus translucidus</source>
-        <translation type="unfinished"></translation>
+        <translation>Altostratus translucidus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="694"/>
         <source>Altostratus opacus or Nimbostratus</source>
-        <translation type="unfinished"></translation>
+        <translation>Altostratus opacus lub Nimbostratus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="697"/>
         <source>Altocumulus translucidus at a single level</source>
-        <translation type="unfinished"></translation>
+        <translation>Altocumulus translucidus na jednym poziomie</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="700"/>
         <source>Patches of Altocumulus translucidus</source>
-        <translation type="unfinished"></translation>
+        <translation>Łaty Altocumulus translucidus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="703"/>
         <source>Altocumulus translucidus in bands</source>
-        <translation type="unfinished"></translation>
+        <translation>Altocumulus translucidus w pasmach</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="706"/>
         <source>Altocumulus cumulogenitus or Altocumulus cumulonimbogenitus</source>
-        <translation type="unfinished"></translation>
+        <translation>Altocumulus cumulogenitus lub Altocumulus cumulonimbogenitus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="709"/>
         <source>Altocumulus duplicatus, or Altocumulus opacus in a single layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Altocumulus duplicatus lub Altocumulus opacus w jednej warstwie</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="712"/>
         <source>Altocumulus castellanus or Altocumulus floccus</source>
-        <translation type="unfinished"></translation>
+        <translation>Altocumulus castellanus lub Altocumulus floccus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="715"/>
         <source>Broken cloud sheets of ill-defined species or varieties</source>
-        <translation type="unfinished"></translation>
+        <translation>Pęknięte płaty chmur źle zdefiniowanych gatunków lub odmian</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="874"/>
         <source>statute miles</source>
-        <translation type="unfinished"></translation>
+        <translation>mile ustawowe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="885"/>
         <source>Trace icing or no icing</source>
-        <translation type="unfinished"></translation>
+        <translation>Ślad oblodzenia lub brak oblodzenia</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="888"/>
         <source>Light mixed icing</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblodzenie z przebłyskami światła</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="891"/>
         <source>Light rime icing in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Lekkie oblodzenie/szadź w chmurze</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="894"/>
         <source>Light clear icing in precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Lekkie, wyraźne oblodzenie podczas opadów</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="897"/>
         <source>Moderate mixed icing</source>
-        <translation type="unfinished"></translation>
+        <translation>Umiarkowane oblodzenie mieszane</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="900"/>
         <source>Moderate rime icing in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Umiarkowane oblodzenie/szadź w chmurze</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="903"/>
         <source>Moderate clear icing in precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Umiarkowane czyste oblodzenie w opadach</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="906"/>
         <source>Severe mixed icing</source>
-        <translation type="unfinished"></translation>
+        <translation>Silne oblodzenie mieszane</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="909"/>
         <source>Severe rime icing in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Poważne oblodzenie szronu w chmurze</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="912"/>
         <source>Severe clear icing in precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Silne wyraźne oblodzenie w opadach</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="915"/>
         <source>No turbulence</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak turbulencji</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="918"/>
         <source>Light turbulence</source>
-        <translation type="unfinished"></translation>
+        <translation>Lekkie turbulencje</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="921"/>
         <source>Occasional moderate turbulence in clear air</source>
-        <translation type="unfinished"></translation>
+        <translation>Sporadyczne umiarkowane turbulencje w czystym powietrzu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="924"/>
         <source>Frequent moderate turbulence in clear air</source>
-        <translation type="unfinished"></translation>
+        <translation>Częste umiarkowane turbulencje w czystym powietrzu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="927"/>
         <source>Occasional moderate turbulence in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Sporadyczne umiarkowane turbulencje w chmurze</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="930"/>
         <source>Frequent moderate turbulence in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Częste umiarkowane turbulencje w chmurze</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="933"/>
         <source>Occasional severe turbulence in clear air</source>
-        <translation type="unfinished"></translation>
+        <translation>Sporadyczne silne turbulencje w czystym powietrzu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="936"/>
         <source>Frequent severe turbulence in clear air</source>
-        <translation type="unfinished"></translation>
+        <translation>Częste silne turbulencje w czystym powietrzu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="939"/>
         <source>Occasional severe turbulence in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Sporadyczne silne turbulencje w chmurach</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="942"/>
         <source>Frequent severe turbulence in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Częste silne turbulencje w chmurach</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="945"/>
         <source>Extreme turbulence</source>
-        <translation type="unfinished"></translation>
+        <translation>Ekstremalne turbulencje</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="956"/>
         <source>higher than</source>
-        <translation type="unfinished"></translation>
+        <translation>wyżej niż</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="959"/>
         <source>higher or the same as</source>
-        <translation type="unfinished"></translation>
+        <translation>wyżej lub tak samo jak</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="962"/>
         <source>same as</source>
-        <translation type="unfinished"></translation>
+        <translation>tak samo jak</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="965"/>
         <source>lower or the same as</source>
-        <translation type="unfinished"></translation>
+        <translation>niżej lub tak samo jak</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="968"/>
         <source>lower than</source>
-        <translation type="unfinished"></translation>
+        <translation>niżej niż</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="976"/>
         <source>increasing, then decreasing</source>
-        <translation type="unfinished"></translation>
+        <translation>rosnące, a następnie malejące</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="979"/>
         <source>increasing more slowly</source>
-        <translation type="unfinished"></translation>
+        <translation>rosnące wolniej</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="982"/>
         <source>increasing</source>
-        <translation type="unfinished"></translation>
+        <translation>rosnące</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="985"/>
         <source>increasing more rapidly</source>
-        <translation type="unfinished"></translation>
+        <translation>rosnące szybciej</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="988"/>
         <source>steady</source>
-        <translation type="unfinished"></translation>
+        <translation>stałe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="991"/>
         <source>decreasing, then increasing</source>
-        <translation type="unfinished"></translation>
+        <translation>malejące, potem rosnące</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="994"/>
         <source>decreasing more slowly</source>
-        <translation type="unfinished"></translation>
+        <translation>malejące wolniej</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="997"/>
         <source>decreasing</source>
-        <translation type="unfinished"></translation>
+        <translation>malejące</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1000"/>
         <source>decreasing more rapidly</source>
-        <translation type="unfinished"></translation>
+        <translation>malejące szybciej</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1006"/>
         <source>rising rapidly</source>
-        <translation type="unfinished"></translation>
+        <translation>rosnące szybko</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1009"/>
         <source>falling rapidly</source>
-        <translation type="unfinished"></translation>
+        <translation>opadające szybko</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1017"/>
         <source>Probability 30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Prawdopodobieństwo 30%</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1020"/>
         <source>Probability 40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Prawdopodobieństwo 40%</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1034"/>
         <source>clear and dry</source>
-        <translation type="unfinished"></translation>
+        <translation>czysto i sucho</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1037"/>
         <source>damp</source>
-        <translation type="unfinished"></translation>
+        <translation>wilgoć</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1040"/>
         <source>wet and water patches</source>
-        <translation type="unfinished"></translation>
+        <translation>mokre i wodne plamy</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1043"/>
         <source>rime and frost covered</source>
-        <translation type="unfinished"></translation>
+        <translation>szron i pokryte szronem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1046"/>
         <source>dry snow</source>
-        <translation type="unfinished"></translation>
+        <translation>suchy śnieg</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1049"/>
         <source>wet snow</source>
-        <translation type="unfinished"></translation>
+        <translation>mokry śnieg</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1052"/>
         <source>slush</source>
-        <translation type="unfinished"></translation>
+        <translation>breja</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1055"/>
         <source>ice</source>
-        <translation type="unfinished"></translation>
+        <translation>lód</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1058"/>
         <source>compacted or rolled snow</source>
-        <translation type="unfinished"></translation>
+        <translation>ubity lub walcowany śnieg</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1061"/>
         <source>frozen ruts or ridges</source>
-        <translation type="unfinished"></translation>
+        <translation>zamarznięte koleiny lub grzbiety</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1078"/>
         <source>none</source>
-        <translation type="unfinished"></translation>
+        <translation>brak</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1116"/>
         <source>recent precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>ostatnie opady</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1119"/>
         <source>precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>opady w okolicy</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1129"/>
         <source>thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>burza z opadami atmosferycznymi</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1132"/>
         <source>recent thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawna burza z piorunami i opadami atmosferycznymi</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1135"/>
         <source>thunderstorm with precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>burza z piorunami i opadami atmosferycznymi w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1138"/>
         <source>light thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>lekka burza z opadem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1141"/>
         <source>moderate thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowana burza z opadem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1144"/>
         <source>heavy thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>silna burza z opadami atmosferycznymi</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1157"/>
         <source>recent drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawna mżawka</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1160"/>
         <source>drizzle in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>mżawka w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1179"/>
         <source>freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>marznąca mżawka</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1182"/>
         <source>freezing drizzle in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>w pobliżu marznąca mżawka</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1185"/>
         <source>light freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>lekka marznąca mżawka</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1188"/>
         <source>moderate freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowana marznąca mżawka</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1191"/>
         <source>heavy freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>silna marznąca mżawka</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1194"/>
         <source>recent freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawna marznąca mżawka</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1207"/>
         <source>blowing dust in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>podmuchy pyłu w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1219"/>
         <source>recent blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawne podmuchy kurzu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1253"/>
         <source>hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation>gradobicie, przelotne opady deszczu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1256"/>
         <source>hail showers in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>gradobicie, przelotne opady w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1259"/>
         <source>light hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation>lekkie przelotne opady gradu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1262"/>
         <source>moderate hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowane przelotne opady gradu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1265"/>
         <source>heavy hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation>ulewny grad</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1268"/>
         <source>recent hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation>ostatnie przelotne gradobicia</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1278"/>
         <source>thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation>burza z gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1284"/>
         <source>light thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation>lekka burza z gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1287"/>
         <source>moderate thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowana burza z gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1290"/>
         <source>heavy thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężka burza z gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1293"/>
         <source>recent thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawna burza z gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1303"/>
         <source>ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>wytrącanie się granulek lodu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1306"/>
         <source>ice pellet precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>wytrącanie się grudek lodu w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1309"/>
         <source>light ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>niewielkie opady granulatu lodu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1312"/>
         <source>moderate ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowane opady granulatu lodu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1315"/>
         <source>heavy ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>obfite opady granulek lodu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1318"/>
         <source>recent ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawne wytrącanie się grudek lodu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1331"/>
         <source>rain in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>deszcz w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1343"/>
         <source>recent rain</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawny deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1353"/>
         <source>freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation>marznący deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1356"/>
         <source>light freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation>lekki marznący deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1359"/>
         <source>moderate freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowany marznący deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1362"/>
         <source>heavy freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation>ulewny marznący deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1365"/>
         <source>recent freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawny marznący deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1368"/>
         <source>freezing rain in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>marznący deszcz w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1378"/>
         <source>rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation>przelotne opady deszczu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1381"/>
         <source>rain showers in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>przelotne opady deszczu w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1403"/>
         <source>thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation>burza z piorunami i deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1406"/>
         <source>thunderstorm with rain in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>burza z piorunami i deszcz w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1409"/>
         <source>light thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation>lekka burza z piorunami i deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1412"/>
         <source>moderate thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowana burza z piorunami i deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1415"/>
         <source>heavy thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation>ulewna burza z deszczem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1418"/>
         <source>recent thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawna burza z piorunami i deszcz</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1431"/>
         <source>blowing sand in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>podmuchy piasku w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1434"/>
         <source>light blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>lekkie podmuchy piasku</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1437"/>
         <source>moderate blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowane podmuchy piasku</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1440"/>
         <source>heavy blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężkie podmuchy piasku</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1443"/>
         <source>recent blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawne podmuchy piasku</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1453"/>
         <source>snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>opady śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1456"/>
         <source>snowfall in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>opady śniegu w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1468"/>
         <source>recent snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawne opady śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1481"/>
         <source>blowing snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>podmuchy śniegu w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1484"/>
         <source>light blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>lekkie podmuchy śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1487"/>
         <source>moderate blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowane podmuchy śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1490"/>
         <source>heavy blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężkie podmuchy śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1493"/>
         <source>recent blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawne podmuchy śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1503"/>
         <source>snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>opady ziarnistego śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1506"/>
         <source>snow grain precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>opady ziarnistego śniegu w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1509"/>
         <source>light snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>lekkie opady ziarnistego śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1512"/>
         <source>moderate snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowane opady ziarnistego śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1515"/>
         <source>heavy snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężkie opady ziarnistego śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1518"/>
         <source>recent snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawne opady ziarnistego śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1559"/>
         <source>light snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>lekkie opady śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1562"/>
         <source>moderate snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowane opady śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1565"/>
         <source>heavy snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężkie opady śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1568"/>
         <source>recent snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawne opady śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1578"/>
         <source>shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>opady deszczu z małym gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1581"/>
         <source>shower with small hail in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>opady deszczu z małym gradem w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1584"/>
         <source>light shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>lekkie opady deszczu z małym gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1587"/>
         <source>moderate shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowane opady deszczu z małym gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1590"/>
         <source>heavy shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężkie opady deszczu z małym gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1593"/>
         <source>recent shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawne opady deszczu z małym gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1603"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="1606"/>
         <source>thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>burza z niewielkim gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1609"/>
         <source>light thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>lekka burza z niewielkim gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1612"/>
         <source>moderate thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowana burza z niewielkim gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1615"/>
         <source>heavy thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężka burza z niewielkim gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1618"/>
         <source>recent thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawna burza z niewielkim gradem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1637"/>
         <source>calm (glassy), no waves</source>
-        <translation type="unfinished"></translation>
+        <translation>spokojnie (lustrzanie), bez fal</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1640"/>
         <source>calm (rippled), wave height &lt;0.1 meters</source>
-        <translation type="unfinished"></translation>
+        <translation>spokojnie (krople), wysokość fal &lt;0,1 metra</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1643"/>
         <source>smooth, wave height 0.1 to 0.5 meters</source>
-        <translation type="unfinished"></translation>
+        <translation>gładko, wysokość fali od 0,1 do 0,5 metra</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1646"/>
         <source>slight, wave height 0.5 to 1.25 meters</source>
-        <translation type="unfinished"></translation>
+        <translation>lekko, wysokość fali 0,5 do 1,25 metra</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1649"/>
         <source>moderate, wave height 1.25 to 2.5 meters</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowane, wysokość fali 1,25 do 2,5 metra</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1652"/>
         <source>rough, wave height 2.5 to 4 meters</source>
-        <translation type="unfinished"></translation>
+        <translation>burzliwo, wysokość fali 2,5 do 4 metrów</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1655"/>
         <source>very rough, wave height 4 to 6 meters</source>
-        <translation type="unfinished"></translation>
+        <translation>bardzo burzliwo, wysokość fali od 4 do 6 metrów</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1658"/>
         <source>high, wave height 6 to 9 meters</source>
-        <translation type="unfinished"></translation>
+        <translation>wysokie, wysokość fali od 6 do 9 metrów</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1661"/>
         <source>very high, wave height 9 to 14 meters</source>
-        <translation type="unfinished"></translation>
+        <translation>bardzo wysoko, wysokość fali od 9 do 14 metrów</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1664"/>
         <source>phenomenal, wave height &gt;14 meters</source>
-        <translation type="unfinished"></translation>
+        <translation>zjawiskowo, wysokość fali&gt; 14 metrów</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1680"/>
         <source>upward</source>
         <extracomment>visibility trend</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>rosnący</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1684"/>
         <source>neutral</source>
         <extracomment>visibility trend</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>neutralny</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1688"/>
         <source>downward</source>
         <extracomment>visibility trend</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>malejący</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1828"/>
@@ -3910,973 +4253,973 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <location filename="../../../src/Weather_Decoder.cpp" line="2715"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="2759"/>
         <source>Invalid data</source>
-        <translation type="unfinished"></translation>
+        <translation>Niepoprawne dane</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1839"/>
         <source>%1 (%2) in %3 AGL</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (%2) w %3 AGL</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1843"/>
         <source>%1 in %2 AGL</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 w %2 AGL</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1848"/>
         <source>Sky obscured, vertical visibility is %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Niebo zasłonięte, widoczność pionowa wynosi %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1853"/>
         <source>Ceiling height %1 AGL at %2 towards %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość sklepienia %1 AGL przy %2 w kierunku %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1858"/>
         <source>Ceiling height %1 AGL at %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość sklepienia %1 AGL na %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1862"/>
         <source>Ceiling height %1 AGL towards %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość sklepienia %1 AGL w kierunku %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1865"/>
         <source>Ceiling height %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość sklepienia %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1870"/>
         <source>Ceiling height %1 -- %2 AGL at %3 towards %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość sklepienia %1 -- %2 AGL na %3 w kierunku %4</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1876"/>
         <source>Ceiling height %1 -- %2 AGL at %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość sklepienia %1 -- %2 AGL na %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1881"/>
         <source>Ceiling height %1 -- %2 AGL towards %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokosć sklepienia %1 -- %2 AGL na %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1885"/>
         <source>Ceiling height %1 -- %2 AGL</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość sklepienia %1 -- %2 AGL</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1890"/>
         <source>Ceiling data not awailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych dotyczących pułapu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1893"/>
         <source>Sky condition data (cloud data) is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych o stanie nieba (dane dotyczące chmur)</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1899"/>
         <source>Ground-based obscuration, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaciemnienie naziemne, %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1901"/>
         <source>Ground-based obscuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaciemnienie naziemne</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1903"/>
         <source>Aloft obscuration, %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaciemnienie lotne, %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1905"/>
         <source>Aloft obscuration</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaciemnienie lotne</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1920"/>
         <source>Cloud layers: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Warstwa chmur: %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1930"/>
         <source>Report type: METAR</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ raportu: METAR</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1933"/>
         <source>Report type: unscheduled METAR</source>
-        <translation type="unfinished"></translation>
+        <translation>Rodzaj raportu: nieplanowany METAR</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1936"/>
         <source>Report type: TAF</source>
-        <translation type="unfinished"></translation>
+        <translation>Typ raportu: TAF</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1939"/>
         <source>Amended report</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmieniony raport</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1942"/>
         <source>Missing report</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak raportu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1945"/>
         <source>Cancelled report</source>
-        <translation type="unfinished"></translation>
+        <translation>Anulowano raport</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1948"/>
         <source>Correctional report</source>
-        <translation type="unfinished"></translation>
+        <translation>Raport korygujący</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1951"/>
         <source>Automated report</source>
-        <translation type="unfinished"></translation>
+        <translation>Raport automatyczny</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1954"/>
         <source>CAVOK</source>
-        <translation type="unfinished"></translation>
+        <translation>CAVOK</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1957"/>
         <source>&lt;strong&gt;Remarks&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Uwagi&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1960"/>
         <source>Automated station requires maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation>Stacja automatyczna wymaga konserwacji</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1963"/>
         <source>Automated station w/o precipitation discriminator</source>
-        <translation type="unfinished"></translation>
+        <translation>Stacja automatyczna bez dyskryminatora opadów</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1966"/>
         <source>Automated station with precipitation discriminator</source>
-        <translation type="unfinished"></translation>
+        <translation>Stacja automatyczna z dyskryminatorem opadów</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1969"/>
         <source>Automated station w/o precipitation discriminator, report augmented by a human observer</source>
-        <translation type="unfinished"></translation>
+        <translation>Stacja automatyczna bez dyskryminatora opadów, raport uzupełniony przez obserwatora</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1972"/>
         <source>Automated station with precipitation discriminator, report augmented by a human observer</source>
-        <translation type="unfinished"></translation>
+        <translation>Stacja automatyczna z dyskryminatorem opadów, raport wzbogacony przez obserwatora</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1975"/>
         <source>Manual station, does not issue SPECI reports</source>
-        <translation type="unfinished"></translation>
+        <translation>Stacja ręczna, nie wydaje raportów SPECI</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1986"/>
         <source>%1 at all heights</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 na wszystkich wysokościach</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2001"/>
         <source>Lightning strikes observed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaobserwowano uderzenia pioruna.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2004"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="2591"/>
         <source>Distance %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odległość %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2011"/>
         <source>Less than 1 strike per minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mniej niż 1 uderzenie na minutę.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2015"/>
         <source>1 -- 6 strikes per minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>1 -- 6 uderzeń na minutę.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2019"/>
         <source>More than 6 strikes per minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ponad 6 uderzeń na minutę.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2026"/>
         <source>cloud-to-ground</source>
-        <translation type="unfinished"></translation>
+        <translation>chmury-ziemia</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2028"/>
         <source>in-cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>w-chmurach</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2030"/>
         <source>cloud-to-cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>chmura-do-chmura</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2032"/>
         <source>cloud-to-air without strike to ground</source>
-        <translation type="unfinished"></translation>
+        <translation>chmura-do-powietrza bez uderzenia w ziemię</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2034"/>
         <source>Lightning types: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Typy błyskawic: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2038"/>
         <source>Lightning strike types not recognised by parser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Typy uderzeń pioruna nie są rozpoznawane przez parser.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2045"/>
         <source>Lightning strikes observed in the following directions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uderzenia piorunów zaobserwowano w następujących kierunkach: %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2055"/>
         <source>Report for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Raport dla %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2077"/>
         <source>Observed 6-hourly minimum/maximum temperature: %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Obserwowana co 6 godzin minimalna/maksymalna temperatura: %1/%2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2082"/>
         <source>Observed 24-hourly minimum/maximum temperature: %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Obserwowana 24-godzinna minimalna/maksymalna temperatura: %1/%2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2088"/>
         <source>Minimum forecast temperature: %1, expected at %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimalna przewidywana temperatura: %1, oczekiwana w %2.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2092"/>
         <source>Maximum forecast temperature: %1, expected at %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Maksymalna przewidywana temperatura: %1, oczekiwana w %2.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2105"/>
         <source>Colour code BLACK: aerodrome closed due to snow accumulation or non-weather reasons</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod kolorystyczny CZARNY: lotnisko zamknięte z powodu zalegającego śniegu lub z przyczyn innych niż pogodowe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2111"/>
         <source>Duration of sunshine that occurred the previous calendar day is %1 minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas trwania nasłonecznienia, które wystąpiło poprzedniego dnia kalendarzowego, wynosi %1 minut.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2112"/>
         <source>No sunshine occurred the previous calendar day</source>
-        <translation type="unfinished"></translation>
+        <translation>W poprzednim dniu kalendarzowym nie było nasłonecznienia</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2115"/>
         <source>This report is the corrected weather observation, correction number is %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten raport jest poprawioną obserwacją pogody, numer korekty to %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2120"/>
         <source>Density altitude is %1 feet</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość gęstnienia to %1 stóp</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2123"/>
         <source>Largest hailstone size is %1 inches</source>
-        <translation type="unfinished"></translation>
+        <translation>Największy rozmiar gradobicia to %1 cali</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2130"/>
         <source>Colour code BLUE: visibility &gt;8000 m and lowest cloud base height &gt;2500 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod koloru NIEBIESKI: widzialność &gt;8000 m i najniższa wysokość podstawy chmur &gt;2500 stóp</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2138"/>
         <source>Colour code BLUE+: visibility &gt;8000 m or lowest cloud base height &gt;2000 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod koloru NIEBIESKI+: widzialność &gt;8000 m lub najniższa wysokość podstawy chmur &gt;2000 stóp</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2146"/>
         <source>Colour code YELLOW: visibility 1600-3700 m or lowest cloud base height 300-700 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Kolor ŻÓŁTY: widzialność 1600-3700 m lub najniższa wysokość podstawy chmur 300-700 stóp</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2154"/>
         <source>Colour code WHITE: visibility &gt;5000 m and lowest cloud base height &gt;1500 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod barwny BIAŁY: widzialność &gt;5000 m i najniższa wysokość podstawy chmur &gt;1500 stóp</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2162"/>
         <source>Colour code GREEN: visibility &gt;3700 m and lowest cloud base height &gt;700 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod barwny ZIELONY: widzialność &gt;3700 m i najniższa wysokość podstawy chmur &gt;700 stóp</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2170"/>
         <source>Colour code YELLOW 1: visibility &gt;2500 m and lowest cloud base height &gt;500 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod barwny ŻÓŁTY 1: widzialność &gt;2500 m i najniższa wysokość podstawy chmur &gt;500 stóp</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2178"/>
         <source>Colour code YELLOW 2: visibility &gt;1600 m and lowest cloud base height &gt;300 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod barwny ŻÓŁTY 2: widzialność &gt;1600 m i najniższa wysokość podstawy chmur &gt;300 stóp</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2186"/>
         <source>Colour code AMBER: visibility &gt;800 m and lowest cloud base height &gt;200 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod barwny BURSZTYNOWY: widzialność &gt;800 m i najniższa wysokość podstawy chmur &gt;200 stóp</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2198"/>
         <source>Frost on the instrument (e.g. due to freezing fog depositing rime).</source>
-        <translation type="unfinished"></translation>
+        <translation>Szron na instrumencie (np. w wyniku osadzania się szronu z marznącej mgły).</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2201"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center Norfolk, VA.</source>
-        <translation type="unfinished"></translation>
+        <translation>Identyfikator wydawcy raportu to %1. Ta prognoza jest publikowana w The Fleet Weather Center Norfolk, VA.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2204"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center San Diego, CA (FS).</source>
-        <translation type="unfinished"></translation>
+        <translation>Identyfikator wydawcy raportu to %1. Ta prognoza jest publikowana w The Fleet Weather Center San Diego, CA (FS).</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2216"/>
         <source>Total precipitation for the past hour: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Całkowite opady z ostatniej godziny: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2220"/>
         <source>Snow depth on ground: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Grubość śniegu na ziemi: %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2224"/>
         <source>Water equivalent of frozen precipitation for the last 3 or 6 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Równoważnik wodny zamarzniętego opadu z ostatnich 3 lub 6 godzin: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2228"/>
         <source>Water equivalent of frozen precipitation for the last 3 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Równoważnik wodny zamarzniętych opadów z ostatnich 3 godzin: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2232"/>
         <source>Water equivalent of frozen precipitation for the last 6 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Równoważnik wodny zamarzniętego opadu z ostatnich 6 godzin: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2236"/>
         <source>Water equivalent of frozen precipitation for the last 24 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Równoważnik wodny zamarzniętego opadu z ostatnich 24 godzin: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2240"/>
         <source>Snowfall for the last 6 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opady śniegu z ostatnich 6 godzin: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2244"/>
         <source>Water equivalent of snow on ground: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Równoważnik wody śniegu na ziemi: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2248"/>
         <source>Ice accretion for the last hour: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagromadzenie lodu w ciągu ostatniej godziny: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2252"/>
         <source>Ice accretion for the last 3 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagromadzenie lodu w ciągu ostatnich 3 godzin: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2256"/>
         <source>Ice accretion for the last 6 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nagromadzenie lodu w ciągu ostatnich 6 godzin:%1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2260"/>
         <source>Precipitation accumulation since last report: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kumulacja opadów od ostatniego raportu: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2264"/>
         <source>Snow increasing rapidly. For the last hour snow increased by %1. Total snowfall: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Śnieg szybko rośnie. Przez ostatnią godzinę śnieg wzrósł o %1. Całkowity opad śniegu: %2.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2269"/>
         <source>Rainfall for the last 10 minutes before report release time: %1. Rainfall since 9:00 local time: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Opady deszczu z ostatnich 10 minut przed publikacją raportu: %1. Opady deszczu od 9:00 czasu lokalnego: %2.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2274"/>
         <source>Tipping bucket rain gauge INOP.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wskaźnik opadu przelany INOP.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2277"/>
         <source>Freezing rain sensor INOP.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamarznięty czujnik desczu INOP.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2280"/>
         <source>Icing data is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych dotyczących oblodzenia.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2283"/>
         <source>Precipitation data is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych dotyczących opadów.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2296"/>
         <source>QNH: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>QNH: %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2299"/>
         <source>Forecast lowest QNH: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Prognoza najniższego QNH: %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2303"/>
         <source>QFE: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>QFE: %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2307"/>
         <source>Standard sea level pressure: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Standardowe ciśnienie na poziomie morza: %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2311"/>
         <source>QNH is not available</source>
-        <translation type="unfinished"></translation>
+        <translation>QNH nie jest dostępne</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2315"/>
         <source>Atmospheric pressure data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych dotyczących ciśnienia atmosferycznego</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2327"/>
         <source>3-hour pressure tendency is not reported. Absolute pressure change is %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie odnotowano tendencji 3-godzinnego ciśnienia. Bezwzględna zmiana ciśnienia wynosi %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2332"/>
         <source>Atmospheric pressure is %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciśnienie atmosferyczne wynosi %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2337"/>
         <source>During last 3 hours the atmospheric pressure was %1. Now the atmospheric pressure is %2 3h ago. Absolute pressure change is %3</source>
         <extracomment>Note: the string %2 will be replaced by a text such as &quot;less than&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>W ciągu ostatnich 3 godzin ciśnienie atmosferyczne wynosiło %1. Teraz ciśnienie atmosferyczne wynosi %2 3 godziny temu. Bezwzględna zmiana ciśnienia wynosi %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2349"/>
         <source>Issued at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wydane w %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2357"/>
         <source>State of %1:</source>
-        <translation type="unfinished"></translation>
+        <translation>Stan na %1:</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2363"/>
         <source>%1 of deposits, %2 of runway contaminated</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 osadów, %2 zanieczyszczonej drogi startowej</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2369"/>
         <source>deposits on runway were cleared or ceased to exist</source>
-        <translation type="unfinished"></translation>
+        <translation>osady na pasie startowym zostały usunięte lub przestały istnieć</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2374"/>
         <source>runway closed due to snow accumulation</source>
-        <translation type="unfinished"></translation>
+        <translation>pas startowy zamknięty z powodu nagromadzenia śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2378"/>
         <source>Aerodrome closed due to snow accumulation</source>
-        <translation type="unfinished"></translation>
+        <translation>Lotnisko zamknięte z powodu zalegającego śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2381"/>
         <source>runway is not operational</source>
-        <translation type="unfinished"></translation>
+        <translation>pas startowy nie działa</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2391"/>
         <source>Sea surface temperature: %1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatura powierzchni morza: %1, %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2406"/>
         <source>Temperature %1, Dew point %2, Humidity %3%</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatura %1, punkt rosy %2, wilgotność %3%</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2409"/>
         <source>Temperature %1, Dew point %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatura %1, punkt rosy %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2434"/>
         <source>No significant weather changes expected</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie przewiduje się żadnych znaczących zmian pogody</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2437"/>
         <source>Gradually changing</source>
-        <translation type="unfinished"></translation>
+        <translation>Stopniowo się zmienia</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2439"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="2450"/>
         <source>from %1</source>
-        <translation type="unfinished"></translation>
+        <translation>od %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2441"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="2452"/>
         <source>until %1</source>
-        <translation type="unfinished"></translation>
+        <translation>aż do %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2443"/>
         <location filename="../../../src/Weather_Decoder.cpp" line="2454"/>
         <source>at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>na %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2448"/>
         <source>Temporarily</source>
-        <translation type="unfinished"></translation>
+        <translation>Tymczasowo</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2460"/>
         <source>Forecast: rapid weather change at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Prognoza: gwałtowna zmiana pogody o %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2465"/>
         <source>Forecast until %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Prognoza do %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2470"/>
         <source>Forecast for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Prognoza dla %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2476"/>
         <source>Forecast from %1 to %2 (%3)</source>
-        <translation type="unfinished"></translation>
+        <translation>Prognoza od %1 do %2 (%3)</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2481"/>
         <source>Forecast from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Prognoza od %1 do %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2487"/>
         <source>Forecast %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Prognoza %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2498"/>
         <source>Not recognised by parser: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie rozpoznane przez parser: %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2510"/>
         <source>Thunderstorm</source>
-        <translation type="unfinished"></translation>
+        <translation>Burza z piorunami</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2514"/>
         <source>Cumulonimbus cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chmury Cumulonimbus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2518"/>
         <source>Cumulonimbus cloud(s) with mammatus</source>
-        <translation type="unfinished"></translation>
+        <translation>Chmura (-y) Cumulonimbus z mammatus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2522"/>
         <source>Towering cumulus cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokie chmury cumulusów</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2526"/>
         <source>Altocumulus cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chmura (-y) Altocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2530"/>
         <source>Stratocumulus standing lenticular cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Stojąca chmura soczewkowata Stratocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2534"/>
         <source>Altocumulus standing lenticular cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Stojąca chmura soczewkowata Altocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2538"/>
         <source>Cirrocumulus standing lenticular cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Stojąca chmura soczewkowata Cirrocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2542"/>
         <source>Rotor cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation>Chmura (-y) wirujące</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2546"/>
         <source>Virga</source>
-        <translation type="unfinished"></translation>
+        <translation>Virga</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2550"/>
         <source>Precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Opad atmosferyczny</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2554"/>
         <source>Fog</source>
-        <translation type="unfinished"></translation>
+        <translation>Mgła</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2558"/>
         <source>Shallow fog</source>
-        <translation type="unfinished"></translation>
+        <translation>Lekka mgła</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2562"/>
         <source>Patches of fog</source>
-        <translation type="unfinished"></translation>
+        <translation>Łaty mgły</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2566"/>
         <source>Haze</source>
-        <translation type="unfinished"></translation>
+        <translation>Mgła</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2570"/>
         <source>Smoke</source>
-        <translation type="unfinished"></translation>
+        <translation>Dym</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2574"/>
         <source>Blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>Podmuchy śniegu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2578"/>
         <source>Blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>Podmuchy piasku</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2582"/>
         <source>Blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation>Podmuchy pyłu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2588"/>
         <source>%1 observed.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 obserwowane.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2593"/>
         <source>Directions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kierunki: %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2596"/>
         <source>Moving towards %1.</source>
         <extracomment>%1 is string like &apos;west&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>Kierunek %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2608"/>
         <source>Visibility is %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Widocznosć jest %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2612"/>
         <source>Visibility is %1. Station cannot differentiate the directional variation of visibility</source>
-        <translation type="unfinished"></translation>
+        <translation>Widoczność to %1. Stacja nie może różnicować kierunkowej zmiany widzialności</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2616"/>
         <source>Visibility toward %1 is %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Widoczność w kierunku %1 jest %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2621"/>
         <source>Visibility for %1 is %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Widoczność dla %1 jest %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2629"/>
         <source>Runway visual range for %1 is %2 and the trend is %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Zasięg widzenia wzdłuż drogi startowej dla %1 to %2, a trend to %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2633"/>
         <source>Runway visual range for %1 is %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Zasięg widzenia pasa startowego dla %1 to %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2638"/>
         <source>Visibility at surface level is %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Widoczność na poziomie powierzchni wynosi %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2642"/>
         <source>Visibility from air traffic control tower is %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Widoczność z wieży kontroli lotów %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2646"/>
         <source>Sector visibility is %1 in the following directions %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Widoczność sektora wynosi %1 w następujących kierunkach %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2651"/>
         <source>Visibility is variable from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Widoczność jest zmienna od %1 do %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2656"/>
         <source>Directional visibility toward %1 is variable from %2 to %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Widoczność kierunkowa w kierunku %1 jest zmienna od %2 do %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2662"/>
         <source>Visibility for %1 is variable from %2 to %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Widoczność dla %1 jest zmienna od %2 do %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2669"/>
         <source>Runway visual range for %1 is variable from %2 to %3 and the trend is %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakres widoczności pasa startowego dla %1 jest zmienny od %2 do %3, a trend to %4</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2674"/>
         <source>Runway visual range for %1 is variable from %2 to %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Zakres widoczności pasa startowego dla %1 jest zmienny od %2 do %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2680"/>
         <source>Sector visibility is variable from %1 to %2 in the following directions: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Widoczność sektora jest zmienna od %1 do %2 w następujących kierunkach: %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2686"/>
         <source>Visibility data missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych dotyczących widoczności</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2689"/>
         <source>Runway visual range data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych o widzialności wzdłuż drogi startowej</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2692"/>
         <source>Runway visual range should be reported but is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Zasięg widzenia wzdłuż drogi startowej powinien być raportowany, ale go nie ma</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2698"/>
         <source>Visibility data not available for %1 in the direction of %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane widoczności niedostępne dla %1 w kierunku %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2702"/>
         <source>Visibility data not available for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane widoczności nie są dostępne dla %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2705"/>
         <source>Visibility data not available in the direction of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane dotyczące widoczności nie są dostępne w kierunku %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2707"/>
         <source>Visibility data not awailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane dotyczące widoczności są niedostępne</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2732"/>
         <source>Recent weather: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostatnia pogoda: %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2735"/>
         <source>Precipitation beginning/ending time: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Czas rozpoczęcia/zakończenia opadów: %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2738"/>
         <source>No significant weather</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak znaczącej pogody</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2741"/>
         <source>Automated weather identifier INOP</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczny identyfikator pogody INOP</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2744"/>
         <source>Lightning detector INOP</source>
-        <translation type="unfinished"></translation>
+        <translation>Detektor piorunów INOP</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2747"/>
         <source>Weather phenomena data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych dotyczących zjawisk pogodowych</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2750"/>
         <source>Thunderstorm / lightning data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych dotyczących burzy / wyładowań atmosferycznych</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2763"/>
         <source>No wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak wiatru</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2767"/>
         <source>Wind direction %1, wind speed %2, gusts at %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Kierunek wiatru %1, prędkość wiatru %2, porywy %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2771"/>
         <source>Wind direction %1, wind speed %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Kierunek wiatru %1, prędkość wiatru %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2776"/>
         <source>Variable wind direction %1 -- %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmienny kierunek wiatru %1 - %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2782"/>
         <source>Wind direction %1 (%2 -- %3), wind speed %4, gusts at %5</source>
-        <translation type="unfinished"></translation>
+        <translation>Kierunek wiatru %1 (%2 -%3), prędkość wiatru %4, porywy %5</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2788"/>
         <source>Wind direction %1 (%2 -- %3), wind speed %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Kierunek wiatru %1 (%2 -- %3), prędkość wiatru %4</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2796"/>
         <source>Wind shear at %1 AGL, wind direction %2, wind speed %3, gusts at %4</source>
-        <translation type="unfinished"></translation>
+        <translation>Uskok wiatru przy %1 AGL, kierunek wiatru %2, prędkość wiatru %3, porywy przy %4</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2801"/>
         <source>Wind shear at %1 AGL, wind direction %2, wind speed %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Uskok wiatru przy %1 AGL, kierunek wiatru %2, prędkość wiatru %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2809"/>
         <source>Wind direction changed at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Kierunek wiatru zmienił się o %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2810"/>
         <source>Wind direction changed recently</source>
-        <translation type="unfinished"></translation>
+        <translation>Kierunek wiatru ostatnio się zmienił</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2814"/>
         <source>Wind direction changed at %1 because of weather front passage</source>
-        <translation type="unfinished"></translation>
+        <translation>Kierunek wiatru zmienił się o %1 z powodu przejścia frontu pogodowego</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2815"/>
         <source>Wind directed changed recently because of weather front passage</source>
-        <translation type="unfinished"></translation>
+        <translation>Kierunek wiatru zmienił się ostatnio z powodu przejścia frontu pogodowego</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2818"/>
         <source>Peak wind observed at %1, wind direction %2, wind speed %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Szczytowy wiatr obserwowany przy %1, kierunek wiatru %2, prędkość wiatru %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2825"/>
         <source>Wind shear between runway level and 1.600 ft at runway %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Uskok wiatru między poziomem drogi startowej a 1600 stóp na drodze startowej %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2826"/>
         <source>Wind shear between runway level and 1.600 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Uskok wiatru między poziomem drogi startowej a 1600 stóp na drodze startowej</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2829"/>
         <source>Potential wind shear</source>
-        <translation type="unfinished"></translation>
+        <translation>Potencjalne uskoki wiatru</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2832"/>
         <source>Wind data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych dot. wiatru</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2414"/>
         <source>Temperature data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych dot. temperatury</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1989"/>
         <source>%1 at heights from %2 to %3.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 na wysokości od %2 do %3.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2063"/>
         <source>Low cloud layer: %1 • Mid cloud layer: %2 • High cloud layer: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Niska warstwa chmur:%1 • Środkowa warstwa chmur:%2 • Wysoka warstwa chmur:%3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2194"/>
         <source>Colour code RED: visibility &lt;800 m or lowest cloud base height &lt;200 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Kod barwny CZERWONY: widzialność &lt;800 m lub najniższa wysokość podstawy chmur &lt;200 stóp</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2417"/>
         <source>Dew point data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych punktu rosy</translation>
     </message>
 </context>
 <context>
@@ -4884,23 +5227,23 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_DownloadManager.cpp" line="428"/>
         <source>QNH: %1 hPa in %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>QNH: %1 hPa w %2, %3</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_DownloadManager.cpp" line="342"/>
         <source>Waiting for precise position…</source>
-        <translation type="unfinished"></translation>
+        <translation>Oczekiwanie na dokładną pozycję...</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_DownloadManager.cpp" line="389"/>
         <location filename="../../../src/Weather_DownloadManager.cpp" line="392"/>
         <source>SR %1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>WSCH %1, %2</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_DownloadManager.cpp" line="391"/>
         <source>SS %1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>ZACH %1, %2</translation>
     </message>
 </context>
 <context>
@@ -4908,42 +5251,42 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_METAR.cpp" line="223"/>
         <source>VMC</source>
-        <translation type="unfinished"></translation>
+        <translation>VMC</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_METAR.cpp" line="221"/>
         <source>CAVOK</source>
-        <translation type="unfinished"></translation>
+        <translation>CAVOK</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_METAR.cpp" line="226"/>
         <source>marginal VMC</source>
-        <translation type="unfinished"></translation>
+        <translation>graniczne VMC</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_METAR.cpp" line="229"/>
         <source>IMC</source>
-        <translation type="unfinished"></translation>
+        <translation>IMC</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_METAR.cpp" line="232"/>
         <source>low IMC</source>
-        <translation type="unfinished"></translation>
+        <translation>niskie IMC</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_METAR.cpp" line="240"/>
         <source>gusts of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>podmuchy %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_METAR.cpp" line="242"/>
         <source>wind at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>wiatr na %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_METAR.cpp" line="252"/>
         <source>%1 %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2: %3</translation>
     </message>
 </context>
 <context>
@@ -4951,42 +5294,42 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="47"/>
         <source>Weather</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogoda</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="101"/>
         <source>Disallow internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie zezwalaj na połączenie internetowe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="228"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAF data from the Aviation Weather Center…&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt; Trwa pobieranie… &lt;/h3&gt; &lt;p&gt; Czekaj, pobieramy dane METAR / TAF z Lotniczego Centrum Pogody… &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="284"/>
         <source>Allow internet connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Zezwól na połączenie internetowe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="91"/>
         <source>Update METAR/TAF data</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaktualizuj dane METAR / TAF</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="189"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the three-dot menu at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt; Przepraszamy !&lt;/h3&gt; &lt;p&gt; Brak danych METAR / TAF. Możesz ponownie uruchomić pobieranie ręcznie, używając pozycji „Aktualizuj METAR / TAF” z menu z trzema kropkami w prawym górnym rogu ekranu. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="349"/>
         <source>Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd aktualizacji</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="350"/>
         <source>&lt;p&gt;Failed to update the list of stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt; Nie udało się zaktualizować listy stacji. &lt;/p&gt; &lt;p&gt; Przyczyna:%1. &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -5004,12 +5347,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="82"/>
         <source>Nearby Waypoints</source>
-        <translation>Pobliskie Punkty Nawigacyjne</translation>
+        <translation>Pobliskie Punkty Orientacyjne</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="98"/>
         <source>Weather</source>
-        <translation type="unfinished"></translation>
+        <translation>Pogoda</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="118"/>
@@ -5034,12 +5377,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="170"/>
         <source>Satellite Status</source>
-        <translation type="unfinished">Status Satelity</translation>
+        <translation>Status Satelity</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="172"/>
         <source>Current Status</source>
-        <translation type="unfinished">Obecny Status</translation>
+        <translation>Obecny Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="215"/>
@@ -5049,7 +5392,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="243"/>
         <source>Donate</source>
-        <translation type="unfinished"></translation>
+        <translation>Wspomóż</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="259"/>
@@ -5079,7 +5422,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="398"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Czy chesz wyjść z &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="409"/>
