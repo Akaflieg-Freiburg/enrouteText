@@ -275,9 +275,9 @@ comes first!&lt;/p&gt;
 &lt;h3&gt;Thank you for your help!&lt;/h3&gt;
 </source>
         <translation>
-&lt;p&gt; Jeśli masz problemy z GitHubem, możesz skontaktować się z 
-&lt;a href = &apos;mailto: ms@squawk-vfr.de? subject = Enroute Flight
-Navigation, zgłoszenie problemu ”&gt; Markus Sachs &lt;/a&gt; przez e-mail.
+&lt;p&gt;Jeśli masz problemy z GitHubem, możesz skontaktować się z 
+&lt;a href= &apos;mailto: ms@squawk-vfr.de? subject = Enroute Flight
+Navigation, zgłoszenie problemu&apos;&gt;Markus Sachs&lt;/a&gt; przez e-mail.
 Markus uprzejmie zgłosił się do pomocy naszym użytkownikom w jego
 wolnym czasie. Zna język angielski i niemiecki. &lt;/p&gt;
 
@@ -352,8 +352,8 @@ time. Peter speaks English and German.&lt;/p&gt;
         <translation>
 &lt;p&gt; Jeśli masz problemy z witryną internetową openAIP, to
 możesz skontaktować się z 
-&lt;a href = &apos;mailto: peter.kemme@openflightmaps.org? subject = Enroute
-Flight Navigation, Zgłoszenie błędu ”&gt; Peter Kemme &lt;/a&gt; przez e-mail,
+&lt;a href= &apos;mailto: peter.kemme@openflightmaps.org? subject = Enroute
+Flight Navigation, Zgłoszenie błędu&apos;&gt; Peter Kemme &lt;/a&gt; przez e-mail,
 który uprzejmie zgłosił się na ochotnika do pomocy naszym użytkownikom
 w swoim wolnym czasie. Piotr mówi po angielsku i niemiecku. &lt;/p&gt;
 
