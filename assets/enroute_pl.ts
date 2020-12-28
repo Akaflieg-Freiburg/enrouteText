@@ -884,32 +884,32 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="31"/>
         <source>FLARM Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status FLARM</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="59"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="69"/>
         <source>Hardware</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprzęt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="78"/>
         <source>Software</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprogramowanie</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="87"/>
         <source>Obstacle Database</source>
-        <translation type="unfinished"></translation>
+        <translation>Baza przeszkód</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="96"/>
         <source>Self Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Własny test</translation>
     </message>
 </context>
 <context>
@@ -951,12 +951,12 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="212"/>
         <source>Total: %1&amp;nbsp;km</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumarycznie: %1&amp;nbsp;km</translation>
     </message>
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="214"/>
         <source>Total: %1&amp;nbsp;NM</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumarycznie: %1&amp;nbsp;NM</translation>
     </message>
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="227"/>
@@ -1613,19 +1613,19 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;The style specification of the basemap is a modified version of the &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, which is in turn originally derived from OSM Bright from Mapbox Open Styles. The code is licenses under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. The design is derived (although heavily altered) from OSM Bright from Mapbox Open Styles which is licensed under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. The map is displaying and styling modified data from &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; with &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
 
 &lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;License&lt;/h3&gt;
+        <translation>&lt;h3&gt;Licencja&lt;/h3&gt;
 
-&lt;p&gt;This program is licensed under the &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; or, at your choice, any later version of this license.&lt;/p&gt;
+&lt;p&gt;Ten program jest objęty licencją na podstawie &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;Powszechnej Licencji Publicznej GNU V3&lt;/a&gt; lub, według własnego uznania, każdej późniejszej wersji tej licencji.&lt;/p&gt;
 
-&lt;h4&gt;Third-Party software and data included in this program&lt;/h4&gt;
+&lt;h4&gt;Oprogramowanie i dane innych firm zawarte w tym programie&lt;/h4&gt;
 
-&lt;p&gt;This program includes several libraries from the &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt; project, licensed under the &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;. This program includes the library &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;MIT license&lt;/a&gt;. This program includes the library &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, licensed under the &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ten program zawiera kilka bibliotek z projektu &lt;a href=&quot;https://qt.io&quot;&gt; Qt &lt;/a&gt;, na licencji &lt;a href=&quot;https://www.qt.io/download -open-source&quot;&gt;Powszechna Licencja Publiczna GNU V3&lt;/a&gt;. Ten program zawiera bibliotekę &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, która jest licencjonowana na podstawie &lt;a href=&quot;https://github.com/nitroshare/qhttpengine /blob/master/LICENSE.txt&quot;&gt;licencja MIT&lt;/a&gt;. Ten program zawiera bibliotekę &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, na licencji &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Licencja Apache 2.0&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;This program includes versions of the &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;Google Roboto Fonts&lt;/a&gt;, which are licensed under the &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; license. This program includes several &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;Google Material Design Icons&lt;/a&gt;, which are licensed under the &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; license.&lt;/p&gt;
+&lt;p&gt;Ten program zawiera wersje &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;czcionek Google Roboto&lt;/a&gt;, które są licencjonowane na podstawie &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Licencja Apache 2.0&lt;/a&gt;. Ten program zawiera kilka &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;ikon Google Material Design&lt;/a&gt;, które są licencjonowane na podstawie &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt; Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The style specification of the basemap is a modified version of the &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, which is in turn originally derived from OSM Bright from Mapbox Open Styles. The code is licenses under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. The design is derived (although heavily altered) from OSM Bright from Mapbox Open Styles which is licensed under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. The map is displaying and styling modified data from &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; with &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
+&lt;p&gt;Specyfikacja stylu mapy bazowej to zmodyfikowana wersja &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;projektu liberty OSM &lt;/a&gt;, która z kolei pochodzi z OSM Bright z Mapbox Open Styles. Kod jest licencjonowany na podstawie &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;licencji BSD&lt;/a&gt;. Projekt pochodzi (choć znacznie zmieniony) z OSM Bright z Mapbox Open Styles, który jest licencjonowany na podstawie &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot; &gt;Licencji Creative Commons Attribution 3.0&lt;/a&gt;. Mapa wyświetla i stylizuje zmodyfikowane dane z &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; z &lt;a href = &quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;Licencja projektu CC-BY 4.0&lt;/a&gt;.
 
-&lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</translation>
+&lt;p&gt;Mapa wyświetla i stylizuje dane z &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, które jest objęte licencją &lt;a href = &quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;Licencja CC BY-NC-SA&lt;/a&gt;. Mapa wyświetla również i stylizuje dane z &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;openflightmaps&lt;/a&gt;, które są licencjonowane na podstawie &lt;a href = &quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt; Licencja dla użytkowników ogólnych OFMA &lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Suggest features and improvements&lt;/h3&gt;
@@ -1952,7 +1952,16 @@ Flight Information Sectors are shown.&lt;/p&gt;
 
 &lt;p&gt;Thanks to the help of Sławek Mikuła, the app is again
 available in &lt;strong&gt;Polish language&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt; Kraje objęte przez open flightmaps: mapa aktualne
+pokazuje obszary rezerwatów przyrody (niezwykle ważne, jeśli
+latasz w Austrii). Jeśli jest dostępna, wysokość tras
+powietrznych jest teraz wyświetlana w widocznym miejscu. Trasy przylotów
+i odlotów do stref kontrolnych są wyraźniej oznaczone.
+Pokazane są sektory informacji o lotach. &lt;/p&gt;
+
+&lt;p&gt;Dzięki pomocy Sławka Mikuły, aplikacja jest ponownie
+dostępna w &lt;strong&gt;języku polskim&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>
