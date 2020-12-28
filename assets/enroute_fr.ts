@@ -1575,12 +1575,25 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
         <location filename="../../../src/Librarian.cpp" line="233"/>
         <source>
 &lt;p&gt;For countries covered by open flightmaps: the map now
+shows &lt;strong&gt;nature reserve areas&lt;/strong&gt; (extremely important if
+you fly in Austria). If avaliable, the &lt;strong&gt;height of traffic
+circuits&lt;/strong&gt; is now displayed prominently. &lt;strong&gt;Arrival and
+departure routes&lt;/strong&gt; for control zones are more clearly marked.
+Flight Information Sectors are shown.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the help of Sławek Mikuła, the app is again
+available in &lt;strong&gt;Polish language&lt;/strong&gt;.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+&lt;p&gt;For countries covered by open flightmaps: the map now
 shows nature reserve areas (extremely important if
 you fly in Austria). If avaliable, the height of traffic
 circuits is now displayed prominently. Arrival and
 departure routes for control zones are more clearly marked.
 Flight Information Sectors are shown.&lt;/p&gt;</source>
-        <translation>
+        <translation type="vanished">
 &lt;p&gt;Les cartes des pays converts par les données 
 d&apos;open flightmaps affichent maintenant les espaces 
 naturels protégés. Si ils sont disponibles, les altitudes 
