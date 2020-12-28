@@ -907,32 +907,32 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="31"/>
         <source>FLARM Status</source>
-        <translation type="unfinished"></translation>
+        <translation>FLARM-Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="59"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="69"/>
         <source>Hardware</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardware</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="78"/>
         <source>Software</source>
-        <translation type="unfinished"></translation>
+        <translation>Software</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="87"/>
         <source>Obstacle Database</source>
-        <translation type="unfinished"></translation>
+        <translation>Hindernisdatenbank</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="96"/>
         <source>Self Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Selbsttest</translation>
     </message>
 </context>
 <context>
@@ -974,12 +974,12 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="212"/>
         <source>Total: %1&amp;nbsp;km</source>
-        <translation type="unfinished"></translation>
+        <translation>Total: %1&amp;nbsp;km</translation>
     </message>
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="214"/>
         <source>Total: %1&amp;nbsp;NM</source>
-        <translation type="unfinished"></translation>
+        <translation>Total: %1&amp;nbsp;NM</translation>
     </message>
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="227"/>
@@ -1862,7 +1862,11 @@ Flight Information Sectors are shown.&lt;/p&gt;
 
 &lt;p&gt;Thanks to the help of Sławek Mikuła, the app is again
 available in &lt;strong&gt;Polish language&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&amp;lt;p&amp;gt;In Ländern, die OpenFlightmaps abdeckt, weist die Karte jetzt &lt;strong&gt;Naturschutzgebiete&lt;/strong&gt; aus, äußerst wichtig für Flüge in Österreich. Wo verfügbar, werden die &lt;strong&gt;Platzrundenhöhen&lt;/strong&gt; jetzt deutlich dargestellt. Die &lt;strong&gt;An- und Abflugstrecken&lt;/strong&gt; der Kontrollzonen sind deutlicher gekennzeichnet.
+Die FIS-Sektoren werden angezeigt.&amp;lt;/p&amp;gt;
+
+&lt;p&gt;Dank der Hilfe von Sławek Mikuła ist die App jetzt wieder in &lt;strong&gt;Polnischer Sprache&lt;/strong&gt; verfügbar.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>
