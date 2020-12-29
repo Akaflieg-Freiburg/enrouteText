@@ -1497,6 +1497,9 @@ circuits&lt;/strong&gt; is now displayed prominently. &lt;strong&gt;Arrival and
 departure routes&lt;/strong&gt; for control zones are more clearly marked.
 Flight Information Sectors are shown.&lt;/p&gt;
 
+&lt;p&gt;This release also fixes an infrequent problem with saving flight
+routes. We apologize for any inconvenience!&lt;/p&gt;
+
 &lt;p&gt;Thanks to the help of Sławek Mikuła, the app is again
 available in &lt;strong&gt;Polish language&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
@@ -1505,7 +1508,7 @@ available in &lt;strong&gt;Polish language&lt;/strong&gt;.&lt;/p&gt;</source>
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="284"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="287"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>

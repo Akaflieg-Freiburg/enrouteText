@@ -1950,9 +1950,25 @@ circuits&lt;/strong&gt; is now displayed prominently. &lt;strong&gt;Arrival and
 departure routes&lt;/strong&gt; for control zones are more clearly marked.
 Flight Information Sectors are shown.&lt;/p&gt;
 
+&lt;p&gt;This release also fixes an infrequent problem with saving flight
+routes. We apologize for any inconvenience!&lt;/p&gt;
+
 &lt;p&gt;Thanks to the help of Sławek Mikuła, the app is again
 available in &lt;strong&gt;Polish language&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
+&lt;p&gt;For countries covered by open flightmaps: the map now
+shows &lt;strong&gt;nature reserve areas&lt;/strong&gt; (extremely important if
+you fly in Austria). If avaliable, the &lt;strong&gt;height of traffic
+circuits&lt;/strong&gt; is now displayed prominently. &lt;strong&gt;Arrival and
+departure routes&lt;/strong&gt; for control zones are more clearly marked.
+Flight Information Sectors are shown.&lt;/p&gt;
+
+&lt;p&gt;Thanks to the help of Sławek Mikuła, the app is again
+available in &lt;strong&gt;Polish language&lt;/strong&gt;.&lt;/p&gt;</source>
+        <translation type="vanished">
 &lt;p&gt; Kraje objęte przez open flightmaps: mapa aktualne
 pokazuje obszary rezerwatów przyrody (niezwykle ważne, jeśli
 latasz w Austrii). Jeśli jest dostępna, wysokość tras
@@ -1983,7 +1999,7 @@ Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="284"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="287"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Nie ma żadnej zainstalowanej mapy lotniczej.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Otwórz menu i przejdź do &lt;strong&gt;Ustawienia/Biblioteka/Mapy&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
