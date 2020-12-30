@@ -747,7 +747,7 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="363"/>
-        <location filename="../../../src/FlightRoute.cpp" line="403"/>
+        <location filename="../../../src/FlightRoute.cpp" line="407"/>
         <source>Flight Route</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1286,7 +1286,7 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
 <context>
     <name>Librarian</name>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="181"/>
+        <location filename="../../../src/Librarian.cpp" line="185"/>
         <source>&lt;h3&gt;License&lt;/h3&gt;
 
 &lt;p&gt;This program is licensed under the &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; or, at your choice, any later version of this license.&lt;/p&gt;
@@ -1303,53 +1303,12 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="142"/>
+        <location filename="../../../src/Librarian.cpp" line="146"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="223"/>
-        <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
-      
-&lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
-
-&lt;p&gt;In order to request up-to-date weather information, the app needs to &lt;strong&gt;send your location and your current route to the Aviation Weather Center&lt;/strong&gt; at regular intervals. If you agree to this, you can enable the weather feature by clicking on the button below. You can disable the feature at any time using the three-dot menu at the top of this screen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;We have no control over data collected by the Aviation Weather Center. We do not guarantee correctness of the weather information in any way!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="126"/>
-        <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
-
-&lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;The app is not certified to satisfy aviation standards. It may contain errors and may not work as expected.&lt;/p&gt;
-
-&lt;p&gt;The aviation data does not come from official sources. It might be incomplete, outdated or otherwise incorrect.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;This app is no substitute for proper flight preparation or good pilotage.&lt;/strong&gt; We hope you enjoy the app and that you do find it useful.&lt;/p&gt;
-
-&lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
-
-&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="197"/>
-        <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
-
-&lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
-
-&lt;p&gt;Our &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/privacy#privileges-of-the-android-app&quot; title=&quot;privacy policies&quot;&gt;privacy policies&lt;/a&gt; explain why the permissions are needed and what they are used for.&lt;/p&gt;
-
-&lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
-
-&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1428,13 +1387,58 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Luca Bertoncello. Luca flies ultralight planes since 2014 and has become a flight instructor in 2019. He programs since 1988 and works as a systems administrator in Dresden, Germany.  Ivan Battistella has recently started to fly ultralight aircraft. He works freelance as a software consultant.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur, computer Science and aviation enthusiast. Laureate of IT nationwide competitions, including &apos;HackYeah 2019&apos;, and &apos;Golden Wolf 2017&apos; for the best technological project in Poland.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/p&gt;
+
+&lt;h3&gt;Alumni&lt;/h3&gt;
+
+&lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="117"/>
+        <location filename="../../../src/Librarian.cpp" line="227"/>
+        <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
+      
+&lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
+
+&lt;p&gt;In order to request up-to-date weather information, the app needs to &lt;strong&gt;send your location and your current route to the Aviation Weather Center&lt;/strong&gt; at regular intervals. If you agree to this, you can enable the weather feature by clicking on the button below. You can disable the feature at any time using the three-dot menu at the top of this screen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We have no control over data collected by the Aviation Weather Center. We do not guarantee correctness of the weather information in any way!&lt;/strong&gt;&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="130"/>
+        <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
+
+&lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The app is not certified to satisfy aviation standards. It may contain errors and may not work as expected.&lt;/p&gt;
+
+&lt;p&gt;The aviation data does not come from official sources. It might be incomplete, outdated or otherwise incorrect.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This app is no substitute for proper flight preparation or good pilotage.&lt;/strong&gt; We hope you enjoy the app and that you do find it useful.&lt;/p&gt;
+
+&lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="201"/>
+        <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
+
+&lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
+
+&lt;p&gt;Our &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/privacy#privileges-of-the-android-app&quot; title=&quot;privacy policies&quot;&gt;privacy policies&lt;/a&gt; explain why the permissions are needed and what they are used for.&lt;/p&gt;
+
+&lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="121"/>
         <source>
 &lt;p&gt;We receive our aviation data from &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. This is a not-for-profit organisation where volunteers compile aviation data for many countries. If openAIP covers your country, we might be able to generate maps for it. First, however, we need to be reasonably sure that the openAIP data is accurate and complete. Please have a look at the &lt;a href=&quot;http://maps.openaip.net&quot;&gt;openAIP maps&lt;/a&gt; and compare the display with an official aviation map of your country. Are the airfields there? Are runway lengths/orientations and frequencies correct? Are NavAids correctly displayed, with correct codes and frequencies? And what about airspaces?&lt;/p&gt;
 
@@ -1444,7 +1448,7 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="153"/>
+        <location filename="../../../src/Librarian.cpp" line="157"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -1473,7 +1477,7 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="209"/>
+        <location filename="../../../src/Librarian.cpp" line="213"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -1488,7 +1492,7 @@ club of public utility in Freiburg, Germany. &lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="233"/>
+        <location filename="../../../src/Librarian.cpp" line="237"/>
         <source>
 &lt;p&gt;For countries covered by open flightmaps: the map now
 shows &lt;strong&gt;nature reserve areas&lt;/strong&gt; (extremely important if

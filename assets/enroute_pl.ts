@@ -939,7 +939,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="363"/>
-        <location filename="../../../src/FlightRoute.cpp" line="403"/>
+        <location filename="../../../src/FlightRoute.cpp" line="407"/>
         <source>Flight Route</source>
         <translation>Trasa lotu</translation>
     </message>
@@ -1546,7 +1546,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Dane lotnicze są dostarczane przez &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; oraz &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projekt. Mapy podstawowe dostarczane są dzięki &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Odwołaj się do dokumentacji by poznać więcej szczegółów.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="153"/>
+        <location filename="../../../src/Librarian.cpp" line="157"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -1599,7 +1599,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Dane lotnicze są dostarczane przez &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; oraz projekt &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;. Mapy podstawowe dostarczane są dzięki &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Odwołaj się do dokumentacji by poznać więcej szczegółów.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="181"/>
+        <location filename="../../../src/Librarian.cpp" line="185"/>
         <source>&lt;h3&gt;License&lt;/h3&gt;
 
 &lt;p&gt;This program is licensed under the &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; or, at your choice, any later version of this license.&lt;/p&gt;
@@ -1652,7 +1652,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Jeśli płynnie programujesz w C++ i chciałbyś &lt;strong&gt;pomóc z programowaniem&lt;/strong&gt;, to &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;daj nam znać&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="209"/>
+        <location filename="../../../src/Librarian.cpp" line="213"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -1677,7 +1677,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Robimy co w naszej mocy, by uniknąć szywnych limitów na pobieranie map w przyszłości. Proszę, pomóż nam z tym. Już masz &lt;strong&gt;%2 map&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="142"/>
+        <location filename="../../../src/Librarian.cpp" line="146"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1688,35 +1688,6 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Plany lotu mogą być dostępne dla innych programów, takie jak programy do wykonywania kopii bezpieczeństwa lub aplikacje synchronizujące.  Może to być przydatne aby dzielić bibliotekę planów lotu z innymi urządzeniami.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="223"/>
-        <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
-      
-&lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
-
-&lt;p&gt;In order to request up-to-date weather information, the app needs to &lt;strong&gt;send your location and your current route to the Aviation Weather Center&lt;/strong&gt; at regular intervals. If you agree to this, you can enable the weather feature by clicking on the button below. You can disable the feature at any time using the three-dot menu at the top of this screen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;We have no control over data collected by the Aviation Weather Center. We do not guarantee correctness of the weather information in any way!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation>&lt;h3&gt; Ostrzeżenie dotyczące prywatności &lt;/h3&gt;
-      
-&lt;p&gt; Podobnie jak większość innych programów, ta aplikacja korzysta z danych pogodowych dostarczonych przez &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt; Aviation Weather Center &lt;/a&gt;, stronę internetową rządu Stanów Zjednoczonych. &lt; / p&gt;
-
-&lt;p&gt; Aby dostarczać aktualnych informacji pogodowych, aplikacja musi &lt;strong&gt; wysyłać Twoją lokalizację i aktualną trasę do Lotniczego Centrum Pogody &lt;/strong&gt; w regularnych odstępach czasu. Jeśli się na to zgadzasz, możesz włączyć funkcję pogody, klikając przycisk poniżej. Możesz wyłączyć tę funkcję w dowolnym momencie, korzystając z menu z trzema kropkami u góry tego ekranu. &lt;/p&gt;
-
-&lt;p&gt; &lt;strong&gt; Nie mamy kontroli nad danymi gromadzonymi przez Aviation Weather Center. Nie gwarantujemy w żaden sposób poprawności informacji o pogodzie! &lt;/strong&gt; &lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Bug Report&lt;/h3&gt;
-
-&lt;p&gt;We aim to provide very high-quality software. Fixing errors is therefore always our first priority. We are grateful for every report that we get.&lt;/p&gt;
-
-&lt;p&gt;Please report errors through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Raport Błędu&lt;/h3&gt;
-
-&lt;p&gt;Mamy na celu dostarczanie wysokiej jakości oprogramowania. Z tego powodu naprawianie  błędów ma u nas najwyższy priorytet. Jesteśmy wdzięczni za każde zgłoszenie jakie dostajemy.&lt;/p&gt;
-
-&lt;p&gt;Proszę zgłaszaj błędy za pomocą &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issues&lt;/a&gt; (może to wymagać utworzenia konta na GitHubie).  Jeśli uznasz to za ciężkie, to proszę &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;skontaktuj się z autorem&lt;/a&gt; bezpośrednio.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="37"/>
@@ -1794,10 +1765,123 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Luca Bertoncello. Luca flies ultralight planes since 2014 and has become a flight instructor in 2019. He programs since 1988 and works as a systems administrator in Dresden, Germany.  Ivan Battistella has recently started to fly ultralight aircraft. He works freelance as a software consultant.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/p&gt;
+
+&lt;h3&gt;Alumni&lt;/h3&gt;
+
+&lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="227"/>
+        <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
+      
+&lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
+
+&lt;p&gt;In order to request up-to-date weather information, the app needs to &lt;strong&gt;send your location and your current route to the Aviation Weather Center&lt;/strong&gt; at regular intervals. If you agree to this, you can enable the weather feature by clicking on the button below. You can disable the feature at any time using the three-dot menu at the top of this screen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We have no control over data collected by the Aviation Weather Center. We do not guarantee correctness of the weather information in any way!&lt;/strong&gt;&lt;/p&gt;</source>
+        <translation>&lt;h3&gt; Ostrzeżenie dotyczące prywatności &lt;/h3&gt;
+      
+&lt;p&gt; Podobnie jak większość innych programów, ta aplikacja korzysta z danych pogodowych dostarczonych przez &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt; Aviation Weather Center &lt;/a&gt;, stronę internetową rządu Stanów Zjednoczonych. &lt; / p&gt;
+
+&lt;p&gt; Aby dostarczać aktualnych informacji pogodowych, aplikacja musi &lt;strong&gt; wysyłać Twoją lokalizację i aktualną trasę do Lotniczego Centrum Pogody &lt;/strong&gt; w regularnych odstępach czasu. Jeśli się na to zgadzasz, możesz włączyć funkcję pogody, klikając przycisk poniżej. Możesz wyłączyć tę funkcję w dowolnym momencie, korzystając z menu z trzema kropkami u góry tego ekranu. &lt;/p&gt;
+
+&lt;p&gt; &lt;strong&gt; Nie mamy kontroli nad danymi gromadzonymi przez Aviation Weather Center. Nie gwarantujemy w żaden sposób poprawności informacji o pogodzie! &lt;/strong&gt; &lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;h3&gt;Bug Report&lt;/h3&gt;
+
+&lt;p&gt;We aim to provide very high-quality software. Fixing errors is therefore always our first priority. We are grateful for every report that we get.&lt;/p&gt;
+
+&lt;p&gt;Please report errors through the &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issue tracker&lt;/a&gt; (this might require opening an account with GitHub).  If you find this difficult, then please &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contact the author&lt;/a&gt; directly.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;h3&gt;Raport Błędu&lt;/h3&gt;
+
+&lt;p&gt;Mamy na celu dostarczanie wysokiej jakości oprogramowania. Z tego powodu naprawianie  błędów ma u nas najwyższy priorytet. Jesteśmy wdzięczni za każde zgłoszenie jakie dostajemy.&lt;/p&gt;
+
+&lt;p&gt;Proszę zgłaszaj błędy za pomocą &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enroute/issues&quot;&gt;GitHub issues&lt;/a&gt; (może to wymagać utworzenia konta na GitHubie).  Jeśli uznasz to za ciężkie, to proszę &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;skontaktuj się z autorem&lt;/a&gt; bezpośrednio.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;h3&gt;Authors&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
+      &lt;h4&gt;Address&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstraße 77&lt;br&gt;
+      79104 Freiburg&lt;br&gt;
+      Germany&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Pic: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;br&gt;
+      &lt;h3&gt;Contributing Authors&lt;/h3&gt;
+      &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Adrien Crovato is a private pilot and aerospace engineer. He joined the development team in 2020, and contributes to the C++ and QML code base.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses Enroute as a pilot of ultralight planes. Heiner joined the Enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
+     &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Johannes Zellner joined the development in 2020.  He contributes to the C++ and QML code base of the app and helps with bug fixing.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;Manual&lt;/h3&gt;
+
+&lt;p&gt;The manual has kindly been provided by Michael Horbaschk.&lt;/p&gt;
+
+&lt;h3&gt;Translations&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato. Adrien has been described above.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Luca Bertoncello. Luca flies ultralight planes since 2014 and has become a flight instructor in 2019. He programs since 1988 and works as a systems administrator in Dresden, Germany.  Ivan Battistella has recently started to fly ultralight aircraft. He works freelance as a software consultant.&lt;/p&gt;
+
 &lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur, computer Science and aviation enthusiast. Laureate of IT nationwide competitions, including &apos;HackYeah 2019&apos;, and &apos;Golden Wolf 2017&apos; for the best technological project in Poland.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation>&lt;h3&gt; Autorzy &lt;/h3&gt;
+        <translation type="vanished">&lt;h3&gt; Autorzy &lt;/h3&gt;
 
 &lt;br&gt;
 
@@ -1876,7 +1960,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt; &lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="117"/>
+        <location filename="../../../src/Librarian.cpp" line="121"/>
         <source>
 &lt;p&gt;We receive our aviation data from &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. This is a not-for-profit organisation where volunteers compile aviation data for many countries. If openAIP covers your country, we might be able to generate maps for it. First, however, we need to be reasonably sure that the openAIP data is accurate and complete. Please have a look at the &lt;a href=&quot;http://maps.openaip.net&quot;&gt;openAIP maps&lt;/a&gt; and compare the display with an official aviation map of your country. Are the airfields there? Are runway lengths/orientations and frequencies correct? Are NavAids correctly displayed, with correct codes and frequencies? And what about airspaces?&lt;/p&gt;
 
@@ -1891,7 +1975,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt; Pamiętaj, że w wolnym czasie programujemy tę bezpłatną aplikację jako usługę dla społeczności. Niestety, powinienem zaznaczyć, że wysyłanie nam niegrzecznych żądań raczej nie przyniesie pożądanego rezultatu. &lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="126"/>
+        <location filename="../../../src/Librarian.cpp" line="130"/>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
@@ -1920,7 +2004,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="197"/>
+        <location filename="../../../src/Librarian.cpp" line="201"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -1941,7 +2025,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="233"/>
+        <location filename="../../../src/Librarian.cpp" line="237"/>
         <source>
 &lt;p&gt;For countries covered by open flightmaps: the map now
 shows &lt;strong&gt;nature reserve areas&lt;/strong&gt; (extremely important if
