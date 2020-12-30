@@ -81,7 +81,8 @@ is therefore always our first priority. We are grateful for
 every report that we get, and we would also like to hear
 your suggestions for improvement.&lt;/p&gt;
 </source>
-        <translation>&lt;h3&gt;Riporta un errore oppure manda un suggerimento&lt;/h3&gt;
+        <translation>
+&lt;h3&gt;Riporta un errore oppure manda un suggerimento&lt;/h3&gt;
 
 &lt;p&gt;Cerchiamo di fornire software di qualità. Correggere errori
 è per noi la prima priorità. Siamo grati per ogni rapporto di
@@ -120,7 +121,11 @@ pulsante qui sotto.&lt;/p&gt;</translation>
 &lt;p&gt;Use this button to report an issue in the main
 application.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Applicazione principale&lt;/h4&gt;
+
+&lt;p&gt;Usa questo bottone per segnalare un problema nell&apos;applicazione principale&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="122"/>
@@ -131,22 +136,28 @@ application.&lt;/p&gt;
 (such as wrong missing airspaces, wrong vertical limits,
 …), then please use the buttons below.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Spazi aerei&lt;/h4&gt;
+
+&lt;p&gt;Se desideri segnalare problemi con gli spazi aerei
+(come spazi aerei mancanti errati, limiti verticali errati,
+...), quindi utilizza i pulsanti seguenti. &lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="135"/>
         <source>Flight Information Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni sulle Regioni di volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="144"/>
         <source>Nature Reserve Areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Aree Riserve Naturali</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="153"/>
         <source>All Other Airspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutti gli altri spazi aerei</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="162"/>
@@ -158,7 +169,14 @@ data (such as wrong airfield frequencies, outdated traffic
 patterns, missing navaids, …), then please use the buttons
 below.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Dati sull&apos;aviazione&lt;/h4&gt;
+
+&lt;p&gt;Se desideri segnalare problemi con altri aeromobili
+dati (come frequenze di aeroporti errate, traffico obsoleto
+pattern, navaid mancanti, ...), quindi utilizzare i pulsanti
+di seguito.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="176"/>
@@ -190,7 +208,9 @@ below.&lt;/p&gt;
         <source>
 &lt;h4&gt;Thank you for your help!&lt;/h4&gt;
 </source>
-        <translation>&lt;h4&gt;Grazie per il vostro aiuto!&lt;/h4&gt;</translation>
+        <translation>
+&lt;h4&gt;Grazie per il vostro aiuto!&lt;/h4&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="267"/>
@@ -214,7 +234,8 @@ not, please open a new issue. If you prefer to work on
 your desktop computer, you can also send yourself a link to
 GitHub by e-mail.&lt;/p&gt;
 </source>
-        <translation>&lt;h3&gt;Segnala un errore o spedisci un suggerimento&lt;/h3&gt;
+        <translation>
+&lt;h3&gt;Segnala un errore o spedisci un suggerimento&lt;/h3&gt;
 
 &lt;h4&gt;Problemi nell&apos;applicazione principale&lt;/h4&gt;
 
@@ -270,7 +291,8 @@ comes first!&lt;/p&gt;
 
 &lt;h3&gt;Thank you for your help!&lt;/h3&gt;
 </source>
-        <translation>&lt;p&gt;Se avete difficoltà con GitHub, potete contattare
+        <translation>
+&lt;p&gt;Se avete difficoltà con GitHub, potete contattare
 &lt;a href=&apos;mailto:ms@squawk-vfr.de?subject=Enroute Flight
 Navigation, Issue Report&apos;&gt;Markus Sachs&lt;/a&gt; via E-Mail.
 Markus è a disposizione per aiutare i nostri utenti.
@@ -284,7 +306,8 @@ che non tutte le vostre richieste verranno esaudite.
 La correzione degli errori è invece sempre la nostra prima
 priorità!&lt;/p&gt;
 
-&lt;h3&gt;Grazie per il vostro aiuto!&lt;/h3&gt;</translation>
+&lt;h3&gt;Grazie per il vostro aiuto!&lt;/h3&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="375"/>
@@ -304,7 +327,8 @@ suggestion is approved, the correction will appear in
 &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; within a
 week.&lt;/p&gt;
 </source>
-        <translation>&lt;h3&gt;Segnalazione di un errore o suggerimento&lt;/h3&gt;
+        <translation>
+&lt;h3&gt;Segnalazione di un errore o suggerimento&lt;/h3&gt;
 
 &lt;h4&gt;Dati aeronautici&lt;/h4&gt;
 
@@ -319,7 +343,8 @@ registratevi. In questo modo potete suggerire correzioni.
 Una volta che il vostro suggerimento verrà approvato,
 la correzione apparirà in
 &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; entro una
-settinama.&lt;/p&gt;</translation>
+settinama.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="398"/>
@@ -343,13 +368,15 @@ time. Peter speaks English and German.&lt;/p&gt;
 
 &lt;h3&gt;Thank you for your help!&lt;/h3&gt;
 </source>
-        <translation>&lt;p&gt;Se avete difficoltà con il sito web openAIP, potete contattare
+        <translation>
+&lt;p&gt;Se avete difficoltà con il sito web openAIP, potete contattare
 &lt;a href=&apos;mailto:peter.kemme@openflightmaps.org?subject=Enroute
 Flight Navigation, Issue Report&apos;&gt;Peter Kemme&lt;/a&gt; via E-Mail,
 che conosce openAIP e mette a disposizione il suo tempo libero
 per aiutare gli utenti. Peter parla inglese e tedesco..&lt;/p&gt;
 
-&lt;h3&gt;Grazie per il vostro aiuto!&lt;/h3&gt;</translation>
+&lt;h3&gt;Grazie per il vostro aiuto!&lt;/h3&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="473"/>
@@ -374,7 +401,8 @@ discuss your issue in the forum there.&lt;/p&gt;
 
 &lt;h3&gt;Thank you for your help!&lt;/h3&gt;
 </source>
-        <translation>&lt;h3&gt;Segnalazione di un errore o suggerimento&lt;/h3&gt;
+        <translation>
+&lt;h3&gt;Segnalazione di un errore o suggerimento&lt;/h3&gt;
 
 &lt;h4&gt;Spazi aerei&lt;/h4&gt;
 
@@ -428,7 +456,8 @@ following countries?&lt;/p&gt;
 &lt;li&gt;Sweden&lt;/li&gt;
 &lt;li&gt;Switzerland&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation>&lt;h3&gt;Segnala un errore o manda un suggerimento&lt;/h3&gt;
+        <translation>
+&lt;h3&gt;Segnala un errore o manda un suggerimento&lt;/h3&gt;
 
 &lt;h4&gt;Dati aeronautici&lt;/h4&gt;
 
@@ -490,7 +519,8 @@ by the open flightmaps association in Austria.&lt;/p&gt;
 report your issue. If you prefer to work on your desktop
 computer, you can also send yourself a link by e-mail.&lt;/p&gt;
 </source>
-        <translation>&lt;h3&gt;Segnalazione di un errore o suggerimento&lt;/h3&gt;
+        <translation>
+&lt;h3&gt;Segnalazione di un errore o suggerimento&lt;/h3&gt;
 
 &lt;h4&gt;Dati aeronautici&lt;/h4&gt;
 
@@ -530,7 +560,8 @@ type of information that we could use in our app.&lt;/p&gt;
 &lt;p&gt;There is nothing that we can do. We regret that we have
 no better news.&lt;/p&gt;
 </source>
-        <translation>&lt;h3&gt;Segnalazione di un errore o suggerimento&lt;/h3&gt;
+        <translation>
+&lt;h3&gt;Segnalazione di un errore o suggerimento&lt;/h3&gt;
 
 &lt;h4&gt;Dati aeronautici&lt;/h4&gt;
 
@@ -869,32 +900,32 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="31"/>
         <source>FLARM Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato FLARM</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="59"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="69"/>
         <source>Hardware</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardware</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="78"/>
         <source>Software</source>
-        <translation type="unfinished"></translation>
+        <translation>Software</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="87"/>
         <source>Obstacle Database</source>
-        <translation type="unfinished"></translation>
+        <translation>Database Ostacoli</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="96"/>
         <source>Self Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Test Autoverifica</translation>
     </message>
 </context>
 <context>
@@ -936,12 +967,12 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="212"/>
         <source>Total: %1&amp;nbsp;km</source>
-        <translation type="unfinished"></translation>
+        <translation>Totale: %1&amp;nbsp;km</translation>
     </message>
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="214"/>
         <source>Total: %1&amp;nbsp;NM</source>
-        <translation type="unfinished"></translation>
+        <translation>Totale: %1&amp;nbsp;NM</translation>
     </message>
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="227"/>
@@ -1412,27 +1443,27 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="108"/>
         <source>No information available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessuna informazione disponibile.</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="110"/>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Installata</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="112"/>
         <source>File Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione File</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="126"/>
         <source>The map data was compiled from the following sources.</source>
-        <translation type="unfinished"></translation>
+        <translation>I dati della mappa sono stati compilati dalle seguenti fonti.</translation>
     </message>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="155"/>
         <source>Internal Map Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dati mappa interni</translation>
     </message>
 </context>
 <context>
@@ -1799,7 +1830,19 @@ routes. We apologize for any inconvenience!&lt;/p&gt;
 
 &lt;p&gt;Thanks to the help of Sławek Mikuła, the app is again
 available in &lt;strong&gt;Polish language&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Per i paesi coperti da mappe di volo aperte: la mappa ora
+mostra le&lt;strong&gt; aree della riserva naturale &lt;/strong&gt;(estremamente importante se
+voli in Austria). Se disponibile, l &apos;&lt;strong&gt; altezza del traffico
+circuiti &lt;/strong&gt; è ora visualizzato in primo piano.&lt;strong&gt; Arrivo e
+le rotte di partenza &lt;/strong&gt;per le zone di controllo sono contrassegnate più chiaramente.
+Vengono visualizzati i settori delle informazioni sui voli.&lt;/p&gt;
+
+&lt;p&gt;Questa versione risolve anche un raro problema con il salvataggio del volo
+itinerari. Ci scusiamo per gli eventuali disagi!&lt;/p&gt;
+
+&lt;p&gt;Grazie all&apos;aiuto di Sławek Mikuła, l&apos;app è di nuovo
+disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Suggest features and improvements&lt;/h3&gt;
@@ -2228,12 +2271,12 @@ available in &lt;strong&gt;Polish language&lt;/strong&gt;.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="150"/>
         <source>Map Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Info Mappa</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="154"/>
         <source>Map Info: </source>
-        <translation type="unfinished"></translation>
+        <translation>Info Mappa: </translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="162"/>
@@ -2670,7 +2713,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="126"/>
         <source>Item not available in flight</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento non disponibile in volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
@@ -3327,37 +3370,37 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1289"/>
         <source>thunderstorm with hail in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>temporale con grandine nelle vicinanze</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1511"/>
         <source>snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitazione di neve granulosa</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1514"/>
         <source>snow grain precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitazione di neve granulosa nelle vicinanze</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1517"/>
         <source>light snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>leggere precipitazioni di neve granulosa</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1520"/>
         <source>moderate snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>moderate precipitazioni di neve granulosa</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1523"/>
         <source>heavy snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>forti precipitazioni di neve granulosa</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1526"/>
         <source>recent snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>recenti precipitazioni di neve granulosa</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1536"/>
@@ -4310,27 +4353,27 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1439"/>
         <source>blowing sand in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>tempesta di sabbia nelle vicinanze</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1442"/>
         <source>light blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>leggera tempesta di sabbia</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1445"/>
         <source>moderate blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>moderata tempesta di sabbia</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1448"/>
         <source>heavy blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>forte tempesta di sabbia</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1451"/>
         <source>recent blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>recente tempesta di sabbia</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1461"/>
@@ -4913,12 +4956,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2209"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center Norfolk, VA.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;identificativo del report emesso è %1. Questa previsione è pubblicata presso il Fleet Weather Center Norfolk, VA.</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2212"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center San Diego, CA (FS).</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;identificativo del report emesso è %1. Questa previsione è pubblicata presso il Fleet Weather Center San Diego, CA (FS).</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2224"/>
