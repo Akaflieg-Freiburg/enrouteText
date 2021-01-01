@@ -1772,7 +1772,87 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt; Autorzy &lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt; Aplikacja &lt;strong&gt; Enroute Flight Navigation &lt;/strong&gt; została napisana przez Stefana Kebekusa, entuzjastę lotów od 1986 roku i członka klubu lotniczego Akaflieg Freiburg. Stefan lata na szybowcach i samolotach motorowych. &lt;/p&gt;
+      &lt;h4&gt; Adres &lt;/h4&gt;
+      Stefan Kebekus &lt;br&gt;
+      Wintererstraße 77 &lt;br&gt;
+      79104 Freiburg &lt;br&gt;
+      Niemcy &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt; e-mail &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align = &apos;center&apos;&gt;&amp;nbsp;&lt;img src = &apos;/icons/kebekus.jpg&apos; alt = &apos;Stefan Kebekus&apos; height = &apos;140&apos;&gt; &lt;br&gt; Stefan Kebekus &lt;br&gt; Zdjęcie: Patrick Seeger &lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;br&gt;
+      &lt;h3&gt; Współpracujący autorzy &lt;/h3&gt;
+      &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt; Adrien Crovato jest prywatnym pilotem i inżynierem lotniczym. Dołączył do zespołu programistów w 2020 roku i współtworzy bazę kodu C ++ i QML. &lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt; e-mail &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align = &apos;center&apos;&gt;&amp;nbsp;&lt;img src = &apos;/icons/crovato.jpg&apos; alt = &apos;Adrien Crovato&apos; height = &apos;140&apos;&gt; &lt;br&gt; Adrien Crovato &lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt; Heiner Tholen lubi budować rzeczy analogowe i cyfrowe, zarówno lotnicze, jak i naziemne. Używa Enroute jako pilota samolotów ultralekkich. Heiner dołączył do zespołu Enroute w połowie 2020 roku i współtworzy bazę kodu C ++ / QML. &lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt; e-mail &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align = &apos;center&apos;&gt;&amp;nbsp;&lt;img src = &apos;/icons/tholen.jpg&apos; alt = &apos;Heiner Tholen&apos; height = &apos;140&apos;&gt; &lt;br&gt; Heiner Tholen &lt;/p&gt;
+     &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt; Johannes Zellner dołączył do rozwoju w 2020 roku. Wnosi wkład w bazę kodu C ++ i QML aplikacji oraz pomaga w naprawianiu błędów. &lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt; e-mail &lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align = &apos;center&apos;&gt;&amp;nbsp;&lt;img src = &apos;/icons/zellner.jpg&apos; alt = &apos;Johannes Zellner&apos; height = &apos;140&apos;&gt; &lt;br&gt; Johannes Zellner &lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;Podręcznik&lt;/h3&gt;
+
+&lt;p&gt;Podręcznik został uprzejmie udostępniony przez Michaela Horbaschka.&lt;/p&gt;
+
+&lt;h3&gt;Tłumaczenia&lt;/h3&gt;
+
+&lt;p&gt; &lt;strong&gt;Francuski:&lt;/strong&gt; Adrien Crovato. Adrien został opisany powyżej. &lt;/p&gt;
+
+&lt;p&gt; &lt;strong&gt;Niemiecki:&lt;/strong&gt; Markus Sachs. Markus lata trójkołowcami i jest entuzjastycznym „współpracownikiem” na każdym innym, co lata. &lt;/p&gt;
+
+&lt;p&gt; &lt;strong&gt;Włoski:&lt;/strong&gt; Ivan Battistella i Luca Bertoncello. Luca lata na ultralekkich samolotach od 2014 roku, aw 2019 został instruktorem lotów. Programuje od 1988 i pracuje jako administrator systemów w Dreźnie w Niemczech. Ivan Battistella zaczął ostatnio latać samolotami ultralekkimi. Pracuje jako niezależny konsultant ds. Oprogramowania. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/p&gt;
+
+&lt;h3&gt;Alumni&lt;/h3&gt;
+
+&lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="227"/>
@@ -2039,7 +2119,19 @@ routes. We apologize for any inconvenience!&lt;/p&gt;
 
 &lt;p&gt;Thanks to the help of Sławek Mikuła, the app is again
 available in &lt;strong&gt;Polish language&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt; Kraje objęte przez open flightmaps: mapa aktualne
+pokazuje obszary rezerwatów przyrody (niezwykle ważne, jeśli
+latasz w Austrii). Jeśli jest dostępna, wysokość tras
+powietrznych jest teraz wyświetlana w widocznym miejscu. Trasy przylotów
+i odlotów do stref kontrolnych są wyraźniej oznaczone.
+Pokazane są sektory informacji o lotach. &lt;/p&gt;
+
+&lt;p&gt;To wydanie również poprawia niezbyt częsty problem z zapisem trasy
+lotu. Przepraszamy za niedogodności!&lt;/p&gt;
+
+&lt;p&gt;Dzięki pomocy Sławka Mikuły, aplikacja jest ponownie
+dostępna w &lt;strong&gt;języku polskim&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>
