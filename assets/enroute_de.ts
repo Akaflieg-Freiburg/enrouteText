@@ -2024,13 +2024,12 @@ routes. We apologize for any inconvenience!&lt;/p&gt;
 
 &lt;p&gt;Thanks to the help of Sławek Mikuła, the app is again
 available in &lt;strong&gt;Polish language&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation>
-&amp;amp;lt;p&amp;amp;gt;In Ländern, die OpenFlightmaps abdeckt, weist die Karte jetzt &amp;lt;strong&amp;gt;Naturschutzgebiete&amp;lt;/strong&amp;gt; aus, äußerst wichtig für Flüge in Österreich. Wo verfügbar, werden die &amp;lt;strong&amp;gt;Platzrundenhöhen&amp;lt;/strong&amp;gt; jetzt deutlich dargestellt. Die &amp;lt;strong&amp;gt;An- und Abflugstrecken&amp;lt;/strong&amp;gt; der Kontrollzonen sind deutlicher gekennzeichnet.
-Die FIS-Sektoren werden angezeigt.&amp;amp;lt;/p&amp;amp;gt;
+        <translation type="unfinished">
+&lt;p&gt;In Ländern, die OpenFlightmaps abdeckt, weist die Karte jetzt &lt;strong&gt;Naturschutzgebiete&lt;strong&gt; aus, äußerst wichtig für Flüge in Österreich. Wo verfügbar, werden die &lt;strong&gt;Platzrundenhöhen&lt;/strong&gt; jetzt deutlich dargestellt. Die &lt;strong&gt;An- und Abflugstrecken&lt;/strong&gt; der Kontrollzonen sind deutlicher gekennzeichnet. Die FIS-Sektoren werden angezeigt.&lt;/p&gt;
 
 &lt;p&gt;Diese Version beseitigt auch ein gelegentlich auftretendes Problem bei der Speicherung der Flugstrecken. Sorry, dass das manchmal nicht ganz glatt lief!&lt;/p&gt;
 
-&amp;lt;p&amp;gt;Dank der Hilfe von Sławek Mikuła ist die App jetzt wieder in &amp;lt;strong&amp;gt;Polnischer Sprache&amp;lt;/strong&amp;gt; verfügbar.&amp;lt;/p&amp;gt;</translation>
+&lt;p&gt;Dank der Hilfe von Sławek Mikuła ist die App jetzt wieder in &lt;strong&gt;Polnischer Sprache&lt;/strong&gt; verfügbar.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>
