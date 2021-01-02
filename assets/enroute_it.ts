@@ -1800,7 +1800,87 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
 &lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Autori&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;L&apos;app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è stata scritta da Stefan Kebekus, appassionato di volo dal 1986 e membro del club di volo Akaflieg Freiburg. Stefan vola con alianti e aerei a motore.&lt;/p&gt;
+      &lt;h4&gt;Indirizzo&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstraße 77&lt;br&gt;
+      79104 Friburgo&lt;br&gt;
+      Germania&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align = &apos;center&apos;&gt;&amp;nbsp;&lt;img src = &apos;/icons/kebekus.jpg&apos; alt = &apos;Stefan Kebekus&apos; height = &apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Foto: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;br&gt;
+      &lt;h3&gt;Autori collaboratori&lt;/h3&gt;
+      &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Adrien Crovato è un pilota privato e ingegnere aerospaziale. È entrato a far parte del team di sviluppo nel 2020 e contribuisce alla base di codice C ++ e QML.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align = &apos;center&apos;&gt; &amp; nbsp; &lt;img src = &apos;/icons/crovato.jpg&apos; alt = &apos;Adrien Crovato&apos; height = &apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Heiner Tholen ama costruire oggetti, analogici e digitali, sia aerei che terrestri. Usa Enroute come pilota di aerei ultraleggeri. Heiner è entrato a far parte del team Enroute a metà del 2020 e contribuisce alla base di codice C ++ / QML.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align = &apos;center&apos;&gt; &amp; nbsp; &lt;img src = &apos;/icons/tholen.jpg&apos; alt = &apos;Heiner Tholen&apos; height = &apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
+     &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Johannes Zellner si è unito allo sviluppo nel 2020. Contribuisce alla base di codice C ++ e QML dell&apos;app e aiuta con la correzione dei bug.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align = &apos;center&apos;&gt;&amp;nbsp;&lt;img src = &apos;/icons/zellner.jpg&apos; alt = &apos;Johannes Zellner&apos; height = &apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;Manuale&lt;/h3&gt;
+
+&lt;p&gt;Il manuale è stato gentilmente fornito da Michael Horbaschk.&lt;/p&gt;
+
+&lt;h3&gt;Traduzioni&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Francese:&lt;/strong&gt; Adrien Crovato. Adrien è stato descritto sopra.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tedesco:&lt;/strong&gt; Markus Sachs. Markus vola sui tricicli ed è un &quot;Co&quot; entusiasta di tutto ciò che vola.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella e Luca Bertoncello. Luca vola su aerei ultraleggeri dal 2014 ed è diventato istruttore di volo nel 2019. Programma dal 1988 e lavora come amministratore di sistema a Dresda, in Germania. Ivan Battistella ha recentemente iniziato a pilotare velivoli ultraleggeri. Lavora come libero professionista come consulente software.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Polacco:&lt;/strong&gt; Sławek Mikuła.&lt;/p&gt;
+
+&lt;h3&gt;Alumni&lt;/h3&gt;
+
+&lt;p&gt;Szymon Kocur (traduzione in polacco)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="121"/>
