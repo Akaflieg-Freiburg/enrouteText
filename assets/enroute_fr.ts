@@ -865,32 +865,32 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="31"/>
         <source>FLARM Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut FLARM</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="59"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="69"/>
         <source>Hardware</source>
-        <translation type="unfinished"></translation>
+        <translation>Matériel</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="78"/>
         <source>Software</source>
-        <translation type="unfinished"></translation>
+        <translation>Logiciel</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="87"/>
         <source>Obstacle Database</source>
-        <translation type="unfinished"></translation>
+        <translation>Base de données</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="96"/>
         <source>Self Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Auto test</translation>
     </message>
 </context>
 <context>
@@ -932,12 +932,12 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="212"/>
         <source>Total: %1&amp;nbsp;km</source>
-        <translation type="unfinished"></translation>
+        <translation>Total : %1&amp;nbsp;km</translation>
     </message>
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="214"/>
         <source>Total: %1&amp;nbsp;NM</source>
-        <translation type="unfinished"></translation>
+        <translation>Total : %1&amp;nbsp;NM</translation>
     </message>
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="227"/>
@@ -1541,7 +1541,89 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
 &lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Autheurs&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;L&apos;application &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est développée par Stefan Kebekus, amateur pilote depuis 1986 et membre de l&apos;aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
+      &lt;h4&gt;Adresse&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstraße 77&lt;br&gt;
+      79104 Freiburg&lt;br&gt;
+      Germany&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Photo: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;br&gt;
+      &lt;h3&gt;Co-autheurs&lt;/h3&gt;
+      &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Adrien Crovato est pilote privé et ingénieur en aérospatiale. Il a rejoint l&apos;équipe en 2020 et contribue au code C++ and QML.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Heiner Tholen aime construire des choses, autant analogiques que digitales, en vol autant qu&apos;au sol. Il utilise Enroute en tant que pilote d&apos;ULM. Heiner a rejoint l&apos;équipe mi-2020 et contribue au développement du code C++/QML.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Johannes Zellner a rejoint l&apos;équipe en 2020. Il contribue au code C++ et QML de l&apos;application et aide à résoudre les bugs.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h3&gt;Manuel&lt;/h3&gt;
+
+&lt;p&gt;Le manuel a été écrit par Michael Horbaschk.&lt;/p&gt;
+
+&lt;h3&gt;Traductions&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Français&lt;/strong&gt; : Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Allemand&lt;/strong&gt; : Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;E-Mail&lt;/a&gt;. Markus pilote des deltaplanes et est un &apos;co-pilote&apos; enthousiate sur tout autre type d&apos;appareil.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Italien&lt;/strong&gt; : Ivan Battistella et Luca Bertoncello. Luca pilote des ULM depuis 2014 et est instructeur depuis 2019. Il programme depuis 1988 et est administrateur systèmes à Dresden, Allemagne.&lt;/p&gt;  Ivan Battistella pilote des ULM depuis peu. Il travaille comme consultant software indépendant.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Polonais&lt;/strong&gt; : Sławek Mikuła.&lt;/p&gt;
+
+&lt;h3&gt;Alumni&lt;/h3&gt;
+
+&lt;p&gt;Szymon Kocur (traduction en polonais)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="157"/>
@@ -1671,23 +1753,18 @@ routes. We apologize for any inconvenience!&lt;/p&gt;
 
 &lt;p&gt;Thanks to the help of Sławek Mikuła, the app is again
 available in &lt;strong&gt;Polish language&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-&lt;p&gt;For countries covered by open flightmaps: the map now
-shows nature reserve areas (extremely important if
-you fly in Austria). If avaliable, the height of traffic
-circuits is now displayed prominently. Arrival and
-departure routes for control zones are more clearly marked.
-Flight Information Sectors are shown.&lt;/p&gt;</source>
-        <translation type="vanished">
+        <translation>
 &lt;p&gt;Les cartes des pays converts par les données 
 d&apos;open flightmaps affichent maintenant les espaces 
 naturels protégés. Si ils sont disponibles, les altitudes 
 des circuits et les procédures de départ et d&apos;arrivée 
 sont clairement affichés. Les régions d&apos;information 
 de vol sont aussi affichées.&lt;/p&gt;
+
+&lt;p&gt;Cette nouvelle version contient aussi un bugix qui empêchait 
+d&pos;enregistrer les routes. Nous nous excusons si ce bug vous a gêné !&lt;/p&gt;
+
+&lt;p&gt;Grâce à Sławek Mikuła, l&pos;application est de nouveu traduite en &lt;strong&gt;polonais&lt;/strong&gt;.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -1722,164 +1799,6 @@ de vol sont aussi affichées.&lt;/p&gt;
 &lt;p&gt;Pour mettre à jour les données météo, l&apos;application doit &lt;strong&gt;envoyer votre position et route à l&apos;Aviation Weather Center&lt;/strong&gt; à intervalles réguliers. Si vous êtes d&apos;accord, vous pouvez activer ce service en appuyant sur le bouton ci-dessous. Vous pouvez désactiver ce service à n&apos;importe quel moment via le menu en haut à droite de l&apos;écran.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Nous n&apos;avons aucun contrôle sur les données fournies par l&apos;Aviation Weather Center et ne pouvons donc en aucun cas garantir qu&apos;elles soient correctes.&lt;/strong&gt;&lt;/p&gt;
-</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Authors&lt;/h3&gt;
-
-&lt;br&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
-      &lt;h4&gt;Address&lt;/h4&gt;
-      Stefan Kebekus&lt;br&gt;
-      Wintererstraße 77&lt;br&gt;
-      79104 Freiburg&lt;br&gt;
-      Germany&lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Pic: Patrick Seeger&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;br&gt;
-      &lt;h3&gt;Contributing Authors&lt;/h3&gt;
-      &lt;br&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Adrien Crovato is a private pilot and aerospace engineer. He joined the development team in 2020, and contributes to the C++ and QML code base.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses Enroute as a pilot of ultralight planes. Heiner joined the Enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
-     &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Johannes Zellner joined the development in 2020.  He contributes to the C++ and QML code base of the app and helps with bug fixing.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h3&gt;Manual&lt;/h3&gt;
-
-&lt;p&gt;The manual has kindly been provided by Michael Horbaschk.&lt;/p&gt;
-
-&lt;h3&gt;Translations&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato. Adrien has been described above.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Luca Bertoncello. Luca flies ultralight planes since 2014 and has become a flight instructor in 2019. He programs since 1988 and works as a systems administrator in Dresden, Germany.  Ivan Battistella has recently started to fly ultralight aircraft. He works freelance as a software consultant.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Szymon Kocur, computer Science and aviation enthusiast. Laureate of IT nationwide competitions, including &apos;HackYeah 2019&apos;, and &apos;Golden Wolf 2017&apos; for the best technological project in Poland.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</source>
-        <translation type="vanished">
-&lt;h3&gt;Autheurs&lt;/h3&gt;
-
-&lt;br&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;L&apos;application &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est développée par Stefan Kebekus, amateur pilote depuis 1986 et membre de l&apos;aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
-      &lt;h4&gt;Adresse&lt;/h4&gt;
-      Stefan Kebekus&lt;br&gt;
-      Wintererstraße 77&lt;br&gt;
-      79104 Freiburg&lt;br&gt;
-      Germany&lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Photo: Patrick Seeger&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;br&gt;
-      &lt;h3&gt;Co-autheurs&lt;/h3&gt;
-      &lt;br&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Adrien Crovato est pilote privé et ingénieur en aérospatiale. Il a rejoint l&apos;équipe en 2020 et contribue au code C++ and QML.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Heiner Tholen aime construire des choses, autant analogiques que digitales, en vol autant qu&apos;au sol. Il utilise Enroute en tant que pilote d&apos;ULM. Heiner a rejoint l&apos;équipe mi-2020 et contribue au développement du code C++/QML.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Johannes Zellner a rejoint l&apos;équipe en 2020. Il contribue au code C++ et QML de l&apos;application et aide à résoudre les bugs.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h3&gt;Manuel&lt;/h3&gt;
-
-&lt;p&gt;Le manuel a été écrit par Michael Horbaschk.&lt;/p&gt;
-
-&lt;h3&gt;Traductions&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Français&lt;/strong&gt;: Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Allemand&lt;/strong&gt;: Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;E-Mail&lt;/a&gt;. Markus pilote des deltaplanes et est un &apos;co-pilote&apos; enthousiate sur tout autre type d&apos;appareil.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Italien:&lt;/strong&gt; Ivan Battistella et Luca Bertoncello. Luca pilote des ULM depuis 2014 et est instructeur depuis 2019. Il programme depuis 1988 et est administrateur systèmes à Dresden, Allemagne.&lt;/p&gt;  Ivan Battistella pilote des ULM depuis peu. Il travaille comme consultant software indépendant.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Polonais&lt;/strong&gt;: Szymon Kocur, amateur de sciences informatiques et d&apos;aviation. Lauréat de plusieurs compétitions internationales, parmis lesquelles &apos;HackYeah 2019&apos;, et &apos;Golden Wolf 2017&apos; pour le meilleur projet technologique en Pologne.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
 </translation>
     </message>
     <message>
