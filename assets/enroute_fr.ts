@@ -1762,9 +1762,9 @@ sont clairement affichés. Les régions d&apos;information
 de vol sont aussi affichées.&lt;/p&gt;
 
 &lt;p&gt;Cette nouvelle version contient aussi un bugix qui empêchait 
-d&pos;enregistrer les routes. Nous nous excusons si ce bug vous a gêné !&lt;/p&gt;
+d'enregistrer les routes. Nous nous excusons si ce bug vous a gêné !&lt;/p&gt;
 
-&lt;p&gt;Grâce à Sławek Mikuła, l&pos;application est de nouveu traduite en &lt;strong&gt;polonais&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Grâce à Sławek Mikuła, l'application est de nouveu traduite en &lt;strong&gt;polonais&lt;/strong&gt;.&lt;/p&gt;
 </translation>
     </message>
     <message>
