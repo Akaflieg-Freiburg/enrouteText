@@ -1834,7 +1834,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 &lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Autoren&lt;/h3&gt;
+        <translation>&lt;h3&gt;Autoren&lt;/h3&gt;
 
 &lt;br&gt;
 
