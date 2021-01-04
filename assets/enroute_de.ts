@@ -1848,10 +1848,10 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
       79104 Freiburg&lt;br&gt;
       Germany&lt;br&gt;
       &lt;br&gt;
-      &lt;a href=&amp;apos;mailto:stefan.kebekus@gmail.com&amp;apos;&gt;E-Mail&lt;/a&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;E-Mail&lt;/a&gt;
     &lt;/td&gt;
     &lt;td&gt;
-      &lt;p align=&amp;apos;center&amp;apos;&gt;&amp;amp;nbsp;&lt;img src=&amp;apos;/icons/kebekus.jpg&amp;apos; alt=&amp;apos;Stefan Kebekus&amp;apos; height=&amp;apos;140&amp;apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Foto: Patrick Seeger&lt;/p&gt;
+      &lt;p align=&apos;center&apos;&gt;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Foto: Patrick Seeger&lt;/p&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
@@ -1866,10 +1866,10 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
       &lt;p&gt;Adrien Crovato ist Privatpilot und Luftfahrtingenieur. Er kam 2020 zum Entwicklungsteam mit Beiträgen in C++ und QML.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
-      &lt;a href=&amp;apos;mailto:adriencrovato+code@gmail.com&amp;apos;&gt;E-Mail&lt;/a&gt;
+      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;E-Mail&lt;/a&gt;
     &lt;/td&gt;
     &lt;td&gt;
-      &lt;p align=&amp;apos;center&amp;apos;&gt;&amp;amp;nbsp;&lt;img src=&amp;apos;/icons/crovato.jpg&amp;apos; alt=&amp;apos;Adrien Crovato&amp;apos; height=&amp;apos;140&amp;apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
+      &lt;p align=&apos;center&apos;&gt;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
@@ -1877,10 +1877,10 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
       &lt;p&gt;Heiner Tholen baut gern Dinge, analog und digital, fliegend und bodenbezogen. Er nutzt Enroute als UL-Pilot. Heiner kam Mitte 2020 dazu, ebenfalls mit Beiträgen in C++ und QML.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
-      &lt;a href=&amp;apos;mailto:ul@heinertholen.com&amp;apos;&gt;E-Mail&lt;/a&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;E-Mail&lt;/a&gt;
     &lt;/td&gt;
     &lt;td&gt;
-      &lt;p align=&amp;apos;center&amp;apos;&gt;&amp;amp;nbsp;&lt;img src=&amp;apos;/icons/tholen.jpg&amp;apos; alt=&amp;apos;Heiner Tholen&amp;apos; height=&amp;apos;140&amp;apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
+      &lt;p align=&apos;center&apos;&gt; &lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
      &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
@@ -1888,10 +1888,10 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
       &lt;p&gt;Auch Johannes Zellner kam 2020 dazu, ebenfalls mit C++ und QML, und hilft bei der Fehlerbeseitigung.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
-      &lt;a href=&amp;apos;mailto:johannes@zellner.org&amp;apos;&gt;E-Mail&lt;/a&gt;
+      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;E-Mail&lt;/a&gt;
     &lt;/td&gt;
     &lt;td&gt;
-      &lt;p align=&amp;apos;center&amp;apos;&gt;&amp;amp;nbsp;&lt;img src=&amp;apos;/icons/zellner.jpg&amp;apos; alt=&amp;apos;Johannes Zellner&amp;apos; height=&amp;apos;140&amp;apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
+      &lt;p align=&apos;center&apos;&gt; &lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
@@ -1904,12 +1904,15 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 
 &lt;p&gt;&lt;strong&gt;Französisch:&lt;/strong&gt; Adrien Crovato - s.o.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Deutsch:&lt;/strong&gt; Markus Sachs. Markus fliegt Trike und ist begeisterter &amp;apos;Co&amp;apos; bei allem anderen, das fliegt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deutsch:&lt;/strong&gt; Markus Sachs. Markus fliegt Trike und ist begeisterter &apos;Co&apos;; bei allem anderen, das fliegt.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Italienisch:&lt;/strong&gt; Ivan Battistella und Luca Bertoncello. Luca fliegt ULs seit 2014 und wurde 2019 Fluglehrer. Er programmiert seit 1988 und arbeitet als Systemadministrator in Dresden. Ivan Battistella begann vor kurzem mit der UL-Fliegerei. Er arbeitet als freiberuflicher Softwareberater.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Polnisch:&lt;/strong&gt;Sławek Mikuła.&lt;/p&gt;
-&lt;h3&gt;Alumni&lt;/h3&gt;&lt;p&gt;Szymon Kocur (Übersetzung ins Polnische)&lt;/p&gt;</translation>
+&lt;p&gt;&lt;strong&gt;Polnisch:&lt;/strong&gt; Sławek Mikuła.&lt;/p&gt;
+
+&lt;h3&gt;Alumni&lt;/h3&gt;
+
+&lt;p&gt;Szymon Kocur (Übersetzung ins Polnische)&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="121"/>
