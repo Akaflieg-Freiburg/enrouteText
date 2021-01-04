@@ -1851,7 +1851,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
       &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;E-Mail&lt;/a&gt;
     &lt;/td&gt;
     &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Foto: Patrick Seeger&lt;/p&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Foto: Patrick Seeger&lt;/p&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
@@ -1869,7 +1869,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
       &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;E-Mail&lt;/a&gt;
     &lt;/td&gt;
     &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
@@ -1880,7 +1880,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
       &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;E-Mail&lt;/a&gt;
     &lt;/td&gt;
     &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt; &lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
      &lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
@@ -1891,7 +1891,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
       &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;E-Mail&lt;/a&gt;
     &lt;/td&gt;
     &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt; &lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
