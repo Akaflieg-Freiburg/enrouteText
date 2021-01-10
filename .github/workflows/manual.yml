@@ -14,18 +14,22 @@ jobs:
     - name: Install Additional Software
       run: |
         sudo apt install libreoffice --no-install-recommends  --no-install-suggests
-        sudo apt install texlive-latex-base --no-install-recommends  --no-install-suggests
+        sudo apt install latexmk texlive-latex-base --no-install-recommends  --no-install-suggests
         pip3 install Sphinx
         pip3 install sphinx-rtd-theme
     - name: Generate PDF from libreoffice document
       run: |
         cd EnrouteManual
         libreoffice --convert-to pdf IntroducingEnroute.odt
-    - name: Generate sphinx manual
+    - name: Check hyperlinks in sphinx manual
       run: |
         export PATH=~/.local/bin:$PATH
         cd manual
         make linkcheck
+    - name: Generate sphinx manual
+      run: |
+        export PATH=~/.local/bin:$PATH
+        cd manual
         make html
         make latexpdf
         make epub
@@ -36,3 +40,10 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         FOLDER: EnrouteManual
         TARGET_FOLDER: manual
+    - name: Publish sphinx documentation
+      uses: JamesIves/github-pages-deploy-action@releases/v3
+      with:
+        BRANCH: gh-pages
+        ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        FOLDER: manual/_build
+        TARGET_FOLDER: experimentalmanual
