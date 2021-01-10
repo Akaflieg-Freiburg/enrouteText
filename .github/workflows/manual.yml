@@ -14,7 +14,7 @@ jobs:
     - name: Install Additional Software
       run: |
         sudo apt install libreoffice --no-install-recommends  --no-install-suggests
-        sudo apt install latexmk texlive-latex-base texlive-latex-recommended --no-install-recommends  --no-install-suggests
+        sudo apt install latexmk texlive-base texlive-latex-base texlive-latex-recommended --no-install-recommends  --no-install-suggests
         pip3 install Sphinx
         pip3 install sphinx-rtd-theme
     - name: Generate PDF from libreoffice document
