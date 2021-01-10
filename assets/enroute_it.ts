@@ -1829,7 +1829,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Adrien Crovato è un pilota privato e ingegnere aerospaziale. È entrato a far parte del team di sviluppo nel 2020 e contribuisce alla base di codice C ++ e QML.&lt;/p&gt;
+      &lt;p&gt;Adrien Crovato è un pilota privato e ingegnere aerospaziale. È entrato a far parte del team di sviluppo nel 2020 e contribuisce alla base di codice C++ e QML.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
       &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
@@ -1851,7 +1851,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;Johannes Zellner si è unito allo sviluppo nel 2020. Contribuisce alla base di codice C ++ e QML dell&apos;app e aiuta con la correzione dei bug.&lt;/p&gt;
+      &lt;p&gt;Johannes Zellner si è unito allo sviluppo nel 2020. Contribuisce alla base di codice C++ e QML dell&apos;app e aiuta con la correzione dei bug.&lt;/p&gt;
       &lt;br&gt;
       &lt;br&gt;
       &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
@@ -2696,7 +2696,7 @@ necessario.&lt;/p&gt;
 
 &lt;h3&gt;Unisciti allo sviluppo&lt;/h3&gt;
 
-&lt;p&gt;Se sei fluente in C ++ e se desideri aiutare
+&lt;p&gt;Se sei fluente in C++ e se desideri aiutare
 con la programmazione, mettiti in contatto con noi entro
 apertura di un problema di GitHub. Stiamo anche lottando con la gestione della carica di Android e sarei grato per qualsiasi aiuto
 che potremmo ottenere.&lt;/p&gt;
@@ -2705,7 +2705,7 @@ che potremmo ottenere.&lt;/p&gt;
 
 &lt;p&gt;Questa app dovrebbe funzionare bene sui dispositivi Apple. Se tu volessi
 piace portare l&apos;app su iOS e se hai sviluppo
-esperienza con programmazione C ++ / Qt e con sistemi Apple,
+esperienza con programmazione C++ / Qt e con sistemi Apple,
 mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 </translation>
     </message>
