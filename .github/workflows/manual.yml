@@ -23,6 +23,7 @@ jobs:
         libreoffice --convert-to pdf IntroducingEnroute.odt
     - name: Generate sphinx manual
       run: |
+        export PATH=~/.local/bin:$PATH
         cd manual
         make linkcheck
         make html
