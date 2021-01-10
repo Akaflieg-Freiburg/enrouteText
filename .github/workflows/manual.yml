@@ -1,4 +1,4 @@
-name: Generate PDF version of manual
+name: Generate manual
 
 on:
   push:
@@ -14,10 +14,20 @@ jobs:
     - name: Install Additional Software
       run: |
         sudo apt install libreoffice --no-install-recommends  --no-install-suggests
-    - name: Generate PDF
+        sudo apt install texlive-latex-base --no-install-recommends  --no-install-suggests
+        pip3 install Sphinx
+        pip3 install sphinx-rtd-theme
+    - name: Generate PDF from libreoffice document
       run: |
         cd EnrouteManual
         libreoffice --convert-to pdf IntroducingEnroute.odt
+    - name: Generate sphinx manual
+      run: |
+        cd manual
+        make linkcheck
+        make html
+        make latexpdf
+        make epub
     - name: Publish Documentation
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
