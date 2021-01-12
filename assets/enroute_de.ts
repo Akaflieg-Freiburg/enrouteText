@@ -932,67 +932,67 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="31"/>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="59"/>
         <source>Satellite Status</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS-Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="71"/>
         <source>Last Fix</source>
-        <translation type="unfinished">Letzte Position</translation>
+        <translation>Letzte Position</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="81"/>
         <source>Mode</source>
-        <translation type="unfinished">Modus</translation>
+        <translation>Modus</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="85"/>
         <source>Flight</source>
-        <translation type="unfinished">Flug</translation>
+        <translation>Flug</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="85"/>
         <source>Ground</source>
-        <translation type="unfinished">Boden</translation>
+        <translation>Boden</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="95"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontal</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="102"/>
         <source>Latitude</source>
-        <translation type="unfinished">Breite</translation>
+        <translation>Breite</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="112"/>
         <source>Longitude</source>
-        <translation type="unfinished">Länge</translation>
+        <translation>Länge</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="122"/>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="132"/>
         <source>GS</source>
-        <translation type="unfinished">GS</translation>
+        <translation>GS</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="142"/>
         <source>TT</source>
-        <translation type="unfinished">TT</translation>
+        <translation>TT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="156"/>
         <source>Vertical</source>
-        <translation type="unfinished">Vertikal</translation>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="163"/>
         <source>ALT</source>
-        <translation type="unfinished">ALT</translation>
+        <translation>ALT</translation>
     </message>
 </context>
 <context>
@@ -2550,12 +2550,12 @@ you fly in Austria.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="465"/>
         <source>Map Data Copyright Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Copyright der Kartendaten</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="472"/>
         <source>Map Data Copyright Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Copyright-Information zu den Kartendaten</translation>
     </message>
 </context>
 <context>
@@ -3138,12 +3138,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="45"/>
         <source>New waypoint name</source>
-        <translation type="unfinished"></translation>
+        <translation>Name des neuen Wegpunkts</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="59"/>
         <source>undefined</source>
-        <translation type="unfinished">unbestimmt</translation>
+        <translation>unbestimmt</translation>
     </message>
 </context>
 <context>
@@ -4371,32 +4371,32 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1586"/>
         <source>thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>Gewitter mit Schnee</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1589"/>
         <source>thunderstorm with snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>Gewitter mit Schnee in der Nähe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1592"/>
         <source>light thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>leichtes Gewitter mit Schnee</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1595"/>
         <source>moderate thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>mäßiges Gewitter mit Schnee</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1598"/>
         <source>heavy thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>schweres Gewitter mit Schnee</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1601"/>
         <source>recent thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>vor kurzem Gewitter mit Schnee</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2227"/>
