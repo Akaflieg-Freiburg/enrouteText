@@ -909,67 +909,67 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="31"/>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="59"/>
         <source>Satellite Status</source>
-        <translation type="unfinished">Status Satelity</translation>
+        <translation>Status Satelity</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="71"/>
         <source>Last Fix</source>
-        <translation type="unfinished">Ostatnia korekta</translation>
+        <translation>Ostatnia korekta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="81"/>
         <source>Mode</source>
-        <translation type="unfinished">Tryb</translation>
+        <translation>Tryb</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="85"/>
         <source>Flight</source>
-        <translation type="unfinished">Lot</translation>
+        <translation>Lot</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="85"/>
         <source>Ground</source>
-        <translation type="unfinished">Ziemia</translation>
+        <translation>Ziemia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="95"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Poziome</translation>
+        <translation>Poziome</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="102"/>
         <source>Latitude</source>
-        <translation type="unfinished">Szerokość</translation>
+        <translation>Szerokość</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="112"/>
         <source>Longitude</source>
-        <translation type="unfinished">Długość</translation>
+        <translation>Długość</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="122"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="132"/>
         <source>GS</source>
-        <translation type="unfinished">GS</translation>
+        <translation>GS</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="142"/>
         <source>TT</source>
-        <translation type="unfinished">TT</translation>
+        <translation>TT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="156"/>
         <source>Vertical</source>
-        <translation type="unfinished">Pionowe</translation>
+        <translation>Pionowe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="163"/>
         <source>ALT</source>
-        <translation type="unfinished">ALT</translation>
+        <translation>ALT</translation>
     </message>
 </context>
 <context>
@@ -2242,12 +2242,12 @@ Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="465"/>
         <source>Map Data Copyright Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane mapy - informacje o prawach autorskich</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="472"/>
         <source>Map Data Copyright Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane mapy - informacje o prawach autorskich</translation>
     </message>
 </context>
 <context>
@@ -2833,12 +2833,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="45"/>
         <source>New waypoint name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowa nazwa punktu orientacyjnego</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="59"/>
         <source>undefined</source>
-        <translation type="unfinished">niezdefiniowano</translation>
+        <translation>niezdefiniowano</translation>
     </message>
 </context>
 <context>
@@ -4448,32 +4448,32 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1586"/>
         <source>thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>burza ze śniegiem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1589"/>
         <source>thunderstorm with snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>burza ze śniegiem w pobliżu</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1592"/>
         <source>light thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>lekka burza ze śniegiem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1595"/>
         <source>moderate thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>umiarkowana burza ze śniegiem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1598"/>
         <source>heavy thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężka burza ze śniegiem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1601"/>
         <source>recent thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawna burza ze śniegiem</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1611"/>
