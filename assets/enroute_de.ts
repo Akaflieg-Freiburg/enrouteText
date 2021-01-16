@@ -1181,7 +1181,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="241"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="257"/>
         <source>Exported flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugstrecke exportiert</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="267"/>
@@ -1202,7 +1202,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="279"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="296"/>
         <source>Opened flight route in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugstrecke in anderer App geöffnet</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="284"/>
@@ -1222,7 +1222,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="324"/>
         <source>Reversed flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugstrecke umgekehrt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="340"/>
@@ -1308,7 +1308,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="666"/>
         <source>Cleared flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugstrecke gelöscht</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="695"/>
@@ -1363,13 +1363,13 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="182"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
         <source>Shared flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugstrecke geteilt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="184"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="205"/>
         <source>Exported flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugstrecke exportiert</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="190"/>
@@ -1390,7 +1390,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="227"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="244"/>
         <source>Opened flight route in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugstrecke in anderer App geöffnet</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="232"/>
@@ -1445,7 +1445,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="449"/>
         <source>Removed flight route from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugstrecke vom Gerät gelöscht</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="463"/>
@@ -1465,7 +1465,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="517"/>
         <source>Renamed flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugstrecke umbenannt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="532"/>
@@ -1526,7 +1526,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="140"/>
         <source>Saved flight route %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugstrecke %1 gespeichert</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="192"/>
@@ -2133,7 +2133,9 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 There are many small improvements, in particular for **flight route editing**
 and **flight route import**.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Es gibt viele kleine Verbesserungen, vor allem bei der **Bearbeitung** und dem **Import** von **Flugstrecken**.
+</translation>
     </message>
     <message>
         <source>
@@ -3168,22 +3170,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="361"/>
         <source>New flight route: direct to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Flugstrecke: direkt zu %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
         <source>Added %1 to route.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 zur Strecke hinzugefügt.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="395"/>
         <source>Removed %1 from route.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 aus der Strecke entfernt.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="432"/>
         <source>New light route: direct to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neue Flugstrecke: direkt nach %1.</translation>
     </message>
     <message>
         <source>mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Thank you for suggesting a correction in the map data. Please describe the issue here.</source>
