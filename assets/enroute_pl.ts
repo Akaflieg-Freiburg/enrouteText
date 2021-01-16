@@ -1158,7 +1158,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="241"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="257"/>
         <source>Exported flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu wyeksportowany</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="246"/>
@@ -1179,7 +1179,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="279"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="296"/>
         <source>Opened flight route in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu otwarty w innej aplikacji</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="284"/>
@@ -1199,7 +1199,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="324"/>
         <source>Reversed flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu odwrócony</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="340"/>
@@ -1275,7 +1275,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="646"/>
         <source>Clear route?</source>
-        <translation>Wyczyścić trasę?</translation>
+        <translation>Wyczyścić plan lotu?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="658"/>
@@ -1285,7 +1285,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="666"/>
         <source>Cleared flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu wyczyszczony</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="695"/>
@@ -1340,13 +1340,13 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="182"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
         <source>Shared flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu podzielony</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="184"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="205"/>
         <source>Exported flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu weksportowany</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="190"/>
@@ -1367,7 +1367,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="227"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="244"/>
         <source>Opened flight route in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu otwarty w innej aplikacji</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="232"/>
@@ -1422,7 +1422,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="449"/>
         <source>Removed flight route from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu usunięty z urządzenia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="463"/>
@@ -1442,7 +1442,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="517"/>
         <source>Renamed flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmieniono nazwę planu lotu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="532"/>
@@ -1503,7 +1503,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="140"/>
         <source>Saved flight route %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisano plan lotu %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="192"/>
@@ -1992,7 +1992,10 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 There are many small improvements, in particular for **flight route editing**
 and **flight route import**.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Jest wiele małych usprawnień, zwłaszcza dla **edycji planu lotu**
+oraz **importu planu lotu**.
+</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Bug Report&lt;/h3&gt;
@@ -2863,22 +2866,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="361"/>
         <source>New flight route: direct to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowa trasa lotu: bezpośrednio do %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
         <source>Added %1 to route.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodano %1 do trasy.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="395"/>
         <source>Removed %1 from route.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usunięto %1 z trasy.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="432"/>
         <source>New light route: direct to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nowa lekka trasa: bezpośrednio do %1.</translation>
     </message>
     <message>
         <source>mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Thank you for suggesting a correction in the map data. Please describe the issue here.</source>
