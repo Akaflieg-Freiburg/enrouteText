@@ -925,67 +925,67 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="31"/>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="59"/>
         <source>Satellite Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Stato satelliti</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="71"/>
         <source>Last Fix</source>
-        <translation type="unfinished">Ultimo aggiornamento</translation>
+        <translation>Ultimo Fix</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="81"/>
         <source>Mode</source>
-        <translation type="unfinished">Modalità</translation>
+        <translation>Modalità</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="85"/>
         <source>Flight</source>
-        <translation type="unfinished">Volo</translation>
+        <translation>Volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="85"/>
         <source>Ground</source>
-        <translation type="unfinished">Suolo</translation>
+        <translation>Suolo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="95"/>
         <source>Horizontal</source>
-        <translation type="unfinished">orizzontale</translation>
+        <translation>Orizzontale</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="102"/>
         <source>Latitude</source>
-        <translation type="unfinished">Latitudine</translation>
+        <translation>Latitudine</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="112"/>
         <source>Longitude</source>
-        <translation type="unfinished">Longitudine</translation>
+        <translation>Longitudine</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="122"/>
         <source>Error</source>
-        <translation type="unfinished">Errore</translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="132"/>
         <source>GS</source>
-        <translation type="unfinished">GS</translation>
+        <translation>GS</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="142"/>
         <source>TT</source>
-        <translation type="unfinished">TT</translation>
+        <translation>TT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="156"/>
         <source>Vertical</source>
-        <translation type="unfinished">Verticale</translation>
+        <translation>Verticale</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="163"/>
         <source>ALT</source>
-        <translation type="unfinished">ALT</translation>
+        <translation>ALT</translation>
     </message>
 </context>
 <context>
@@ -1174,7 +1174,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="241"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="257"/>
         <source>Exported flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinerari di volo esportati</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="246"/>
@@ -1195,7 +1195,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="279"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="296"/>
         <source>Opened flight route in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri l&apos;itinerario in un&apos;altra app</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="284"/>
@@ -1215,7 +1215,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="324"/>
         <source>Reversed flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Inverti l&apos;itinerario</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="340"/>
@@ -1301,7 +1301,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="666"/>
         <source>Cleared flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Pulisci itinerario</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="695"/>
@@ -1356,13 +1356,13 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="182"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
         <source>Shared flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Condividi l&apos;itinerario</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="184"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="205"/>
         <source>Exported flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinerario esportato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="190"/>
@@ -1383,7 +1383,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="227"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="244"/>
         <source>Opened flight route in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Apri l&apos;itinerario di volo con un&apos;altra app</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="232"/>
@@ -1438,7 +1438,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="449"/>
         <source>Removed flight route from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi l&apos;itinerario di volo dal dispositivo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="463"/>
@@ -1458,7 +1458,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="517"/>
         <source>Renamed flight route</source>
-        <translation type="unfinished"></translation>
+        <translation>Rinomina l&apos;itinerario di volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="532"/>
@@ -1519,7 +1519,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="140"/>
         <source>Saved flight route %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 itinerari di volo salvati</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="192"/>
@@ -2100,7 +2100,10 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
 There are many small improvements, in particular for **flight route editing**
 and **flight route import**.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Ci sono vari piccoli miglioramenti, come in particolare **modifica dell&apos;itinerario di volo**
+ e **l&apos;importazione dell&apos;itinerario**.
+</translation>
     </message>
     <message>
         <source>
@@ -2539,12 +2542,12 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="483"/>
         <source>Map Data Copyright Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Copyright Info Mappe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="490"/>
         <source>Map Data Copyright Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni Copyright Mappe</translation>
     </message>
 </context>
 <context>
@@ -3096,22 +3099,22 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="361"/>
         <source>New flight route: direct to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo itinerario di volo: diretto a %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
         <source>Added %1 to route.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiunto %1 all&apos;itinerario.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="395"/>
         <source>Removed %1 from route.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimosso %1 dall&apos;itinerario.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="432"/>
         <source>New light route: direct to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo itinerario di volo: diretto a %1.</translation>
     </message>
     <message>
         <source>mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Thank you for suggesting a correction in the map data. Please describe the issue here.</source>
@@ -3146,12 +3149,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="45"/>
         <source>New waypoint name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuovo nome del waypoint</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="59"/>
         <source>undefined</source>
-        <translation type="unfinished">non specificato</translation>
+        <translation>non specificato</translation>
     </message>
 </context>
 <context>
@@ -4785,32 +4788,32 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1586"/>
         <source>thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>temporale con neve</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1589"/>
         <source>thunderstorm with snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>temporale con neve nelle vicinanze</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1592"/>
         <source>light thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>leggero temporale con neve</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1595"/>
         <source>moderate thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>moderato temporale con neve</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1598"/>
         <source>heavy thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>forte temporale con neve</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1601"/>
         <source>recent thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>recente temporale con neve</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1611"/>
