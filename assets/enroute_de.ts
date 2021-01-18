@@ -573,7 +573,7 @@ einige Regionen verfügbar, aber nicht für Ihr Land. Wir kennen keine
 kostenlose, öffentlich verfügbare und verlässliche Quelle für
 solche Informationen, die wir in unserer App verwenden könnten.&lt;/p&gt;
 
-&lt;p&gt;Hier können wir nicht machen. Es tut uns leid, dass wir nichts
+&lt;p&gt;Hier können wir nichts machen. Es tut uns leid, dass wir nichts
 anderes dazu sagen können.&lt;/p&gt;
 </translation>
     </message>
