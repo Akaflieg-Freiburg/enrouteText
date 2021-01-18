@@ -3037,7 +3037,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="78"/>
         <source>Night mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Nacht-Modus</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="92"/>
@@ -4297,32 +4297,32 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1336"/>
         <source>freezing ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>gefrierende Eiskörner</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1339"/>
         <source>freezing ice pellet precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>gefrierende Eiskörner in der Nähe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1342"/>
         <source>light freezing ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>leichte gefrierende Eiskörner</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1345"/>
         <source>moderate freezing ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>mäßige gefrierende Eiskörner</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1348"/>
         <source>heavy freezing ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>schwere gefrierende Eiskörner</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1351"/>
         <source>recent freezing ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>vor kurzem gefrierende Eiskörner</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1364"/>
