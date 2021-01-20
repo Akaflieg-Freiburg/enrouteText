@@ -3224,7 +3224,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="45"/>
         <source>New waypoint name</source>
-        <translation>Name des neuen Wegpunkts</translation>
+        <translation>Neuer Name des Wegpunkts</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="59"/>
