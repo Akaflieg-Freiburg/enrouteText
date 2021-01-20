@@ -1023,7 +1023,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <location filename="../../../src/FlightRoute.cpp" line="443"/>
         <location filename="../../../src/FlightRoute.cpp" line="492"/>
         <source>Flight Route</source>
-        <translation>Flugstrecke</translation>
+        <translation>Route</translation>
     </message>
     <message>
         <location filename="../../../src/FlightRoute.cpp" line="264"/>
@@ -1088,7 +1088,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/FlightRoute_GPX.cpp" line="297"/>
         <source>Error interpreting GPX file: no valid route found.</source>
-        <translation>Fehler beim Lesen der GPX-Datei: keine gültige Strecke gefunden.</translation>
+        <translation>Fehler beim Lesen der GPX-Datei: keine gültige Route gefunden.</translation>
     </message>
 </context>
 <context>
@@ -1124,7 +1124,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="33"/>
         <source>Flight Route</source>
-        <translation>Flugstrecke</translation>
+        <translation>Route</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="98"/>
@@ -1180,7 +1180,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="241"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="257"/>
         <source>Exported flight route</source>
-        <translation>Flugstrecke exportiert</translation>
+        <translation>Route exportiert</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="267"/>
@@ -1201,7 +1201,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="279"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="296"/>
         <source>Opened flight route in other app</source>
-        <translation>Flugstrecke in anderer App geöffnet</translation>
+        <translation>Route in anderer App geöffnet</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="284"/>
@@ -1221,17 +1221,17 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="324"/>
         <source>Reversed flight route</source>
-        <translation>Flugstrecke umgekehrt</translation>
+        <translation>Route umgekehrt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="340"/>
         <source>Route</source>
-        <translation>Strecke</translation>
+        <translation>Route</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="367"/>
         <source>&lt;h2&gt;Empty Route&lt;/h2&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below.&lt;/p&gt;</source>
-        <translation>&lt;h2&gt;Keine Strecke definiert&lt;/h2&gt;&lt;p&gt;Drücken Sie unten &lt;strong&gt;Wegpunkt hinzufügen&lt;/strong&gt;.&lt;/p&gt;</translation>
+        <translation>&lt;h2&gt;Keine Route definiert&lt;/h2&gt;&lt;p&gt;Drücken Sie unten &lt;strong&gt;Wegpunkt hinzufügen&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="485"/>
@@ -1297,17 +1297,17 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="646"/>
         <source>Clear route?</source>
-        <translation>Strecke löschen?</translation>
+        <translation>Route löschen?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="658"/>
         <source>Once erased, the current flight route cannot be restored.</source>
-        <translation>Die aktuelle Strecke kann nach dem Löschen nicht wiederhergestellt werden.</translation>
+        <translation>Die aktuelle Route kann nach dem Löschen nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="666"/>
         <source>Cleared flight route</source>
-        <translation>Flugstrecke gelöscht</translation>
+        <translation>Route gelöscht</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="695"/>
@@ -1321,7 +1321,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="31"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="384"/>
         <source>Flight Route Library</source>
-        <translation>Flugstrecken</translation>
+        <translation>Routen-Bibliothek</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="80"/>
@@ -1336,7 +1336,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="113"/>
         <source>Filter Flight Route Names</source>
-        <translation>Flugstrecken nach Namen filtern</translation>
+        <translation>Routen nach Namen filtern</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="151"/>
@@ -1362,13 +1362,13 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="182"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
         <source>Shared flight route</source>
-        <translation>Flugstrecke geteilt</translation>
+        <translation>Route geteilt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="184"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="205"/>
         <source>Exported flight route</source>
-        <translation>Flugstrecke exportiert</translation>
+        <translation>Route exportiert</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="190"/>
@@ -1389,7 +1389,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="227"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="244"/>
         <source>Opened flight route in other app</source>
-        <translation>Flugstrecke in anderer App geöffnet</translation>
+        <translation>Route in anderer App geöffnet</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="232"/>
@@ -1409,12 +1409,12 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="308"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes available. To add a route here, chose &apos;Flight Route&apos; from the main menu, edit a route and save it to the library.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Strecken vorhanden. Zum Hinzufügen &apos;Flugstrecke&apos; im Hauptmenü wählen, eine Strecke edieren und dann speichern.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Routen vorhanden. Zum Hinzufügen &apos;Route&apos; im Hauptmenü wählen, eine Route erstellen und dann speichern.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="309"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes match your filter criteria.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Strecken passen zur Auswahl.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Routen passen zur Auswahl.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="344"/>
@@ -1424,12 +1424,12 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="393"/>
         <source>Overwrite current flight route?</source>
-        <translation>Aktuelle Flugstrecke überschreiben?</translation>
+        <translation>Aktuelle Route überschreiben?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="403"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation>Die Strecke &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Strecke. Diese kann dann nicht mehr wiederhergestellt werden.</translation>
+        <translation>Die Route &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Route. Diese kann dann nicht mehr wiederhergestellt werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="427"/>
@@ -1439,22 +1439,22 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="437"/>
         <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation>Die Strecke &lt;strong&gt;%1&lt;/strong&gt; kann nach dem Löschen nicht wiederhergestellt werden.</translation>
+        <translation>Die Route &lt;strong&gt;%1&lt;/strong&gt; kann nach dem Löschen nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="449"/>
         <source>Removed flight route from device</source>
-        <translation>Flugstrecke vom Gerät gelöscht</translation>
+        <translation>Route vom Gerät gelöscht</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="463"/>
         <source>Rename Flight Route</source>
-        <translation>Flugstrecke umbenennen</translation>
+        <translation>Route umbenennen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="481"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation>Geben Sie für die Strecke &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translation>
+        <translation>Geben Sie für die Route &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="507"/>
@@ -1464,7 +1464,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="517"/>
         <source>Renamed flight route</source>
-        <translation>Flugstrecke umbenannt</translation>
+        <translation>Route umbenannt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="532"/>
@@ -1477,17 +1477,17 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="30"/>
         <source>Load Flight Route from Library…</source>
-        <translation>Flugstrecke aus Bibliothek laden …</translation>
+        <translation>Route aus Bibliothek laden …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="79"/>
         <source>Choose a flight route from the list below.</source>
-        <translation>Flugstrecke aus der Liste unten auswählen.</translation>
+        <translation>Route aus der Liste unten auswählen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="89"/>
         <source>Filter Flight Route Names</source>
-        <translation>Flugstrecken nach Namen filtern</translation>
+        <translation>Routen nach Namen filtern</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="151"/>
@@ -1497,12 +1497,12 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="184"/>
         <source>Overwrite current flight route?</source>
-        <translation>Aktuelle Flugstrecke überschreiben?</translation>
+        <translation>Aktuelle Route überschreiben?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="194"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation>Die Strecke &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Strecke. Diese kann dann nicht wiederhergestellt werden.</translation>
+        <translation>Die Route &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Route. Diese kann dann nicht wiederhergestellt werden.</translation>
     </message>
 </context>
 <context>
@@ -1510,7 +1510,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="30"/>
         <source>Save Flight Route…</source>
-        <translation>Flugstrecke speichern …</translation>
+        <translation>Route speichern …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="77"/>
@@ -1520,22 +1520,22 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="88"/>
         <source>Flight Route Name</source>
-        <translation>Name der Flugstrecke</translation>
+        <translation>Name der Route</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="146"/>
         <source>Saved flight route %1</source>
-        <translation>Flugstrecke %1 gespeichert</translation>
+        <translation>Route %1 gespeichert</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="198"/>
         <source>Overwrite flight route?</source>
-        <translation>Flugstrecke überschreiben?</translation>
+        <translation>Route überschreiben?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="205"/>
         <source>The route &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
-        <translation>Die Strecke &lt;strong&gt;%1&lt;/strong&gt; besteht schon in der Bibliothek. Überschreiben?</translation>
+        <translation>Die Route &lt;strong&gt;%1&lt;/strong&gt; besteht schon in der Bibliothek. Überschreiben?</translation>
     </message>
     <message>
         <source>Enter a file name or choose an existing name from the list below.</source>
@@ -1597,17 +1597,17 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="68"/>
         <source>Import Flight Route?</source>
-        <translation>Flugstrecke importieren?</translation>
+        <translation>Route importieren?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="75"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation>Dies überschreibt die aktuelle Strecke. Sie kann danach nicht wiederhergestellt werden.</translation>
+        <translation>Dies überschreibt die aktuelle Route. Sie kann danach nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="124"/>
         <source>Error importing flight route</source>
-        <translation>Fehler beim Import der Flugstrecke</translation>
+        <translation>Fehler beim Import der Route</translation>
     </message>
 </context>
 <context>
@@ -2133,7 +2133,7 @@ There are many small improvements, in particular for **flight route editing**
 and **flight route import**.
 </source>
         <translation>
-Es gibt viele kleine Verbesserungen, vor allem bei der **Bearbeitung** und dem **Import** von **Flugstrecken**.
+Es gibt viele kleine Verbesserungen, vor allem bei der **Bearbeitung** und dem **Import** von **Routen**.
 </translation>
     </message>
     <message>
@@ -2452,11 +2452,11 @@ you fly in Austria.&lt;/p&gt;</source>
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Die Flugstrecken werden im Standard-&lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON-Format&lt;/a&gt; im folgenden Ordner gespeichert:&lt;p&gt;
+        <translation>&lt;p&gt;Die Routen werden im Standard-&lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON-Format&lt;/a&gt; im folgenden Ordner gespeichert:&lt;p&gt;
 
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Auf die Flugstrecken kann aus anderen Programmen wie etwa Backup-Software oder Datei-Synchronisierung zugegriffen werden. Dadurch kann eine Flugstreckenbibliothek mit anderen Geräten geteilt werden.&lt;/p&gt;</translation>
+&lt;p&gt;Auf die Routen kann aus anderen Programmen wie etwa Backup-Software oder Datei-Synchronisierung zugegriffen werden. Dadurch kann die Routenbibliothek mit anderen Geräten geteilt werden.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;Adrien Crovato and Stefan Kebekus have implemented &lt;strong&gt;METAR/TAF&lt;/strong&gt; access. Look for the new &lt;strong&gt;Weather&lt;/strong&gt; entry in the main menu to try it out!&lt;/p&gt;
@@ -2483,7 +2483,7 @@ you fly in Austria.&lt;/p&gt;</source>
       
 &lt;p&gt;Wie viele andere Programme nutzt diese App Wetterdaten des &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, einer Website der US-Regierung.&lt;/p&gt;
 
-&lt;p&gt;Um aktuelle Wetterinformationen abrufen zu können, muss die App &lt;strong&gt;Ihren Standort und Ihre aktuelle Strecke  regelmäßig an das Aviation Weather Center übertragen&lt;/strong&gt;. Wenn Sie damit einverstanden sind, können Sie die Wetterfunktion mit einem Klick auf dem Knopf unten aktivieren.  Sie können die Funktion über das Dreipunktemenü oben auf dem Schirm jederzeit wieder abschalten.&lt;/p&gt;
+&lt;p&gt;Um aktuelle Wetterinformationen abrufen zu können, muss die App &lt;strong&gt;Ihren Standort und Ihre aktuelle Route regelmäßig an das Aviation Weather Center übertragen&lt;/strong&gt;. Wenn Sie damit einverstanden sind, können Sie die Wetterfunktion mit einem Klick auf dem Knopf unten aktivieren.  Sie können die Funktion über das Dreipunktemenü oben auf dem Schirm jederzeit wieder abschalten.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Wir haben keinen Einfluss auf die Daten des Aviation Weather Center. Wir garantieren die Richtigkeit der Wetterinformationen in keiner Weise!&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
@@ -2752,7 +2752,7 @@ you fly in Austria.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="73"/>
         <source>Export flight route</source>
-        <translation>Exportiere Flugstrecke</translation>
+        <translation>Exportiere Route</translation>
     </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="75"/>
@@ -3047,7 +3047,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="99"/>
         <source>Flight Routes</source>
-        <translation>Flugstrecken</translation>
+        <translation>Routen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="135"/>
@@ -3174,22 +3174,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="361"/>
         <source>New flight route: direct to %1.</source>
-        <translation>Neue Flugstrecke: direkt zu %1.</translation>
+        <translation>Neue Route: direkt zu %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="379"/>
         <source>Added %1 to route.</source>
-        <translation>%1 zur Strecke hinzugefügt.</translation>
+        <translation>%1 zur Route hinzugefügt.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="395"/>
         <source>Removed %1 from route.</source>
-        <translation>%1 aus der Strecke entfernt.</translation>
+        <translation>%1 aus der Route entfernt.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="432"/>
         <source>New light route: direct to %1.</source>
-        <translation>Neue Flugstrecke: direkt nach %1.</translation>
+        <translation>Neue Route: direkt nach %1.</translation>
     </message>
     <message>
         <source>mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Thank you for suggesting a correction in the map data. Please describe the issue here.</source>
@@ -3211,12 +3211,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="408"/>
         <source>Overwrite current flight route?</source>
-        <translation>Aktuelle Flugstrecke überschreiben?</translation>
+        <translation>Aktuelle Route überschreiben?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="418"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
-        <translation>Die aktuelle Strecke kann nach dem Überschreiben nicht wiederhergestellt werden.</translation>
+        <translation>Die aktuelle Route kann nach dem Überschreiben nicht wiederhergestellt werden.</translation>
     </message>
 </context>
 <context>
@@ -6264,7 +6264,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="70"/>
         <source>Route</source>
-        <translation>Flugstrecke</translation>
+        <translation>Route</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="119"/>
