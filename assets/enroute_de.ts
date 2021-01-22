@@ -2239,7 +2239,11 @@ for **flight route editing** and **flight route import**.
 It is now possible to assign names to the waypoints of your
 flight route.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Zugunsten besserer Lesbarkeit wurde der Kartenkontrast erhöht, und die App ist nicht mehr ganz so &quot;bunt&quot; wie bisher. Es gibt jetzt einen **Nacht-Modus**, speziell gemacht für **Nachtflug**.
+
+Dazu kommen viele weitere kleine Verbesserungen, insbesondere bei der **Bearbeitung** und dem **Import** von **Routen**. Sie können den Wegpunkten Ihrer Routen jetzt eigene Namen geben.
+</translation>
     </message>
     <message>
         <source>
