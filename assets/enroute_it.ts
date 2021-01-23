@@ -189,7 +189,7 @@ di seguito.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="49"/>
         <source>Go back in bug report</source>
-        <translation type="unfinished"></translation>
+        <translation>Ritorna alla segnalazione bug</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="191"/>
@@ -636,7 +636,12 @@ BIC:     GENODE61FR1
 Bank:    Volksbank Freiburg
 Message: Enroute Flight Navigation
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+IBAN:    DE35 6809 0000 0027 6409 07
+BIC:     GENODE61FR1
+Banca:    Volksbank Freiburg
+Causale: Enroute Flight Navigation
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="70"/>
@@ -659,17 +664,35 @@ If you prefer to work on
 your desktop computer, you can also send yourself an e-mail
 with the bank account data.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+**Enroute Flight Navigation** è un
+progetto non-commercial di Akaflieg Freiburg e l&apos;università di
+Freiburg. L&apos;app è stata scritta in volo
+appassionati nel tempo libero, come servizio alla
+Comunità. Gli sviluppatori non accettano donazioni.
+
+Se apprezzi l&apos;app, considera una donazione a
+Akaflieg Freiburg, un club di volo senza fini di lucro di Friburgo,
+Germania.
+
+```
+%1
+```
+
+Se preferisci lavorare
+sul tuo computer desktop, puoi anche inviarti un&apos;e-mail
+con i dati del conto bancario.
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="100"/>
         <source>Send e-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Invia una e-mail</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="105"/>
         <source>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</source>
-        <translation type="unfinished"></translation>
+        <translation>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</translation>
     </message>
     <message>
         <source>
@@ -1261,18 +1284,18 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="241"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="257"/>
         <source>Flight route exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinerario di volo esportato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="279"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="296"/>
         <source>Flight route opened in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinerario di volo aperto in un&apos;altra app</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="324"/>
         <source>Flight route reversed</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinerario di volo riservato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="340"/>
@@ -1358,7 +1381,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="707"/>
         <source>Flight route cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinerario di volo ripulito</translation>
     </message>
     <message>
         <source>Cleared flight route</source>
@@ -1444,19 +1467,19 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="180"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="201"/>
         <source>Flight route shared</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinerario di volo condiviso</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="182"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
         <source>Flight route exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinerario di volo esportato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="225"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="242"/>
         <source>Flight route opened in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinerario di volo aperto in un&apos;altra app</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="230"/>
@@ -1511,12 +1534,12 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="447"/>
         <source>Flight route removed from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinerario di volo rimosso dal dispositivo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="515"/>
         <source>Flight route renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinerario di volo rinominato</translation>
     </message>
     <message>
         <source>Removed flight route from device</source>
@@ -1600,7 +1623,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="146"/>
         <source>Flight route %1 saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Itinerario di volo %1 salvato</translation>
     </message>
     <message>
         <source>Saved flight route %1</source>
@@ -2191,7 +2214,16 @@ for **flight route editing** and **flight route import**.
 It is now possible to assign names to the waypoints of your
 flight route.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Per migliorare la leggibilità, il contrasto della mappa viene aumentato e
+l&apos;app è meno colorata di una volta. Ora c&apos;è una
+**modalità oscura**, progettata specificamente per il **volo notturno**.
+
+Ci sono molti piccoli miglioramenti aggiuntivi, in particolare
+per **modifica dell&apos;itinerario di volo** e **importazione dell&apos;itinerario di volo**.
+È ora possibile assegnare nomi ai waypoint del proprio file
+di volo.
+</translation>
     </message>
     <message>
         <source>
@@ -3095,7 +3127,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="163"/>
         <source>Night mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità notturna</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="85"/>
@@ -4537,32 +4569,32 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1310"/>
         <source>showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>scrosci con precipitazioni indeterminate</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1313"/>
         <source>recent showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>recenti scrosci con precipitazioni indeterminate</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1316"/>
         <source>showers in the vicinity with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>scrosci nelle vicinanze con precipitazioni indeterminate</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1319"/>
         <source>light showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>leggeri scrosci con precipitazioni indeterminate</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1322"/>
         <source>moderate showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>moderati scrosci con precipitazioni indeterminate</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1325"/>
         <source>heavy showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>forti scrosci con precipitazioni indeterminate</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1335"/>
