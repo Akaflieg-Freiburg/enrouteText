@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.1.24)  24 JAN 2021 09:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.1.24)  24 JAN 2021 14:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1193,51 +1193,68 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 Chapter 2.
 [7
 
-] [8
+]
+<fig_GroundMode.png, id=155, 406.51875pt x 813.0375pt>
+File: fig_GroundMode.png Graphic file (type png)
+<use fig_GroundMode.png>
+Package pdftex.def Info: fig_GroundMode.png  used on input line 338.
+(pdftex.def)             Requested size: 325.22783pt x 650.4557pt.
+ [8] [9 <./fig_GroundMode.png>]
+<fig_FlightModeTu.png, id=166, 406.51875pt x 736.25063pt>
+File: fig_FlightModeTu.png Graphic file (type png)
+<use fig_FlightModeTu.png>
+Package pdftex.def Info: fig_FlightModeTu.png  used on input line 379.
+(pdftex.def)             Requested size: 359.14566pt x 650.4752pt.
+File: fig_FlightModeTu.png Graphic file (type png)
+<use fig_FlightModeTu.png>
+Package pdftex.def Info: fig_FlightModeTu.png  used on input line 402.
+(pdftex.def)             Requested size: 359.14566pt x 650.4752pt.
+ [10] [11 <./fig_FlightModeTu.png>] [12]
+[13] [14
 
 ]
 Chapter 3.
-[9] [10
+[15] [16
 
-] [11] [12]
+] [17] [18]
 Chapter 4.
-[13
+[19
 
-] [14
+] [20
 
-] [15] [16]
+] [21] [22]
 Chapter 5.
 (./enrouteflightnavigation.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
- [17
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 520.
+ [23
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 520.
  (./enrouteflightnavigation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 270.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 270.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 520.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 520.
 Package rerunfilecheck Info: File `enrouteflightnavigation.out' has not changed
 .
 (rerunfilecheck)             Checksum: 25DD658223BD3AD38FA162AB71EC8B68;2537.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 270.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 520.
  ) 
 Here is how much of TeX's memory you used:
- 13670 strings out of 494923
- 189908 string characters out of 6180742
- 271999 words of memory out of 5000000
- 16642 multiletter control sequences out of 15000+600000
- 50369 words of font info for 65 fonts, out of 8000000 for 9000
+ 13691 strings out of 494923
+ 190237 string characters out of 6180742
+ 274003 words of memory out of 5000000
+ 16652 multiletter control sequences out of 15000+600000
+ 53217 words of font info for 67 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
- 37i,11n,48p,301b,388s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,11n,48p,457b,465s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
-r8a.pfb>
-Output written on enrouteflightnavigation.pdf (21 pages, 92686 bytes).
+r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on enrouteflightnavigation.pdf (27 pages, 865777 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 187 compressed objects within 2 object streams
- 39 named destinations out of 1000 (max. 500000)
- 162 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 259 PDF objects out of 1000 (max. 8388607)
+ 211 compressed objects within 3 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 172 words of extra memory for PDF output out of 10000 (max. 10000000)
 
