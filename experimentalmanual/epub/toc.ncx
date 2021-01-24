@@ -65,7 +65,7 @@
       </navPoint>
       <navPoint id="navPoint10" playOrder="8">
         <navLabel>
-          <text>Installing the app</text>
+          <text>Installing the App</text>
         </navLabel>
         <content src="01-intro/getting_started.xhtml#installing-the-app" />  
       </navPoint>
@@ -101,18 +101,30 @@
       </navPoint>
       <navPoint id="navPoint16" playOrder="13">
         <navLabel>
+          <text>Menu</text>
+        </navLabel>
+        <content src="01-intro/further_steps.xhtml#menu" />  
+      </navPoint>
+      <navPoint id="navPoint17" playOrder="14">
+        <navLabel>
+          <text>Settings</text>
+        </navLabel>
+        <content src="01-intro/further_steps.xhtml#settings" />  
+      </navPoint>
+      <navPoint id="navPoint18" playOrder="15">
+        <navLabel>
           <text>Flight routes</text>
         </navLabel>
         <content src="01-intro/further_steps.xhtml#flight-routes" />  
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint17" playOrder="14">
+    <navPoint id="navPoint19" playOrder="16">
       <navLabel>
         <text>Main window</text>
       </navLabel>
       <content src="02-reference/main_window.xhtml" />  
     </navPoint>
-    <navPoint id="navPoint18" playOrder="15">
+    <navPoint id="navPoint20" playOrder="17">
       <navLabel>
         <text>Software licenses</text>
       </navLabel>

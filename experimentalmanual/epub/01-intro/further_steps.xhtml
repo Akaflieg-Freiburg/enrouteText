@@ -15,10 +15,137 @@
             
   <div class="section" id="further-steps">
 <h1>Further Steps</h1>
-<p>TODO</p>
+<p>When using Enroute Flight Navigation on a frequent basis you may want to get into some more detail on the features and configure the app.</p>
+<div class="section" id="menu">
+<h2>Menu</h2>
+<p>Functions not directly accessible on the moving map display and more options are accessed via the menu symbol in the upper left edge of the moving map display.</p>
+<p>When touching the Menu area in the left upper corner of the screen the menu will open and give the following options:</p>
+<ul class="simple">
+<li><p>Route — see Flight Routes described below</p></li>
+<li><p>Nearby Waypoints  — will show the closest 20 aerodromes, navaids or reporting points</p></li>
+<li><p>Weather   — will open the weather display</p></li>
+<li><p>Set Altimeter — allows to enter current altitude to have altitude with an offset</p></li>
+<li><p>Settings — see below</p></li>
+<li><dl class="simple">
+<dt>Information</dt><dd><ul>
+<li><p>Satellite Status</p></li>
+<li><p>Manual</p></li>
+<li><p>About Enroute Flight Navigation</p></li>
+<li><p>Participate</p></li>
+<li><p>Donate</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p>Bug Report</p></li>
+<li><p>Exit</p></li>
+</ul>
+<p>Only some reference to Menu items is given in this section. More details may be found in the ‘Reference’ section of  the manual.</p>
+</div>
+<div class="section" id="settings">
+<h2>Settings</h2>
+<p>The settings Menu will allow to customize Enroute Flight Navigation and give access to program status.
+The settings Menu gives the following options:</p>
+<ul class="simple">
+<li><p><strong>Hide Airspace above FL 100</strong> — allows to select display of airspace above FL100 displayed.</p></li>
+<li><p><strong>Automatic flight detection</strong> — allows to select the display of flight mode on the ground</p></li>
+<li><p><strong>Flight Routes</strong> — will show a window with the previously stored routes</p></li>
+<li><p><strong>Maps</strong> — will show a window with the available and previously installed Aviation and Base Maps</p></li>
+<li><p><strong>Use metric units</strong> — allows to select display in metric units</p></li>
+<li><p><strong>Use English</strong> — allows to select English Language for display</p></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The items to be selected by the on-off slider will enable the related function. The current status of the selected item is shown below the item.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If you do not select “Hide Airspace above FL 100” the FIS frequencies for the Airspace C above FL100 will be displayed. In general this frequencies are also applicable below FL 100.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>When Automatic flight detection is not selected the display will always be in flight mode.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If “Use English” is not selected the standard language selected for your device will be used if available.</p>
+</div>
+</div>
 <div class="section" id="flight-routes">
 <h2>Flight routes</h2>
-<p>TODO</p>
+<p>Enroute Flight Navigation provides direct planning of one Route. A Route will remain present until it is cleared.
+Route planning is entered via the Menu point Route. The Menu is entered via the Menu Symbol in the upper left corner of the map area. Then the Route Symbol has to be touched to go to the Route area.</p>
+<p>A Route may be planned in the following ways:</p>
+<ul class="simple">
+<li><p>“Direct” in the waypoint window will provide a Route between current position and desired waypoint</p></li>
+<li><p>“to Route” in the waypoint window will add the waypoint to the last position of the Route.</p></li>
+<li><p>“Add Waypoint” in the Route window will open a selection window for a waypoint and add the selected waypoint to the route.</p></li>
+</ul>
+<p>The Route Display will show the following information:</p>
+<ul class="simple">
+<li><p>Symbol of the waypoint</p></li>
+<li><p>Designation of the waypoint</p></li>
+<li><p>Route Point Menu</p></li>
+<li><dl class="simple">
+<dt>Navigation Data</dt><dd><ul>
+<li><p>Distance between way points</p></li>
+<li><p>Time calculated between way points using the cruise speed set in the “Aircraft and Wind” page</p></li>
+<li><p>True Course between way points</p></li>
+<li><p>True Heading between way points</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>A Route may also be imported from a GPX file from another PC. After sending the GPX file as Email attachment Enroute Flight Navigation will offer to open the GPX file.</p>
+</div>
+<p>The Route Point Menu provides the option to:
+* Move a waypoint up in the Route
+* Move a waypoint down in the Route
+* Remove a waypoint from the Route</p>
+<p>The Route Menu is entered by touching the Route Menu Symbol on the Route page.
+The following options are available from the Route Menu:</p>
+<ul class="simple">
+<li><p>Open a previously stored route from the library</p></li>
+<li><p>Save the current route to the library</p></li>
+<li><p>View the route library</p></li>
+<li><p>Import a Route from an external source</p></li>
+<li><p>Send the Route in JSON or GPX format</p></li>
+<li><p>Open the Route in another APP using the JSON or GPX format</p></li>
+<li><p>Clear Route</p></li>
+<li><p>Reverse Route</p></li>
+</ul>
+<p>The previously created and stored routes will be kept in a data base within Enroute Flight Navigation. Routes consist of the data for the selected way points. The Route data may be exported for use in other applications.</p>
+<p><strong>Route – Aircraft and Wind</strong></p>
+<p>The Aircraft and Wind sub-page of the Route page allows to enter aircraft performance and wind data required for navigational calculations.
+The Aircraft Data will be used to determine the distance of the flight and the true course.
+The Wind data will will be used to calculate the true heading and duration of the flight. The duration of the flight will determine the fuel used.
+Enroute Flight Navigation only offers a very superficial flight planning and cannot replace a full flight planning, but is only intended to provide quick reference.</p>
+<p>Warning
+Always perform a full flight preparation in accordance with the flight manual of the aircraft used. The use of Enroute Flight Navigation as primary flight planning may cause accidents leading to loss of lives.</p>
+<p>The Aircraft and Wind sub-page of the Route page offers the following input fields:</p>
+<ul class="simple">
+<li><dl class="simple">
+<dt>Aircraft</dt><dd><ul>
+<li><p>Cruise Speed: Average Speed for Route</p></li>
+<li><p>Descent Speed: Allows to enter a different speed for the descent phase (Currently not used)</p></li>
+<li><p>Fuel Consumption: Average Fuel consumption per hour</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>Wind</dt><dd><ul>
+<li><p>Direction in degrees</p></li>
+<li><p>Speed in knots</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<p>Only one speed, fuel consumption and wind may be entered for the whole route.</p>
 </div>
 </div>
 

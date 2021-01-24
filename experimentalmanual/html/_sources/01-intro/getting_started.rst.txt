@@ -1,11 +1,12 @@
 Getting started
 ===============
 
-Installing the app
+Installing the App
 ------------------
 
 Enroute Flight Navigation is available as an Android App in the Google Play Store.
 To install the App Enroute Flight Navigation you may use the following steps:
+
 * Open Google Play Store
 * Select "Apps"
 * Search for "Enroute Flight Navigation"
@@ -18,6 +19,7 @@ Installing maps
 
 To use Enroute Flight Navigation you have to install Maps covering the area of flight.
 For installing Maps the following steps have to be followed:
+
 * Open the Menu by touching the area in the upper right side of the screen
 * Open the menu item 'Settings'
 * touch the item 'Maps' in the *Libraries* section
@@ -30,40 +32,47 @@ The Map display is composed of two layers selected in the respective Tabs of the
 .. caution::
     Make sure Aeronautical and Base Map are installed for desired area of flight to avoid flight into areas without map display.
 
-**Aeronautical maps**
+**Aeronautical Maps**
 
 The Aeronautical Map layers is showing the airspace data on the Map screen. If no Base Map is installed for the area only the information coming from the Aviation Map data is displayed.
 
 The Aeronautical Map contains:
+
 * Airfields
 * Airspace boundaries
 * Navaids
 * Reporting points and routes (if available)
 
 The display used for aerospace data is using the following basic color scheme:
-**Red:**
-* Line with shadow inside for Restricted Airspace
-* Shadow with dashed blue border for Aerodrome Control Zone (CTR)
-* Dashed Line for Parachute Jumping Exercise area
-* Line for Glider or Microlight Traffic pattern
 
-**Blue:**
-* Line with shadow for controlled airspace (A, B, C, D)
-* Shadow with dashed blue border for Radio Mandatory Zone (RMZ)
-* Airport, reporting point or Navaid  symbols
-* For Route or Traffic Pattern for powered aircraft
+* Red:
+    * Line with shadow inside for Restricted Airspace
+    * Shadow with dashed blue border for Aerodrome Control Zone (CTR)
+    * Dashed Line for Parachute Jumping Exercise area
+    * Line for Glider or Microlight Traffic pattern
 
-**Green:**
-* Line with shadow for Natural Reserve Area (NRA)
-* Line for airspace control sector boundaries
+* Blue:
 
-**Black:**
+    * Line with shadow for controlled airspace (A, B, C, D)
+    * Shadow with dashed blue border for Radio Mandatory Zone (RMZ)
+    * Airport, reporting point or Navaid  symbols
+    * For Route or Traffic Pattern for powered aircraft
+
+* Green:
+
+    * Line with shadow for Natural Reserve Area (NRA)
+    * Line for airspace control sector boundaries
+
+* Black:
+
     * Dashed Line for Transponder Mandatory Zone (TMZ)
-    
 
-Class 1 and Class 2 maps:
+
+**Class 1 and Class 2 maps:**
+
 * Class 1 maps are compiled from openAIP and open flightmaps data. These maps contain complete information about airspaces, airfields and navaids. In addition, the maps contain (mandatory) reporting points. Some of our tier 1 maps also show traffic circuits and flight procedures for control zones.
 * Class 2 maps are compiled from openAIP data only. They contain complete information about airspaces, airfields and navaids.
+
 Details on the maps may be found at <https://akaflieg-freiburg.github.io/enroute/maps/>
 The Aeronautical Map data is selected on the “Map Library” – “Aviation Data” page accessed via the “Settings” Menu.
 To update the list of available maps the “…” option in the upper right corner of the screen may be used.
@@ -101,12 +110,11 @@ Flight mode and ground mode
 Ground Mode is displayed by Enroute Flight Navigation whenever the sensed speed is below the threshold and the Menu item 'Automatic Flight Detection' is not set to 'Always in Flight Mode'.
 Ground Mode does not display the Flight Data line at the lower end of the screen and is intended for flight planning.
 
-#.. _fig_GroundMode
-
 .. figure:: ./fig_GroundMode.png
     :align: center
-    
+
 *Legend*:
+
 1. Own Position (No valid GPS position)
 2. North Indicator, also area to switch between track up and north up
 3. Zoom area to increase map scale (+) and reduce map scale (-)
@@ -114,16 +122,18 @@ Ground Mode does not display the Flight Data line at the lower end of the screen
 5. Menu area
 
 There are two basic ways to plan a flight route:
-**Menu - Route:**
-* Enter Waypoints
-* Edit existing Route
-* Enter Wind data
-* Enter Aircraft data
 
-**Double touch Maps and open Waypoints**
-* Direct will make a route from present position to Waypoint
-* '+' to Route will add the Waypoint to the current Route
-    
+* Menu - Route:
+
+    * Enter Waypoints
+    * Edit existing Route
+    * Enter Wind data
+    * Enter Aircraft data
+
+* Double touch Maps and open Waypoints
+    * Direct will make a route from present position to Waypoint
+    * '+' to Route will add the Waypoint to the current Route
+
 A Route will remain in Enroute Flight Navigation until overwritten or removed. Routes may be saved or shared.
 
 **Flight Mode**
@@ -138,14 +148,12 @@ In flight mode the following additional items will be displayed:
 * Ground Speed in knots (or km/h if metric units selected)
 * Track in reference to true north
 * Universal Coordinated Time (UTC)
-        
-
-#.. _fig_FlightMode_Track_Up
 
 .. figure:: ./fig_FlightModeTu.png
     :align: center
-    
+
 *Legend*:
+
 1. Own Position
 2. Flight Path Vector (5 Minutes)
 3. North Indicator, also area to switch between track up and north up
@@ -158,15 +166,16 @@ The  Enroute Flight Navigation map display is automatically centered to display 
 The map display may be shifted by touching the display and moving it to the desired position. After shifting the  “Center on Position”  Symbol will be displayed. After touching he  “Center on Position”  Symbol the map will be centered to give maximum map area in direction of flight again.
 
 **Track Up and North Up Mode**
+
 The Enroute Flight Navigation map display may be switched between a Track Up display and a North Up display by touching the gray window in the upper right area.
 Touching the display orientation area toggles between North up and Track Up.
 
-#.. _fig_FlightMode_North_Up
 
 .. figure:: ./fig_FlightModeTu.png
     :align: center
-    
+
 *Legend*:
+
 1. Own Position
 2. Flight Path Vector (5 Minutes)
 3. North Indicator, also area to switch between track up and north up
@@ -188,40 +197,51 @@ Before using the moving map function you have to make sure the GPS of your mobil
     Make sure the GPS position is correct and valid to avoid loss of situational awareness. Loss of situational awareness is a common cause of severe accidents in aviation.
 
 To show a planned route on the moving map display you may:
+
 1. Use 'Direct'
-* Double Touch the desired Waypoint
-* Select 'Direct'
+    * Double Touch the desired Waypoint
+    * Select 'Direct'
 2. Plan a route
-* Double Touch the desired Waypoint
-* Select (+) 'to Route'
-        
+    * Double Touch the desired Waypoint
+    * Select (+) 'to Route'
+
 The planned route will be displayed as light green line on the map display. More detailed information on route planning will be given in the dedicated section.
 
 **Airspace awareness**
+
 Information related to any selected point on the Map will be displayed when double touching a point.
 
 
 The displayed Information for arbitrary points will include:
-    * Distance to point
-    * True bearing to point
-    * Airspace classification including related frequencies and transponder code
+
+* Distance to point
+* True bearing to point
+* Airspace classification including related frequencies and transponder code
 
 The displayed Information for reporting points or Navaids will include:
-    * Distance to point
-    * True bearing to point
-    * Designation, controlling agency and radio frequencies
-    * Airspace classification including related radio frequencies and transponder code
+
+* Distance to point
+* True bearing to point
+* Designation, controlling agency and radio frequencies
+* Airspace classification including related radio frequencies and transponder code
 
 The displayed Information for airfields will include:
-    * Distance to point
-    * True bearing to point
-    * Meteorological information summary if available
-    * Designation, controlling agency and radio frequencies and Navaids
-    * Airfield data for Runways and field elevation
-    * Airspace classification including related radio frequencies and transponder code
+
+* Distance to point
+* True bearing to point
+* Meteorological information summary if available
+* Designation, controlling agency and radio frequencies and Navaids
+* Airfield data for Runways and field elevation
+* Airspace classification including related radio frequencies and transponder code
 
 
-More detailed information on the features and operation will be given in the 'Further Steps' part of the Enroute Flight Navigation manual.
+More information on the features and operation will be given in the 'Further Steps' part of the Enroute Flight Navigation manual.
 
+The following topics are described in more detail Enroute Flight Navigation 'Reference' section of the manual:
+
+* Display of Airspace
+* Display of Aeronautical Data
+* Weather Data
+* Settings
 
 
