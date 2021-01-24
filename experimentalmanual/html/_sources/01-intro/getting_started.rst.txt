@@ -90,6 +90,7 @@ You may install or uninstall the aviation Map data for a county by the selection
 
 The Base Map layers is showing the geographic data on the Map screen. If no Base Map is shown for an area it will be shown in the white background color. If no Aviation Map is installed for the area only the information coming from the Base Map data is displayed. The Base Map is organized in tiles. This will result in not stopping the Base Map display abruptly at the border of an installed country, but showing some overlap.
 The Base Map will show:
+
 * Landmass
 * Water Surface (oceans, lakes and rivers)
 * Forests

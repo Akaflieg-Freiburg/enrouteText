@@ -9,12 +9,12 @@
 \contentsline {section}{\numberline {2.1}Installing the App}{7}{section.2.1}
 \contentsline {section}{\numberline {2.2}Installing maps}{7}{section.2.2}
 \contentsline {section}{\numberline {2.3}Flight mode and ground mode}{9}{section.2.3}
-\contentsline {section}{\numberline {2.4}Your first flight}{11}{section.2.4}
-\contentsline {chapter}{\numberline {3}Further Steps}{15}{chapter.3}
-\contentsline {section}{\numberline {3.1}Menu}{15}{section.3.1}
-\contentsline {section}{\numberline {3.2}Settings}{16}{section.3.2}
-\contentsline {section}{\numberline {3.3}Flight routes}{16}{section.3.3}
-\contentsline {part}{II\hspace {1em}Reference manual}{19}{part.2}
-\contentsline {chapter}{\numberline {4}Main window}{21}{chapter.4}
-\contentsline {part}{III\hspace {1em}Appendix}{23}{part.3}
-\contentsline {chapter}{\numberline {5}Software licenses}{25}{chapter.5}
+\contentsline {section}{\numberline {2.4}Your first flight}{14}{section.2.4}
+\contentsline {chapter}{\numberline {3}Further Steps}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Menu}{17}{section.3.1}
+\contentsline {section}{\numberline {3.2}Settings}{18}{section.3.2}
+\contentsline {section}{\numberline {3.3}Flight routes}{18}{section.3.3}
+\contentsline {part}{II\hspace {1em}Reference manual}{21}{part.2}
+\contentsline {chapter}{\numberline {4}Main window}{23}{chapter.4}
+\contentsline {part}{III\hspace {1em}Appendix}{25}{part.3}
+\contentsline {chapter}{\numberline {5}Software licenses}{27}{chapter.5}
