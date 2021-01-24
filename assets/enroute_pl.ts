@@ -112,7 +112,7 @@ aplikacji. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="49"/>
         <source>Go back in bug report</source>
-        <translation type="unfinished"></translation>
+        <translation>Powrót w raporcie błędów</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="126"/>
@@ -619,7 +619,12 @@ BIC:     GENODE61FR1
 Bank:    Volksbank Freiburg
 Message: Enroute Flight Navigation
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+IBAN:    DE35 6809 0000 0027 6409 07
+BIC:     GENODE61FR1
+Bank:    Volksbank Freiburg
+Treść przelewu: Enroute Flight Navigation
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="70"/>
@@ -642,17 +647,35 @@ If you prefer to work on
 your desktop computer, you can also send yourself an e-mail
 with the bank account data.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+**Enroute Flight Navigation** to
+niekomercyjny projekt Akaflieg Freiburg i
+Uniwersytet we Freiburgu. Aplikacja została napisana przez entuzjastów
+lotnictwa w swoim wolnym czasie, jako usługa dla 
+społeczności. Twórcy nie przyjmują darowizn.
+
+Jeśli cenisz aplikację, rozważ przekazanie darowizny dla
+Akaflieg Freiburg, uprzywilejowany podatkowo, klub lotniczy
+fundacji non-profit we Freiburgu w Niemczech.
+
+```
+%1
+```
+
+Jeśli wolisz działać na 
+twoim komputerze, możesz sobie również wysłać email
+z danymi konta bankowego.
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="100"/>
         <source>Send e-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyślij email</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="105"/>
         <source>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</source>
-        <translation type="unfinished"></translation>
+        <translation>mailto:?subject=Enroute Flight Navigation, Wsparcie&amp;body=%1</translation>
     </message>
     <message>
         <source>
@@ -1202,7 +1225,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="707"/>
         <source>Flight route cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu wyczyszczony</translation>
     </message>
     <message>
         <source>Exported flight route</source>
@@ -1301,18 +1324,18 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="241"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="257"/>
         <source>Flight route exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu wyeksportowany</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="279"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="296"/>
         <source>Flight route opened in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu otwarty w innej aplikacji</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="324"/>
         <source>Flight route reversed</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu odwrócony</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="342"/>
@@ -1428,19 +1451,19 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="180"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="201"/>
         <source>Flight route shared</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu przekazany dalej</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="182"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
         <source>Flight route exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu wyeksportowany</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="225"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="242"/>
         <source>Flight route opened in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu otwarty w innej aplikacji</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="230"/>
@@ -1495,12 +1518,12 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="447"/>
         <source>Flight route removed from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu usunięty z urządzenia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="515"/>
         <source>Flight route renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmieniono nazwę planu lotu</translation>
     </message>
     <message>
         <source>Removed flight route from device</source>
@@ -1584,7 +1607,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="146"/>
         <source>Flight route %1 saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu %1 został zapisany</translation>
     </message>
     <message>
         <source>Saved flight route %1</source>
@@ -2083,7 +2106,16 @@ for **flight route editing** and **flight route import**.
 It is now possible to assign names to the waypoints of your
 flight route.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Aby poprawić czytelność, kontrast mapy jest zwiększony, a
+aplikacja jest mniej kolorowa niż kiedyś. Jest teraz dostępny
+**tryb ciemny**, zaprojektowany specjalnie do **lotów nocnych**.
+
+Dodano wiele małych ulepszeń, w szczególności
+do edycji **planu lotu** i **importu planu lotu**.
+Można teraz przypisać nazwy do punktów na twojej
+trasie lotu.
+</translation>
     </message>
     <message>
         <source>
@@ -2842,7 +2874,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="163"/>
         <source>Night mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb nocny</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="78"/>
@@ -4274,32 +4306,32 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1310"/>
         <source>showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>przelotne deszcze z nieokreślonymi opadami</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1313"/>
         <source>recent showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>niedawne przelotne deszcze z nieokreślonymi opadami</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1316"/>
         <source>showers in the vicinity with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>przelotne deszcze w pobliżu z nieokreślonymi opadami</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1319"/>
         <source>light showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>lekkie deszcze z nieokreślonymi opadami</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1322"/>
         <source>moderate showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>średnie przelotne deszcze z nieokreślonymi opadami</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1325"/>
         <source>heavy showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>ciężkie przelotne deszcze z nieokreślonymi opadami</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1335"/>
