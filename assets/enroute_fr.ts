@@ -67,10 +67,6 @@
         <translation>Signaler un bug</translation>
     </message>
     <message>
-        <source>Bug Report Home</source>
-        <translation type="vanished">Accueil</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="88"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
@@ -109,7 +105,7 @@ application.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="49"/>
         <source>Go back in bug report</source>
-        <translation type="unfinished"></translation>
+        <translation>Retour au rapport</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="126"/>
@@ -163,10 +159,6 @@ données aéronautiques (fréquences erronées, aides à la navigation manquante
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="182"/>
         <source>Airfields</source>
         <translation>Aérodromes</translation>
-    </message>
-    <message>
-        <source>Airspace</source>
-        <translation type="vanished">Espaces aériens</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="191"/>
@@ -602,7 +594,12 @@ BIC:     GENODE61FR1
 Bank:    Volksbank Freiburg
 Message: Enroute Flight Navigation
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+IBAN:    DE35 6809 0000 0027 6409 07
+BIC:     GENODE61FR1
+Banque:  Volksbank Freiburg
+Message: Enroute Flight Navigation
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="70"/>
@@ -625,81 +622,32 @@ If you prefer to work on
 your desktop computer, you can also send yourself an e-mail
 with the bank account data.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+**Enroute Flight Navigation** est un
+projet non commercial de Akaflieg Freiburg et de l&apos;Université de Freiburg. 
+L&apos;application est développée par des pilotes amateurs durant leur temps libre, 
+comme un service envers la communauté. Les développeurs n&apos;acceptent pas les dons.
+
+Si toutefois vous appréciez l&apos;application, vous pouvez faire un don à 
+Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg, Allemagne.
+
+```
+%1
+```
+
+SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
+ envoyer un e-mail avec les données bancaires.
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="100"/>
         <source>Send e-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Envoyer l&apos;e-mail</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="105"/>
         <source>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a
-non-commercial project of Akaflieg Freiburg and the
-University of Freiburg. The app has been written by flight
-enthusiasts in their spare time, as a service to the
-community. The developers do not take donations&lt;/p&gt;
-
-&lt;p&gt;If you appreciate the app, please consider a donation to
-Akaflieg Freiburg, a tax-privileged, not-for-profit flight
-club of public utility in Freiburg, Germany. &lt;/p&gt;
-
-&lt;p&gt;
-  &lt;table&gt;
-    &lt;tr&gt;
-      &lt;td&gt;IBAN:&lt;/td&gt;
-      &lt;td&gt;DE35 6809 0000 0027 6409 07&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;BIC:&lt;/td&gt;
-      &lt;td&gt;GENODE61FR1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bank:&lt;/td&gt;
-      &lt;td&gt;Volksbank Freiburg&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Message:&lt;/td&gt;
-      &lt;td&gt;Enroute Flight Navigation&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/table&gt;
-&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;est un
-projet non commercial de Akaflieg Freiburg et de l&apos;Université de Freiburg. 
-L&apos;application est développée par des pilotes amateurs durant leur temps libre, 
-comme un service envers la communauté. Les développeurs n&apos;acceptent pas les dons.&lt;/p&gt;
-
-&lt;p&gt;Si toutefois vous appréciez l&apos;application, vous pouvez faire un don à 
-Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg, Allemagne. &lt;/p&gt;
-
-&lt;p&gt;
-  &lt;table&gt;
-    &lt;tr&gt;
-      &lt;td&gt;IBAN:&lt;/td&gt;
-      &lt;td&gt;DE35 6809 0000 0027 6409 07&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;BIC:&lt;/td&gt;
-      &lt;td&gt;GENODE61FR1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bank:&lt;/td&gt;
-      &lt;td&gt;Volksbank Freiburg&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Message:&lt;/td&gt;
-      &lt;td&gt;Enroute Flight Navigation&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/table&gt;
-&lt;/p&gt;
-</translation>
+        <translation>mailto:?subject=Enroute Flight Navigation, Don&amp;body=%1</translation>
     </message>
 </context>
 <context>
@@ -908,94 +856,70 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
 <context>
     <name>FLARMStatusDialog</name>
     <message>
-        <source>FLARM Status</source>
-        <translation type="vanished">Statut FLARM</translation>
-    </message>
-    <message>
-        <source>Status</source>
-        <translation type="vanished">Statut</translation>
-    </message>
-    <message>
-        <source>Hardware</source>
-        <translation type="vanished">Matériel</translation>
-    </message>
-    <message>
-        <source>Software</source>
-        <translation type="vanished">Logiciel</translation>
-    </message>
-    <message>
-        <source>Obstacle Database</source>
-        <translation type="vanished">Base de données</translation>
-    </message>
-    <message>
-        <source>Self Test</source>
-        <translation type="vanished">Auto test</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="31"/>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="59"/>
         <source>Satellite Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut du satellite</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="71"/>
         <source>Last Fix</source>
-        <translation type="unfinished">Dernière tranmission</translation>
+        <translation>Dernière tranmission</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="81"/>
         <source>Mode</source>
-        <translation type="unfinished">Mode</translation>
+        <translation>Mode</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="85"/>
         <source>Flight</source>
-        <translation type="unfinished">Vol</translation>
+        <translation>Vol</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="85"/>
         <source>Ground</source>
-        <translation type="unfinished">Sol</translation>
+        <translation>Sol</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="95"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontal</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="102"/>
         <source>Latitude</source>
-        <translation type="unfinished">Latitude</translation>
+        <translation>Latitude</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="112"/>
         <source>Longitude</source>
-        <translation type="unfinished">Longitude</translation>
+        <translation>Longitude</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="122"/>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="132"/>
         <source>GS</source>
-        <translation type="unfinished">GS</translation>
+        <translation>GS</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="142"/>
         <source>TT</source>
-        <translation type="unfinished">TT</translation>
+        <translation>TT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="156"/>
         <source>Vertical</source>
-        <translation type="unfinished">Vertical</translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FLARMStatusDialog.qml" line="163"/>
         <source>ALT</source>
-        <translation type="unfinished">ALT</translation>
+        <translation>ALT</translation>
     </message>
 </context>
 <context>
@@ -1183,7 +1107,7 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="707"/>
         <source>Flight route cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Route supprimée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="267"/>
@@ -1270,18 +1194,18 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="241"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="257"/>
         <source>Flight route exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Route exportée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="279"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="296"/>
         <source>Flight route opened in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Route ouverte dans une autre appli</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="324"/>
         <source>Flight route reversed</source>
-        <translation type="unfinished"></translation>
+        <translation>Route réordonnée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="342"/>
@@ -1381,19 +1305,19 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="180"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="201"/>
         <source>Flight route shared</source>
-        <translation type="unfinished"></translation>
+        <translation>Route partagée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="182"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
         <source>Flight route exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Route exportée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="225"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="242"/>
         <source>Flight route opened in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Route ouverte dans une autre appli</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="230"/>
@@ -1448,12 +1372,12 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="447"/>
         <source>Flight route removed from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Route supprimée du système</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="515"/>
         <source>Flight route renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Route renommée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="461"/>
@@ -1529,7 +1453,7 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="146"/>
         <source>Flight route %1 saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Route %1 sauvée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="198"/>
@@ -1608,12 +1532,12 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="43"/>
         <source>Authors</source>
-        <translation>Autheurs</translation>
+        <translation>Auteurs</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="44"/>
         <source>License</source>
-        <translation>License</translation>
+        <translation>Licence</translation>
     </message>
 </context>
 <context>
@@ -1702,14 +1626,14 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
 
 &lt;p&gt;&lt;/p&gt;</source>
         <translation>
-&lt;h3&gt;Autheurs&lt;/h3&gt;
+&lt;h3&gt;Auteurs&lt;/h3&gt;
 
 &lt;br&gt;
 
 &lt;table&gt;
   &lt;tr&gt;
     &lt;td&gt;
-      &lt;p&gt;L&apos;application &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est développée par Stefan Kebekus, amateur pilote depuis 1986 et membre de l&apos;aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
+      &lt;p&gt;L&apos;application &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est développée par Stefan Kebekus, pilote amateur depuis 1986 et membre de l&apos;aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
       &lt;h4&gt;Adresse&lt;/h4&gt;
       Stefan Kebekus&lt;br&gt;
       Wintererstraße 77&lt;br&gt;
@@ -1725,7 +1649,7 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
   &lt;tr&gt;
     &lt;td&gt;
       &lt;br&gt;
-      &lt;h3&gt;Co-autheurs&lt;/h3&gt;
+      &lt;h3&gt;Co-auteurs&lt;/h3&gt;
       &lt;br&gt;
     &lt;/td&gt;
   &lt;/tr&gt;
@@ -1817,12 +1741,12 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
 
 &lt;p&gt;Version %1&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est une application de navigation VFR gratuite développée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Simple, élégante et fonctionnelle&lt;/li&gt;
   &lt;li&gt;Pas de publicité, ni de version &quot;pro&quot; commerciale&lt;/li&gt;
-  &lt;li&gt;Pas d&apos;enregistremment, ni de compte requis&lt;/li&gt;
+  &lt;li&gt;Pas d&apos;enregistrement, ni de compte requis&lt;/li&gt;
   &lt;li&gt;Ne vous espionne pas&lt;/li&gt;
   &lt;li&gt;100% Open Source, écrite sans intérêt commercial&lt;/li&gt;
 &lt;/ul&gt;
@@ -1856,19 +1780,19 @@ Akaflieg Freiburg, un club de vol publique à but non lucratif basé à Freiburg
 
 &lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</source>
         <translation>
-&lt;h3&gt;License&lt;/h3&gt;
+&lt;h3&gt;Licence&lt;/h3&gt;
 
-&lt;p&gt;Ce logiciel est licensié sous la &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; ou tout autre version plus récente de la même license.&lt;/p&gt;
+&lt;p&gt;Ce logiciel est licencié sous la &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; ou tout autre version plus récente de la même licence.&lt;/p&gt;
 
 &lt;h4&gt;Autres logiciels et données inclus dans l&apos;application&lt;/h4&gt;
 
-&lt;p&gt;Ce programme inclut plusieurs bibliothèques du projet &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt;, licensié sous la license &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, licensiée sous la &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;license MIT&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, licensiée sous la license &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ce programme inclut plusieurs bibliothèques du projet &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt;, licencié sous la licence &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, licenciée sous la &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;licence MIT&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, licenciée sous la licence &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Ce programme inclut plusieurs versions des polices &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;Google Roboto Fonts&lt;/a&gt;, licensiées sous la license &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt;. Ce programme inclut plusieurs icônes &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;Google Material Design Icons&lt;/a&gt;, licensées sous la &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ce programme inclut plusieurs versions des polices &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;Google Roboto Fonts&lt;/a&gt;, licenciées sous la licence &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt;. Ce programme inclut plusieurs icônes &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;Google Material Design Icons&lt;/a&gt;, licenciées sous la &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Le style des fonds de carte est basé sur une version modifiée du style &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, lui-même dérivé du OSM Bright de Mapbox Open Styles. Le code est licencié sous la license &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. Le design provient (même s&apos;il a été largement modifié) du OSM Bright from Mapbox Open Styles, licensié sous la license &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. Les données affichées sur la carte proviennent de &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; sous la license &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
+&lt;p&gt;Le style des fonds de carte est basé sur une version modifiée du style &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, lui-même dérivé du OSM Bright de Mapbox Open Styles. Le code est licencié sous la licence &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. Le design provient (même s&apos;il a été largement modifié) du OSM Bright from Mapbox Open Styles, licencié sous la licence &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. Les données affichées sur la carte proviennent de &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; sous la licence &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
 
-&lt;p&gt;Les données aéronautiques proviennent de &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, et sont licensiées sous la license &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. Certaines données et cartes proviennent également de &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, et sont licensiées sous la license &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Les données aéronautiques proviennent de &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, et sont licenciées sous la licence &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. Certaines données et cartes proviennent également de &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, et sont licenciées sous la licence &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -1910,34 +1834,13 @@ for **flight route editing** and **flight route import**.
 It is now possible to assign names to the waypoints of your
 flight route.
 </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-&lt;p&gt;For countries covered by open flightmaps: the map now
-shows &lt;strong&gt;nature reserve areas&lt;/strong&gt; (extremely important if
-you fly in Austria). If avaliable, the &lt;strong&gt;height of traffic
-circuits&lt;/strong&gt; is now displayed prominently. &lt;strong&gt;Arrival and
-departure routes&lt;/strong&gt; for control zones are more clearly marked.
-Flight Information Sectors are shown.&lt;/p&gt;
+        <translation>
+Le contraste de la carte a été changé afin d&apos;améliorer la lisibilité.
+Un **mode nuit** a également été conçu spécialement pour le vol de nuit et ajouté.
 
-&lt;p&gt;This release also fixes an infrequent problem with saving flight
-routes. We apologize for any inconvenience!&lt;/p&gt;
-
-&lt;p&gt;Thanks to the help of Sławek Mikuła, the app is again
-available in &lt;strong&gt;Polish language&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="vanished">
-&lt;p&gt;Les cartes des pays converts par les données 
-d&apos;open flightmaps affichent maintenant les espaces 
-naturels protégés. Si ils sont disponibles, les altitudes 
-des circuits et les procédures de départ et d&apos;arrivée 
-sont clairement affichés. Les régions d&apos;information 
-de vol sont aussi affichées.&lt;/p&gt;
-
-&lt;p&gt;Cette nouvelle version contient aussi un bugix qui empêchait 
-d&apos;enregistrer les routes. Nous nous excusons si ce bug vous a gêné !&lt;/p&gt;
-
-&lt;p&gt;Grâce à Sławek Mikuła, l&apos;application est de nouveu traduite en &lt;strong&gt;polonais&lt;/strong&gt;.&lt;/p&gt;
+En outre, plusieurs petits ajustements ont été réalisés, en particulier
+ concernant **l&apos;importation** et **l&apos;exportation des routes**. 
+Il est maintenant possible d&apos;assigner des noms aux points tournants.
 </translation>
     </message>
     <message>
@@ -2055,12 +1958,12 @@ d&apos;enregistrer les routes. Nous nous excusons si ce bug vous a gêné !&lt;/
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="494"/>
         <source>Map Data Copyright Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Info copyright sur les données de carte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="500"/>
         <source>Map Data Copyright Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Info copyright sur les données de carte</translation>
     </message>
 </context>
 <context>
@@ -2482,7 +2385,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="163"/>
         <source>Night mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode nuit</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="78"/>
@@ -2607,25 +2510,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="375"/>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="446"/>
         <source>New flight route: direct to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouvelle route: directe vers %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="393"/>
         <source>Added %1 to route.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ajouté à la route</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="409"/>
         <source>Removed %1 from route.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>from Route</source>
-        <translation type="vanished">de la route</translation>
-    </message>
-    <message>
-        <source>to Route</source>
-        <translation type="vanished">à la route</translation>
+        <translation>%1 retiré de la route</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="422"/>
@@ -2643,12 +2538,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="45"/>
         <source>New waypoint name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouveau nom pour le point tournant</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="60"/>
         <source>undefined</source>
-        <translation type="unfinished">non défini</translation>
+        <translation>non défini</translation>
     </message>
 </context>
 <context>
@@ -3893,32 +3788,32 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1310"/>
         <source>showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>averses avec précipitations indéterminées</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1313"/>
         <source>recent showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>averses récentes avec précipitations indéterminées</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1316"/>
         <source>showers in the vicinity with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>averses à proximité avec précipitations indéterminées</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1319"/>
         <source>light showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>averses faibles avec précipitations indéterminées</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1322"/>
         <source>moderate showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>averses modérées avec précipitations indéterminées</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1325"/>
         <source>heavy showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>averses fortes avec précipitations indéterminées</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1335"/>
@@ -4288,32 +4183,32 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1610"/>
         <source>thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>orage avec neige</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1613"/>
         <source>thunderstorm with snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>orage avec neige à proximité</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1616"/>
         <source>light thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>orage avec neige faible</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1619"/>
         <source>moderate thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>orage avec neige modéré</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1622"/>
         <source>heavy thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>orage avec neige fort</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1625"/>
         <source>recent thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>orage avec neige récent</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1635"/>
