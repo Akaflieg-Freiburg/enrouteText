@@ -1397,42 +1397,42 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <name>FlightRouteLibrary</name>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="31"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="382"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="385"/>
         <source>Flight Route Library</source>
         <translation>Archivio itinerari</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="80"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="83"/>
         <source>Info …</source>
         <translation>Informazioni…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="89"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="92"/>
         <source>Import …</source>
         <translation>Importa…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="113"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="116"/>
         <source>Filter Flight Route Names</source>
         <translation>Filtra gli itinerari per nome</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="149"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="152"/>
         <source>Open …</source>
         <translation>Apri…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="164"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="167"/>
         <source>Share …</source>
         <translation>Condividi…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="164"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="167"/>
         <source>Export …</source>
         <translation>Esporta…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="167"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="170"/>
         <source>… to GeoJSON file</source>
         <translation>… come file GeoJSON</translation>
     </message>
@@ -1445,17 +1445,17 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <translation type="vanished">Itinerario esportato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="188"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="191"/>
         <source>… to GPX file</source>
         <translation>… come file GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="210"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="213"/>
         <source>Open in other app …</source>
         <translation>Apri in un&apos;altra app…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="213"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="216"/>
         <source>… in GeoJSON format</source>
         <translation>in formato GeoJSON</translation>
     </message>
@@ -1464,80 +1464,80 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <translation type="vanished">Apri l&apos;itinerario di volo con un&apos;altra app</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="180"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="201"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="183"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="204"/>
         <source>Flight route shared</source>
         <translation>Itinerario di volo condiviso</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="182"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="185"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="206"/>
         <source>Flight route exported</source>
         <translation>Itinerario di volo esportato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="225"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="242"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="228"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="245"/>
         <source>Flight route opened in other app</source>
         <translation>Itinerario di volo aperto in un&apos;altra app</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="230"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="233"/>
         <source>… in GPX format</source>
         <translation>… in formato GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="252"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="255"/>
         <source>Rename …</source>
         <translation>Rinomina…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="264"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="267"/>
         <source>Remove …</source>
         <translation>Rimuovi…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="306"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="309"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes available. To add a route here, chose &apos;Flight Route&apos; from the main menu, edit a route and save it to the library.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessun itinerario disponibile. Per aprire un itinerario, selezionare &apos;Itinerario&apos; dal menu principale, modificare e salvare nell&apos;archivio.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="307"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="310"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessun itinerario soddisfa i criteri selezionati.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="341"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="344"/>
         <source>An error occurred…</source>
         <translation>Ci sono errori…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="391"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="394"/>
         <source>Overwrite current flight route?</source>
         <translation>Sovrascrivere l&apos;itinerario corrente?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="401"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="404"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Caricando l&apos;itinerario &lt;strong&gt;%1&lt;/strong&gt; verrà cancellato l&apos;itinerario corrente. Una volta sovrascritto non potrà essere ripristinato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="425"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="428"/>
         <source>Remove from device?</source>
         <translation>Rimuovere dal dispositivo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="435"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="438"/>
         <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Una volta cancellato l&apos;itinerario &lt;strong&gt;%1&lt;/strong&gt;, non potrà essere ripristinato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="447"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="450"/>
         <source>Flight route removed from device</source>
         <translation>Itinerario di volo rimosso dal dispositivo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="515"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="518"/>
         <source>Flight route renamed</source>
         <translation>Itinerario di volo rinominato</translation>
     </message>
@@ -1546,17 +1546,17 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <translation type="vanished">Rimuovi l&apos;itinerario di volo dal dispositivo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="461"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="464"/>
         <source>Rename Flight Route</source>
         <translation>Rinomina l&apos;itinerario</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="479"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="482"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Inserire il nuovo nome per l&apos;itinerario &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="505"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="508"/>
         <source>Rename</source>
         <translation>Rinomina</translation>
     </message>
@@ -1565,7 +1565,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <translation type="vanished">Rinomina l&apos;itinerario di volo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="530"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="533"/>
         <source>Error exporting data…</source>
         <translation>Errore esportando i dati…</translation>
     </message>
@@ -2714,7 +2714,7 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="178"/>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="476"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="479"/>
         <source>Download Error</source>
         <translation>Errore nel download</translation>
     </message>
@@ -2724,48 +2724,48 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
         <translation>&lt;p&gt;Impossibile scaricare &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Motivo: %2.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="234"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="237"/>
         <source>Update list of maps</source>
         <translation>Aggiorna la lista delle mappe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="246"/>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="461"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="249"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="464"/>
         <source>Download all updates…</source>
         <translation>Scarica tutti gli aggiornamenti...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="271"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="274"/>
         <source>Aviation Maps</source>
         <translation>Mappe aeronautiche</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="274"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="277"/>
         <source>Base Maps</source>
         <translation>Mappe di base</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="315"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="318"/>
         <source>How to request additional aviation maps…</source>
         <translation>Come richiedere mappe aeree aggiuntive ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="322"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="325"/>
         <source>Request additional aviation maps</source>
         <translation>Richiedi mappe aeree aggiuntive</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="396"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="399"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;La lista delle mappe disponibili non è ancora stata scaricata dal server. Potete ritentare il download manualmente usando il menu &apos;Aggiorna&apos;.  Per trovare questo menu usate il simbolo &apos;&amp;#8942;&apos; al bordo superiore destro dello schermo.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="422"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="425"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Download in corso…&lt;/h3&gt;&lt;p&gt;Prego attendere il completamento del download della lista mappe…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="477"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="480"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Impossibile scaricare la lista delle mappe aeronautiche.&lt;/p&gt;&lt;p&gt;Motivo: %1.&lt;/p&gt;</translation>
     </message>
