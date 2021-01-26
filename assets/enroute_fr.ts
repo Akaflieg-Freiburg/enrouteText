@@ -2492,43 +2492,43 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>WaypointDescription</name>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="85"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="84"/>
         <source>full report</source>
         <translation>rapport complet</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="86"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="85"/>
         <source>read TAF</source>
         <translation>lire TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="362"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="350"/>
         <source>Direct</source>
         <translation>Direct</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="375"/>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="446"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="363"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="434"/>
         <source>New flight route: direct to %1.</source>
         <translation>Nouvelle route: directe vers %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="393"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="381"/>
         <source>Added %1 to route.</source>
         <translation>%1 ajouté à la route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="409"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="397"/>
         <source>Removed %1 from route.</source>
         <translation>%1 retiré de la route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="422"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="410"/>
         <source>Overwrite current flight route?</source>
         <translation>Ecraser la route actuelle ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="432"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="420"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation>La route ne pourra pas être restaurée si elle est écrasée.</translation>
     </message>
@@ -5397,42 +5397,42 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>WeatherPage</name>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="48"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="47"/>
         <source>Weather</source>
         <translation>Météo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="106"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="105"/>
         <source>Disallow internet connection</source>
         <translation>Refuser la connexion internet</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="233"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="232"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAF data from the Aviation Weather Center…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Téléchargement en cours…&lt;/h3&gt;&lt;p&gt;Merci de patienter pendant que les METAR/TAF sont téléchargés depuis l&apos;Aviation Weather Center…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="288"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="287"/>
         <source>Allow internet connection</source>
         <translation>Autoriser la connexion internet</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="96"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="95"/>
         <source>Update METAR/TAF data</source>
         <translation>Mettre à jour METAR/TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="194"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="193"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the three-dot menu at the top right corner of the screen.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé!&lt;/h3&gt;&lt;p&gt;METAR/TAF non disponible. Vous pouvez les télécharger manuellement en utilisant la fonction &apos;Mettre à jour METAR/TAF&apos; depuis le menu. Le menu est accessible via le symbole &apos;&amp;#8942;&apos; se trouvant dans le coin supérieur droit.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="363"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="353"/>
         <source>Update Error</source>
         <translation>Erreur lors de la mise à jour</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="364"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="354"/>
         <source>&lt;p&gt;Failed to update the list of stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Echec lors de la mise à jour de la liste des stations.&lt;/p&gt;&lt;p&gt;Raison: %1.&lt;/p&gt;</translation>
     </message>

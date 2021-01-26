@@ -3222,28 +3222,28 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>WaypointDescription</name>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="85"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="84"/>
         <source>full report</source>
         <translation>rapporto completo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="86"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="85"/>
         <source>read TAF</source>
         <translation>leggi i TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="375"/>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="446"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="363"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="434"/>
         <source>New flight route: direct to %1.</source>
         <translation>Nuovo itinerario di volo: diretto a %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="393"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="381"/>
         <source>Added %1 to route.</source>
         <translation>Aggiunto %1 all&apos;itinerario.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="409"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="397"/>
         <source>Removed %1 from route.</source>
         <translation>Rimosso %1 dall&apos;itinerario.</translation>
     </message>
@@ -3256,7 +3256,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">mailto:stefan.kebekus@gmail.com?subject=Enroute, Error Report &amp;body=Thank you for suggesting a correction in the map data. Please describe the issue here.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="362"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="350"/>
         <source>Direct</source>
         <translation>Diretto</translation>
     </message>
@@ -3269,12 +3269,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">al volo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="422"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="410"/>
         <source>Overwrite current flight route?</source>
         <translation>Sovrascrivere ll&apos;itinerario corrente?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="432"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="420"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation>Una volta sovrascritto, ll&apos;itinerario di volo non potrà essere ripristinato.</translation>
     </message>
@@ -6191,27 +6191,27 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>WeatherPage</name>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="48"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="47"/>
         <source>Weather</source>
         <translation>Meteo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="96"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="95"/>
         <source>Update METAR/TAF data</source>
         <translation>Aggiorna dati METAR/TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="106"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="105"/>
         <source>Disallow internet connection</source>
         <translation>Non consentire la connessione internet</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="194"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="193"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the three-dot menu at the top right corner of the screen.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Non ci sono dati METAR/TAF disponibili. Potete ritentare lo scaricamento usando il menu &apos;Aggiorna dati METAR/TAF&apos; dal menu con i tre punti nell&apos;angolo superiore destro dello schermo.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="233"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="232"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAF data from the Aviation Weather Center…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Scaricamento in corso...&lt;/h3&gt;&lt;p&gt;Prego attendere intanto che i dati METAR/TAF vengono scaricati da Aviation Weather Center...&lt;/p&gt;</translation>
     </message>
@@ -6220,17 +6220,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">&lt;h3&gt;Download in corso…&lt;/h3&gt;&lt;p&gt;Prego attendere finchè non sono stati scaricati i dati METAR/TAF dal server…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="288"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="287"/>
         <source>Allow internet connection</source>
         <translation>Consenti la connessione internet</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="363"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="353"/>
         <source>Update Error</source>
         <translation>Errore nell&apos;aggiornamento</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="364"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="354"/>
         <source>&lt;p&gt;Failed to update the list of stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Impossibile aggiornare la lista delle stazioni.&lt;/p&gt;&lt;p&gt;Motivo: %1.&lt;/p&gt;</translation>
     </message>
