@@ -3840,7 +3840,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="362"/>
         <source>friction coefficient %1</source>
-        <translation>współczynnik tarcia%1</translation>
+        <translation>współczynnik tarcia %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="363"/>
@@ -3850,7 +3850,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="366"/>
         <source>braking action %1</source>
-        <translation>działanie hamowania%1</translation>
+        <translation>działanie hamowania %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="369"/>
