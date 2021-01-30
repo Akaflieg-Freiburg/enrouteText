@@ -3237,7 +3237,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="116"/>
         <source>variable</source>
-        <translation>zmienna</translation>
+        <translation>zmienny</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="119"/>
@@ -4881,7 +4881,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1900"/>
         <source>%1 in %2 AGL</source>
-        <translation>%1 w %2 AGL</translation>
+        <translation>%1 na %2 AGL</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1905"/>
@@ -5358,7 +5358,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2406"/>
         <source>Issued at %1</source>
-        <translation>Wydane w %1</translation>
+        <translation>Wydane na %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2414"/>
@@ -5587,7 +5587,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2665"/>
         <source>Visibility is %1</source>
-        <translation>Widocznosć jest %1</translation>
+        <translation>Widoczność na %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2669"/>
