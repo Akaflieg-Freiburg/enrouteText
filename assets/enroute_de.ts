@@ -1073,22 +1073,22 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/FlightDisplay.qml" line="90"/>
         <source>ALT</source>
-        <translation type="unfinished">ALT</translation>
+        <translation>ALT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/FlightDisplay.qml" line="98"/>
         <source>GS</source>
-        <translation type="unfinished">GS</translation>
+        <translation>GS</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/FlightDisplay.qml" line="106"/>
         <source>TT</source>
-        <translation type="unfinished">TT</translation>
+        <translation>TT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/FlightDisplay.qml" line="114"/>
         <source>Time</source>
-        <translation type="unfinished">Zeit</translation>
+        <translation>Zeit</translation>
     </message>
 </context>
 <context>
@@ -1264,13 +1264,13 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="238"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="262"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abgebrochen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="247"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="271"/>
         <source>Flight route shared</source>
-        <translation type="unfinished">Route geteilt</translation>
+        <translation>Route geteilt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="723"/>
@@ -1501,7 +1501,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="179"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="204"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Abgebrochen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="188"/>
