@@ -1074,22 +1074,22 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/FlightDisplay.qml" line="90"/>
         <source>ALT</source>
-        <translation type="unfinished">ALT</translation>
+        <translation>ALT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/FlightDisplay.qml" line="98"/>
         <source>GS</source>
-        <translation type="unfinished">GS</translation>
+        <translation>GS</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/FlightDisplay.qml" line="106"/>
         <source>TT</source>
-        <translation type="unfinished">TT</translation>
+        <translation>TT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/FlightDisplay.qml" line="114"/>
         <source>Time</source>
-        <translation type="unfinished">Tempo</translation>
+        <translation>Tempo</translation>
     </message>
 </context>
 <context>
@@ -1307,13 +1307,13 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="238"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="262"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Annullato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="247"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="271"/>
         <source>Flight route shared</source>
-        <translation type="unfinished">Itinerario di volo condiviso</translation>
+        <translation>Itinerario di volo condiviso</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="249"/>
@@ -1502,7 +1502,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="179"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="204"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Annnullato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="188"/>
