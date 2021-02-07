@@ -58,15 +58,18 @@ When touching a station line METAR and TAF (if available) will be shown in a wea
     The color coding used for station weather does not match to European VFR criteria. Assessment of  meteorological flight conditions has to be done via an officially approved source of flight weather.
 
 
-+---------------------------------+-------+----------------------------+-------+----------------------------+
-| Category                        | Color |   Ceiling                  |       |   Visibility               |
-+=================================+=======+============================+=======+============================+
-|IFR Instrument Flight Rules      |Red    | 500 to below 1,000 feet AGL| and/or| 1 mile to less than 3 miles|
-+---------------------------------+-------+----------------------------+-------+----------------------------+
-|MVFR Marginal Visual Flight Rules|Yellow | 1,000 to 3,000 feet AGL    | and/or|  3 to 5 miles              |
-+---------------------------------+-------+----------------------------+-------+----------------------------+
-|VFR Visual Flight Rules          |Green  | greater than 3,000 feet AGL| and/or| greater than 5 miles       |
-+---------------------------------+-------+----------------------------+-------+----------------------------+
++----------------------------+------+---------------+----+------------------+
+| Category                   | Color|   Ceiling     |    |   Visibility     |
++============================+======+===============+====+==================+
+|IFR                         |Red   | 500 to below  | and| 1 mile to        |
+|Instrument Flight Rules     |      | 1,000 feet AGL| /or| less than 3 miles|
++----------------------------+------+---------------+----+------------------+
+|MVFR                        |Yellow| 1,000 to      | and|  3 to 5 miles    |
+|Marginal Visual Flight Rules|      | 3,000 feet AGL| /or|                  |
++----------------------------+------+---------------+----+------------------+
+|VFR                         |Green | greater than  | and| greater than     |
+|Visual Flight Rules         |      | 3,000 feet AGL| /or| 5 miles          |
++----------------------------+------+---------------+----+------------------+
 
 
 .. note::
