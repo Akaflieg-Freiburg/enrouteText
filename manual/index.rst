@@ -57,8 +57,10 @@ and frequencies.
    :maxdepth: 2
    :caption: Reference manual
    :name: sec-reference
-
-   02-reference/main_window
+    
+   02-reference/map_data
+   02-reference/airspace_display
+   02-reference/weather
 
    
 .. raw:: latex
