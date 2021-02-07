@@ -15,6 +15,5 @@
 \contentsline {section}{\numberline {3.2}Settings}{18}{section.3.2}
 \contentsline {section}{\numberline {3.3}Flight routes}{18}{section.3.3}
 \contentsline {part}{II\hspace {1em}Reference manual}{21}{part.2}
-\contentsline {chapter}{\numberline {4}Main window}{23}{chapter.4}
-\contentsline {part}{III\hspace {1em}Appendix}{25}{part.3}
-\contentsline {chapter}{\numberline {5}Software licenses}{27}{chapter.5}
+\contentsline {part}{III\hspace {1em}Appendix}{23}{part.3}
+\contentsline {chapter}{\numberline {4}Software licenses}{25}{chapter.4}

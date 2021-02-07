@@ -120,12 +120,6 @@
     </navPoint>
     <navPoint id="navPoint19" playOrder="16">
       <navLabel>
-        <text>Main window</text>
-      </navLabel>
-      <content src="02-reference/main_window.xhtml" />  
-    </navPoint>
-    <navPoint id="navPoint20" playOrder="17">
-      <navLabel>
         <text>Software licenses</text>
       </navLabel>
       <content src="03-appendix/licenses.xhtml" />  
