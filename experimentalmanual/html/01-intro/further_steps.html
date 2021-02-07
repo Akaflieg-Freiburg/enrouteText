@@ -91,7 +91,8 @@
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Further Steps</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#menu">Menu</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#settings">Settings</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#flight-routes">Flight routes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#waypoints">Waypoints</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#flight-routes">Flight Routes</a></li>
 </ul>
 </li>
 </ul>
@@ -176,12 +177,12 @@
 <li><p>Route — see Flight Routes described below</p></li>
 <li><p>Nearby Waypoints  — will show the closest 20 aerodromes, navaids or reporting points</p></li>
 <li><p>Weather   — will open the weather display</p></li>
-<li><p>Set Altimeter — allows to enter current altitude to have altitude with an offset</p></li>
+<li><p>Set Altimeter — allows to enter current altitude to have altitude displayed using an offset</p></li>
 <li><p>Settings — see below</p></li>
 <li><dl class="simple">
 <dt>Information</dt><dd><ul>
-<li><p>Satellite Status</p></li>
-<li><p>Manual</p></li>
+<li><p>Satellite Status  — will open a sub-window showing the status of GPS reception</p></li>
+<li><p>Manual — will show this manual</p></li>
 <li><p>About Enroute Flight Navigation</p></li>
 <li><p>Participate</p></li>
 <li><p>Donate</p></li>
@@ -189,8 +190,8 @@
 </dd>
 </dl>
 </li>
-<li><p>Bug Report</p></li>
-<li><p>Exit</p></li>
+<li><p>Bug Report — will open a link to provide feedback</p></li>
+<li><p>Exit — will shut down the application</p></li>
 </ul>
 <p>Only some reference to Menu items is given in this section. More details may be found in the ‘Reference’ section of  the manual.</p>
 </div>
@@ -223,14 +224,76 @@ The settings Menu gives the following options:</p>
 <p>If “Use English” is not selected the standard language selected for your device will be used if available.</p>
 </div>
 </div>
+<div class="section" id="waypoints">
+<h2>Waypoints<a class="headerlink" href="#waypoints" title="Permalink to this headline">¶</a></h2>
+<p>Waypoints are the central element of aeronautical navigation. A waypoint is selected by touching the moving map at the location of the waypoint display. Waypoints may also be directly added to a route by list selection or search.</p>
+<p>The following types of Waypoints are available:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Aerodromes</p></li>
+<li><p>Reporting points</p></li>
+<li><p>Navaids</p></li>
+<li><p>Arbitrary points on the map.</p></li>
+</ul>
+</div></blockquote>
+<p>For Aerodromes the full set of information will be displayed:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Aerodrome symbol indicating type of airport</p></li>
+<li><p>Aerodrome designation</p></li>
+<li><p>Distance and Bearing to Aerodrome</p></li>
+<li><p>Meteorological information if available</p></li>
+<li><p>Aerodrome communication information</p></li>
+<li><p>Airspace data</p></li>
+</ul>
+</div></blockquote>
+<p>For Reporting Points the following information will be displayed:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Reporting Point designation</p></li>
+<li><p>Distance and bearing to Reporting Point</p></li>
+<li><p>Reporting Point communication information</p></li>
+<li><p>Airspace data</p></li>
+</ul>
+</div></blockquote>
+<p>For Navaids the following information will be displayed:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Navaid symbol, designation and type</p></li>
+<li><p>Distance and bearing to Navaid</p></li>
+<li><p>Navaid ID, frequency and elevation</p></li>
+<li><p>Airspace data</p></li>
+</ul>
+</div></blockquote>
+<p>For Arbitrary Points the following information will be displayed:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Point designation if manually entered</p></li>
+<li><p>Distance and bearing to Point</p></li>
+<li><p>Airspace data</p></li>
+</ul>
+</div></blockquote>
+<div class="figure align-center">
+<img alt="../_images/fig_waypoint.png" src="../_images/fig_waypoint.png" />
+</div>
+<p><em>Legend</em>:</p>
+<ol class="arabic simple">
+<li><p>Waypoint designation, bearing and distance</p></li>
+<li><p>Waypoint meteorological information (only shown for airports if available)</p></li>
+<li><p>Communication information related to waypoint (only shown if applicable)</p></li>
+<li><p>Airspace information for waypoint</p></li>
+<li><p>Area to select direct Navigation to waypoint</p></li>
+<li><p>Area to add waypoint to current route</p></li>
+</ol>
+</div>
 <div class="section" id="flight-routes">
-<h2>Flight routes<a class="headerlink" href="#flight-routes" title="Permalink to this headline">¶</a></h2>
-<p>Enroute Flight Navigation provides direct planning of one Route. A Route will remain present until it is cleared.
+<h2>Flight Routes<a class="headerlink" href="#flight-routes" title="Permalink to this headline">¶</a></h2>
+<p>Enroute Flight Navigation provides direct planning of one flight Route. A Route will remain present until it is cleared.
 Route planning is entered via the Menu point Route. The Menu is entered via the Menu Symbol in the upper left corner of the map area. Then the Route Symbol has to be touched to go to the Route area.</p>
 <p>A Route may be planned in the following ways:</p>
 <ul class="simple">
 <li><p>“Direct” in the waypoint window will provide a Route between current position and desired waypoint</p></li>
-<li><p>“to Route” in the waypoint window will add the waypoint to the last position of the Route.</p></li>
+<li><p>“+” symbol in the waypoint window will add the waypoint to the last position of the Route.</p></li>
 <li><p>“Add Waypoint” in the Route window will open a selection window for a waypoint and add the selected waypoint to the route.</p></li>
 </ul>
 <p>The Route Display will show the following information:</p>
@@ -253,31 +316,64 @@ Route planning is entered via the Menu point Route. The Menu is entered via the 
 <p class="admonition-title">Note</p>
 <p>A Route may also be imported from a GPX file from another PC. After sending the GPX file as Email attachment Enroute Flight Navigation will offer to open the GPX file.</p>
 </div>
-<p>The Route Point Menu provides the option to:
-* Move a waypoint up in the Route
-* Move a waypoint down in the Route
-* Remove a waypoint from the Route</p>
+<p>The Route Point Menu provides the option to:</p>
+<ul class="simple">
+<li><p>Move a waypoint up in the Route</p></li>
+<li><p>Move a waypoint down in the Route</p></li>
+<li><p>Remove a waypoint from the Route</p></li>
+</ul>
 <p>The Route Menu is entered by touching the Route Menu Symbol on the Route page.
-The following options are available from the Route Menu:</p>
+For Arbitrary Points the standard designation “Waypoint” may be changed by touching the pencil symbol and entering a designation.</p>
+<p>The following options are available from the Route Menu:</p>
 <ul class="simple">
 <li><p>Open a previously stored route from the library</p></li>
 <li><p>Save the current route to the library</p></li>
 <li><p>View the route library</p></li>
-<li><p>Import a Route from an external source</p></li>
-<li><p>Send the Route in JSON or GPX format</p></li>
+<li><p>Share the Route in JSON or GPX format</p></li>
 <li><p>Open the Route in another APP using the JSON or GPX format</p></li>
 <li><p>Clear Route</p></li>
 <li><p>Reverse Route</p></li>
 </ul>
 <p>The previously created and stored routes will be kept in a data base within Enroute Flight Navigation. Routes consist of the data for the selected way points. The Route data may be exported for use in other applications.</p>
+<dl class="simple">
+<dt>The Route display has 3 Sub windows:</dt><dd><ul class="simple">
+<li><p>Route</p></li>
+<li><p>Wind</p></li>
+<li><p>ACFT</p></li>
+</ul>
+</dd>
+</dl>
+<div class="figure align-center">
+<img alt="../_images/fig_route.png" src="../_images/fig_route.png" />
+</div>
+<p><em>Legend</em>:</p>
+<ol class="arabic simple">
+<li><p>Route sub-window</p></li>
+<li><p>Selection area for wind sub-window</p></li>
+<li><p>Selection area for aircraft sub-window</p></li>
+<li><p>Route point sub-menu</p></li>
+<li><p>Edit route point designation for arbitrary waypoints</p></li>
+<li><p>Total distance, flight time and fuel consumption for flight route</p></li>
+</ol>
+<p>.</p>
 <p><strong>Route – Aircraft and Wind</strong></p>
-<p>The Aircraft and Wind sub-page of the Route page allows to enter aircraft performance and wind data required for navigational calculations.
+<p>The Aircraft and Wind sub-pages of the Route page allows to enter aircraft performance and wind data required for navigational calculations.
 The Aircraft Data will be used to determine the distance of the flight and the true course.
 The Wind data will will be used to calculate the true heading and duration of the flight. The duration of the flight will determine the fuel used.
 Enroute Flight Navigation only offers a very superficial flight planning and cannot replace a full flight planning, but is only intended to provide quick reference.</p>
-<p>Warning
-Always perform a full flight preparation in accordance with the flight manual of the aircraft used. The use of Enroute Flight Navigation as primary flight planning may cause accidents leading to loss of lives.</p>
-<p>The Aircraft and Wind sub-page of the Route page offers the following input fields:</p>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Always perform a full flight preparation in accordance with the flight manual of the aircraft used. The use of Enroute Flight Navigation as primary flight planning may cause accidents leading to loss of lives.</p>
+</div>
+<dl class="simple">
+<dt>The Wind sub-page of the Route page offers the following input fields:</dt><dd><ul class="simple">
+<li><p>Direction in degrees</p></li>
+<li><p>Speed in knots</p></li>
+</ul>
+</dd>
+</dl>
+<p>Only one speed, fuel consumption and wind may be entered for the whole route.</p>
+<p>The Aircraft sub-page of the Route page offers the following input fields:</p>
 <ul class="simple">
 <li><dl class="simple">
 <dt>Aircraft</dt><dd><ul>
@@ -288,16 +384,7 @@ Always perform a full flight preparation in accordance with the flight manual of
 </dd>
 </dl>
 </li>
-<li><dl class="simple">
-<dt>Wind</dt><dd><ul>
-<li><p>Direction in degrees</p></li>
-<li><p>Speed in knots</p></li>
 </ul>
-</dd>
-</dl>
-</li>
-</ul>
-<p>Only one speed, fuel consumption and wind may be entered for the whole route.</p>
 </div>
 </div>
 

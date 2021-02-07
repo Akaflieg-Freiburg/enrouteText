@@ -113,12 +113,18 @@
       </navPoint>
       <navPoint id="navPoint18" playOrder="15">
         <navLabel>
-          <text>Flight routes</text>
+          <text>Waypoints</text>
+        </navLabel>
+        <content src="01-intro/further_steps.xhtml#waypoints" />  
+      </navPoint>
+      <navPoint id="navPoint19" playOrder="16">
+        <navLabel>
+          <text>Flight Routes</text>
         </navLabel>
         <content src="01-intro/further_steps.xhtml#flight-routes" />  
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint19" playOrder="16">
+    <navPoint id="navPoint20" playOrder="17">
       <navLabel>
         <text>Software licenses</text>
       </navLabel>

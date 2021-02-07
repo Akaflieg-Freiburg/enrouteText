@@ -300,6 +300,16 @@ INPUT fig_FlightModeTu.png
 INPUT ./fig_FlightModeTu.png
 INPUT fig_FlightModeTu.png
 INPUT ./fig_FlightModeTu.png
+INPUT fig_waypoint.png
+INPUT ./fig_waypoint.png
+INPUT ./fig_waypoint.png
+INPUT fig_waypoint.png
+INPUT ./fig_waypoint.png
+INPUT fig_route.png
+INPUT ./fig_route.png
+INPUT ./fig_route.png
+INPUT fig_route.png
+INPUT ./fig_route.png
 INPUT enrouteflightnavigation.ind
 INPUT enrouteflightnavigation.ind
 INPUT enrouteflightnavigation.aux

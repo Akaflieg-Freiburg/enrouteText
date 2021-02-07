@@ -696,7 +696,7 @@ Nearby Waypoints  — will show the closest 20 aerodromes, navaids or reporting 
 Weather   — will open the weather display
 
 \item {} 
-Set Altimeter — allows to enter current altitude to have altitude with an offset
+Set Altimeter — allows to enter current altitude to have altitude displayed using an offset
 
 \item {} 
 Settings — see below
@@ -704,10 +704,10 @@ Settings — see below
 \item {} \begin{description}
 \item[{Information}] \leavevmode\begin{itemize}
 \item {} 
-Satellite Status
+Satellite Status  — will open a sub\sphinxhyphen{}window showing the status of GPS reception
 
 \item {} 
-Manual
+Manual — will show this manual
 
 \item {} 
 About Enroute Flight Navigation
@@ -723,10 +723,10 @@ Donate
 \end{description}
 
 \item {} 
-Bug Report
+Bug Report — will open a link to provide feedback
 
 \item {} 
-Exit
+Exit — will shut down the application
 
 \end{itemize}
 
@@ -775,9 +775,126 @@ If “Use English” is not selected the standard language selected for your dev
 \end{sphinxadmonition}
 
 
-\section{Flight routes}
+\section{Waypoints}
+\label{\detokenize{01-intro/further_steps:waypoints}}
+Waypoints are the central element of aeronautical navigation. A waypoint is selected by touching the moving map at the location of the waypoint display. Waypoints may also be directly added to a route by list selection or search.
+
+The following types of Waypoints are available:
+\begin{itemize}
+\item {} 
+Aerodromes
+
+\item {} 
+Reporting points
+
+\item {} 
+Navaids
+
+\item {} 
+Arbitrary points on the map.
+
+\end{itemize}
+
+For Aerodromes the full set of information will be displayed:
+\begin{itemize}
+\item {} 
+Aerodrome symbol indicating type of airport
+
+\item {} 
+Aerodrome designation
+
+\item {} 
+Distance and Bearing to Aerodrome
+
+\item {} 
+Meteorological information if available
+
+\item {} 
+Aerodrome communication information
+
+\item {} 
+Airspace data
+
+\end{itemize}
+
+For Reporting Points the following information will be displayed:
+\begin{itemize}
+\item {} 
+Reporting Point designation
+
+\item {} 
+Distance and bearing to Reporting Point
+
+\item {} 
+Reporting Point communication information
+
+\item {} 
+Airspace data
+
+\end{itemize}
+
+For Navaids the following information will be displayed:
+\begin{itemize}
+\item {} 
+Navaid symbol, designation and type
+
+\item {} 
+Distance and bearing to Navaid
+
+\item {} 
+Navaid ID, frequency and elevation
+
+\item {} 
+Airspace data
+
+\end{itemize}
+
+For Arbitrary Points the following information will be displayed:
+\begin{itemize}
+\item {} 
+Point designation if manually entered
+
+\item {} 
+Distance and bearing to Point
+
+\item {} 
+Airspace data
+
+\end{itemize}
+
+\begin{figure}[htbp]
+\centering
+
+\noindent\sphinxincludegraphics{{fig_waypoint}.png}
+\end{figure}
+
+\sphinxstyleemphasis{Legend}:
+\begin{enumerate}
+\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
+\item {} 
+Waypoint designation, bearing and distance
+
+\item {} 
+Waypoint meteorological information (only shown for airports if available)
+
+\item {} 
+Communication information related to waypoint (only shown if applicable)
+
+\item {} 
+Airspace information for waypoint
+
+\item {} 
+Area to select direct Navigation to waypoint
+
+\item {} 
+Area to add waypoint to current route
+
+\end{enumerate}
+
+
+\section{Flight Routes}
 \label{\detokenize{01-intro/further_steps:flight-routes}}
-Enroute Flight Navigation provides direct planning of one Route. A Route will remain present until it is cleared.
+Enroute Flight Navigation provides direct planning of one flight Route. A Route will remain present until it is cleared.
 Route planning is entered via the Menu point Route. The Menu is entered via the Menu Symbol in the upper left corner of the map area. Then the Route Symbol has to be touched to go to the Route area.
 
 A Route may be planned in the following ways:
@@ -786,7 +903,7 @@ A Route may be planned in the following ways:
 “Direct” in the waypoint window will provide a Route between current position and desired waypoint
 
 \item {} 
-“to Route” in the waypoint window will add the waypoint to the last position of the Route.
+“+” symbol in the waypoint window will add the waypoint to the last position of the Route.
 
 \item {} 
 “Add Waypoint” in the Route window will open a selection window for a waypoint and add the selected waypoint to the route.
@@ -829,11 +946,21 @@ A Route may also be imported from a GPX file from another PC. After sending the 
 \end{sphinxadmonition}
 
 The Route Point Menu provides the option to:
-* Move a waypoint up in the Route
-* Move a waypoint down in the Route
-* Remove a waypoint from the Route
+\begin{itemize}
+\item {} 
+Move a waypoint up in the Route
+
+\item {} 
+Move a waypoint down in the Route
+
+\item {} 
+Remove a waypoint from the Route
+
+\end{itemize}
 
 The Route Menu is entered by touching the Route Menu Symbol on the Route page.
+For Arbitrary Points the standard designation “Waypoint” may be changed by touching the pencil symbol and entering a designation.
+
 The following options are available from the Route Menu:
 \begin{itemize}
 \item {} 
@@ -846,10 +973,7 @@ Save the current route to the library
 View the route library
 
 \item {} 
-Import a Route from an external source
-
-\item {} 
-Send the Route in JSON or GPX format
+Share the Route in JSON or GPX format
 
 \item {} 
 Open the Route in another APP using the JSON or GPX format
@@ -863,18 +987,77 @@ Reverse Route
 \end{itemize}
 
 The previously created and stored routes will be kept in a data base within Enroute Flight Navigation. Routes consist of the data for the selected way points. The Route data may be exported for use in other applications.
+\begin{description}
+\item[{The Route display has 3 Sub windows:}] \leavevmode\begin{itemize}
+\item {} 
+Route
+
+\item {} 
+Wind
+
+\item {} 
+ACFT
+
+\end{itemize}
+
+\end{description}
+
+\begin{figure}[htbp]
+\centering
+
+\noindent\sphinxincludegraphics{{fig_route}.png}
+\end{figure}
+
+\sphinxstyleemphasis{Legend}:
+\begin{enumerate}
+\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
+\item {} 
+Route sub\sphinxhyphen{}window
+
+\item {} 
+Selection area for wind sub\sphinxhyphen{}window
+
+\item {} 
+Selection area for aircraft sub\sphinxhyphen{}window
+
+\item {} 
+Route point sub\sphinxhyphen{}menu
+
+\item {} 
+Edit route point designation for arbitrary waypoints
+
+\item {} 
+Total distance, flight time and fuel consumption for flight route
+
+\end{enumerate}
+
+.
 
 \sphinxstylestrong{Route \textendash{} Aircraft and Wind}
 
-The Aircraft and Wind sub\sphinxhyphen{}page of the Route page allows to enter aircraft performance and wind data required for navigational calculations.
+The Aircraft and Wind sub\sphinxhyphen{}pages of the Route page allows to enter aircraft performance and wind data required for navigational calculations.
 The Aircraft Data will be used to determine the distance of the flight and the true course.
 The Wind data will will be used to calculate the true heading and duration of the flight. The duration of the flight will determine the fuel used.
 Enroute Flight Navigation only offers a very superficial flight planning and cannot replace a full flight planning, but is only intended to provide quick reference.
 
-Warning
+\begin{sphinxadmonition}{warning}{Warning:}
 Always perform a full flight preparation in accordance with the flight manual of the aircraft used. The use of Enroute Flight Navigation as primary flight planning may cause accidents leading to loss of lives.
+\end{sphinxadmonition}
+\begin{description}
+\item[{The Wind sub\sphinxhyphen{}page of the Route page offers the following input fields:}] \leavevmode\begin{itemize}
+\item {} 
+Direction in degrees
 
-The Aircraft and Wind sub\sphinxhyphen{}page of the Route page offers the following input fields:
+\item {} 
+Speed in knots
+
+\end{itemize}
+
+\end{description}
+
+Only one speed, fuel consumption and wind may be entered for the whole route.
+
+The Aircraft sub\sphinxhyphen{}page of the Route page offers the following input fields:
 \begin{itemize}
 \item {} \begin{description}
 \item[{Aircraft}] \leavevmode\begin{itemize}
@@ -891,21 +1074,7 @@ Fuel Consumption: Average Fuel consumption per hour
 
 \end{description}
 
-\item {} \begin{description}
-\item[{Wind}] \leavevmode\begin{itemize}
-\item {} 
-Direction in degrees
-
-\item {} 
-Speed in knots
-
 \end{itemize}
-
-\end{description}
-
-\end{itemize}
-
-Only one speed, fuel consumption and wind may be entered for the whole route.
 
 \part{Reference manual}
 
