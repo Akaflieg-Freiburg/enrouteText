@@ -126,6 +126,18 @@
     </navPoint>
     <navPoint id="navPoint20" playOrder="17">
       <navLabel>
+        <text>Map Data</text>
+      </navLabel>
+      <content src="02-reference/map_data.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint21" playOrder="18">
+      <navLabel>
+        <text>Weather</text>
+      </navLabel>
+      <content src="02-reference/weather.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint22" playOrder="19">
+      <navLabel>
         <text>Software licenses</text>
       </navLabel>
       <content src="03-appendix/licenses.xhtml" />  

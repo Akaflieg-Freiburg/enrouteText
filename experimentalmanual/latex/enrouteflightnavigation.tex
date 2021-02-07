@@ -1078,6 +1078,277 @@ Fuel Consumption: Average Fuel consumption per hour
 
 \part{Reference manual}
 
+
+\chapter{Map Data}
+\label{\detokenize{02-reference/map_data:map-data}}\label{\detokenize{02-reference/map_data::doc}}
+The Information displayed by the Map of Enroute Flight Navigation is provided by the following resources:
+\begin{itemize}
+\item {} 
+openAIP
+
+\item {} 
+open flightmaps
+
+\item {} 
+Map Tiler
+
+\item {} 
+Open Street Map
+
+\end{itemize}
+\begin{description}
+\item[{To get more detailed Information on these Resources you may touch the link on the lower edge of the map Display \sphinxstylestrong{Map Data Copyright Info}. After touching the line \sphinxstylestrong{Map Data Copyright Info} a sub window will open showing links to the contributor web sites:}] \leavevmode\begin{itemize}
+\item {} 
+\sphinxurl{https://www.openaip.net}
+
+\item {} 
+\sphinxurl{https://www.openflightmaps.org}
+
+\item {} 
+\sphinxurl{https://www.maptiler.com}
+
+\item {} 
+\sphinxurl{https://www.openstreetmap.org}
+
+\end{itemize}
+
+\end{description}
+
+\sphinxstylestrong{Open AIP}
+
+Open AIP has the goal to deliver free, current and precise data for air navigation to everyone. Open AIP is a web based and crowd\sphinxhyphen{}sourced platform.
+The Open AIP provides the basic source aeronautical data for display in Enroute Flight Navigation.
+
+\sphinxstylestrong{Open Flight Maps}
+
+Open Flight Maps is an open\sphinxhyphen{}source project providing aeronautical data for a high quality VFR Map.
+Open Flight Maps is providing some additional information, where available.
+
+The detailed split of the data sources for the Enroute Flight Naviagtion map is shown below:
+
+
+\begin{savenotes}\sphinxattablestart
+\centering
+\begin{tabulary}{\linewidth}[t]{|T|T|}
+\hline
+\sphinxstyletheadfamily 
+Map Feature
+&\sphinxstyletheadfamily 
+Data Origin
+\\
+\hline
+Airfields
+&
+openAIP
+\\
+\hline
+Airspace: Nature Preserve Areas
+&
+open flightmaps
+\\
+\hline
+Airspace: all other
+&
+openAIP
+\\
+\hline
+Navaids
+&
+openAIP
+\\
+\hline
+Procedures (Traffic Circuits, …)
+&
+open flightmaps
+\\
+\hline
+Reporting Points
+&
+open flightmaps
+\\
+\hline
+\end{tabulary}
+\par
+\sphinxattableend\end{savenotes}
+
+\sphinxstylestrong{Map Tiler}
+
+Is a software application to combine multiple layers of data for maps and provide the map in a format for loading and display.
+The Enroute Flight Naviagtion base maps are edited versions of maps kindly provided by Klokan Technologies through the OpenMapTiles project.
+
+\sphinxstylestrong{Open Street Map}
+
+Open Street Map (OSM) is a collaborative project to create a free editable map of the world. The geodata underlying the map is considered the primary output of the project. The creation and growth of OSM has been motivated by restrictions on use or availability of map data across much of the world, and the advent of inexpensive portable satellite navigation devices.
+The Open Street Map data is used to crate the base maps.
+
+
+\chapter{Weather}
+\label{\detokenize{02-reference/weather:weather}}\label{\detokenize{02-reference/weather::doc}}
+The Weather page is opened via the Menu by touching the “Weather” entry.
+The Weather page will display the station overview list for all currently available meteorological reports within 200 NM of the current position.
+
+\begin{figure}[htbp]
+\centering
+
+\noindent\sphinxincludegraphics{{fig_Weather}.png}
+\end{figure}
+
+\sphinxstyleemphasis{Legend}:
+\begin{enumerate}
+\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
+\item {} 
+Weather Menu
+
+\item {} 
+Station data
+
+\item {} 
+Meteorological data closest to own position
+
+\end{enumerate}
+
+The weather data is downloaded from the National Weather Service of the United States of America.
+
+\begin{sphinxadmonition}{note}{Note:}
+When opening the Weather page the first time you will have to confirm that you agree to download data from the NWS server to use this service.
+\end{sphinxadmonition}
+
+The menu of the Waether page will allow to:
+\begin{itemize}
+\item {} 
+Update the METAR and TAF data
+
+\item {} 
+Disallow he internet connection
+
+\end{itemize}
+
+The Weather overview window will provide the following information based on the METAR:
+\begin{itemize}
+\item {} 
+ICAO identifier for Station and Airport name
+
+\item {} 
+Distance and magnetic Bearing to Airport
+
+\item {} 
+Time of METAR and summary weather state
+
+\end{itemize}
+
+On the lower end of the weather page the following data relevant to your current position will be displayed:
+\begin{itemize}
+\item {} 
+QNH
+
+\item {} 
+Location and time of the report the QNH was extracted
+
+\item {} 
+Sunset during day or Sunrise during night at current location
+
+\item {} 
+Remaining time until sunset or sunrise
+
+\end{itemize}
+
+The information of each airport will be color coded by a system established by the US National Weather Service. The coding scheme is explained in the table below.
+When touching a station line METAR and TAF (if available) will be shown in a weather detail sub\sphinxhyphen{}page
+
+\begin{figure}[htbp]
+\centering
+
+\noindent\sphinxincludegraphics{{fig_WeatherDetail}.png}
+\end{figure}
+
+\sphinxstyleemphasis{Legend}:
+\begin{enumerate}
+\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
+\item {} 
+Station data including bering and distance
+
+\item {} 
+Current meteorological report
+
+\item {} 
+Decoded view of Current meteorological report
+
+\item {} 
+Weather forecast for station
+
+\item {} 
+Decoded view of weather forecast
+
+\end{enumerate}
+
+\begin{sphinxadmonition}{note}{Note:}
+To view the full weather forecast you have to scroll down in most cases
+\end{sphinxadmonition}
+
+\begin{sphinxadmonition}{caution}{Caution:}
+The color coding used for station weather does not match to European VFR criteria. Assessment of  meteorological flight conditions has to be done via an officially approved source of flight weather.
+\end{sphinxadmonition}
+
+
+\begin{savenotes}\sphinxattablestart
+\centering
+\begin{tabulary}{\linewidth}[t]{|T|T|T|T|T|}
+\hline
+\sphinxstyletheadfamily 
+Category
+&\sphinxstyletheadfamily 
+Color
+&\sphinxstyletheadfamily 
+Ceiling
+&\sphinxstyletheadfamily &\sphinxstyletheadfamily 
+Visibility
+\\
+\hline
+IFR Instrument Flight Rules
+&
+Red
+&
+500 to below 1,000 feet AGL
+&
+and/or
+&
+1 mile to less than 3 miles
+\\
+\hline
+MVFR Marginal Visual Flight Rules
+&
+Yellow
+&
+1,000 to 3,000 feet AGL
+&
+and/or
+&
+3 to 5 miles
+\\
+\hline
+VFR Visual Flight Rules
+&
+Green
+&
+greater than 3,000 feet AGL
+&
+and/or
+&
+greater than 5 miles
+\\
+\hline
+\end{tabulary}
+\par
+\sphinxattableend\end{savenotes}
+
+\begin{sphinxadmonition}{note}{Note:}
+By definition, IFR is ceiling less than 1,000 feet AGL.
+\end{sphinxadmonition}
+
+\begin{sphinxadmonition}{note}{Note:}
+By definition, VFR is ceiling greater than or equal to 3,000 feet AGL and visibility greater than or equal to 5 miles while MVFR is a sub\sphinxhyphen{}category of VFR.
+\end{sphinxadmonition}
+
 \part{Appendix}
 
 

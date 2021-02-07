@@ -310,6 +310,18 @@ INPUT ./fig_route.png
 INPUT ./fig_route.png
 INPUT fig_route.png
 INPUT ./fig_route.png
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
+INPUT fig_Weather.png
+INPUT ./fig_Weather.png
+INPUT ./fig_Weather.png
+INPUT fig_Weather.png
+INPUT ./fig_Weather.png
+INPUT fig_WeatherDetail.png
+INPUT ./fig_WeatherDetail.png
+INPUT ./fig_WeatherDetail.png
+INPUT fig_WeatherDetail.png
+INPUT ./fig_WeatherDetail.png
 INPUT enrouteflightnavigation.ind
 INPUT enrouteflightnavigation.ind
 INPUT enrouteflightnavigation.aux
@@ -318,6 +330,7 @@ INPUT ./enrouteflightnavigation.out
 INPUT /usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb

@@ -16,5 +16,7 @@
 \contentsline {section}{\numberline {3.3}Waypoints}{18}{section.3.3}
 \contentsline {section}{\numberline {3.4}Flight Routes}{20}{section.3.4}
 \contentsline {part}{II\hspace {1em}Reference manual}{23}{part.2}
-\contentsline {part}{III\hspace {1em}Appendix}{25}{part.3}
-\contentsline {chapter}{\numberline {4}Software licenses}{27}{chapter.4}
+\contentsline {chapter}{\numberline {4}Map Data}{25}{chapter.4}
+\contentsline {chapter}{\numberline {5}Weather}{27}{chapter.5}
+\contentsline {part}{III\hspace {1em}Appendix}{31}{part.3}
+\contentsline {chapter}{\numberline {6}Software licenses}{33}{chapter.6}
