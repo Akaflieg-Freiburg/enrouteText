@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.2.7)  7 FEB 2021 18:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.2.7)  7 FEB 2021 18:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1258,28 +1258,28 @@ Package pdftex.def Info: fig_WeatherDetail.png  used on input line 1261.
 [27
 
 ] [28 <./fig_Weather.png>] [29 <./fig_WeatherDetail.png>]
-Overfull \hbox (0.9271pt too wide) in paragraph at lines 1340--1340
-[]\T1/ptm/m/n/10 and/or| 
+Underfull \hbox (badness 10000) in paragraph at lines 1351--1351
+[]\T1/ptm/m/n/10 and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1340--1340
+Underfull \hbox (badness 8132) in paragraph at lines 1351--1351
 []\T1/ptm/m/n/10 MVFR Marginal Vi-sual Flight
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1340--1340
+Underfull \hbox (badness 10000) in paragraph at lines 1351--1351
 []\T1/ptm/m/n/10 Yel-
  []
 
 
-Overfull \hbox (0.9271pt too wide) in paragraph at lines 1340--1340
-[]\T1/ptm/m/n/10 and/or| 
+Underfull \hbox (badness 10000) in paragraph at lines 1351--1351
+[]\T1/ptm/m/n/10 and
  []
 
 
-Overfull \hbox (0.9271pt too wide) in paragraph at lines 1340--1340
-[]\T1/ptm/m/n/10 and/or| 
+Underfull \hbox (badness 10000) in paragraph at lines 1351--1351
+[]\T1/ptm/m/n/10 and
  []
 
 [30] [31
@@ -1287,19 +1287,19 @@ Overfull \hbox (0.9271pt too wide) in paragraph at lines 1340--1340
 ] [32]
 Chapter 6.
 (./enrouteflightnavigation.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1363.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1374.
  [33
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1363.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1374.
  (./enrouteflightnavigation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1363.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1363.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1374.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1374.
 
 Package rerunfilecheck Info: File `enrouteflightnavigation.out' has not changed
 .
 (rerunfilecheck)             Checksum: 2A40E98F8BB44C0BF1A85330F1E8ACB1;2877.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1363.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1374.
  ) 
 Here is how much of TeX's memory you used:
  13789 strings out of 494923
@@ -1315,7 +1315,7 @@ e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
 utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on enrouteflightnavigation.pdf (37 pages, 1366702 bytes).
+Output written on enrouteflightnavigation.pdf (37 pages, 1366726 bytes).
 PDF statistics:
  389 PDF objects out of 1000 (max. 8388607)
  321 compressed objects within 4 object streams
