@@ -4700,7 +4700,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1970"/>
         <source>Vertical visibility %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertikalsicht %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2357"/>
