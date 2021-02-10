@@ -4914,32 +4914,32 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1545"/>
         <source>low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>sabbia bassa alla deriva</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1548"/>
         <source>low drifting sand in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>sabbia bassa alla deriva nelle vicinanze</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1551"/>
         <source>light low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>leggera sabbia bassa alla deriva</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1554"/>
         <source>moderate low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>moderata sabbia bassa alla deriva</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1557"/>
         <source>heavy low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>forte sabbia bassa alla deriva</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1560"/>
         <source>recent low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>recente sabbia bassa alla deriva</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1570"/>
@@ -6156,7 +6156,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1995"/>
         <source>Vertical visibility %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Visibilità verticale %1</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="2151"/>
