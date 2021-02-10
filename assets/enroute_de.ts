@@ -4615,32 +4615,32 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1545"/>
         <source>low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugsand in Bodennähe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1548"/>
         <source>low drifting sand in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugsand in Bodennähe in der Umgebung</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1551"/>
         <source>light low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>leichter Flugsand in Bodennähe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1554"/>
         <source>moderate low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>mäßiger Flugsand in Bodennähe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1557"/>
         <source>heavy low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>schwerer Flugsand in Bodennähe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1560"/>
         <source>recent low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>vor kurzem Flugsand in Bodennähe</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1570"/>
