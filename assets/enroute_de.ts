@@ -3089,7 +3089,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/SatNav.cpp" line="341"/>
         <source>Connection to satellite system lost</source>
-        <translation>Kein GPS-Empfang</translation>
+        <translation>Kein GPS-Empfang mehr</translation>
     </message>
     <message>
         <location filename="../../../src/SatNav.cpp" line="344"/>
