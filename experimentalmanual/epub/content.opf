@@ -12,8 +12,8 @@
     <dc:publisher>Stefan Kebekus</dc:publisher>
     <dc:rights>2021, Stefan Kebekus</dc:rights>
     <dc:identifier id="unknown">unknown</dc:identifier>
-    <dc:date>2021-02-13T09:19:11Z</dc:date>
-    <meta property="dcterms:modified">2021-02-13T09:19:11Z</meta>
+    <dc:date>2021-02-15T16:28:54Z</dc:date>
+    <meta property="dcterms:modified">2021-02-15T16:28:54Z</meta>
     <meta property="ibooks:version"></meta>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="ibooks:binding">true</meta>
@@ -27,7 +27,7 @@
     <item id="epub-2" href="01-intro/further_steps.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-3" href="01-intro/getting_started.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-4" href="01-intro/think.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-5" href="02-reference/airspace-display.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-5" href="02-reference/airspace_display.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-6" href="02-reference/main_window.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-7" href="02-reference/map_data.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-8" href="02-reference/weather.xhtml" media-type="application/xhtml+xml" />
@@ -55,10 +55,10 @@
     <itemref idref="epub-3" />
     <itemref idref="epub-2" />
     <itemref idref="epub-7" />
+    <itemref idref="epub-5" />
     <itemref idref="epub-8" />
     <itemref idref="epub-9" />
     <itemref idref="epub-0" />
-    <itemref idref="epub-5" linear="no" />
     <itemref idref="epub-6" linear="no" />
   </spine>
   <guide>

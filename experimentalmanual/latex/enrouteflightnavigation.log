@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.2.13)  13 FEB 2021 09:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.2.15)  15 FEB 2021 16:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -469,7 +469,7 @@ Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
 \c@AlphaCnt=\count102
 \c@AlphaDecCnt=\count103
 ) (./sphinx.sty
-Package: sphinx 2019/09/02 v2.3.0 LaTeX package (Sphinx markup)
+Package: sphinx 2021/01/23 v3.5.0 LaTeX package (Sphinx markup)
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
@@ -766,17 +766,18 @@ Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix
 \FV@StepNumber=\count113
 \FV@OutFile=\write3
 ) (./footnotehyper-sphinx.sty
-Package: footnotehyper-sphinx 2017/10/27 v1.7 hyperref aware footnote.sty for s
-phinx (JFB)
+Package: footnotehyper-sphinx 2021/02/04 v1.1d hyperref aware footnote.sty for 
+sphinx (JFB)
 \FNH@notes=\box35
+\FNH@toks=\toks25
 \FNH@width=\dimen134
 )
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count114
-\float@exts=\toks25
+\float@exts=\toks26
 \float@box=\box36
-\@float@everytoks=\toks26
+\@float@everytoks=\toks27
 \@floatcapt=\box37
 )
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
@@ -784,7 +785,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \WF@size=\dimen136
 \c@WF@wrappedlines=\count115
 \WF@box=\box38
-\WF@everypar=\toks27
+\WF@everypar=\toks28
 Package: wrapfig 2003/01/31  v 3.6
 )
 (/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
@@ -804,6 +805,55 @@ Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
 Package: needspace 2010/09/12 v1.3d reserve vertical space
 )
 (/usr/share/texlive/texmf-dist/tex/latex/carlisle/remreset.sty)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count116
+\mult@box=\box39
+\multicol@leftmargin=\dimen137
+\c@unbalance=\count117
+\c@collectmore=\count118
+\doublecol@number=\count119
+\multicoltolerance=\count120
+\multicolpretolerance=\count121
+\full@width=\dimen138
+\page@free=\dimen139
+\premulticols=\dimen140
+\postmulticols=\dimen141
+\multicolsep=\skip71
+\multicolbaselineskip=\skip72
+\partial@page=\box40
+\last@line=\box41
+\maxbalancingoverflow=\dimen142
+\mult@rightbox=\box42
+\mult@grightbox=\box43
+\mult@gfirstbox=\box44
+\mult@firstbox=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\c@columnbadness=\count122
+\c@finalcolumnbadness=\count123
+\last@try=\dimen143
+\multicolovershoot=\dimen144
+\multicolundershoot=\dimen145
+\mult@nat@firstbox=\box63
+\colbreak@box=\box64
+\mc@col@check@num=\count124
+)
 (./sphinxhighlight.sty
 Package: sphinxhighlight 2016/05/29 stylesheet for highlighting with pygments
 )
@@ -828,22 +878,24 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-\sphinxverbatimsep=\dimen137
-\sphinxverbatimborder=\dimen138
-\sphinxshadowsep=\dimen139
-\sphinxshadowsize=\dimen140
-\sphinxshadowrule=\dimen141
-\spx@notice@border=\dimen142
-\spx@image@maxheight=\dimen143
-\spx@image@box=\dimen144
-\c@literalblock=\count116
-\sphinxcontinuationbox=\box39
-\sphinxvisiblespacebox=\box40
-\sphinxVerbatim@TitleBox=\box41
-\sphinxVerbatim@ContentsBox=\box42
-\py@argswidth=\skip71
-\lineblockindentation=\skip72
-\DUlineblockindent=\skip73
+\sphinxverbatimsep=\dimen146
+\sphinxverbatimborder=\dimen147
+\sphinxshadowsep=\dimen148
+\sphinxshadowsize=\dimen149
+\sphinxshadowrule=\dimen150
+\spx@notice@border=\dimen151
+\spx@image@maxheight=\dimen152
+\spx@image@box=\box65
+\c@sphinxscope=\count125
+\c@sphinxexplicit=\count126
+\sphinxcontinuationbox=\box66
+\sphinxvisiblespacebox=\box67
+\sphinxVerbatim@TitleBox=\box68
+\sphinxVerbatim@ContentsBox=\box69
+\spx@scratchbox=\box70
+\py@argswidth=\skip73
+\lineblockindentation=\skip74
+\DUlineblockindent=\skip75
 )
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
@@ -858,18 +910,18 @@ Package ifvtex Info: VTeX not detected.
 (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count117
-\Gm@cntv=\count118
-\c@Gm@tempcnt=\count119
-\Gm@bindingoffset=\dimen145
-\Gm@wd@mp=\dimen146
-\Gm@odd@mp=\dimen147
-\Gm@even@mp=\dimen148
-\Gm@layoutwidth=\dimen149
-\Gm@layoutheight=\dimen150
-\Gm@layouthoffset=\dimen151
-\Gm@layoutvoffset=\dimen152
-\Gm@dimlist=\toks28
+\Gm@cnth=\count127
+\Gm@cntv=\count128
+\c@Gm@tempcnt=\count129
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks29
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
@@ -915,16 +967,16 @@ Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen153
-\Hy@linkcounter=\count120
-\Hy@pagecounter=\count121
+\@linkdim=\dimen161
+\Hy@linkcounter=\count130
+\Hy@pagecounter=\count131
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count122
+\Hy@SavedSpaceFactor=\count132
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
@@ -945,17 +997,17 @@ Package hyperref Info: Plain pages OFF on input line 4524.
 Package hyperref Info: Backreferencing OFF on input line 4529.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count123
+\c@Hy@tempcnt=\count133
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5115.
-\XeTeXLinkMargin=\dimen154
-\Fld@menulength=\count124
-\Field@Width=\dimen155
-\Fld@charsize=\dimen156
+\XeTeXLinkMargin=\dimen162
+\Fld@menulength=\count134
+\Field@Width=\dimen163
+\Fld@charsize=\dimen164
 Package hyperref Info: Hyper figures OFF on input line 6369.
 Package hyperref Info: Link nesting OFF on input line 6374.
 Package hyperref Info: Hyper index ON on input line 6377.
@@ -965,23 +1017,23 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6394.
 Package hyperref Info: PDF/A mode OFF on input line 6399.
 LaTeX Info: Redefining \ref on input line 6439.
 LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count125
-\c@Item=\count126
-\c@Hfootnote=\count127
+\Hy@abspage=\count135
+\c@Item=\count136
+\c@Hfootnote=\count137
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
-\Fld@listcount=\count128
-\c@bookmark@seq@number=\count129
+\Fld@listcount=\count138
+\c@bookmark@seq@number=\count139
 
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip74
+\Hy@SectionHShift=\skip76
 )
 (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/hypcap.sty
 Package: hypcap 2016/05/16 v1.12 Adjusting the anchors of captions (HO)
@@ -1027,17 +1079,17 @@ File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count130
-\scratchdimen=\dimen157
-\scratchbox=\box43
-\nofMPsegments=\count131
-\nofMParguments=\count132
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count133
-\MPscratchDim=\dimen158
-\MPnumerator=\count134
-\makeMPintoPDFobject=\count135
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count140
+\scratchdimen=\dimen165
+\scratchbox=\box71
+\nofMPsegments=\count141
+\nofMParguments=\count142
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count143
+\MPscratchDim=\dimen166
+\MPnumerator=\count144
+\makeMPintoPDFobject=\count145
+\everyMPtoPDFconversion=\toks31
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1055,6 +1107,8 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+\c@literalblock=\count146
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1089,7 +1143,7 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box44
+\AtBeginShipoutBox=\box72
 Package hyperref Info: Link coloring ON on input line 83.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1097,7 +1151,7 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count136
+\c@section@level=\count147
 )
 LaTeX Info: Redefining \ref on input line 83.
 LaTeX Info: Redefining \pageref on input line 83.
@@ -1163,7 +1217,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 [2
 
 ]
-<de.akaflieg_freiburg.enroute.png, id=134, 513.92pt x 513.92pt>
+<de.akaflieg_freiburg.enroute.png, id=180, 513.92pt x 513.92pt>
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 93.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -1177,15 +1231,15 @@ Package pdftex.def Info: de.akaflieg_freiburg.enroute.png  used on input line 9
 
 ]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 122.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 127.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 122.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 127.
  [3] [4]
 Chapter 1.
 [5
 
 ]
-LaTeX Font Info:    Try loading font information for TS1+ptm on input line 178.
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 192.
 
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -1194,20 +1248,20 @@ Chapter 2.
 [7
 
 ] [8]
-<fig_GroundMode.png, id=179, 406.51875pt x 813.0375pt>
+<fig_GroundMode.png, id=224, 406.51875pt x 813.0375pt>
 File: fig_GroundMode.png Graphic file (type png)
 <use fig_GroundMode.png>
-Package pdftex.def Info: fig_GroundMode.png  used on input line 422.
+Package pdftex.def Info: fig_GroundMode.png  used on input line 496.
 (pdftex.def)             Requested size: 325.22783pt x 650.4557pt.
  [9] [10 <./fig_GroundMode.png>]
-<fig_FlightModeTu.png, id=195, 406.51875pt x 736.25063pt>
+<fig_FlightModeTu.png, id=240, 406.51875pt x 736.25063pt>
 File: fig_FlightModeTu.png Graphic file (type png)
 <use fig_FlightModeTu.png>
-Package pdftex.def Info: fig_FlightModeTu.png  used on input line 496.
+Package pdftex.def Info: fig_FlightModeTu.png  used on input line 587.
 (pdftex.def)             Requested size: 359.14566pt x 650.4752pt.
 File: fig_FlightModeTu.png Graphic file (type png)
 <use fig_FlightModeTu.png>
-Package pdftex.def Info: fig_FlightModeTu.png  used on input line 533.
+Package pdftex.def Info: fig_FlightModeTu.png  used on input line 634.
 (pdftex.def)             Requested size: 359.14566pt x 650.4752pt.
  [11] [12 <./fig_FlightModeTu.png>]
 [13] [14] [15] [16
@@ -1215,16 +1269,16 @@ Package pdftex.def Info: fig_FlightModeTu.png  used on input line 533.
 ]
 Chapter 3.
 [17] [18]
-<fig_waypoint.png, id=244, 188.26335pt x 320.8788pt>
+<fig_waypoint.png, id=289, 188.26335pt x 320.8788pt>
 File: fig_waypoint.png Graphic file (type png)
 <use fig_waypoint.png>
-Package pdftex.def Info: fig_waypoint.png  used on input line 868.
+Package pdftex.def Info: fig_waypoint.png  used on input line 1063.
 (pdftex.def)             Requested size: 188.26288pt x 320.878pt.
  [19 <./fig_waypoint.png>] [20]
-<fig_route.png, id=260, 193.6836pt x 356.2911pt>
+<fig_route.png, id=306, 193.6836pt x 356.2911pt>
 File: fig_route.png Graphic file (type png)
 <use fig_route.png>
-Package pdftex.def Info: fig_route.png  used on input line 1008.
+Package pdftex.def Info: fig_route.png  used on input line 1241.
 (pdftex.def)             Requested size: 193.6831pt x 356.29022pt.
  [21 <./fig_route.png>] [22] [23
 
@@ -1232,12 +1286,12 @@ Package pdftex.def Info: fig_route.png  used on input line 1008.
 [24]
 Chapter 4.
 
-Overfull \hbox (629.9847pt too wide) in paragraph at lines 1100--1100
+Overfull \hbox (629.9847pt too wide) in paragraph at lines 1356--1356
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1100--1100
+Underfull \hbox (badness 10000) in paragraph at lines 1356--1356
 
  []
 
@@ -1245,80 +1299,101 @@ Underfull \hbox (badness 10000) in paragraph at lines 1100--1100
 
 ] [26]
 Chapter 5.
-<fig_Weather.png, id=299, 406.51875pt x 738.50906pt>
-File: fig_Weather.png Graphic file (type png)
-<use fig_Weather.png>
-Package pdftex.def Info: fig_Weather.png  used on input line 1193.
-(pdftex.def)             Requested size: 358.04774pt x 650.4309pt.
-<fig_WeatherDetail.png, id=300, 389.95688pt x 720.44156pt>
-File: fig_WeatherDetail.png Graphic file (type png)
-<use fig_WeatherDetail.png>
-Package pdftex.def Info: fig_WeatherDetail.png  used on input line 1261.
-(pdftex.def)             Requested size: 352.07658pt x 650.42511pt.
+<fig_Restricted.png, id=344, 195.129pt x 172.7253pt>
+File: fig_Restricted.png Graphic file (type png)
+<use fig_Restricted.png>
+Package pdftex.def Info: fig_Restricted.png  used on input line 1493.
+(pdftex.def)             Requested size: 195.12851pt x 172.72487pt.
 [27
 
-] [28 <./fig_Weather.png>] [29 <./fig_WeatherDetail.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1351--1351
+ <./fig_Restricted.png>]
+<fig_AirspaceMUC.png, id=353, 195.129pt x 234.1548pt>
+File: fig_AirspaceMUC.png Graphic file (type png)
+<use fig_AirspaceMUC.png>
+Package pdftex.def Info: fig_AirspaceMUC.png  used on input line 1552.
+(pdftex.def)             Requested size: 195.12851pt x 234.15422pt.
+ [28 <./fig_AirspaceMUC.png>]
+<fig_nra.png, id=364, 406.51875pt x 532.23843pt>
+File: fig_nra.png Graphic file (type png)
+<use fig_nra.png>
+Package pdftex.def Info: fig_nra.png  used on input line 1678.
+(pdftex.def)             Requested size: 406.51775pt x 532.23712pt.
+ [29] [30 <./fig_nra.png>] [31] [32
+
+]
+Chapter 6.
+<fig_Weather.png, id=384, 406.51875pt x 738.50906pt>
+File: fig_Weather.png Graphic file (type png)
+<use fig_Weather.png>
+Package pdftex.def Info: fig_Weather.png  used on input line 1755.
+(pdftex.def)             Requested size: 358.04774pt x 650.4309pt.
+<fig_WeatherDetail.png, id=385, 389.95688pt x 720.44156pt>
+File: fig_WeatherDetail.png Graphic file (type png)
+<use fig_WeatherDetail.png>
+Package pdftex.def Info: fig_WeatherDetail.png  used on input line 1842.
+(pdftex.def)             Requested size: 352.07658pt x 650.42511pt.
+[33] [34 <./fig_Weather.png>] [35 <./fig_WeatherDetail.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1959--1959
 []\T1/ptm/m/n/10 and
  []
 
 
-Underfull \hbox (badness 8132) in paragraph at lines 1351--1351
+Underfull \hbox (badness 8132) in paragraph at lines 1959--1959
 []\T1/ptm/m/n/10 MVFR Marginal Vi-sual Flight
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1351--1351
+Underfull \hbox (badness 10000) in paragraph at lines 1959--1959
 []\T1/ptm/m/n/10 Yel-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1351--1351
+Underfull \hbox (badness 10000) in paragraph at lines 1959--1959
 []\T1/ptm/m/n/10 and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1351--1351
+Underfull \hbox (badness 10000) in paragraph at lines 1959--1959
 []\T1/ptm/m/n/10 and
  []
 
-[30] [31
+[36] [37
 
-] [32]
-Chapter 6.
+] [38]
+Chapter 7.
 (./enrouteflightnavigation.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1374.
- [33
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1985.
+ [39
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1374.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1985.
  (./enrouteflightnavigation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1374.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1374.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1985.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1985.
 
 Package rerunfilecheck Info: File `enrouteflightnavigation.out' has not changed
 .
-(rerunfilecheck)             Checksum: 2A40E98F8BB44C0BF1A85330F1E8ACB1;2877.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1374.
+(rerunfilecheck)             Checksum: 2F5C9E05064088FD1542C489EE9DAE43;4284.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1985.
  ) 
 Here is how much of TeX's memory you used:
- 13789 strings out of 494923
- 191287 string characters out of 6180742
- 275164 words of memory out of 5000000
- 16692 multiletter control sequences out of 15000+600000
+ 14036 strings out of 494923
+ 195567 string characters out of 6180742
+ 282389 words of memory out of 5000000
+ 16909 multiletter control sequences out of 15000+600000
  54371 words of font info for 68 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
- 37i,12n,48p,480b,448s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,12n,48p,457b,450s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/urw/helvetic/uhvbo8a.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
 utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on enrouteflightnavigation.pdf (37 pages, 1366726 bytes).
+Output written on enrouteflightnavigation.pdf (43 pages, 2157840 bytes).
 PDF statistics:
- 389 PDF objects out of 1000 (max. 8388607)
- 321 compressed objects within 4 object streams
- 98 named destinations out of 1000 (max. 500000)
- 224 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 479 PDF objects out of 1000 (max. 8388607)
+ 399 compressed objects within 4 object streams
+ 122 named destinations out of 1000 (max. 500000)
+ 311 words of extra memory for PDF output out of 10000 (max. 10000000)
 

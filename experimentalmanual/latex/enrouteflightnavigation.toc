@@ -17,6 +17,15 @@
 \contentsline {section}{\numberline {3.4}Flight Routes}{20}{section.3.4}
 \contentsline {part}{II\hspace {1em}Reference manual}{23}{part.2}
 \contentsline {chapter}{\numberline {4}Map Data}{25}{chapter.4}
-\contentsline {chapter}{\numberline {5}Weather}{27}{chapter.5}
-\contentsline {part}{III\hspace {1em}Appendix}{31}{part.3}
-\contentsline {chapter}{\numberline {6}Software licenses}{33}{chapter.6}
+\contentsline {chapter}{\numberline {5}Airspace Display}{27}{chapter.5}
+\contentsline {section}{\numberline {5.1}Controlled Airspace}{27}{section.5.1}
+\contentsline {section}{\numberline {5.2}Control Zone}{28}{section.5.2}
+\contentsline {section}{\numberline {5.3}Transponder Mandatory Zones}{29}{section.5.3}
+\contentsline {section}{\numberline {5.4}Radio Mandatory Zone}{29}{section.5.4}
+\contentsline {section}{\numberline {5.5}Parachute Jumping Areas}{29}{section.5.5}
+\contentsline {section}{\numberline {5.6}Nature Reserve Areas}{29}{section.5.6}
+\contentsline {section}{\numberline {5.7}Airfields}{31}{section.5.7}
+\contentsline {section}{\numberline {5.8}Approach and Departure Routes}{31}{section.5.8}
+\contentsline {chapter}{\numberline {6}Weather}{33}{chapter.6}
+\contentsline {part}{III\hspace {1em}Appendix}{37}{part.3}
+\contentsline {chapter}{\numberline {7}Software licenses}{39}{chapter.7}

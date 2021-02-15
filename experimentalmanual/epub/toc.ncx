@@ -132,11 +132,71 @@
     </navPoint>
     <navPoint id="navPoint21" playOrder="18">
       <navLabel>
+        <text>Airspace Display</text>
+      </navLabel>
+      <content src="02-reference/airspace_display.xhtml" />  
+      <navPoint id="navPoint22" playOrder="18">
+        <navLabel>
+          <text>Airspace Display</text>
+        </navLabel>
+        <content src="02-reference/airspace_display.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint23" playOrder="19">
+        <navLabel>
+          <text>Controlled Airspace</text>
+        </navLabel>
+        <content src="02-reference/airspace_display.xhtml#controlled-airspace" />  
+      </navPoint>
+      <navPoint id="navPoint24" playOrder="20">
+        <navLabel>
+          <text>Control Zone</text>
+        </navLabel>
+        <content src="02-reference/airspace_display.xhtml#control-zone" />  
+      </navPoint>
+      <navPoint id="navPoint25" playOrder="21">
+        <navLabel>
+          <text>Transponder Mandatory Zones</text>
+        </navLabel>
+        <content src="02-reference/airspace_display.xhtml#transponder-mandatory-zones" />  
+      </navPoint>
+      <navPoint id="navPoint26" playOrder="22">
+        <navLabel>
+          <text>Radio Mandatory Zone</text>
+        </navLabel>
+        <content src="02-reference/airspace_display.xhtml#radio-mandatory-zone" />  
+      </navPoint>
+      <navPoint id="navPoint27" playOrder="23">
+        <navLabel>
+          <text>Parachute Jumping Areas</text>
+        </navLabel>
+        <content src="02-reference/airspace_display.xhtml#parachute-jumping-areas" />  
+      </navPoint>
+      <navPoint id="navPoint28" playOrder="24">
+        <navLabel>
+          <text>Nature Reserve Areas</text>
+        </navLabel>
+        <content src="02-reference/airspace_display.xhtml#nature-reserve-areas" />  
+      </navPoint>
+      <navPoint id="navPoint29" playOrder="25">
+        <navLabel>
+          <text>Airfields</text>
+        </navLabel>
+        <content src="02-reference/airspace_display.xhtml#airfields" />  
+      </navPoint>
+      <navPoint id="navPoint30" playOrder="26">
+        <navLabel>
+          <text>Approach and Departure Routes</text>
+        </navLabel>
+        <content src="02-reference/airspace_display.xhtml#approach-and-departure-routes" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint31" playOrder="27">
+      <navLabel>
         <text>Weather</text>
       </navLabel>
       <content src="02-reference/weather.xhtml" />  
     </navPoint>
-    <navPoint id="navPoint22" playOrder="19">
+    <navPoint id="navPoint32" playOrder="28">
       <navLabel>
         <text>Software licenses</text>
       </navLabel>
