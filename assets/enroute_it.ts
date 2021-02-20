@@ -2320,7 +2320,109 @@ at random if more than one device tries to access.
 
 - Many traffic receivers offer &apos;configuration panels&apos; that can be accessed via a
   web browser. Close all web browsers.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Per visualizzare il traffico nelle vicinanze sulla mappa, **Enroute Flight
+Navigation** può connettersi al ricevitore del traffico del tuo aereo (in genere un
+dispositivo FLARM).
+
+**Enroute Flight Navigation** non supporta tutti i dispositivi possibili e tutti
+possibili opzioni di configurazione. L&apos;autore ha testato l&apos;app con quanto segue
+dispositivi:
+
+- Air Avionics AT-1 ‘AIR Traffic’ versione software 5.
+
+
+### Note tecniche
+
+**Enroute Flight Navigation** si aspetta che il ricevitore Info Traffico disponga di una WLAN
+rete tramite Wi-Fi e pubblica un flusso di frasi NMEA all&apos;indirizzo IP
+192.168.1.1, porta 2000 di quella rete. Le frasi NMEA devono essere conformi a
+specifica delineata nel documento FTD-012 &apos;Data Port Interface Control
+Document (ICD) &apos;, Versione 7.13, come pubblicato da FLARM Technology Ltd.
+
+
+## Checklist
+
+Prima della connessione sincerarsi che si verificano le seguenti condizioni.
+
+- Il ricevitore Info Traffico dispone di un&apos;interfaccia Wi-Fi integrata come
+  punto di accesso wireless. I dispositivi Bluetooth non sono attualmente supportati.
+
+- Conosci il nome della rete (= SSID) della rete WLAN distribuita dal ricevitore 
+  del traffico. Se la rete è crittografata, è necessario conoscere anche la password.
+
+- Alcuni dispositivi richiedono una password aggiuntiva per accedere al traffico
+  dati. Attualmente non è supportato. Configura il tuo dispositivo in modo che no
+  è richiesta una password aggiuntiva.
+
+**Enroute Flight Navigation** controlla l&apos;indirizzo IP 192.168.1.1, porta 2000 in
+intervalli regolari e ogni volta che la configurazione di rete del dispositivo
+cambia. Se viene trovato un flusso di dati, si connetterà automaticamente,
+analizzerà i dati e visualizzerà il traffico sulla sua mappa.
+
+
+## Collegarsi al ricevitore Info Traffico
+
+Sono necessari due passaggi per collegare ** Enroute Flight Navigation ** al traffico
+ricevitore per la prima volta. Non disperate. Una volta che le cose sono impostate correttamente,
+il dispositivo dovrebbe rilevare automaticamente la rete WLAN del ricevitore Info Traffico,
+entrare nella rete e connettersi al flusso di dati sul traffico ogni volta che si vola.
+
+### Step 1: Accedere alla rete WLAN del ricevitore Info Traffico
+
+- Assicurati che il traffico sia collegato all&apos;alimentazione e acceso. In un tipico
+  installazione dell&apos;aeromobile, il ricevitore del traffico è collegato al &apos;Avionics&apos;
+  interruttore e si accenderà automaticamente. Potrebbe essere necessario attendere
+  un minuto prima la WLAN entra in linea ed è visibile sul dispositivo.
+
+- Accedi alla rete WLAN distribuita dal ricevitore Info Traffico. Questo di solito viene fatto
+  nelle &quot;Impostazioni WLAN&quot; del dispositivo. Immettere la password WLAN, se
+  necessario. Alcuni dispositivi notificheranno un avviso WLAN non è connessa
+  la rete. In questo caso, potrebbe essere necessario confermare che si desidera connettersi
+  alla rete WLAN.
+
+La maggior parte dei sistemi operativi offre di memorizzare la connessione, 
+in modo che il dispositivo si connetterà automaticamente in futuro. Consigliamo
+questa opzione.
+
+
+### Step 2: Connettiti allo stream di dati sul traffico
+
+- Apri l&apos;app **Enroute Flight Navigation** nel tuo dispositivo.
+
+- Apri il menu principale e vai al menu &quot;Informazioni&quot;. Se la voce
+  &quot;Ricevitore Traffico&quot; è evidenziato in verde, quindi **Enroute Flight Navigation**
+  ha già trovato il ricevitore Info Traffico nella rete e si è connesso a
+  esso. Congratulazioni, hai finito!
+
+Se la voce &quot;Ricevitore Traffico&quot; non è evidenziata in verde, selezionare il
+iscrizione. Si aprirà la pagina &quot;Stato ricevitore traffico&quot;. La pagina spiega il
+lo stato della connessione in dettaglio e spiega come stabilire una connessione
+manualmente.
+
+
+## Risoluzione dei problemi
+
+
+### L&apos;app non riesce a connettersi allo stream
+
+- Verifica che il tuo dispositivo sia connesso alla rete WLAN distribuita dal tuo
+  ricevitore traffico.
+
+
+### La connessione si interrompe dopo pochi secondi
+
+La maggior parte dei ricevitori di traffico non può servire più di un client 
+ed interrompere le connessioni.
+
+- Assicurati che nessun secondo dispositivo sia connesso alla WLAN del ricevitore Info Traffico
+  Rete. L&apos;altro dispositivo potrebbe essere nella tasca del tuo amico!
+
+- Assicurati che non ci siano altre app che tentano di connettersi allo stream 
+  del traffico.
+
+- Molti ricevitori Info Traffico offrono un &quot;pannello di configurazione&quot; a cui è possibile 
+  accedere tramite un programma di navigazione. Chiudi tutti i browser web.</translation>
     </message>
     <message>
         <source>
@@ -2986,343 +3088,343 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="485"/>
         <source>No Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun errore</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="488"/>
         <source>Normal Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Operazione Normale</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="491"/>
         <source>Reduced Functionality</source>
-        <translation type="unfinished"></translation>
+        <translation>Funzionalità Ridotte</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="494"/>
         <source>Device INOP</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo INOP</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="498"/>
         <source>Error code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Codice errore: %1</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="501"/>
         <source>Firmware expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Firmware scaduto</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="504"/>
         <source>Firmware update error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore aggiornamento firmware</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="507"/>
         <source>Power (Voltage &lt; 8V)</source>
-        <translation type="unfinished"></translation>
+        <translation>Carica (Voltaggio &lt; 8V)</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="510"/>
         <source>UI error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore UI</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="513"/>
         <source>Audio error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore audio</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="516"/>
         <source>ADC error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore ADC</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="519"/>
         <source>SD card error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore SD card</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="522"/>
         <source>USB error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore USB</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="525"/>
         <source>LED error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore LED</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="528"/>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="537"/>
         <source>EEPROM error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore EEPROM</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="531"/>
         <source>General hardware error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore generale hardware</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="534"/>
         <source>Transponder receiver Mode-C/S/ADS-B unserviceable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricevitore transponder Mode-C / S / ADS-B inutilizzabile</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="540"/>
         <source>GPIO error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore GPIO</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="543"/>
         <source>GPS communication</source>
-        <translation type="unfinished"></translation>
+        <translation>Comunicazione GPS</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="546"/>
         <source>Configuration of GPS module</source>
-        <translation type="unfinished"></translation>
+        <translation>Configurazione modulo GPS</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="549"/>
         <source>GPS antenna</source>
-        <translation type="unfinished"></translation>
+        <translation>Antenna GPS</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="552"/>
         <source>RF communication</source>
-        <translation type="unfinished"></translation>
+        <translation>Comunicazione</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="555"/>
         <source>Another FLARM device with the same Radio ID is being received. Alarms are suppressed for the relevant device.</source>
-        <translation type="unfinished"></translation>
+        <translation>È in corso la ricezione di un altro dispositivo FLARM con lo stesso ID radio. Gli allarmi vengono soppressi per il relativo dispositivo.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="558"/>
         <source>Wrong ICAO 24-bit address or radio ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Errato indirizzo ICAO 24 bit o ID radio</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="561"/>
         <source>Communication</source>
-        <translation type="unfinished"></translation>
+        <translation>Comunicazione</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="564"/>
         <source>Flash memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Memoria flash</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="567"/>
         <source>Pressure sensor</source>
-        <translation type="unfinished"></translation>
+        <translation>Sensore pressione</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="570"/>
         <source>Obstacle database (e.g. incorrect file type)</source>
-        <translation type="unfinished"></translation>
+        <translation>Database degli ostacoli (ad es. Tipo di file errato)</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="573"/>
         <source>Obstacle database expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Database ostacoli scaduto.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="576"/>
         <source>Flight recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>Registratore di volo</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="579"/>
         <source>Engine-noise recording not possible</source>
-        <translation type="unfinished"></translation>
+        <translation>Rumore del motore impossibile registrare</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="582"/>
         <source>Range analyzer</source>
-        <translation type="unfinished"></translation>
+        <translation>Analizzatore di portata</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="585"/>
         <source>Configuration error, e.g. while reading flarmcfg.txt from SD/USB.</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore di configurazione, ad es. durante la lettura di flarmcfg.txt da SD / USB.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="588"/>
         <source>Invalid obstacle database license (e.g. wrong serial number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenza database ostacoli non valida (ad es. Numero di serie errato)</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="591"/>
         <source>Invalid IGC feature license</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenza della funzione IGC non valida</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="594"/>
         <source>Invalid AUD feature license</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenza della funzione AUD non valida</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="597"/>
         <source>Invalid ENL feature license</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenza della funzione ENL non valida</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="600"/>
         <source>Invalid RFB feature license</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenza della funzione RFB non valida</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="603"/>
         <source>Invalid TIS feature license</source>
-        <translation type="unfinished"></translation>
+        <translation>Licenza della funzione TIS non valida</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="606"/>
         <source>Generic error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore generico</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="609"/>
         <source>Flash File System error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore Flash File System</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="612"/>
         <source>Failure updating firmware of external display</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore durante l&apos;aggiornamento del firmware del display esterno</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="615"/>
         <source>Device is operated outside the designated region. The device does not work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il dispositivo viene utilizzato al di fuori della regione designata. Il dispositivo non funziona.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="715"/>
         <source>The connection was refused by the peer (or timed out).</source>
-        <translation type="unfinished"></translation>
+        <translation>La connessione è stata rifiutata dal peer (o è scaduta).</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="718"/>
         <source>The remote host closed the connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;host remoto ha chiuso la connessione.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="721"/>
         <source>The host address was not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;indirizzo host non è stato trovato.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="724"/>
         <source>The socket operation failed because the application lacked the required privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;operazione del socket non è riuscita perché l&apos;applicazione non disponeva dei privilegi richiesti.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="727"/>
         <source>The local system ran out of resources.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il sistema locale ha esaurito le risorse.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="730"/>
         <source>The socket operation timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation>Socket Timeout.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="733"/>
         <source>The datagram was larger than the operating system&apos;s limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il datagramma era più grande del limite del sistema operativo.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="736"/>
         <source>An error occurred with the network.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si è verificato un errore con la rete.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="739"/>
         <source>The address specified to QAbstractSocket::bind() is already in use and was set to be exclusive.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;indirizzo specificato in QAbstractSocket::bind () è già in uso ed è stato impostato come esclusivo.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="742"/>
         <source>The address specified to QAbstractSocket::bind() does not belong to the host.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;indirizzo specificato a QAbstractSocket::bind () non appartiene all&apos;host.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="745"/>
         <source>The requested socket operation is not supported by the local operating system.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;operazione socket richiesta non è supportata dal sistema operativo locale.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="748"/>
         <source>The socket is using a proxy, and the proxy requires authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il socket utilizza un proxy e il proxy richiede l&apos;autenticazione.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="751"/>
         <source>The SSL/TLS handshake failed, so the connection was closed.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;handshake SSL/TLS non è riuscita, quindi la connessione è stata chiusa.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="754"/>
         <source>The last operation attempted has not finished yet (still in progress in the background).</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;ultima operazione tentata non è ancora terminata (ancora in corso in background).</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="757"/>
         <source>Could not contact the proxy server because the connection to that server was denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile contattare il server proxy perché la connessione a quel server è stata negata.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="760"/>
         <source>The connection to the proxy server was closed unexpectedly (before the connection to the final peer was established).</source>
-        <translation type="unfinished"></translation>
+        <translation>La connessione al server proxy è stata chiusa in modo imprevisto (prima che fosse stabilita la connessione al peer finale).</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="763"/>
         <source>The connection to the proxy server timed out or the proxy server stopped responding in the authentication phase.</source>
-        <translation type="unfinished"></translation>
+        <translation>La connessione al server proxy è scaduta o il server proxy ha smesso di rispondere nella fase di autenticazione.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="766"/>
         <source>The proxy address set with setProxy() (or the application proxy) was not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;indirizzo proxy impostato con setProxy () (o il proxy dell&apos;applicazione) non è stato trovato.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="769"/>
         <source>The connection negotiation with the proxy server failed, because the response from the proxy server could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>La negoziazione della connessione con il server proxy non è riuscita perché non è stato possibile comprendere la risposta del server proxy.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="772"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
-        <translation type="unfinished"></translation>
+        <translation>È stata tentata un&apos;operazione mentre il socket si trovava in uno stato che non lo consentiva.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="775"/>
         <source>The SSL library being used reported an internal error. This is probably the result of a bad installation or misconfiguration of the library.</source>
-        <translation type="unfinished"></translation>
+        <translation>La libreria SSL utilizzata ha riportato un errore interno. Questo è probabilmente il risultato di una cattiva installazione o di un&apos;errata configurazione della libreria.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="778"/>
         <source>Invalid data (certificate, key, cypher, etc.) was provided and its use resulted in an error in the SSL library.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sono stati forniti dati non validi (certificato, chiave, codice, ecc.) E il loro utilizzo ha provocato un errore nella libreria SSL.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="781"/>
         <source>A temporary error occurred (e.g., operation would block and socket is non-blocking).</source>
-        <translation type="unfinished"></translation>
+        <translation>Si è verificato un errore temporaneo (ad esempio, l&apos;operazione si bloccherebbe e il socket non bloccherà).</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="784"/>
         <source>An unidentified error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si è verificato un errore non identificato.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="787"/>
         <source>%2 (Time of error: %1)</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 (Numero di errori: %1)</translation>
     </message>
 </context>
 <context>
@@ -3330,32 +3432,32 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
     <message>
         <location filename="../../../src/Navigation_SatNav.cpp" line="320"/>
         <source>Not installed or access denied</source>
-        <translation type="unfinished">Non installato o accesso negato</translation>
+        <translation>Non installato o accesso negato</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_SatNav.cpp" line="324"/>
         <source>Access denied</source>
-        <translation type="unfinished">Accesso negato</translation>
+        <translation>Accesso negato</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_SatNav.cpp" line="328"/>
         <source>Connection to satellite system lost</source>
-        <translation type="unfinished">La connessione con il satellite è stata persa</translation>
+        <translation>La connessione con il satellite è stata persa</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_SatNav.cpp" line="332"/>
         <source>Unknown error</source>
-        <translation type="unfinished">Errore sconosciuto</translation>
+        <translation>Errore sconosciuto</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_SatNav.cpp" line="336"/>
         <source>Waiting for signal</source>
-        <translation type="unfinished">In attesa del segnale</translation>
+        <translation>In attesa del segnale</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_SatNav.cpp" line="339"/>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3363,72 +3465,72 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="176"/>
         <source>Aircraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Aereo</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="179"/>
         <source>Airship</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirigibile</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="182"/>
         <source>Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>Pallone</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="185"/>
         <source>Copter</source>
-        <translation type="unfinished"></translation>
+        <translation>Elicottero</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="188"/>
         <source>Drone</source>
-        <translation type="unfinished"></translation>
+        <translation>Drone</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="191"/>
         <source>Glider</source>
-        <translation type="unfinished"></translation>
+        <translation>Aliante</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="194"/>
         <source>Hang glider</source>
-        <translation type="unfinished"></translation>
+        <translation>Deltaplano</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="197"/>
         <source>Jet</source>
-        <translation type="unfinished"></translation>
+        <translation>Jet</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="200"/>
         <source>Paraglider</source>
-        <translation type="unfinished"></translation>
+        <translation>Parapendio</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="203"/>
         <source>Skydiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Paracadutista</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="206"/>
         <source>Static Obstacle</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostacoli Statici</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="209"/>
         <source>Tow Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>Cavo di traino</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="212"/>
         <source>Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Traffico</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="216"/>
         <source>Position unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Posizione sconosciuta</translation>
     </message>
 </context>
 <context>
@@ -3764,57 +3866,57 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="33"/>
         <source>Traffic Receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricevitore traffico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="109"/>
         <source>&lt;h3&gt;Status&lt;/h3&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Stato&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="121"/>
         <source>Not connected to a traffic receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non connesso al ricevitore traffico.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="123"/>
         <source>Trying to connect to traffic receiver at IP address 192.168.1.1, port 2000 …</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentativo di connessione al ricevitore traffico all&apos;indirizzo IP 192.168.1.1, porta 2000 ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="125"/>
         <source>Connected to traffic receiver at IP address 192.168.1.1, port 2000. Waiting for data …</source>
-        <translation type="unfinished"></translation>
+        <translation>Collegato al ricevitore traffico all&apos;indirizzo IP 192.168.1.1, porta 2000. In attesa di dati ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="126"/>
         <source>Connected to traffic receiver at IP address 192.168.1.1, port 2000. Receiving traffic information …</source>
-        <translation type="unfinished"></translation>
+        <translation>Collegato al ricevitore traffico all&apos;indirizzo IP 192.168.1.1, porta 2000. Ricezzione informazioni traffico...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="151"/>
         <source>Last error</source>
-        <translation type="unfinished"></translation>
+        <translation>Ultimo errore</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="218"/>
         <source>Connect to Traffic Receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Connesso al Ricevitore Traffico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="220"/>
         <source>Abort Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Annulla Connessione</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="221"/>
         <source>Disconnect from Traffic Receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Disconnetti dal Ricevitore Traffico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="253"/>
         <source>Connect your traffic receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Connetti il Ricevitore Traffico</translation>
     </message>
 </context>
 <context>
@@ -4521,32 +4623,32 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1670"/>
         <source>freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>neve gelaa</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1673"/>
         <source>freezing snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>neve gelata nelle vicinanze</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1676"/>
         <source>light freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>leggera neve gelata</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1679"/>
         <source>moderate freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>moderata neve gelata</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1682"/>
         <source>heavy freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>forte neve gelata</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1685"/>
         <source>recent freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>recente neve gelata</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1695"/>
@@ -5699,7 +5801,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1773"/>
         <source>thunderstorm with small hail in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>temporale con piccola grandine nelle vicinanze</translation>
     </message>
     <message>
         <location filename="../../../src/Weather_Decoder.cpp" line="1776"/>
@@ -6995,38 +7097,38 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="153"/>
         <source>Satellite Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Satelliti Navigazione</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="155"/>
         <location filename="../../../src/qml/main.qml" line="178"/>
         <source>Status</source>
-        <translation type="unfinished">Stato</translation>
+        <translation>Stato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="178"/>
         <source>Traffic Receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricevitore Traffico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="180"/>
         <source>Not connected</source>
-        <translation type="unfinished"></translation>
+        <translation>Non connesso</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="182"/>
         <source>Trying to connect…</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentativo di connessione...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="184"/>
         <source>Connected, waiting for data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Connesso, in attesa di dati...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="186"/>
         <source>Receiving traffic information</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricezzione informazioni di traffico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="212"/>
@@ -7041,12 +7143,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="419"/>
         <source>Connected to traffic receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Connesso al ricevitore di traffico.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="422"/>
         <source>Lost connection to traffic receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Persa connessione al ricevitore del traffico.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="455"/>
