@@ -2392,7 +2392,7 @@ at random if more than one device tries to access.
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="742"/>
         <source>The address specified to QAbstractSocket::bind() does not belong to the host.</source>
-        <translation>L&apos;adresse donnée à QAbstractSocket::bind() n&apos;appartient pas à l&pos;hote.</translation>
+        <translation>L&apos;adresse donnée à QAbstractSocket::bind() n&apos;appartient pas à l&apos;hote.</translation>
     </message>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="745"/>
