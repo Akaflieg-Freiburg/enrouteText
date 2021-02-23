@@ -2351,7 +2351,79 @@ at random if more than one device tries to access.
 
 - Many traffic receivers offer &apos;configuration panels&apos; that can be accessed via a
   web browser. Close all web browsers.</source>
-        <translation type="unfinished"></translation>
+        <translation>
+Um den in der Nähe befindlichen Verkehr auf der Karte zeigen zu können, kann **Enroute Flight Navigation** sich mit dem Luftverkehrsempfänger Ihres Luftfahrzeugs verbinden (typischerweise ein FLARM-Gerät).
+
+**Enroute Flight Navigation** kann nicht alle denkbaren Geräte und Einstellungen unterstützen. Der Autor hat die App mit folgenden Geräten getestet:
+
+- Air Avionics AT-1 ‘AIR Traffic’ mit der Software-Version 5.
+
+
+Bisher meldeten unsere Anwender uns den erfolgreichen Einsatz folgender Geräte:
+
+- Stratux.
+
+- T-Beam.
+
+
+### Technischer Hinweis
+
+**Enroute Flight Navigation** erwartet, dass der Verkehrsdatenempfänger ein WLAN-Netz über Wi-Fi bereitstellt, und liefert einen Strom von NMEA-Datensätzen auf der IP-Adresse
+192.168.1.1, Port 2000 dieses Netzes. Die NMEA-Daten müssen der Spezifikation aus dem Dokument FTD-012 &apos;Data Port Interface Control Document (ICD)&apos;, Version 7.13, entsprechen, wie von der FLARM Technology Ltd. herausgegeben.
+
+## Checkliste
+
+Vor einem Verbindungsversuch sollten Sie die folgenden Voraussetzungen schaffen:
+
+- Ihr Verkehrsdatenempfänger unterstützt Wi-Fi und kann als WLAN-Access-Point fungieren. Bluetooth wird bisher nicht unterstützt.
+
+- Sie kennen den WLAN-Netzwerknamen (die SSID) Ihres Verkehrsdatenempfängers und bei einem verschlüsselten Neztzwerk auch das WLAN-Passwort.
+
+- Manche Geräte verlangen ein weiteres Passwort zum Zugriff auf die Verkehrsdaten, was bisher nicht unterstützt wird. Stellen Sie daher Ihr Gerät so ein, dass kein solches Passwort benötigt wird.
+
+**Enroute Flight Navigation** fragt regelmäßig die IP-Adresse 192.168.1.1, Port 2000, ab, außerdem immer bei Änderung der Netzwerkkonfiguration Ihres Geräts. Wird ein Datenstrom gefunden, verbindet es sich automatisch mit dem Strom, wertet die Daten aus und zeigt den Verkehr auf der Karte an.
+
+
+## Mit dem Verkehrsdatenempfänger verbinden
+
+Für die erstmalige Verbindung von **Enroute Flight Navigation** mit dem Verkehrsdatenempfänger sind zwei Schritte erforderlich. Doch keine Sorge: Sauber eingerichtet, sollte Ihr Gerät das WLAN des Verkehrsdatenempfängers dann automatisch erkennen, sich dort anmelden und den Strom der Verkehrsdaten auswerten, sobald Sie fliegen.
+
+### Schritt 1: Anschluss an das WLAN des Verkehrsdatenempfängers
+
+- Der Empfänger muss mit Strom versorgt und eingeschaltet sein. In einem Luftfahrzeug wird man ihn typischerweise am &apos;Avionics&apos;-Schalter anschließen und damit automatisch einschalten. 
+Es kann eine Minute dauern, bis das WLAN aktiv und auf Ihrem Gerät sichtbar ist.
+
+- Verbinden Sie sich mit diesem WLAN; das geschieht normalerweise in den WLAN-Einstellungen Ihres Geräts. Geben Sie bei Bedarf das WLAN-Passwort ein. Manche Geräte weisen dann darauf hin, es gebe keine Verbindung zum Internet. In diesem Fall müssen Sie evtl. bestätigen, dass Sie sich trotzdem mit diesem WLAN verbinden wollen.
+
+Die meisten Betriebssysteme bieten an, diese Verbindung zu speichern, so dass Ihr Gerät sich zukünftig automatisch mit diesem WLAN verbinden kann. Wir empfehlen, diese Option zu nutzen.
+
+
+### Schritt 2: Mit dem Verkehrsdatenstrom verbinden
+
+- Starten Sie die App **Enroute Flight Navigation** auf Ihrem Gerät.
+
+- Navigieren Sie im Hauptmenü zum Menü &quot;Information&quot;. Wenn der Eintrag &quot;Verkehrsdatenempfänger&quot; grün hervorgehoben ist, hat **Enroute Flight Navigation** den Verkehrsdatenempfänger bereits gefunden und sich damit verbunden. Herzlichen Glückwunsch, das war&apos;s schon!
+
+Sollte der Eintrag &quot;Verkehrsdatenempfänger&quot; aber nicht grün hervorgehoben sein, dann wählen Sie diesen Eintrag aus. Die Seite &quot;Verkehrsdatenempfänger-Status&quot; wird sich öffnen. Die Seite erklärt den Verbindungsstatus im Detail und beschreibt, wie die Verbindung manuell hergestellt werden kann.
+
+
+## Fehlerbehebung
+
+
+### Die App kann sich nicht mit dem Verkehrsdatenstrom verbinden
+
+- Stellen Sie sicher, dass Ihr Gerät mit dem WLAN des Verkehrsdatenempfängers verbunden ist.
+
+
+### Die Verbindung bricht nach wenigen Sekunden zusammen
+
+Die meisten Verkehrsdatenempfänger können nur genau ein Auswertegerät beliefern und kappen Verbindungen ohne erkennbares Muster beim Zugriff von mehr als einem Gerät.
+
+- Stellen Sie sicher, dass sich kein zweites Gerät mit dem WLAN des Verkehrsdatenempfängers verbinden will. Das andere Gerät könnte z.B. in der Tasche Ihres Flugkameraden auf dem anderen Sitz stecken!
+
+- Stellen Sie sicher, dass keine andere App versucht, sich mit dem Datenstrom des Verkehrsdatenempfängers zu verbinden.
+
+- Viele Verkehrsdatenempfänger bieten &apos;configuration panels&apos; über einen Webbrowser an. Schließen Sie alle Webbrowser.</translation>
     </message>
     <message>
         <source>
