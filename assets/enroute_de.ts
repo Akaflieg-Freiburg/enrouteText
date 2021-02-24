@@ -2229,7 +2229,21 @@ Users reported success with the following devices.
 - T-Beam.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+Um den in der Nähe befindlichen Verkehr auf der Karte zeigen zu können, kann **Enroute Flight Navigation** sich mit dem Luftverkehrsempfänger Ihres Luftfahrzeugs verbinden (typischerweise ein FLARM-Gerät).
+
+**Enroute Flight Navigation** kann nicht alle denkbaren Geräte und Einstellungen unterstützen. Der Autor hat die App mit folgenden Geräten getestet:
+
+- Air Avionics AT-1 ‘AIR Traffic’ mit der Software-Version 5.
+
+
+Bisher meldeten unsere Anwender uns den erfolgreichen Einsatz folgender Geräte:
+
+- Stratux.
+
+- T-Beam.
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="231"/>
@@ -2243,7 +2257,13 @@ specification outlined in in the document FTD-012 &apos;Data Port Interface Cont
 Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+### Technischer Hinweis
+
+**Enroute Flight Navigation** erwartet, dass der Verkehrsdatenempfänger ein WLAN-Netz über Wi-Fi bereitstellt, und liefert einen Strom von NMEA-Datensätzen auf der IP-Adresse
+192.168.1.1, Port 2000 dieses Netzes. Die NMEA-Daten müssen der Spezifikation aus dem Dokument FTD-012 &apos;Data Port Interface Control Document (ICD)&apos;, Version 7.13, entsprechen, wie von der FLARM Technology Ltd. herausgegeben.
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="240"/>
@@ -2254,7 +2274,10 @@ changes. If a data stream is found, it will automatically connect to the stream,
 parse the data and display the traffic on its moving map.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+**Enroute Flight Navigation** fragt regelmäßig die IP-Adresse 192.168.1.1, Port 2000, ab, außerdem immer bei Änderung der Netzwerkkonfiguration Ihres Geräts. Wird ein Datenstrom gefunden, verbindet es sich automatisch mit dem Strom, wertet die Daten aus und zeigt den Verkehr auf der Karte an.
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="246"/>
@@ -2275,7 +2298,18 @@ Before you try to connect, make sure that the following conditions are met.
   additional password is required.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+## Checkliste
+
+Vor einem Verbindungsversuch sollten Sie die folgenden Voraussetzungen schaffen:
+
+- Ihr Verkehrsdatenempfänger unterstützt Wi-Fi und kann als WLAN-Access-Point fungieren. Bluetooth wird bisher nicht unterstützt.
+
+- Sie kennen den WLAN-Netzwerknamen (die SSID) Ihres Verkehrsdatenempfängers und bei einem verschlüsselten Neztzwerk auch das WLAN-Passwort.
+
+- Manche Geräte verlangen ein weiteres Passwort zum Zugriff auf die Verkehrsdaten, was bisher nicht unterstützt wird. Stellen Sie daher Ihr Gerät so ein, dass kein solches Passwort benötigt wird.
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="262"/>
@@ -2288,7 +2322,12 @@ your device should automatically detect the traffic receiver&apos;s WLAN network
 enter the network and connect to the traffic data stream whenever you go flying.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+## Mit dem Verkehrsdatenempfänger verbinden
+
+Für die erstmalige Verbindung von **Enroute Flight Navigation** mit dem Verkehrsdatenempfänger sind zwei Schritte erforderlich. Doch keine Sorge: Sauber eingerichtet, sollte Ihr Gerät das WLAN des Verkehrsdatenempfängers dann automatisch erkennen, sich dort anmelden und den Strom der Verkehrsdaten auswerten, sobald Sie fliegen.
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="270"/>
@@ -2311,7 +2350,17 @@ device will automatically connect to this WLAN in the future. We recommend to
 use this option.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+### Schritt 1: Anschluss an das WLAN des Verkehrsdatenempfängers
+
+- Der Empfänger muss mit Strom versorgt und eingeschaltet sein. In einem Luftfahrzeug wird man ihn typischerweise am &apos;Avionics&apos;-Schalter anschließen und damit automatisch einschalten. 
+Es kann eine Minute dauern, bis das WLAN aktiv und auf Ihrem Gerät sichtbar ist.
+
+- Verbinden Sie sich mit diesem WLAN; das geschieht normalerweise in den WLAN-Einstellungen Ihres Geräts. Geben Sie bei Bedarf das WLAN-Passwort ein. Manche Geräte weisen dann darauf hin, es gebe keine Verbindung zum Internet. In diesem Fall müssen Sie evtl. bestätigen, dass Sie sich trotzdem mit diesem WLAN verbinden wollen.
+
+Die meisten Betriebssysteme bieten an, diese Verbindung zu speichern, so dass Ihr Gerät sich zukünftig automatisch mit diesem WLAN verbinden kann. Wir empfehlen, diese Option zu nutzen.
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
@@ -2331,7 +2380,16 @@ connection status in detail, and explains how to establish a connection
 manually.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+### Schritt 2: Mit dem Verkehrsdatenstrom verbinden
+
+- Starten Sie die App **Enroute Flight Navigation** auf Ihrem Gerät.
+
+- Navigieren Sie im Hauptmenü zum Menü &quot;Information&quot;. Wenn der Eintrag &quot;Verkehrsdatenempfänger&quot; grün hervorgehoben ist, hat **Enroute Flight Navigation** den Verkehrsdatenempfänger bereits gefunden und sich damit verbunden. Herzlichen Glückwunsch, das war&apos;s schon!
+
+Sollte der Eintrag &quot;Verkehrsdatenempfänger&quot; aber nicht grün hervorgehoben sein, dann wählen Sie diesen Eintrag aus. Die Seite &quot;Verkehrsdatenempfänger-Status&quot; wird sich öffnen. Die Seite erklärt den Verbindungsstatus im Detail und beschreibt, wie die Verbindung manuell hergestellt werden kann.
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="303"/>
@@ -2357,7 +2415,24 @@ at random if more than one device tries to access.
 - Many traffic receivers offer &apos;configuration panels&apos; that can be accessed via a
   web browser. Close all web browsers.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+## Fehlerbehebung
+
+
+### Die App kann sich nicht mit dem Verkehrsdatenstrom verbinden
+
+- Stellen Sie sicher, dass Ihr Gerät mit dem WLAN des Verkehrsdatenempfängers verbunden ist.
+
+
+### Die Verbindung bricht nach wenigen Sekunden zusammen
+
+Die meisten Verkehrsdatenempfänger können nur genau ein Auswertegerät beliefern und kappen Verbindungen ohne erkennbares Muster beim Zugriff von mehr als einem Gerät.
+
+- Stellen Sie sicher, dass sich kein zweites Gerät mit dem WLAN des Verkehrsdatenempfängers verbinden will. Das andere Gerät könnte z.B. in der Tasche Ihres Flugkameraden auf dem anderen Sitz stecken!
+
+- Stellen Sie sicher, dass keine andere App versucht, sich mit dem Datenstrom des Verkehrsdatenempfängers zu verbinden.
+
+- Viele Verkehrsdatenempfänger bieten &apos;configuration panels&apos; über einen Webbrowser an. Schließen Sie alle Webbrowser.</translation>
     </message>
     <message>
         <source>&lt;h3&gt;License&lt;/h3&gt;
@@ -3230,7 +3305,19 @@ you fly in Austria.&lt;/p&gt;</source>
 &lt;p&gt;The style specification of the basemap is a modified version of the &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, which is in turn originally derived from OSM Bright from Mapbox Open Styles. The code is licenses under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. The design is derived (although heavily altered) from OSM Bright from Mapbox Open Styles which is licensed under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. The map is displaying and styling modified data from &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; with &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
 
                   &lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Lizenz&lt;/h3&gt;
+
+&lt;p&gt;Dieses Programm ist lizenziert unter der &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; oder, nach Ihrer Wahl, irgendeiner späteren Version dieser Lizenz.&lt;/p&gt;
+
+&lt;h4&gt;Software und Daten von dritter Seite in diesem Programm&lt;/h4&gt;
+
+&lt;p&gt;Dieses Programm verwendet diverse Bibliotheken des &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt;-Projekts, lizenziert unter der &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;. Dieses Programm verwendet die Bibliothek &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, die unter der &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;MIT License&lt;/a&gt; lizenziert ist. Dieses Programm verwendet die Bibliothek &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, lizenziert unter der &lt;a href=&quot;https://www.openssl.org/source/license.html&gt;&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dieses Programm verwendet verschiedenen Versionen der &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;Google Roboto Fonts&lt;/a&gt;, die unter der &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; lizenziert sind. Dieses Programm verwendet diverse &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;Google Material Design Icons&lt;/a&gt;, die unter der &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; lizenziert sind.&lt;/p&gt;
+
+&lt;p&gt;Die Stilspezifikation der Basiskarte ist eine modifizierte Version des &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, das wiederum ursprünglich von OSM Bright aus den Mapbox Open Styles abgeleitet wurde. Der Code ist lizenziert unter der &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. Das Design ist abgeleitet (wenn auch stark verändert) von OSM Bright aus den Mapbox Open Styles, lizenziert unter der &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. Die Karte stellt interpretierte und modifizierte Daten aus &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; dar mit der &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
+
+&lt;p&gt;Die Karte stellt interpretierte Daten aus &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; dar, lizenziert unter einer &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA-Lizenz&lt;/a&gt;. Die Karte stellt außerdem interpretierte Daten aus &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt; dar, lizenziert unter der &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="202"/>
