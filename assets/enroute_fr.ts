@@ -1686,7 +1686,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="327"/>
+        <location filename="../../../src/Librarian.cpp" line="328"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -1728,7 +1728,32 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="341"/>
+        <location filename="../../../src/Librarian.cpp" line="231"/>
+        <source>
+### Technical Note
+
+**Enroute Flight Navigation** expects that the traffic receiver deploys a WLAN
+network via Wi-Fi and publishes a stream of NMEA sentences at the IP address
+192.168.1.1, port 2000 of that network. The NMEA sentences must conform to the
+specification outlined in in the document FTD-012 &apos;Data Port Interface Control
+Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="240"/>
+        <source>
+**Enroute Flight Navigation** checks the IP address 192.168.1.1, port 2000 at
+regular intervals and whenever the network configuration of your device
+changes. If a data stream is found, it will automatically connect to the stream,
+parse the data and display the traffic on its moving map.
+
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="342"/>
         <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
       
 &lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
@@ -1825,26 +1850,7 @@ Users reported success with the following devices.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="231"/>
-        <source>
-### Technical Note
-
-**Enroute Flight Navigation** expects that the traffic receiver deploys a WLAN
-network via Wi-Fi and publishes a stream of NMEA sentences at the IP address
-192.168.1.1, port 2000 of that network. The NMEA sentences must conform to the
-specification outlined in in the document FTD-012 &apos;Data Port Interface Control
-Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.
-
-**Enroute Flight Navigation** checks the IP address 192.168.1.1, port 2000 at
-regular intervals and whenever the network configuration of your device
-changes. If a data stream is found, it will automatically connect to the stream,
-parse the data and display the traffic on its moving map.
-
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="245"/>
+        <location filename="../../../src/Librarian.cpp" line="246"/>
         <source>
 ## Checklist
 
@@ -1865,7 +1871,7 @@ Before you try to connect, make sure that the following conditions are met.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="261"/>
+        <location filename="../../../src/Librarian.cpp" line="262"/>
         <source>
 ## Connect to the traffic receiver
 
@@ -1878,7 +1884,7 @@ enter the network and connect to the traffic data stream whenever you go flying.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="269"/>
+        <location filename="../../../src/Librarian.cpp" line="270"/>
         <source>
 ### Step 1: Enter the traffic receiver&apos;s WLAN network
 
@@ -1901,7 +1907,7 @@ use this option.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="287"/>
+        <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>
 ### Step 2: Connect to the traffic data stream
 
@@ -1921,7 +1927,7 @@ manually.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="302"/>
+        <location filename="../../../src/Librarian.cpp" line="303"/>
         <source>
 ## Troubleshooting
 

@@ -1886,7 +1886,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Jeśli płynnie programujesz w C++ i chciałbyś &lt;strong&gt;pomóc z programowaniem&lt;/strong&gt;, to &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;daj nam znać&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="327"/>
+        <location filename="../../../src/Librarian.cpp" line="328"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -2296,7 +2296,7 @@ losowo, jeśli więcej niż jedno urządzenie próbuje uzyskać dostęp.
   przeglądarki internetowej. Zamknij wszystkie przeglądarki internetowe.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="341"/>
+        <location filename="../../../src/Librarian.cpp" line="342"/>
         <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
       
 &lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
@@ -2627,6 +2627,12 @@ network via Wi-Fi and publishes a stream of NMEA sentences at the IP address
 specification outlined in in the document FTD-012 &apos;Data Port Interface Control
 Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.
 
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="240"/>
+        <source>
 **Enroute Flight Navigation** checks the IP address 192.168.1.1, port 2000 at
 regular intervals and whenever the network configuration of your device
 changes. If a data stream is found, it will automatically connect to the stream,
@@ -2636,7 +2642,7 @@ parse the data and display the traffic on its moving map.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="245"/>
+        <location filename="../../../src/Librarian.cpp" line="246"/>
         <source>
 ## Checklist
 
@@ -2657,7 +2663,7 @@ Before you try to connect, make sure that the following conditions are met.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="261"/>
+        <location filename="../../../src/Librarian.cpp" line="262"/>
         <source>
 ## Connect to the traffic receiver
 
@@ -2670,7 +2676,7 @@ enter the network and connect to the traffic data stream whenever you go flying.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="269"/>
+        <location filename="../../../src/Librarian.cpp" line="270"/>
         <source>
 ### Step 1: Enter the traffic receiver&apos;s WLAN network
 
@@ -2693,7 +2699,7 @@ use this option.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="287"/>
+        <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>
 ### Step 2: Connect to the traffic data stream
 
@@ -2713,7 +2719,7 @@ manually.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="302"/>
+        <location filename="../../../src/Librarian.cpp" line="303"/>
         <source>
 ## Troubleshooting
 
