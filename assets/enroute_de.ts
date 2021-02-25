@@ -4493,27 +4493,27 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="124"/>
         <source>Connected to traffic receiver at IP address 192.168.1.1, port 2000.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit dem Verkehrsdatenempfänger verbunden: IP-Adresse 192.168.1.1, Port 2000.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="126"/>
         <source>Waiting for data …</source>
-        <translation type="unfinished"></translation>
+        <translation>Warte auf Daten ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="130"/>
         <source>Receiving FLARM heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfange FLARM &apos;Heartbeat&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="132"/>
         <source>Receiving barometric altitude.</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfange barometrische Höhe.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="134"/>
         <source>Receiving satnav position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfange GPS-Position.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="162"/>
@@ -7853,7 +7853,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="186"/>
         <source>Receiving FLARM heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfange FLARM-&apos;Heartbeat&apos;.</translation>
     </message>
     <message>
         <source>Receiving traffic information</source>
