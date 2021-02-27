@@ -24,7 +24,7 @@ Before you try to connect this app to your traffic receiver, make sure that the
 following conditions are met.
 
 - Your traffic receiver has an integrated Wi-Fi interface that acts as a
-  wireless access point. Bluetooth devices are currently not supported.</li>
+  wireless access point. Bluetooth devices are currently not supported.
 - You know the network name (=SSID) of the WLAN network deployed by your traffic
   receiver. If the network is encrypted, you also need to know the WLAN
   password.

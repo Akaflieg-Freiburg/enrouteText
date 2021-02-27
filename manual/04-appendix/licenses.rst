@@ -19,7 +19,7 @@ Third-Party software included in this program
 - This program includes the library `qhttpengine
   <https://github.com/nitroshare/qhttpengine>`_, which is licensed under the
   `MIT license
-  <https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt">`_.
+  <https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt>`_.
 - This program includes the library `OpenSSL <https://openssl.org>`_, licensed
   under the `Apache License 2.0 <https://www.openssl.org/source/license.html>`_.
 
