@@ -1,7 +1,8 @@
 Further Steps
 =============
 
-When using Enroute Flight Navigation on a frequent basis you may want to get into some more detail on the features and configure the app.
+When using **Enroute Flight Navigation** on a frequent basis you may want to get
+into some more detail on the features and configure the app.
 
 Menu
 ----
@@ -17,7 +18,7 @@ When touching the Menu area in the left upper corner of the screen the menu will
 * Information
     * Satellite Status  --- will open a sub-window showing the status of GPS reception
     * Manual --- will show this manual
-    * About Enroute Flight Navigation
+    * About **Enroute Flight Navigation**
     * Participate
     * Donate
 * Bug Report --- will open a link to provide feedback
@@ -27,9 +28,10 @@ Only some reference to Menu items is given in this section. More details may be 
 
 
 Settings
--------------
-The settings Menu will allow to customize Enroute Flight Navigation and give access to program status.
-The settings Menu gives the following options:
+--------
+
+The settings Menu will allow to customize **Enroute Flight Navigation** and give
+access to program status.  The settings Menu gives the following options:
 
 * **Hide Airspace above FL 100** --- allows to select display of airspace above FL100 displayed.
 * **Automatic flight detection** --- allows to select the display of flight mode on the ground
@@ -110,8 +112,12 @@ For Arbitrary Points the following information will be displayed:
 
 Flight Routes
 -------------
-Enroute Flight Navigation provides direct planning of one flight Route. A Route will remain present until it is cleared.
-Route planning is entered via the Menu point Route. The Menu is entered via the Menu Symbol in the upper left corner of the map area. Then the Route Symbol has to be touched to go to the Route area.
+
+**Enroute Flight Navigation** provides direct planning of one flight Route. A
+Route will remain present until it is cleared.  Route planning is entered via
+the Menu point Route. The Menu is entered via the Menu Symbol in the upper left
+corner of the map area. Then the Route Symbol has to be touched to go to the
+Route area.
 
 A Route may be planned in the following ways:
 
@@ -132,7 +138,9 @@ The Route Display will show the following information:
 
 .. note::
 
-          A Route may also be imported from a GPX file from another PC. After sending the GPX file as Email attachment Enroute Flight Navigation will offer to open the GPX file.
+          A Route may also be imported from a GPX file from another PC. After
+          sending the GPX file as Email attachment **Enroute Flight Navigation**
+          will offer to open the GPX file.
 
 The Route Point Menu provides the option to:
 
@@ -153,7 +161,9 @@ The following options are available from the Route Menu:
 * Clear Route
 * Reverse Route
 
-The previously created and stored routes will be kept in a data base within Enroute Flight Navigation. Routes consist of the data for the selected way points. The Route data may be exported for use in other applications.
+The previously created and stored routes will be kept in a data base within
+**Enroute Flight Navigation**. Routes consist of the data for the selected way
+points. The Route data may be exported for use in other applications.
 
 The Route display has 3 Sub windows:
     * Route
@@ -176,14 +186,20 @@ The Route display has 3 Sub windows:
 
 **Route – Aircraft and Wind**
 
-The Aircraft and Wind sub-pages of the Route page allows to enter aircraft performance and wind data required for navigational calculations.
-The Aircraft Data will be used to determine the distance of the flight and the true course.
-The Wind data will will be used to calculate the true heading and duration of the flight. The duration of the flight will determine the fuel used.
-Enroute Flight Navigation only offers a very superficial flight planning and cannot replace a full flight planning, but is only intended to provide quick reference.
+The Aircraft and Wind sub-pages of the Route page allows to enter aircraft
+performance and wind data required for navigational calculations.  The Aircraft
+Data will be used to determine the distance of the flight and the true course.
+The Wind data will will be used to calculate the true heading and duration of
+the flight. The duration of the flight will determine the fuel used.  **Enroute
+Flight Navigation** only offers a very superficial flight planning and cannot
+replace a full flight planning, but is only intended to provide quick reference.
 
 .. warning::
 
-         Always perform a full flight preparation in accordance with the flight manual of the aircraft used. The use of Enroute Flight Navigation as primary flight planning may cause accidents leading to loss of lives. 
+         Always perform a full flight preparation in accordance with the flight
+         manual of the aircraft used. The use of **Enroute Flight Navigation**
+         as primary flight planning may cause accidents leading to loss of
+         lives.
 
 The Wind sub-page of the Route page offers the following input fields:
     * Direction in degrees
@@ -197,10 +213,3 @@ The Aircraft sub-page of the Route page offers the following input fields:
     * Cruise Speed: Average Speed for Route
     * Descent Speed: Allows to enter a different speed for the descent phase (Currently not used)
     * Fuel Consumption: Average Fuel consumption per hour
-
-
-
-
-
-
-

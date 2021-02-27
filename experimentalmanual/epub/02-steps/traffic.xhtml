@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Connecting your traffic receiver</title>
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/epub.css" type="text/css" /> 
+  </head><body>
+
+    <div class="document">
+      <div class="documentwrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="connecting-your-traffic-receiver">
+<h1>Connecting your traffic receiver</h1>
+<p>In order to display nearby traffic on the moving map, <strong>Enroute Flight
+Navigation</strong> can connect to your aircraft’s traffic receiver (typically a FLARM
+device).</p>
+<p>The app author has tested the <strong>Enroute Flight Navigation</strong> with the following
+traffic receivers.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="http://www.air-avionics.com/?page_id=253">AT-1 AIR Traffic</a><span class="link-target"> [http://www.air-avionics.com/?page_id=253]</span> by <a class="reference external" href="http://www.air-avionics.com/">Air
+Avionics</a><span class="link-target"> [http://www.air-avionics.com/]</span> with software version 5.</p></li>
+</ul>
+<p>Users reported success with the following traffic receivers.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="http://stratux.me/">Stratux devices</a><span class="link-target"> [http://stratux.me/]</span></p></li>
+<li><p><a class="reference external" href="https://www.amazon.de/TTGO-T-Beam-915Mhz-Wireless-Bluetooth/dp/B07SFVQ3Z8">TTGO T-Beam devices</a><span class="link-target"> [https://www.amazon.de/TTGO-T-Beam-915Mhz-Wireless-Bluetooth/dp/B07SFVQ3Z8]</span></p></li>
+</ul>
+<div class="section" id="before-you-connect">
+<h2>Before you connect</h2>
+<p>Before you try to connect this app to your traffic receiver, make sure that the
+following conditions are met.</p>
+<ul class="simple">
+<li><p>Your traffic receiver has an integrated Wi-Fi interface that acts as a
+wireless access point. Bluetooth devices are currently not supported.</p></li>
+<li><p>You know the network name (=SSID) of the WLAN network deployed by your traffic
+receiver. If the network is encrypted, you also need to know the WLAN
+password.</p></li>
+<li><p>If you use a Stratux or T-Beam device, set the device IP address to
+192.168.1.1.  Most FLARM devices use this address default and  no
+configuration is required.</p></li>
+<li><p>Some devices require an additional password in order to access traffic
+data. This is currently <strong>not</strong> supported. Set up your device so that no
+additional password is required.</p></li>
+</ul>
+</div>
+<div class="section" id="connecting-to-the-traffic-receiver">
+<h2>Connecting to the traffic receiver</h2>
+<p>It takes a two steps to connect <strong>Enroute Flight Navigation</strong> to the traffic
+receiver for the first time. Once things are set up properly, your device should
+automatically detect the traffic receiver’s WLAN network, enter the network and
+connect to the traffic data stream whenever you go flying.</p>
+<p>Step 1: Enter the traffic receiver’s WLAN network</p>
+<ul class="simple">
+<li><p>Make sure that the traffic receiver has power and is switched on. In a typical
+aircraft installation, the traffic receiver is connected to the ‘Avionics’
+switch and will automatically switch on. You may need to wait a minute before
+the WLAN comes online and is visible to your device.</p></li>
+<li><p>Enter the WLAN network deployed by your traffic receiver. This is usually done
+in the “WLAN Settings” of your device. Enter the WLAN password if
+required. Some devices will issue a warning that the WLAN is not connected to
+the internet. In this case, you might need to confirm that you wish to enter
+the WLAN network.</p></li>
+</ul>
+<p>Most operating systems will offer to remember the connection, so that your
+device will automatically connect to this WLAN in the future. We recommend to
+use this option.</p>
+<p>Step 2: Connect to the traffic data stream</p>
+<p>Open the main menu and navigate to the “Information” menu.</p>
+<ul class="simple">
+<li><p>If the entry “Traffic Receiver” is highlighted in green, then <strong>Enroute Flight
+Navigation</strong> has already found the traffic receiver in the network and has
+connected to it. Congratulations, you are done!</p></li>
+<li><p>If the entry “Traffic Receiver” is not highlighted in green, then select the
+entry. The “Traffic Receiver Status” page will open. The page explains the
+connection status in detail, and explains how to establish a connection
+manually.</p></li>
+</ul>
+</div>
+<div class="section" id="troubleshooting">
+<h2>Troubleshooting</h2>
+<p><strong>The app cannot connect to the traffic data stream.</strong></p>
+<ul class="simple">
+<li><p>Check that your device is connected to the WLAN network deployed by your
+traffic receiver.</p></li>
+</ul>
+<p><strong>The connection breaks down after a few seconds.</strong></p>
+<p>Most traffic receivers cannot serve more than one client and abort connections
+at random if more than one device tries to access.</p>
+<ul class="simple">
+<li><p>Make sure that there no second device connected to the traffic receiver’s WLAN
+network. The other device might well be in your friend’s pocket!</p></li>
+<li><p>Make sure that there is no other app trying to connected to the traffic
+receiver’s data stream.</p></li>
+<li><p>Many traffic receivers offer “configuration panels” that can be accessed via a
+web browser. Close all web browsers.</p></li>
+</ul>
+</div>
+</div>
+
+
+            <div class="clearer"></div>
+          </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+  </body>
+</html>

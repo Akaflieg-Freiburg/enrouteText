@@ -48,8 +48,18 @@ and frequencies.
    01-intro/getting_started
    01-intro/further_steps
 
+.. raw:: latex
+  \part{Further Steps}
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Further Steps
+   :name: sec-reference
+
+   02-steps/traffic
    
 .. raw:: latex
+  \part{Further Steps}
 
    \part{Reference manual}
    
@@ -58,9 +68,9 @@ and frequencies.
    :caption: Reference manual
    :name: sec-reference
     
-   02-reference/map_data
-   02-reference/airspace_display
-   02-reference/weather
+   03-reference/map_data
+   03-reference/airspace_display
+   03-reference/weather
 
    
 .. raw:: latex
@@ -72,4 +82,5 @@ and frequencies.
    :caption: Appendix
    :name: sec-appendix
 
-   03-appendix/licenses
+   04-appendix/licenses
+   04-appendix/technical

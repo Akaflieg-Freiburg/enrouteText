@@ -1,0 +1,4 @@
+04-appendix/licenses.rst:30: [redirected permanently] https://github.com/google/roboto to https://github.com/googlefonts/roboto
+04-appendix/licenses.rst:30: [redirected permanently] https://github.com/google/roboto/blob/master/LICENSE to https://github.com/googlefonts/roboto/blob/master/LICENSE
+04-appendix/licenses.rst:23: [redirected permanently] https://openssl.org to https://www.openssl.org/
+04-appendix/licenses.rst:16: [redirected permanently] https://qt.io to https://www.qt.io/
