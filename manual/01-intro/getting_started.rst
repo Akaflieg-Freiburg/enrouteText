@@ -1,18 +1,26 @@
 Getting started
 ===============
 
-Installing the App
-------------------
+App Installation: Android
+-------------------------
 
-**Enroute Flight Navigation** is available as an Android App in the Google Play
-Store.  To install the App **Enroute Flight Navigation** you may use the
-following steps:
+**Enroute Flight Navigation** is available as an Android App in the `Google Play
+Store
+<https://play.google.com/store/apps/details?id=de.akaflieg_freiburg.enroute>`_.
 
-* Open Google Play Store
-* Select "Apps"
-* Search for **Enroute Flight Navigation**
-* Touch the Symbol
-* Select Install
+An unofficial version of the app is also available at `F-Droid
+<https://f-droid.org/de/packages/de.akaflieg_freiburg.enroute/>`_.  While the
+author of **Enroute Flight Navigation** endorses publication at F-Droid, he has
+not tested this unofficial app for quality.
+
+
+App Installation: Linux Desktop
+-------------------------------
+
+Enroute Flight Navigation is available for free download at `flathub.org
+<https://flathub.org/apps/details/de.akaflieg_freiburg.enroute>`_ and
+`snapcraft.io <https://snapcraft.io/enroute-flight-navigation>`_, but you might
+also find the app in the software management application on your computer.
 
 
 Installing maps
@@ -26,12 +34,14 @@ of flight.  For installing Maps the following steps have to be followed:
 * touch the item 'Maps' in the *Libraries* section
 * Select the desired Maps by clicking the download Symbol
 
-The Map display is composed of two layers selected in the respective Tabs of the 'Map Library' screen:
+The Map display is composed of two layers selected in the respective Tabs of the
+'Map Library' screen:
+
 * Aeronautical Map
 * Base Map
 
-.. caution::
-    Make sure Aeronautical and Base Map are installed for desired area of flight to avoid flight into areas without map display.
+.. caution:: Make sure Aeronautical and Base Map are installed for desired area
+    of flight to avoid flight into areas without map display.
 
 **Aeronautical Maps**
 
