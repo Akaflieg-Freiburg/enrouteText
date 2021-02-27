@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.2.27)  27 FEB 2021 12:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.2.27)  27 FEB 2021 20:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1215,7 +1215,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
 
 
 [2]
-<de.akaflieg_freiburg.enroute.png, id=235, 513.92pt x 513.92pt>
+<de.akaflieg_freiburg.enroute.png, id=240, 513.92pt x 513.92pt>
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 93.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -1248,13 +1248,13 @@ Chapter 2.
 [7
 
 ] [8]
-<fig_GroundMode.png, id=279, 406.51875pt x 813.0375pt>
+<fig_GroundMode.png, id=288, 406.51875pt x 813.0375pt>
 File: fig_GroundMode.png Graphic file (type png)
 <use fig_GroundMode.png>
 Package pdftex.def Info: fig_GroundMode.png  used on input line 517.
 (pdftex.def)             Requested size: 325.22783pt x 650.4557pt.
  [9] [10 <./fig_GroundMode.png>]
-<fig_FlightModeTu.png, id=295, 406.51875pt x 736.25063pt>
+<fig_FlightModeTu.png, id=304, 406.51875pt x 736.25063pt>
 File: fig_FlightModeTu.png Graphic file (type png)
 <use fig_FlightModeTu.png>
 Package pdftex.def Info: fig_FlightModeTu.png  used on input line 610.
@@ -1269,13 +1269,13 @@ Package pdftex.def Info: fig_FlightModeTu.png  used on input line 663.
 ]
 Chapter 3.
 [17] [18]
-<fig_waypoint.png, id=345, 188.26335pt x 320.8788pt>
+<fig_waypoint.png, id=354, 188.26335pt x 320.8788pt>
 File: fig_waypoint.png Graphic file (type png)
 <use fig_waypoint.png>
 Package pdftex.def Info: fig_waypoint.png  used on input line 1104.
 (pdftex.def)             Requested size: 188.26288pt x 320.878pt.
  [19 <./fig_waypoint.png>] [20]
-<fig_route.png, id=361, 193.6836pt x 356.2911pt>
+<fig_route.png, id=370, 193.6836pt x 356.2911pt>
 File: fig_route.png Graphic file (type png)
 <use fig_route.png>
 Package pdftex.def Info: fig_route.png  used on input line 1289.
@@ -1302,7 +1302,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1566--1566
 
 ] [28]
 Chapter 6.
-<fig_Restricted.png, id=412, 195.129pt x 172.7253pt>
+<fig_Restricted.png, id=421, 195.129pt x 172.7253pt>
 File: fig_Restricted.png Graphic file (type png)
 <use fig_Restricted.png>
 Package pdftex.def Info: fig_Restricted.png  used on input line 1703.
@@ -1310,13 +1310,13 @@ Package pdftex.def Info: fig_Restricted.png  used on input line 1703.
 [29
 
  <./fig_Restricted.png>]
-<fig_AirspaceMUC.png, id=420, 195.129pt x 234.1548pt>
+<fig_AirspaceMUC.png, id=430, 195.129pt x 234.1548pt>
 File: fig_AirspaceMUC.png Graphic file (type png)
 <use fig_AirspaceMUC.png>
 Package pdftex.def Info: fig_AirspaceMUC.png  used on input line 1762.
 (pdftex.def)             Requested size: 195.12851pt x 234.15422pt.
  [30 <./fig_AirspaceMUC.png>]
-<fig_nra.png, id=432, 406.51875pt x 532.23843pt>
+<fig_nra.png, id=441, 406.51875pt x 532.23843pt>
 File: fig_nra.png Graphic file (type png)
 <use fig_nra.png>
 Package pdftex.def Info: fig_nra.png  used on input line 1888.
@@ -1325,12 +1325,12 @@ Package pdftex.def Info: fig_nra.png  used on input line 1888.
 
 ]
 Chapter 7.
-<fig_Weather.png, id=453, 406.51875pt x 738.50906pt>
+<fig_Weather.png, id=462, 406.51875pt x 738.50906pt>
 File: fig_Weather.png Graphic file (type png)
 <use fig_Weather.png>
 Package pdftex.def Info: fig_Weather.png  used on input line 1965.
 (pdftex.def)             Requested size: 358.04774pt x 650.4309pt.
-<fig_WeatherDetail.png, id=454, 389.95688pt x 720.44156pt>
+<fig_WeatherDetail.png, id=463, 389.95688pt x 720.44156pt>
 File: fig_WeatherDetail.png Graphic file (type png)
 <use fig_WeatherDetail.png>
 Package pdftex.def Info: fig_WeatherDetail.png  used on input line 2052.
@@ -1380,14 +1380,14 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2282.
 
 Package rerunfilecheck Info: File `enrouteflightnavigation.out' has not changed
 .
-(rerunfilecheck)             Checksum: F0037A174AFF58A525D09DF1CB107040;6267.
+(rerunfilecheck)             Checksum: 4D43A44BBAB5925F73C8AC0C83952C5D;6521.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2282.
  ) 
 Here is how much of TeX's memory you used:
- 14076 strings out of 494923
- 196420 string characters out of 6180742
- 283048 words of memory out of 5000000
- 16934 multiletter control sequences out of 15000+600000
+ 14079 strings out of 494923
+ 196507 string characters out of 6180742
+ 284113 words of memory out of 5000000
+ 16936 multiletter control sequences out of 15000+600000
  54371 words of font info for 68 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
  37i,12n,48p,457b,539s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1397,10 +1397,10 @@ e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
 utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on enrouteflightnavigation.pdf (47 pages, 2168505 bytes).
+Output written on enrouteflightnavigation.pdf (47 pages, 2169504 bytes).
 PDF statistics:
- 581 PDF objects out of 1000 (max. 8388607)
- 496 compressed objects within 5 object streams
- 137 named destinations out of 1000 (max. 500000)
- 399 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 591 PDF objects out of 1000 (max. 8388607)
+ 505 compressed objects within 6 object streams
+ 138 named destinations out of 1000 (max. 500000)
+ 407 words of extra memory for PDF output out of 10000 (max. 10000000)
 
