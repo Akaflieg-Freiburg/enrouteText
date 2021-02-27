@@ -4360,67 +4360,67 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <name>SatNavStatusDialog</name>
     <message>
         <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="31"/>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="55"/>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="54"/>
         <source>Satellite Status</source>
         <translation>Satellitenstatus</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="63"/>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="62"/>
         <source>Last Fix</source>
         <translation>Letzte Position</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="66"/>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="65"/>
         <source>Mode</source>
         <translation>Modus</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="67"/>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="66"/>
         <source>Flight</source>
         <translation>Flug</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="67"/>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="66"/>
         <source>Ground</source>
         <translation>Boden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="75"/>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="74"/>
         <source>Horizontal</source>
         <translation>Horizontal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="80"/>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="79"/>
         <source>Latitude</source>
         <translation>Breite</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="83"/>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="82"/>
         <source>Longitude</source>
         <translation>Länge</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="86"/>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="85"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="89"/>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="88"/>
         <source>GS</source>
         <translation>GS</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="106"/>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="105"/>
         <source>ALT</source>
         <translation>ALT</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="92"/>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="91"/>
         <source>TT</source>
         <translation>TT</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="101"/>
+        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="100"/>
         <source>Vertical</source>
         <translation>Vertikal</translation>
     </message>
@@ -4552,17 +4552,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Verkehrsdatenempfänger</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="109"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="110"/>
         <source>&lt;h3&gt;Status&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Status&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="121"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="122"/>
         <source>Not connected to a traffic receiver.</source>
         <translation>Nicht mit dem Verkehrsdatenempfänger verbunden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="123"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="124"/>
         <source>Trying to connect to traffic receiver at IP address 192.168.1.1, port 2000 …</source>
         <translation>Versuche Verbindung mit Verkehrsdatenempfänger auf IP-Adresse 192.168.1.1, Port 2000 …</translation>
     </message>
@@ -4575,52 +4575,52 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Mit Verkehrsdatenempfänger auf IP-Adresse 192.168.1.1, Port 2000 verbunden. Empfange Verkehrsinformationen ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="124"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="125"/>
         <source>Connected to traffic receiver at IP address 192.168.1.1, port 2000.</source>
         <translation>Mit dem Verkehrsdatenempfänger verbunden: IP-Adresse 192.168.1.1, Port 2000.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="126"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="127"/>
         <source>Waiting for data …</source>
         <translation>Warte auf Daten ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="130"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="131"/>
         <source>Receiving FLARM heartbeat.</source>
         <translation>Empfange FLARM &apos;Heartbeat&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="132"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="133"/>
         <source>Receiving barometric altitude.</source>
         <translation>Empfange barometrische Höhe.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="134"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="135"/>
         <source>Receiving satnav position.</source>
         <translation>Empfange GPS-Position.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="162"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="163"/>
         <source>Last error</source>
         <translation>Letzter Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="229"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="231"/>
         <source>Connect to Traffic Receiver</source>
         <translation>Mit Verkehrsdatenempfänger verbinden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="231"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="233"/>
         <source>Abort Connection</source>
         <translation>Verbindung abbrechen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="232"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="234"/>
         <source>Disconnect from Traffic Receiver</source>
         <translation>Verbindung zum Verkehrsdatenempfänger schließen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="264"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="266"/>
         <source>Connect your traffic receiver</source>
         <translation>Verbinden Sie Ihren Verkehrsdatenempfänger</translation>
     </message>
