@@ -4607,7 +4607,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="231"/>
         <source>Connect to Traffic Receiver</source>
-        <translation>Mit Verkehrsdatenempfänger verbinden</translation>
+        <translation>Verkehrsdatenempfänger verbinden</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="233"/>
@@ -4617,7 +4617,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="234"/>
         <source>Disconnect from Traffic Receiver</source>
-        <translation>Verbindung zum Verkehrsdatenempfänger schließen</translation>
+        <translation>Verkehrsdatenempfänger trennen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="266"/>
