@@ -2230,7 +2230,23 @@ following traffic receivers.&lt;/p&gt;
   &lt;li&gt;T-Beam&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Um den in der Nähe befindlichen Verkehr auf der Karte zeigen zu können, kann &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; sich mit dem Luftverkehrsempfänger Ihres Luftfahrzeugs verbinden (typischerweise ein FLARM-Gerät).&lt;/p&gt;
+
+&lt;p&gt;Der Autor hat &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; mit folgenden Geräten getestet:&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Air Avionics AT-1 ‘AIR Traffic’ mit der Software-Version 5.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bisher meldeten unsere Anwender uns den erfolgreichen Einsatz folgender Geräte:&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Stratux&lt;/li&gt;
+  &lt;li&gt;T-Beam&lt;/li&gt;
+&lt;/ul&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="232"/>
@@ -2244,7 +2260,13 @@ specification outlined in in the document FTD-012 &apos;Data Port Interface Cont
 Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Technischer Hinweis&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; erwartet, dass der Verkehrsdatenempfänger ein WLAN-Netz über Wi-Fi bereitstellt, und liefert einen Strom von NMEA-Datensätzen auf der IP-Adresse
+192.168.1.1, Port 2000 dieses Netzes. Die NMEA-Daten müssen der Spezifikation aus dem Dokument FTD-012 &apos;Data Port Interface Control Document (ICD)&apos;, Version 7.13, entsprechen, wie von der FLARM Technology Ltd. herausgegeben.&lt;/p&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="241"/>
@@ -2267,7 +2289,20 @@ that the following conditions are met.&lt;/p&gt;
   additional password is required.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Voraussetzungen&lt;/h2&gt;
+
+&lt;p&gt;Vor einem Verbindungsversuch sollten Sie die folgenden Voraussetzungen schaffen:&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Ihr Verkehrsdatenempfänger unterstützt Wi-Fi und kann als WLAN-Access-Point fungieren. Bluetooth wird bisher nicht unterstützt.&lt;/li&gt;
+
+&lt;li&gt;Sie kennen den WLAN-Netzwerknamen (die SSID) Ihres Verkehrsdatenempfängers und bei einem verschlüsselten Neztzwerk auch das WLAN-Passwort.&lt;/li&gt;
+
+&lt;li&gt;Manche Geräte verlangen ein weiteres Passwort zum Zugriff auf die Verkehrsdaten, was bisher nicht unterstützt wird. Stellen Sie daher Ihr Gerät so ein, dass kein solches Passwort benötigt wird.&lt;/li&gt;
+&lt;/ul&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="259"/>
@@ -2281,7 +2316,12 @@ receiver&apos;s WLAN network, enter the network and connect to the traffic data
 stream whenever you go flying.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Mit dem Verkehrsdatenempfänger verbinden&lt;/h2&gt;
+
+&lt;p&gt;Für die erstmalige Verbindung von &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; mit dem Verkehrsdatenempfänger sind zwei Schritte erforderlich. Einmal sauber eingerichtet, sollte Ihr Gerät das WLAN des Verkehrsdatenempfängers dann automatisch erkennen, sich dort anmelden und den Strom der Verkehrsdaten auswerten, sobald Sie fliegen.&lt;/p&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="268"/>
@@ -2306,7 +2346,19 @@ device will automatically connect to this WLAN in the future. We recommend to
 use this option.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Schritt 1: Anschluss an das WLAN des Verkehrsdatenempfängers&lt;/h3&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Der Empfänger muss mit Strom versorgt und eingeschaltet sein. In einem Luftfahrzeug wird man ihn typischerweise am &apos;Avionics&apos;-Schalter anschließen und damit automatisch einschalten. 
+Es kann eine Minute dauern, bis das WLAN aktiv und auf Ihrem Gerät sichtbar ist.&lt;/li&gt;
+
+&lt;li&gt;Verbinden Sie sich mit diesem WLAN; das geschieht normalerweise in den WLAN-Einstellungen Ihres Geräts. Geben Sie bei Bedarf das WLAN-Passwort ein. Manche Geräte weisen dann darauf hin, es gebe keine Verbindung zum Internet. In diesem Fall müssen Sie evtl. bestätigen, dass Sie sich trotzdem mit diesem WLAN verbinden wollen.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Die meisten Betriebssysteme bieten an, diese Verbindung zu speichern, so dass Ihr Gerät sich zukünftig automatisch mit diesem WLAN verbinden kann. Wir empfehlen, diese Option zu nutzen.&lt;/p&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
@@ -2326,7 +2378,18 @@ use this option.&lt;/p&gt;
   manually.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Schritt 2: Mit dem Verkehrsdatenstrom verbinden&lt;/h3&gt;
+
+&lt;p&gt;Starten Sie die App **Enroute Flight Navigation** auf Ihrem Gerät und navigieren Sie im Hauptmenü zum Menü &quot;Information&quot;&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Wenn der Eintrag &quot;Verkehrsdatenempfänger&quot; grün hervorgehoben ist, hat &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; den Verkehrsdatenempfänger bereits gefunden und sich damit verbunden. Herzlichen Glückwunsch, das war&apos;s schon!&lt;/li&gt;
+
+&lt;li&gt;Sollte der Eintrag &quot;Verkehrsdatenempfänger&quot; aber nicht grün hervorgehoben sein, dann wählen Sie diesen Eintrag aus. Die Seite &quot;Verkehrsdatenempfänger-Status&quot; wird sich öffnen. Die Seite erklärt den Verbindungsstatus im Detail und beschreibt, wie die Verbindung manuell hergestellt werden kann.&lt;/li&gt;
+&lt;/ul&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="303"/>
@@ -2356,7 +2419,28 @@ at random if more than one device tries to access.&lt;/p&gt;
   web browser. Close all web browsers.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Fehlerbehebung&lt;/h2&gt;
+
+
+&lt;h4&gt;Die App kann sich nicht mit dem Verkehrsdatenstrom verbinden&lt;/h4&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Stellen Sie sicher, dass Ihr Gerät mit dem WLAN des Verkehrsdatenempfängers verbunden ist.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Die Verbindung bricht nach wenigen Sekunden zusammen&lt;/h4&gt;
+
+&lt;p&gt;Die meisten Verkehrsdatenempfänger können nur genau ein Auswertegerät beliefern und kappen Verbindungen ohne erkennbares Muster beim Zugriff von mehr als einem Gerät.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Stellen Sie sicher, dass sich kein zweites Gerät mit dem WLAN des Verkehrsdatenempfängers verbinden will. Das andere Gerät könnte z.B. in der Tasche Ihres Flugkameraden auf dem anderen Sitz stecken!&lt;/li&gt;
+
+&lt;li&gt;Stellen Sie sicher, dass keine andere App versucht, sich mit dem Datenstrom des Verkehrsdatenempfängers zu verbinden.&lt;/li&gt;
+
+&lt;li&gt;Viele Verkehrsdatenempfänger bieten &apos;configuration panels&apos; über einen Webbrowser an. Schließen Sie alle Webbrowser.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <source>
