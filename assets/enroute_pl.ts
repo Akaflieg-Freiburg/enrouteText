@@ -2571,7 +2571,19 @@ oraz **importu planu lotu**.
 &lt;p&gt;The style specification of the basemap is a modified version of the &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, which is in turn originally derived from OSM Bright from Mapbox Open Styles. The code is licenses under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. The design is derived (although heavily altered) from OSM Bright from Mapbox Open Styles which is licensed under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. The map is displaying and styling modified data from &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; with &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
 
                   &lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Licencja&lt;/h3&gt;
+
+&lt;p&gt;Ten program jest objęty licencją na podstawie &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;Powszechnej Licencji Publicznej GNU V3&lt;/a&gt; lub, według własnego uznania, każdej późniejszej wersji tej licencji.&lt;/p&gt;
+
+&lt;h4&gt;Oprogramowanie i dane innych firm zawarte w tym programie&lt;/h4&gt;
+
+&lt;p&gt;Ten program zawiera kilka bibliotek z projektu &lt;a href=&quot;https://qt.io&quot;&gt; Qt &lt;/a&gt;, na licencji &lt;a href=&quot;https://www.qt.io/download -open-source&quot;&gt;Powszechna Licencja Publiczna GNU V3&lt;/a&gt;. Ten program zawiera bibliotekę &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, która jest licencjonowana na podstawie &lt;a href=&quot;https://github.com/nitroshare/qhttpengine /blob/master/LICENSE.txt&quot;&gt;licencja MIT&lt;/a&gt;. Ten program zawiera bibliotekę &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, na licencji &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Licencja Apache 2.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ten program zawiera wersje &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;czcionek Google Roboto&lt;/a&gt;, które są licencjonowane na podstawie &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Licencja Apache 2.0&lt;/a&gt;. Ten program zawiera kilka &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;ikon Google Material Design&lt;/a&gt;, które są licencjonowane na podstawie &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt; Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Specyfikacja stylu mapy bazowej to zmodyfikowana wersja &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;projektu liberty OSM &lt;/a&gt;, która z kolei pochodzi z OSM Bright z Mapbox Open Styles. Kod jest licencjonowany na podstawie &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;licencji BSD&lt;/a&gt;. Projekt pochodzi (choć znacznie zmieniony) z OSM Bright z Mapbox Open Styles, który jest licencjonowany na podstawie &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot; &gt;Licencji Creative Commons Attribution 3.0&lt;/a&gt;. Mapa wyświetla i stylizuje zmodyfikowane dane z &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; z &lt;a href = &quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;Licencja projektu CC-BY 4.0&lt;/a&gt;.
+
+                  &lt;p&gt;Mapa wyświetla i stylizuje dane z &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, które jest objęte licencją &lt;a href = &quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;Licencja CC BY-NC-SA&lt;/a&gt;. Mapa wyświetla również i stylizuje dane z &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;openflightmaps&lt;/a&gt;, które są licencjonowane na podstawie &lt;a href = &quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt; Licencja dla użytkowników ogólnych OFMA &lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="202"/>
@@ -2615,7 +2627,25 @@ following traffic receivers.&lt;/p&gt;
   &lt;li&gt;T-Beam&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Aby wyświetlić ruch lotniczy w pobliżu na ruchomej mapie, &lt;strong&gt;Enroute Flight
+Navigation&lt;strong&gt; może łączyć się z odbiornikiem komunikatów lotniczych samolotu (zazwyczaj jest to 
+urządzenie FLARM).&lt;/p&gt;
+
+&lt;p&gt;Autor przetestował &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; z
+następującymi odbiornikami ruchu lotniczego.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Air Avionics AT-1 ‘AIR Traffic’ z wersją oprogramowania 5.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Użytkownicy zaraportowali sukces z następującymi odbiornikami.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Stratux&lt;/li&gt;
+  &lt;li&gt;T-Beam&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="232"/>
@@ -2629,7 +2659,16 @@ specification outlined in in the document FTD-012 &apos;Data Port Interface Cont
 Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Informacja techniczne&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; oczekuje, że odbiornik komunikatów lotniczych uruchomi sieć WLAN
+oraz przez Wi-Fi będzie publikował strumień komunikatów NMEA pod adresem IP
+192.168.1.1, port 2000. Komunikaty NMEA muszą być zgodne z
+specyfikacją przedstawioną w dokumencie FTD-012 „Data Port Interface Control
+Document (ICD)”, wersja 7.13, opublikowana przez FLARM Technology Ltd.&lt;/p&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="241"/>
@@ -2652,7 +2691,23 @@ that the following conditions are met.&lt;/p&gt;
   additional password is required.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Przed połączeniem&lt;/h2&gt;
+
+&lt;p&gt;Zanim spróbujesz się połączyć, upewnij się, że spełnione są następujące warunki.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Twój odbiornik komunikatów lotniczych ma zintegrowany interfejs Wi-Fi, który działa jako
+  bezprzewodowy punkt dostępu. Urządzenia Bluetooth nie są obecnie obsługiwane.&lt;/li&gt;
+
+  &lt;li&gt;Znasz nazwę sieci (= SSID) sieci WLAN uruchamianej przez Twoje urządzenie.
+  Jeśli sieć jest szyfrowana, musisz również znać hasło do sieci WLAN.&lt;/li&gt;
+
+  &lt;li&gt;Niektóre urządzenia wymagają dodatkowego hasła w celu uzyskania dostępu do 
+  danych. Obecnie nie jest to obsługiwane. Skonfiguruj urządzenie tak, aby nie było
+  wymagane dodatkowe hasło.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="259"/>
@@ -2666,7 +2721,15 @@ receiver&apos;s WLAN network, enter the network and connect to the traffic data
 stream whenever you go flying.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Połączenie z odbiornikiem komunikatów lotniczych&lt;/h2&gt;
+
+&lt;p&gt;Aby połączyć &lt;strong&gt;Enroute Flight Navigation&lt;strong&gt; z ruchem lotniczym, wystarczy wykonać dwa kroki. 
+Po prawidłowym skonfigurowaniu Twoje urządzenie powinno automatycznie wykryć 
+sieć WLAN odbiornika komunikatów lotniczych,
+dołączać się do jego sieci i łączyć ze strumieniem danych o ruchu lotniczym za każdym razem, gdy lecisz.&lt;/p&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="268"/>
@@ -2691,7 +2754,27 @@ device will automatically connect to this WLAN in the future. We recommend to
 use this option.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Krok 1: Wprowadź sieć WLAN odbiornika komunikatów lotniczych&lt;/h3&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Upewnij się, że odbiornik jest podłączony do zasilania i włączony. W typowej
+  instalacji samolotu, odbiornik komunikatów lotniczych jest podłączony do `` Awioniki &apos;&apos;
+  i włączy się automatycznie. Być może trzeba będzie poczekać minutę nim
+  sieć WLAN przejdzie w tryb online i będzie widoczna dla Twojego urządzenia.&lt;/li&gt;
+
+  &lt;li&gt;Podłącz się do sieci WLAN uruchomionej przez odbiornik komunikatów lotniczych. Zwykle się to robi
+  w „Ustawieniach sieci WLAN” urządzenia. Wprowadź hasło WLAN, jeśli jest
+  wymagane. Niektóre urządzenia wyświetlają ostrzeżenie, że sieć WLAN nie jest połączona
+  do interneut. W takim przypadku może być konieczne potwierdzenie chęci dołączenia do tej
+  sieci WLAN.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Większość systemów operacyjnych oferuje zapamiętanie połączenia, więc twoje
+urządzenie będzie w przyszłości automatycznie łączyć się z tą siecią WLAN. Zalecamy
+użycie tej opcji.&lt;/p&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
@@ -2711,7 +2794,22 @@ use this option.&lt;/p&gt;
   manually.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Krok 2: Połącz się ze strumieniem danych o ruchu lotniczym&lt;/h3&gt;
+
+&lt;p&gt;Otwórz główne menu i przejść do menu &apos;Informacja&apos;&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Jeśli wpis
+  „Odbiornik informacji lotniczych” jest podświetlony na zielono, to &lt;strong&gt;Enroute 
+  Flight Navigation&lt;strong&gt; znalazł już odbiornik komunikatów lotniczych w sieci
+  i nawiązał do niego połączenie. Gratulacje, wszystko gotowe!&lt;/li&gt;
+
+  &lt;li&gt;Jeśli pozycja „Odbiornik informacji lotniczych” nie jest podświetlona na zielono, wybierz
+ten wpis. Otworzy się strona „Status odbiornika informacji lotniczych”. Strona wyjaśnia
+stan połączenia i wyjaśnia, jak nawiązać połączenie ręcznie.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="303"/>
@@ -2741,7 +2839,32 @@ at random if more than one device tries to access.&lt;/p&gt;
   web browser. Close all web browsers.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Rozwiązywanie problemów&lt;/h2&gt;
+
+&lt;h4&gt;Aplikacja nie może połączyć się ze strumieniem danych o ruchu lotniczym&lt;/h4&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Sprawdź, czy urządzenie jest podłączone do sieci WLAN uruchomionej przez
+  odbiornik informacji lotniczych.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Połączenie zrywa się po kilku sekundach&lt;/h4&gt;
+
+&lt;p&gt;Większość odbiorników ruchu nie może obsługiwać więcej niż jednego klienta i przerywa połączenia
+losowo, jeśli więcej niż jedno urządzenie próbuje uzyskać dostęp.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Upewnij się, że żadne drugie urządzenie nie jest podłączone do sieci WLAN odbiornika komunikatów lotniczych. 
+  Drugie urządzenie może znajdować się w kieszeni twojego przyjaciela!&lt;/li&gt;
+
+  &lt;li&gt;Upewnij się, że żadna inna aplikacja nie próbuje się połączyć ze
+  strumieniem danych z nadajnika.&lt;/li&gt;
+
+  &lt;li&gt;Wiele odbiorników ruchu oferuje &quot;panele konfiguracyjne&quot;, do których można uzyskać dostęp za pośrednictwem
+  przeglądarki internetowej. Zamknij wszystkie przeglądarki internetowe.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <source>
@@ -3823,27 +3946,27 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="125"/>
         <source>Connected to traffic receiver at IP address 192.168.1.1, port 2000.</source>
-        <translation type="unfinished"></translation>
+        <translation>Połączono do odbiornika ruchu lotniczego na adresie IP 192.168.1.1, port 2000.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="127"/>
         <source>Waiting for data …</source>
-        <translation type="unfinished"></translation>
+        <translation>Oczekiwanie na dane ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="131"/>
         <source>Receiving FLARM heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbieranie sygnału FLARM.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="133"/>
         <source>Receiving barometric altitude.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbieranie wysokości barometrycznej.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="135"/>
         <source>Receiving satnav position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbieranie pozycji nawig. satelitarnej.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="163"/>
@@ -7028,7 +7151,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="186"/>
         <source>Receiving FLARM heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbieranie sygnału FLARM.</translation>
     </message>
     <message>
         <source>Receiving traffic information</source>
