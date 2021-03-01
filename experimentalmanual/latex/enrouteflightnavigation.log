@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.2.27)  27 FEB 2021 21:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.3.1)  1 MAR 2021 07:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1385,7 +1385,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2282.
  ) 
 Here is how much of TeX's memory you used:
  14079 strings out of 494923
- 196507 string characters out of 6180742
+ 196507 string characters out of 6180743
  284113 words of memory out of 5000000
  16936 multiletter control sequences out of 15000+600000
  54371 words of font info for 68 fonts, out of 8000000 for 9000
@@ -1397,7 +1397,7 @@ e/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist
 1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/
 utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on enrouteflightnavigation.pdf (47 pages, 2169504 bytes).
+Output written on enrouteflightnavigation.pdf (47 pages, 2169503 bytes).
 PDF statistics:
  591 PDF objects out of 1000 (max. 8388607)
  505 compressed objects within 6 object streams
