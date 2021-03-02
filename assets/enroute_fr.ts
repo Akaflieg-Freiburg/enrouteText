@@ -3082,2844 +3082,2848 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Weather::Decoder</name>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1867"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1872"/>
         <source>shallow</source>
         <translation>superficiel</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1870"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1875"/>
         <source>partial</source>
         <translation>partiel</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1873"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1878"/>
         <source>patches</source>
         <translation>bancs</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1876"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1881"/>
         <source>low drifting</source>
         <translation>chasse basse</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1879"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1884"/>
         <source>blowing</source>
         <translation>chasse haute</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1882"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1887"/>
         <source>showers</source>
         <translation>averses</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="479"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1885"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="484"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1890"/>
         <source>thunderstorm</source>
         <translation>orage</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="413"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="417"/>
         <source>[unable to convert temperature to °C]</source>
         <translation>[impossible de convertir la température en °C]</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="421"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="425"/>
         <source>slightly less than %1</source>
         <translation>légèrement inférieure à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="424"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="428"/>
         <source>slightly more than %1</source>
         <translation>légèrement supérieure à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="329"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="333"/>
         <source>[unable to convert pressure to hPa]</source>
         <translation>[impossible de convertir la pression en hPa]</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1888"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1893"/>
         <source>freezing</source>
         <translation>givrant</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1906"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1911"/>
         <source>light</source>
         <translation>faible</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1909"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1914"/>
         <source>moderate</source>
         <translation>modéré</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1912"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1917"/>
         <source>heavy</source>
         <translation>fort</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="847"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1171"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1924"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="852"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1176"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1929"/>
         <source>drizzle</source>
         <translation>bruine</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="844"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1420"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1927"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="849"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1425"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1932"/>
         <source>rain</source>
         <translation>pluie</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="850"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1930"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="855"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1935"/>
         <source>snow</source>
         <translation>neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1933"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1938"/>
         <source>snow grains</source>
         <translation>neige en grains</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="841"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1936"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="846"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1941"/>
         <source>ice crystals</source>
         <translation>cristaux de glace</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="853"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1939"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="858"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1944"/>
         <source>ice pellets</source>
         <translation>granules de glace</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1942"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1947"/>
         <source>hail</source>
         <translation>grêle</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1945"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1950"/>
         <source>small hail</source>
         <translation>grésil</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1258"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1263"/>
         <source>shallow fog</source>
         <translation>brouillard superficiel</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1255"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1260"/>
         <source>patches of fog</source>
         <translation>bancs de brouillard</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1249"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1254"/>
         <source>freezing fog</source>
         <translation>brouillard givrant</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1948"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1953"/>
         <source>undetermined precipitation</source>
         <translation>précipitations inconnues</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="118"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="166"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="256"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="322"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="360"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="390"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="410"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="543"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="567"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="880"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1018"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1069"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1099"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1143"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1801"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1843"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="121"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="170"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="260"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="326"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="364"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="394"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="414"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="548"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="572"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="885"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1023"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1074"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1104"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1148"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1806"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1848"/>
         <source>not reported</source>
         <translation>non rapporté</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="104"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="107"/>
         <source>Cloud cover %1/8, %2, base height %3</source>
         <translation>Couverture nuageuse %1/8, %2, base à %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="109"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="112"/>
         <source>Cloud cover %1/8, %2</source>
         <translation>Couverture nuageuse %1/8, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="121"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="124"/>
         <source>variable</source>
         <translation>variable</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="124"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="127"/>
         <source>no directional variation</source>
         <translation>pas de changement de direction</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="130"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="133"/>
         <source>[unable to produce value in °]</source>
         <translation>[impossible de donner une valeur en °]</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="142"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="145"/>
         <source>overhead</source>
         <translation>à la verticale</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="145"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="148"/>
         <source>all quadrants (all directions)</source>
         <translation>tous quadrants (toutes directions)</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="148"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="151"/>
         <source>unknown direction</source>
         <translation>direction inconnue</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="274"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="278"/>
         <source>no value</source>
         <translation>pas de valeur</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="334"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="338"/>
         <source>all runways</source>
         <translation>toutes pistes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="337"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="341"/>
         <source>same runway (repetition of last message)</source>
         <translation>piste identique (répétition du dernier message)</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="342"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="346"/>
         <source>runway %1</source>
         <translation>piste %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="345"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="349"/>
         <source>runway %1 LEFT</source>
         <translation>piste %1 GAUCHE</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="348"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="352"/>
         <source>runway %1 CENTER</source>
         <translation>piste %1 CENTRE</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="351"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="355"/>
         <source>runway %1 RIGHT</source>
         <translation>piste %1 DROITE</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="374"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="378"/>
         <source>[unable to convert speed to km/h]</source>
         <translation>[impossible de convertir la vitesse en km/h]</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="381"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="385"/>
         <source>[unable to convert speed to knots]</source>
         <translation>[impossible de convertir la vitesse en noeuds]</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="435"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="439"/>
         <source>state of sea surface: %1</source>
         <translation>état de la surface de la mer : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="441"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="445"/>
         <source>wave height: %1 m</source>
         <translation>hauteur de vague : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="443"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="447"/>
         <source>[unable to convert wave height to meters]</source>
         <translation>[impossible de convertir la hauteur de vague en metres]</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="445"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="449"/>
         <source>wave height not reported</source>
         <translation>hauteur de vague non rapportée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="475"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="480"/>
         <source>shower</source>
         <translation>averse</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="487"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="492"/>
         <source>recent %1</source>
         <translation>récent %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="491"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="496"/>
         <source>%1 in the vicinity</source>
         <translation>%1 au voisinage de</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="515"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="520"/>
         <source>began:</source>
         <translation>a commencé :</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="522"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="527"/>
         <source>ended:</source>
         <translation>est terminé :</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="570"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="575"/>
         <source>north</source>
         <translation>Nord</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="573"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="578"/>
         <source>south</source>
         <translation>Sud</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="576"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="581"/>
         <source>west</source>
         <translation>Ouest</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="579"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="584"/>
         <source>east</source>
         <translation>Est</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="582"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="587"/>
         <source>northwest</source>
         <translation>Nord-Ouest</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="585"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="590"/>
         <source>northeast</source>
         <translation>Nord-Est</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="588"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="593"/>
         <source>southwest</source>
         <translation>Sud-Ouest</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="591"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="596"/>
         <source>southeast</source>
         <translation>Sud-Est</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="594"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="599"/>
         <source>true north</source>
         <translation>Nord vrai</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="597"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="602"/>
         <source>true west</source>
         <translation>Ouest vrai</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="600"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="605"/>
         <source>true south</source>
         <translation>Sud vrai</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="603"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="608"/>
         <source>true east</source>
         <translation>Est vrai</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="606"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="611"/>
         <source>no directional variations</source>
         <translation>pas de variation de direction</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="627"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="632"/>
         <source>Cloud amount not reported</source>
         <translation>Couverture nuageuse non rapportée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="630"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="635"/>
         <source>No significant cloud</source>
         <translation>Pas de nuage significatif</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="633"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="638"/>
         <source>No cloud detected</source>
         <translation>Aucun niage détecté</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="637"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="642"/>
         <source>Clear sky</source>
         <translation>Ciel dégagé</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="640"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="645"/>
         <source>Few clouds</source>
         <translation>Quelques nuages</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="643"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="648"/>
         <source>Scattered clouds</source>
         <translation>Nuages épars</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="646"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="651"/>
         <source>Broken clouds</source>
         <translation>Nuages fragmentés</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="649"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="654"/>
         <source>Overcast clouds</source>
         <translation>Ciel couvert</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="652"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="657"/>
         <source>Sky obscured</source>
         <translation>Ciel couvert</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="655"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="660"/>
         <source>Few -- scattered clouds</source>
         <translation>Nuages quelques -- épars</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="658"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="663"/>
         <source>Scattered -- broken clouds</source>
         <translation>Nuages épars -- fragmentés</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="661"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="666"/>
         <source>Broken -- overcast clouds</source>
         <translation>Nuages fragmentés -- ciel couvert</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="787"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="790"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="886"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="795"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="891"/>
         <source>cumulonimbus</source>
         <translation>cumulonimbus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="793"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="883"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="798"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="888"/>
         <source>towering cumulus</source>
         <translation>cumulus bourgeonnant</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="796"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="801"/>
         <source>cumulus</source>
         <translation>cumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="799"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="804"/>
         <source>cumulus fractus</source>
         <translation>cumulus fractus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="802"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="807"/>
         <source>stratocumulus</source>
         <translation>stratocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="805"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="810"/>
         <source>nimbostratus</source>
         <translation>nimbostratus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="808"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="813"/>
         <source>stratus</source>
         <translation>stratus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="811"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="816"/>
         <source>stratus fractus</source>
         <translation>stratus fractus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="814"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="819"/>
         <source>altostratus</source>
         <translation>altostratus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="817"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="822"/>
         <source>altocumulus</source>
         <translation>altocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="820"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="825"/>
         <source>altocumulus castellanus</source>
         <translation>altocumulus castellanus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="823"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="828"/>
         <source>cirrus</source>
         <translation>cirrus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="826"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="831"/>
         <source>cirrostratus</source>
         <translation>cirrostratus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="829"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="834"/>
         <source>cirrocumulus</source>
         <translation>cirrocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="838"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1520"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="843"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1525"/>
         <source>blowing sand</source>
         <translation>chasse haute de sable</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="862"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1951"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="867"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1956"/>
         <source>mist</source>
         <translation>brume</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="859"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1246"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1954"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="864"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1251"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1959"/>
         <source>fog</source>
         <translation>brouillard</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="856"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1957"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="861"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1962"/>
         <source>smoke</source>
         <translation>fumée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="868"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1960"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="873"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1965"/>
         <source>volcanic ash</source>
         <translation>cendres volcaniques</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1963"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1968"/>
         <source>dust</source>
         <translation>poussière</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1966"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1971"/>
         <source>sand</source>
         <translation>sable</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="865"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1969"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="870"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1974"/>
         <source>haze</source>
         <translation>brume sèche</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1645"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1650"/>
         <source>low drifting snow</source>
         <translation>chasse basse de neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1648"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1653"/>
         <source>low drifting snow in the vicinity</source>
         <translation>chasse basse de neige à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1651"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1656"/>
         <source>light low drifting snow</source>
         <translation>faible chasse basse de neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1654"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1659"/>
         <source>moderate low drifting snow</source>
         <translation>chasse basse de neige modérée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1657"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1662"/>
         <source>heavy low drifting snow</source>
         <translation>forte chasse basse de neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1660"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1665"/>
         <source>recent low drifting snow</source>
         <translation>chasse basse de neige récente</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1695"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1700"/>
         <source>snow showers</source>
         <translation>averses de neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1698"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1703"/>
         <source>snow showers in the vicinity</source>
         <translation>averses de neige à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1972"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1977"/>
         <source>spray</source>
         <translation>spray</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1975"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1980"/>
         <source>dust or sand whirls</source>
         <translation>tourbillons de poussière ou de sable</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1978"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1983"/>
         <source>squalls</source>
         <translation>ligne de grains</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1981"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1986"/>
         <source>funnel cloud</source>
         <translation>tornade</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1984"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1989"/>
         <source>sand storm</source>
         <translation>tempête de sable</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1987"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1992"/>
         <source>dust storm</source>
         <translation>tempête de poussière</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1345"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1350"/>
         <source>precipitation</source>
         <translation>précipitations</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1348"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1353"/>
         <source>light precipitation</source>
         <translation>précipitations faibles</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1351"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1356"/>
         <source>moderate precipitation</source>
         <translation>précipitations modérées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1354"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1359"/>
         <source>heavy precipitation</source>
         <translation>précipitations fortes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1180"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1185"/>
         <source>light drizzle</source>
         <translation>bruine faible</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1183"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1188"/>
         <source>moderate drizzle</source>
         <translation>bruine modérée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1186"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1191"/>
         <source>heavy drizzle</source>
         <translation>bruine forte</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="835"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1221"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="840"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1226"/>
         <source>blowing dust</source>
         <translation>chausse haute de poussière</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1227"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1232"/>
         <source>light blowing dust</source>
         <translation>faible chausse haute de poussière</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1230"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1235"/>
         <source>moderate blowing dust</source>
         <translation>chausse haute de poussière modérée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1233"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1238"/>
         <source>heavy blowing dust</source>
         <translation>forte chausse haute de poussière</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1252"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1257"/>
         <source>partial fog</source>
         <translation>brouillard partiel</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1426"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1431"/>
         <source>light rain</source>
         <translation>faible pluie</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1429"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1434"/>
         <source>moderate rain</source>
         <translation>pluie modérée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1432"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1437"/>
         <source>heavy rain</source>
         <translation>forte pluie</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1476"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1481"/>
         <source>light rain showers</source>
         <translation>faibles averses de pluie</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1479"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1484"/>
         <source>moderate rain showers</source>
         <translation>averses de pluie modérées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1482"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1487"/>
         <source>heavy rain showers</source>
         <translation>fortes averses de pluie</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1485"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1490"/>
         <source>recent rain showers</source>
         <translation>averses de pluie récentes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1576"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1581"/>
         <source>light snowfall</source>
         <translation>faibles chutes de neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1579"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1584"/>
         <source>moderate snowfall</source>
         <translation>chutes de neige modérées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1582"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1587"/>
         <source>heavy snowfall</source>
         <translation>fortes chutes de neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="832"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1595"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="837"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1600"/>
         <source>blowing snow</source>
         <translation>chasse haute de neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="184"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="188"/>
         <source>19 to 55 km</source>
         <translation>19 à 55 km</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="186"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="190"/>
         <source>10 to 30 NM</source>
         <translation>10 à 30 nm</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="192"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="196"/>
         <source>9 to 19 km</source>
         <translation>9 à 19 km</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="194"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="198"/>
         <source>5 to 10 NM</source>
         <translation>5 à 10 nm</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="207"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="211"/>
         <source>[unable to get distance value in miles]</source>
         <translation>[impossible de donner une distance en miles]</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="227"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="247"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="231"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="251"/>
         <source>[unable to convert distance to meters]</source>
         <translation>[impossible de convertir la distance en metres]</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="232"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="236"/>
         <source>[unable to get distance&apos;s floating-point value]</source>
         <translation>[impossible de donner une distance décimale]</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="309"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="313"/>
         <source>trace amount</source>
         <translation>quantité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="316"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="320"/>
         <source>[unable to convert precipitation to mm]</source>
         <translation>[impossible de convertir les précipitations en mm]</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="394"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="398"/>
         <source>friction coefficient %1</source>
         <translation>coefficient de frottement %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="396"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="400"/>
         <source>[unable to produce a friction coefficient]</source>
         <translation>[impossible de donner un coefficient de frottement]</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="399"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="403"/>
         <source>braking action %1</source>
         <translation>action de freinage %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="402"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="406"/>
         <source>unreliable or unmeasurable</source>
         <translation>pas fiable ou non mesurable</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="546"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="551"/>
         <source>poor (friction coefficient 0.0 to 0.25)</source>
         <translation>faible (coefficient de frottement de 0.0 à 0.25)</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="549"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="554"/>
         <source>medium/poor (friction coefficient 0.26 to 0.29)</source>
         <translation>moyenne/faible  (coefficient de frottement de 0.26 à 0.29)</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="552"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="557"/>
         <source>medium (friction coefficient 0.30 to 0.35)</source>
         <translation>moyenne (coefficient de frottement de 0.30 à 0.35)</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="555"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="560"/>
         <source>medium/good (friction coefficient 0.36 to 0.40)</source>
         <translation>moyenne/bonne (coefficient de frottement de 0.36 à 0.40)</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="558"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="563"/>
         <source>good (friction coefficient 0.40 to 1.00)</source>
         <translation>bonne (coefficient de frottement de 0.40 à 1.00)</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="670"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="675"/>
         <source>No high-layer clouds</source>
         <translation>Pas de couche nuageuse élevée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="673"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="678"/>
         <source>Cirrus fibratus or Cirrus uncinus</source>
         <translation>Cirrus fibratus ou Cirrus uncinus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="676"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="681"/>
         <source>Cirrus spissatus or Cirrus castellanus or Cirrus floccus</source>
         <translation>Cirrus spissatus ou Cirrus castellanus ou Cirrus floccus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="679"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="684"/>
         <source>Cirrus spissatus cumulonimbogenitus</source>
         <translation>Cirrus spissatus cumulonimbogenitus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="682"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="687"/>
         <source>Cirrus uncinus or Cirrus fibratus progressively invading the sky</source>
         <translation>Cirrus uncinus ou Cirrus fibratus en approche</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="685"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="690"/>
         <source>Cirrus or Cirrostratus progressively invading the sky, but the continuous veil does not reach 45° above the horizon</source>
         <translation>Cirrus ou Cirrostratus en approche, mais le voile n&apos;atteint pas 45° au dessus de l&apos;horizon</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="688"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="693"/>
         <source>Cirrus or Cirrostratus progressively invading the sky, the continuous veil extends more than 45° above the horizon, without the sky being totally covered</source>
         <translation>Cirrus ou Cirrostratus en approche, le voile atteint pas 45° au dessus de l&apos;horizon</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="691"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="696"/>
         <source>Cirrostratus nebulosus or Cirrostratus fibratus covering the whole sky</source>
         <translation>Couverture complète par des Cirrostratus nebulosus ou Cirrostratus fibratus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="694"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="699"/>
         <source>Cirrostratus that is not invading the sky and that does not completely cover the whole sky</source>
         <translation>Cirrostratus qui ne couvre pas complétement le ciel</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="697"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="702"/>
         <source>Cirrocumulus alone</source>
         <translation>Cirrocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="700"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="778"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="705"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="783"/>
         <source>Clouds are not observable</source>
         <translation>Nuages pas observables</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="709"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="714"/>
         <source>No low layer clouds</source>
         <translation>Pas de nuage dans les basses couches</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="712"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="717"/>
         <source>Cumulus humilis or Cumulus fractus</source>
         <translation>Cumulus humilis ou Cumulus fractus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="715"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="720"/>
         <source>Cumulus clouds with moderate or significant vertical extent</source>
         <translation>Cumulus dont l&apos; extension verticale est modérée ou importante</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="718"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="723"/>
         <source>Cumulonimbus calvus</source>
         <translation>Cumulonimbus calvus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="721"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="726"/>
         <source>Stratocumulus cumulogenitus</source>
         <translation>Stratocumulus cumulogenitus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="724"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="729"/>
         <source>Stratocumulus non-cumulogenitus</source>
         <translation>Stratocumulus non-cumulogenitus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="727"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="732"/>
         <source>Stratus nebulosus or Stratus fractus</source>
         <translation>Stratus nebulosus ou Stratus fractus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="730"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="735"/>
         <source>Stratus fractus or Cumulus fractus</source>
         <translation>Stratus fractus ou Cumulus fractus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="733"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="738"/>
         <source>Cumulus and Stratocumulus with bases at different levels</source>
         <translation>Cumulus et Stratocumulus dont les bases sont à hauteurs différentes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="739"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="744"/>
         <source>Clouds are not observable due to fog, blowing dust or sand, or other similar phenomena</source>
         <translation>Nuages non observables à cause de brouillard, poussière ou sable, ...</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="748"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="753"/>
         <source>No mid-layer clouds</source>
         <translation>Pas de nuage dans la couche moyenne</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="751"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="756"/>
         <source>Altostratus translucidus</source>
         <translation>Altostratus translucidus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="754"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="759"/>
         <source>Altostratus opacus or Nimbostratus</source>
         <translation>Altostratus opacus ou Nimbostratus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="757"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="762"/>
         <source>Altocumulus translucidus at a single level</source>
         <translation>Altocumulus translucidus à un seul niveau</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="760"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="765"/>
         <source>Patches of Altocumulus translucidus</source>
         <translation>Bancs de Altocumulus translucidus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="763"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="768"/>
         <source>Altocumulus translucidus in bands</source>
         <translation>Altocumulus translucidus en bandes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="766"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="771"/>
         <source>Altocumulus cumulogenitus or Altocumulus cumulonimbogenitus</source>
         <translation>Altocumulus cumulogenitus ou Altocumulus cumulonimbogenitus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="769"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="774"/>
         <source>Altocumulus duplicatus, or Altocumulus opacus in a single layer</source>
         <translation>Altocumulus duplicatus, ou Altocumulus opacus en une seule couche</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="772"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="777"/>
         <source>Altocumulus castellanus or Altocumulus floccus</source>
         <translation>Altocumulus castellanus ou Altocumulus floccus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="775"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="780"/>
         <source>Broken cloud sheets of ill-defined species or varieties</source>
         <translation>Nuages fragmentés de plusieurs types</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="937"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="942"/>
         <source>statute miles</source>
         <translation>miles terrestres</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="949"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="954"/>
         <source>Trace icing or no icing</source>
         <translation>Pas de givrage</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="952"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="957"/>
         <source>Light mixed icing</source>
         <translation>Givrage faible</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="955"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="960"/>
         <source>Light rime icing in cloud</source>
         <translation>Faible givrage blanc dans les nuages</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="958"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="963"/>
         <source>Light clear icing in precipitation</source>
         <translation>Faible givrage transparent dans les précipitations</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="961"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="966"/>
         <source>Moderate mixed icing</source>
         <translation>Givrage modéré</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="964"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="969"/>
         <source>Moderate rime icing in cloud</source>
         <translation>Givrage blanc modéré dans les nuages</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="967"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="972"/>
         <source>Moderate clear icing in precipitation</source>
         <translation>Givrage transparent modéré dans les précipitations</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="970"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="975"/>
         <source>Severe mixed icing</source>
         <translation>Givrage sévère</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="973"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="978"/>
         <source>Severe rime icing in cloud</source>
         <translation>Givrage blanc sévère dans les nuages</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="976"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="981"/>
         <source>Severe clear icing in precipitation</source>
         <translation>Givrage transparent sévère dans les précipitations</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="979"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="984"/>
         <source>No turbulence</source>
         <translation>Pas de turbulence</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="982"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="987"/>
         <source>Light turbulence</source>
         <translation>Turbulence faible</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="985"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="990"/>
         <source>Occasional moderate turbulence in clear air</source>
         <translation>Turbulence occasionelle modérée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="988"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="993"/>
         <source>Frequent moderate turbulence in clear air</source>
         <translation>Turbulence fréquente modérée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="991"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="996"/>
         <source>Occasional moderate turbulence in cloud</source>
         <translation>Turbulence occasionelle modérée dans les nuages</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="994"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="999"/>
         <source>Frequent moderate turbulence in cloud</source>
         <translation>Turbulence fréquente modérée dans les nuages</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="997"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1002"/>
         <source>Occasional severe turbulence in clear air</source>
         <translation>Turbulence occasionelle sévère</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1000"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1005"/>
         <source>Frequent severe turbulence in clear air</source>
         <translation>Turbulence fréquente sévère</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1003"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1008"/>
         <source>Occasional severe turbulence in cloud</source>
         <translation>Turbulence occasionelle sévère</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1006"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1011"/>
         <source>Frequent severe turbulence in cloud</source>
         <translation>Turbulence fréquente sévère dans les nuages</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1009"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1014"/>
         <source>Extreme turbulence</source>
         <translation>Turbulence extrème</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1021"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1026"/>
         <source>higher than</source>
         <translation>plus grand que</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1024"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1029"/>
         <source>higher or the same as</source>
         <translation>plus grand ou égale à</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1027"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1032"/>
         <source>same as</source>
         <translation>égal à</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1030"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1035"/>
         <source>lower or the same as</source>
         <translation>plus petit ou égal à</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1033"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1038"/>
         <source>lower than</source>
         <translation>plus petit que</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1042"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1047"/>
         <source>increasing, then decreasing</source>
         <translation>en augmentation puis diminution</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1045"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1050"/>
         <source>increasing more slowly</source>
         <translation>en augmentation plus lente</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1048"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1053"/>
         <source>increasing</source>
         <translation>en augmentation</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1051"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1056"/>
         <source>increasing more rapidly</source>
         <translation>en augmentation plus rapide</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1054"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1059"/>
         <source>steady</source>
         <translation>constant</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1057"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1062"/>
         <source>decreasing, then increasing</source>
         <translation>en diminution puis augmentation</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1060"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1065"/>
         <source>decreasing more slowly</source>
         <translation>en diminution plus lente</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1063"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1068"/>
         <source>decreasing</source>
         <translation>en diminution</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1066"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1071"/>
         <source>decreasing more rapidly</source>
         <translation>en diminution plus rapide</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1072"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1077"/>
         <source>rising rapidly</source>
         <translation>se levant rapidement</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1075"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1080"/>
         <source>falling rapidly</source>
         <translation>tombant rapidement</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1084"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1089"/>
         <source>Probability 30%</source>
         <translation>Faible probabilité (30%)</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1087"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1092"/>
         <source>Probability 40%</source>
         <translation>Forte probabilité (40%)</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1102"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1107"/>
         <source>clear and dry</source>
         <translation>dégagée et sèche</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1105"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1110"/>
         <source>damp</source>
         <translation>humide</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1108"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1113"/>
         <source>wet and water patches</source>
         <translation>mouillée avec flaques d&apos;eau</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1111"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1116"/>
         <source>rime and frost covered</source>
         <translation>couverte de givre</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1114"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1119"/>
         <source>dry snow</source>
         <translation>neige sèche</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1117"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1122"/>
         <source>wet snow</source>
         <translation>neige humide</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1120"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1125"/>
         <source>slush</source>
         <translation>neige fondue</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1123"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1128"/>
         <source>ice</source>
         <translation>glace</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1126"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1131"/>
         <source>compacted or rolled snow</source>
         <translation>neige compactée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1129"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1134"/>
         <source>frozen ruts or ridges</source>
         <translation>sillons de gel</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1146"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1151"/>
         <source>none</source>
         <translation>aucun</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1357"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1362"/>
         <source>recent precipitation</source>
         <translation>précipitations récentes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1360"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1365"/>
         <source>precipitation in the vicinity</source>
         <translation>précipitations à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1370"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1375"/>
         <source>showers with undetermined precipitation</source>
         <translation>averses avec précipitations indéterminées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1373"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1378"/>
         <source>recent showers with undetermined precipitation</source>
         <translation>averses récentes avec précipitations indéterminées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1376"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1381"/>
         <source>showers in the vicinity with undetermined precipitation</source>
         <translation>averses à proximité avec précipitations indéterminées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1379"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1384"/>
         <source>light showers with undetermined precipitation</source>
         <translation>averses faibles avec précipitations indéterminées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1382"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1387"/>
         <source>moderate showers with undetermined precipitation</source>
         <translation>averses modérées avec précipitations indéterminées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1385"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1390"/>
         <source>heavy showers with undetermined precipitation</source>
         <translation>averses fortes avec précipitations indéterminées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1395"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1400"/>
         <source>thunderstorm with precipitation</source>
         <translation>orage avec précipitations</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1398"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1403"/>
         <source>recent thunderstorm with precipitation</source>
         <translation>orage avec précipitations récent</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1401"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1406"/>
         <source>thunderstorm with precipitation in the vicinity</source>
         <translation>orage avec précipitations à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1404"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1409"/>
         <source>light thunderstorm with precipitation</source>
         <translation>orage faible avec précipitations</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1407"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1412"/>
         <source>moderate thunderstorm with precipitation</source>
         <translation>orage modéré avec précipitations</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1410"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1415"/>
         <source>heavy thunderstorm with precipitation</source>
         <translation>orage fort avec précipitations</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1174"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1179"/>
         <source>recent drizzle</source>
         <translation>bruine récente</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1177"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="792"/>
+        <source>unknoen cloud type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1182"/>
         <source>drizzle in the vicinity</source>
         <translation>bruine à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1196"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1201"/>
         <source>freezing drizzle</source>
         <translation>bruine givrante</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1199"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1204"/>
         <source>freezing drizzle in the vicinity</source>
         <translation>bruine givrante à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1202"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1207"/>
         <source>light freezing drizzle</source>
         <translation>bruine givrante légère</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1205"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1210"/>
         <source>moderate freezing drizzle</source>
         <translation>bruine givrante modérée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1208"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1213"/>
         <source>heavy freezing drizzle</source>
         <translation>bruine givrante forte</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1211"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1216"/>
         <source>recent freezing drizzle</source>
         <translation>bruine givrante récente</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1224"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1229"/>
         <source>blowing dust in the vicinity</source>
         <translation>chasse haute de poussière à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1236"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1241"/>
         <source>recent blowing dust</source>
         <translation>chasse haute de poussière récente</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1270"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1275"/>
         <source>hail showers</source>
         <translation>averses de grèle</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1273"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1278"/>
         <source>hail showers in the vicinity</source>
         <translation>averses de grèle à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1276"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1281"/>
         <source>light hail showers</source>
         <translation>averses de grèle légères</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1279"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1284"/>
         <source>moderate hail showers</source>
         <translation>averses de grèle modérées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1282"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1287"/>
         <source>heavy hail showers</source>
         <translation>averses de grèle fortes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1285"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1290"/>
         <source>recent hail showers</source>
         <translation>averses de grèle récentes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1295"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1300"/>
         <source>thunderstorm with hail</source>
         <translation>orage avec grèle</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1298"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1303"/>
         <source>thunderstorm with hail in the vicinity</source>
         <translation>orage avec grèle à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1301"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1306"/>
         <source>light thunderstorm with hail</source>
         <translation>orage avec grèle léger</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1304"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1309"/>
         <source>moderate thunderstorm with hail</source>
         <translation>orage avec grèle modéré</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1307"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1312"/>
         <source>heavy thunderstorm with hail</source>
         <translation>orage avec grèle fort</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1310"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1315"/>
         <source>recent thunderstorm with hail</source>
         <translation>orage avec grèle récent</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1320"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1325"/>
         <source>ice pellet precipitation</source>
         <translation>précipitations de granule de glace</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1323"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1328"/>
         <source>ice pellet precipitation in the vicinity</source>
         <translation>précipitations de granule de glace à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1326"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1331"/>
         <source>light ice pellet precipitation</source>
         <translation>légères précipitations de granule de glace</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1329"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1334"/>
         <source>moderate ice pellet precipitation</source>
         <translation>précipitations de granule de glace modérées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1332"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1337"/>
         <source>heavy ice pellet precipitation</source>
         <translation>fortes précipitations de granule de glace</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1335"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1340"/>
         <source>recent ice pellet precipitation</source>
         <translation>précipitations de granule de glace récentes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1423"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1428"/>
         <source>rain in the vicinity</source>
         <translation>pluie à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1435"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1440"/>
         <source>recent rain</source>
         <translation>pluie récente</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1445"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1450"/>
         <source>freezing rain</source>
         <translation>pluie givrante</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1448"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1453"/>
         <source>light freezing rain</source>
         <translation>pluie givrante faible</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1451"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1456"/>
         <source>moderate freezing rain</source>
         <translation>pluie givrante modérée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1454"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1459"/>
         <source>heavy freezing rain</source>
         <translation>pluie givrante forte</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1457"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1462"/>
         <source>recent freezing rain</source>
         <translation>pluie givrante récente</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1460"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1465"/>
         <source>freezing rain in the vicinity</source>
         <translation>pluie givrante à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1470"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1475"/>
         <source>rain showers</source>
         <translation>averses de pluie</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1473"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1478"/>
         <source>rain showers in the vicinity</source>
         <translation>averses de pluie à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1495"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1500"/>
         <source>thunderstorm with rain</source>
         <translation>orage avec pluie</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1498"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1503"/>
         <source>thunderstorm with rain in the vicinity</source>
         <translation>orage avec pluie à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1501"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1506"/>
         <source>light thunderstorm with rain</source>
         <translation>orage avec pluie léger</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1504"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1509"/>
         <source>moderate thunderstorm with rain</source>
         <translation>orage avec pluie modéré</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1507"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1512"/>
         <source>heavy thunderstorm with rain</source>
         <translation>orage avec pluie fort</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1510"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1515"/>
         <source>recent thunderstorm with rain</source>
         <translation>orage avec pluie récent</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1523"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1528"/>
         <source>blowing sand in the vicinity</source>
         <translation>chasse haute de sable à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1526"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1531"/>
         <source>light blowing sand</source>
         <translation>légère chasse haute de sable</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1529"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1534"/>
         <source>moderate blowing sand</source>
         <translation>chasse haute de sable modérée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1532"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1537"/>
         <source>heavy blowing sand</source>
         <translation>forte chasse haute de sable</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1535"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1540"/>
         <source>recent blowing sand</source>
         <translation>chasse haute de sable récente</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1545"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1550"/>
         <source>low drifting sand</source>
         <translation>chasse basse de sable</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1548"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1553"/>
         <source>low drifting sand in the vicinity</source>
         <translation>chasse basse de sable à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1551"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1556"/>
         <source>light low drifting sand</source>
         <translation>faible chasse basse de sable</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1554"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1559"/>
         <source>moderate low drifting sand</source>
         <translation>chasse basse de sable modérée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1557"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1562"/>
         <source>heavy low drifting sand</source>
         <translation>forte chasse basse de sable</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1560"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1565"/>
         <source>recent low drifting sand</source>
         <translation>chasse basse de sable récente</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1570"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1575"/>
         <source>snowfall</source>
         <translation>chutes de neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1573"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1578"/>
         <source>snowfall in the vicinity</source>
         <translation>chutes de neige à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1585"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1590"/>
         <source>recent snowfall</source>
         <translation>chutes de neige récentes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1598"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1603"/>
         <source>blowing snow in the vicinity</source>
         <translation>chasse basse de neige à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1601"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1606"/>
         <source>light blowing snow</source>
         <translation>chasse haute de neige faible</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1604"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1609"/>
         <source>moderate blowing snow</source>
         <translation>chasse haute de neige modérée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1607"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1612"/>
         <source>heavy blowing snow</source>
         <translation>chasse haute de neige forte</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1610"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1615"/>
         <source>recent blowing snow</source>
         <translation>chasse haute de neige récente</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1620"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1625"/>
         <source>snow grain precipitation</source>
         <translation>précipitations de neige en grains</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1623"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1628"/>
         <source>snow grain precipitation in the vicinity</source>
         <translation>précipitations de neige en grains à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1626"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1631"/>
         <source>light snow grain precipitation</source>
         <translation>légères précipitations de neige en grains</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1629"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1634"/>
         <source>moderate snow grain precipitation</source>
         <translation>précipitations de neige en grains modérées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1632"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1637"/>
         <source>heavy snow grain precipitation</source>
         <translation>fortes précipitations de neige en grains</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1635"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1640"/>
         <source>recent snow grain precipitation</source>
         <translation>précipitations de neige en grains récentes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1670"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1675"/>
         <source>freezing snow</source>
         <translation>neige givrante</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1673"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1678"/>
         <source>freezing snow in the vicinity</source>
         <translation>neige givrante à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1676"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1681"/>
         <source>light freezing snow</source>
         <translation>faible neige givrante</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1679"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1684"/>
         <source>moderate freezing snow</source>
         <translation>neige givrante modérée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1682"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1687"/>
         <source>heavy freezing snow</source>
         <translation>forte neige givrante</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1685"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1690"/>
         <source>recent freezing snow</source>
         <translation>neige givrante récente</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1701"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1706"/>
         <source>light snow showers</source>
         <translation>faibles averses de neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1704"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1709"/>
         <source>moderate snow showers</source>
         <translation>averses de neige modérées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1707"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1712"/>
         <source>heavy snow showers</source>
         <translation>fortes averses de neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1710"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1715"/>
         <source>recent snow showers</source>
         <translation>averses de neige récentes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1720"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1725"/>
         <source>thunderstorm with snow</source>
         <translation>orage avec neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1723"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1728"/>
         <source>thunderstorm with snow in the vicinity</source>
         <translation>orage avec neige à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1726"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1731"/>
         <source>light thunderstorm with snow</source>
         <translation>orage avec neige faible</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1729"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1734"/>
         <source>moderate thunderstorm with snow</source>
         <translation>orage avec neige modéré</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1732"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1737"/>
         <source>heavy thunderstorm with snow</source>
         <translation>orage avec neige fort</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1735"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1740"/>
         <source>recent thunderstorm with snow</source>
         <translation>orage avec neige récent</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1745"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1750"/>
         <source>shower with small hail</source>
         <translation>averses de grésil</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1748"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1753"/>
         <source>shower with small hail in the vicinity</source>
         <translation>averses de grésil à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1751"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1756"/>
         <source>light shower with small hail</source>
         <translation>faibles averses de grésil</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1754"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1759"/>
         <source>moderate shower with small hail</source>
         <translation>averses de grésil modérées</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1757"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1762"/>
         <source>heavy shower with small hail</source>
         <translation>fortes averses de grésil</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1760"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1765"/>
         <source>recent shower with small hail</source>
         <translation>averses de grésil récentes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1770"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1775"/>
         <source>thunderstorm with small hail</source>
         <translation>orage de grésil</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1773"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1778"/>
         <source>thunderstorm with small hail in the vicinity</source>
         <translation>orage avec grésil léger à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1776"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1781"/>
         <source>light thunderstorm with small hail</source>
         <translation>orage avec grésil léger</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1779"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1784"/>
         <source>moderate thunderstorm with small hail</source>
         <translation>orage avec grésil modéré</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1782"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1787"/>
         <source>heavy thunderstorm with small hail</source>
         <translation>orage avec grésil fort</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1785"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1790"/>
         <source>recent thunderstorm with small hail</source>
         <translation>orage avec grésil récent</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1804"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1809"/>
         <source>calm (glassy), no waves</source>
         <translation>calme, pas de vague</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1807"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1812"/>
         <source>calm (rippled), wave height &lt;0.1 meters</source>
         <translation>calme, hauteur de vague &lt;0.1 mètre</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1810"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1815"/>
         <source>smooth, wave height 0.1 to 0.5 meters</source>
         <translation>lisse, hauteur de vague entre 0.1 et 0.5 mètre</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1813"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1818"/>
         <source>slight, wave height 0.5 to 1.25 meters</source>
         <translation>légère, hauteur de vague entre 0.5 et 1.25 mètres</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1816"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1821"/>
         <source>moderate, wave height 1.25 to 2.5 meters</source>
         <translation>modérée, hauteur de vague entre 1.25 et 2.5 mètres</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1819"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1824"/>
         <source>rough, wave height 2.5 to 4 meters</source>
         <translation>agitée, hauteur de vague entre 2.5 et 4 mètres</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1822"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1827"/>
         <source>very rough, wave height 4 to 6 meters</source>
         <translation>très agitée, hauteur de vague entre 4 et 6 mètres</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1825"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1830"/>
         <source>high, wave height 6 to 9 meters</source>
         <translation>haute, hauteur de vague entre 6 et 9 mètres</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1828"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1833"/>
         <source>very high, wave height 9 to 14 meters</source>
         <translation>très haute, hauteur de vague entre 9 et 14 mètres</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1831"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1836"/>
         <source>phenomenal, wave height &gt;14 meters</source>
         <translation>phénomenale, hauteur de vague &gt;14 mètres</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1847"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1852"/>
         <source>upward</source>
         <extracomment>visibility trend</extracomment>
         <translation>vers le haut</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1851"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1856"/>
         <source>neutral</source>
         <extracomment>visibility trend</extracomment>
         <translation>évolution de la visibilité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1855"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1860"/>
         <source>downward</source>
         <extracomment>visibility trend</extracomment>
         <translation>vers le bas</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="1998"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2096"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2110"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2168"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2185"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2249"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2258"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2270"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2304"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2425"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2506"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2538"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2563"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2572"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2608"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2619"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2647"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2727"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2736"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2840"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2958"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3005"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2003"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2101"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2116"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2174"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2191"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2255"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2264"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2276"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2310"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2431"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2512"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2544"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2569"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2578"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2614"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2625"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2653"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2733"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2742"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2846"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2964"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3012"/>
         <source>Invalid data</source>
         <translation>donnée invalide</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2010"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2015"/>
         <source>%1 (%2) in %3 AGL</source>
         <translation>%1 (%2) en %3 AGL</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2015"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2020"/>
         <source>%1 in %2 AGL</source>
         <translation>%1 en %2 AGL</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2025"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2030"/>
         <source>Ceiling height %1 AGL at %2 towards %3</source>
         <translation>Plafond à %1 AGL à %2 vers %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2031"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2036"/>
         <source>Ceiling height %1 AGL at %2</source>
         <translation>Plafond à %1 AGL à %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2036"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2041"/>
         <source>Ceiling height %1 AGL towards %2</source>
         <translation>Plafond à %1 AGL vers %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2040"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2045"/>
         <source>Ceiling height %1</source>
         <translation>Plafond à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2045"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2050"/>
         <source>Ceiling height %1 -- %2 AGL at %3 towards %4</source>
         <translation>Plafond à %1 -- %2 AGL à %3 vers %4</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2052"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2057"/>
         <source>Ceiling height %1 -- %2 AGL at %3</source>
         <translation>Plafond à %1 -- %2 AGL à %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2058"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2063"/>
         <source>Ceiling height %1 -- %2 AGL towards %3</source>
         <translation>Plafond à %1 -- %2 AGL vers %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2063"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2068"/>
         <source>Ceiling height %1 -- %2 AGL</source>
         <translation>Plafond à %1 -- %2 AGL</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2068"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2073"/>
         <source>Ceiling data not awailable</source>
         <translation>Plafond non disponible</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2071"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2076"/>
         <source>Sky condition data (cloud data) is missing</source>
         <translation>Pas de données sur la couverture nuageuse</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2077"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2082"/>
         <source>Ground-based obscuration, %1</source>
         <translation>Obscurcissement au sol, %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2080"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2085"/>
         <source>Ground-based obscuration</source>
         <translation>Obscurcissement au sol</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2083"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2088"/>
         <source>Aloft obscuration, %1</source>
         <translation>Obscurcissement en l&apos;air, %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2086"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2091"/>
         <source>Aloft obscuration</source>
         <translation>Obscurcissement en l&apos;air</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2104"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2110"/>
         <source>Cloud layers: %1</source>
         <translation>Couche nuageuse : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2115"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2121"/>
         <source>Report type: METAR</source>
         <translation>Type de rapport: METAR</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2118"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2124"/>
         <source>Report type: unscheduled METAR</source>
         <translation>Type de rapport : METAR non planifié</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2121"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2127"/>
         <source>Report type: TAF</source>
         <translation>Type de rapport : TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2124"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2130"/>
         <source>Amended report</source>
         <translation>Rapport modifié</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2127"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2133"/>
         <source>Missing report</source>
         <translation>Rapport manquant</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2130"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2136"/>
         <source>Cancelled report</source>
         <translation>Rapport annulé</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2133"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2139"/>
         <source>Correctional report</source>
         <translation>Rapport corrigé</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2136"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2142"/>
         <source>Automated report</source>
         <translation>Rapport automatique</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2139"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2145"/>
         <source>CAVOK</source>
         <translation>CAVOK</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2142"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2148"/>
         <source>&lt;strong&gt;Remarks&lt;/strong&gt;</source>
         <translation>&lt;strong&gt;Remarques&lt;/strong&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2145"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2151"/>
         <source>Automated station requires maintenance</source>
         <translation>Station automatique en maintenance</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2148"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2154"/>
         <source>Automated station w/o precipitation discriminator</source>
         <translation>Station automatique sans détecteur de précipitations</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2151"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2157"/>
         <source>Automated station with precipitation discriminator</source>
         <translation>Station automatique avec détecteur de précipitations</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2154"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2160"/>
         <source>Automated station w/o precipitation discriminator, report augmented by a human observer</source>
         <translation>Station automatique sans détecteur de précipitations, avec observateur humain</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2157"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2163"/>
         <source>Automated station with precipitation discriminator, report augmented by a human observer</source>
         <translation>Station automatique avec détecteur de précipitations, avec observateur humain</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2160"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2166"/>
         <source>Manual station, does not issue SPECI reports</source>
         <translation>Station manuelle, pas de rapport SPECI</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2172"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2178"/>
         <source>%1 at all heights</source>
         <translation>%1 à toute hauteur</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2189"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2195"/>
         <source>Lightning strikes observed.</source>
         <translation>Coup de foudre observés.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2192"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2824"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2198"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2830"/>
         <source>Distance %1.</source>
         <translation>Distance %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2200"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2206"/>
         <source>Less than 1 strike per minute.</source>
         <translation>Moins de %1 coup par minute.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2204"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2210"/>
         <source>1 -- 6 strikes per minute.</source>
         <translation>1 -- 6 coups par minute.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2208"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2214"/>
         <source>More than 6 strikes per minute.</source>
         <translation>Plus de 6 coups par minute.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2215"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2221"/>
         <source>cloud-to-ground</source>
         <translation>du ciel au sol</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2218"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2224"/>
         <source>in-cloud</source>
         <translation>dans les nuages</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2221"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2227"/>
         <source>cloud-to-cloud</source>
         <translation>de nuage à nuage</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2224"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2230"/>
         <source>cloud-to-air without strike to ground</source>
         <translation>du nuage à l&apos;air sans coup au sol</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2227"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2233"/>
         <source>Lightning types: %1.</source>
         <translation>Types d&apos;éclair: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2232"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2238"/>
         <source>Lightning strike types not recognised by parser.</source>
         <translation>Types d&apos;éclair non reconnu.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2240"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2246"/>
         <source>Lightning strikes observed in the following directions: %1</source>
         <translation>Coups de foudre observés dans les directions : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2252"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2258"/>
         <source>Report for %1</source>
         <translation>Rapport pour %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2276"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2282"/>
         <source>Observed 6-hourly minimum/maximum temperature: %1/%2</source>
         <translation>Température min/max observées sur les 6 dernières heures : %1/%2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2281"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2287"/>
         <source>Observed 24-hourly minimum/maximum temperature: %1/%2</source>
         <translation>Température min/max observées sur les 24 dernières heures : %1/%2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2287"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2293"/>
         <source>Minimum forecast temperature: %1, expected at %2.</source>
         <translation>Temperature minimale prévue : %1, attendue à %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2292"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2298"/>
         <source>Maximum forecast temperature: %1, expected at %2.</source>
         <translation>Temperature maximale prévue : %1, attendue à %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2307"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2313"/>
         <source>Colour code BLACK: aerodrome closed due to snow accumulation or non-weather reasons</source>
         <translation>Code NOIR : aérodrome fermé pour cause de neige ou autre raison non météorologique</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2313"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2319"/>
         <source>Duration of sunshine that occurred the previous calendar day is %1 minutes.</source>
         <translation>Durée de clarté du jour précédent : %1 minutes.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2315"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2321"/>
         <source>No sunshine occurred the previous calendar day</source>
         <translation>Aucune clarté le jour précédent</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2318"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2324"/>
         <source>This report is the corrected weather observation, correction number is %1</source>
         <translation>Ce rapport est la correction des observations météo, nombre de corrections : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2324"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2330"/>
         <source>Density altitude is %1 feet</source>
         <translation>Altitude densité %1 pieds</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2327"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2333"/>
         <source>Largest hailstone size is %1 inches</source>
         <translation>Taille maximale de grêle %1 pouces</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2335"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2341"/>
         <source>Colour code BLUE: visibility &gt;8000 m and lowest cloud base height &gt;2500 ft</source>
         <translation>Code BLEU : visibilité &gt;8000 m et base des nuages &gt;2500 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2344"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2350"/>
         <source>Colour code BLUE+: visibility &gt;8000 m or lowest cloud base height &gt;2000 ft</source>
         <translation>Code BLEU+ : visibilité &gt;8000 m ou base des nuages &gt;2000 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2353"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2359"/>
         <source>Colour code YELLOW: visibility 1600-3700 m or lowest cloud base height 300-700 ft</source>
         <translation>Code JAUNE : visibilité de 1600-3700 m ou base des nuages de 300-700 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2362"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2368"/>
         <source>Colour code WHITE: visibility &gt;5000 m and lowest cloud base height &gt;1500 ft</source>
         <translation>Code BLANC : visibilité &gt;5000 m et base des nuages &gt;1500 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2371"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2377"/>
         <source>Colour code GREEN: visibility &gt;3700 m and lowest cloud base height &gt;700 ft</source>
         <translation>Code VERT : visibilité &gt;3700 m et base des nuages &gt;700 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2380"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2386"/>
         <source>Colour code YELLOW 1: visibility &gt;2500 m and lowest cloud base height &gt;500 ft</source>
         <translation>Code JAUNE 1 : visibilité &gt;2500 m et base des nuages &gt;500 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2389"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2395"/>
         <source>Colour code YELLOW 2: visibility &gt;1600 m and lowest cloud base height &gt;300 ft</source>
         <translation>Code JAUNE 2 : visibilité &gt;1600 m et base des nuages &gt;300 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2398"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2404"/>
         <source>Colour code AMBER: visibility &gt;800 m and lowest cloud base height &gt;200 ft</source>
         <translation>Code AMBRE : visibilité &gt;800 m et base des nuages &gt;200 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2411"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2417"/>
         <source>Frost on the instrument (e.g. due to freezing fog depositing rime).</source>
         <translation>Dépôt de givre sur l&apos;instrument.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2414"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2420"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center Norfolk, VA.</source>
         <translation>Identifiant de la station: %1. Ce raport a été issu par le Fleet Weather Center Norfolk, VA.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2417"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2423"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center San Diego, CA (FS).</source>
         <translation>Identifiant de la station: %1. Ce raport a été issu par le Fleet Weather Center San Diego, CA (FS).</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2430"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2436"/>
         <source>Total precipitation for the past hour: %1.</source>
         <translation>Précipitation totale dans la dernière heure : %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2434"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2440"/>
         <source>Snow depth on ground: %1</source>
         <translation>Hauteur de neige au sol : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2438"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2444"/>
         <source>Water equivalent of frozen precipitation for the last 3 or 6 hours: %1.</source>
         <translation>Equivalent liquide des précipitations gelées dans les 3 ou 6 dernières heures : %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2442"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2448"/>
         <source>Water equivalent of frozen precipitation for the last 3 hours: %1.</source>
         <translation>Equivalent liquide des précipitations gelées dans les 3 dernières heures : %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2446"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2452"/>
         <source>Water equivalent of frozen precipitation for the last 6 hours: %1.</source>
         <translation>Equivalent liquide des précipitations gelées dans les 6 dernières heures : %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2450"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2456"/>
         <source>Water equivalent of frozen precipitation for the last 24 hours: %1.</source>
         <translation>Equivalent liquide des précipitations gelées dans les 24 dernières heures : %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2454"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2460"/>
         <source>Snowfall for the last 6 hours: %1.</source>
         <translation>Chute de neige durant les 6 dernières heures : %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2458"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2464"/>
         <source>Water equivalent of snow on ground: %1.</source>
         <translation>Equivalent liquide des de la neige au sol : %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2462"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2468"/>
         <source>Ice accretion for the last hour: %1.</source>
         <translation>Accumulation de glace dans la dernière heure : %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2466"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2472"/>
         <source>Ice accretion for the last 3 hours: %1.</source>
         <translation>Accumulation de glace dans les 3 dernières heures : %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2470"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2476"/>
         <source>Ice accretion for the last 6 hours: %1.</source>
         <translation>Accumulation de glace dans les 6 dernières heures : %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2474"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2480"/>
         <source>Precipitation accumulation since last report: %1.</source>
         <translation>Accumulation des précipitations depuis le dernire rapport : %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2478"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2484"/>
         <source>Snow increasing rapidly. For the last hour snow increased by %1. Total snowfall: %2.</source>
         <translation>Chute de neige en augmentation rapide. Durant la dernière heure, la neige a augmenté de %1. Total : %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2483"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2489"/>
         <source>Rainfall for the last 10 minutes before report release time: %1. Rainfall since 9:00 local time: %2.</source>
         <translation>Pluie durant les 10 derières minutes depuis le dernière rapport : %1. Pluie depuis 9h00 local : %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2488"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2494"/>
         <source>Tipping bucket rain gauge INOP.</source>
         <translation>jauge de quantité de pluie INOP.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2491"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2497"/>
         <source>Freezing rain sensor INOP.</source>
         <translation>capteur de pluie givrant INOP.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2494"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2500"/>
         <source>Icing data is missing.</source>
         <translation>Données de givrage manquante.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2497"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2503"/>
         <source>Precipitation data is missing.</source>
         <translation>Données de précipitations manquantes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2511"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2517"/>
         <source>QNH: %1</source>
         <translation>QNH : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2514"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2520"/>
         <source>Forecast lowest QNH: %1</source>
         <translation>QNH minimum prévu : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2518"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2524"/>
         <source>QFE: %1</source>
         <translation>QFE : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2522"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2528"/>
         <source>Standard sea level pressure: %1</source>
         <translation>Pression standard au niveau de la mer : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2526"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2532"/>
         <source>QNH is not available</source>
         <translation>QNH indisponible</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2530"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2536"/>
         <source>Atmospheric pressure data is missing</source>
         <translation>Pression atmosphérique manquante</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2543"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2549"/>
         <source>3-hour pressure tendency is not reported. Absolute pressure change is %1.</source>
         <translation>Evolution de la pression durant les 3 dernières heures non rapportées. Changement absolu : %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2548"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2554"/>
         <source>Atmospheric pressure is %1</source>
         <translation>Pression atmosphérique %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2553"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2559"/>
         <source>During last 3 hours the atmospheric pressure was %1. Now the atmospheric pressure is %2 3h ago. Absolute pressure change is %3</source>
         <extracomment>Note: the string %2 will be replaced by a text such as &quot;less than&quot;</extracomment>
         <translation>Pression atmosphérique durant les 3 dernières heures %1. Pression il y a 3h %2. Changement absolu %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2566"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2572"/>
         <source>Issued at %1</source>
         <translation>Publié à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2575"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2581"/>
         <source>State of %1:</source>
         <translation>Etat de %1 :</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2581"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2587"/>
         <source>%1 of deposits, %2 of runway contaminated</source>
         <translation>%1 de dépôts, %2 de piste contaminé</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2588"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2594"/>
         <source>deposits on runway were cleared or ceased to exist</source>
         <translation>les dépôts sur la piste on été enlevés</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2593"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2599"/>
         <source>runway closed due to snow accumulation</source>
         <translation>piste fermée à cause de la neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2597"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2603"/>
         <source>Aerodrome closed due to snow accumulation</source>
         <translation>Aérodrome fermé à cause de la neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2600"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2606"/>
         <source>runway is not operational</source>
         <translation>piste non opérationelle</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2611"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2617"/>
         <source>Sea surface temperature: %1, %2</source>
         <translation>Temperature à la surface de l&apos;eau : %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2627"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2633"/>
         <source>Temperature %1, Dew point %2, Humidity %3%</source>
         <translation>Température %1, point de rosée %2, humidité %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2631"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2637"/>
         <source>Temperature %1, Dew point %2</source>
         <translation>Température %1, point de rosée %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2657"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2663"/>
         <source>No significant weather changes expected</source>
         <translation>Aucun changement significatif prévu</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2660"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2666"/>
         <source>Gradually changing</source>
         <translation>Changement graduel</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2662"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2676"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2668"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2682"/>
         <source>from %1</source>
         <translation>De %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2665"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2679"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2671"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2685"/>
         <source>until %1</source>
         <translation>à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2668"/>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2682"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2674"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2688"/>
         <source>at %1</source>
         <translation>à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2674"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2680"/>
         <source>Temporarily</source>
         <translation>Temporairement</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2690"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2696"/>
         <source>Forecast: rapid weather change at %1</source>
         <translation>Prévision : changement rapide de météo à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2695"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2701"/>
         <source>Forecast until %1</source>
         <translation>Prévision jusqu&apos;à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2700"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2706"/>
         <source>Forecast for %1</source>
         <translation>Prévision pour %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2706"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2712"/>
         <source>Forecast from %1 to %2 (%3)</source>
         <translation>Prévision de %1 à %2 (%3)</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2711"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2717"/>
         <source>Forecast from %1 to %2</source>
         <translation>Prévision de %1 à %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2718"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2724"/>
         <source>Forecast %1</source>
         <translation>Prévision %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2730"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2736"/>
         <source>Not recognised by parser: %1</source>
         <translation>Non reconnu: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2743"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2749"/>
         <source>Thunderstorm</source>
         <translation>Orage</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2747"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2753"/>
         <source>Cumulonimbus cloud(s)</source>
         <translation>Cumulonimbus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2751"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2757"/>
         <source>Cumulonimbus cloud(s) with mammatus</source>
         <translation>Cumulonimbus avec mammatus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2755"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2761"/>
         <source>Towering cumulus cloud(s)</source>
         <translation>Cumulus bourgeonnant(s)</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2759"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2765"/>
         <source>Altocumulus cloud(s)</source>
         <translation>Altocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2763"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2769"/>
         <source>Stratocumulus standing lenticular cloud(s)</source>
         <translation>Nuage(s) lenticulaire(s) Stratocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2767"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2773"/>
         <source>Altocumulus standing lenticular cloud(s)</source>
         <translation>Nuage(s) lenticulaire(s) Altocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2771"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2777"/>
         <source>Cirrocumulus standing lenticular cloud(s)</source>
         <translation>Nuage(s) lenticulaire(s) Cirrocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2775"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2781"/>
         <source>Rotor cloud(s)</source>
         <translation>Nuages rotors</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2779"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2785"/>
         <source>Virga</source>
         <translation>Virga</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2783"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2789"/>
         <source>Precipitation</source>
         <translation>Précipitation</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2787"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2793"/>
         <source>Fog</source>
         <translation>Brouillard</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2791"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2797"/>
         <source>Shallow fog</source>
         <translation>Brouillard superficiel</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2795"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2801"/>
         <source>Patches of fog</source>
         <translation>Bancs de brouillard</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2799"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2805"/>
         <source>Haze</source>
         <translation>Brume sèche</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2803"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2809"/>
         <source>Smoke</source>
         <translation>Fumée</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2807"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2813"/>
         <source>Blowing snow</source>
         <translation>Chasse haute de neige</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2811"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2817"/>
         <source>Blowing sand</source>
         <translation>Chasse haute de sable</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2815"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2821"/>
         <source>Blowing dust</source>
         <translation>Chasse haute de poussière</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2821"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2827"/>
         <source>%1 observed.</source>
         <translation>%1 observé.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2827"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2833"/>
         <source>Directions: %1</source>
         <translation>Directions : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2831"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2837"/>
         <source>Moving towards %1.</source>
         <extracomment>%1 is string like &apos;west&apos;</extracomment>
         <translation>%1 est comme &apos;Ouest&apos;</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2845"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2851"/>
         <source>Visibility is %1</source>
         <translation>Visibilité %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2849"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2855"/>
         <source>Visibility is %1. Station cannot differentiate the directional variation of visibility</source>
         <translation>Visibilité %1. La station ne peut prédire les changements directionels de la visibilité</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2853"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2859"/>
         <source>Visibility toward %1 is %2</source>
         <translation>Visibilité vers %1 de %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2858"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2864"/>
         <source>Visibility for %1 is %2</source>
         <translation>Visibilité pour %1 de %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2867"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2873"/>
         <source>Runway visual range for %1 is %2 and the trend is %3</source>
         <translation>Porté visuelle de piste pour %1 de %2 et la tendance est %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2872"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2878"/>
         <source>Runway visual range for %1 is %2</source>
         <translation>Porté visuelle de piste pour %1 de %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2877"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2883"/>
         <source>Visibility at surface level is %1</source>
         <translation>Visbilité à la surface de %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2881"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2887"/>
         <source>Visibility from air traffic control tower is %1</source>
         <translation>Visbilité depuis la tour de contrôle de %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2885"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2891"/>
         <source>Sector visibility is %1 in the following directions %2</source>
         <translation>Visbilité des secteurs %2 de %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2890"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2896"/>
         <source>Visibility is variable from %1 to %2</source>
         <translation>Visbilité variable de %1 à %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2895"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2901"/>
         <source>Directional visibility toward %1 is variable from %2 to %3</source>
         <translation>Visbilité directionelle vers %1 variable de %2 à %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2901"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2907"/>
         <source>Visibility for %1 is variable from %2 to %3</source>
         <translation>Visbilité pour %1 variable de %2 à %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2908"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2914"/>
         <source>Runway visual range for %1 is variable from %2 to %3 and the trend is %4</source>
         <translation>Portée visuelle de la piste pour %1 variable de %2 à %3, tendance %4</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2914"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2920"/>
         <source>Runway visual range for %1 is variable from %2 to %3</source>
         <translation>Portée visuelle de la pisté</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2920"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2926"/>
         <source>Sector visibility is variable from %1 to %2 in the following directions: %3</source>
         <translation>Visibilité des secteurs %3 variable de %1 à %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2926"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2932"/>
         <source>Visibility data missing</source>
         <translation>Données de visbilité manquantes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2929"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2935"/>
         <source>Runway visual range data is missing</source>
         <translation>Portée visuelle de piste manquante</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2932"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2938"/>
         <source>Runway visual range should be reported but is missing</source>
         <translation>Portée visuelle de piste manquante</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2938"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2944"/>
         <source>Visibility data not available for %1 in the direction of %2</source>
         <translation>Données de visibilité indisponibles pour %1 dans la direction %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2943"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2949"/>
         <source>Visibility data not available for %1</source>
         <translation>Données de visibilité indisponibles pour %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2947"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2953"/>
         <source>Visibility data not available in the direction of %1</source>
         <translation>Données de visibilité indisponibles dans la direction %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2950"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2956"/>
         <source>Visibility data not awailable</source>
         <translation>Données de visibilité indisponibles</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2978"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2985"/>
         <source>Recent weather: %1</source>
         <translation>Météo récente : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2981"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2988"/>
         <source>Precipitation beginning/ending time: %1</source>
         <translation>Temps de début/fin des pécipitations : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2984"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2991"/>
         <source>No significant weather</source>
         <translation>Pas de phénomène significatif</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2987"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2994"/>
         <source>Automated weather identifier INOP</source>
         <translation>Identifiant de la station automatique INOP</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2990"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2997"/>
         <source>Lightning detector INOP</source>
         <translation>Détecteur de foudre INOP</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2993"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3000"/>
         <source>Weather phenomena data is missing</source>
         <translation>Données de phénomène météo manquantes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2996"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3003"/>
         <source>Thunderstorm / lightning data is missing</source>
         <translation>Données orage / foudre manquantes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3010"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3017"/>
         <source>No wind</source>
         <translation>Pas de vent</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3014"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3021"/>
         <source>Wind direction %1, wind speed %2, gusts at %3</source>
         <translation>Direction du vent %1, vitesse %2, rafales à %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3019"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3026"/>
         <source>Wind direction %1, wind speed %2</source>
         <translation>Direction du vent %1, vitesse %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3024"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3031"/>
         <source>Variable wind direction %1 -- %2</source>
         <translation>Direction du vent variable entre %1 -- %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3030"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3037"/>
         <source>Wind direction %1 (%2 -- %3), wind speed %4, gusts at %5</source>
         <translation>Direction du vent %1 (%2 -- %3), vitesse %4, rafales à %5</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3037"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3044"/>
         <source>Wind direction %1 (%2 -- %3), wind speed %4</source>
         <translation>Direction du vent %1 (%2 -- %3), vitesse %4</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3045"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3052"/>
         <source>Wind shear at %1 AGL, wind direction %2, wind speed %3, gusts at %4</source>
         <translation>Cisaillement de vent à %1 AGL, direction %2, vitesse %3, rafales à %4</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3051"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3058"/>
         <source>Wind shear at %1 AGL, wind direction %2, wind speed %3</source>
         <translation>Cisaillement de vent à %1 AGL, direction %2, vitesse %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3059"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3066"/>
         <source>Wind direction changed at %1</source>
         <translation>Changement dans la direction du vent à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3061"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3068"/>
         <source>Wind direction changed recently</source>
         <translation>Changement récent dans la direction du vent</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3065"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3072"/>
         <source>Wind direction changed at %1 because of weather front passage</source>
         <translation>Changement dans la direction du vent à %1 à cause de passage de front</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3067"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3074"/>
         <source>Wind directed changed recently because of weather front passage</source>
         <translation>Changement récent dans la direction du vent à cause de paggae de front</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3070"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3077"/>
         <source>Peak wind observed at %1, wind direction %2, wind speed %3</source>
         <translation>Pic de vent à %1, direction %2, vitesse %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3077"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3084"/>
         <source>Wind shear between runway level and 1.600 ft at runway %1</source>
         <translation>Cisaillement de vent entre le niveau de la piste %1 et 1600 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3079"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3086"/>
         <source>Wind shear between runway level and 1.600 ft</source>
         <translation>Cisaillement de vent entre le niveau de la piste et 1600 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3082"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3089"/>
         <source>Potential wind shear</source>
         <translation>Possibilité de cisaillement de vent</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="3085"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3092"/>
         <source>Wind data is missing</source>
         <translation>Données de vent manquantes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2636"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2642"/>
         <source>Temperature data is missing</source>
         <translation>Données de tempréature manquantes</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2020"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2025"/>
         <source>Vertical visibility %1</source>
         <translation>Visibilité verticale %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2176"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2182"/>
         <source>%1 at heights from %2 to %3.</source>
         <translation>%1 à hauteur de %2 à %3.</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2261"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2267"/>
         <source>Low cloud layer: %1 • Mid cloud layer: %2 • High cloud layer: %3</source>
         <translation>Couche basse: %1 • Couche moyenne: %2 • Couche haute: %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2407"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2413"/>
         <source>Colour code RED: visibility &lt;800 m or lowest cloud base height &lt;200 ft</source>
         <translation>Code ROUGE : visibilité &lt;800 m ou base de nuage &lt;200 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_Decoder.cpp" line="2639"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2645"/>
         <source>Dew point data is missing</source>
         <translation>Données de point de rosée manquantes</translation>
     </message>
@@ -5927,23 +5931,23 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Weather::DownloadManager</name>
     <message>
-        <location filename="../../../src/Weather_DownloadManager.cpp" line="428"/>
+        <location filename="../../../src/weather/DownloadManager.cpp" line="453"/>
         <source>QNH: %1 hPa in %2, %3</source>
         <translation>QNH: %1 hPa à %2, %3</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_DownloadManager.cpp" line="342"/>
+        <location filename="../../../src/weather/DownloadManager.cpp" line="358"/>
         <source>Waiting for precise position…</source>
         <translation>En attente de la position…</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_DownloadManager.cpp" line="389"/>
-        <location filename="../../../src/Weather_DownloadManager.cpp" line="392"/>
+        <location filename="../../../src/weather/DownloadManager.cpp" line="406"/>
+        <location filename="../../../src/weather/DownloadManager.cpp" line="411"/>
         <source>SR %1, %2</source>
         <translation>SR %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_DownloadManager.cpp" line="391"/>
+        <location filename="../../../src/weather/DownloadManager.cpp" line="409"/>
         <source>SS %1, %2</source>
         <translation>SS %1, %2</translation>
     </message>
@@ -5951,42 +5955,42 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Weather::METAR</name>
     <message>
-        <location filename="../../../src/Weather_METAR.cpp" line="223"/>
+        <location filename="../../../src/weather/METAR.cpp" line="239"/>
         <source>VMC</source>
         <translation>VMC</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_METAR.cpp" line="221"/>
+        <location filename="../../../src/weather/METAR.cpp" line="237"/>
         <source>CAVOK</source>
         <translation>CAVOK</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_METAR.cpp" line="226"/>
+        <location filename="../../../src/weather/METAR.cpp" line="243"/>
         <source>marginal VMC</source>
         <translation>MVMC</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_METAR.cpp" line="229"/>
+        <location filename="../../../src/weather/METAR.cpp" line="246"/>
         <source>IMC</source>
         <translation>IMC</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_METAR.cpp" line="232"/>
+        <location filename="../../../src/weather/METAR.cpp" line="249"/>
         <source>low IMC</source>
         <translation>LIMC</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_METAR.cpp" line="240"/>
+        <location filename="../../../src/weather/METAR.cpp" line="257"/>
         <source>gusts of %1</source>
         <translation>rafales de %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_METAR.cpp" line="242"/>
+        <location filename="../../../src/weather/METAR.cpp" line="259"/>
         <source>wind at %1</source>
         <translation>vent à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Weather_METAR.cpp" line="252"/>
+        <location filename="../../../src/weather/METAR.cpp" line="272"/>
         <source>%1 %2: %3</source>
         <translation>%1 %2: %3</translation>
     </message>
