@@ -5268,11 +5268,6 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Zerrissene Wolkenfetzen unklarer Art</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="792"/>
-        <source>unknoen cloud type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../src/weather/Decoder.cpp" line="795"/>
         <location filename="../../../src/weather/Decoder.cpp" line="891"/>
         <source>cumulonimbus</source>
@@ -5681,6 +5676,11 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="1179"/>
         <source>recent drizzle</source>
         <translation>vor kurzem Sprühregen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="792"/>
+        <source>unknown cloud type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1182"/>

@@ -5069,11 +5069,6 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Pęknięte płaty chmur źle zdefiniowanych gatunków lub odmian</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="792"/>
-        <source>unknoen cloud type</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../src/weather/Decoder.cpp" line="942"/>
         <source>statute miles</source>
         <translation>mile ustawowe</translation>
@@ -5402,6 +5397,11 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="1179"/>
         <source>recent drizzle</source>
         <translation>niedawna mżawka</translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="792"/>
+        <source>unknown cloud type</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1182"/>

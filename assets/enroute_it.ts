@@ -4623,6 +4623,11 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Nubi spezzate -- nuvoloso</translation>
     </message>
     <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="792"/>
+        <source>unknown cloud type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/weather/Decoder.cpp" line="795"/>
         <location filename="../../../src/weather/Decoder.cpp" line="891"/>
         <source>cumulonimbus</source>
@@ -5239,11 +5244,6 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="780"/>
         <source>Broken cloud sheets of ill-defined species or varieties</source>
         <translation>Strati nuvolosi di tipo o varietà mal definite</translation>
-    </message>
-    <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="792"/>
-        <source>unknoen cloud type</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="942"/>

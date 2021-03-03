@@ -4053,6 +4053,11 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Nuages fragmentés de plusieurs types</translation>
     </message>
     <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="792"/>
+        <source>unknown cloud type</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/weather/Decoder.cpp" line="942"/>
         <source>statute miles</source>
         <translation>miles terrestres</translation>
@@ -4381,11 +4386,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/weather/Decoder.cpp" line="1179"/>
         <source>recent drizzle</source>
         <translation>bruine récente</translation>
-    </message>
-    <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="792"/>
-        <source>unknoen cloud type</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1182"/>
