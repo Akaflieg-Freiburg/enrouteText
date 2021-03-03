@@ -750,7 +750,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     </message>
 </context>
 <context>
-    <name>Downloadable</name>
+    <name>GeoMaps::Downloadable</name>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="58"/>
         <source>downloading … %1% complete</source>
@@ -1674,7 +1674,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     </message>
 </context>
 <context>
-    <name>GeoMapProvider</name>
+    <name>GeoMaps::GeoMapProvider</name>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="135"/>
         <source>No information available.</source>
@@ -3066,7 +3066,7 @@ at random if more than one device tries to access.&lt;/p&gt;
     </message>
 </context>
 <context>
-    <name>MapManager</name>
+    <name>GeoMaps::MapManager</name>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="31"/>
         <source>Map Library</source>

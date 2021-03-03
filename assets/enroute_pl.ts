@@ -734,7 +734,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     </message>
 </context>
 <context>
-    <name>Downloadable</name>
+    <name>GeoMaps::Downloadable</name>
     <message>
         <location filename="../../../src/Downloadable.cpp" line="58"/>
         <source>downloading … %1% complete</source>
@@ -1658,7 +1658,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     </message>
 </context>
 <context>
-    <name>GeoMapProvider</name>
+    <name>GeoMaps::GeoMapProvider</name>
     <message>
         <location filename="../../../src/GeoMapProvider.cpp" line="135"/>
         <source>No information available.</source>
@@ -2952,7 +2952,7 @@ Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
-    <name>MapManager</name>
+    <name>GeoMaps::MapManager</name>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="31"/>
         <source>Map Library</source>
