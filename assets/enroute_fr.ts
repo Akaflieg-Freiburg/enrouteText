@@ -593,209 +593,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     </message>
 </context>
 <context>
-    <name>GeoMaps::Downloadable</name>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="58"/>
-        <source>downloading … %1% complete</source>
-        <translation>téléchargement … %1% effectué</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="64"/>
-        <source>installed • %1</source>
-        <translation>installéé • %1</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="69"/>
-        <source>update available</source>
-        <translation>mise à jour disponible</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="72"/>
-        <source>no longer supported</source>
-        <translation>plus supportée</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="75"/>
-        <source>not installed</source>
-        <translation>pas installée</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="80"/>
-        <source>file size unknown</source>
-        <translation>taille du fichier inconnue</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="315"/>
-        <source>the remote server refused the connection (the server is not accepting requests)</source>
-        <translation>la connexion a été refusée par le serveur (le serveur n&apos;accèpte pas les requêtes)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="319"/>
-        <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
-        <translation>la connexion a été arrêtée prématurément par le serveur avant que la réponse ne soit reçue et traitée</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="324"/>
-        <source>the remote host name was not found (invalid hostname)</source>
-        <translation>le nom de l&apos;hôte n&apos;a pas été trouvée (nom invalide)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="328"/>
-        <source>the connection to the remote server timed out</source>
-        <translation>le délai d&apos;attente de la connexion au serveur a été dépassé</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="333"/>
-        <source>the operation was canceled via calls to abort() or close() before it was finished</source>
-        <translation>l&apos;opération a été annulée par un appel aux méthodes abort() ou close() avant d&apos;être terminée</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="337"/>
-        <source>the SSL/TLS handshake failed and the encrypted channel could not be established. The sslErrors() signal should have been emitted</source>
-        <translation>un canal sécurisé n&apos;a pas pu être établi car la négociaton SSL/TLS a échouée. Un signal sslErrors() devrait avoir été émis</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="342"/>
-        <source>the connection was broken due to disconnection from the network</source>
-        <translation>la connexion a été interrompue car vous avez été déconnecté du réseau</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="346"/>
-        <source>the connection was broken due to disconnection from the network or failure to start the network</source>
-        <translation>la connexion a été interrompue car vous avez été déconnecté du réseau ou le réseau n&apos;a pas pu s&apos;initialiser</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="351"/>
-        <source>the background request is not currently allowed due to platform policy</source>
-        <translation>les requêtes effectuées en tâche de fond ne sont pas permises par les règles de la platforme</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="355"/>
-        <source>while following redirects, the maximum limit was reached</source>
-        <translation>la limite du nombre de redirections a été atteinte</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="359"/>
-        <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
-        <translation>l&apos;API du réseau a détecté une redirection vers un protocol non crypté (http) à partir d&apos;un protocal crypté (https)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="364"/>
-        <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
-        <translation>la connexion au serveur proxy a été refusée (le serveur proxy n&apos;accepte pas de requêtes)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="369"/>
-        <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
-        <translation>la connexion a été arrêtée prématurément par le serveur proxy avant que la réponse ne soit reçue et traitée</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="374"/>
-        <source>the proxy host name was not found (invalid proxy hostname)</source>
-        <translation>le nom de l&apos;hôte du proxy n&apos;a pas été trouvée (nom du proxy invalide)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="378"/>
-        <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
-        <translation>le délai d&apos;attente de la connexion au serveur proxy a été dépassé ou le proxy n&apos;a pas répondu dans les temps</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="383"/>
-        <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
-        <translation>une authentification est requise par le serveur proxy, mais il n&apos;a accepté aucun des identifiants fournis (s&apos;il y en avait)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="388"/>
-        <source>the access to the remote content was denied (similar to HTTP error 403)</source>
-        <translation>l&apos;accès au contenu distant a été refusé (similaire à l&apos;erreur HTTP 403)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="392"/>
-        <source>the operation requested on the remote content is not permitted</source>
-        <translation>l&apos;opération demandée sur le contenu distant n&apos;est pas autorisée</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="396"/>
-        <source>the remote content was not found at the server (similar to HTTP error 404)</source>
-        <translation>le contenu distant n&apos;a pas été trouvé sur le serveur (similaire à l&apos;erreur HTTP 404)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="400"/>
-        <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
-        <translation>une authentification est requise par le serveur pour distribuer le contenu, mais il n&apos;a accepté aucun des identifiants fournis (s&apos;il y en avait)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="405"/>
-        <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
-        <translation>la requête devait être réenvoyée, mais cela a échoué, par exemple parce que les données envoyées n&apos;ont pas pu être relues</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="410"/>
-        <source>the request could not be completed due to a conflict with the current state of the resource</source>
-        <translation>la requête n&apos;a pas être traitée à cause d&apos;un conflit avec l&apos;état de la ressource</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="415"/>
-        <source>the requested resource is no longer available at the server</source>
-        <translation>la ressource demandée n&apos;est plus disponible sur le serveur</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="419"/>
-        <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
-        <translation>une condition innatendue a été rencontré par le serveur et il n&apos;a pas traiter la requête</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="425"/>
-        <source>the server does not support the functionality required to fulfill the request</source>
-        <translation>la fonctionnalité requise pour traiter la requête n&apos;est pas supportée par le serveur</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="429"/>
-        <source>the server is unable to handle the request at this time</source>
-        <translation>le serveur n&apos;est actuellement pas disponible pour traiter la requête</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="434"/>
-        <source>the Network Access API cannot honor the request because the protocol is not known</source>
-        <translation>l&apos;API réseau ne peut pas traiter la requête car le protocol est inconnu</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="438"/>
-        <source>the requested operation is invalid for this protocol</source>
-        <translation>l&apos;opération demandée est invalide pour ce protocol</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="442"/>
-        <source>an unknown network-related error was detected</source>
-        <translation>une erreur inconnue liée au réseau a été détectée</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="446"/>
-        <source>an unknown proxy-related error was detected</source>
-        <translation>une erreur inconnue liée au proxy a été détectée</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="450"/>
-        <source>an unknown error related to the remote content was detected</source>
-        <translation>une erreur inconnue liée au contenu distant a été détectée</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="454"/>
-        <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
-        <translation>un échec a été détecté dans le protocole (erreur de lecture, réponses invalides ou innattendues, etc.)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="459"/>
-        <source>an unknown error related to the server response was detected</source>
-        <translation>une erreur inconnue liée à la réponse du serveur a été détectée</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Downloadable.cpp" line="463"/>
-        <source>unknown</source>
-        <translation>inconnu</translation>
-    </message>
-</context>
-<context>
     <name>FirstRunDialog</name>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="32"/>
@@ -1363,31 +1160,305 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     </message>
 </context>
 <context>
+    <name>GeoMaps::Downloadable</name>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="58"/>
+        <source>downloading … %1% complete</source>
+        <translation>téléchargement … %1% effectué</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="64"/>
+        <source>installed • %1</source>
+        <translation>installéé • %1</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="69"/>
+        <source>update available</source>
+        <translation>mise à jour disponible</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="72"/>
+        <source>no longer supported</source>
+        <translation>plus supportée</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="75"/>
+        <source>not installed</source>
+        <translation>pas installée</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="80"/>
+        <source>file size unknown</source>
+        <translation>taille du fichier inconnue</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="315"/>
+        <source>the remote server refused the connection (the server is not accepting requests)</source>
+        <translation>la connexion a été refusée par le serveur (le serveur n&apos;accèpte pas les requêtes)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="319"/>
+        <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
+        <translation>la connexion a été arrêtée prématurément par le serveur avant que la réponse ne soit reçue et traitée</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="324"/>
+        <source>the remote host name was not found (invalid hostname)</source>
+        <translation>le nom de l&apos;hôte n&apos;a pas été trouvée (nom invalide)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="328"/>
+        <source>the connection to the remote server timed out</source>
+        <translation>le délai d&apos;attente de la connexion au serveur a été dépassé</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="333"/>
+        <source>the operation was canceled via calls to abort() or close() before it was finished</source>
+        <translation>l&apos;opération a été annulée par un appel aux méthodes abort() ou close() avant d&apos;être terminée</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="337"/>
+        <source>the SSL/TLS handshake failed and the encrypted channel could not be established. The sslErrors() signal should have been emitted</source>
+        <translation>un canal sécurisé n&apos;a pas pu être établi car la négociaton SSL/TLS a échouée. Un signal sslErrors() devrait avoir été émis</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="342"/>
+        <source>the connection was broken due to disconnection from the network</source>
+        <translation>la connexion a été interrompue car vous avez été déconnecté du réseau</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="346"/>
+        <source>the connection was broken due to disconnection from the network or failure to start the network</source>
+        <translation>la connexion a été interrompue car vous avez été déconnecté du réseau ou le réseau n&apos;a pas pu s&apos;initialiser</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="351"/>
+        <source>the background request is not currently allowed due to platform policy</source>
+        <translation>les requêtes effectuées en tâche de fond ne sont pas permises par les règles de la platforme</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="355"/>
+        <source>while following redirects, the maximum limit was reached</source>
+        <translation>la limite du nombre de redirections a été atteinte</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="359"/>
+        <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
+        <translation>l&apos;API du réseau a détecté une redirection vers un protocol non crypté (http) à partir d&apos;un protocal crypté (https)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="364"/>
+        <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
+        <translation>la connexion au serveur proxy a été refusée (le serveur proxy n&apos;accepte pas de requêtes)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="369"/>
+        <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
+        <translation>la connexion a été arrêtée prématurément par le serveur proxy avant que la réponse ne soit reçue et traitée</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="374"/>
+        <source>the proxy host name was not found (invalid proxy hostname)</source>
+        <translation>le nom de l&apos;hôte du proxy n&apos;a pas été trouvée (nom du proxy invalide)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="378"/>
+        <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
+        <translation>le délai d&apos;attente de la connexion au serveur proxy a été dépassé ou le proxy n&apos;a pas répondu dans les temps</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="383"/>
+        <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
+        <translation>une authentification est requise par le serveur proxy, mais il n&apos;a accepté aucun des identifiants fournis (s&apos;il y en avait)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="388"/>
+        <source>the access to the remote content was denied (similar to HTTP error 403)</source>
+        <translation>l&apos;accès au contenu distant a été refusé (similaire à l&apos;erreur HTTP 403)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="392"/>
+        <source>the operation requested on the remote content is not permitted</source>
+        <translation>l&apos;opération demandée sur le contenu distant n&apos;est pas autorisée</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="396"/>
+        <source>the remote content was not found at the server (similar to HTTP error 404)</source>
+        <translation>le contenu distant n&apos;a pas été trouvé sur le serveur (similaire à l&apos;erreur HTTP 404)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="400"/>
+        <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
+        <translation>une authentification est requise par le serveur pour distribuer le contenu, mais il n&apos;a accepté aucun des identifiants fournis (s&apos;il y en avait)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="405"/>
+        <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
+        <translation>la requête devait être réenvoyée, mais cela a échoué, par exemple parce que les données envoyées n&apos;ont pas pu être relues</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="410"/>
+        <source>the request could not be completed due to a conflict with the current state of the resource</source>
+        <translation>la requête n&apos;a pas être traitée à cause d&apos;un conflit avec l&apos;état de la ressource</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="415"/>
+        <source>the requested resource is no longer available at the server</source>
+        <translation>la ressource demandée n&apos;est plus disponible sur le serveur</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="419"/>
+        <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
+        <translation>une condition innatendue a été rencontré par le serveur et il n&apos;a pas traiter la requête</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="425"/>
+        <source>the server does not support the functionality required to fulfill the request</source>
+        <translation>la fonctionnalité requise pour traiter la requête n&apos;est pas supportée par le serveur</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="429"/>
+        <source>the server is unable to handle the request at this time</source>
+        <translation>le serveur n&apos;est actuellement pas disponible pour traiter la requête</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="434"/>
+        <source>the Network Access API cannot honor the request because the protocol is not known</source>
+        <translation>l&apos;API réseau ne peut pas traiter la requête car le protocol est inconnu</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="438"/>
+        <source>the requested operation is invalid for this protocol</source>
+        <translation>l&apos;opération demandée est invalide pour ce protocol</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="442"/>
+        <source>an unknown network-related error was detected</source>
+        <translation>une erreur inconnue liée au réseau a été détectée</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="446"/>
+        <source>an unknown proxy-related error was detected</source>
+        <translation>une erreur inconnue liée au proxy a été détectée</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="450"/>
+        <source>an unknown error related to the remote content was detected</source>
+        <translation>une erreur inconnue liée au contenu distant a été détectée</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="454"/>
+        <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
+        <translation>un échec a été détecté dans le protocole (erreur de lecture, réponses invalides ou innattendues, etc.)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="459"/>
+        <source>an unknown error related to the server response was detected</source>
+        <translation>une erreur inconnue liée à la réponse du serveur a été détectée</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/Downloadable.cpp" line="463"/>
+        <source>unknown</source>
+        <translation>inconnu</translation>
+    </message>
+</context>
+<context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/GeoMapProvider.cpp" line="135"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="135"/>
         <source>No information available.</source>
         <translation>Aucune information disponible</translation>
     </message>
     <message>
-        <location filename="../../../src/GeoMapProvider.cpp" line="138"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="138"/>
         <source>Installed</source>
         <translation>Installée</translation>
     </message>
     <message>
-        <location filename="../../../src/GeoMapProvider.cpp" line="140"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="140"/>
         <source>File Size</source>
         <translation>Taille du fichier</translation>
     </message>
     <message>
-        <location filename="../../../src/GeoMapProvider.cpp" line="154"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="154"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>Les données de carte ont été compilées depuis les sources suivantes.</translation>
     </message>
     <message>
-        <location filename="../../../src/GeoMapProvider.cpp" line="184"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="184"/>
         <source>Internal Map Data</source>
         <translation>Données de carte internes</translation>
+    </message>
+</context>
+<context>
+    <name>GeoMaps::MapManager</name>
+    <message>
+        <source>Map Library</source>
+        <translation type="vanished">Bibliothèque de carte</translation>
+    </message>
+    <message>
+        <source>aviation maps</source>
+        <translation type="vanished">cartes aéronautiques</translation>
+    </message>
+    <message>
+        <source>base maps</source>
+        <translation type="vanished">fonds de carte</translation>
+    </message>
+    <message>
+        <source>Map Info</source>
+        <translation type="vanished">Information sur la carte</translation>
+    </message>
+    <message>
+        <source>Map Info: </source>
+        <translation type="vanished">Information sur la carte :</translation>
+    </message>
+    <message>
+        <source>Uninstall</source>
+        <translation type="vanished">Désinstaller</translation>
+    </message>
+    <message>
+        <source>Download Error</source>
+        <translation type="vanished">Erreur de téléchargement</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;p&gt;Echec du téléchargement de &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Cause: %2.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>Update list of maps</source>
+        <translation type="vanished">Mettre à jour la liste des cartes</translation>
+    </message>
+    <message>
+        <source>Download all updates…</source>
+        <translation type="vanished">Télécharger toutes les mises à jour…</translation>
+    </message>
+    <message>
+        <source>Aviation Maps</source>
+        <translation type="vanished">Cartes aéronautiques</translation>
+    </message>
+    <message>
+        <source>Base Maps</source>
+        <translation type="vanished">Fonds de carte</translation>
+    </message>
+    <message>
+        <source>How to request additional aviation maps…</source>
+        <translation type="vanished">Comment demander une nouvelle carte aéronautique…</translation>
+    </message>
+    <message>
+        <source>Request additional aviation maps</source>
+        <translation type="vanished">Demander une nouvelle carte aéronautique</translation>
+    </message>
+    <message>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n&apos;a pas encore été téléchargée du serveur. Vous pouvez redémarrer le téléchargement manuellement en utilisant &apos;Mettre à jour&apos; depuis le menu. Le menu est accessible en cliquant sur le symbole &apos;&amp;#8942;&apos; dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
+        <translation type="vanished">&lt;h3&gt;Téléchargement en cours…&lt;/h3&gt;&lt;p&gt;Merci de patienter pendant que la liste des cartes est téléchargée depuis le serveur…&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;p&gt;Echec du téléchargement de la liste des cartes aéronautiques.&lt;/p&gt;&lt;p&gt;Cause: %1.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -2002,93 +2073,93 @@ at random if more than one device tries to access.&lt;/p&gt;
     </message>
 </context>
 <context>
-    <name>GeoMaps::MapManager</name>
+    <name>MapManager</name>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="31"/>
         <source>Map Library</source>
-        <translation>Bibliothèque de carte</translation>
+        <translation type="unfinished">Bibliothèque de carte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="59"/>
         <source>aviation maps</source>
-        <translation>cartes aéronautiques</translation>
+        <translation type="unfinished">cartes aéronautiques</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="62"/>
         <source>base maps</source>
-        <translation>fonds de carte</translation>
+        <translation type="unfinished">fonds de carte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="150"/>
         <source>Map Info</source>
-        <translation>Information sur la carte</translation>
+        <translation type="unfinished">Information sur la carte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="154"/>
         <source>Map Info: </source>
-        <translation>Information sur la carte :</translation>
+        <translation type="unfinished">Information sur la carte :</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="162"/>
         <source>Uninstall</source>
-        <translation>Désinstaller</translation>
+        <translation type="unfinished">Désinstaller</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="178"/>
         <location filename="../../../src/qml/pages/MapManager.qml" line="479"/>
         <source>Download Error</source>
-        <translation>Erreur de téléchargement</translation>
+        <translation type="unfinished">Erreur de téléchargement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="179"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Echec du téléchargement de &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Cause: %2.&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;Echec du téléchargement de &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Cause: %2.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="237"/>
         <source>Update list of maps</source>
-        <translation>Mettre à jour la liste des cartes</translation>
+        <translation type="unfinished">Mettre à jour la liste des cartes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="249"/>
         <location filename="../../../src/qml/pages/MapManager.qml" line="464"/>
         <source>Download all updates…</source>
-        <translation>Télécharger toutes les mises à jour…</translation>
+        <translation type="unfinished">Télécharger toutes les mises à jour…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="274"/>
         <source>Aviation Maps</source>
-        <translation>Cartes aéronautiques</translation>
+        <translation type="unfinished">Cartes aéronautiques</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="277"/>
         <source>Base Maps</source>
-        <translation>Fonds de carte</translation>
+        <translation type="unfinished">Fonds de carte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="318"/>
         <source>How to request additional aviation maps…</source>
-        <translation>Comment demander une nouvelle carte aéronautique…</translation>
+        <translation type="unfinished">Comment demander une nouvelle carte aéronautique…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="325"/>
         <source>Request additional aviation maps</source>
-        <translation>Demander une nouvelle carte aéronautique</translation>
+        <translation type="unfinished">Demander une nouvelle carte aéronautique</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="399"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n&apos;a pas encore été téléchargée du serveur. Vous pouvez redémarrer le téléchargement manuellement en utilisant &apos;Mettre à jour&apos; depuis le menu. Le menu est accessible en cliquant sur le symbole &apos;&amp;#8942;&apos; dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n&apos;a pas encore été téléchargée du serveur. Vous pouvez redémarrer le téléchargement manuellement en utilisant &apos;Mettre à jour&apos; depuis le menu. Le menu est accessible en cliquant sur le symbole &apos;&amp;#8942;&apos; dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="425"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Téléchargement en cours…&lt;/h3&gt;&lt;p&gt;Merci de patienter pendant que la liste des cartes est téléchargée depuis le serveur…&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;h3&gt;Téléchargement en cours…&lt;/h3&gt;&lt;p&gt;Merci de patienter pendant que la liste des cartes est téléchargée depuis le serveur…&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="480"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Echec du téléchargement de la liste des cartes aéronautiques.&lt;/p&gt;&lt;p&gt;Cause: %1.&lt;/p&gt;</translation>
+        <translation type="unfinished">&lt;p&gt;Echec du téléchargement de la liste des cartes aéronautiques.&lt;/p&gt;&lt;p&gt;Cause: %1.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
