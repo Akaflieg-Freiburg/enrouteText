@@ -570,42 +570,42 @@ la nostra App.&lt;/p&gt;
 <context>
     <name>Clock</name>
     <message>
-        <location filename="../../../src/Clock.cpp" line="60"/>
+        <location filename="../../../src/Clock.cpp" line="63"/>
         <source>just now</source>
         <translation>ora</translation>
     </message>
     <message>
-        <location filename="../../../src/Clock.cpp" line="67"/>
+        <location filename="../../../src/Clock.cpp" line="71"/>
         <source>%1h</source>
         <translation>%1h</translation>
     </message>
     <message>
-        <location filename="../../../src/Clock.cpp" line="69"/>
+        <location filename="../../../src/Clock.cpp" line="73"/>
         <source>%1min</source>
         <translation>%1min</translation>
     </message>
     <message>
-        <location filename="../../../src/Clock.cpp" line="71"/>
+        <location filename="../../../src/Clock.cpp" line="75"/>
         <source>%1h and %2min</source>
         <translation>%1h e %2min</translation>
     </message>
     <message>
-        <location filename="../../../src/Clock.cpp" line="74"/>
+        <location filename="../../../src/Clock.cpp" line="79"/>
         <source>%1 ago</source>
         <translation>%1 fa</translation>
     </message>
     <message>
-        <location filename="../../../src/Clock.cpp" line="76"/>
+        <location filename="../../../src/Clock.cpp" line="81"/>
         <source>in %1</source>
         <translation>in %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Clock.cpp" line="93"/>
+        <location filename="../../../src/Clock.cpp" line="99"/>
         <source>yesterday %1</source>
         <translation>ieri %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Clock.cpp" line="97"/>
+        <location filename="../../../src/Clock.cpp" line="103"/>
         <source>tomorrow %1</source>
         <translation>domani %1</translation>
     </message>
