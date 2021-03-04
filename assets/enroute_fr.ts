@@ -3050,6 +3050,49 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Dernière erreur</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="178"/>
+        <source>
+&lt;h3&gt;How to connect your device to the traffic receiver&lt;/h3&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Make sure that your traffic receiver has an integrated Wi-Fi interface that acts as a wireless access point. Bluetooth devices are currently not supported.&lt;/li&gt;
+&lt;li&gt;Use the &apos;WLAN Settings&apos; of your device to enter the WLAN network deployed by your traffic receiver.&lt;/li&gt;
+&lt;li&gt;Once your device has entered the WLAN network, use the button at the bottom of the page to connect the &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; to the traffic data stream.&lt;/li&gt;
+&lt;/ul&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="189"/>
+        <source>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is trying to connect to the traffic receiver&apos;s data stream. If no connection has been established after a few seconds, somthing has gone wrong.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Make sure that your device has entered the WLAN network deployed by your traffic receiver.  If not, then use the button at the bottem of the screen to abort the connection attempt.&lt;/li&gt;
+&lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
+&lt;/ul&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="199"/>
+        <source>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now set up to receive traffic data. If no data arrives after a few seconds, somthing has gone wrong.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Make sure that the device at the IP address 192.168.1.1 is indeed a traffic receiver.&lt;/li&gt;
+&lt;li&gt;Some traffic receivers protect the data stream with an additional password. This is currently not supported.&lt;/li&gt;
+&lt;/ul&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="208"/>
+        <source>
+&lt;p&gt;Well done! Go flying. Give yourself a pat on the back.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="232"/>
         <source>Connect to Traffic Receiver</source>
         <translation>Se connecteur au récepteur de traffic</translation>
