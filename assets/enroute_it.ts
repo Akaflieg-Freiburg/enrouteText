@@ -4256,18 +4256,18 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>leggi i TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="363"/>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="434"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="364"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="435"/>
         <source>New flight route: direct to %1.</source>
         <translation>Nuovo itinerario di volo: diretto a %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="381"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="382"/>
         <source>Added %1 to route.</source>
         <translation>Aggiunto %1 all&apos;itinerario.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="397"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="398"/>
         <source>Removed %1 from route.</source>
         <translation>Rimosso %1 dall&apos;itinerario.</translation>
     </message>
@@ -4293,12 +4293,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">al volo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="410"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="411"/>
         <source>Overwrite current flight route?</source>
         <translation>Sovrascrivere ll&apos;itinerario corrente?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="420"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="421"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation>Una volta sovrascritto, ll&apos;itinerario di volo non potrà essere ripristinato.</translation>
     </message>
