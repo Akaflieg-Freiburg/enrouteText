@@ -3027,89 +3027,89 @@ Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="31"/>
         <source>Map Library</source>
-        <translation type="unfinished">Biblioteka map</translation>
+        <translation>Biblioteka map</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="59"/>
         <source>aviation maps</source>
-        <translation type="unfinished">mapy lotnicze</translation>
+        <translation>mapy lotnicze</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="62"/>
         <source>base maps</source>
-        <translation type="unfinished">mapy podstawowe</translation>
+        <translation>mapy podstawowe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="150"/>
         <source>Map Info</source>
-        <translation type="unfinished">Informacja dot. mapy</translation>
+        <translation>Informacja dot. mapy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="154"/>
         <source>Map Info: </source>
-        <translation type="unfinished">Informacja mapy: </translation>
+        <translation>Informacja mapy: </translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="162"/>
         <source>Uninstall</source>
-        <translation type="unfinished">Odinstaluj</translation>
+        <translation>Odinstaluj</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="178"/>
         <location filename="../../../src/qml/pages/MapManager.qml" line="479"/>
         <source>Download Error</source>
-        <translation type="unfinished">Błąd pobierania</translation>
+        <translation>Błąd pobierania</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="179"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Błąd przy pobieraniu &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Powód: %2.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Błąd przy pobieraniu &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Powód: %2.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="237"/>
         <source>Update list of maps</source>
-        <translation type="unfinished">Zaktualizuj listę map</translation>
+        <translation>Zaktualizuj listę map</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="249"/>
         <location filename="../../../src/qml/pages/MapManager.qml" line="464"/>
         <source>Download all updates…</source>
-        <translation type="unfinished">Pobierz wszystkie aktualizacje...</translation>
+        <translation>Pobierz wszystkie aktualizacje...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="274"/>
         <source>Aviation Maps</source>
-        <translation type="unfinished">Mapy Lotnicze</translation>
+        <translation>Mapy Lotnicze</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="277"/>
         <source>Base Maps</source>
-        <translation type="unfinished">Mapy podstawowe</translation>
+        <translation>Mapy podstawowe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="318"/>
         <source>How to request additional aviation maps…</source>
-        <translation type="unfinished">Jak zażądać dodatkowych map nawigacyjnych...</translation>
+        <translation>Jak zażądać dodatkowych map nawigacyjnych...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="325"/>
         <source>Request additional aviation maps</source>
-        <translation type="unfinished">Zażądaj dodatkowych map nawigacyjnych</translation>
+        <translation>Zażądaj dodatkowych map nawigacyjnych</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="399"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Lista dostępnych map nie została jeszcze pobrana z serwera. Możesz ręcznie zrestartować pobieranie wybierając element Aktualizacja z menu. Aby znaleźć menu, poszukuj symbolu &apos;&amp;#8942; w prawym górnym rogu ekranu.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Lista dostępnych map nie została jeszcze pobrana z serwera. Możesz ręcznie zrestartować pobieranie wybierając element Aktualizacja z menu. Aby znaleźć menu, poszukuj symbolu &apos;&amp;#8942; w prawym górnym rogu ekranu.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="425"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Pobieranie w toku...&lt;/h3&gt;&lt;p&gt;Proszę poczekaj, gdy aplikacja pobierze z serwera listę dostępnych map...&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Pobieranie w toku...&lt;/h3&gt;&lt;p&gt;Proszę poczekaj, gdy aplikacja pobierze z serwera listę dostępnych map...&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="480"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Nie udało się pobrać listy map lotniczych.&lt;/p&gt;&lt;p&gt;Powód: %1.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Nie udało się pobrać listy map lotniczych.&lt;/p&gt;&lt;p&gt;Powód: %1.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -4055,7 +4055,15 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 &lt;li&gt;Once your device has entered the WLAN network, use the button at the bottom of the page to connect the &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; to the traffic data stream.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Jak podłączyć twoje urządzenie do odbiornika ruchu lotniczego&lt;/h3&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Upewnij się, że twój odbiornik ruchu ma wbudowany interfejs Wi-Fi, który działa jako bezprzewodowy punkt dostępu. Urządzenia Bluetooth nie są obecnie wspierane.&lt;/li&gt;
+&lt;li&gt;Użyj ustawień &apos;Ustawienia WLAN&apos; twojego urząðzenia, aby podłączyć się do sieci WLAN uruchomionej przez odbiornik ruchu lotniczego.&lt;/li&gt;
+&lt;li&gt;Jak twoje urządzenie dołączy się do sieci WLAN, użyj przycisku na dole tej strony aby podłączyć &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do strumienia danych ruchu lotniczego.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="189"/>
@@ -4067,7 +4075,14 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 &lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; próbuje podłączyć się do strumienia danych obiornika ruchu lotniczego. Jeśli połączenie nie zostanie ustanowione po kilku sekundach, coś poszło źle.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Upewnij się, że twoje urządzenie dołączyło się do sieci WLAN uruchomionej przez odbiornik ruchu lotniczego.  Jeśli nie, użyj przycisku na dole ekranu aby przerwać próby połączenia.&lt;/li&gt;
+&lt;li&gt;Kliknij na znak zapytania w tytule strony aby otworzyć dialog z szczegółową pomocą.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="199"/>
@@ -4079,13 +4094,21 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 &lt;li&gt;Some traffic receivers protect the data stream with an additional password. This is currently not supported.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; jest ustawiony aby odbierać dane ruchu lotniczego. Jeśli dane nie zaczną się pojawiać po kilku sekundach, coś poszło źle.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Upewnij się, że urządzenie o adresie IP 192.168.1.1 jest w rzeczywistości odbiornikiem ruchu lotniczego.&lt;/li&gt;
+&lt;li&gt;Niektóre odbiorniki zabezpieczają strumień danych dodatkowym hasłem. To nie jest obecnie wspierane.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="208"/>
         <source>
 &lt;p&gt;Well done! Go flying. Give yourself a pat on the back.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Dobra robota! Do lotu gotowi start. Poklep się po plecach.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="232"/>
@@ -5515,7 +5538,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="792"/>
         <source>unknown cloud type</source>
-        <translation type="unfinished"></translation>
+        <translation>niezany typ chmur</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1182"/>
