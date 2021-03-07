@@ -4686,7 +4686,14 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 &lt;li&gt;Once your device has entered the WLAN network, use the button at the bottom of the page to connect the &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; to the traffic data stream.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Mit dem Verkehrsdatenempfänger verbinden&lt;/h3&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Stellen Sie sicher, dass Ihr Verkehrdatenempfänger über Wi-Fi verfügt und sich als WLAN-Access-Point einsetzen lässt. Bluetooth wird bisher nicht unterstützt.&lt;/li&gt;
+&lt;li&gt;Wählen Sie in den WLAN-Einstellungen Ihres Geräts das WLAN-Netz Ihres Verkehrdatenempfängers aus.&lt;/li&gt;
+&lt;li&gt;Anschließend verbinden Sie &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; mit dem Knopf unten auf der Seite mit dem Verkehrsdatenstrom.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="189"/>
@@ -4698,7 +4705,13 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 &lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; versucht sich mit dem Datenstrom des Verkehrsdatenempfängers zu verbinden. Wenn das länger als ein paar Sekunden dauert, ist etwas schiefgegangen.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Stellen Sie sicher, dass Ihr Gerät mit dem WLAN Ihres Verkehrsdatenempfängers verbunden ist. Falls nicht, brechen Sie den Verbindungsversuch mit dem Knopf unten auf dem Schirm ab.&lt;/li&gt;
+&lt;li&gt;Öffnen Sie über das Fragezeichen im Seitentitel einen detaillierteren Hilfedialog.&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="199"/>
@@ -4710,13 +4723,20 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 &lt;li&gt;Some traffic receivers protect the data stream with an additional password. This is currently not supported.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ist jetzt für den Empfang von Verkehrsdaten eingerichtet. Sollten nach ein paar Sekunden noch keine ankommen, ist etwas schiefgegangen.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Stellen Sie sicher, dass das Gerät auf der IP-Adresse 192.168.1.1 wirklich ein Verkehrsdatenempfänger ist.&lt;/li&gt;
+&lt;li&gt;Manche Verkehrsdatenempfänger schützen den Datenstrom mit einem Passwort. Das wird bisher nicht unterstützt.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="208"/>
         <source>
 &lt;p&gt;Well done! Go flying. Give yourself a pat on the back.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Gut gemacht, Sie dürfen sich auf die Schulter klopfen! Gehen Sie fliegen!&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="232"/>
