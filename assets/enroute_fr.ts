@@ -1391,77 +1391,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     </message>
 </context>
 <context>
-    <name>GeoMaps::MapManager</name>
-    <message>
-        <source>Map Library</source>
-        <translation type="vanished">Bibliothèque de carte</translation>
-    </message>
-    <message>
-        <source>aviation maps</source>
-        <translation type="vanished">cartes aéronautiques</translation>
-    </message>
-    <message>
-        <source>base maps</source>
-        <translation type="vanished">fonds de carte</translation>
-    </message>
-    <message>
-        <source>Map Info</source>
-        <translation type="vanished">Information sur la carte</translation>
-    </message>
-    <message>
-        <source>Map Info: </source>
-        <translation type="vanished">Information sur la carte :</translation>
-    </message>
-    <message>
-        <source>Uninstall</source>
-        <translation type="vanished">Désinstaller</translation>
-    </message>
-    <message>
-        <source>Download Error</source>
-        <translation type="vanished">Erreur de téléchargement</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Echec du téléchargement de &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Cause: %2.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>Update list of maps</source>
-        <translation type="vanished">Mettre à jour la liste des cartes</translation>
-    </message>
-    <message>
-        <source>Download all updates…</source>
-        <translation type="vanished">Télécharger toutes les mises à jour…</translation>
-    </message>
-    <message>
-        <source>Aviation Maps</source>
-        <translation type="vanished">Cartes aéronautiques</translation>
-    </message>
-    <message>
-        <source>Base Maps</source>
-        <translation type="vanished">Fonds de carte</translation>
-    </message>
-    <message>
-        <source>How to request additional aviation maps…</source>
-        <translation type="vanished">Comment demander une nouvelle carte aéronautique…</translation>
-    </message>
-    <message>
-        <source>Request additional aviation maps</source>
-        <translation type="vanished">Demander une nouvelle carte aéronautique</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n&apos;a pas encore été téléchargée du serveur. Vous pouvez redémarrer le téléchargement manuellement en utilisant &apos;Mettre à jour&apos; depuis le menu. Le menu est accessible en cliquant sur le symbole &apos;&amp;#8942;&apos; dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Téléchargement en cours…&lt;/h3&gt;&lt;p&gt;Merci de patienter pendant que la liste des cartes est téléchargée depuis le serveur…&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Echec du téléchargement de la liste des cartes aéronautiques.&lt;/p&gt;&lt;p&gt;Cause: %1.&lt;/p&gt;</translation>
-    </message>
-</context>
-<context>
     <name>ImportManager</name>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="41"/>
@@ -1727,36 +1656,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         </translation>
     </message>
     <message>
-        <source>&lt;h3&gt;License&lt;/h3&gt;
-
-&lt;p&gt;This program is licensed under the &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; or, at your choice, any later version of this license.&lt;/p&gt;
-
-&lt;h4&gt;Third-Party software and data included in this program&lt;/h4&gt;
-
-&lt;p&gt;This program includes several libraries from the &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt; project, licensed under the &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;. This program includes the library &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;MIT license&lt;/a&gt;. This program includes the library &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, licensed under the &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;This program includes versions of the &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;Google Roboto Fonts&lt;/a&gt;, which are licensed under the &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; license. This program includes several &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;Google Material Design Icons&lt;/a&gt;, which are licensed under the &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; license.&lt;/p&gt;
-
-&lt;p&gt;The style specification of the basemap is a modified version of the &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, which is in turn originally derived from OSM Bright from Mapbox Open Styles. The code is licenses under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. The design is derived (although heavily altered) from OSM Bright from Mapbox Open Styles which is licensed under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. The map is displaying and styling modified data from &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; with &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
-
-&lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation type="vanished">
-&lt;h3&gt;Licence&lt;/h3&gt;
-
-&lt;p&gt;Ce logiciel est licencié sous la &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; ou tout autre version plus récente de la même licence.&lt;/p&gt;
-
-&lt;h4&gt;Autres logiciels et données inclus dans l&apos;application&lt;/h4&gt;
-
-&lt;p&gt;Ce programme inclut plusieurs bibliothèques du projet &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt;, licencié sous la licence &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, licenciée sous la &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;licence MIT&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, licenciée sous la licence &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ce programme inclut plusieurs versions des polices &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;Google Roboto Fonts&lt;/a&gt;, licenciées sous la licence &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt;. Ce programme inclut plusieurs icônes &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;Google Material Design Icons&lt;/a&gt;, licenciées sous la &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Le style des fonds de carte est basé sur une version modifiée du style &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, lui-même dérivé du OSM Bright de Mapbox Open Styles. Le code est licencié sous la licence &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. Le design provient (même s&apos;il a été largement modifié) du OSM Bright from Mapbox Open Styles, licencié sous la licence &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. Les données affichées sur la carte proviennent de &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; sous la licence &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
-
-&lt;p&gt;Les données aéronautiques proviennent de &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, et sont licenciées sous la licence &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. Certaines données et cartes proviennent également de &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, et sont licenciées sous la licence &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="332"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
@@ -1848,7 +1747,21 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 &lt;p&gt;The style specification of the basemap is a modified version of the &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, which is in turn originally derived from OSM Bright from Mapbox Open Styles. The code is licenses under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. The design is derived (although heavily altered) from OSM Bright from Mapbox Open Styles which is licensed under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. The map is displaying and styling modified data from &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; with &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
 
                   &lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Licence&lt;/h3&gt;
+
+&lt;p&gt;Ce logiciel est licencié sous la &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; ou tout autre version plus récente de la même licence.&lt;/p&gt;
+
+&lt;h4&gt;Autres logiciels et données inclus dans l&apos;application&lt;/h4&gt;
+
+&lt;p&gt;Ce programme inclut plusieurs bibliothèques du projet &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt;, licencié sous la licence &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, licenciée sous la &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;licence MIT&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, licenciée sous la licence &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ce programme inclut plusieurs versions des polices &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;Google Roboto Fonts&lt;/a&gt;, licenciées sous la licence &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt;. Ce programme inclut plusieurs icônes &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;Google Material Design Icons&lt;/a&gt;, licenciées sous la &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Le style des fonds de carte est basé sur une version modifiée du style &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, lui-même dérivé du OSM Bright de Mapbox Open Styles. Le code est licencié sous la licence &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. Le design provient (même s&apos;il a été largement modifié) du OSM Bright from Mapbox Open Styles, licencié sous la licence &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. Les données affichées sur la carte proviennent de &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; sous la licence &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
+
+&lt;p&gt;Les données aéronautiques proviennent de &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, et sont licenciées sous la licence &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. Certaines données et cartes proviennent également de &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, et sont licenciées sous la licence &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="202"/>
@@ -2077,89 +1990,89 @@ at random if more than one device tries to access.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="31"/>
         <source>Map Library</source>
-        <translation type="unfinished">Bibliothèque de carte</translation>
+        <translation>Bibliothèque de carte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="59"/>
         <source>aviation maps</source>
-        <translation type="unfinished">cartes aéronautiques</translation>
+        <translation>cartes aéronautiques</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="62"/>
         <source>base maps</source>
-        <translation type="unfinished">fonds de carte</translation>
+        <translation>fonds de carte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="150"/>
         <source>Map Info</source>
-        <translation type="unfinished">Information sur la carte</translation>
+        <translation>Information sur la carte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="154"/>
         <source>Map Info: </source>
-        <translation type="unfinished">Information sur la carte :</translation>
+        <translation>Information sur la carte :</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="162"/>
         <source>Uninstall</source>
-        <translation type="unfinished">Désinstaller</translation>
+        <translation>Désinstaller</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="178"/>
         <location filename="../../../src/qml/pages/MapManager.qml" line="479"/>
         <source>Download Error</source>
-        <translation type="unfinished">Erreur de téléchargement</translation>
+        <translation>Erreur de téléchargement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="179"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Echec du téléchargement de &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Cause: %2.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Echec du téléchargement de &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Cause: %2.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="237"/>
         <source>Update list of maps</source>
-        <translation type="unfinished">Mettre à jour la liste des cartes</translation>
+        <translation>Mettre à jour la liste des cartes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="249"/>
         <location filename="../../../src/qml/pages/MapManager.qml" line="464"/>
         <source>Download all updates…</source>
-        <translation type="unfinished">Télécharger toutes les mises à jour…</translation>
+        <translation>Télécharger toutes les mises à jour…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="274"/>
         <source>Aviation Maps</source>
-        <translation type="unfinished">Cartes aéronautiques</translation>
+        <translation>Cartes aéronautiques</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="277"/>
         <source>Base Maps</source>
-        <translation type="unfinished">Fonds de carte</translation>
+        <translation>Fonds de carte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="318"/>
         <source>How to request additional aviation maps…</source>
-        <translation type="unfinished">Comment demander une nouvelle carte aéronautique…</translation>
+        <translation>Comment demander une nouvelle carte aéronautique…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="325"/>
         <source>Request additional aviation maps</source>
-        <translation type="unfinished">Demander une nouvelle carte aéronautique</translation>
+        <translation>Demander une nouvelle carte aéronautique</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="399"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n&apos;a pas encore été téléchargée du serveur. Vous pouvez redémarrer le téléchargement manuellement en utilisant &apos;Mettre à jour&apos; depuis le menu. Le menu est accessible en cliquant sur le symbole &apos;&amp;#8942;&apos; dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n&apos;a pas encore été téléchargée du serveur. Vous pouvez redémarrer le téléchargement manuellement en utilisant &apos;Mettre à jour&apos; depuis le menu. Le menu est accessible en cliquant sur le symbole &apos;&amp;#8942;&apos; dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="425"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Téléchargement en cours…&lt;/h3&gt;&lt;p&gt;Merci de patienter pendant que la liste des cartes est téléchargée depuis le serveur…&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Téléchargement en cours…&lt;/h3&gt;&lt;p&gt;Merci de patienter pendant que la liste des cartes est téléchargée depuis le serveur…&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="480"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Echec du téléchargement de la liste des cartes aéronautiques.&lt;/p&gt;&lt;p&gt;Cause: %1.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Echec du téléchargement de la liste des cartes aéronautiques.&lt;/p&gt;&lt;p&gt;Cause: %1.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -3012,37 +2925,29 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Tentative de connexion au récepteur à l&apos;adresse IP 192.168.1.1, port 2000 …</translation>
     </message>
     <message>
-        <source>Connected to traffic receiver at IP address 192.168.1.1, port 2000. Waiting for data …</source>
-        <translation type="vanished">Connecté au récepteur à l&apos;adresse IP 192.168.1.1, port 2000. En attente de données …</translation>
-    </message>
-    <message>
-        <source>Connected to traffic receiver at IP address 192.168.1.1, port 2000. Receiving traffic information …</source>
-        <translation type="vanished">Connecté au récepteur à l&apos;adresse IP 192.168.1.1, port 2000. Réception de l&apos;information de traffic …</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="125"/>
         <source>Connected to traffic receiver at IP address 192.168.1.1, port 2000.</source>
-        <translation type="unfinished"></translation>
+        <translation>Connecté au récepteur à l&apos;adresse IP 192.168.1.1, port 2000.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="127"/>
         <source>Waiting for data …</source>
-        <translation type="unfinished"></translation>
+        <translation>En attente de données …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="131"/>
         <source>Receiving FLARM heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réception du signal FLARM.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="133"/>
         <source>Receiving barometric altitude.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réception de l&apos;altitude barométrique.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="135"/>
         <source>Receiving satnav position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réception de la position satnav.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="163"/>
@@ -3090,7 +2995,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="208"/>
         <source>
 &lt;p&gt;Well done! Go flying. Give yourself a pat on the back.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Bien joué, vous pouvez partir en vol !&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="232"/>
@@ -4169,7 +4074,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="792"/>
         <source>unknown cloud type</source>
-        <translation type="unfinished"></translation>
+        <translation>type de nuage inconnu</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="942"/>
@@ -6187,7 +6092,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="186"/>
         <source>Receiving FLARM heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réception du signal FLARM.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="232"/>
@@ -6239,10 +6144,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/main.qml" line="184"/>
         <source>Connected, waiting for data…</source>
         <translation>Connecté, en attente de données…</translation>
-    </message>
-    <message>
-        <source>Receiving traffic information</source>
-        <translation type="vanished">Réception des informations de traffic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="212"/>
