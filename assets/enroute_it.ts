@@ -2916,7 +2916,28 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
 &lt;p&gt;The style specification of the basemap is a modified version of the &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, which is in turn originally derived from OSM Bright from Mapbox Open Styles. The code is licenses under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. The design is derived (although heavily altered) from OSM Bright from Mapbox Open Styles which is licensed under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. The map is displaying and styling modified data from &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; with &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
 
                   &lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Licenze&lt;/h3&gt;
+
+&lt;p&gt;Il programma è licenziato con &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; o se vuoi all&apos;ultima versione di questa licenza.&lt;/p&gt;
+
+&lt;h4&gt;Software e dati di terze parti sono utilizzati in questa versione&lt;/h4&gt;
+
+&lt;p&gt;Questo programma include molte librerie da &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt; project, licenziate sotto &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;.
+Questo programma include la libreria &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, che è licenziata con &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;MIT license&lt;/a&gt;. 
+Questo programma include la libreria &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, licenziata con &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Questo programma include versioni di &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;Google Roboto Fonts&lt;/a&gt;, che sono licenziati con &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; license. 
+Questo programma include molte &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;Google Material Design Icons&lt;/a&gt;, sotto licenza &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; license.&lt;/p&gt;
+
+&lt;p&gt;La specifica di stile della mappa di base è una versione modificata di &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, 
+che è a sua volta originariamente derivato da OSM Bright da Mapbox Open Styles. Il codice è licenziato sotto &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. 
+Il design è derivato (sebbene pesantemente modificato) da OSM Bright da Mapbox Open Styles, che è concesso in licenza con &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. 
+La mappa mostra e applica uno stile ai dati modificati da &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; con &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
+
+&lt;p&gt;La mappa mostra e applica lo stile ai dati da&lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, 
+che è licenziata sotto &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. 
+La mappa mostra anche e applica lo stile ai dati da &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, 
+che è licenziata sotto &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="202"/>
@@ -2960,7 +2981,24 @@ following traffic receivers.&lt;/p&gt;
   &lt;li&gt;T-Beam&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Per visualizzare il traffico nelle vicinanze sulla mappa mobile, &lt;strong&gt;Enroute Flight
+Navigation&lt;/strong&gt; può connettersi al ricevitore del traffico del tuo aereo (in genere un dispositivo FLARM).&lt;/p&gt;
+
+&lt;p&gt;L&apos;autore ha testato &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; con il
+seguenti ricevitori di traffico.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Air Avionics AT-1 ‘AIR Traffic’ con versione software 5.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Gli utenti hanno segnalato il successo con i seguenti ricevitori di traffico.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Stratux&lt;/li&gt;
+  &lt;li&gt;T-Beam&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="232"/>
@@ -2974,7 +3012,16 @@ specification outlined in in the document FTD-012 &apos;Data Port Interface Cont
 Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Note Tecniche&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; si aspetta che il ricevitore Info Traffico disponga di una WLAN
+rete tramite Wi-Fi e pubblica un flusso di frasi NMEA all&apos;indirizzo IP
+192.168.1.1, porta 2000 di quella rete. Le frasi NMEA devono essere conformi a
+specifica delineata nel documento FTD-012 &apos;Data Port Interface Control
+Document (ICD) &apos;, Versione 7.13, come pubblicato da FLARM Technology Ltd.&lt;/p&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="241"/>
@@ -2997,7 +3044,25 @@ that the following conditions are met.&lt;/p&gt;
   additional password is required.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Prima di connetterti&lt;/h2&gt;
+
+&lt;p&gt;Prima di provare a connettere questa app al ricevitore Info Traffico, assicurati
+che le seguenti condizioni siano soddisfatte.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Il ricevitore Info Traffico dispone di un&apos;interfaccia Wi-Fi integrata che funge da
+   punto di accesso wireless. I dispositivi Bluetooth non sono attualmente supportati.&lt;/li&gt;
+
+  &lt;li&gt;Devi conoscere il nome della rete (= SSID) della rete WLAN distribuita dal tuo traffico
+   ricevitore. Se la rete è crittografata, è necessario conoscere anche la WLAN
+   parola d&apos;ordine.&lt;/li&gt;
+
+  &lt;li&gt;Alcuni dispositivi richiedono una password aggiuntiva per accedere al traffico
+   dati. Attualmente non supportato. Configura il tuo dispositivo in modo che non
+   è richiesta una password aggiuntiva.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="259"/>
@@ -3011,7 +3076,16 @@ receiver&apos;s WLAN network, enter the network and connect to the traffic data
 stream whenever you go flying.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Collegamento al ricevitore Info Traffico&lt;/h2&gt;
+
+&lt;p&gt;Sono necessari due passaggi per collegare &lt;strong&gt;Enroute Flight
+Navigazione&lt;/strong&gt; al ricevitore Info Traffico per la prima volta. Una volta che le cose
+sono impostati correttamente, il dispositivo dovrebbe rilevare automaticamente il traffico
+rete WLAN del ricevitore, accedere alla rete e connettersi ai dati sul traffico
+streaming ogni volta che vai a volare&lt;/p&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="268"/>
@@ -3036,7 +3110,27 @@ device will automatically connect to this WLAN in the future. We recommend to
 use this option.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Passaggio 1: accedere alla rete WLAN del ricevitore Info Traffico&lt;/h3&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Assicurarsi che il ricevitore Info Traffico sia alimentato e acceso. In un tipico
+   installazione dell&apos;aeromobile, il ricevitore del traffico è collegato al &apos;Avionics&apos;
+   interruttore e si accenderà automaticamente. Potrebbe essere necessario attendere un minuto prima
+   la WLAN entra in linea ed è visibile sul dispositivo.&lt;/li&gt;
+
+  &lt;li&gt;Accedi alla rete WLAN distribuita dal ricevitore Info Traffico. Questo di solito viene fatto
+   nelle &quot;Impostazioni WLAN&quot; del dispositivo. Immettere la password WLAN, se
+   necessario. Alcuni dispositivi emetteranno un avviso a cui la WLAN non è connessa
+   la rete. In questo caso, potrebbe essere necessario confermare che si desidera entrare
+   la rete WLAN.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;La maggior parte dei sistemi operativi offrirà di ricordare la connessione, in modo che il tuo file
+il dispositivo si connetterà automaticamente a questa WLAN in futuro. Lo consigliamo
+usa questa opzione.&lt;/p&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
@@ -3056,7 +3150,22 @@ use this option.&lt;/p&gt;
   manually.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Passaggio 2: connettersi al flusso di dati sul traffico&lt;/h3&gt;
+
+&lt;p&gt;Apri il menu principale e vai al menu &quot;Informazioni&quot;.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Se la voce &quot;Ricevitore traffico&quot; è evidenziata in verde, allora &lt;strong&gt;Enroute
+  Flight Navigation&lt;/strong&gt; ha già trovato il ricevitore Info Traffico nella rete
+   e si è connesso ad esso. Congratulazioni, hai finito!&lt;/li&gt;
+
+  &lt;li&gt;Se la voce &quot;Ricevitore Info Traffico&quot; non è evidenziata in verde, selezionare il
+   iscrizione. Si aprirà la pagina &quot;Stato ricevitore traffico&quot;. La pagina spiega il
+   lo stato della connessione in dettaglio e spiega come stabilire una connessione
+   manualmente.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="303"/>
@@ -3086,7 +3195,32 @@ at random if more than one device tries to access.&lt;/p&gt;
   web browser. Close all web browsers.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Risoluzione dei problemi&lt;/h2&gt;
+
+&lt;h4&gt;L&apos;app non può connettersi al flusso di dati sul traffico&lt;/h4&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Verifica che il tuo dispositivo sia connesso alla rete WLAN distribuita dal tuo
+   ricevitore del traffico.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;La connessione si interrompe dopo pochi secondi&lt;/h4&gt;
+
+&lt;p&gt;La maggior parte dei ricevitori di traffico non può gestire più di un client 
+e la connessione si interrompe a causa di più dispositivi che tentano di accedere.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Assicurati che nessun secondo dispositivo sia connesso alla WLAN del ricevitore Info Traffico
+   Rete. L&apos;altro dispositivo potrebbe essere nella tasca del tuo amico!&lt;/li&gt;
+
+  &lt;li&gt;Assicurati che nessun&apos;altra app stia cercando di connettersi al traffico
+   flusso di dati del destinatario.&lt;/li&gt;
+
+  &lt;li&gt;Molti ricevitori di informazioni sul traffico offrono &quot;pannello configurazione&quot; a cui è possibile accedere tramite il
+   programma di navigazione (browser). Chiudi tutti i browser web&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <source>&lt;p&gt;Adrien Crovato and Stefan Kebekus have implemented &lt;strong&gt;METAR/TAF&lt;/strong&gt; access. Look for the new &lt;strong&gt;Weather&lt;/strong&gt; entry in the main menu to try it out!&lt;/p&gt;
@@ -3141,89 +3275,89 @@ at random if more than one device tries to access.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="31"/>
         <source>Map Library</source>
-        <translation type="unfinished">Archivio Mappe</translation>
+        <translation>Archivio Mappe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="59"/>
         <source>aviation maps</source>
-        <translation type="unfinished">mappe aeronatiche</translation>
+        <translation>mappe aeronatiche</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="62"/>
         <source>base maps</source>
-        <translation type="unfinished">mappe di base</translation>
+        <translation>mappe di base</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="150"/>
         <source>Map Info</source>
-        <translation type="unfinished">Info Mappa</translation>
+        <translation>Info Mappa</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="154"/>
         <source>Map Info: </source>
-        <translation type="unfinished">Info Mappa: </translation>
+        <translation>Info Mappa: </translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="162"/>
         <source>Uninstall</source>
-        <translation type="unfinished">Disinstalla</translation>
+        <translation>Disinstalla</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="178"/>
         <location filename="../../../src/qml/pages/MapManager.qml" line="479"/>
         <source>Download Error</source>
-        <translation type="unfinished">Errore nel download</translation>
+        <translation>Errore nel download</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="179"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Impossibile scaricare &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Motivo: %2.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Impossibile scaricare &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Motivo: %2.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="237"/>
         <source>Update list of maps</source>
-        <translation type="unfinished">Aggiorna la lista delle mappe</translation>
+        <translation>Aggiorna la lista delle mappe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="249"/>
         <location filename="../../../src/qml/pages/MapManager.qml" line="464"/>
         <source>Download all updates…</source>
-        <translation type="unfinished">Scarica tutti gli aggiornamenti...</translation>
+        <translation>Scarica tutti gli aggiornamenti...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="274"/>
         <source>Aviation Maps</source>
-        <translation type="unfinished">Mappe aeronautiche</translation>
+        <translation>Mappe aeronautiche</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="277"/>
         <source>Base Maps</source>
-        <translation type="unfinished">Mappe di base</translation>
+        <translation>Mappe di base</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="318"/>
         <source>How to request additional aviation maps…</source>
-        <translation type="unfinished">Come richiedere mappe aeree aggiuntive ...</translation>
+        <translation>Come richiedere mappe aeree aggiuntive ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="325"/>
         <source>Request additional aviation maps</source>
-        <translation type="unfinished">Richiedi mappe aeree aggiuntive</translation>
+        <translation>Richiedi mappe aeree aggiuntive</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="399"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;La lista delle mappe disponibili non è ancora stata scaricata dal server. Potete ritentare il download manualmente usando il menu &apos;Aggiorna&apos;.  Per trovare questo menu usate il simbolo &apos;&amp;#8942;&apos; al bordo superiore destro dello schermo.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;La lista delle mappe disponibili non è ancora stata scaricata dal server. Potete ritentare il download manualmente usando il menu &apos;Aggiorna&apos;.  Per trovare questo menu usate il simbolo &apos;&amp;#8942;&apos; al bordo superiore destro dello schermo.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="425"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Download in corso…&lt;/h3&gt;&lt;p&gt;Prego attendere il completamento del download della lista mappe…&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Download in corso…&lt;/h3&gt;&lt;p&gt;Prego attendere il completamento del download della lista mappe…&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="480"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Impossibile scaricare la lista delle mappe aeronautiche.&lt;/p&gt;&lt;p&gt;Motivo: %1.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Impossibile scaricare la lista delle mappe aeronautiche.&lt;/p&gt;&lt;p&gt;Motivo: %1.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -4129,27 +4263,27 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="125"/>
         <source>Connected to traffic receiver at IP address 192.168.1.1, port 2000.</source>
-        <translation type="unfinished"></translation>
+        <translation>Collegato al ricevitore Info Traffico all&apos;indirizzo IP 192.168.1.1, porta 2000.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="127"/>
         <source>Waiting for data …</source>
-        <translation type="unfinished"></translation>
+        <translation>In attesa di dati...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="131"/>
         <source>Receiving FLARM heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricezione FLARM.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="133"/>
         <source>Receiving barometric altitude.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricezione altitudine barometrica.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="135"/>
         <source>Receiving satnav position.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricezione posizione navigatore.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="163"/>
@@ -4167,7 +4301,15 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 &lt;li&gt;Once your device has entered the WLAN network, use the button at the bottom of the page to connect the &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; to the traffic data stream.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Come connettere il tuo dispositivo al ricevitore Info Traffico&lt;/h3&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Assicurati che il ricevitore Info Traffico disponga di un&apos;interfaccia Wi-Fi integrata che funge da punto di accesso wireless. I dispositivi Bluetooth non sono attualmente supportati.&lt;/li&gt;
+&lt;li&gt;Utilizzare le &quot;Impostazioni WLAN&quot; del dispositivo per accedere alla rete WLAN distribuita dal ricevitore Info Traffico.&lt;/li&gt;
+&lt;li&gt;Una volta che il tuo dispositivo è entrato nella rete WLAN, usa il pulsante nella parte inferiore della pagina per connettere &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; al flusso di dati sul traffico.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="189"/>
@@ -4179,7 +4321,14 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 &lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; sta tentando di connettersi al flusso di dati del ricevitore Info Traffico. Se non è stata stabilita alcuna connessione dopo pochi secondi, qualcosa è andato storto.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Assicurati che il tuo dispositivo sia entrato nella rete WLAN distribuita dal ricevitore Info Traffico. In caso contrario, utilizzare il pulsante nella parte inferiore dello schermo per interrompere il tentativo di connessione.&lt;/li&gt;
+&lt;li&gt;Fare clic sul punto interrogativo nel titolo della pagina per aprire una finestra di dialogo della guida più dettagliata.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="199"/>
@@ -4191,13 +4340,21 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 &lt;li&gt;Some traffic receivers protect the data stream with an additional password. This is currently not supported.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è impostato per ricevere i dati del traffico. Se non arrivano dati dopo pochi secondi, qualcosa è andato storto.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Assicurati che il dispositivo all&apos;indirizzo IP 192.168.1.1 sia effettivamente un ricevitore per le segnalazioni sul traffico.&lt;/li&gt;
+&lt;li&gt;Alcuni ricevitori Info Traffico proteggono il flusso di dati con una password aggiuntiva. Attualmente non è supportato.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="208"/>
         <source>
 &lt;p&gt;Well done! Go flying. Give yourself a pat on the back.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Molto bene! Vai a volare. Datti una pacca sulla spalla.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="232"/>
@@ -4739,7 +4896,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="792"/>
         <source>unknown cloud type</source>
-        <translation type="unfinished"></translation>
+        <translation>tipo nuvole sconosiuto</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="795"/>
@@ -7433,7 +7590,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="186"/>
         <source>Receiving FLARM heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricezione FLARM.</translation>
     </message>
     <message>
         <source>Receiving traffic information</source>
