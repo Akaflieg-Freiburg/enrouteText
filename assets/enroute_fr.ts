@@ -1807,7 +1807,23 @@ following traffic receivers.&lt;/p&gt;
   &lt;li&gt;T-Beam&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Pour afficher le traffic aérien sur la carte, &lt;strong&gt;Enroute Flight
+Navigation&lt;/strong&gt; peut se connecter au récepteur de traffic devotre avion (ex: FLARM).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; a été testé par l&apos;auteur avec le matériel suivant.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Air Avionics AT-1 ‘AIR Traffic’ (software version 5).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Les utilisateurs ont réussi à connecter les matériels suivants.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Stratux&lt;/li&gt;
+  &lt;li&gt;T-Beam&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="232"/>
@@ -1821,7 +1837,15 @@ specification outlined in in the document FTD-012 &apos;Data Port Interface Cont
 Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Note Technique&lt;/h3&gt;
+
+&lt;p&gt;Le récepteur de traffic doit mettre en place un réseau WLAN accessible via WiFi 
+et publier un flux de donnnées consistant de phrases NMEA, via l&apos;adresse IP 192.168.1.1, 
+sur le port 2000 pour se connecter à &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. 
+Les phrases NMEA doivent être conformes aux spécifications données dans le document FTD-012 &apos;Data Port Interface Control
+Document (ICD)&apos;, Version 7.13, publié par FLARM Technology Ltd.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="241"/>
@@ -1844,7 +1868,21 @@ that the following conditions are met.&lt;/p&gt;
   additional password is required.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Avant de vous connecter&lt;/h2&gt;
+
+&lt;p&gt;Avant de connecter l&apos;application à votre récepteur de traffic, veuillez vérifier les confitions suivantes.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Votre récepteur doit se connecter via WiFi. Les récepteurs Bluetooth ne sont pas supportés pour le moment.&lt;/li&gt;
+
+  &lt;li&gt;Vous devez connaitre le nom du réseau WLAN (SSID) du récepteur de traffic. 
+  Si le réseau est crypté, vous aurez également besoin du mot de passe.&lt;/li&gt;
+
+  &lt;li&gt;Certains récepteurs requierent un mot de passe supplémentaire ; ce qui n&pos;est pas supporté pour le moment. 
+  Paramétrez votre récepteur pour qu&pos;aucun mot de passe supplémentaire ne soit requis.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="259"/>
@@ -1858,7 +1896,13 @@ receiver&apos;s WLAN network, enter the network and connect to the traffic data
 stream whenever you go flying.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Se connecter au récepteur de traffic&lt;/h2&gt;
+
+&lt;p&gt;Connecter &lt;strong&gt;Enroute Flight
+Navigation&lt;/strong&gt; au récepteur se fait en deux étapes.
+Après ces étapes, votre appareil devrait détecter le réseau du récepteur et s'y connecter automatiquement.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="268"/>
@@ -1883,7 +1927,21 @@ device will automatically connect to this WLAN in the future. We recommend to
 use this option.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Etape 1 : Entrez le réseau WLAN du récepteur&lt;/h3&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Assurez-vous que le récepteur est en service et allumé. 
+  Typiquement, le récepteur est connecté à l&apos;interrupteur &apos;Avionics&apos;. 
+  Après la mise en route, il peut être nécessaire d&pos;attendre une minute pour que 
+  le réseau émis soit visible depuis les autres appareils.&lt;/li&gt;
+
+  &lt;li&gt;Entrez le nom du réseau WLAN de votre récepteur dans les &quot;paramètres WLAN&quot; de votre appareil, ainsi que le mot de passe, si nécessaire.
+  Certains appareils vous avertiront que le réseau que vous tentez de rejoindre n&pos;est pas connecté à internet. Dans ce cas, confirmez pour continuer la procédure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nous vous recommandons d&pos;indiquer à votre appareil de se souvenir de ce réseau et de s&apos;y connecter automatiquement.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
@@ -1903,7 +1961,19 @@ use this option.&lt;/p&gt;
   manually.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Etape 2: Connectez votre appareil au flux de données de traffic&lt;/h3&gt;
+
+&lt;p&gt;Ouvrez le menu principal et entrez dans le menu &quot;Information&quot;.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Si &quot;Récepteur de traffic&quot; est surligné en vert, alors &lt;strong&gt;Enroute
+  Flight Navigation&lt;/strong&gt; est déjà connecté au récepteur. Bravo, tout est en place !&lt;/li&gt;
+
+  &lt;li&gt;Si &quot;Récepteur de traffic&quot; n&pos;est pas surligné en vert, alors cliquez dessus. 
+  La page &quot;Etat du récepteur&quot; s&apos;ouvrira et vous expliquera comment établir la connexion manuellement.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="303"/>
@@ -1933,7 +2003,27 @@ at random if more than one device tries to access.&lt;/p&gt;
   web browser. Close all web browsers.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Résolution des problèmes&lt;/h2&gt;
+
+&lt;h4&gt;L&pos;application ne parvient pas à se connecter au flux de données.&lt;/h4&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Vérifiez que votre appareil est bien connecté au réseau émis par le récepteur de traffic.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;La connexion est interrompue après quelques instants.&lt;/h4&gt;
+
+&lt;p&gt;La plupart des récepteurs de traffic ne peuvent désservir qu&apos;un seul appareil à la fois, et coupent la connexion si plusieurs appareils sont connectés.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Assurez-vous qu&apos;un seul appareil est connecté (faites attention aux téléphones de vos passagers).&lt;/li&gt;
+
+  &lt;li&gt;Assurez-vous qu&apos;aucune autre application ne tente de se connecter aux flux de données.&lt;/li&gt;
+
+  &lt;li&gt;Beaucoup de récepteurs offrent un &quot;panneau de configuration&quot; accessible via un navigateur web. Fermez les navigateurs.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="130"/>
@@ -2965,7 +3055,15 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 &lt;li&gt;Once your device has entered the WLAN network, use the button at the bottom of the page to connect the &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; to the traffic data stream.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Comment se connecter au récepteur de traffic&lt;/h3&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Assurez-vous que le récepteur émette un réseau WLAN via WiFi. Les récepteurs Bluetooth ne sont pas supportés pour le moment.&lt;/li&gt;
+&lt;li&gt;Utilisez les &apos;paramètres WLAN&apos; de votre appareil pour entrer le nom (et éventuellement le mot de passe) du réseau WLAN émis par votre récepteur.&lt;/li&gt;
+&lt;li&gt;Une fois votre appareil connecté au réseau, appuyez sur le bouton en bas de la page pour connecter &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; au flux de données de traffic.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="189"/>
@@ -2977,7 +3075,14 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 &lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est en train d&apos;essayer de se connecter au flux de données de votre récepteur. Si la connexion n&apos;a pas été établie après quelques secondes, alors la procédure a échoué.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Assurez-vous que votre appareil est connecté au réseau émis par le récepeur.Si ce n&apos;est pas le cas, annulez la tentative de connexion en utilisant le bouton en bas de page.&lt;/li&gt;
+&lt;li&gt;Cliquez sur le point d&apos;interrogation dans le titre de la page pour ouvrir un dialogue d&pos;aide avancée.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="199"/>
@@ -2989,7 +3094,14 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 &lt;li&gt;Some traffic receivers protect the data stream with an additional password. This is currently not supported.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est maintenant configuré pour recevoir les données. Si elles n&apos;arrivent pas après quelques secondes, la procédure a échoué.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Assurez-vous que l&apos;adresse IP 192.168.1.1 est bien celle du récepteur.&lt;/li&gt;
+&lt;li&gt;Certains récepteurs protègent leur flux de données avec un mot de passe additionnel. Cette option n&apos;est pas supportée pour le moment.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="208"/>
