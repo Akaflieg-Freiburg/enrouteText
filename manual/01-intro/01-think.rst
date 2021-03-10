@@ -17,7 +17,7 @@ airspace data source.
 
 .. warning:: Always use official flight navigation data for flight preparation
     and navigate by officially authorized means. The use of non-certified
-    navigation devices and software like **Enroute Flight Navigation** as
+    navigation devices and software like **Enroute Flight Navigation** as a
     primary source of navigation may cause accidents leading to loss of lives.
 
 We do not believe that the use of **Enroute Flight Navigation** fulfills the
@@ -72,7 +72,7 @@ for the vast majority of Android users, please keep the following in mind.
   standards and are often extremely buggy.  At times, users can manually excempt
   apps from "battery saving mode", but the settings are usually lost on system
   updates.  Google's own "Pixel" and "Nexus" devices do not have these problems.
-  See the web site `Don't kill my app <https://dontkillmyapp.com>`_ for more
+  See the website `Don't kill my app <https://dontkillmyapp.com>`_ for more
   information.
 
 
@@ -89,6 +89,5 @@ aviation standards.  Keep the following in mind.
 
 * Your device can overheat. Batteries can catch fire.
 
-* Battery capacity is limited.  Even if your is connected to power via a USB
-  cable, note that there are devices where display and/or CPU use more energy
-  than USB can deliver.
+* Battery capacity is limited.  Even if your device is connected to power via a
+  USB cable, the display and/or CPU might use more energy than USB can deliver.

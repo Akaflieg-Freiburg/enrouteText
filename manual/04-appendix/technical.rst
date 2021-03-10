@@ -11,3 +11,5 @@ specification outlined in in the document FTD-012 `Data Port Interface Control
 Document (ICD) <https://flarm.com/support/manuals-documents/>`_, Version 7.13,
 as published by `FLARM Technology Ltd <https://flarm.com/>`_.
 
+In order to show only relevant information, **Enroute Flight Navigation** will
+not display traffic more than 500m above or below the own position.

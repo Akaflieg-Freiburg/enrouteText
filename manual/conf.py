@@ -57,3 +57,13 @@ html_static_path = ['_static']
 html_theme_options = {
     'style_nav_header_background': 'teal'
 }
+
+
+# -- Options for LaTeX output -------------------------------------------------
+
+latex_elements = {
+    'preamble': r'\input{../../latexPreamble.tex.txt}',
+    'fncychap': r'\usepackage[Bjornstrup]{fncychap}',
+    'printindex': r'\footnotesize\raggedright\printindex',
+}
+latex_show_urls = 'footnote'
