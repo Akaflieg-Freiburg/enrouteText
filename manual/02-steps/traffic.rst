@@ -3,7 +3,9 @@ Connecting your traffic receiver
 
 In order to display nearby traffic on the moving map, **Enroute Flight
 Navigation** can connect to your aircraft's traffic receiver (typically a FLARM
-device).
+device).  In order to show only relevant information, **Enroute Flight
+Navigation** will not display traffic more than 1.500 m above or below the own
+position.
 
 The app author has tested the **Enroute Flight Navigation** with the following
 traffic receivers.
@@ -39,7 +41,7 @@ following conditions are met.
 Connecting to the traffic receiver
 ----------------------------------
 
-It takes a two steps to connect **Enroute Flight Navigation** to the traffic
+It takes two steps to connect **Enroute Flight Navigation** to the traffic
 receiver for the first time. Once things are set up properly, your device should
 automatically detect the traffic receiver's WLAN network, enter the network and
 connect to the traffic data stream whenever you go flying.
@@ -57,8 +59,8 @@ Step 1: Enter the traffic receiver's WLAN network
   the WLAN network.
 
 Most operating systems will offer to remember the connection, so that your
-device will automatically connect to this WLAN in the future. We recommend to
-use this option.
+device will automatically connect to this WLAN in the future. We recommend using
+this option.
 
 Step 2: Connect to the traffic data stream
 
@@ -88,7 +90,7 @@ at random if more than one device tries to access.
 
 - Make sure that there no second device connected to the traffic receiver's WLAN
   network. The other device might well be in your friend's pocket!
-- Make sure that there is no other app trying to connected to the traffic
+- Make sure that there is no other app trying to connect to the traffic
   receiver's data stream.
 - Many traffic receivers offer "configuration panels" that can be accessed via a
   web browser. Close all web browsers.

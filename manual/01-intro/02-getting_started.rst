@@ -46,7 +46,7 @@ Follow these steps to install the maps that you need.
 - Choose the menu item *Settings*.
 - On the settings page, choose the item *Maps* in the *Libraries* section.
 - On the map page, click or tap on the desired maps.  The maps will then be
-  downloaded and installed on you device.
+  downloaded and installed on your device.
 
 .. caution:: Do not forget that you need aeronautical maps **and** base maps for
     the desired area of flight.
@@ -93,8 +93,8 @@ are on the ground.
 1. Own Position.  The own position indicator will be gray if the satellite
    navigation system has not yet acquired a valid position.  It will be
    displayed in blue color if GPS position is available.  The own position will
-   be indicated as round shape when no motion is sensed and displayed as arrow
-   when moving.
+   be indicated as round shape when no motion is sensed and displayed as an
+   arrow when moving.
 2. North Indicator.  This button can also be used to switch between the display
    modes *track up* and *north up*.
 3. Zoom buttons.
@@ -150,9 +150,6 @@ The bottom of the display shows a little panel with the following information.
    reading must not be used for navigation in airspace classes C and D.**
 
 
-
-
-
 Your first flight
 -----------------
 
@@ -163,11 +160,12 @@ starting the app.  Before using the moving map function you have to make sure
 the GPS of your mobile device is operating properly. The own position indicator
 will be gray if GPS position is not available and will be displayed in blue
 color if GPS position is available. The own position will be indicated as round
-shape when no motion is sensed and displayed as arrow with flight path marker
+shape when no motion is sensed and displayed as an arrow with flight path marker
 when moving.
 
-.. warning::
-    Make sure the GPS position is correct and valid to avoid loss of situational awareness. Loss of situational awareness is a common cause of severe accidents in aviation.
+.. warning:: Make sure the GPS position is correct and valid to avoid loss of
+    situational awareness. Loss of situational awareness is a common cause of
+    severe accidents in aviation.
 
 To show a planned route on the moving map display you may:
 
@@ -178,11 +176,14 @@ To show a planned route on the moving map display you may:
     * Double Touch the desired Waypoint
     * Select (+) 'to Route'
 
-The planned route will be displayed as light green line on the map display. More detailed information on route planning will be given in the dedicated section.
+The planned route will be displayed as a light green line on the map
+display. More detailed information on route planning will be given in the
+dedicated section.
 
 **Airspace awareness**
 
-Information related to any selected point on the Map will be displayed when double touching a point.
+Information related to any selected point on the Map will be displayed when
+double touching a point.
 
 
 The displayed Information for arbitrary points will include:
@@ -196,7 +197,8 @@ The displayed Information for reporting points or Navaids will include:
 * Distance to point
 * True bearing to point
 * Designation, controlling agency and radio frequencies
-* Airspace classification including related radio frequencies and transponder code
+* Airspace classification including related radio frequencies and transponder
+  code
 
 The displayed Information for airfields will include:
 
@@ -205,8 +207,8 @@ The displayed Information for airfields will include:
 * Meteorological information summary if available
 * Designation, controlling agency and radio frequencies and Navaids
 * Airfield data for Runways and field elevation
-* Airspace classification including related radio frequencies and transponder code
-
+* Airspace classification including related radio frequencies and transponder
+  code
 
 More information on the features and operation will be given in the 'Further
 Steps' part of the **Enroute Flight Navigation** manual.
