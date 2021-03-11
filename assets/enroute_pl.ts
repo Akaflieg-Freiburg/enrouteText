@@ -3007,17 +3007,17 @@ Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="387"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="391"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Nie ma żadnej zainstalowanej mapy lotniczej.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Otwórz menu i przejdź do &lt;strong&gt;Ustawienia/Biblioteka/Mapy&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="535"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="539"/>
         <source>Map Data Copyright Info</source>
         <translation>Dane mapy - informacje o prawach autorskich</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="541"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="545"/>
         <source>Map Data Copyright Information</source>
         <translation>Dane mapy - informacje o prawach autorskich</translation>
     </message>
@@ -3207,343 +3207,343 @@ Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
 <context>
     <name>Navigation::FLARMAdaptor</name>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="515"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="521"/>
         <source>No Error</source>
         <translation>Brak błędu</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="518"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="524"/>
         <source>Normal Operation</source>
         <translation>Normalne działanie</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="521"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="527"/>
         <source>Reduced Functionality</source>
         <translation>Ograniczona funkcjonalność</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="524"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="530"/>
         <source>Device INOP</source>
         <translation>Urządzenie INOP</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="528"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="534"/>
         <source>Error code: %1</source>
         <translation>Kod błędu: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="531"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="537"/>
         <source>Firmware expired</source>
         <translation>Oprogramowanie wbudowane wygasło</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="534"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="540"/>
         <source>Firmware update error</source>
         <translation>Błąd aktualizacji oprogramowania wbudowanego</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="537"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="543"/>
         <source>Power (Voltage &lt; 8V)</source>
         <translation>Zasilanie (Napięcie &lt; 8V)</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="540"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="546"/>
         <source>UI error</source>
         <translation>Błąd interfejsu</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="543"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="549"/>
         <source>Audio error</source>
         <translation>Błąd audio</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="546"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="552"/>
         <source>ADC error</source>
         <translation>Błąd ADC</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="549"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="555"/>
         <source>SD card error</source>
         <translation>Błąd karty SD</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="552"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="558"/>
         <source>USB error</source>
         <translation>Błąd USB</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="555"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="561"/>
         <source>LED error</source>
         <translation>Błąd LED</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="558"/>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="567"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="564"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="573"/>
         <source>EEPROM error</source>
         <translation>Błąd EEPROM</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="561"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="567"/>
         <source>General hardware error</source>
         <translation>Ogólny błąd sprzętu</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="564"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="570"/>
         <source>Transponder receiver Mode-C/S/ADS-B unserviceable</source>
         <translation>Niedostępny tryb odbioru transpondera C/S/ADS-B</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="570"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="576"/>
         <source>GPIO error</source>
         <translation>Błąd GPIO</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="573"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="579"/>
         <source>GPS communication</source>
         <translation>Komunikacja GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="576"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="582"/>
         <source>Configuration of GPS module</source>
         <translation>Kofiguracja modułu GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="579"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="585"/>
         <source>GPS antenna</source>
         <translation>Antena GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="582"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="588"/>
         <source>RF communication</source>
         <translation>Komunikacja RF</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="585"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="591"/>
         <source>Another FLARM device with the same Radio ID is being received. Alarms are suppressed for the relevant device.</source>
         <translation>Inne urządzenie FLARM jest odbierane z tym samym identyfikatorem Radio ID. Alarmy zostaną wyciszone dla tego urządzenia.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="588"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="594"/>
         <source>Wrong ICAO 24-bit address or radio ID</source>
         <translation>Błędny adres ICAO 24bit lub ID radia</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="591"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="597"/>
         <source>Communication</source>
         <translation>Komunikacja</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="594"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="600"/>
         <source>Flash memory</source>
         <translation>Pamięć Flash</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="597"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="603"/>
         <source>Pressure sensor</source>
         <translation>Czujnik ciśnienia</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="600"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="606"/>
         <source>Obstacle database (e.g. incorrect file type)</source>
         <translation>Baza danych przeszkód (np. niepoprawny typ pliku)</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="603"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="609"/>
         <source>Obstacle database expired.</source>
         <translation>Przeterminowana baza danych przeszkód.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="606"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="612"/>
         <source>Flight recorder</source>
         <translation>Rejestrator lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="609"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="615"/>
         <source>Engine-noise recording not possible</source>
         <translation>Niemożliwe zapisywanie dźwięków silnika</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="612"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="618"/>
         <source>Range analyzer</source>
         <translation>Analizator zasięgu</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="615"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="621"/>
         <source>Configuration error, e.g. while reading flarmcfg.txt from SD/USB.</source>
         <translation>Błąd konfiguracji, np. podczas odczytu pliku flarm.cfg z SD/USB.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="618"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="624"/>
         <source>Invalid obstacle database license (e.g. wrong serial number)</source>
         <translation>Nieprawidłowa licencja bazy danych przeszkód (np. zły numer seryjny)</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="621"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="627"/>
         <source>Invalid IGC feature license</source>
         <translation>Nieprawidłowa licencja własności IGC</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="624"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="630"/>
         <source>Invalid AUD feature license</source>
         <translation>Nieprawidłowa licencja własności AUD</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="627"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="633"/>
         <source>Invalid ENL feature license</source>
         <translation>Nieprawidłowa licencja własności ENL</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="630"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="636"/>
         <source>Invalid RFB feature license</source>
         <translation>Nieprawidłowa licencja własności RFB</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="633"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="639"/>
         <source>Invalid TIS feature license</source>
         <translation>Nieprawidłowa licencja własności TIS</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="636"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="642"/>
         <source>Generic error</source>
         <translation>Ogólny błąd</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="639"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="645"/>
         <source>Flash File System error</source>
         <translation>Błąd systemu plików pamięci Flash</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="642"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="648"/>
         <source>Failure updating firmware of external display</source>
         <translation>Błąd aktualizacji oprogramowania zewnętrznego wyświetlacza</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="645"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="651"/>
         <source>Device is operated outside the designated region. The device does not work.</source>
         <translation>Urządzenie jest używane poza wyznaczonym regionem. To urządzenie nie działa.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="752"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="758"/>
         <source>The connection was refused by the peer (or timed out).</source>
         <translation>Połączenie zostało odrzucone przez końcówkę (lub upłynął czas).</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="755"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="761"/>
         <source>The remote host closed the connection.</source>
         <translation>Zdalny host zamknął połączenie.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="758"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="764"/>
         <source>The host address was not found.</source>
         <translation>Adres hosta nie został znaleziony.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="761"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="767"/>
         <source>The socket operation failed because the application lacked the required privileges.</source>
         <translation>Operacja na socketach nieudana, ze względu na to, że aplikacja nie posiada wymaganych uprawnień.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="764"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="770"/>
         <source>The local system ran out of resources.</source>
         <translation>System lokalny zużył wszystkie zasoby.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="767"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="773"/>
         <source>The socket operation timed out.</source>
         <translation>Operacja na socket&apos;ie przeterminowana.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="770"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="776"/>
         <source>The datagram was larger than the operating system&apos;s limit.</source>
         <translation>Datagram danych był większy niż limit systemu operacyjnego.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="773"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="779"/>
         <source>An error occurred with the network.</source>
         <translation>Wstąpił błąd sieci.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="776"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="782"/>
         <source>The address specified to QAbstractSocket::bind() is already in use and was set to be exclusive.</source>
         <translation>Adres ustalony przez QAbstractSocket::bind() jest już u użyciu i został ustawiony jako jedyny dostęp.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="779"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="785"/>
         <source>The address specified to QAbstractSocket::bind() does not belong to the host.</source>
         <translation>Adres określony przez QAbstractSocket::bind() nie należy do hosta.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="782"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="788"/>
         <source>The requested socket operation is not supported by the local operating system.</source>
         <translation>Wymagana operacja na socket&apos;ie nie jest wspierana przez lokalny system operacyjny.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="785"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="791"/>
         <source>The socket is using a proxy, and the proxy requires authentication.</source>
         <translation>Socket używa komunikacji proxy, a proxy wymaga autoryzacji.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="788"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="794"/>
         <source>The SSL/TLS handshake failed, so the connection was closed.</source>
         <translation>Uzgodnienie SSL/TLS nieudane, więc połączenie zostało zamknięte.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="791"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="797"/>
         <source>The last operation attempted has not finished yet (still in progress in the background).</source>
         <translation>Ostatnia operacja nie zakończyła się jeszcze (nadal przetwarzana w tle).</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="794"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="800"/>
         <source>Could not contact the proxy server because the connection to that server was denied.</source>
         <translation>Nie można połączyć się do serwera proxy, gdyż połączenie zostało odrzucone.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="797"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="803"/>
         <source>The connection to the proxy server was closed unexpectedly (before the connection to the final peer was established).</source>
         <translation>Połączenie do serwera proxy zostało niespodziewanie zamknięte (przed ostatecznym ustaleniem połączenia).</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="800"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="806"/>
         <source>The connection to the proxy server timed out or the proxy server stopped responding in the authentication phase.</source>
         <translation>Połączenie do serwera proxy przeterminowane lub serwer proxy przestał odpowiadać w fazie autentykacji.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="803"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="809"/>
         <source>The proxy address set with setProxy() (or the application proxy) was not found.</source>
         <translation>Adres proxy ustawiony przez setProxy() (lub przez proxy aplikacj) nie został znaleziony.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="806"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="812"/>
         <source>The connection negotiation with the proxy server failed, because the response from the proxy server could not be understood.</source>
         <translation>Nieudana negocjacja połączenia z serwerem proxy, ze względu na to, że odpowiedź serwera nie mogła być zrozumiana.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="809"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="815"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
         <translation>Próbowano wykonać operację podczas gdy socket był w stanie, w którym nie pozwalał na to.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="812"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="818"/>
         <source>The SSL library being used reported an internal error. This is probably the result of a bad installation or misconfiguration of the library.</source>
         <translation>Biblioteka SSL, która jest używana, zaraportowała wewnętrzny błąd. Wynika to prawdopodobnie z błędnej instalacji lub błędnej konfiguracji biblioteki.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="815"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="821"/>
         <source>Invalid data (certificate, key, cypher, etc.) was provided and its use resulted in an error in the SSL library.</source>
         <translation>Nieprawidłowe dane (certyfikat, klucz, szyfr, itp.) zostały dostarczone i ich użycie spowodowało błąd w bibliotece SSL.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="818"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="824"/>
         <source>A temporary error occurred (e.g., operation would block and socket is non-blocking).</source>
         <translation>Wystąpił tymczasowy błąd (np. operacja blokująca a socket jest nie-blokujący).</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="821"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="827"/>
         <source>An unidentified error occurred.</source>
         <translation>Wystąpił niezidentyfikowany błąd.</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="824"/>
+        <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="830"/>
         <source>%2 (Time of error: %1)</source>
         <translation>%2 (Czas błędu: %1)</translation>
     </message>
@@ -3649,7 +3649,7 @@ Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
         <translation>Ruch</translation>
     </message>
     <message>
-        <location filename="../../../src/Navigation_Traffic.cpp" line="228"/>
+        <location filename="../../../src/Navigation_Traffic.cpp" line="229"/>
         <source>Position unknown</source>
         <translation>Nieznana pozycja</translation>
     </message>
