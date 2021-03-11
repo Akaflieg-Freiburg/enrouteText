@@ -86,8 +86,8 @@
             
               <p class="caption"><span class="caption-text">Getting started</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="../01-intro/think.html">Think before you fly</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../01-intro/getting_started.html">Getting started</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../01-intro/01-think.html">Think before you fly</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../01-intro/02-getting_started.html">Getting started</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../01-intro/further_steps.html">Further Steps</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Further Steps</span></p>
@@ -97,6 +97,10 @@
 <p class="caption"><span class="caption-text">Reference manual</span></p>
 <ul class="current">
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Map Data</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#other">Other</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#flight-mode-and-ground-mode">Flight mode and ground mode</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="airspace_display.html">Airspace Display</a></li>
 <li class="toctree-l1"><a class="reference internal" href="weather.html">Weather</a></li>
 </ul>
@@ -104,6 +108,7 @@
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../04-appendix/licenses.html">Software licenses</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../04-appendix/technical.html">Technical Notes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../04-appendix/collection.html">Collection</a></li>
 </ul>
 
             
@@ -235,6 +240,132 @@ The Enroute Flight Naviagtion base maps are edited versions of maps kindly provi
 <p><strong>Open Street Map</strong></p>
 <p>Open Street Map (OSM) is a collaborative project to create a free editable map of the world. The geodata underlying the map is considered the primary output of the project. The creation and growth of OSM has been motivated by restrictions on use or availability of map data across much of the world, and the advent of inexpensive portable satellite navigation devices.
 The Open Street Map data is used to crate the base maps.</p>
+</div>
+<div class="section" id="other">
+<h1>Other<a class="headerlink" href="#other" title="Permalink to this headline">¶</a></h1>
+<p>The Map display is composed of two layers selected in the respective Tabs of the
+‘Map Library’ screen:</p>
+<ul class="simple">
+<li><p>Aeronautical Map</p></li>
+<li><p>Base Map</p></li>
+</ul>
+<p><strong>Aeronautical Maps</strong></p>
+<p>The Aeronautical Map layers is showing the airspace data on the Map screen. If
+no Base Map is installed for the area only the information coming from the
+Aviation Map data is displayed.</p>
+<p>The Aeronautical Map contains:</p>
+<ul class="simple">
+<li><p>Airfields</p></li>
+<li><p>Airspace boundaries</p></li>
+<li><p>Navaids</p></li>
+<li><p>Reporting points and routes (if available)</p></li>
+</ul>
+<p>The display used for aerospace data is using the following basic color scheme:</p>
+<ul>
+<li><dl class="simple">
+<dt>Red:</dt><dd><ul class="simple">
+<li><p>Line with shadow inside for Restricted Airspace</p></li>
+<li><p>Shadow with dashed blue border for Aerodrome Control Zone (CTR)</p></li>
+<li><p>Dashed Line for Parachute Jumping Exercise area</p></li>
+<li><p>Line for Glider or Microlight Traffic pattern</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><p>Blue:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Line with shadow for controlled airspace (A, B, C, D)</p></li>
+<li><p>Shadow with dashed blue border for Radio Mandatory Zone (RMZ)</p></li>
+<li><p>Airport, reporting point or Navaid  symbols</p></li>
+<li><p>For Route or Traffic Pattern for powered aircraft</p></li>
+</ul>
+</div></blockquote>
+</li>
+<li><p>Green:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Line with shadow for Natural Reserve Area (NRA)</p></li>
+<li><p>Line for airspace control sector boundaries</p></li>
+</ul>
+</div></blockquote>
+</li>
+<li><p>Black:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Dashed Line for Transponder Mandatory Zone (TMZ)</p></li>
+</ul>
+</div></blockquote>
+</li>
+</ul>
+<p><strong>Class 1 and Class 2 maps:</strong></p>
+<ul class="simple">
+<li><p>Class 1 maps are compiled from openAIP and open flightmaps data. These maps
+contain complete information about airspaces, airfields and navaids. In
+addition, the maps contain (mandatory) reporting points. Some of our tier 1
+maps also show traffic circuits and flight procedures for control zones.</p></li>
+<li><p>Class 2 maps are compiled from openAIP data only. They contain complete
+information about airspaces, airfields and navaids.</p></li>
+</ul>
+<p>Details on the maps may be found at
+&lt;<a class="reference external" href="https://akaflieg-freiburg.github.io/enroute/maps/">https://akaflieg-freiburg.github.io/enroute/maps/</a>&gt; The Aeronautical Map data is
+selected on the “Map Library” – “Aviation Data” page accessed via the “Settings”
+Menu.  To update the list of available maps the “…” option in the upper right
+corner of the screen may be used.  You may install or uninstall the aviation Map
+data for a county by the selection on the right hand side of the country
+list. To find a country you have to scroll up and down in the list.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>To have optimum presentation of the <strong>Enroute Flight Navigation</strong> map
+display install the Aviation Map and the Base Map for all areas you intend
+to use <strong>Enroute Flight Navigation</strong>.</p>
+</div>
+<div class="admonition caution">
+<p class="admonition-title">Caution</p>
+<p>No airspace information will be provided in country when the
+Aeronautical Map is not installed for it.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p><strong>Enroute Flight Navigation</strong> will automatically check for updated
+Maps on the Enroute server and show a pop-up window after start if updated
+maps have been detected.  You will be asked if you want to update the map or
+delay the update.</p>
+</div>
+<p><strong>Base Map</strong></p>
+<p>The Base Map layers is showing the geographic data on the Map screen. If no Base
+Map is shown for an area it will be shown in the white background color. If no
+Aviation Map is installed for the area only the information coming from the Base
+Map data is displayed. The Base Map is organized in tiles. This will result in
+not stopping the Base Map display abruptly at the border of an installed
+country, but showing some overlap.  The Base Map will show:</p>
+<ul class="simple">
+<li><p>Landmass</p></li>
+<li><p>Water Surface (oceans, lakes and rivers)</p></li>
+<li><p>Forests</p></li>
+<li><p>Main Roads</p></li>
+<li><p>Railroad lines</p></li>
+<li><p>City names</p></li>
+</ul>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>To have optimum presentation of the <strong>Enroute Flight Navigation</strong> map
+display install the Aeronautical Map and the Base Map for all areas you
+intend to use <strong>Enroute Flight Navigation</strong>.</p>
+</div>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p><strong>Enroute Flight Navigation</strong> will not show most cultural build ups
+and limits or settled area boundaries to reduce the map size.</p>
+</div>
+<div class="section" id="flight-mode-and-ground-mode">
+<h2>Flight mode and ground mode<a class="headerlink" href="#flight-mode-and-ground-mode" title="Permalink to this headline">¶</a></h2>
+<p><strong>Ground Mode</strong></p>
+<p>Ground Mode is displayed by <strong>Enroute Flight Navigation</strong> whenever the sensed
+speed is below the threshold and the Menu item ‘Automatic Flight Detection’ is
+not set to ‘Always in Flight Mode’.  Ground Mode does not display the Flight
+Data line at the lower end of the screen and is intended for flight planning.</p>
+</div>
 </div>
 
 

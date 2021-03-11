@@ -36,7 +36,6 @@ airfields for landing, complete with distances, directions, runway information
 and frequencies.
 
 .. raw:: latex
-
    \part{Getting started}
    
 .. toctree::
@@ -44,23 +43,21 @@ and frequencies.
    :caption: Getting started
    :name: sec-intro
 
-   01-intro/think
-   01-intro/getting_started
+   01-intro/01-think
+   01-intro/02-getting_started
    01-intro/further_steps
 
 .. raw:: latex
-  \part{Further Steps}
+   \part{Further Steps}
 
 .. toctree::
    :maxdepth: 2
    :caption: Further Steps
-   :name: sec-reference
+   :name: sec-steps
 
    02-steps/traffic
    
 .. raw:: latex
-  \part{Further Steps}
-
    \part{Reference manual}
    
 .. toctree::
@@ -84,3 +81,4 @@ and frequencies.
 
    04-appendix/licenses
    04-appendix/technical
+   04-appendix/collection

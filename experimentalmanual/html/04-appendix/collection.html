@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  <title>Main window &mdash; Enroute Flight Navigation 2.2.4 documentation</title>
+  <title>Collection &mdash; Enroute Flight Navigation 2.2.4 documentation</title>
   
 
   
@@ -37,7 +37,8 @@
 
     
     <link rel="index" title="Index" href="../genindex.html" />
-    <link rel="search" title="Search" href="../search.html" /> 
+    <link rel="search" title="Search" href="../search.html" />
+    <link rel="prev" title="Technical Notes" href="technical.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -84,8 +85,8 @@
             
               <p class="caption"><span class="caption-text">Getting started</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="../01-intro/think.html">Think before you fly</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../01-intro/getting_started.html">Getting started</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../01-intro/01-think.html">Think before you fly</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../01-intro/02-getting_started.html">Getting started</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../01-intro/further_steps.html">Further Steps</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Further Steps</span></p>
@@ -94,14 +95,16 @@
 </ul>
 <p class="caption"><span class="caption-text">Reference manual</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="map_data.html">Map Data</a></li>
-<li class="toctree-l1"><a class="reference internal" href="airspace_display.html">Airspace Display</a></li>
-<li class="toctree-l1"><a class="reference internal" href="weather.html">Weather</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../03-reference/map_data.html">Map Data</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../03-reference/map_data.html#other">Other</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../03-reference/airspace_display.html">Airspace Display</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../03-reference/weather.html">Weather</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Appendix</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="../04-appendix/licenses.html">Software licenses</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../04-appendix/technical.html">Technical Notes</a></li>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="licenses.html">Software licenses</a></li>
+<li class="toctree-l1"><a class="reference internal" href="technical.html">Technical Notes</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Collection</a></li>
 </ul>
 
             
@@ -150,13 +153,13 @@
     
       <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
         
-      <li>Main window</li>
+      <li>Collection</li>
     
     
       <li class="wy-breadcrumbs-aside">
         
           
-            <a href="../_sources/03-reference/main_window.rst.txt" rel="nofollow"> View page source</a>
+            <a href="../_sources/04-appendix/collection.rst.txt" rel="nofollow"> View page source</a>
           
         
       </li>
@@ -169,9 +172,59 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="main-window">
-<h1>Main window<a class="headerlink" href="#main-window" title="Permalink to this headline">¶</a></h1>
-<p>TODO</p>
+  <div class="section" id="collection">
+<h1>Collection<a class="headerlink" href="#collection" title="Permalink to this headline">¶</a></h1>
+<p>There are two basic ways to plan a flight route:</p>
+<ul>
+<li><p>Menu - Route:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Enter Waypoints</p></li>
+<li><p>Edit existing Route</p></li>
+<li><p>Enter Wind data</p></li>
+<li><p>Enter Aircraft data</p></li>
+</ul>
+</div></blockquote>
+</li>
+<li><dl class="simple">
+<dt>Double touch Maps and open Waypoints</dt><dd><ul class="simple">
+<li><p>Direct will make a route from present position to Waypoint</p></li>
+<li><p>‘+’ to Route will add the Waypoint to the current Route</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+<p>A Route will remain in <strong>Enroute Flight Navigation</strong> until overwritten or
+removed. Routes may be saved or shared.</p>
+<p>The <strong>Enroute Flight Navigation</strong> map display is automatically centered to
+display the own position to have about 80 % of the display area in direction of
+flight.  The map display may be shifted by touching the display and moving it to
+the desired position. After shifting the “Center on Position” Symbol will be
+displayed. After touching he “Center on Position” Symbol the map will be
+centered to give maximum map area in direction of flight again.</p>
+<p><strong>Track Up and North Up Mode</strong></p>
+<p>The <strong>Enroute Flight Navigation</strong> map display may be switched between a Track Up
+display and a North Up display by touching the gray window in the upper right
+area.  Touching the display orientation area toggles between North up and Track
+Up.</p>
+<div class="figure align-center">
+<img alt="../_images/fig_FlightModeTu1.png" src="../_images/fig_FlightModeTu1.png" />
+</div>
+<p><em>Legend</em>:</p>
+<ol class="arabic simple">
+<li><p>Own Position</p></li>
+<li><p>Flight Path Vector (5 Minutes)</p></li>
+<li><p>North Indicator, also area to switch between track up and north up</p></li>
+<li><p>Zoom area</p></li>
+<li><p>Scale</p></li>
+<li><p>Menu area</p></li>
+</ol>
+<p>The North Up mode provides a map display always showing the map north up.  The
+<strong>Enroute Flight Navigation</strong> map display in North Up mode will center the
+display to provide about 80% area in direction of flight.  In case the map
+display has been manually rotated the area besides the direction arrow will show
+the map orientation in degrees.</p>
 </div>
 
 
@@ -179,6 +232,9 @@
            
           </div>
           <footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+        <a href="technical.html" class="btn btn-neutral float-left" title="Technical Notes" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+    </div>
 
   <hr/>
 

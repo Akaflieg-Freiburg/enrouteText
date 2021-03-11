@@ -52,7 +52,7 @@
 \fi
 
 
-\usepackage[Bjarne]{fncychap}
+\usepackage[Bjornstrup]{fncychap}
 \usepackage{sphinx}
 
 \fvset{fontsize=\small}
@@ -71,10 +71,10 @@
 \usepackage{sphinxmessages}
 \setcounter{tocdepth}{1}
 
-
+\input{../../latexPreamble.tex.txt}
 
 \title{Enroute Flight Navigation}
-\date{Mar 08, 2021}
+\date{Mar 11, 2021}
 \release{2.2.4}
 \author{Stefan Kebekus}
 \newcommand{\sphinxlogo}{\vbox{}}
@@ -96,7 +96,11 @@
 Enroute Flight Navigation is a free flight navigation app for Android and other
 devices. Designed to be simple, functional and elegant, it takes the stress out
 of your next flight. The program has been written by flight enthusiasts, as a
-project of \sphinxhref{https://akaflieg-freiburg.de/}{Akaflieg Freiburg}, a flight club
+project of \sphinxhref{https://akaflieg-freiburg.de/}{Akaflieg Freiburg}%
+\begin{footnote}[1]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://akaflieg-freiburg.de/}
+%
+\end{footnote}, a flight club
 based in Freiburg, Germany.
 
 \sphinxAtStartPar
@@ -114,7 +118,11 @@ updates and cover large parts of the world.
 
 \sphinxAtStartPar
 Enroute Flight Navigation includes flight weather data downloaded from the
-\sphinxhref{https://www.aviationweather.gov/}{NOAA \sphinxhyphen{} Aviation Weather Center}.
+\sphinxhref{https://www.aviationweather.gov/}{NOAA \sphinxhyphen{} Aviation Weather Center}%
+\begin{footnote}[2]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://www.aviationweather.gov/}
+%
+\end{footnote}.
 
 \sphinxAtStartPar
 While Enroute Flight Navigation is no substitute for full\sphinxhyphen{}featured flight
@@ -124,11 +132,9 @@ consumption. If the weather turns bad, the app will show you the closest
 airfields for landing, complete with distances, directions, runway information
 and frequencies.
 
-\part{Getting started}
-
 
 \chapter{Think before you fly}
-\label{\detokenize{01-intro/think:think-before-you-fly}}\label{\detokenize{01-intro/think::doc}}
+\label{\detokenize{01-intro/01-think:think-before-you-fly}}\label{\detokenize{01-intro/01-think::doc}}
 \sphinxAtStartPar
 \sphinxstylestrong{Enroute Flight Navigation} is a free software product that has been published
 in the hope that it might be useful as an aid to prudent navigation.  It comes
@@ -144,13 +150,17 @@ airspace data source.
 \sphinxAtStartPar
 Always use official flight navigation data for flight preparation
 and navigate by officially authorized means. The use of non\sphinxhyphen{}certified
-navigation devices and software like \sphinxstylestrong{Enroute Flight Navigation} as
+navigation devices and software like \sphinxstylestrong{Enroute Flight Navigation} as a
 primary source of navigation may cause accidents leading to loss of lives.
 \end{sphinxadmonition}
 
 \sphinxAtStartPar
 We do not believe that the use of \sphinxstylestrong{Enroute Flight Navigation} fulfills the
-requirement of the EU Regulation \sphinxhref{https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:281:0001:0066:EN:PDF}{No 923/2012:SERA.2010}
+requirement of the EU Regulation \sphinxhref{https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:281:0001:0066:EN:PDF}{No 923/2012:SERA.2010}%
+\begin{footnote}[3]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2012:281:0001:0066:EN:PDF}
+%
+\end{footnote}
 \begin{quote}
 
 \sphinxAtStartPar
@@ -165,7 +175,7 @@ stupid and potentially suicidal.
 
 
 \section{Software limitations}
-\label{\detokenize{01-intro/think:software-limitations}}
+\label{\detokenize{01-intro/01-think:software-limitations}}
 \sphinxAtStartPar
 \sphinxstylestrong{Enroute Flight Navigation} is not an officially approved flight navigation
 software.  It is not officially approved or certified in any way.  The software
@@ -173,7 +183,7 @@ comes with no guarantee and might contain bugs.
 
 
 \section{Navigational data and aviation data}
-\label{\detokenize{01-intro/think:navigational-data-and-aviation-data}}
+\label{\detokenize{01-intro/01-think:navigational-data-and-aviation-data}}
 \sphinxAtStartPar
 Navigational\textendash{} and aviation data, including airspace and airfield information,
 are provided “as is” and without any guarantee, official validation,
@@ -182,7 +192,7 @@ might be incomplete, outdated or otherwise incorrect.
 
 
 \section{Operating system limitations}
-\label{\detokenize{01-intro/think:operating-system-limitations}}
+\label{\detokenize{01-intro/01-think:operating-system-limitations}}
 \sphinxAtStartPar
 We expect that most users will run the software on mobile phones or tablet
 computers running the Android operating system.  Android is not officially
@@ -207,14 +217,18 @@ These apps cannot be uninstalled by the users, do not comply with Android
 standards and are often extremely buggy.  At times, users can manually excempt
 apps from “battery saving mode”, but the settings are usually lost on system
 updates.  Google’s own “Pixel” and “Nexus” devices do not have these problems.
-See the web site \sphinxhref{https://dontkillmyapp.com}{Don’t kill my app} for more
+See the website \sphinxhref{https://dontkillmyapp.com}{Don’t kill my app}%
+\begin{footnote}[4]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://dontkillmyapp.com}
+%
+\end{footnote} for more
 information.
 
 \end{itemize}
 
 
 \section{Hardware limitations}
-\label{\detokenize{01-intro/think:hardware-limitations}}
+\label{\detokenize{01-intro/01-think:hardware-limitations}}
 \sphinxAtStartPar
 \sphinxstylestrong{Enroute Flight Navigation} runs on a variety of hardware platforms, but we
 expect that most users will run the software on mobile phones, tablet computers
@@ -232,477 +246,273 @@ Your device can overheat. Batteries can catch fire.
 
 \item {} 
 \sphinxAtStartPar
-Battery capacity is limited.  Even if your is connected to power via a USB
-cable, note that there are devices where display and/or CPU use more energy
-than USB can deliver.
+Battery capacity is limited.  Even if your device is connected to power via a
+USB cable, the display and/or CPU might use more energy than USB can deliver.
 
 \end{itemize}
 
 
 \chapter{Getting started}
-\label{\detokenize{01-intro/getting_started:getting-started}}\label{\detokenize{01-intro/getting_started::doc}}
+\label{\detokenize{01-intro/02-getting_started:getting-started}}\label{\detokenize{01-intro/02-getting_started::doc}}
 
-\section{App Installation: Android}
-\label{\detokenize{01-intro/getting_started:app-installation-android}}
+\section{App installation}
+\label{\detokenize{01-intro/02-getting_started:app-installation}}\begin{description}
+\item[{Installation on Android devices}] \leavevmode
 \sphinxAtStartPar
-\sphinxstylestrong{Enroute Flight Navigation} is available as an Android App in the \sphinxhref{https://play.google.com/store/apps/details?id=de.akaflieg\_freiburg.enroute}{Google Play
-Store}.
-
-\sphinxAtStartPar
-An unofficial version of the app is also available at \sphinxhref{https://f-droid.org/de/packages/de.akaflieg\_freiburg.enroute/}{F\sphinxhyphen{}Droid}.  While the
-author of \sphinxstylestrong{Enroute Flight Navigation} endorses publication at F\sphinxhyphen{}Droid, he has
-not tested this unofficial app for quality.
-
-
-\section{App Installation: Linux Desktop}
-\label{\detokenize{01-intro/getting_started:app-installation-linux-desktop}}
-\sphinxAtStartPar
-Enroute Flight Navigation is available for free download at \sphinxhref{https://flathub.org/apps/details/de.akaflieg\_freiburg.enroute}{flathub.org} and
-\sphinxhref{https://snapcraft.io/enroute-flight-navigation}{snapcraft.io}, but you might
-also find the app in the software management application on your computer.
-
-
-\section{Installing maps}
-\label{\detokenize{01-intro/getting_started:installing-maps}}
-\sphinxAtStartPar
-To use \sphinxstylestrong{Enroute Flight Navigation} you have to install Maps covering the area
-of flight.  For installing Maps the following steps have to be followed:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Open the Menu by touching the area in the upper right side of the screen
-
-\item {} 
-\sphinxAtStartPar
-Open the menu item ‘Settings’
-
-\item {} 
-\sphinxAtStartPar
-touch the item ‘Maps’ in the \sphinxstyleemphasis{Libraries} section
-
-\item {} 
-\sphinxAtStartPar
-Select the desired Maps by clicking the download Symbol
-
-\end{itemize}
+\sphinxstylestrong{Enroute Flight Navigation} is available as an Android App in the \sphinxhref{https://play.google.com/store/apps/details?id=de.akaflieg\_freiburg.enroute}{Google
+Play Store}%
+\begin{footnote}[5]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://play.google.com/store/apps/details?id=de.akaflieg\_freiburg.enroute}
+%
+\end{footnote}.
 
 \sphinxAtStartPar
-The Map display is composed of two layers selected in the respective Tabs of the
-‘Map Library’ screen:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Aeronautical Map
+An unofficial version of the app is also available at \sphinxhref{https://f-droid.org/de/packages/de.akaflieg\_freiburg.enroute/}{F\sphinxhyphen{}Droid}%
+\begin{footnote}[6]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://f-droid.org/de/packages/de.akaflieg\_freiburg.enroute/}
+%
+\end{footnote}.  While the
+author of \sphinxstylestrong{Enroute Flight Navigation} endorses publication at F\sphinxhyphen{}Droid, he
+has not tested this unofficial app for quality.
 
-\item {} 
+\item[{Installation on Linux desktop machines}] \leavevmode
 \sphinxAtStartPar
-Base Map
-
-\end{itemize}
-
-\begin{sphinxadmonition}{caution}{Caution:}
-\sphinxAtStartPar
-Make sure Aeronautical and Base Map are installed for desired area
-of flight to avoid flight into areas without map display.
-\end{sphinxadmonition}
-
-\sphinxAtStartPar
-\sphinxstylestrong{Aeronautical Maps}
-
-\sphinxAtStartPar
-The Aeronautical Map layers is showing the airspace data on the Map screen. If no Base Map is installed for the area only the information coming from the Aviation Map data is displayed.
-
-\sphinxAtStartPar
-The Aeronautical Map contains:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Airfields
-
-\item {} 
-\sphinxAtStartPar
-Airspace boundaries
-
-\item {} 
-\sphinxAtStartPar
-Navaids
-
-\item {} 
-\sphinxAtStartPar
-Reporting points and routes (if available)
-
-\end{itemize}
-
-\sphinxAtStartPar
-The display used for aerospace data is using the following basic color scheme:
-\begin{itemize}
-\item {} \begin{description}
-\item[{Red:}] \leavevmode\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Line with shadow inside for Restricted Airspace
-
-\item {} 
-\sphinxAtStartPar
-Shadow with dashed blue border for Aerodrome Control Zone (CTR)
-
-\item {} 
-\sphinxAtStartPar
-Dashed Line for Parachute Jumping Exercise area
-
-\item {} 
-\sphinxAtStartPar
-Line for Glider or Microlight Traffic pattern
-
-\end{itemize}
+\sphinxstylestrong{Enroute Flight Navigation} is available for free download at \sphinxhref{https://flathub.org/apps/details/de.akaflieg\_freiburg.enroute}{flathub.org}%
+\begin{footnote}[7]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://flathub.org/apps/details/de.akaflieg\_freiburg.enroute}
+%
+\end{footnote} and
+\sphinxhref{https://snapcraft.io/enroute-flight-navigation}{snapcraft.io}%
+\begin{footnote}[8]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://snapcraft.io/enroute-flight-navigation}
+%
+\end{footnote}.  Most likely
+you will also find the app in the software management application on your
+computer.
 
 \end{description}
 
-\item {} 
 \sphinxAtStartPar
-Blue:
+After installation, start the app.  Depending on the platform, you might need to
+grant the necessary permissions.  You will be asked to accept the terms and
+conditions.
+
+
+\section{Map download}
+\label{\detokenize{01-intro/02-getting_started:map-download}}
+\sphinxAtStartPar
+\sphinxstylestrong{Enroute Flight Navigation} cannot be used without geographic maps.  Two types
+of maps need to be installed for every region where you fly.
 \begin{itemize}
 \item {} 
 \sphinxAtStartPar
-Line with shadow for controlled airspace (A, B, C, D)
+Aeronautical maps.  These contain airspaces, airfields and navaids.  Some maps
+also contain reporting points, airfield traffic circuits and control zone
+entry/exit routes.
 
 \item {} 
 \sphinxAtStartPar
-Shadow with dashed blue border for Radio Mandatory Zone (RMZ)
-
-\item {} 
-\sphinxAtStartPar
-Airport, reporting point or Navaid  symbols
-
-\item {} 
-\sphinxAtStartPar
-For Route or Traffic Pattern for powered aircraft
+Base maps.  These contain geographic data, such as rivers, roads, railroads
+and land use.
 
 \end{itemize}
 
-\item {} 
 \sphinxAtStartPar
-Green:
+Follow these steps to install the maps that you need.
 \begin{itemize}
 \item {} 
 \sphinxAtStartPar
-Line with shadow for Natural Reserve Area (NRA)
+Open the Menu by touching the menu button in the upper right side of the
+screen.  The button is marked with the symbol ‘☰’.
 
 \item {} 
 \sphinxAtStartPar
-Line for airspace control sector boundaries
+Choose the menu item \sphinxstyleemphasis{Settings}.
+
+\item {} 
+\sphinxAtStartPar
+On the settings page, choose the item \sphinxstyleemphasis{Maps} in the \sphinxstyleemphasis{Libraries} section.
+
+\item {} 
+\sphinxAtStartPar
+On the map page, click or tap on the desired maps.  The maps will then be
+downloaded and installed on your device.
 
 \end{itemize}
-
-\item {} 
-\sphinxAtStartPar
-Black:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Dashed Line for Transponder Mandatory Zone (TMZ)
-
-\end{itemize}
-
-\end{itemize}
-
-\sphinxAtStartPar
-\sphinxstylestrong{Class 1 and Class 2 maps:}
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Class 1 maps are compiled from openAIP and open flightmaps data. These maps
-contain complete information about airspaces, airfields and navaids. In
-addition, the maps contain (mandatory) reporting points. Some of our tier 1
-maps also show traffic circuits and flight procedures for control zones.
-
-\item {} 
-\sphinxAtStartPar
-Class 2 maps are compiled from openAIP data only. They contain complete
-information about airspaces, airfields and navaids.
-
-\end{itemize}
-
-\sphinxAtStartPar
-Details on the maps may be found at
-\textless{}\sphinxurl{https://akaflieg-freiburg.github.io/enroute/maps/}\textgreater{} The Aeronautical Map data is
-selected on the “Map Library” \textendash{} “Aviation Data” page accessed via the “Settings”
-Menu.  To update the list of available maps the “…” option in the upper right
-corner of the screen may be used.  You may install or uninstall the aviation Map
-data for a county by the selection on the right hand side of the country
-list. To find a country you have to scroll up and down in the list.
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-To have optimum presentation of the \sphinxstylestrong{Enroute Flight Navigation} map
-display install the Aviation Map and the Base Map for all areas you intend
-to use \sphinxstylestrong{Enroute Flight Navigation}.
-\end{sphinxadmonition}
 
 \begin{sphinxadmonition}{caution}{Caution:}
 \sphinxAtStartPar
-No airspace information will be provided in country when the
-Aeronautical Map is not installed for it.
+Do not forget that you need aeronautical maps \sphinxstylestrong{and} base maps for
+the desired area of flight.
 \end{sphinxadmonition}
 
 \begin{sphinxadmonition}{note}{Note:}
 \sphinxAtStartPar
-\sphinxstylestrong{Enroute Flight Navigation} will automatically check for updated
-Maps on the Enroute server and show a pop\sphinxhyphen{}up window after start if updated
-maps have been detected.  You will be asked if you want to update the map or
-delay the update.
-\end{sphinxadmonition}
-
-\sphinxAtStartPar
-\sphinxstylestrong{Base Map}
-
-\sphinxAtStartPar
-The Base Map layers is showing the geographic data on the Map screen. If no Base Map is shown for an area it will be shown in the white background color. If no Aviation Map is installed for the area only the information coming from the Base Map data is displayed. The Base Map is organized in tiles. This will result in not stopping the Base Map display abruptly at the border of an installed country, but showing some overlap.
-The Base Map will show:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Landmass
-
-\item {} 
-\sphinxAtStartPar
-Water Surface (oceans, lakes and rivers)
-
-\item {} 
-\sphinxAtStartPar
-Forests
-
-\item {} 
-\sphinxAtStartPar
-Main Roads
-
-\item {} 
-\sphinxAtStartPar
-Railroad lines
-
-\item {} 
-\sphinxAtStartPar
-City names
-
-\end{itemize}
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-To have optimum presentation of the \sphinxstylestrong{Enroute Flight Navigation} map
-display install the Aeronautical Map and the Base Map for all areas you
-intend to use \sphinxstylestrong{Enroute Flight Navigation}.
+The base maps are large.  Make sure that you have a good internet
+connection before you download maps.  It might be inadvisable to download
+maps via the mobile phone network.
 \end{sphinxadmonition}
 
 \begin{sphinxadmonition}{note}{Note:}
 \sphinxAtStartPar
-\sphinxstylestrong{Enroute Flight Navigation} will not show most cultural build ups
-and limits or settled area boundaries to reduce the map size.
+Please download only those maps that you will actually need.  The
+infrastructure and bandwidth for map downloads is kindly sponsored by the
+University of Freiburg, under the assumption that the costs stays within
+reasonable limits.  You will also find that the app performs much better if
+it does not have to process many megabytes of map data.
 \end{sphinxadmonition}
 
+\sphinxAtStartPar
+Once the map download has finished, \sphinxstylestrong{Enroute Flight Navigation} will process
+the map data and update the map display after a minute or so.  Tap or click on
+the arrow symbol ‘←’ or use the Android ‘Back’ button to leave the map page and
+return to the main screen.
 
-\section{Flight mode and ground mode}
-\label{\detokenize{01-intro/getting_started:flight-mode-and-ground-mode}}
+\sphinxAtStartPar
+You are now ready to go.  Look around any play with the app!
+
+
+\section{The moving map}
+\label{\detokenize{01-intro/02-getting_started:the-moving-map}}
+\sphinxAtStartPar
+Now you are ready for the first use of \sphinxstylestrong{Enroute Flight Navigation}.  General
+operation is very intuitive.  Still, we recommend that you take a minute to make
+yourself familiar with the moving map display.
+
 \sphinxAtStartPar
 \sphinxstylestrong{Ground Mode}
 
 \sphinxAtStartPar
-Ground Mode is displayed by \sphinxstylestrong{Enroute Flight Navigation} whenever the sensed
-speed is below the threshold and the Menu item ‘Automatic Flight Detection’ is
-not set to ‘Always in Flight Mode’.  Ground Mode does not display the Flight
-Data line at the lower end of the screen and is intended for flight planning.
+The figure {\hyperref[\detokenize{01-intro/02-getting_started:movingmapgroundmode}]{\sphinxcrossref{\DUrole{std,std-ref}{Moving map display in ground mode}}}} shows how the display will look while you
+are on the ground.
 
 \begin{figure}[htbp]
 \centering
+\capstart
 
-\noindent\sphinxincludegraphics{{fig_GroundMode}.png}
-\end{figure}
-
-\sphinxAtStartPar
-\sphinxstyleemphasis{Legend}:
+\noindent\sphinxincludegraphics[scale=0.5]{{fig_GroundMode}.png}
+\caption{Moving map display in ground mode}\label{\detokenize{01-intro/02-getting_started:id1}}\label{\detokenize{01-intro/02-getting_started:movingmapgroundmode}}\end{figure}
 \begin{enumerate}
 \sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
 \item {} 
 \sphinxAtStartPar
-Own Position (No valid GPS position)
+Own Position.  The own position indicator will be gray if the satellite
+navigation system has not yet acquired a valid position.  It will be
+displayed in blue color if GPS position is available.  The own position will
+be indicated as round shape when no motion is sensed and displayed as an
+arrow when moving.
 
 \item {} 
 \sphinxAtStartPar
-North Indicator, also area to switch between track up and north up
+North Indicator.  This button can also be used to switch between the display
+modes \sphinxstyleemphasis{track up} and \sphinxstyleemphasis{north up}.
 
 \item {} 
 \sphinxAtStartPar
-Zoom area to increase map scale (+) and reduce map scale (\sphinxhyphen{})
+Zoom buttons.
 
 \item {} 
 \sphinxAtStartPar
-Map Scale reference indicator
+Map Scale.
 
 \item {} 
 \sphinxAtStartPar
-Menu area
+Menu button.
 
 \end{enumerate}
 
 \sphinxAtStartPar
-There are two basic ways to plan a flight route:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Menu \sphinxhyphen{} Route:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Enter Waypoints
-
-\item {} 
-\sphinxAtStartPar
-Edit existing Route
-
-\item {} 
-\sphinxAtStartPar
-Enter Wind data
-
-\item {} 
-\sphinxAtStartPar
-Enter Aircraft data
-
-\end{itemize}
-
-\item {} \begin{description}
-\item[{Double touch Maps and open Waypoints}] \leavevmode\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Direct will make a route from present position to Waypoint
-
-\item {} 
-\sphinxAtStartPar
-‘+’ to Route will add the Waypoint to the current Route
-
-\end{itemize}
-
-\end{description}
-
-\end{itemize}
-
-\sphinxAtStartPar
-A Route will remain in \sphinxstylestrong{Enroute Flight Navigation} until overwritten or
-removed. Routes may be saved or shared.
+You can use the standard gestures to zoom, pan and rotate the map to your
+liking.  Double tap or tap\sphinxhyphen{}and\sphinxhyphen{}hold anywhere in the map to obtain information
+about the airspace situation at that point.  If you double tap on an airfield,
+navaid or reporting point, detailed information about the facility will be
+shown.
 
 \sphinxAtStartPar
 \sphinxstylestrong{Flight Mode}
 
 \sphinxAtStartPar
-When \sphinxstylestrong{Enroute Flight Navigation} senses a speed above the threshold it will
-automatically switch to flight mode.  For the displays given in flight mode
-refer to Figure 3: Flight Mode (Track Up) In flight mode the following
-additional items will be displayed:
-* The own position will be changes from a dot to an arrow
-* A segmented flight path for the next 5 minutes will be indicated
-* A flight data line will indicate the following GPS data:
-* Altitude in feet (or meters if metric units selected)
-* Ground Speed in knots (or km/h if metric units selected)
-* Track in reference to true north
-* Universal Coordinated Time (UTC)
+As soon as you are flying, the moving maps switches to \sphinxstyleemphasis{flight mode}.  The
+figure {\hyperref[\detokenize{01-intro/02-getting_started:movingmapflightmode}]{\sphinxcrossref{\DUrole{std,std-ref}{Moving map display in flight mode}}}} shows how the display will look while you are
+in the air.
+
+\begin{sphinxadmonition}{note}{Note:}
+\sphinxAtStartPar
+Flight detection might fail in slow\sphinxhyphen{}flying aircraft, such as balloons
+or paragliders.  The settings allow to force the flight mode to “on”.
+\end{sphinxadmonition}
 
 \begin{figure}[htbp]
 \centering
+\capstart
 
-\noindent\sphinxincludegraphics{{fig_FlightModeTu}.png}
-\end{figure}
-
-\sphinxAtStartPar
-\sphinxstyleemphasis{Legend}:
+\noindent\sphinxincludegraphics[scale=0.5]{{fig_FlightModeTu}.png}
+\caption{Moving map display in flight mode}\label{\detokenize{01-intro/02-getting_started:id2}}\label{\detokenize{01-intro/02-getting_started:movingmapflightmode}}\end{figure}
 \begin{enumerate}
 \sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
 \item {} 
 \sphinxAtStartPar
-Own Position
+Own Position.  The blue arrow shape indicates that the satellite navigation
+system knows your position and your direction of movement.
 
 \item {} 
 \sphinxAtStartPar
-Flight Path Vector (5 Minutes)
+Flight Path Vector, showing the projected track for the next five Minutes.
 
 \item {} 
 \sphinxAtStartPar
-North Indicator, also area to switch between track up and north up
+North Indicator.  This button can also be used to switch between the display
+modes \sphinxstyleemphasis{track up} and \sphinxstyleemphasis{north up}.
 
 \item {} 
 \sphinxAtStartPar
-Center on Position area
+Autopan button.  Click this button to switch to \sphinxstyleemphasis{autopan mode} where the map
+is automatically centered about your current position.  Pan the map manually
+to stop the \sphinxstyleemphasis{autopan mode}.
 
 \item {} 
 \sphinxAtStartPar
-Zoom area
+Zoom buttons.
 
 \item {} 
 \sphinxAtStartPar
-Menu area
+Menu button.
 
 \end{enumerate}
 
 \sphinxAtStartPar
-The \sphinxstylestrong{Enroute Flight Navigation} map display is automatically centered to
-display the own position to have about 80 \% of the display area in direction of
-flight.  The map display may be shifted by touching the display and moving it to
-the desired position. After shifting the “Center on Position” Symbol will be
-displayed. After touching he “Center on Position” Symbol the map will be
-centered to give maximum map area in direction of flight again.
-
-\sphinxAtStartPar
-\sphinxstylestrong{Track Up and North Up Mode}
-
-\sphinxAtStartPar
-The \sphinxstylestrong{Enroute Flight Navigation} map display may be switched between a Track Up
-display and a North Up display by touching the gray window in the upper right
-area.  Touching the display orientation area toggles between North up and Track
-Up.
-
-\begin{figure}[htbp]
-\centering
-
-\noindent\sphinxincludegraphics{{fig_FlightModeTu}.png}
-\end{figure}
-
-\sphinxAtStartPar
-\sphinxstyleemphasis{Legend}:
-\begin{enumerate}
-\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
+The bottom of the display shows a little panel with the following information.
+\begin{itemize}
 \item {} 
 \sphinxAtStartPar
-Own Position
+Altitude
 
 \item {} 
 \sphinxAtStartPar
-Flight Path Vector (5 Minutes)
+Ground Speed
 
 \item {} 
 \sphinxAtStartPar
-North Indicator, also area to switch between track up and north up
+True Track
 
 \item {} 
 \sphinxAtStartPar
-Zoom area
+Universal Coordinated Time (UTC)
 
-\item {} 
+\end{itemize}
+
+\begin{sphinxadmonition}{warning}{Warning:}
 \sphinxAtStartPar
-Scale
-
-\item {} 
-\sphinxAtStartPar
-Menu area
-
-\end{enumerate}
-
-\sphinxAtStartPar
-The North Up mode provides a map display always showing the map north up.  The
-\sphinxstylestrong{Enroute Flight Navigation} map display in North Up mode will center the
-display to provide about 80\% area in direction of flight.  In case the map
-display has been manually rotated the area besides the direction arrow will show
-the map orientation in degrees.
+The display shows the altitude reported by the satellite navigation
+system, with geoid corrections applied.  Depending on temperature and air
+density, the value will generally differ from the value shown by your
+barometric altimeter, even if the altimeter is set to QNH.  \sphinxstylestrong{The altitude
+reading must not be used for navigation in airspace classes C and D.}
+\end{sphinxadmonition}
 
 
 \section{Your first flight}
-\label{\detokenize{01-intro/getting_started:your-first-flight}}
+\label{\detokenize{01-intro/02-getting_started:your-first-flight}}
 \sphinxAtStartPar
 Now you are ready for the first use of \sphinxstylestrong{Enroute Flight Navigation}. General
 operation is very intuitive. The primary purpose of \sphinxstylestrong{Enroute Flight
@@ -711,12 +521,14 @@ starting the app.  Before using the moving map function you have to make sure
 the GPS of your mobile device is operating properly. The own position indicator
 will be gray if GPS position is not available and will be displayed in blue
 color if GPS position is available. The own position will be indicated as round
-shape when no motion is sensed and displayed as arrow with flight path marker
+shape when no motion is sensed and displayed as an arrow with flight path marker
 when moving.
 
 \begin{sphinxadmonition}{warning}{Warning:}
 \sphinxAtStartPar
-Make sure the GPS position is correct and valid to avoid loss of situational awareness. Loss of situational awareness is a common cause of severe accidents in aviation.
+Make sure the GPS position is correct and valid to avoid loss of
+situational awareness. Loss of situational awareness is a common cause of
+severe accidents in aviation.
 \end{sphinxadmonition}
 
 \sphinxAtStartPar
@@ -754,13 +566,16 @@ Select (+) ‘to Route’
 \end{enumerate}
 
 \sphinxAtStartPar
-The planned route will be displayed as light green line on the map display. More detailed information on route planning will be given in the dedicated section.
+The planned route will be displayed as a light green line on the map
+display. More detailed information on route planning will be given in the
+dedicated section.
 
 \sphinxAtStartPar
 \sphinxstylestrong{Airspace awareness}
 
 \sphinxAtStartPar
-Information related to any selected point on the Map will be displayed when double touching a point.
+Information related to any selected point on the Map will be displayed when
+double touching a point.
 
 \sphinxAtStartPar
 The displayed Information for arbitrary points will include:
@@ -796,7 +611,8 @@ Designation, controlling agency and radio frequencies
 
 \item {} 
 \sphinxAtStartPar
-Airspace classification including related radio frequencies and transponder code
+Airspace classification including related radio frequencies and transponder
+code
 
 \end{itemize}
 
@@ -825,7 +641,8 @@ Airfield data for Runways and field elevation
 
 \item {} 
 \sphinxAtStartPar
-Airspace classification including related radio frequencies and transponder code
+Airspace classification including related radio frequencies and transponder
+code
 
 \end{itemize}
 
@@ -1387,7 +1204,9 @@ Fuel Consumption: Average Fuel consumption per hour
 \sphinxAtStartPar
 In order to display nearby traffic on the moving map, \sphinxstylestrong{Enroute Flight
 Navigation} can connect to your aircraft’s traffic receiver (typically a FLARM
-device).
+device).  In order to show only relevant information, \sphinxstylestrong{Enroute Flight
+Navigation} will not display traffic more than 1.500 m above or below the own
+position.
 
 \sphinxAtStartPar
 The app author has tested the \sphinxstylestrong{Enroute Flight Navigation} with the following
@@ -1395,8 +1214,16 @@ traffic receivers.
 \begin{itemize}
 \item {} 
 \sphinxAtStartPar
-\sphinxhref{http://www.air-avionics.com/?page\_id=253}{AT\sphinxhyphen{}1 AIR Traffic} by \sphinxhref{http://www.air-avionics.com/}{Air
-Avionics} with software version 5.
+\sphinxhref{http://www.air-avionics.com/?page\_id=253}{AT\sphinxhyphen{}1 AIR Traffic}%
+\begin{footnote}[9]\sphinxAtStartFootnote
+\sphinxnolinkurl{http://www.air-avionics.com/?page\_id=253}
+%
+\end{footnote} by \sphinxhref{http://www.air-avionics.com/}{Air
+Avionics}%
+\begin{footnote}[10]\sphinxAtStartFootnote
+\sphinxnolinkurl{http://www.air-avionics.com/}
+%
+\end{footnote} with software version 5.
 
 \end{itemize}
 
@@ -1405,11 +1232,19 @@ Users reported success with the following traffic receivers.
 \begin{itemize}
 \item {} 
 \sphinxAtStartPar
-\sphinxhref{http://stratux.me/}{Stratux devices}
+\sphinxhref{http://stratux.me/}{Stratux devices}%
+\begin{footnote}[11]\sphinxAtStartFootnote
+\sphinxnolinkurl{http://stratux.me/}
+%
+\end{footnote}
 
 \item {} 
 \sphinxAtStartPar
-\sphinxhref{https://www.amazon.de/TTGO-T-Beam-915Mhz-Wireless-Bluetooth/dp/B07SFVQ3Z8}{TTGO T\sphinxhyphen{}Beam devices}
+\sphinxhref{https://www.amazon.de/TTGO-T-Beam-915Mhz-Wireless-Bluetooth/dp/B07SFVQ3Z8}{TTGO T\sphinxhyphen{}Beam devices}%
+\begin{footnote}[12]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://www.amazon.de/TTGO-T-Beam-915Mhz-Wireless-Bluetooth/dp/B07SFVQ3Z8}
+%
+\end{footnote}
 
 \end{itemize}
 
@@ -1449,7 +1284,7 @@ additional password is required.
 \section{Connecting to the traffic receiver}
 \label{\detokenize{02-steps/traffic:connecting-to-the-traffic-receiver}}
 \sphinxAtStartPar
-It takes a two steps to connect \sphinxstylestrong{Enroute Flight Navigation} to the traffic
+It takes two steps to connect \sphinxstylestrong{Enroute Flight Navigation} to the traffic
 receiver for the first time. Once things are set up properly, your device should
 automatically detect the traffic receiver’s WLAN network, enter the network and
 connect to the traffic data stream whenever you go flying.
@@ -1476,8 +1311,8 @@ the WLAN network.
 
 \sphinxAtStartPar
 Most operating systems will offer to remember the connection, so that your
-device will automatically connect to this WLAN in the future. We recommend to
-use this option.
+device will automatically connect to this WLAN in the future. We recommend using
+this option.
 
 \sphinxAtStartPar
 Step 2: Connect to the traffic data stream
@@ -1527,7 +1362,7 @@ network. The other device might well be in your friend’s pocket!
 
 \item {} 
 \sphinxAtStartPar
-Make sure that there is no other app trying to connected to the traffic
+Make sure that there is no other app trying to connect to the traffic
 receiver’s data stream.
 
 \item {} 
@@ -1536,8 +1371,6 @@ Many traffic receivers offer “configuration panels” that can be accessed via
 web browser. Close all web browsers.
 
 \end{itemize}
-
- \part{Reference manual}
 
 
 \chapter{Map Data}
@@ -1673,6 +1506,234 @@ The Enroute Flight Naviagtion base maps are edited versions of maps kindly provi
 \sphinxAtStartPar
 Open Street Map (OSM) is a collaborative project to create a free editable map of the world. The geodata underlying the map is considered the primary output of the project. The creation and growth of OSM has been motivated by restrictions on use or availability of map data across much of the world, and the advent of inexpensive portable satellite navigation devices.
 The Open Street Map data is used to crate the base maps.
+
+
+\chapter{Other}
+\label{\detokenize{03-reference/map_data:other}}
+\sphinxAtStartPar
+The Map display is composed of two layers selected in the respective Tabs of the
+‘Map Library’ screen:
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+Aeronautical Map
+
+\item {} 
+\sphinxAtStartPar
+Base Map
+
+\end{itemize}
+
+\sphinxAtStartPar
+\sphinxstylestrong{Aeronautical Maps}
+
+\sphinxAtStartPar
+The Aeronautical Map layers is showing the airspace data on the Map screen. If
+no Base Map is installed for the area only the information coming from the
+Aviation Map data is displayed.
+
+\sphinxAtStartPar
+The Aeronautical Map contains:
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+Airfields
+
+\item {} 
+\sphinxAtStartPar
+Airspace boundaries
+
+\item {} 
+\sphinxAtStartPar
+Navaids
+
+\item {} 
+\sphinxAtStartPar
+Reporting points and routes (if available)
+
+\end{itemize}
+
+\sphinxAtStartPar
+The display used for aerospace data is using the following basic color scheme:
+\begin{itemize}
+\item {} \begin{description}
+\item[{Red:}] \leavevmode\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+Line with shadow inside for Restricted Airspace
+
+\item {} 
+\sphinxAtStartPar
+Shadow with dashed blue border for Aerodrome Control Zone (CTR)
+
+\item {} 
+\sphinxAtStartPar
+Dashed Line for Parachute Jumping Exercise area
+
+\item {} 
+\sphinxAtStartPar
+Line for Glider or Microlight Traffic pattern
+
+\end{itemize}
+
+\end{description}
+
+\item {} 
+\sphinxAtStartPar
+Blue:
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+Line with shadow for controlled airspace (A, B, C, D)
+
+\item {} 
+\sphinxAtStartPar
+Shadow with dashed blue border for Radio Mandatory Zone (RMZ)
+
+\item {} 
+\sphinxAtStartPar
+Airport, reporting point or Navaid  symbols
+
+\item {} 
+\sphinxAtStartPar
+For Route or Traffic Pattern for powered aircraft
+
+\end{itemize}
+
+\item {} 
+\sphinxAtStartPar
+Green:
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+Line with shadow for Natural Reserve Area (NRA)
+
+\item {} 
+\sphinxAtStartPar
+Line for airspace control sector boundaries
+
+\end{itemize}
+
+\item {} 
+\sphinxAtStartPar
+Black:
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+Dashed Line for Transponder Mandatory Zone (TMZ)
+
+\end{itemize}
+
+\end{itemize}
+
+\sphinxAtStartPar
+\sphinxstylestrong{Class 1 and Class 2 maps:}
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+Class 1 maps are compiled from openAIP and open flightmaps data. These maps
+contain complete information about airspaces, airfields and navaids. In
+addition, the maps contain (mandatory) reporting points. Some of our tier 1
+maps also show traffic circuits and flight procedures for control zones.
+
+\item {} 
+\sphinxAtStartPar
+Class 2 maps are compiled from openAIP data only. They contain complete
+information about airspaces, airfields and navaids.
+
+\end{itemize}
+
+\sphinxAtStartPar
+Details on the maps may be found at
+\textless{}\sphinxurl{https://akaflieg-freiburg.github.io/enroute/maps/}\textgreater{} The Aeronautical Map data is
+selected on the “Map Library” \textendash{} “Aviation Data” page accessed via the “Settings”
+Menu.  To update the list of available maps the “…” option in the upper right
+corner of the screen may be used.  You may install or uninstall the aviation Map
+data for a county by the selection on the right hand side of the country
+list. To find a country you have to scroll up and down in the list.
+
+\begin{sphinxadmonition}{note}{Note:}
+\sphinxAtStartPar
+To have optimum presentation of the \sphinxstylestrong{Enroute Flight Navigation} map
+display install the Aviation Map and the Base Map for all areas you intend
+to use \sphinxstylestrong{Enroute Flight Navigation}.
+\end{sphinxadmonition}
+
+\begin{sphinxadmonition}{caution}{Caution:}
+\sphinxAtStartPar
+No airspace information will be provided in country when the
+Aeronautical Map is not installed for it.
+\end{sphinxadmonition}
+
+\begin{sphinxadmonition}{note}{Note:}
+\sphinxAtStartPar
+\sphinxstylestrong{Enroute Flight Navigation} will automatically check for updated
+Maps on the Enroute server and show a pop\sphinxhyphen{}up window after start if updated
+maps have been detected.  You will be asked if you want to update the map or
+delay the update.
+\end{sphinxadmonition}
+
+\sphinxAtStartPar
+\sphinxstylestrong{Base Map}
+
+\sphinxAtStartPar
+The Base Map layers is showing the geographic data on the Map screen. If no Base
+Map is shown for an area it will be shown in the white background color. If no
+Aviation Map is installed for the area only the information coming from the Base
+Map data is displayed. The Base Map is organized in tiles. This will result in
+not stopping the Base Map display abruptly at the border of an installed
+country, but showing some overlap.  The Base Map will show:
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+Landmass
+
+\item {} 
+\sphinxAtStartPar
+Water Surface (oceans, lakes and rivers)
+
+\item {} 
+\sphinxAtStartPar
+Forests
+
+\item {} 
+\sphinxAtStartPar
+Main Roads
+
+\item {} 
+\sphinxAtStartPar
+Railroad lines
+
+\item {} 
+\sphinxAtStartPar
+City names
+
+\end{itemize}
+
+\begin{sphinxadmonition}{note}{Note:}
+\sphinxAtStartPar
+To have optimum presentation of the \sphinxstylestrong{Enroute Flight Navigation} map
+display install the Aeronautical Map and the Base Map for all areas you
+intend to use \sphinxstylestrong{Enroute Flight Navigation}.
+\end{sphinxadmonition}
+
+\begin{sphinxadmonition}{note}{Note:}
+\sphinxAtStartPar
+\sphinxstylestrong{Enroute Flight Navigation} will not show most cultural build ups
+and limits or settled area boundaries to reduce the map size.
+\end{sphinxadmonition}
+
+
+\section{Flight mode and ground mode}
+\label{\detokenize{03-reference/map_data:flight-mode-and-ground-mode}}
+\sphinxAtStartPar
+\sphinxstylestrong{Ground Mode}
+
+\sphinxAtStartPar
+Ground Mode is displayed by \sphinxstylestrong{Enroute Flight Navigation} whenever the sensed
+speed is below the threshold and the Menu item ‘Automatic Flight Detection’ is
+not set to ‘Always in Flight Mode’.  Ground Mode does not display the Flight
+Data line at the lower end of the screen and is intended for flight planning.
 
 
 \chapter{Airspace Display}
@@ -2190,7 +2251,11 @@ By definition, VFR is ceiling greater than or equal to 3,000 feet AGL and visib
 \label{\detokenize{04-appendix/licenses:license-of-enroute-flight-navigation}}
 \sphinxAtStartPar
 The program \sphinxstylestrong{Enroute Flight Navigation} is licensed under the \sphinxhref{https://www.gnu.org/licenses/gpl-3.0-standalone.html}{GNU General
-Public License V3} or,
+Public License V3}%
+\begin{footnote}[13]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://www.gnu.org/licenses/gpl-3.0-standalone.html}
+%
+\end{footnote} or,
 at your choice, any later version of this license.
 
 
@@ -2198,17 +2263,42 @@ at your choice, any later version of this license.
 \label{\detokenize{04-appendix/licenses:third-party-software-included-in-this-program}}\begin{itemize}
 \item {} 
 \sphinxAtStartPar
-This program includes several libraries from the \sphinxhref{https://qt.io}{Qt project}, licensed under the \sphinxhref{https://www.qt.io/download-open-source}{GNU General Public License V3}.
+This program includes several libraries from the \sphinxhref{https://qt.io}{Qt project}%
+\begin{footnote}[14]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://qt.io}
+%
+\end{footnote}, licensed under the \sphinxhref{https://www.qt.io/download-open-source}{GNU Lesser General Public License
+(LGPL) version 3}%
+\begin{footnote}[15]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://www.qt.io/download-open-source}
+%
+\end{footnote}.
 
 \item {} 
 \sphinxAtStartPar
-This program includes the library \sphinxhref{https://github.com/nitroshare/qhttpengine}{qhttpengine}, which is licensed under the
-\sphinxhref{https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt}{MIT license}.
+This program includes the library \sphinxhref{https://github.com/nitroshare/qhttpengine}{qhttpengine}%
+\begin{footnote}[16]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://github.com/nitroshare/qhttpengine}
+%
+\end{footnote}, which is licensed under the
+\sphinxhref{https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt}{MIT license}%
+\begin{footnote}[17]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt}
+%
+\end{footnote}.
 
 \item {} 
 \sphinxAtStartPar
-This program includes the library \sphinxhref{https://openssl.org}{OpenSSL}, licensed
-under the \sphinxhref{https://www.openssl.org/source/license.html}{Apache License 2.0}.
+This program includes the library \sphinxhref{https://openssl.org}{OpenSSL}%
+\begin{footnote}[18]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://openssl.org}
+%
+\end{footnote}, licensed
+under the \sphinxhref{https://www.openssl.org/source/license.html}{Apache License 2.0}%
+\begin{footnote}[19]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://www.openssl.org/source/license.html}
+%
+\end{footnote}.
 
 \end{itemize}
 
@@ -2217,22 +2307,50 @@ under the \sphinxhref{https://www.openssl.org/source/license.html}{Apache Licens
 \label{\detokenize{04-appendix/licenses:data-included-in-this-program}}\begin{itemize}
 \item {} 
 \sphinxAtStartPar
-This program includes versions of the \sphinxhref{https://github.com/google/roboto}{Google Roboto Fonts}, which are licensed under the \sphinxhref{https://github.com/google/roboto/blob/master/LICENSE}{Apache
-License 2.0}.
+This program includes versions of the \sphinxhref{https://github.com/google/roboto}{Google Roboto Fonts}%
+\begin{footnote}[20]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://github.com/google/roboto}
+%
+\end{footnote}, which are licensed under the \sphinxhref{https://github.com/google/roboto/blob/master/LICENSE}{Apache
+License 2.0}%
+\begin{footnote}[21]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://github.com/google/roboto/blob/master/LICENSE}
+%
+\end{footnote}.
 
 \item {} 
 \sphinxAtStartPar
-This program includes several \sphinxhref{https://github.com/google/material-design-icons}{Google Material Design Icons}, which are licensed under
-the \sphinxhref{https://github.com/google/material-design-icons/blob/master/LICENSE}{Apache License 2.0}.
+This program includes several \sphinxhref{https://github.com/google/material-design-icons}{Google Material Design Icons}%
+\begin{footnote}[22]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://github.com/google/material-design-icons}
+%
+\end{footnote}, which are licensed under
+the \sphinxhref{https://github.com/google/material-design-icons/blob/master/LICENSE}{Apache License 2.0}%
+\begin{footnote}[23]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://github.com/google/material-design-icons/blob/master/LICENSE}
+%
+\end{footnote}.
 
 \item {} 
 \sphinxAtStartPar
 The style specification of the basemap is a modified version of the \sphinxhref{https://github.com/maputnik/osm-liberty}{OSM
-liberty map design}, which is in
+liberty map design}%
+\begin{footnote}[24]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://github.com/maputnik/osm-liberty}
+%
+\end{footnote}, which is in
 turn originally derived from OSM Bright from Mapbox Open Styles. The code is
-licensed under the \sphinxhref{https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md}{BSD license}. The OSM
+licensed under the \sphinxhref{https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md}{BSD license}%
+\begin{footnote}[25]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md}
+%
+\end{footnote}. The OSM
 style Bright from Mapbox Open Styles is licensed under the \sphinxhref{https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md}{Creative Commons
-Attribution 3.0 license}.
+Attribution 3.0 license}%
+\begin{footnote}[26]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md}
+%
+\end{footnote}.
 
 \end{itemize}
 
@@ -2241,8 +2359,16 @@ Attribution 3.0 license}.
 \label{\detokenize{04-appendix/licenses:base-maps}}\begin{itemize}
 \item {} 
 \sphinxAtStartPar
-The base maps are modified data from \sphinxhref{https://github.com/openmaptiles/openmaptiles}{OpenMapTiles}, published under a \sphinxhref{https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md}{CC\sphinxhyphen{}BY 4.0
-design license}.
+The base maps are modified data from \sphinxhref{https://github.com/openmaptiles/openmaptiles}{OpenMapTiles}%
+\begin{footnote}[27]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://github.com/openmaptiles/openmaptiles}
+%
+\end{footnote}, published under a \sphinxhref{https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md}{CC\sphinxhyphen{}BY 4.0
+design license}%
+\begin{footnote}[28]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md}
+%
+\end{footnote}.
 
 \end{itemize}
 
@@ -2251,13 +2377,29 @@ design license}.
 \label{\detokenize{04-appendix/licenses:aviation-maps}}\begin{itemize}
 \item {} 
 \sphinxAtStartPar
-The aviation maps contain data from \sphinxhref{http://www.openaip.net}{openAIP},
-licensed under a \sphinxhref{https://creativecommons.org/licenses/by-nc-sa/3.0/}{CC BY\sphinxhyphen{}NC\sphinxhyphen{}SA license}.
+The aviation maps contain data from \sphinxhref{http://www.openaip.net}{openAIP}%
+\begin{footnote}[29]\sphinxAtStartFootnote
+\sphinxnolinkurl{http://www.openaip.net}
+%
+\end{footnote},
+licensed under a \sphinxhref{https://creativecommons.org/licenses/by-nc-sa/3.0/}{CC BY\sphinxhyphen{}NC\sphinxhyphen{}SA license}%
+\begin{footnote}[30]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://creativecommons.org/licenses/by-nc-sa/3.0/}
+%
+\end{footnote}.
 
 \item {} 
 \sphinxAtStartPar
-The aviation maps contain data from \sphinxhref{https://www.openflightmaps.org/}{open flightmaps}, licensed under the \sphinxhref{https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf}{OFMA General Users´
-License}.
+The aviation maps contain data from \sphinxhref{https://www.openflightmaps.org/}{open flightmaps}%
+\begin{footnote}[31]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://www.openflightmaps.org/}
+%
+\end{footnote}, licensed under the \sphinxhref{https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf}{OFMA General Users´
+License}%
+\begin{footnote}[32]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf}
+%
+\end{footnote}.
 
 \end{itemize}
 
@@ -2270,13 +2412,129 @@ License}.
 \sphinxAtStartPar
 \sphinxstylestrong{Enroute Flight Navigation} expects that the traffic receiver deploys a WLAN
 network via Wi\sphinxhyphen{}Fi and publishes a stream of NMEA sentences at the IP address
-192.168.1.1, port 2000of that network. The NMEA sentences must conform to the
-specification outlined in in the document FTD\sphinxhyphen{}012 \sphinxhref{https://flarm.com/support/manuals-documents/}{Data Port Interface Control
-Document (ICD)}, Version 7.13,
-as published by \sphinxhref{https://flarm.com/}{FLARM Technology Ltd}.
+192.168.1.1, port 2000 of that network. The NMEA sentences must conform to the
+specification outlined in the document FTD\sphinxhyphen{}012 \sphinxhref{https://flarm.com/support/manuals-documents/}{Data Port Interface Control
+Document (ICD)}%
+\begin{footnote}[33]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://flarm.com/support/manuals-documents/}
+%
+\end{footnote}, Version 7.13,
+as published by \sphinxhref{https://flarm.com/}{FLARM Technology Ltd}%
+\begin{footnote}[34]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://flarm.com/}
+%
+\end{footnote}.
+
+
+\chapter{Collection}
+\label{\detokenize{04-appendix/collection:collection}}\label{\detokenize{04-appendix/collection::doc}}
+\sphinxAtStartPar
+There are two basic ways to plan a flight route:
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+Menu \sphinxhyphen{} Route:
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+Enter Waypoints
+
+\item {} 
+\sphinxAtStartPar
+Edit existing Route
+
+\item {} 
+\sphinxAtStartPar
+Enter Wind data
+
+\item {} 
+\sphinxAtStartPar
+Enter Aircraft data
+
+\end{itemize}
+
+\item {} \begin{description}
+\item[{Double touch Maps and open Waypoints}] \leavevmode\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+Direct will make a route from present position to Waypoint
+
+\item {} 
+\sphinxAtStartPar
+‘+’ to Route will add the Waypoint to the current Route
+
+\end{itemize}
+
+\end{description}
+
+\end{itemize}
+
+\sphinxAtStartPar
+A Route will remain in \sphinxstylestrong{Enroute Flight Navigation} until overwritten or
+removed. Routes may be saved or shared.
+
+\sphinxAtStartPar
+The \sphinxstylestrong{Enroute Flight Navigation} map display is automatically centered to
+display the own position to have about 80 \% of the display area in direction of
+flight.  The map display may be shifted by touching the display and moving it to
+the desired position. After shifting the “Center on Position” Symbol will be
+displayed. After touching he “Center on Position” Symbol the map will be
+centered to give maximum map area in direction of flight again.
+
+\sphinxAtStartPar
+\sphinxstylestrong{Track Up and North Up Mode}
+
+\sphinxAtStartPar
+The \sphinxstylestrong{Enroute Flight Navigation} map display may be switched between a Track Up
+display and a North Up display by touching the gray window in the upper right
+area.  Touching the display orientation area toggles between North up and Track
+Up.
+
+\begin{figure}[htbp]
+\centering
+
+\noindent\sphinxincludegraphics{{fig_FlightModeTu1}.png}
+\end{figure}
+
+\sphinxAtStartPar
+\sphinxstyleemphasis{Legend}:
+\begin{enumerate}
+\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
+\item {} 
+\sphinxAtStartPar
+Own Position
+
+\item {} 
+\sphinxAtStartPar
+Flight Path Vector (5 Minutes)
+
+\item {} 
+\sphinxAtStartPar
+North Indicator, also area to switch between track up and north up
+
+\item {} 
+\sphinxAtStartPar
+Zoom area
+
+\item {} 
+\sphinxAtStartPar
+Scale
+
+\item {} 
+\sphinxAtStartPar
+Menu area
+
+\end{enumerate}
+
+\sphinxAtStartPar
+The North Up mode provides a map display always showing the map north up.  The
+\sphinxstylestrong{Enroute Flight Navigation} map display in North Up mode will center the
+display to provide about 80\% area in direction of flight.  In case the map
+display has been manually rotated the area besides the direction arrow will show
+the map orientation in degrees.
 
 
 
 \renewcommand{\indexname}{Index}
-\printindex
+\footnotesize\raggedright\printindex
 \end{document}

@@ -14,8 +14,8 @@ Third-Party software included in this program
 ---------------------------------------------
 
 - This program includes several libraries from the `Qt project
-  <https://qt.io>`_, licensed under the `GNU General Public License V3
-  <https://www.qt.io/download-open-source>`_.
+  <https://qt.io>`_, licensed under the `GNU Lesser General Public License
+  (LGPL) version 3 <https://www.qt.io/download-open-source>`_.
 - This program includes the library `qhttpengine
   <https://github.com/nitroshare/qhttpengine>`_, which is licensed under the
   `MIT license
