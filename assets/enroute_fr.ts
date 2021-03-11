@@ -1879,8 +1879,8 @@ that the following conditions are met.&lt;/p&gt;
   &lt;li&gt;Vous devez connaitre le nom du réseau WLAN (SSID) du récepteur de traffic. 
   Si le réseau est crypté, vous aurez également besoin du mot de passe.&lt;/li&gt;
 
-  &lt;li&gt;Certains récepteurs requierent un mot de passe supplémentaire ; ce qui n&pos;est pas supporté pour le moment. 
-  Paramétrez votre récepteur pour qu&pos;aucun mot de passe supplémentaire ne soit requis.&lt;/li&gt;
+  &lt;li&gt;Certains récepteurs requierent un mot de passe supplémentaire ; ce qui n&apos;est pas supporté pour le moment. 
+  Paramétrez votre récepteur pour qu&apos;aucun mot de passe supplémentaire ne soit requis.&lt;/li&gt;
 &lt;/ul&gt;
 </translation>
     </message>
@@ -1933,14 +1933,14 @@ use this option.&lt;/p&gt;
 &lt;ul style=&quot;margin-left:-25px;&quot;&gt;
   &lt;li&gt;Assurez-vous que le récepteur est en service et allumé. 
   Typiquement, le récepteur est connecté à l&apos;interrupteur &apos;Avionics&apos;. 
-  Après la mise en route, il peut être nécessaire d&pos;attendre une minute pour que 
+  Après la mise en route, il peut être nécessaire d&apos;attendre une minute pour que 
   le réseau émis soit visible depuis les autres appareils.&lt;/li&gt;
 
   &lt;li&gt;Entrez le nom du réseau WLAN de votre récepteur dans les &quot;paramètres WLAN&quot; de votre appareil, ainsi que le mot de passe, si nécessaire.
-  Certains appareils vous avertiront que le réseau que vous tentez de rejoindre n&pos;est pas connecté à internet. Dans ce cas, confirmez pour continuer la procédure.&lt;/li&gt;
+  Certains appareils vous avertiront que le réseau que vous tentez de rejoindre n&apos;est pas connecté à internet. Dans ce cas, confirmez pour continuer la procédure.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Nous vous recommandons d&pos;indiquer à votre appareil de se souvenir de ce réseau et de s&apos;y connecter automatiquement.&lt;/p&gt;
+&lt;p&gt;Nous vous recommandons d&apos;indiquer à votre appareil de se souvenir de ce réseau et de s&apos;y connecter automatiquement.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -1970,7 +1970,7 @@ use this option.&lt;/p&gt;
   &lt;li&gt;Si &quot;Récepteur de traffic&quot; est surligné en vert, alors &lt;strong&gt;Enroute
   Flight Navigation&lt;/strong&gt; est déjà connecté au récepteur. Bravo, tout est en place !&lt;/li&gt;
 
-  &lt;li&gt;Si &quot;Récepteur de traffic&quot; n&pos;est pas surligné en vert, alors cliquez dessus. 
+  &lt;li&gt;Si &quot;Récepteur de traffic&quot; n&apos;est pas surligné en vert, alors cliquez dessus. 
   La page &quot;Etat du récepteur&quot; s&apos;ouvrira et vous expliquera comment établir la connexion manuellement.&lt;/li&gt;
 &lt;/ul&gt;
 </translation>
@@ -2006,7 +2006,7 @@ at random if more than one device tries to access.&lt;/p&gt;
         <translation>
 &lt;h2&gt;Résolution des problèmes&lt;/h2&gt;
 
-&lt;h4&gt;L&pos;application ne parvient pas à se connecter au flux de données.&lt;/h4&gt;
+&lt;h4&gt;L&apos;application ne parvient pas à se connecter au flux de données.&lt;/h4&gt;
 
 &lt;ul style=&quot;margin-left:-25px;&quot;&gt;
   &lt;li&gt;Vérifiez que votre appareil est bien connecté au réseau émis par le récepteur de traffic.&lt;/li&gt;
@@ -3080,7 +3080,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 
 &lt;ul style=&quot;margin-left:-25px;&quot;&gt;
 &lt;li&gt;Assurez-vous que votre appareil est connecté au réseau émis par le récepeur.Si ce n&apos;est pas le cas, annulez la tentative de connexion en utilisant le bouton en bas de page.&lt;/li&gt;
-&lt;li&gt;Cliquez sur le point d&apos;interrogation dans le titre de la page pour ouvrir un dialogue d&pos;aide avancée.&lt;/li&gt;
+&lt;li&gt;Cliquez sur le point d&apos;interrogation dans le titre de la page pour ouvrir un dialogue d&apos;aide avancée.&lt;/li&gt;
 &lt;/ul&gt;
 </translation>
     </message>
