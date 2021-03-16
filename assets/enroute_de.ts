@@ -1791,7 +1791,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="104"/>
         <source>Flight route imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Route importiert</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="125"/>
@@ -3829,7 +3829,7 @@ you fly in Austria.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="90"/>
         <source>T.ALT</source>
-        <translation type="unfinished"></translation>
+        <translation>T.ALT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="98"/>
