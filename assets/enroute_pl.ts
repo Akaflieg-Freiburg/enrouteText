@@ -1660,27 +1660,27 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="135"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="152"/>
         <source>No information available.</source>
         <translation>Brak dostępnych informacji.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="138"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="155"/>
         <source>Installed</source>
         <translation>Zainstalowana</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="140"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="157"/>
         <source>File Size</source>
         <translation>Rozmiar pliku</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="154"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="171"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>Dane mapy zostały skompilowane z następujących źródeł.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="184"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="201"/>
         <source>Internal Map Data</source>
         <translation>Wewnętrzne dane map</translation>
     </message>
@@ -1764,17 +1764,22 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
         <translation>Typ pliku &lt;strong&gt;%1&lt;/strong&gt; nie może zostać rozpoznany.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="68"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="69"/>
         <source>Import Flight Route?</source>
         <translation>Zaimportować plan lotu?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="75"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="76"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>To nadpisze obecną trasę. Raz nadpisana obecna trasa lotu nie może zostać odzyskana.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="124"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="104"/>
+        <source>Flight route imported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="125"/>
         <source>Error importing flight route</source>
         <translation>Wystąpił błąd w trakcie importu planu lotu</translation>
     </message>
@@ -3184,9 +3189,13 @@ Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
 <context>
     <name>NavBar</name>
     <message>
-        <location filename="../../../src/qml/items/NavBar.qml" line="90"/>
         <source>ALT</source>
-        <translation>ALT</translation>
+        <translation type="vanished">ALT</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/NavBar.qml" line="90"/>
+        <source>T.ALT</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="98"/>
