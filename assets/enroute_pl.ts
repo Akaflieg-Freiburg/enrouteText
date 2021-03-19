@@ -1776,7 +1776,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="104"/>
         <source>Flight route imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu zaimportowany</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="125"/>
@@ -3195,7 +3195,7 @@ Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="90"/>
         <source>T.ALT</source>
-        <translation type="unfinished"></translation>
+        <translation>T.ALT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="98"/>
