@@ -1410,7 +1410,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="104"/>
         <source>Flight route imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Route importée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="125"/>
@@ -2242,13 +2242,9 @@ at random if more than one device tries to access.&lt;/p&gt;
 <context>
     <name>NavBar</name>
     <message>
-        <source>ALT</source>
-        <translation type="vanished">ALT</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="90"/>
         <source>T.ALT</source>
-        <translation type="unfinished"></translation>
+        <translation>T.ALT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="98"/>
