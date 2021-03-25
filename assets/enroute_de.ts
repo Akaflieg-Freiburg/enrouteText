@@ -3653,17 +3653,17 @@ you fly in Austria.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="419"/>
         <source>Map Mode: Track Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Kartenmodus: Flugrichtung oben</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="422"/>
         <source>Map Mode: North Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Kartenmodus: Norden oben</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="442"/>
         <source>Map Mode: Autopan</source>
-        <translation type="unfinished"></translation>
+        <translation>Kartenmodus: automatisch</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="548"/>
