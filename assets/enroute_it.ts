@@ -3267,17 +3267,17 @@ e la connessione si interrompe a causa di più dispositivi che tentano di accede
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="421"/>
         <source>Map Mode: Track Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità cartina: rotta in alto</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="424"/>
         <source>Map Mode: North Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità cartina: nord in alto</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="447"/>
         <source>Map Mode: Autopan</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità cartina: automatico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="559"/>
