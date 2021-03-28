@@ -2072,17 +2072,17 @@ at random if more than one device tries to access.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="421"/>
         <source>Map Mode: Track Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode : Route</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="424"/>
         <source>Map Mode: North Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode : Nord</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="447"/>
         <source>Map Mode: Autopan</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode : Auto</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="559"/>
