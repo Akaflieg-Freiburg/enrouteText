@@ -3019,17 +3019,17 @@ Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="421"/>
         <source>Map Mode: Track Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb mapy: trasa u góry</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="424"/>
         <source>Map Mode: North Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb mapy: Północ u góry</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="447"/>
         <source>Map Mode: Autopan</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb mapy: Automatycznie</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="559"/>
