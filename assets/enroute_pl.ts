@@ -3229,7 +3229,7 @@ Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
-    <name>Navigation::FLARMAdaptor</name>
+    <name>Traffic::TrafficDataSource_Abstract</name>
     <message>
         <location filename="../../../src/Navigation_FLARMAdaptor.cpp" line="521"/>
         <source>No Error</source>
@@ -3606,7 +3606,7 @@ Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
-    <name>Navigation::Traffic</name>
+    <name>Traffic::TrafficFactor</name>
     <message>
         <location filename="../../../src/Navigation_Traffic.cpp" line="188"/>
         <source>Aircraft</source>
@@ -3821,70 +3821,70 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     </message>
 </context>
 <context>
-    <name>SatNavStatusDialog</name>
+    <name>Positioning</name>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="31"/>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="54"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="31"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="54"/>
         <source>Satellite Status</source>
         <translation>Status Satelity</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="62"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="62"/>
         <source>Last Fix</source>
         <translation>Ostatnia korekta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="65"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="65"/>
         <source>Mode</source>
         <translation>Tryb</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="66"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="66"/>
         <source>Flight</source>
         <translation>Lot</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="66"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="66"/>
         <source>Ground</source>
         <translation>Ziemia</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="74"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="74"/>
         <source>Horizontal</source>
         <translation>Poziome</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="79"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="79"/>
         <source>Latitude</source>
         <translation>Szerokość</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="82"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="82"/>
         <source>Longitude</source>
         <translation>Długość</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="85"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="85"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="88"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="88"/>
         <source>GS</source>
         <translation>GS</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="91"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="91"/>
         <source>TT</source>
         <translation>TT</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="100"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="100"/>
         <source>Vertical</source>
         <translation>Pionowe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/SatNavStatusDialog.qml" line="105"/>
+        <location filename="../../../src/qml/dialogs/Positioning.qml" line="105"/>
         <source>ALT</source>
         <translation>ALT</translation>
     </message>
