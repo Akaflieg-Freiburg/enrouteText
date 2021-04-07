@@ -2039,6 +2039,21 @@ at random if more than one device tries to access.&lt;/p&gt;
 </translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="356"/>
+        <source>Users of Stratus traffic receivers can now connect to their devices without changing the Stratux&apos; IP address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="357"/>
+        <source>The app now shows FLARM traffic warnings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="358"/>
+        <source>There are many small improvements in the user interface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="130"/>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 

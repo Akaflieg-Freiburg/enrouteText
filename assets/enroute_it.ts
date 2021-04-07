@@ -3236,6 +3236,21 @@ e la connessione si interrompe a causa di più dispositivi che tentano di accede
 </translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="356"/>
+        <source>Users of Stratus traffic receivers can now connect to their devices without changing the Stratux&apos; IP address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="357"/>
+        <source>The app now shows FLARM traffic warnings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="358"/>
+        <source>There are many small improvements in the user interface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;Adrien Crovato and Stefan Kebekus have implemented &lt;strong&gt;METAR/TAF&lt;/strong&gt; access. Look for the new &lt;strong&gt;Weather&lt;/strong&gt; entry in the main menu to try it out!&lt;/p&gt;
 
 &lt;p&gt;Heiner Tholen has improved the auto-panning feature of the moving map display.&lt;/p&gt;

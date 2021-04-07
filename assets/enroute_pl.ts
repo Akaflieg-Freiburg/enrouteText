@@ -2951,6 +2951,21 @@ losowo, jeśli więcej niż jedno urządzenie próbuje uzyskać dostęp.&lt;/p&g
 </translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="356"/>
+        <source>Users of Stratus traffic receivers can now connect to their devices without changing the Stratux&apos; IP address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="357"/>
+        <source>The app now shows FLARM traffic warnings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="358"/>
+        <source>There are many small improvements in the user interface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>
 &lt;p&gt;For countries covered by open flightmaps: the map now
 shows &lt;strong&gt;nature reserve areas&lt;/strong&gt; (extremely important if
