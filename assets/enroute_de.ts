@@ -2529,17 +2529,17 @@ at random if more than one device tries to access.&lt;/p&gt;
     <message>
         <location filename="../../../src/Librarian.cpp" line="356"/>
         <source>Users of Stratus traffic receivers can now connect to their devices without changing the Stratux&apos; IP address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit dem Stratus-Verkehrsdatenempfänger können Sie Ihr Gerät jetzt verbinden, ohne die IP-Adresse des Stratux zu ändern.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="357"/>
         <source>The app now shows FLARM traffic warnings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die App zeigt jetzt FLARM-Verkehrswarnungen an.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="358"/>
         <source>There are many small improvements in the user interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es gibt viele kleine Verbesserungen der Benutzerschnittstelle.</translation>
     </message>
     <message>
         <source>
@@ -4049,7 +4049,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="33"/>
         <source>Positioning</source>
-        <translation>Positioniere</translation>
+        <translation>Suche Position ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="59"/>
@@ -5059,47 +5059,47 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="94"/>
         <source>Traffic</source>
-        <translation type="unfinished">Verkehr</translation>
+        <translation>Verkehr</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="97"/>
         <source>Obstacle</source>
-        <translation type="unfinished">Hindernis</translation>
+        <translation>Hindernis</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="100"/>
         <source>Traffic advisory</source>
-        <translation type="unfinished">Verkehrshinweis</translation>
+        <translation>Verkehrshinweis</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="106"/>
         <source>%1 position</source>
-        <translation type="unfinished">Position %1</translation>
+        <translation>Position %1</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="115"/>
         <source>Distance %1 km</source>
-        <translation type="unfinished">Entfernung %1 km</translation>
+        <translation>Entfernung %1 km</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="118"/>
         <source>Distance %1 nm</source>
-        <translation type="unfinished">Entfernung %1 NM</translation>
+        <translation>Entfernung %1 NM</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="129"/>
         <source>Same altitude</source>
-        <translation type="unfinished">Gleiche Höhe</translation>
+        <translation>Gleiche Höhe</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="132"/>
         <source>%1 ft below</source>
-        <translation type="unfinished">%1 ft unterhalb</translation>
+        <translation>%1 ft unterhalb</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="134"/>
         <source>%1 ft above</source>
-        <translation type="unfinished">%1 ft oberhalb</translation>
+        <translation>%1 ft oberhalb</translation>
     </message>
 </context>
 <context>
@@ -5135,7 +5135,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 
 &lt;ul style=&quot;margin-left:-25px;&quot;&gt;
 &lt;li&gt;Prüfen Sie die Verbindung Ihres Geräts mit dem WLAN des Verkehrsdatenempfängers. Fehlt sie, brechen Sie den Versuch mit dem Knopf unten auf dem Schirm ab.&lt;/li&gt;
-&lt;li&gt;Manche Verkehrsdatenempfänger schützen den Datenstrom mit einem zusätzlichen Passwort. Das wird zzt nicht unterstützt.&lt;/li&gt;
+&lt;li&gt;Manche Verkehrsdatenempfänger schützen den Datenstrom mit einem zusätzlichen Passwort. Das wird zzt. nicht unterstützt.&lt;/li&gt;
 &lt;li&gt;Öffnen Sie mit dem Fragezeichen im Seitentitel einen detaillierten Hilfetext.&lt;/li&gt;
 &lt;/ul&gt;
 </translation>
