@@ -1373,27 +1373,27 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="152"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="146"/>
         <source>No information available.</source>
         <translation>Aucune information disponible</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="155"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="149"/>
         <source>Installed</source>
         <translation>Installée</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="157"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="151"/>
         <source>File Size</source>
         <translation>Taille du fichier</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="171"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="165"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>Les données de carte ont été compilées depuis les sources suivantes.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="201"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="195"/>
         <source>Internal Map Data</source>
         <translation>Données de carte internes</translation>
     </message>
@@ -2586,23 +2586,23 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Positioning::PositionProvider</name>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="192"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="195"/>
         <source>Receiving position information.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="194"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="197"/>
         <source>Receiving pressure altitude.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="201"/>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="203"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="204"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="206"/>
         <source>Not receiving position information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="203"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="206"/>
         <source>Traffic receiver</source>
         <translation type="unfinished"></translation>
     </message>
@@ -6764,12 +6764,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Nouveautés</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="108"/>
+        <location filename="../../../src/main.cpp" line="109"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="111"/>
+        <location filename="../../../src/main.cpp" line="112"/>
         <source>File to import.</source>
         <translation>Fichier à importer</translation>
     </message>

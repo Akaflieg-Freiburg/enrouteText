@@ -1684,27 +1684,27 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="152"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="146"/>
         <source>No information available.</source>
         <translation>Nessuna informazione disponibile.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="155"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="149"/>
         <source>Installed</source>
         <translation>Installata</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="157"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="151"/>
         <source>File Size</source>
         <translation>Dimensione File</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="171"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="165"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>I dati della mappa sono stati compilati dalle seguenti fonti.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="201"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="195"/>
         <source>Internal Map Data</source>
         <translation>Dati mappa interni</translation>
     </message>
@@ -3793,23 +3793,23 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>Positioning::PositionProvider</name>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="192"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="195"/>
         <source>Receiving position information.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="194"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="197"/>
         <source>Receiving pressure altitude.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="201"/>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="203"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="204"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="206"/>
         <source>Not receiving position information</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="203"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="206"/>
         <source>Traffic receiver</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8107,12 +8107,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Cosa c&apos;è di nuovo...?</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="108"/>
+        <location filename="../../../src/main.cpp" line="109"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation è una app libera per piloti VFR, sviuluppata da Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="111"/>
+        <location filename="../../../src/main.cpp" line="112"/>
         <source>File to import.</source>
         <translation>File da importare.</translation>
     </message>

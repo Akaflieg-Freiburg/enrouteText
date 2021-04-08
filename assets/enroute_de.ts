@@ -1683,27 +1683,27 @@ eine Spende zukommen lassen. &lt;/p&gt;
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="152"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="146"/>
         <source>No information available.</source>
         <translation>Keine Information verfügbar.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="155"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="149"/>
         <source>Installed</source>
         <translation>Installiert</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="157"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="151"/>
         <source>File Size</source>
         <translation>Dateigröße</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="171"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="165"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>Die Kartendaten stammen aus folgenden Quellen:</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="201"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="195"/>
         <source>Internal Map Data</source>
         <translation>Interne Kartendaten</translation>
     </message>
@@ -4178,23 +4178,23 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Positioning::PositionProvider</name>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="192"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="195"/>
         <source>Receiving position information.</source>
         <translation>Empfange Positionsdaten.</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="194"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="197"/>
         <source>Receiving pressure altitude.</source>
         <translation>Empfange Druckhöhe.</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="201"/>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="203"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="204"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="206"/>
         <source>Not receiving position information</source>
         <translation>Empfange keine Positionsdaten</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="203"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="206"/>
         <source>Traffic receiver</source>
         <translation>Verkehrsdatenempfänger</translation>
     </message>
@@ -8632,12 +8632,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Was ist neu …?</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="108"/>
+        <location filename="../../../src/main.cpp" line="109"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation ist eine kostenlose Navigations-App für VFR Piloten. Die App wurde als Projekt der Akaflieg Freiburg entwickelt.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="111"/>
+        <location filename="../../../src/main.cpp" line="112"/>
         <source>File to import.</source>
         <translation>Datei zum Importieren.</translation>
     </message>
