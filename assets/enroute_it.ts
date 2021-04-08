@@ -3237,7 +3237,7 @@ e la connessione si interrompe a causa di più dispositivi che tentano di accede
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="356"/>
-        <source>Users of Stratus traffic receivers can now connect to their devices without changing the Stratux&apos; IP address.</source>
+        <source>Users of Stratux traffic receivers can now connect to their devices without changing the Stratux&apos; IP address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
