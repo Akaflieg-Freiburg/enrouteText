@@ -3686,7 +3686,7 @@ you fly in Austria.&lt;/p&gt;</source>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="483"/>
         <source>Map Mode: Autopan</source>
-        <translation>Kartenmodus: automatisch</translation>
+        <translation>Kartenmodus: automatisch zentrieren</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="595"/>
