@@ -2533,7 +2533,7 @@ at random if more than one device tries to access.&lt;/p&gt;
     </message>
     <message>
         <source>Users of Stratus traffic receivers can now connect to their devices without changing the Stratux&apos; IP address.</source>
-        <translation type="vanished">Mit dem Stratus-Verkehrsdatenempfänger können Sie Ihr Gerät jetzt verbinden, ohne die IP-Adresse des Stratux zu ändern.</translation>
+        <translation type="vanished">Mit dem Stratux-Verkehrsdatenempfänger können Sie Ihr Gerät jetzt verbinden, ohne die IP-Adresse des Stratux zu ändern.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="357"/>
