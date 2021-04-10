@@ -1986,13 +1986,13 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 
 &lt;p&gt;Dziękujemy za używanie Enroute Flight Navigation, doceniamy mocno Twoje zaangażowanie.&lt;p&gt;
 
-&lt;p&gt;Jednakże, prosilibyśmy byś &lt;strong&gt;się ograniczył do 8 %1.&lt;/strong&gt;
+&lt;p&gt;Jednakże, prosilibyśmy abyś &lt;strong&gt;ograniczył się do 8 %1.&lt;/strong&gt;
 
-&lt;p&gt;Z drugiej strony, przepustowość do pobrania map jest sponsorowana przez Uniwersytet we Freigburgu, pod warunkiem, że &lt;strong&gt;koszty zostaną zamkną się w rozsądnych limitach.&lt;strong&gt;&lt;/p&gt;
+&lt;p&gt;Z drugiej strony, przepustowość łączy do pobierania map jest sponsorowana przez Uniwersytet we Freigburgu, pod warunkiem, że &lt;strong&gt;koszty pozostaną w rozsądnych limitach.&lt;strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Poza tym, aplikacja będzie szybciej działała jeśli nie będzie miala do przetwarzania tylu megabajtów danych map.&lt;/p&gt;
+&lt;p&gt;Poza tym, aplikacja będzie działała szybciej jeśli nie będzie miala do przetwarzania tylu megabajtów danych map.&lt;/p&gt;
 
-&lt;p&gt;Robimy co w naszej mocy, by uniknąć szywnych limitów na pobieranie map w przyszłości. Proszę, pomóż nam z tym. Już masz &lt;strong&gt;%2 map&lt;/strong&gt;.&lt;/p&gt;</translation>
+&lt;p&gt;Robimy co w naszej mocy, by uniknąć sztywnych limitów na pobieranie map w przyszłości. Proszę, pomóż nam z tym. Już masz &lt;strong&gt;%2 map&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="146"/>
@@ -3511,7 +3511,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="35"/>
         <source>Built-in receiver/%1</source>
-        <translation>Wybudowany odbiornik/%a</translation>
+        <translation>Wybudowany odbiornik/%1</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="42"/>
@@ -4474,7 +4474,8 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 &lt;li&gt;Upewnij się, że twoje urządzenie podłączyło się do sieci WLAN uruchomionej przez Twój odbiornik.  Jeśli nie, użyj przycisku na dole ekranu aby przerwać próbę połączenia.&lt;/li&gt;
 &lt;li&gt;Niektóre odbiorniki ruchu lotniczego chronią strumień danych poprzez dodatkowe hasło. To aktualnie nie jest obsługiwane.&lt;/li&gt;
 &lt;li&gt;Kliknij na znaku pytajnika w tytule strony aby otworzyć bardziej szczegółowy dialog pomocy.&lt;/li&gt;
-&lt;/ul&gt;</translation>
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <source>Not connected to a traffic receiver.</source>
