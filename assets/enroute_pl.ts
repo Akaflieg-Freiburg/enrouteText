@@ -53,7 +53,7 @@
     <message>
         <location filename="../../../src/units/Angle.cpp" line="37"/>
         <source>%1 o&apos;clock</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 zgodnie z zegarem</translation>
     </message>
 </context>
 <context>
@@ -2953,17 +2953,17 @@ losowo, jeśli więcej niż jedno urządzenie próbuje uzyskać dostęp.&lt;/p&g
     <message>
         <location filename="../../../src/Librarian.cpp" line="356"/>
         <source>Users of Stratux traffic receivers can now connect to their devices without changing the Stratux&apos; IP address.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użytkownicy odbiornika ruchu lotniczego Stratux mogą połączyć się do swoich urządzeń bez zmiany adresu IP urządzenia.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="357"/>
         <source>The app now shows FLARM traffic warnings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikacja już pokazuje ostrzeżenia ruchu lotniczego FLARM.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="358"/>
         <source>There are many small improvements in the user interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadzono wiele małych usprawnień w interfejsie użytkownika.</translation>
     </message>
     <message>
         <source>
@@ -3418,12 +3418,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="33"/>
         <source>Positioning</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozycjonowanie</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="59"/>
         <source>&lt;h3&gt;Status&lt;/h3&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Status&lt;/h3&gt;</translation>
+        <translation>&lt;h3&gt;Status&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="95"/>
@@ -3438,47 +3438,47 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="120"/>
         <source>True Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Rzeczywista wysokość</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="128"/>
         <source>Error (horizontal)</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd (poziomy)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="136"/>
         <source>Error (vertical)</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd (pionowy)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="145"/>
         <source>Magnetic Variation</source>
-        <translation type="unfinished"></translation>
+        <translation>Wariacja magnetyczna</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="152"/>
         <source>Ground Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Prędkość wzg. ziemi</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="162"/>
         <source>True Track</source>
-        <translation type="unfinished"></translation>
+        <translation>Rzeczywisty tor lotu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="170"/>
         <source>Vertical Speed</source>
-        <translation type="unfinished"></translation>
+        <translation>Pionowa prędkość</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="178"/>
         <source>Pressure Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość wzgl. ciśnienia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="191"/>
         <source>Connect your traffic receiver</source>
-        <translation type="unfinished">Podłącz twój odbiornik ruchu lotniczego</translation>
+        <translation>Podłącz twój odbiornik ruchu lotniczego</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3506,42 +3506,42 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="33"/>
         <source>Built-in receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Wbudowany odbiornik</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="35"/>
         <source>Built-in receiver/%1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybudowany odbiornik/%a</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="42"/>
         <source>None</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="52"/>
         <source>Not installed or access denied</source>
-        <translation type="unfinished">Nie zainstalowano lub odmowa dostępu</translation>
+        <translation>Nie zainstalowano lub odmowa dostępu</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="59"/>
         <source>Access denied</source>
-        <translation type="unfinished">Odmowa dostępu</translation>
+        <translation>Odmowa dostępu</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="64"/>
         <source>Connection to satellite system lost</source>
-        <translation type="unfinished">Łączność satelitarna została utracona</translation>
+        <translation>Łączność satelitarna została utracona</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="69"/>
         <source>Waiting for signal</source>
-        <translation type="unfinished">Oczekiwanie na sygnał</translation>
+        <translation>Oczekiwanie na sygnał</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="73"/>
         <source>Receiving data</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbieranie danych</translation>
     </message>
 </context>
 <context>
@@ -3549,23 +3549,23 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="195"/>
         <source>Receiving position information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbieranie informacji o pozycji.</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="197"/>
         <source>Receiving pressure altitude.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbieranie wysokości wzg. ciśnienia.</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="204"/>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="206"/>
         <source>Not receiving position information</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie odbieranie informacji o pozycji</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="206"/>
         <source>Traffic receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbiornik ruchu lotniczego</translation>
     </message>
 </context>
 <context>
@@ -3625,7 +3625,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="149"/>
         <source>Speed in kn, distance in nm</source>
-        <translation type="unfinished"></translation>
+        <translation>Prędkość w kn, odległość w nm</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="163"/>
@@ -3730,27 +3730,27 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="52"/>
         <source>Traffic data receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbiornik danych ruchu lotniczego</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="251"/>
         <source>Receiving traffic data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbieranie danych ruchu lotniczego.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="253"/>
         <source>Receiving position info.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbieranie informacji o pozycji.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="256"/>
         <source>Receiving barometric altitude info.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbieranie informacji o wysokości barometrycznej.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="264"/>
         <source>Not receiving traffic data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie odbieranie danych ruchu lotniczego.</translation>
     </message>
 </context>
 <context>
@@ -4077,87 +4077,87 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="113"/>
         <source>Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Połączony.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="115"/>
         <source>Not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie połączony.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="124"/>
         <source>An error occurred when reading from the file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas odczytu z pliku.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="127"/>
         <source>An error occurred when writing to the file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas zapisu do pliku.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="130"/>
         <source>A fatal error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił krytyczny błąd.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="133"/>
         <source>Out of resources (e.g., too many open files, out of memory, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak zasobów (np. za dużo otwartych plików, brak pamięci, itp.)</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="136"/>
         <source>The file could not be opened.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik nie może być otwarty.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="139"/>
         <source>The operation was aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operacja przerwana.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="142"/>
         <source>A timeout occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przekroczono czas oczekiwania.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="145"/>
         <source>An unspecified error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił nieokreślony błąd.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="148"/>
         <source>The file could not be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik nie może być usunięty.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="151"/>
         <source>The file could not be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zmienić nazwy pliku.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="154"/>
         <source>The position in the file could not be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Położenie pliku nie może być zmienione.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="157"/>
         <source>The file could not be resized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik nie może mieć zmienionego rozmiaru.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="160"/>
         <source>The file could not be accessed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak możliwości dostępu do pliku.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="163"/>
         <source>The file could not be copied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik nie może być skopiowany.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.h" line="59"/>
         <source>Simulator file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik symulatora %1</translation>
     </message>
 </context>
 <context>
@@ -4165,157 +4165,157 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="94"/>
         <source>The connection was refused by the peer (or timed out).</source>
-        <translation type="unfinished">Połączenie zostało odrzucone przez końcówkę (lub upłynął czas).</translation>
+        <translation>Połączenie zostało odrzucone przez końcówkę (lub upłynął czas).</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="97"/>
         <source>The remote host closed the connection.</source>
-        <translation type="unfinished">Zdalny host zamknął połączenie.</translation>
+        <translation>Zdalny host zamknął połączenie.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="100"/>
         <source>The host address was not found.</source>
-        <translation type="unfinished">Adres hosta nie został znaleziony.</translation>
+        <translation>Adres hosta nie został znaleziony.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="103"/>
         <source>The socket operation failed because the application lacked the required privileges.</source>
-        <translation type="unfinished">Operacja na socketach nieudana, ze względu na to, że aplikacja nie posiada wymaganych uprawnień.</translation>
+        <translation>Operacja na socketach nieudana ze względu na to, że aplikacja nie posiada wymaganych uprawnień.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="106"/>
         <source>The local system ran out of resources.</source>
-        <translation type="unfinished">System lokalny zużył wszystkie zasoby.</translation>
+        <translation>System lokalny zużył wszystkie zasoby.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="109"/>
         <source>The socket operation timed out.</source>
-        <translation type="unfinished">Operacja na socket&apos;ie przeterminowana.</translation>
+        <translation>Operacja na sockecie przeterminowana.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="112"/>
         <source>The datagram was larger than the operating system&apos;s limit.</source>
-        <translation type="unfinished">Datagram danych był większy niż limit systemu operacyjnego.</translation>
+        <translation>Datagram danych był większy niż limit systemu operacyjnego.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="115"/>
         <source>An error occurred with the network.</source>
-        <translation type="unfinished">Wstąpił błąd sieci.</translation>
+        <translation>Wstąpił błąd sieci.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="118"/>
         <source>The address specified to QAbstractSocket::bind() is already in use and was set to be exclusive.</source>
-        <translation type="unfinished">Adres ustalony przez QAbstractSocket::bind() jest już u użyciu i został ustawiony jako jedyny dostęp.</translation>
+        <translation>Adres ustalony przez QAbstractSocket::bind() jest już u użyciu i został ustawiony jako pojedynczy dostęp.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="121"/>
         <source>The address specified to QAbstractSocket::bind() does not belong to the host.</source>
-        <translation type="unfinished">Adres określony przez QAbstractSocket::bind() nie należy do hosta.</translation>
+        <translation>Adres określony przez QAbstractSocket::bind() nie należy do hosta.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="124"/>
         <source>The requested socket operation is not supported by the local operating system.</source>
-        <translation type="unfinished">Wymagana operacja na socket&apos;ie nie jest wspierana przez lokalny system operacyjny.</translation>
+        <translation>Wymagana operacja na socket&apos;ie nie jest wspierana przez lokalny system operacyjny.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="127"/>
         <source>The socket is using a proxy, and the proxy requires authentication.</source>
-        <translation type="unfinished">Socket używa komunikacji proxy, a proxy wymaga autoryzacji.</translation>
+        <translation>Socket używa komunikacji proxy, a proxy wymaga autoryzacji.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="130"/>
         <source>The SSL/TLS handshake failed, so the connection was closed.</source>
-        <translation type="unfinished">Uzgodnienie SSL/TLS nieudane, więc połączenie zostało zamknięte.</translation>
+        <translation>Uzgodnienie SSL/TLS nieudane, więc połączenie zostało zamknięte.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="133"/>
         <source>The last operation attempted has not finished yet (still in progress in the background).</source>
-        <translation type="unfinished">Ostatnia operacja nie zakończyła się jeszcze (nadal przetwarzana w tle).</translation>
+        <translation>Ostatnia operacja nie zakończyła się jeszcze (nadal przetwarzana w tle).</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="136"/>
         <source>Could not contact the proxy server because the connection to that server was denied.</source>
-        <translation type="unfinished">Nie można połączyć się do serwera proxy, gdyż połączenie zostało odrzucone.</translation>
+        <translation>Nie można połączyć się do serwera proxy, gdyż połączenie zostało odrzucone.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="139"/>
         <source>The connection to the proxy server was closed unexpectedly (before the connection to the final peer was established).</source>
-        <translation type="unfinished">Połączenie do serwera proxy zostało niespodziewanie zamknięte (przed ostatecznym ustaleniem połączenia).</translation>
+        <translation>Połączenie do serwera proxy zostało niespodziewanie zamknięte (przed ostatecznym ustaleniem połączenia).</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="142"/>
         <source>The connection to the proxy server timed out or the proxy server stopped responding in the authentication phase.</source>
-        <translation type="unfinished">Połączenie do serwera proxy przeterminowane lub serwer proxy przestał odpowiadać w fazie autentykacji.</translation>
+        <translation>Połączenie do serwera proxy przeterminowane lub serwer proxy przestał odpowiadać w fazie autentykacji.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="145"/>
         <source>The proxy address set with setProxy() (or the application proxy) was not found.</source>
-        <translation type="unfinished">Adres proxy ustawiony przez setProxy() (lub przez proxy aplikacj) nie został znaleziony.</translation>
+        <translation>Adres proxy ustawiony przez setProxy() (lub przez proxy aplikacj) nie został znaleziony.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="148"/>
         <source>The connection negotiation with the proxy server failed, because the response from the proxy server could not be understood.</source>
-        <translation type="unfinished">Nieudana negocjacja połączenia z serwerem proxy, ze względu na to, że odpowiedź serwera nie mogła być zrozumiana.</translation>
+        <translation>Nieudana negocjacja połączenia z serwerem proxy, ze względu na to, że odpowiedź serwera nie mogła być zrozumiana.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="151"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
-        <translation type="unfinished">Próbowano wykonać operację podczas gdy socket był w stanie, w którym nie pozwalał na to.</translation>
+        <translation>Próbowano wykonać operację podczas gdy socket był w stanie, w którym nie pozwalał na to.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="154"/>
         <source>The SSL library being used reported an internal error. This is probably the result of a bad installation or misconfiguration of the library.</source>
-        <translation type="unfinished">Biblioteka SSL, która jest używana, zaraportowała wewnętrzny błąd. Wynika to prawdopodobnie z błędnej instalacji lub błędnej konfiguracji biblioteki.</translation>
+        <translation>Biblioteka SSL, która jest używana, zaraportowała wewnętrzny błąd. Wynika to prawdopodobnie z błędnej instalacji lub błędnej konfiguracji biblioteki.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="157"/>
         <source>Invalid data (certificate, key, cypher, etc.) was provided and its use resulted in an error in the SSL library.</source>
-        <translation type="unfinished">Nieprawidłowe dane (certyfikat, klucz, szyfr, itp.) zostały dostarczone i ich użycie spowodowało błąd w bibliotece SSL.</translation>
+        <translation>Nieprawidłowe dane (certyfikat, klucz, szyfr, itp.) zostały dostarczone i ich użycie spowodowało błąd w bibliotece SSL.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="160"/>
         <source>A temporary error occurred (e.g., operation would block and socket is non-blocking).</source>
-        <translation type="unfinished">Wystąpił tymczasowy błąd (np. operacja blokująca a socket jest nie-blokujący).</translation>
+        <translation>Wystąpił tymczasowy błąd (np. operacja blokująca a socket jest nie-blokujący).</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="163"/>
         <source>An unidentified error occurred.</source>
-        <translation type="unfinished">Wystąpił niezidentyfikowany błąd.</translation>
+        <translation>Wystąpił niezidentyfikowany błąd.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="191"/>
         <source>Performing host name lookup.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozwiązywanie nazwy hosta.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="194"/>
         <source>Trying to establish a connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Próba nawiązania połączenia.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="197"/>
         <source>Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Połączony.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="200"/>
         <source>Bound to an address and port, but not connected yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przypięty do adresu i portu, ale jeszcze nie połączony.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="203"/>
         <source>Closing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zamykanie.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.cpp" line="206"/>
         <source>Not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie połączony.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.h" line="65"/>
         <source>TCP connection to %1 port %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Połączenie TCP do %1 port %2</translation>
     </message>
 </context>
 <context>
@@ -4396,47 +4396,47 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="94"/>
         <source>Traffic</source>
-        <translation type="unfinished">Ruch</translation>
+        <translation>Ruch</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="97"/>
         <source>Obstacle</source>
-        <translation type="unfinished"></translation>
+        <translation>Przeszkoda</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="100"/>
         <source>Traffic advisory</source>
-        <translation type="unfinished"></translation>
+        <translation>Zalecenie ruchu lotniczego</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="106"/>
         <source>%1 position</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 pozycja</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="115"/>
         <source>Distance %1 km</source>
-        <translation type="unfinished"></translation>
+        <translation>Odległość %1 km</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="118"/>
         <source>Distance %1 nm</source>
-        <translation type="unfinished"></translation>
+        <translation>Odległość %1 nm</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="129"/>
         <source>Same altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Taka sama wysokość</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="132"/>
         <source>%1 ft below</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ft poniżej</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="134"/>
         <source>%1 ft above</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ft powyżej</translation>
     </message>
 </context>
 <context>
@@ -4454,7 +4454,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="148"/>
         <source>&lt;p&gt;Well done! Go flying. Give yourself a pat on the back.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Super! Leć już. Poklep się po plecach.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="159"/>
@@ -4467,7 +4467,14 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 &lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Jeśli dane ruchu lotniczego nie pojawią się po kilku sekundach, stało się coś złego.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Upewnij się, że twoje urządzenie podłączyło się do sieci WLAN uruchomionej przez Twój odbiornik.  Jeśli nie, użyj przycisku na dole ekranu aby przerwać próbę połączenia.&lt;/li&gt;
+&lt;li&gt;Niektóre odbiorniki ruchu lotniczego chronią strumień danych poprzez dodatkowe hasło. To aktualnie nie jest obsługiwane.&lt;/li&gt;
+&lt;li&gt;Kliknij na znaku pytajnika w tytule strony aby otworzyć bardziej szczegółowy dialog pomocy.&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <source>Not connected to a traffic receiver.</source>
@@ -7756,22 +7763,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="167"/>
         <source>Receiving position information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbieranie informacji o pozycji.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="167"/>
         <source>Not receiving position information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie odbieranie informacji o pozycji.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="190"/>
         <source>Receiving traffic data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbieranie danych ruchu lotniczego.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="190"/>
         <source>Not receiving traffic data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie odbieranie danych ruchu lotniczego.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="214"/>
