@@ -4986,6 +4986,164 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
 </context>
 <context>
+    <name>Traffic::TrafficDataSource_Udp_GDL</name>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="98"/>
+        <source>The connection was refused by the peer (or timed out).</source>
+        <translation type="unfinished">Die Verbindung wurde vom Partner verweigert (oder dauerte zu lange).</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="101"/>
+        <source>The remote host closed the connection.</source>
+        <translation type="unfinished">Die Gegenseite hat die Verbindung geschlossen.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="104"/>
+        <source>The host address was not found.</source>
+        <translation type="unfinished">Host-Adresse nicht gefunden.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="107"/>
+        <source>The socket operation failed because the application lacked the required privileges.</source>
+        <translation type="unfinished">Socketvorgang fehlgeschlagen; der Anwendung fehlen die nötigen Berechtigungen.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="110"/>
+        <source>The local system ran out of resources.</source>
+        <translation type="unfinished">Das lokale System hat keine Ressourcen mehr.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="113"/>
+        <source>The socket operation timed out.</source>
+        <translation type="unfinished">Der Socketvorgang dauerte zu lange.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="116"/>
+        <source>The datagram was larger than the operating system&apos;s limit.</source>
+        <translation type="unfinished">Das Datagramm war für das Betriebssystem zu groß.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="119"/>
+        <source>An error occurred with the network.</source>
+        <translation type="unfinished">Netzwerkfehler</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="122"/>
+        <source>The address specified to QAbstractSocket::bind() is already in use and was set to be exclusive.</source>
+        <translation type="unfinished">Die Adresse gegenüber QAbstractSocket::bind() ist schon in Gebrauch und als exklusiv gekennzeichnet.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="125"/>
+        <source>The address specified to QAbstractSocket::bind() does not belong to the host.</source>
+        <translation type="unfinished">Die Adresse gegenüber QAbstractSocket::bind() gehört nicht zum Host.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="128"/>
+        <source>The requested socket operation is not supported by the local operating system.</source>
+        <translation type="unfinished">Der angeforderte Socketvorgang wird vom lokalen Betriebssystem nicht unterstützt.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="131"/>
+        <source>The socket is using a proxy, and the proxy requires authentication.</source>
+        <translation type="unfinished">Der Socket benutzt einen Proxy, der eine Authentifizierung verlangt.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="134"/>
+        <source>The SSL/TLS handshake failed, so the connection was closed.</source>
+        <translation type="unfinished">Der SSL/TLS-Handshake ist fehlgeschlagen, die Verbindung wurde daher geschlossen.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="137"/>
+        <source>The last operation attempted has not finished yet (still in progress in the background).</source>
+        <translation type="unfinished">Die letzte versuchte Operation ist noch nicht beendet (und läuft im Hintergrund noch).</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="140"/>
+        <source>Could not contact the proxy server because the connection to that server was denied.</source>
+        <translation type="unfinished">Kein Kontakt mit dem Proxy-Server möglich, da die Verbindung dorthin verweigert wurde.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="143"/>
+        <source>The connection to the proxy server was closed unexpectedly (before the connection to the final peer was established).</source>
+        <translation type="unfinished">Die Verbindung zum Proxy-Server wurde unerwartet beendet, bevor die Verbindung zum Zielpartner errichtet werden konnte.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="146"/>
+        <source>The connection to the proxy server timed out or the proxy server stopped responding in the authentication phase.</source>
+        <translation type="unfinished">Die Verbindung zum Proxy-Server dauerte zu lang oder er antwortete in der Autorisierungsphase nicht mehr.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="149"/>
+        <source>The proxy address set with setProxy() (or the application proxy) was not found.</source>
+        <translation type="unfinished">Die mit setProxy() gesetzte Proxy-Adresse oder der Anwendungsproxy wurde nicht gefunden.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="152"/>
+        <source>The connection negotiation with the proxy server failed, because the response from the proxy server could not be understood.</source>
+        <translation type="unfinished">Die Verbindung mit dem Proxy konnte nicht ausgehandelt werden, da seine Antwort nicht verstanden wurde.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="155"/>
+        <source>An operation was attempted while the socket was in a state that did not permit it.</source>
+        <translation type="unfinished">Eine Operation wurde versucht, während der Socket in einem Status war, der das nicht zuließ.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="158"/>
+        <source>The SSL library being used reported an internal error. This is probably the result of a bad installation or misconfiguration of the library.</source>
+        <translation type="unfinished">Die benutzte SSL-Library meldete einen internen Fehler, wahrscheinlich infolge einer schlechten Installation oder ihrer Fehlkonfiguration.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="161"/>
+        <source>Invalid data (certificate, key, cypher, etc.) was provided and its use resulted in an error in the SSL library.</source>
+        <translation type="unfinished">Ungültige Daten (Zertifikat, Schlüssel, Chiffre ...) führten zu einem Fehler in der SSL-Library.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="164"/>
+        <source>A temporary error occurred (e.g., operation would block and socket is non-blocking).</source>
+        <translation type="unfinished">Vorübergehender Fehler aufgetreten, z.B. wenn die Operation blockt und der Socket ist &apos;non-blocking&apos;.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="167"/>
+        <source>An unidentified error occurred.</source>
+        <translation type="unfinished">Unidentifizierter Fehler aufgetreten.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="195"/>
+        <source>Performing host name lookup.</source>
+        <translation type="unfinished">Suche Hostnamen ...</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="198"/>
+        <source>Trying to establish a connection.</source>
+        <translation type="unfinished">Versuche eine Verbindung aufzubauen.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="201"/>
+        <source>Connected.</source>
+        <translation type="unfinished">Verbunden.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="204"/>
+        <source>Bound to an address and port, but not connected yet.</source>
+        <translation type="unfinished">Adresse und Port bestimmt, aber noch nicht verbunden.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="207"/>
+        <source>Closing.</source>
+        <translation type="unfinished">Schließe.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="210"/>
+        <source>Not connected.</source>
+        <translation type="unfinished">Nicht verbunden.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.h" line="46"/>
+        <source>UDP connection to port %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Traffic::TrafficFactor</name>
     <message>
         <location filename="../../../src/traffic/TrafficFactor.cpp" line="188"/>
@@ -5126,6 +5284,18 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="159"/>
         <source>
+&lt;p&gt;If no traffic data has arrived after a few seconds, something has gone wrong.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Make sure that your device has entered the WLAN network deployed by your traffic receiver.  If not, then use the button at the bottem of the screen to abort the connection attempt.&lt;/li&gt;
+&lt;li&gt;Some traffic receivers protect the data stream with an additional password. This is currently not supported.&lt;/li&gt;
+&lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
+&lt;/ul&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>
 &lt;p&gt;If no traffic data has arrived after a few seconds, somthing has gone wrong.&lt;/p&gt;
 
 &lt;ul style=&quot;margin-left:-25px;&quot;&gt;
@@ -5134,7 +5304,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 &lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;p&gt;Wenn nach einigen Sekunden keine Verkehrsdaten ankommen, ist etwas schiefgegangen.&lt;/p&gt;
 
 &lt;ul style=&quot;margin-left:-25px;&quot;&gt;
