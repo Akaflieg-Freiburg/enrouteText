@@ -4625,7 +4625,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 &lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished">
+        <translation>
 &lt;p&gt;Jeśli dane ruchu lotniczego nie pojawią się po kilku sekundach, stało się coś złego.&lt;/p&gt;
 
 &lt;ul style=&quot;margin-left:-25px;&quot;&gt;
