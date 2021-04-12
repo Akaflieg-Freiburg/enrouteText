@@ -4871,7 +4871,14 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 &lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Se non sono arrivati dati sul traffico dopo pochi secondi, qualcosa è andato storto.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Assicurati che il tuo dispositivo sia entrato nella rete WLAN distribuita dal ricevitore Info Traffico. In caso contrario, utilizzare il pulsante nella parte inferiore dello schermo per interrompere il tentativo di connessione.&lt;/li&gt;
+&lt;li&gt;Alcuni ricevitori Info Traffico proteggono il flusso di dati con una password aggiuntiva. Attualmente non è supportato.&lt;/li&gt;
+&lt;li&gt;Fare clic sul punto interrogativo nel titolo della pagina per aprire una finestra di dialogo della guida più dettagliata.&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <source>

@@ -3475,7 +3475,14 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 &lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Si les données de traffic n&apos;arrivent pas après quelques secondes, la procédure a échoué.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Assurez-vous que votre appareil est connecté au réseau WLAN émis par le récepeur. Si ce n&apos;est pas le cas, annulez la tentative de connexion en utilisant le bouton en bas de page.&lt;/li&gt;
+&lt;li&gt;Certains récepteurs protègent leur flux de données avec un mot de passe additionnel. Cette option n&apos;est pas supportée pour le moment.&lt;/li&gt;
+&lt;li&gt;Cliquez sur le point d&apos;interrogation dans le titre de la page pour ouvrir un dialogue d&apos;aide avancée.&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="187"/>

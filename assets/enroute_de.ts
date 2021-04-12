@@ -5292,7 +5292,15 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 &lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Wenn nach einigen Sekunden keine Verkehrsdaten ankommen, ist etwas schiefgegangen.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Prüfen Sie die Verbindung Ihres Geräts mit dem WLAN des Verkehrsdatenempfängers. Fehlt sie, brechen Sie den Versuch mit dem Knopf unten auf dem Schirm ab.&lt;/li&gt;
+&lt;li&gt;Manche Verkehrsdatenempfänger schützen den Datenstrom mit einem zusätzlichen Passwort. Das wird zzt. nicht unterstützt.&lt;/li&gt;
+&lt;li&gt;Öffnen Sie mit dem Fragezeichen im Seitentitel einen detaillierten Hilfetext.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <source>

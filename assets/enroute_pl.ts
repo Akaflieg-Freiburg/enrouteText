@@ -4625,7 +4625,15 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 &lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;p&gt;Jeśli dane ruchu lotniczego nie pojawią się po kilku sekundach, stało się coś złego.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Upewnij się, że twoje urządzenie podłączyło się do sieci WLAN uruchomionej przez Twój odbiornik.  Jeśli nie, użyj przycisku na dole ekranu aby przerwać próbę połączenia.&lt;/li&gt;
+&lt;li&gt;Niektóre odbiorniki ruchu lotniczego chronią strumień danych poprzez dodatkowe hasło. To aktualnie nie jest obsługiwane.&lt;/li&gt;
+&lt;li&gt;Kliknij na znaku pytajnika w tytule strony aby otworzyć bardziej szczegółowy dialog pomocy.&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <source>
