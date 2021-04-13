@@ -3131,159 +3131,124 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Traffic::TrafficDataSource_Udp_GDL</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="98"/>
         <source>The connection was refused by the peer (or timed out).</source>
-        <translation type="unfinished">Connection refusée ou délai dépassé.</translation>
+        <translation type="obsolete">Connection refusée ou délai dépassé.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="101"/>
         <source>The remote host closed the connection.</source>
-        <translation type="unfinished">Le serveur a interrompu la connexion.</translation>
+        <translation type="obsolete">Le serveur a interrompu la connexion.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="104"/>
         <source>The host address was not found.</source>
-        <translation type="unfinished">L&apos;adresse du serveur n&apos;a pas été trouvée.</translation>
+        <translation type="obsolete">L&apos;adresse du serveur n&apos;a pas été trouvée.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="107"/>
         <source>The socket operation failed because the application lacked the required privileges.</source>
-        <translation type="unfinished">Echec de l&apos;opération car l&apos;application n&apos;a pas les autorisations.</translation>
+        <translation type="obsolete">Echec de l&apos;opération car l&apos;application n&apos;a pas les autorisations.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="110"/>
         <source>The local system ran out of resources.</source>
-        <translation type="unfinished">Le système local n&apos; plus de ressources.</translation>
+        <translation type="obsolete">Le système local n&apos; plus de ressources.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="113"/>
         <source>The socket operation timed out.</source>
-        <translation type="unfinished">Delai d&apos;attente de l&apos;opération dépassé.</translation>
+        <translation type="obsolete">Delai d&apos;attente de l&apos;opération dépassé.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="116"/>
         <source>The datagram was larger than the operating system&apos;s limit.</source>
-        <translation type="unfinished">Le datagramme est plus grand que la limite de l&apos;OS.</translation>
+        <translation type="obsolete">Le datagramme est plus grand que la limite de l&apos;OS.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="119"/>
         <source>An error occurred with the network.</source>
-        <translation type="unfinished">Erreur réseau.</translation>
+        <translation type="obsolete">Erreur réseau.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="122"/>
         <source>The address specified to QAbstractSocket::bind() is already in use and was set to be exclusive.</source>
-        <translation type="unfinished">L&apos;adresse donnée à QAbstractSocket::bind() est déjà utilisée mais est censée être unique.</translation>
+        <translation type="obsolete">L&apos;adresse donnée à QAbstractSocket::bind() est déjà utilisée mais est censée être unique.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="125"/>
         <source>The address specified to QAbstractSocket::bind() does not belong to the host.</source>
-        <translation type="unfinished">L&apos;adresse donnée à QAbstractSocket::bind() n&apos;appartient pas à l&apos;hote.</translation>
+        <translation type="obsolete">L&apos;adresse donnée à QAbstractSocket::bind() n&apos;appartient pas à l&apos;hote.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="128"/>
         <source>The requested socket operation is not supported by the local operating system.</source>
-        <translation type="unfinished">Opération non supportée par l&apos;OS local.</translation>
+        <translation type="obsolete">Opération non supportée par l&apos;OS local.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="131"/>
         <source>The socket is using a proxy, and the proxy requires authentication.</source>
-        <translation type="unfinished">Le proxy du connecteur requiert une authentification.</translation>
+        <translation type="obsolete">Le proxy du connecteur requiert une authentification.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="134"/>
         <source>The SSL/TLS handshake failed, so the connection was closed.</source>
-        <translation type="unfinished">Connexion terminée à cause de l&apos;échec de la transaction SSL/TLS.</translation>
+        <translation type="obsolete">Connexion terminée à cause de l&apos;échec de la transaction SSL/TLS.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="137"/>
         <source>The last operation attempted has not finished yet (still in progress in the background).</source>
-        <translation type="unfinished">La dernière opération n&apos;est pas encore terminée (encore active en arrière-plan).</translation>
+        <translation type="obsolete">La dernière opération n&apos;est pas encore terminée (encore active en arrière-plan).</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="140"/>
         <source>Could not contact the proxy server because the connection to that server was denied.</source>
-        <translation type="unfinished">Refus de la connexion au serveur proxy.</translation>
+        <translation type="obsolete">Refus de la connexion au serveur proxy.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="143"/>
         <source>The connection to the proxy server was closed unexpectedly (before the connection to the final peer was established).</source>
-        <translation type="unfinished">La connexion au serveur proxy s&apos;est terminée prématurement.</translation>
+        <translation type="obsolete">La connexion au serveur proxy s&apos;est terminée prématurement.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="146"/>
         <source>The connection to the proxy server timed out or the proxy server stopped responding in the authentication phase.</source>
-        <translation type="unfinished">Délai d&apos;attente dépassé lors de la connexion au serveur proxy.</translation>
+        <translation type="obsolete">Délai d&apos;attente dépassé lors de la connexion au serveur proxy.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="149"/>
         <source>The proxy address set with setProxy() (or the application proxy) was not found.</source>
-        <translation type="unfinished">L&apos;adresse du proxy n&apos;a pas été trouvée.</translation>
+        <translation type="obsolete">L&apos;adresse du proxy n&apos;a pas été trouvée.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="152"/>
         <source>The connection negotiation with the proxy server failed, because the response from the proxy server could not be understood.</source>
-        <translation type="unfinished">Echec de la négociation de la connexion au serveur proxy. Réponse non conforme.</translation>
+        <translation type="obsolete">Echec de la négociation de la connexion au serveur proxy. Réponse non conforme.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="155"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
-        <translation type="unfinished">Tentative d&apos;opération alors que le connecteur n&apos;était pas dans un état adéquat.</translation>
+        <translation type="obsolete">Tentative d&apos;opération alors que le connecteur n&apos;était pas dans un état adéquat.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="158"/>
         <source>The SSL library being used reported an internal error. This is probably the result of a bad installation or misconfiguration of the library.</source>
-        <translation type="unfinished">Erreur interne à la bibiothèsque SSL, probablement à cause d&apos;une erreur d&apos;installation ou de configuration.</translation>
+        <translation type="obsolete">Erreur interne à la bibiothèsque SSL, probablement à cause d&apos;une erreur d&apos;installation ou de configuration.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="161"/>
         <source>Invalid data (certificate, key, cypher, etc.) was provided and its use resulted in an error in the SSL library.</source>
-        <translation type="unfinished">Donnée invalide (certificat, clé, etc.) fournie à la bibliothèque SSL.</translation>
+        <translation type="obsolete">Donnée invalide (certificat, clé, etc.) fournie à la bibliothèque SSL.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="164"/>
         <source>A temporary error occurred (e.g., operation would block and socket is non-blocking).</source>
-        <translation type="unfinished">Erreur temporaire.</translation>
+        <translation type="obsolete">Erreur temporaire.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="167"/>
         <source>An unidentified error occurred.</source>
-        <translation type="unfinished">Erreur non-identifiée.</translation>
+        <translation type="obsolete">Erreur non-identifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="195"/>
         <source>Performing host name lookup.</source>
-        <translation type="unfinished">Recherche du nom de l&apos;hote.</translation>
+        <translation type="obsolete">Recherche du nom de l&apos;hote.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="198"/>
         <source>Trying to establish a connection.</source>
-        <translation type="unfinished">Tentative d&apos;établissement de la connexion</translation>
+        <translation type="obsolete">Tentative d&apos;établissement de la connexion</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="201"/>
         <source>Connected.</source>
-        <translation type="unfinished">Connecté.</translation>
+        <translation type="obsolete">Connecté.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="204"/>
         <source>Bound to an address and port, but not connected yet.</source>
-        <translation type="unfinished">Lié à une adresse et un port, mais pas encore connecté.</translation>
+        <translation type="obsolete">Lié à une adresse et un port, mais pas encore connecté.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="207"/>
         <source>Closing.</source>
-        <translation type="unfinished">Interruption.</translation>
+        <translation type="obsolete">Interruption.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.cpp" line="210"/>
         <source>Not connected.</source>
-        <translation type="unfinished">Non connecté.</translation>
-    </message>
-    <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp_GDL.h" line="46"/>
-        <source>UDP connection to port %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Non connecté.</translation>
     </message>
 </context>
 <context>
