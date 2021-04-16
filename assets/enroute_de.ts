@@ -4053,7 +4053,8 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="33"/>
         <source>Positioning</source>
-        <translation>Suche Position ...</translation>
+        <translatorcomment>&quot;Positioning&quot; ist hier kein Verb, sondern als Substantiv gemeint. -- S.K.</translatorcomment>
+        <translation>Positionsbestimmung</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="59"/>
