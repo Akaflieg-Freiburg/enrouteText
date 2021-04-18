@@ -2215,7 +2215,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 
 &lt;p&gt;&lt;strong&gt;Französisch:&lt;/strong&gt; Adrien Crovato - s.o.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Deutsch:&lt;/strong&gt; Markus Sachs. Markus fliegt Trike und ist begeisterter &apos;Co&apos;; bei allem anderen, das fliegt.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deutsch:&lt;/strong&gt; Markus Sachs. Markus fliegt Trike und ist begeisterter &apos;Co&apos; bei allem anderen, das fliegt.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Italienisch:&lt;/strong&gt; Ivan Battistella und Luca Bertoncello. Luca fliegt ULs seit 2014 und wurde 2019 Fluglehrer. Er programmiert seit 1988 und arbeitet als Systemadministrator in Dresden. Ivan Battistella begann vor kurzem mit der UL-Fliegerei. Er arbeitet als freiberuflicher Softwareberater.&lt;/p&gt;
 
@@ -2285,7 +2285,7 @@ Auf &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;unser
 
 &lt;h3&gt;Akademischer Sponsor&lt;/h3&gt;
       
-&lt;p&gt;Der Autor bedankt sich ausdrücklich bei seinem akademischen Sponsor der &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Universität  Freiburg&lt;/a&gt;. Die Universität stellt freundlicherweise die Infrastruktur, um unsere Karten zu erzeugen, und die Bandbreite, sie zu übertragen.&lt;/p&gt;
+&lt;p&gt;Der Autor bedankt sich ausdrücklich bei seinem akademischen Sponsor, der &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Universität  Freiburg&lt;/a&gt;. Die Universität stellt freundlicherweise die Infrastruktur, um unsere Karten zu erzeugen, und die Bandbreite, sie zu übertragen.&lt;/p&gt;
 
 &lt;h3&gt;Danksagungen&lt;/h3&gt;
 
