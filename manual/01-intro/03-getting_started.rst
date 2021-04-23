@@ -3,38 +3,65 @@ Getting started
 
 Now you are ready for the first use of **Enroute Flight Navigation**.  General
 operation is very intuitive.  Still, we recommend that you take a minute to make
-yourself familiar with the moving map display.
+yourself familiar with the moving map display and with the basic controls before
+you take the app on its first flight.
 
 
-**Ground Mode**
+The moving map
+--------------
 
-The figure :ref:`movingMapGroundMode` shows how the display will look while you
-are on the ground.
+After startup, the app will show a moving map, similar in style to the standard
+ICAO maps that most pilots are used to.  The figure :ref:`movingMapGroundMode`
+shows how the app will typically look while you are on the ground.
 
 .. _movingMapGroundMode:
 .. figure:: ./fig_GroundMode.png
-   :scale: 50 %
+   :scale: 25 %
    :align: center
    :alt: Moving map display in ground mode
 
-   Moving map display in ground mode
+   Moving map display while on the ground mode
 
-1. Own Position.  The own position indicator will be gray if the satellite
-   navigation system has not yet acquired a valid position.  It will be
-   displayed in blue color if GPS position is available.  The own position will
-   be indicated as round shape when no motion is sensed and displayed as an
-   arrow when moving.
-2. North Indicator.  This button can also be used to switch between the display
-   modes *track up* and *north up*.
-3. Zoom buttons.
-4. Map Scale.
-5. Menu button.
+Your own position is shown as a blue circle.  The circle turns gray if the
+system has not yet acquired a valid position.  You can use the standard gestures
+to zoom and pan the map to your liking.
 
-You can use the standard gestures to zoom, pan and rotate the map to your
-liking.  Double tap or tap-and-hold anywhere in the map to obtain information
-about the airspace situation at that point.  If you double tap on an airfield,
-navaid or reporting point, detailed information about the facility will be
-shown.
+
+Interactive controls
+--------------------
+
+
+
+Information about airspaces, airfields and other facilities
+-----------------------------------------------------------
+
+Double tap or tap-and-hold anywhere in the map to obtain information about the
+airspace situation at that point.  If you double tap or tap-and-hold on an
+airfield, navaid or reporting point, detailed information about the facility
+will be shown.
+
+
+**Flight Data**
+
+The bottom line will show the following data.
+
+====== ==============
+T.TALT True altitude, also known as geometric altitude.
+FL     Flight level (hidden if display is not wide enough).
+GS     Ground speed.
+TT     True track.
+UTC    Current time (hidden if display is no wide enough).
+====== ==============
+
+The flight level is available only if your device is connected to a traffic
+receiver (such as a PowerFLARM device) that reports the pressure altitude.
+
+.. warning:: Depending on temperature and air density, the true altitude will
+   generally differ from the value shown by your barometric altimeter, even if
+   the altimeter is set to QNH.  **The true altitude reading must not be used
+   for navigation in airspace classes C and D.**
+
+ 
 
 
 **Flight Mode**
