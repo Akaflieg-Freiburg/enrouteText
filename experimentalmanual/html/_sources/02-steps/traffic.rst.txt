@@ -30,9 +30,6 @@ following conditions are met.
 - You know the network name (=SSID) of the WLAN network deployed by your traffic
   receiver. If the network is encrypted, you also need to know the WLAN
   password.
-- If you use a Stratux or T-Beam device, set the device IP address to
-  192.168.1.1.  Most FLARM devices use this address default and  no
-  configuration is required.
 - Some devices require an additional password in order to access traffic
   data. This is currently **not** supported. Set up your device so that no
   additional password is required.
@@ -46,7 +43,7 @@ receiver for the first time. Once things are set up properly, your device should
 automatically detect the traffic receiver's WLAN network, enter the network and
 connect to the traffic data stream whenever you go flying.
 
-Step 1: Enter the traffic receiver's WLAN network
+**Step 1: Enter the traffic receiver's WLAN network**
 
 - Make sure that the traffic receiver has power and is switched on. In a typical
   aircraft installation, the traffic receiver is connected to the 'Avionics'
@@ -62,7 +59,7 @@ Most operating systems will offer to remember the connection, so that your
 device will automatically connect to this WLAN in the future. We recommend using
 this option.
 
-Step 2: Connect to the traffic data stream
+**Step 2: Connect to the traffic data stream**
 
 Open the main menu and navigate to the "Information" menu.
 
@@ -73,6 +70,7 @@ Open the main menu and navigate to the "Information" menu.
   entry. The "Traffic Receiver Status" page will open. The page explains the
   connection status in detail, and explains how to establish a connection
   manually.
+
 
 Troubleshooting
 ---------------

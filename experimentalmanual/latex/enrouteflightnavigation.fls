@@ -323,16 +323,6 @@ INPUT ./fig_FlightModeTu.png
 INPUT ./fig_FlightModeTu.png
 INPUT fig_FlightModeTu.png
 INPUT ./fig_FlightModeTu.png
-INPUT fig_waypoint.png
-INPUT ./fig_waypoint.png
-INPUT ./fig_waypoint.png
-INPUT fig_waypoint.png
-INPUT ./fig_waypoint.png
-INPUT fig_route.png
-INPUT ./fig_route.png
-INPUT ./fig_route.png
-INPUT fig_route.png
-INPUT ./fig_route.png
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/adobe/helvetic/phvr8t.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/adobe/helvetic/phvr8r.tfm
 INPUT fig_Restricted.png

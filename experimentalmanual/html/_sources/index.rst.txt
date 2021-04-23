@@ -44,8 +44,8 @@ and frequencies.
    :name: sec-intro
 
    01-intro/01-think
-   01-intro/02-getting_started
-   01-intro/further_steps
+   01-intro/02-installation
+   01-intro/03-getting_started
 
 .. raw:: latex
    \part{Further Steps}

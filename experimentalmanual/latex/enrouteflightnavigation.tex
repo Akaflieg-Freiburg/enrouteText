@@ -74,7 +74,7 @@
 \input{../../latexPreamble.tex.txt}
 
 \title{Enroute Flight Navigation}
-\date{Apr 13, 2021}
+\date{Apr 23, 2021}
 \release{2.2.4}
 \author{Stefan Kebekus}
 \newcommand{\sphinxlogo}{\vbox{}}
@@ -252,11 +252,11 @@ USB cable, the display and/or CPU might use more energy than USB can deliver.
 \end{itemize}
 
 
-\chapter{Getting started}
-\label{\detokenize{01-intro/02-getting_started:getting-started}}\label{\detokenize{01-intro/02-getting_started::doc}}
+\chapter{Installation and setup}
+\label{\detokenize{01-intro/02-installation:installation-and-setup}}\label{\detokenize{01-intro/02-installation::doc}}
 
 \section{App installation}
-\label{\detokenize{01-intro/02-getting_started:app-installation}}\begin{description}
+\label{\detokenize{01-intro/02-installation:app-installation}}\begin{description}
 \item[{Installation on Android devices}] \leavevmode
 \sphinxAtStartPar
 \sphinxstylestrong{Enroute Flight Navigation} is available as an Android App in the \sphinxhref{https://play.google.com/store/apps/details?id=de.akaflieg\_freiburg.enroute}{Google
@@ -299,7 +299,7 @@ conditions.
 
 
 \section{Map download}
-\label{\detokenize{01-intro/02-getting_started:map-download}}
+\label{\detokenize{01-intro/02-installation:map-download}}
 \sphinxAtStartPar
 \sphinxstylestrong{Enroute Flight Navigation} cannot be used without geographic maps.  Two types
 of maps need to be installed for every region where you fly.
@@ -327,41 +327,34 @@ screen.  The button is marked with the symbol ‘☰’.
 
 \item {} 
 \sphinxAtStartPar
-Choose the menu item \sphinxstyleemphasis{Settings}.
+Choose the menu item \sphinxstyleemphasis{Library}, then \sphinxstyleemphasis{Maps}.  The map management page will
+then open.
 
 \item {} 
 \sphinxAtStartPar
-On the settings page, choose the item \sphinxstyleemphasis{Maps} in the \sphinxstyleemphasis{Libraries} section.
-
-\item {} 
-\sphinxAtStartPar
-On the map page, click or tap on the desired maps.  The maps will then be
-downloaded and installed on your device.
+On the map management page, click or tap on the desired maps.  The maps will
+be downloaded and installed on your device.
 
 \end{itemize}
 
-\begin{sphinxadmonition}{caution}{Caution:}
+\sphinxAtStartPar
+Please download only those maps that you will actually need.  The infrastructure
+and bandwidth for map downloads is kindly sponsored by the University of
+Freiburg, under the assumption that the cost stays within reasonable limits.
+You will also find that the app performs much better if it does not have to
+process many megabytes of map data.
+
+\begin{sphinxadmonition}{note}{Note:}
 \sphinxAtStartPar
 Do not forget that you need aeronautical maps \sphinxstylestrong{and} base maps for
-the desired area of flight.
+the desired area of flight.  The base maps are large.  Make sure that you
+have a good internet connection before you download maps.  It might be
+inadvisable to download base maps via the mobile phone network.
 \end{sphinxadmonition}
 
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-The base maps are large.  Make sure that you have a good internet
-connection before you download maps.  It might be inadvisable to download
-maps via the mobile phone network.
-\end{sphinxadmonition}
 
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-Please download only those maps that you will actually need.  The
-infrastructure and bandwidth for map downloads is kindly sponsored by the
-University of Freiburg, under the assumption that the costs stays within
-reasonable limits.  You will also find that the app performs much better if
-it does not have to process many megabytes of map data.
-\end{sphinxadmonition}
-
+\section{Done.}
+\label{\detokenize{01-intro/02-installation:done}}
 \sphinxAtStartPar
 Once the map download has finished, \sphinxstylestrong{Enroute Flight Navigation} will process
 the map data and update the map display after a minute or so.  Tap or click on
@@ -369,71 +362,120 @@ the arrow symbol ‘←’ or use the Android ‘Back’ button to leave the map
 return to the main screen.
 
 \sphinxAtStartPar
-You are now ready to go.  Look around any play with the app!
+You are now ready to go.  There are many things that you could set up at this
+stage, but we recommend that you simply look around any play with the app.
+Continue with the next section and take it for your first flight.
 
 
-\section{The moving map}
-\label{\detokenize{01-intro/02-getting_started:the-moving-map}}
+\chapter{Getting started}
+\label{\detokenize{01-intro/03-getting_started:getting-started}}\label{\detokenize{01-intro/03-getting_started::doc}}
 \sphinxAtStartPar
 Now you are ready for the first use of \sphinxstylestrong{Enroute Flight Navigation}.  General
 operation is very intuitive.  Still, we recommend that you take a minute to make
-yourself familiar with the moving map display.
+yourself familiar with the moving map display and with the basic controls before
+you take the app on its first flight.
 
-\sphinxAtStartPar
-\sphinxstylestrong{Ground Mode}
 
+\section{The moving map}
+\label{\detokenize{01-intro/03-getting_started:the-moving-map}}
 \sphinxAtStartPar
-The figure {\hyperref[\detokenize{01-intro/02-getting_started:movingmapgroundmode}]{\sphinxcrossref{\DUrole{std,std-ref}{Moving map display in ground mode}}}} shows how the display will look while you
-are on the ground.
+After startup, the app will show a moving map, similar in style to the standard
+ICAO maps that most pilots are used to.  The figure {\hyperref[\detokenize{01-intro/03-getting_started:movingmapgroundmode}]{\sphinxcrossref{\DUrole{std,std-ref}{Moving map display while on the ground mode}}}}
+shows how the app will typically look while you are on the ground.
 
 \begin{figure}[htbp]
 \centering
 \capstart
 
-\noindent\sphinxincludegraphics[scale=0.5]{{fig_GroundMode}.png}
-\caption{Moving map display in ground mode}\label{\detokenize{01-intro/02-getting_started:id1}}\label{\detokenize{01-intro/02-getting_started:movingmapgroundmode}}\end{figure}
-\begin{enumerate}
-\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
-\item {} 
-\sphinxAtStartPar
-Own Position.  The own position indicator will be gray if the satellite
-navigation system has not yet acquired a valid position.  It will be
-displayed in blue color if GPS position is available.  The own position will
-be indicated as round shape when no motion is sensed and displayed as an
-arrow when moving.
-
-\item {} 
-\sphinxAtStartPar
-North Indicator.  This button can also be used to switch between the display
-modes \sphinxstyleemphasis{track up} and \sphinxstyleemphasis{north up}.
-
-\item {} 
-\sphinxAtStartPar
-Zoom buttons.
-
-\item {} 
-\sphinxAtStartPar
-Map Scale.
-
-\item {} 
-\sphinxAtStartPar
-Menu button.
-
-\end{enumerate}
+\noindent\sphinxincludegraphics[scale=0.25]{{fig_GroundMode}.png}
+\caption{Moving map display while on the ground mode}\label{\detokenize{01-intro/03-getting_started:id1}}\label{\detokenize{01-intro/03-getting_started:movingmapgroundmode}}\end{figure}
 
 \sphinxAtStartPar
-You can use the standard gestures to zoom, pan and rotate the map to your
-liking.  Double tap or tap\sphinxhyphen{}and\sphinxhyphen{}hold anywhere in the map to obtain information
-about the airspace situation at that point.  If you double tap on an airfield,
-navaid or reporting point, detailed information about the facility will be
-shown.
+Your own position is shown as a blue circle.  The circle turns gray if the
+system has not yet acquired a valid position.  You can use the standard gestures
+to zoom and pan the map to your liking.
+
+
+\section{Interactive controls}
+\label{\detokenize{01-intro/03-getting_started:interactive-controls}}
+
+\section{Information about airspaces, airfields and other facilities}
+\label{\detokenize{01-intro/03-getting_started:information-about-airspaces-airfields-and-other-facilities}}
+\sphinxAtStartPar
+Double tap or tap\sphinxhyphen{}and\sphinxhyphen{}hold anywhere in the map to obtain information about the
+airspace situation at that point.  If you double tap or tap\sphinxhyphen{}and\sphinxhyphen{}hold on an
+airfield, navaid or reporting point, detailed information about the facility
+will be shown.
+
+\sphinxAtStartPar
+\sphinxstylestrong{Flight Data}
+
+\sphinxAtStartPar
+The bottom line will show the following data.
+
+
+\begin{savenotes}\sphinxattablestart
+\centering
+\begin{tabulary}{\linewidth}[t]{|T|T|}
+\hline
+
+\sphinxAtStartPar
+T.TALT
+&
+\sphinxAtStartPar
+True altitude, also known as geometric altitude.
+\\
+\hline
+\sphinxAtStartPar
+FL
+&
+\sphinxAtStartPar
+Flight level (hidden if display is not wide enough).
+\\
+\hline
+\sphinxAtStartPar
+GS
+&
+\sphinxAtStartPar
+Ground speed.
+\\
+\hline
+\sphinxAtStartPar
+TT
+&
+\sphinxAtStartPar
+True track.
+\\
+\hline
+\sphinxAtStartPar
+UTC
+&
+\sphinxAtStartPar
+Current time (hidden if display is no wide enough).
+\\
+\hline
+\end{tabulary}
+\par
+\sphinxattableend\end{savenotes}
+
+\sphinxAtStartPar
+The flight level is available only if your device is connected to a traffic
+receiver (such as a PowerFLARM device) that reports the pressure altitude.
+
+\begin{sphinxadmonition}{warning}{Warning:}
+\sphinxAtStartPar
+Depending on temperature and air density, the true altitude will
+generally differ from the value shown by your barometric altimeter, even if
+the altimeter is set to QNH.  \sphinxstylestrong{The true altitude reading must not be used
+for navigation in airspace classes C and D.}
+\end{sphinxadmonition}
 
 \sphinxAtStartPar
 \sphinxstylestrong{Flight Mode}
 
 \sphinxAtStartPar
 As soon as you are flying, the moving maps switches to \sphinxstyleemphasis{flight mode}.  The
-figure {\hyperref[\detokenize{01-intro/02-getting_started:movingmapflightmode}]{\sphinxcrossref{\DUrole{std,std-ref}{Moving map display in flight mode}}}} shows how the display will look while you are
+figure {\hyperref[\detokenize{01-intro/03-getting_started:movingmapflightmode}]{\sphinxcrossref{\DUrole{std,std-ref}{Moving map display in flight mode}}}} shows how the display will look while you are
 in the air.
 
 \begin{sphinxadmonition}{note}{Note:}
@@ -447,7 +489,7 @@ or paragliders.  The settings allow to force the flight mode to “on”.
 \capstart
 
 \noindent\sphinxincludegraphics[scale=0.5]{{fig_FlightModeTu}.png}
-\caption{Moving map display in flight mode}\label{\detokenize{01-intro/02-getting_started:id2}}\label{\detokenize{01-intro/02-getting_started:movingmapflightmode}}\end{figure}
+\caption{Moving map display in flight mode}\label{\detokenize{01-intro/03-getting_started:id2}}\label{\detokenize{01-intro/03-getting_started:movingmapflightmode}}\end{figure}
 \begin{enumerate}
 \sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
 \item {} 
@@ -512,7 +554,7 @@ reading must not be used for navigation in airspace classes C and D.}
 
 
 \section{Your first flight}
-\label{\detokenize{01-intro/02-getting_started:your-first-flight}}
+\label{\detokenize{01-intro/03-getting_started:your-first-flight}}
 \sphinxAtStartPar
 Now you are ready for the first use of \sphinxstylestrong{Enroute Flight Navigation}. General
 operation is very intuitive. The primary purpose of \sphinxstylestrong{Enroute Flight
@@ -673,532 +715,6 @@ Settings
 \end{itemize}
 
 
-\chapter{Further Steps}
-\label{\detokenize{01-intro/further_steps:further-steps}}\label{\detokenize{01-intro/further_steps::doc}}
-\sphinxAtStartPar
-When using \sphinxstylestrong{Enroute Flight Navigation} on a frequent basis you may want to get
-into some more detail on the features and configure the app.
-
-
-\section{Menu}
-\label{\detokenize{01-intro/further_steps:menu}}
-\sphinxAtStartPar
-Functions not directly accessible on the moving map display and more options are accessed via the menu symbol in the upper left edge of the moving map display.
-
-\sphinxAtStartPar
-When touching the Menu area in the left upper corner of the screen the menu will open and give the following options:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Route — see Flight Routes described below
-
-\item {} 
-\sphinxAtStartPar
-Nearby Waypoints  — will show the closest 20 aerodromes, navaids or reporting points
-
-\item {} 
-\sphinxAtStartPar
-Weather   — will open the weather display
-
-\item {} 
-\sphinxAtStartPar
-Set Altimeter — allows to enter current altitude to have altitude displayed using an offset
-
-\item {} 
-\sphinxAtStartPar
-Settings — see below
-
-\item {} \begin{description}
-\item[{Information}] \leavevmode\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Satellite Status  — will open a sub\sphinxhyphen{}window showing the status of GPS reception
-
-\item {} 
-\sphinxAtStartPar
-Manual — will show this manual
-
-\item {} 
-\sphinxAtStartPar
-About \sphinxstylestrong{Enroute Flight Navigation}
-
-\item {} 
-\sphinxAtStartPar
-Participate
-
-\item {} 
-\sphinxAtStartPar
-Donate
-
-\end{itemize}
-
-\end{description}
-
-\item {} 
-\sphinxAtStartPar
-Bug Report — will open a link to provide feedback
-
-\item {} 
-\sphinxAtStartPar
-Exit — will shut down the application
-
-\end{itemize}
-
-\sphinxAtStartPar
-Only some reference to Menu items is given in this section. More details may be found in the ‘Reference’ section of  the manual.
-
-
-\section{Settings}
-\label{\detokenize{01-intro/further_steps:settings}}
-\sphinxAtStartPar
-The settings Menu will allow to customize \sphinxstylestrong{Enroute Flight Navigation} and give
-access to program status.  The settings Menu gives the following options:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-\sphinxstylestrong{Hide Airspace above FL 100} — allows to select display of airspace above FL100 displayed.
-
-\item {} 
-\sphinxAtStartPar
-\sphinxstylestrong{Automatic flight detection} — allows to select the display of flight mode on the ground
-
-\item {} 
-\sphinxAtStartPar
-\sphinxstylestrong{Flight Routes} — will show a window with the previously stored routes
-
-\item {} 
-\sphinxAtStartPar
-\sphinxstylestrong{Maps} — will show a window with the available and previously installed Aviation and Base Maps
-
-\item {} 
-\sphinxAtStartPar
-\sphinxstylestrong{Use metric units} — allows to select display in metric units
-
-\item {} 
-\sphinxAtStartPar
-\sphinxstylestrong{Use English} — allows to select English Language for display
-
-\end{itemize}
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-The items to be selected by the on\sphinxhyphen{}off slider will enable the related function. The current status of the selected item is shown below the item.
-\end{sphinxadmonition}
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-If you do not select “Hide Airspace above FL 100” the FIS frequencies for the Airspace C above FL100 will be displayed. In general this frequencies are also applicable below FL 100.
-\end{sphinxadmonition}
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-When Automatic flight detection is not selected the display will always be in flight mode.
-\end{sphinxadmonition}
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-If “Use English” is not selected the standard language selected for your device will be used if available.
-\end{sphinxadmonition}
-
-
-\section{Waypoints}
-\label{\detokenize{01-intro/further_steps:waypoints}}
-\sphinxAtStartPar
-Waypoints are the central element of aeronautical navigation. A waypoint is selected by touching the moving map at the location of the waypoint display. Waypoints may also be directly added to a route by list selection or search.
-
-\sphinxAtStartPar
-The following types of Waypoints are available:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Aerodromes
-
-\item {} 
-\sphinxAtStartPar
-Reporting points
-
-\item {} 
-\sphinxAtStartPar
-Navaids
-
-\item {} 
-\sphinxAtStartPar
-Arbitrary points on the map.
-
-\end{itemize}
-
-\sphinxAtStartPar
-For Aerodromes the full set of information will be displayed:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Aerodrome symbol indicating type of airport
-
-\item {} 
-\sphinxAtStartPar
-Aerodrome designation
-
-\item {} 
-\sphinxAtStartPar
-Distance and Bearing to Aerodrome
-
-\item {} 
-\sphinxAtStartPar
-Meteorological information if available
-
-\item {} 
-\sphinxAtStartPar
-Aerodrome communication information
-
-\item {} 
-\sphinxAtStartPar
-Airspace data
-
-\end{itemize}
-
-\sphinxAtStartPar
-For Reporting Points the following information will be displayed:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Reporting Point designation
-
-\item {} 
-\sphinxAtStartPar
-Distance and bearing to Reporting Point
-
-\item {} 
-\sphinxAtStartPar
-Reporting Point communication information
-
-\item {} 
-\sphinxAtStartPar
-Airspace data
-
-\end{itemize}
-
-\sphinxAtStartPar
-For Navaids the following information will be displayed:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Navaid symbol, designation and type
-
-\item {} 
-\sphinxAtStartPar
-Distance and bearing to Navaid
-
-\item {} 
-\sphinxAtStartPar
-Navaid ID, frequency and elevation
-
-\item {} 
-\sphinxAtStartPar
-Airspace data
-
-\end{itemize}
-
-\sphinxAtStartPar
-For Arbitrary Points the following information will be displayed:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Point designation if manually entered
-
-\item {} 
-\sphinxAtStartPar
-Distance and bearing to Point
-
-\item {} 
-\sphinxAtStartPar
-Airspace data
-
-\end{itemize}
-
-\begin{figure}[htbp]
-\centering
-
-\noindent\sphinxincludegraphics{{fig_waypoint}.png}
-\end{figure}
-
-\sphinxAtStartPar
-\sphinxstyleemphasis{Legend}:
-\begin{enumerate}
-\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
-\item {} 
-\sphinxAtStartPar
-Waypoint designation, bearing and distance
-
-\item {} 
-\sphinxAtStartPar
-Waypoint meteorological information (only shown for airports if available)
-
-\item {} 
-\sphinxAtStartPar
-Communication information related to waypoint (only shown if applicable)
-
-\item {} 
-\sphinxAtStartPar
-Airspace information for waypoint
-
-\item {} 
-\sphinxAtStartPar
-Area to select direct Navigation to waypoint
-
-\item {} 
-\sphinxAtStartPar
-Area to add waypoint to current route
-
-\end{enumerate}
-
-
-\section{Flight Routes}
-\label{\detokenize{01-intro/further_steps:flight-routes}}
-\sphinxAtStartPar
-\sphinxstylestrong{Enroute Flight Navigation} provides direct planning of one flight Route. A
-Route will remain present until it is cleared.  Route planning is entered via
-the Menu point Route. The Menu is entered via the Menu Symbol in the upper left
-corner of the map area. Then the Route Symbol has to be touched to go to the
-Route area.
-
-\sphinxAtStartPar
-A Route may be planned in the following ways:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-“Direct” in the waypoint window will provide a Route between current position and desired waypoint
-
-\item {} 
-\sphinxAtStartPar
-“+” symbol in the waypoint window will add the waypoint to the last position of the Route.
-
-\item {} 
-\sphinxAtStartPar
-“Add Waypoint” in the Route window will open a selection window for a waypoint and add the selected waypoint to the route.
-
-\end{itemize}
-
-\sphinxAtStartPar
-The Route Display will show the following information:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Symbol of the waypoint
-
-\item {} 
-\sphinxAtStartPar
-Designation of the waypoint
-
-\item {} 
-\sphinxAtStartPar
-Route Point Menu
-
-\item {} \begin{description}
-\item[{Navigation Data}] \leavevmode\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Distance between way points
-
-\item {} 
-\sphinxAtStartPar
-Time calculated between way points using the cruise speed set in the “Aircraft and Wind” page
-
-\item {} 
-\sphinxAtStartPar
-True Course between way points
-
-\item {} 
-\sphinxAtStartPar
-True Heading between way points
-
-\end{itemize}
-
-\end{description}
-
-\end{itemize}
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-A Route may also be imported from a GPX file from another PC. After
-sending the GPX file as Email attachment \sphinxstylestrong{Enroute Flight Navigation}
-will offer to open the GPX file.
-\end{sphinxadmonition}
-
-\sphinxAtStartPar
-The Route Point Menu provides the option to:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Move a waypoint up in the Route
-
-\item {} 
-\sphinxAtStartPar
-Move a waypoint down in the Route
-
-\item {} 
-\sphinxAtStartPar
-Remove a waypoint from the Route
-
-\end{itemize}
-
-\sphinxAtStartPar
-The Route Menu is entered by touching the Route Menu Symbol on the Route page.
-For Arbitrary Points the standard designation “Waypoint” may be changed by touching the pencil symbol and entering a designation.
-
-\sphinxAtStartPar
-The following options are available from the Route Menu:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Open a previously stored route from the library
-
-\item {} 
-\sphinxAtStartPar
-Save the current route to the library
-
-\item {} 
-\sphinxAtStartPar
-View the route library
-
-\item {} 
-\sphinxAtStartPar
-Share the Route in JSON or GPX format
-
-\item {} 
-\sphinxAtStartPar
-Open the Route in another APP using the JSON or GPX format
-
-\item {} 
-\sphinxAtStartPar
-Clear Route
-
-\item {} 
-\sphinxAtStartPar
-Reverse Route
-
-\end{itemize}
-
-\sphinxAtStartPar
-The previously created and stored routes will be kept in a data base within
-\sphinxstylestrong{Enroute Flight Navigation}. Routes consist of the data for the selected way
-points. The Route data may be exported for use in other applications.
-\begin{description}
-\item[{The Route display has 3 Sub windows:}] \leavevmode\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Route
-
-\item {} 
-\sphinxAtStartPar
-Wind
-
-\item {} 
-\sphinxAtStartPar
-ACFT
-
-\end{itemize}
-
-\end{description}
-
-\begin{figure}[htbp]
-\centering
-
-\noindent\sphinxincludegraphics{{fig_route}.png}
-\end{figure}
-
-\sphinxAtStartPar
-\sphinxstyleemphasis{Legend}:
-\begin{enumerate}
-\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
-\item {} 
-\sphinxAtStartPar
-Route sub\sphinxhyphen{}window
-
-\item {} 
-\sphinxAtStartPar
-Selection area for wind sub\sphinxhyphen{}window
-
-\item {} 
-\sphinxAtStartPar
-Selection area for aircraft sub\sphinxhyphen{}window
-
-\item {} 
-\sphinxAtStartPar
-Route point sub\sphinxhyphen{}menu
-
-\item {} 
-\sphinxAtStartPar
-Edit route point designation for arbitrary waypoints
-
-\item {} 
-\sphinxAtStartPar
-Total distance, flight time and fuel consumption for flight route
-
-\end{enumerate}
-
-\sphinxAtStartPar
-.
-
-\sphinxAtStartPar
-\sphinxstylestrong{Route \textendash{} Aircraft and Wind}
-
-\sphinxAtStartPar
-The Aircraft and Wind sub\sphinxhyphen{}pages of the Route page allows to enter aircraft
-performance and wind data required for navigational calculations.  The Aircraft
-Data will be used to determine the distance of the flight and the true course.
-The Wind data will will be used to calculate the true heading and duration of
-the flight. The duration of the flight will determine the fuel used.  \sphinxstylestrong{Enroute
-Flight Navigation} only offers a very superficial flight planning and cannot
-replace a full flight planning, but is only intended to provide quick reference.
-
-\begin{sphinxadmonition}{warning}{Warning:}
-\sphinxAtStartPar
-Always perform a full flight preparation in accordance with the flight
-manual of the aircraft used. The use of \sphinxstylestrong{Enroute Flight Navigation}
-as primary flight planning may cause accidents leading to loss of
-lives.
-\end{sphinxadmonition}
-\begin{description}
-\item[{The Wind sub\sphinxhyphen{}page of the Route page offers the following input fields:}] \leavevmode\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Direction in degrees
-
-\item {} 
-\sphinxAtStartPar
-Speed in knots
-
-\end{itemize}
-
-\end{description}
-
-\sphinxAtStartPar
-Only one speed, fuel consumption and wind may be entered for the whole route.
-
-\sphinxAtStartPar
-The Aircraft sub\sphinxhyphen{}page of the Route page offers the following input fields:
-\begin{itemize}
-\item {} \begin{description}
-\item[{Aircraft}] \leavevmode\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Cruise Speed: Average Speed for Route
-
-\item {} 
-\sphinxAtStartPar
-Descent Speed: Allows to enter a different speed for the descent phase (Currently not used)
-
-\item {} 
-\sphinxAtStartPar
-Fuel Consumption: Average Fuel consumption per hour
-
-\end{itemize}
-
-\end{description}
-
-\end{itemize}
-
-
 \chapter{Connecting your traffic receiver}
 \label{\detokenize{02-steps/traffic:connecting-your-traffic-receiver}}\label{\detokenize{02-steps/traffic::doc}}
 \sphinxAtStartPar
@@ -1268,12 +784,6 @@ password.
 
 \item {} 
 \sphinxAtStartPar
-If you use a Stratux or T\sphinxhyphen{}Beam device, set the device IP address to
-192.168.1.1.  Most FLARM devices use this address default and  no
-configuration is required.
-
-\item {} 
-\sphinxAtStartPar
 Some devices require an additional password in order to access traffic
 data. This is currently \sphinxstylestrong{not} supported. Set up your device so that no
 additional password is required.
@@ -1290,7 +800,7 @@ automatically detect the traffic receiver’s WLAN network, enter the network an
 connect to the traffic data stream whenever you go flying.
 
 \sphinxAtStartPar
-Step 1: Enter the traffic receiver’s WLAN network
+\sphinxstylestrong{Step 1: Enter the traffic receiver’s WLAN network}
 \begin{itemize}
 \item {} 
 \sphinxAtStartPar
@@ -1315,7 +825,7 @@ device will automatically connect to this WLAN in the future. We recommend using
 this option.
 
 \sphinxAtStartPar
-Step 2: Connect to the traffic data stream
+\sphinxstylestrong{Step 2: Connect to the traffic data stream}
 
 \sphinxAtStartPar
 Open the main menu and navigate to the “Information” menu.
@@ -2411,19 +1921,46 @@ License}%
 \label{\detokenize{04-appendix/technical:traffic-receiver}}
 \sphinxAtStartPar
 \sphinxstylestrong{Enroute Flight Navigation} expects that the traffic receiver deploys a WLAN
-network via Wi\sphinxhyphen{}Fi and publishes a stream of NMEA sentences at the IP address
-192.168.1.1, port 2000 of that network. The NMEA sentences must conform to the
-specification outlined in the document FTD\sphinxhyphen{}012 \sphinxhref{https://flarm.com/support/manuals-documents/}{Data Port Interface Control
-Document (ICD)}%
+network via Wi\sphinxhyphen{}Fi and publishes traffic data via that network.  In order to
+support a wide range of devices, including flight simulators, the app listens to
+several network addresses simultaneously.
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+The app tries to establish TCP connections to port 2000 at the IP addresses
+192.168.1.1 and 192.168.10.1, where it expects to read a stream of FLARM/NMEA
+sentences.  The NMEA sentences must conform to the specification outlined in the
+document FTD\sphinxhyphen{}012 \sphinxhref{https://flarm.com/support/manuals-documents/}{Data Port Interface Control Document (ICD)}%
 \begin{footnote}[33]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://flarm.com/support/manuals-documents/}
 %
-\end{footnote}, Version 7.13,
-as published by \sphinxhref{https://flarm.com/}{FLARM Technology Ltd}%
+\end{footnote}, Version 7.13, as published by
+\sphinxhref{https://flarm.com/}{FLARM Technology Ltd}%
 \begin{footnote}[34]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://flarm.com/}
 %
 \end{footnote}.
+
+\item {} 
+\sphinxAtStartPar
+The app tries to establish UDP connections to ports 4000 and 49002, where it
+expects datagrams in GDL90 or XGPS format.  The datagrams must conform to the
+\sphinxhref{https://www.faa.gov/nextgen/programs/adsb/archival/media/gdl90\_public\_icd\_reva.pdf}{GDL 90 Data Interface Specification}%
+\begin{footnote}[35]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://www.faa.gov/nextgen/programs/adsb/archival/media/gdl90\_public\_icd\_reva.pdf}
+%
+\end{footnote}
+or the XGPS format specified on the \sphinxhref{https://www.foreflight.com/support/network-gps/}{ForeFlight Web site}%
+\begin{footnote}[36]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://www.foreflight.com/support/network-gps/}
+%
+\end{footnote}.
+
+\end{itemize}
+
+\sphinxAtStartPar
+When running on Android, the app acquires a WiFi lock as soon as valid data is
+received.  The lock is released when data no longer arrives.
 
 
 \chapter{Collection}
