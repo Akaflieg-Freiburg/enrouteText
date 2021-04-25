@@ -56,6 +56,7 @@ and frequencies.
    :name: sec-steps
 
    02-steps/traffic
+   02-steps/simulator
    
 .. raw:: latex
    \part{Reference manual}
@@ -81,4 +82,3 @@ and frequencies.
 
    04-appendix/licenses
    04-appendix/technical
-   04-appendix/collection

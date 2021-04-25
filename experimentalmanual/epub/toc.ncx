@@ -84,12 +84,12 @@
     </navPoint>
     <navPoint id="navPoint13" playOrder="11">
       <navLabel>
-        <text>Getting started</text>
+        <text>Get started</text>
       </navLabel>
       <content src="01-intro/03-getting_started.xhtml" />  
       <navPoint id="navPoint14" playOrder="11">
         <navLabel>
-          <text>Getting started</text>
+          <text>Get started</text>
         </navLabel>
         <content src="01-intro/03-getting_started.xhtml" />  
       </navPoint>
@@ -113,19 +113,19 @@
       </navPoint>
       <navPoint id="navPoint18" playOrder="15">
         <navLabel>
-          <text>Your first flight</text>
+          <text>Go flying!</text>
         </navLabel>
-        <content src="01-intro/03-getting_started.xhtml#your-first-flight" />  
+        <content src="01-intro/03-getting_started.xhtml#go-flying" />  
       </navPoint>
     </navPoint>
     <navPoint id="navPoint19" playOrder="16">
       <navLabel>
-        <text>Connecting your traffic receiver</text>
+        <text>Connect your traffic receiver</text>
       </navLabel>
       <content src="02-steps/traffic.xhtml" />  
       <navPoint id="navPoint20" playOrder="16">
         <navLabel>
-          <text>Connecting your traffic receiver</text>
+          <text>Connect your traffic receiver</text>
         </navLabel>
         <content src="02-steps/traffic.xhtml" />  
       </navPoint>
@@ -137,9 +137,9 @@
       </navPoint>
       <navPoint id="navPoint22" playOrder="18">
         <navLabel>
-          <text>Connecting to the traffic receiver</text>
+          <text>Connect to the traffic receiver</text>
         </navLabel>
-        <content src="02-steps/traffic.xhtml#connecting-to-the-traffic-receiver" />  
+        <content src="02-steps/traffic.xhtml#connect-to-the-traffic-receiver" />  
       </navPoint>
       <navPoint id="navPoint23" playOrder="19">
         <navLabel>
@@ -150,159 +150,189 @@
     </navPoint>
     <navPoint id="navPoint24" playOrder="20">
       <navLabel>
+        <text>Connect your flight simulator</text>
+      </navLabel>
+      <content src="02-steps/simulator.xhtml" />  
+      <navPoint id="navPoint25" playOrder="20">
+        <navLabel>
+          <text>Connect your flight simulator</text>
+        </navLabel>
+        <content src="02-steps/simulator.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint26" playOrder="21">
+        <navLabel>
+          <text>Before you connect</text>
+        </navLabel>
+        <content src="02-steps/simulator.xhtml#before-you-connect" />  
+      </navPoint>
+      <navPoint id="navPoint27" playOrder="22">
+        <navLabel>
+          <text>Set up your flight simulator</text>
+        </navLabel>
+        <content src="02-steps/simulator.xhtml#set-up-your-flight-simulator" />  
+      </navPoint>
+      <navPoint id="navPoint28" playOrder="23">
+        <navLabel>
+          <text>Done</text>
+        </navLabel>
+        <content src="02-steps/simulator.xhtml#done" />  
+      </navPoint>
+      <navPoint id="navPoint29" playOrder="24">
+        <navLabel>
+          <text>Troubleshooting</text>
+        </navLabel>
+        <content src="02-steps/simulator.xhtml#troubleshooting" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint30" playOrder="25">
+      <navLabel>
         <text>Map Data</text>
       </navLabel>
       <content src="03-reference/map_data.xhtml" />  
     </navPoint>
-    <navPoint id="navPoint25" playOrder="21">
+    <navPoint id="navPoint31" playOrder="26">
       <navLabel>
         <text>Other</text>
       </navLabel>
       <content src="03-reference/map_data.xhtml#other" />  
-      <navPoint id="navPoint26" playOrder="21">
+      <navPoint id="navPoint32" playOrder="26">
         <navLabel>
           <text>Other</text>
         </navLabel>
         <content src="03-reference/map_data.xhtml#other" />  
       </navPoint>
-      <navPoint id="navPoint27" playOrder="22">
+      <navPoint id="navPoint33" playOrder="27">
         <navLabel>
           <text>Flight mode and ground mode</text>
         </navLabel>
         <content src="03-reference/map_data.xhtml#flight-mode-and-ground-mode" />  
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint28" playOrder="23">
+    <navPoint id="navPoint34" playOrder="28">
       <navLabel>
         <text>Airspace Display</text>
       </navLabel>
       <content src="03-reference/airspace_display.xhtml" />  
-      <navPoint id="navPoint29" playOrder="23">
+      <navPoint id="navPoint35" playOrder="28">
         <navLabel>
           <text>Airspace Display</text>
         </navLabel>
         <content src="03-reference/airspace_display.xhtml" />  
       </navPoint>
-      <navPoint id="navPoint30" playOrder="24">
+      <navPoint id="navPoint36" playOrder="29">
         <navLabel>
           <text>Controlled Airspace</text>
         </navLabel>
         <content src="03-reference/airspace_display.xhtml#controlled-airspace" />  
       </navPoint>
-      <navPoint id="navPoint31" playOrder="25">
+      <navPoint id="navPoint37" playOrder="30">
         <navLabel>
           <text>Control Zone</text>
         </navLabel>
         <content src="03-reference/airspace_display.xhtml#control-zone" />  
       </navPoint>
-      <navPoint id="navPoint32" playOrder="26">
+      <navPoint id="navPoint38" playOrder="31">
         <navLabel>
           <text>Transponder Mandatory Zones</text>
         </navLabel>
         <content src="03-reference/airspace_display.xhtml#transponder-mandatory-zones" />  
       </navPoint>
-      <navPoint id="navPoint33" playOrder="27">
+      <navPoint id="navPoint39" playOrder="32">
         <navLabel>
           <text>Radio Mandatory Zone</text>
         </navLabel>
         <content src="03-reference/airspace_display.xhtml#radio-mandatory-zone" />  
       </navPoint>
-      <navPoint id="navPoint34" playOrder="28">
+      <navPoint id="navPoint40" playOrder="33">
         <navLabel>
           <text>Parachute Jumping Areas</text>
         </navLabel>
         <content src="03-reference/airspace_display.xhtml#parachute-jumping-areas" />  
       </navPoint>
-      <navPoint id="navPoint35" playOrder="29">
+      <navPoint id="navPoint41" playOrder="34">
         <navLabel>
           <text>Nature Reserve Areas</text>
         </navLabel>
         <content src="03-reference/airspace_display.xhtml#nature-reserve-areas" />  
       </navPoint>
-      <navPoint id="navPoint36" playOrder="30">
+      <navPoint id="navPoint42" playOrder="35">
         <navLabel>
           <text>Airfields</text>
         </navLabel>
         <content src="03-reference/airspace_display.xhtml#airfields" />  
       </navPoint>
-      <navPoint id="navPoint37" playOrder="31">
+      <navPoint id="navPoint43" playOrder="36">
         <navLabel>
           <text>Approach and Departure Routes</text>
         </navLabel>
         <content src="03-reference/airspace_display.xhtml#approach-and-departure-routes" />  
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint38" playOrder="32">
+    <navPoint id="navPoint44" playOrder="37">
       <navLabel>
         <text>Weather</text>
       </navLabel>
       <content src="03-reference/weather.xhtml" />  
     </navPoint>
-    <navPoint id="navPoint39" playOrder="33">
+    <navPoint id="navPoint45" playOrder="38">
       <navLabel>
         <text>Software licenses</text>
       </navLabel>
       <content src="04-appendix/licenses.xhtml" />  
-      <navPoint id="navPoint40" playOrder="33">
+      <navPoint id="navPoint46" playOrder="38">
         <navLabel>
           <text>Software licenses</text>
         </navLabel>
         <content src="04-appendix/licenses.xhtml" />  
       </navPoint>
-      <navPoint id="navPoint41" playOrder="34">
+      <navPoint id="navPoint47" playOrder="39">
         <navLabel>
           <text>License of Enroute Flight Navigation</text>
         </navLabel>
         <content src="04-appendix/licenses.xhtml#license-of-enroute-flight-navigation" />  
       </navPoint>
-      <navPoint id="navPoint42" playOrder="35">
+      <navPoint id="navPoint48" playOrder="40">
         <navLabel>
           <text>Third-Party software included in this program</text>
         </navLabel>
         <content src="04-appendix/licenses.xhtml#third-party-software-included-in-this-program" />  
       </navPoint>
-      <navPoint id="navPoint43" playOrder="36">
+      <navPoint id="navPoint49" playOrder="41">
         <navLabel>
           <text>Data included in this program</text>
         </navLabel>
         <content src="04-appendix/licenses.xhtml#data-included-in-this-program" />  
       </navPoint>
-      <navPoint id="navPoint44" playOrder="37">
+      <navPoint id="navPoint50" playOrder="42">
         <navLabel>
           <text>Base maps</text>
         </navLabel>
         <content src="04-appendix/licenses.xhtml#base-maps" />  
       </navPoint>
-      <navPoint id="navPoint45" playOrder="38">
+      <navPoint id="navPoint51" playOrder="43">
         <navLabel>
           <text>Aviation maps</text>
         </navLabel>
         <content src="04-appendix/licenses.xhtml#aviation-maps" />  
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint46" playOrder="39">
+    <navPoint id="navPoint52" playOrder="44">
       <navLabel>
         <text>Technical Notes</text>
       </navLabel>
       <content src="04-appendix/technical.xhtml" />  
-      <navPoint id="navPoint47" playOrder="39">
+      <navPoint id="navPoint53" playOrder="44">
         <navLabel>
           <text>Technical Notes</text>
         </navLabel>
         <content src="04-appendix/technical.xhtml" />  
       </navPoint>
-      <navPoint id="navPoint48" playOrder="40">
+      <navPoint id="navPoint54" playOrder="45">
         <navLabel>
           <text>Traffic Receiver</text>
         </navLabel>
         <content src="04-appendix/technical.xhtml#traffic-receiver" />  
       </navPoint>
-    </navPoint>
-    <navPoint id="navPoint49" playOrder="41">
-      <navLabel>
-        <text>Collection</text>
-      </navLabel>
-      <content src="04-appendix/collection.xhtml" />  
     </navPoint>
   </navMap>
 </ncx>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Connect your flight simulator</title>
+    <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+    <link rel="stylesheet" href="../_static/epub.css" type="text/css" /> 
+  </head><body>
+
+    <div class="document">
+      <div class="documentwrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="connect-your-flight-simulator">
+<h1>Connect your flight simulator</h1>
+<p><strong>Enroute Flight Navigation</strong> can connect to flight simulator software.  The app
+has been tested with the following programs.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.x-plane.com/">X-Plane 11</a><span class="link-target"> [https://www.x-plane.com/]</span></p></li>
+</ul>
+<p>Please contact us if you are aware of other programs that also work.</p>
+<div class="section" id="before-you-connect">
+<h2>Before you connect</h2>
+<p>This manual assumes a typical home setup, where both the computer that runs the
+flight simulator and the device that runs <strong>Enroute Flight Navigation</strong> are
+connected to a Wi-Fi network deployed by a home router.  Make sure that the
+following conditions are met.</p>
+<ul class="simple">
+<li><p>The computer that runs the flight simulator and the device that runs <strong>Enroute
+Flight Navigation</strong> are connected to the same Wi-Fi network.  Some routers
+deploy two networks, often called “main network” and a “guest network”.</p></li>
+<li><p>Make sure that the router allows data transfer between the devices in the
+Wi-Fi network.  Some routers have “security settings” that disallow data
+transfer between the devices in the “guest network”</p></li>
+</ul>
+</div>
+<div class="section" id="set-up-your-flight-simulator">
+<h2>Set up your flight simulator</h2>
+<p>Your flight simulation software needs to broadcast position and traffic
+information over the Wi-Fi network.</p>
+<p>X-Plane 11</p>
+<blockquote>
+<div><p>Open the “Settings” window and choose the “Network” tab.  Locate the settings
+group “This machine’s role” on the right-hand side of the tab. Open the
+section “iPHONE, iPAD, and EXTERNAL APPS” and select the item “Broadcast to
+all mapping apps on the network” under the headline “OTHER MAPPING APPS”.</p>
+<img alt="../_images/X-Plane-11.png" src="../_images/X-Plane-11.png" />
+</div></blockquote>
+<p>MS Flight Simulator</p>
+<blockquote>
+<div><p>UNKNOWN AS OF NOW.</p>
+</div></blockquote>
+<p>Other programs</p>
+<blockquote>
+<div><p>The flight simulator needs to be set up to send UDP datagrams in one of the
+standard formats “GDL90” or “XGPS” to ports 4000 or 49002.  Given the choice,
+GDL90 is generally the preferred format.</p>
+</div></blockquote>
+</div>
+<div class="section" id="done">
+<h2>Done</h2>
+<p>There is no further setup required.  As soon as the flight simulator starts to
+broadcast information over the Wi-Fi network, the moving map of <strong>Enroute Flight
+Navigation</strong> will adjust accordingly.  To end the connection to the flight
+simulator, simply leave the flight simulator’s Wi-Fi network.</p>
+</div>
+<div class="section" id="troubleshooting">
+<h2>Troubleshooting</h2>
+<p><strong>Enroute Flight Navigation</strong> treats flight simulators as traffic receivers.  To
+see the connection status, open the main menu and navigate to the “Information”
+menu.  If the entry “Traffic Receiver” is highlighted in green, then <strong>Enroute
+Flight Navigation</strong> has already found the program in the network and has
+connected to it.  If not, then select the entry. The “Traffic Receiver Status”
+page will open, which explains the connection status in more detail.</p>
+</div>
+</div>
+
+
+            <div class="clearer"></div>
+          </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+  </body>
+</html>
