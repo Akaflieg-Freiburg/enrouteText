@@ -3290,7 +3290,9 @@ e la connessione si interrompe a causa di più dispositivi che tentano di accede
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the button ☰ in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt; &lt;strong&gt; Non è installata alcuna mappa aereonautica. &lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt; Per installare una mappa, apri il menu utilizzando il pulsante ☰ nell&apos;angolo in alto a sinistra di questa schermata.
+Scegli &lt;strong&gt; Biblioteca / Mappe &lt;/strong&gt; per aprire la pagina di gestione della mappa. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="461"/>
@@ -3876,17 +3878,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="119"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Aiuto</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="128"/>
         <source>How to connect your traffic receiver…</source>
-        <translation type="unfinished"></translation>
+        <translation>Come connettere il tuo ricevitore di traffico...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="136"/>
         <source>Connect your traffic receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Connetti il tuo ricevitore di traffico</translation>
     </message>
     <message>
         <source>Automatic flight detection</source>
@@ -4703,7 +4705,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Udp.h" line="66"/>
         <source>UDP connection to port %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Connessione UDP alla porta %1</translation>
     </message>
 </context>
 <context>
@@ -8344,32 +8346,32 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="131"/>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivio</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="144"/>
         <source>Flight Routes</source>
-        <translation type="unfinished">Itinerari</translation>
+        <translation>Itinerari</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="157"/>
         <source>Maps</source>
-        <translation type="unfinished">Mappe</translation>
+        <translation>Mappe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="158"/>
         <source>Updates available</source>
-        <translation type="unfinished">Aggiornamenti disponibili</translation>
+        <translation>Aggiornamenti disponibili</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="159"/>
         <source>Item not available in flight</source>
-        <translation type="unfinished">Elemento non disponibile in volo</translation>
+        <translation>Elemento non disponibile in volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="210"/>
         <source>Positioning</source>
-        <translation type="unfinished">Posizionamento</translation>
+        <translation>Posizionamento</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="212"/>
