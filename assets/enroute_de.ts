@@ -2528,12 +2528,12 @@ at random if more than one device tries to access.&lt;/p&gt;
     <message>
         <location filename="../../../src/Librarian.cpp" line="361"/>
         <source>Test-release for GDL90 and XGPS support</source>
-        <translation type="unfinished"></translation>
+        <translation>Testversion für GDL90- und XGPS-Unterstützung</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="362"/>
         <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
-        <translation type="unfinished"></translation>
+        <translation>**Wir könnten Hilfe bei der Übersetzung ins Italienische gebrauchen.** Wenn Sie uns helfen wollen, Italienisch sprechen und mit dem GIT Versionskontrollsystem umgehen können, hören wir gern von Ihnen!</translation>
     </message>
     <message>
         <source>Users of Stratux traffic receivers can now connect to their devices without changing the Stratux&apos; IP address.</source>
