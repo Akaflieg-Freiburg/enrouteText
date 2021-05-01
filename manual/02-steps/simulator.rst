@@ -30,35 +30,37 @@ Set up your flight simulator
 ----------------------------
 
 Your flight simulation software needs to broadcast position and traffic
-information over the Wi-Fi network.
+information over the Wi-Fi network.  Once this is done, there is no further
+setup required.  As soon as the flight simulator starts to broadcast information
+over the Wi-Fi network, the moving map of **Enroute Flight Navigation** will
+adjust accordingly.  To end the connection to the flight simulator, simply leave
+the flight simulator's Wi-Fi network.
+
 
 X-Plane 11
+^^^^^^^^^^
 
-  Open the "Settings" window and choose the "Network" tab.  Locate the settings
-  group "This machine's role" on the right-hand side of the tab. Open the
-  section "iPHONE, iPAD, and EXTERNAL APPS" and select the item "Broadcast to
-  all mapping apps on the network" under the headline "OTHER MAPPING APPS".
+Open the "Settings" window and choose the "Network" tab.  Locate the settings
+group "This machine's role" on the right-hand side of the tab. Open the section
+"iPHONE, iPAD, and EXTERNAL APPS" and select the item "Broadcast to all mapping
+apps on the network" under the headline "OTHER MAPPING APPS".
 
-  .. image:: X-Plane-11.png
+.. image:: X-Plane-11.png
+	   
   
 MS Flight Simulator
+^^^^^^^^^^^^^^^^^^^
 
-  UNKNOWN AS OF NOW.
-  
+UNKNOWN AS OF NOW.
+
+
 Other programs
+^^^^^^^^^^^^^^
 
-  The flight simulator needs to be set up to send UDP datagrams in one of the
-  standard formats "GDL90" or "XGPS" to ports 4000 or 49002.  Given the choice,
-  GDL90 is generally the preferred format.
+The flight simulator needs to be set up to send UDP datagrams in one of the
+standard formats "GDL90" or "XGPS" to ports 4000 or 49002.  Given the choice,
+GDL90 is generally the preferred format.
 
-  
-Done
-----
-
-There is no further setup required.  As soon as the flight simulator starts to
-broadcast information over the Wi-Fi network, the moving map of **Enroute Flight
-Navigation** will adjust accordingly.  To end the connection to the flight
-simulator, simply leave the flight simulator's Wi-Fi network.
 
 
 Troubleshooting
