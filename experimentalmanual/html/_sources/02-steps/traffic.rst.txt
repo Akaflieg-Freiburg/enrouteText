@@ -43,7 +43,8 @@ receiver for the first time. Once things are set up properly, your device should
 automatically detect the traffic receiver's Wi-Fi network, enter the network and
 connect to the traffic data stream whenever you go flying.
 
-**Step 1: Enter the traffic receiver's Wi-Fi network**
+Step 1: Enter the traffic receiver's Wi-Fi network
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 - Make sure that the traffic receiver has power and is switched on. In a typical
   aircraft installation, the traffic receiver is connected to the 'Avionics'
@@ -59,7 +60,8 @@ Most operating systems will offer to remember the connection, so that your
 device will automatically connect to this Wi-Fi in the future. We recommend
 using this option.
 
-**Step 2: Connect to the traffic data stream**
+Step 2: Connect to the traffic data stream
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Open the main menu and navigate to the "Information" menu.
 

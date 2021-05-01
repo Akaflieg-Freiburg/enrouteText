@@ -105,7 +105,12 @@
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="licenses.html">Software licenses</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Technical Notes</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#traffic-receiver">Traffic Receiver</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#traffic-receiver">Traffic Receiver</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#protocol-notes">Protocol notes</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#platform-notes">Platform notes</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#foreflight-broadcast">ForeFlight Broadcast</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -182,7 +187,7 @@
 <p><strong>Enroute Flight Navigation</strong> expects that the traffic receiver deploys a WLAN
 network via Wi-Fi and publishes traffic data via that network.  In order to
 support a wide range of devices, including flight simulators, the app listens to
-several network addresses simultaneously.</p>
+several network addresses simultaneously and understands a variety of protocols.</p>
 <ul class="simple">
 <li><p>The app tries to establish TCP connections to port 2000 at the IP addresses
 192.168.1.1 and 192.168.10.1, where it expects to read a stream of FLARM/NMEA
@@ -194,8 +199,66 @@ expects datagrams in GDL90 or XGPS format.  The datagrams must conform to the
 <a class="reference external" href="https://www.faa.gov/nextgen/programs/adsb/archival/media/gdl90_public_icd_reva.pdf">GDL 90 Data Interface Specification</a>
 or the XGPS format specified on the <a class="reference external" href="https://www.foreflight.com/support/network-gps/">ForeFlight Web site</a>.</p></li>
 </ul>
-<p>When running on Android, the app acquires a WiFi lock as soon as valid data is
+<div class="section" id="protocol-notes">
+<h3>Protocol notes<a class="headerlink" href="#protocol-notes" title="Permalink to this headline">¶</a></h3>
+<p>Support for the GDL90 protocal is problematic, and we recommend to use
+FLARM/NMEA whenever possible.  We are aware of the following issues.</p>
+<p>Altitude measurements</p>
+<blockquote>
+<div><p>According to the GDL90 Specification, the ownship geometric height is reported
+as height above WGS-84 ellipsoid.  There are however many devices on the
+market that wrongly report height above main sea level.  Different apps have
+different strategies to deal with these shortcomings.</p>
+<ul class="simple">
+<li><p><strong>Enroute Flight Navigation</strong> as well as the app Skydemon expect that
+traffic receivers comply with the GDL90 Specification.</p></li>
+<li><p>Foreflight has extended the GDL90 Specification so that traffic receivers
+can indicate if they comply with the specification or not.</p></li>
+<li><p>Many other apps expect wrong GDL90 implementations and interpret the
+geometric height has height above main sea level.</p></li>
+</ul>
+</div></blockquote>
+<p>MODE-S traffic</p>
+<blockquote>
+<div><p>Most traffic receivers see traffic equipped with MODE-S transponders and can
+give an estimate for the distance to the traffic.  They are, however, unable
+to obtain the precise traffic position.  Unlike FLARM/NMEA, the GDL90
+Specification does not support traffic factors whose position is unknown.
+Different devices implement different workarounds.</p>
+<ul class="simple">
+<li><p>Stratux devices generate a ring of eight virtual targets around the own
+position.  These targets are named “Mode S”.</p></li>
+<li><p>Air Avioncs devices do the same, but only with one target.</p></li>
+<li><p>Other devices create a virtual target, either at the ownship position or at
+the north pole and abuse the field “Navigation Accuracy Category for
+Position” to give the approximate position to the target.</p></li>
+</ul>
+<p><strong>Enroute Flight Navigation</strong> has special provisions for handling targets
+called “Mode S”, but users should expect that this workaround is not perfect.</p>
+</div></blockquote>
+</div>
+<div class="section" id="platform-notes">
+<h3>Platform notes<a class="headerlink" href="#platform-notes" title="Permalink to this headline">¶</a></h3>
+<p>When running on Android, the app acquires a Wi-Fi lock as soon as valid data is
 received.  The lock is released when data no longer arrives.</p>
+</div>
+<div class="section" id="foreflight-broadcast">
+<h3>ForeFlight Broadcast<a class="headerlink" href="#foreflight-broadcast" title="Permalink to this headline">¶</a></h3>
+<p>Following the standards established by the app ForeFlight, <strong>Enroute Flight
+Navigation</strong> broadcasts a UDP message on port 63093 every 5 seconds while the
+app is running in the foreground.  This message allows devices to discover
+Enroute’s IP address, which can be used as the target of UDP unicast messages.
+This broadcast will be a JSON message, with at least these fields:</p>
+<div class="highlight-JSON notranslate"><div class="highlight"><pre><span></span><span class="p">{</span>
+   <span class="nt">&quot;App&quot;</span><span class="p">:</span><span class="s2">&quot;Enroute Flight Navigation&quot;</span><span class="p">,</span>
+   <span class="nt">&quot;GDL90&quot;</span><span class="p">:{</span>
+      <span class="nt">&quot;port&quot;</span><span class="p">:</span><span class="mi">4000</span>
+   <span class="p">}</span>
+<span class="p">}</span>
+</pre></div>
+</div>
+<p>The GDL90 “port” field is currently 4000, but might change in the future.</p>
+</div>
 </div>
 </div>
 

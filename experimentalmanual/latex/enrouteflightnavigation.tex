@@ -74,7 +74,7 @@
 \input{../../latexPreamble.tex.txt}
 
 \title{Enroute Flight Navigation}
-\date{Apr 30, 2021}
+\date{May 01, 2021}
 \release{2.2.4}
 \author{Stefan Kebekus}
 \newcommand{\sphinxlogo}{\vbox{}}
@@ -624,9 +624,9 @@ receiver for the first time. Once things are set up properly, your device should
 automatically detect the traffic receiver’s Wi\sphinxhyphen{}Fi network, enter the network and
 connect to the traffic data stream whenever you go flying.
 
-\sphinxAtStartPar
-\sphinxstylestrong{Step 1: Enter the traffic receiver’s Wi\sphinxhyphen{}Fi network}
-\begin{itemize}
+
+\subsection{Step 1: Enter the traffic receiver’s Wi\sphinxhyphen{}Fi network}
+\label{\detokenize{02-steps/traffic:step-1-enter-the-traffic-receiver-s-wi-fi-network}}\begin{itemize}
 \item {} 
 \sphinxAtStartPar
 Make sure that the traffic receiver has power and is switched on. In a typical
@@ -649,9 +649,9 @@ Most operating systems will offer to remember the connection, so that your
 device will automatically connect to this Wi\sphinxhyphen{}Fi in the future. We recommend
 using this option.
 
-\sphinxAtStartPar
-\sphinxstylestrong{Step 2: Connect to the traffic data stream}
 
+\subsection{Step 2: Connect to the traffic data stream}
+\label{\detokenize{02-steps/traffic:step-2-connect-to-the-traffic-data-stream}}
 \sphinxAtStartPar
 Open the main menu and navigate to the “Information” menu.
 \begin{itemize}
@@ -755,47 +755,36 @@ transfer between the devices in the “guest network”
 \label{\detokenize{02-steps/simulator:set-up-your-flight-simulator}}
 \sphinxAtStartPar
 Your flight simulation software needs to broadcast position and traffic
-information over the Wi\sphinxhyphen{}Fi network.
+information over the Wi\sphinxhyphen{}Fi network.  Once this is done, there is no further
+setup required.  As soon as the flight simulator starts to broadcast information
+over the Wi\sphinxhyphen{}Fi network, the moving map of \sphinxstylestrong{Enroute Flight Navigation} will
+adjust accordingly.  To end the connection to the flight simulator, simply leave
+the flight simulator’s Wi\sphinxhyphen{}Fi network.
 
-\sphinxAtStartPar
-X\sphinxhyphen{}Plane 11
-\begin{quote}
 
+\subsection{X\sphinxhyphen{}Plane 11}
+\label{\detokenize{02-steps/simulator:id1}}
 \sphinxAtStartPar
 Open the “Settings” window and choose the “Network” tab.  Locate the settings
-group “This machine’s role” on the right\sphinxhyphen{}hand side of the tab. Open the
-section “iPHONE, iPAD, and EXTERNAL APPS” and select the item “Broadcast to
-all mapping apps on the network” under the headline “OTHER MAPPING APPS”.
+group “This machine’s role” on the right\sphinxhyphen{}hand side of the tab. Open the section
+“iPHONE, iPAD, and EXTERNAL APPS” and select the item “Broadcast to all mapping
+apps on the network” under the headline “OTHER MAPPING APPS”.
 
 \noindent\sphinxincludegraphics{{X-Plane-11}.png}
-\end{quote}
 
-\sphinxAtStartPar
-MS Flight Simulator
-\begin{quote}
 
+\subsection{MS Flight Simulator}
+\label{\detokenize{02-steps/simulator:ms-flight-simulator}}
 \sphinxAtStartPar
 UNKNOWN AS OF NOW.
-\end{quote}
 
-\sphinxAtStartPar
-Other programs
-\begin{quote}
 
+\subsection{Other programs}
+\label{\detokenize{02-steps/simulator:other-programs}}
 \sphinxAtStartPar
 The flight simulator needs to be set up to send UDP datagrams in one of the
 standard formats “GDL90” or “XGPS” to ports 4000 or 49002.  Given the choice,
 GDL90 is generally the preferred format.
-\end{quote}
-
-
-\section{Done}
-\label{\detokenize{02-steps/simulator:done}}
-\sphinxAtStartPar
-There is no further setup required.  As soon as the flight simulator starts to
-broadcast information over the Wi\sphinxhyphen{}Fi network, the moving map of \sphinxstylestrong{Enroute Flight
-Navigation} will adjust accordingly.  To end the connection to the flight
-simulator, simply leave the flight simulator’s Wi\sphinxhyphen{}Fi network.
 
 
 \section{Troubleshooting}
@@ -1849,7 +1838,7 @@ License}%
 \sphinxstylestrong{Enroute Flight Navigation} expects that the traffic receiver deploys a WLAN
 network via Wi\sphinxhyphen{}Fi and publishes traffic data via that network.  In order to
 support a wide range of devices, including flight simulators, the app listens to
-several network addresses simultaneously.
+several network addresses simultaneously and understands a variety of protocols.
 \begin{itemize}
 \item {} 
 \sphinxAtStartPar
@@ -1884,9 +1873,102 @@ or the XGPS format specified on the \sphinxhref{https://www.foreflight.com/suppo
 
 \end{itemize}
 
+
+\subsection{Protocol notes}
+\label{\detokenize{04-appendix/technical:protocol-notes}}
 \sphinxAtStartPar
-When running on Android, the app acquires a WiFi lock as soon as valid data is
+Support for the GDL90 protocal is problematic, and we recommend to use
+FLARM/NMEA whenever possible.  We are aware of the following issues.
+
+\sphinxAtStartPar
+Altitude measurements
+\begin{quote}
+
+\sphinxAtStartPar
+According to the GDL90 Specification, the ownship geometric height is reported
+as height above WGS\sphinxhyphen{}84 ellipsoid.  There are however many devices on the
+market that wrongly report height above main sea level.  Different apps have
+different strategies to deal with these shortcomings.
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+\sphinxstylestrong{Enroute Flight Navigation} as well as the app Skydemon expect that
+traffic receivers comply with the GDL90 Specification.
+
+\item {} 
+\sphinxAtStartPar
+Foreflight has extended the GDL90 Specification so that traffic receivers
+can indicate if they comply with the specification or not.
+
+\item {} 
+\sphinxAtStartPar
+Many other apps expect wrong GDL90 implementations and interpret the
+geometric height has height above main sea level.
+
+\end{itemize}
+\end{quote}
+
+\sphinxAtStartPar
+MODE\sphinxhyphen{}S traffic
+\begin{quote}
+
+\sphinxAtStartPar
+Most traffic receivers see traffic equipped with MODE\sphinxhyphen{}S transponders and can
+give an estimate for the distance to the traffic.  They are, however, unable
+to obtain the precise traffic position.  Unlike FLARM/NMEA, the GDL90
+Specification does not support traffic factors whose position is unknown.
+Different devices implement different workarounds.
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+Stratux devices generate a ring of eight virtual targets around the own
+position.  These targets are named “Mode S”.
+
+\item {} 
+\sphinxAtStartPar
+Air Avioncs devices do the same, but only with one target.
+
+\item {} 
+\sphinxAtStartPar
+Other devices create a virtual target, either at the ownship position or at
+the north pole and abuse the field “Navigation Accuracy Category for
+Position” to give the approximate position to the target.
+
+\end{itemize}
+
+\sphinxAtStartPar
+\sphinxstylestrong{Enroute Flight Navigation} has special provisions for handling targets
+called “Mode S”, but users should expect that this workaround is not perfect.
+\end{quote}
+
+
+\subsection{Platform notes}
+\label{\detokenize{04-appendix/technical:platform-notes}}
+\sphinxAtStartPar
+When running on Android, the app acquires a Wi\sphinxhyphen{}Fi lock as soon as valid data is
 received.  The lock is released when data no longer arrives.
+
+
+\subsection{ForeFlight Broadcast}
+\label{\detokenize{04-appendix/technical:foreflight-broadcast}}
+\sphinxAtStartPar
+Following the standards established by the app ForeFlight, \sphinxstylestrong{Enroute Flight
+Navigation} broadcasts a UDP message on port 63093 every 5 seconds while the
+app is running in the foreground.  This message allows devices to discover
+Enroute’s IP address, which can be used as the target of UDP unicast messages.
+This broadcast will be a JSON message, with at least these fields:
+
+\begin{sphinxVerbatim}[commandchars=\\\{\}]
+\PYG{p}{\PYGZob{}}
+   \PYG{n+nt}{\PYGZdq{}App\PYGZdq{}}\PYG{p}{:}\PYG{l+s+s2}{\PYGZdq{}Enroute Flight Navigation\PYGZdq{}}\PYG{p}{,}
+   \PYG{n+nt}{\PYGZdq{}GDL90\PYGZdq{}}\PYG{p}{:}\PYG{p}{\PYGZob{}}
+      \PYG{n+nt}{\PYGZdq{}port\PYGZdq{}}\PYG{p}{:}\PYG{l+m+mi}{4000}
+   \PYG{p}{\PYGZcb{}}
+\PYG{p}{\PYGZcb{}}
+\end{sphinxVerbatim}
+
+\sphinxAtStartPar
+The GDL90 “port” field is currently 4000, but might change in the future.
 
 
 

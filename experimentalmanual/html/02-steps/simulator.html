@@ -95,8 +95,12 @@
 <li class="toctree-l1"><a class="reference internal" href="traffic.html">Connect your traffic receiver</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Connect your flight simulator</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#before-you-connect">Before you connect</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#set-up-your-flight-simulator">Set up your flight simulator</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#done">Done</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#set-up-your-flight-simulator">Set up your flight simulator</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#id1">X-Plane 11</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#ms-flight-simulator">MS Flight Simulator</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#other-programs">Other programs</a></li>
+</ul>
+</li>
 <li class="toctree-l2"><a class="reference internal" href="#troubleshooting">Troubleshooting</a></li>
 </ul>
 </li>
@@ -205,32 +209,29 @@ transfer between the devices in the “guest network”</p></li>
 <div class="section" id="set-up-your-flight-simulator">
 <h2>Set up your flight simulator<a class="headerlink" href="#set-up-your-flight-simulator" title="Permalink to this headline">¶</a></h2>
 <p>Your flight simulation software needs to broadcast position and traffic
-information over the Wi-Fi network.</p>
-<p>X-Plane 11</p>
-<blockquote>
-<div><p>Open the “Settings” window and choose the “Network” tab.  Locate the settings
-group “This machine’s role” on the right-hand side of the tab. Open the
-section “iPHONE, iPAD, and EXTERNAL APPS” and select the item “Broadcast to
-all mapping apps on the network” under the headline “OTHER MAPPING APPS”.</p>
+information over the Wi-Fi network.  Once this is done, there is no further
+setup required.  As soon as the flight simulator starts to broadcast information
+over the Wi-Fi network, the moving map of <strong>Enroute Flight Navigation</strong> will
+adjust accordingly.  To end the connection to the flight simulator, simply leave
+the flight simulator’s Wi-Fi network.</p>
+<div class="section" id="id1">
+<h3>X-Plane 11<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h3>
+<p>Open the “Settings” window and choose the “Network” tab.  Locate the settings
+group “This machine’s role” on the right-hand side of the tab. Open the section
+“iPHONE, iPAD, and EXTERNAL APPS” and select the item “Broadcast to all mapping
+apps on the network” under the headline “OTHER MAPPING APPS”.</p>
 <img alt="../_images/X-Plane-11.png" src="../_images/X-Plane-11.png" />
-</div></blockquote>
-<p>MS Flight Simulator</p>
-<blockquote>
-<div><p>UNKNOWN AS OF NOW.</p>
-</div></blockquote>
-<p>Other programs</p>
-<blockquote>
-<div><p>The flight simulator needs to be set up to send UDP datagrams in one of the
+</div>
+<div class="section" id="ms-flight-simulator">
+<h3>MS Flight Simulator<a class="headerlink" href="#ms-flight-simulator" title="Permalink to this headline">¶</a></h3>
+<p>UNKNOWN AS OF NOW.</p>
+</div>
+<div class="section" id="other-programs">
+<h3>Other programs<a class="headerlink" href="#other-programs" title="Permalink to this headline">¶</a></h3>
+<p>The flight simulator needs to be set up to send UDP datagrams in one of the
 standard formats “GDL90” or “XGPS” to ports 4000 or 49002.  Given the choice,
 GDL90 is generally the preferred format.</p>
-</div></blockquote>
 </div>
-<div class="section" id="done">
-<h2>Done<a class="headerlink" href="#done" title="Permalink to this headline">¶</a></h2>
-<p>There is no further setup required.  As soon as the flight simulator starts to
-broadcast information over the Wi-Fi network, the moving map of <strong>Enroute Flight
-Navigation</strong> will adjust accordingly.  To end the connection to the flight
-simulator, simply leave the flight simulator’s Wi-Fi network.</p>
 </div>
 <div class="section" id="troubleshooting">
 <h2>Troubleshooting<a class="headerlink" href="#troubleshooting" title="Permalink to this headline">¶</a></h2>

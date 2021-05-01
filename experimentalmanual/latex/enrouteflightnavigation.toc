@@ -16,12 +16,16 @@
 \contentsline {chapter}{\numberline {4}Connect your traffic receiver}{13}{chapter.4}%
 \contentsline {section}{\numberline {4.1}Before you connect}{13}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Connect to the traffic receiver}{14}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Step 1: Enter the traffic receiver’s Wi\sphinxhyphen {}Fi network}{14}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Step 2: Connect to the traffic data stream}{14}{subsection.4.2.2}%
 \contentsline {section}{\numberline {4.3}Troubleshooting}{14}{section.4.3}%
 \contentsline {chapter}{\numberline {5}Connect your flight simulator}{15}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Before you connect}{15}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Set up your flight simulator}{15}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Done}{16}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Troubleshooting}{16}{section.5.4}%
+\contentsline {subsection}{\numberline {5.2.1}X\sphinxhyphen {}Plane 11}{16}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}MS Flight Simulator}{16}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Other programs}{16}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Troubleshooting}{16}{section.5.3}%
 \contentsline {chapter}{\numberline {6}Map Data}{17}{chapter.6}%
 \contentsline {chapter}{\numberline {7}Other}{19}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Flight mode and ground mode}{21}{section.7.1}%
@@ -44,3 +48,6 @@
 \contentsline {section}{\numberline {10.5}Aviation maps}{36}{section.10.5}%
 \contentsline {chapter}{\numberline {11}Technical Notes}{37}{chapter.11}%
 \contentsline {section}{\numberline {11.1}Traffic Receiver}{37}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}Protocol notes}{37}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}Platform notes}{38}{subsection.11.1.2}%
+\contentsline {subsection}{\numberline {11.1.3}ForeFlight Broadcast}{38}{subsection.11.1.3}%
