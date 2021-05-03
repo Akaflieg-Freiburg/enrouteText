@@ -3999,22 +3999,22 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Dati del ricevitore di traffico</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="295"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="332"/>
         <source>Receiving traffic data.</source>
         <translation>Ricezione dati di traffico.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="297"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="334"/>
         <source>Receiving position info.</source>
         <translation>Ricezione informazioni di posizione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="300"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="337"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Ricezione info barometriche di altitudine.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="308"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="344"/>
         <source>Not receiving traffic data.</source>
         <translation>Non ricevo dati di traffico.</translation>
     </message>
@@ -5119,7 +5119,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 &lt;p&gt;Molto bene! Vai a volare. Datti una pacca sulla spalla.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="187"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="188"/>
         <source>Connect to Traffic Receiver</source>
         <translation>Connesso al Ricevitore Traffico</translation>
     </message>
@@ -5128,12 +5128,11 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Annulla Connessione</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="187"/>
         <source>Disconnect from Traffic Receiver</source>
-        <translation>Disconnetti dal Ricevitore Traffico</translation>
+        <translation type="vanished">Disconnetti dal Ricevitore Traffico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="217"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="215"/>
         <source>Connect your traffic receiver</source>
         <translation>Connetti il Ricevitore Traffico</translation>
     </message>

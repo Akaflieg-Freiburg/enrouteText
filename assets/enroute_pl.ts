@@ -3753,22 +3753,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Odbiornik danych ruchu lotniczego</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="295"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="332"/>
         <source>Receiving traffic data.</source>
         <translation>Odbieranie danych ruchu lotniczego.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="297"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="334"/>
         <source>Receiving position info.</source>
         <translation>Odbieranie informacji o pozycji.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="300"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="337"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Odbieranie informacji o wysokości barometrycznej.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="308"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="344"/>
         <source>Not receiving traffic data.</source>
         <translation>Nie odbieranie danych ruchu lotniczego.</translation>
     </message>
@@ -4863,7 +4863,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 &lt;p&gt;Dobra robota! Do lotu gotowi start. Poklep się po plecach.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="187"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="188"/>
         <source>Connect to Traffic Receiver</source>
         <translation>Połącz do odbiornika ruchu lotniczego</translation>
     </message>
@@ -4872,12 +4872,11 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Przerwij połączenie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="187"/>
         <source>Disconnect from Traffic Receiver</source>
-        <translation>Rozłącz z odbiornika ruchu lotniczego</translation>
+        <translation type="vanished">Rozłącz z odbiornika ruchu lotniczego</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="217"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="215"/>
         <source>Connect your traffic receiver</source>
         <translation>Podłącz twój odbiornik ruchu lotniczego</translation>
     </message>

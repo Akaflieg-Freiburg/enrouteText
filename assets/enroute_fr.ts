@@ -2661,22 +2661,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Récepteur de traffic</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="295"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="332"/>
         <source>Receiving traffic data.</source>
         <translation>Réception des données de traffic.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="297"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="334"/>
         <source>Receiving position info.</source>
         <translation>Réception des information sur la position.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="300"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="337"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Réception de l&apos;altitude baramétrique.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="308"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="344"/>
         <source>Not receiving traffic data.</source>
         <translation>Aucune réception.</translation>
     </message>
@@ -3599,17 +3599,16 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="187"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="188"/>
         <source>Connect to Traffic Receiver</source>
         <translation>Se connecteur au récepteur de traffic</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="187"/>
         <source>Disconnect from Traffic Receiver</source>
-        <translation>Se déconnecter du récepteur de traffic</translation>
+        <translation type="vanished">Se déconnecter du récepteur de traffic</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="217"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="215"/>
         <source>Connect your traffic receiver</source>
         <translation>Connecter votre récepteur de traffic</translation>
     </message>

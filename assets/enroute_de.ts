@@ -4421,22 +4421,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Verkehrsdatenempfänger</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="295"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="332"/>
         <source>Receiving traffic data.</source>
         <translation>Empfange Verkehrsdaten.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="297"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="334"/>
         <source>Receiving position info.</source>
         <translation>Empfange Positionsdaten.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="300"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="337"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Empfange barometrische Höhe.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="308"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="344"/>
         <source>Not receiving traffic data.</source>
         <translation>Empfange keine Verkehrsdaten.</translation>
     </message>
@@ -5540,7 +5540,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">&lt;p&gt;Gut gemacht, Sie dürfen sich auf die Schulter klopfen! Gehen Sie fliegen!&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="187"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="188"/>
         <source>Connect to Traffic Receiver</source>
         <translation>Mit Verkehrsempfänger verbinden</translation>
     </message>
@@ -5549,12 +5549,11 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Verbindung abbrechen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="187"/>
         <source>Disconnect from Traffic Receiver</source>
-        <translation>Vom Verkehrsempfänger trennen</translation>
+        <translation type="vanished">Vom Verkehrsempfänger trennen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="217"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="215"/>
         <source>Connect your traffic receiver</source>
         <translation>Verbinden Sie Ihren Verkehrsdatenempfänger</translation>
     </message>
