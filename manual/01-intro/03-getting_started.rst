@@ -98,5 +98,3 @@ Go flying!
 now ready to take **Enroute Flight Navigation** on its first flight.  There are
 of course many more things that you can do.  Play with the app and have a look
 at the next section :ref:`sec-steps`.
-
-
