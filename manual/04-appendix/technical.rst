@@ -10,7 +10,7 @@ support a wide range of devices, including flight simulators, the app listens to
 several network addresses simultaneously and understands a variety of protocols.
 
 **Enroute Flight Navigation** watches the following data channels, in order of
- preference.
+preference.
 
 - A TCP connection to port 2000 at the IP addresses 192.168.1.1, where the app
   expects a stream of FLARM/NMEA sentences.
@@ -20,10 +20,6 @@ several network addresses simultaneously and understands a variety of protocols.
   XGPS format.
 - A UDP connection to port 49002, where the app expects datagrams in GDL90 or
   XGPS format.
-
-
-Protocol notes
-^^^^^^^^^^^^^^
 
 **Enroute Flight Navigation** expects traffic data in the following formats.
 
@@ -36,6 +32,10 @@ Protocol notes
   <https://www.faa.gov/nextgen/programs/adsb/archival/media/gdl90_public_icd_reva.pdf>`_.
 - Datagrams in XGPS format must conform to the format specified on the
   `ForeFlight Web site <https://www.foreflight.com/support/network-gps/>`_.
+
+
+Known issues
+^^^^^^^^^^^^
 
 The GDL90 protocal is problematic, and we recommend to use FLARM/NMEA whenever
 possible.  We are aware of the following issues.
