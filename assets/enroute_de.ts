@@ -2414,7 +2414,68 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
   &lt;/tr&gt;
 &lt;/table&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Autoren&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Die App &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; wurde von Stefan Kebekus geschrieben, Flugenthusiast seit 1986 und Mitglied des Luftsportvereins Akaflieg Freiburg. Stefan fliegt Segel- und Motorflugzeuge.&lt;/p&gt;
+      &lt;h4&gt;Adresse&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstraße 77&lt;br&gt;
+      79104 Freiburg&lt;br&gt;
+      Germany&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;E-Mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Foto: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;br&gt;
+      &lt;h3&gt;Mitwirkende&lt;/h3&gt;
+      &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Adrien Crovato ist Privatpilot und Luftfahrtingenieur. Er kam 2020 zum Entwicklungsteam mit Beiträgen in C++ und QML.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;E-Mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Heiner Tholen baut gern Dinge, analog und digital, fliegend und bodenbezogen. Er nutzt Enroute als UL-Pilot. Heiner kam Mitte 2020 dazu, ebenfalls mit Beiträgen in C++ und QML.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;E-Mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
+     &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Auch Johannes Zellner kam 2020 dazu, ebenfalls mit C++ und QML, und hilft bei der Fehlerbeseitigung.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;E-Mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="113"/>
@@ -2440,7 +2501,28 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
 &lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Handbuch&lt;/h3&gt;
+
+&lt;p&gt;Das Handbuch wurde freundlicherweise von Michael Horbaschk geschrieben.&lt;/p&gt;
+
+&lt;h3&gt;Übersetzungen&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Französisch:&lt;/strong&gt; Adrien Crovato - s.o.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Deutsch:&lt;/strong&gt; Markus Sachs. Markus fliegt Trike und ist begeisterter &apos;Co&apos; bei allem anderen, das fliegt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Italienisch:&lt;/strong&gt; Ivan Battistella.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Polnisch:&lt;/strong&gt; Sławek Mikuła.&lt;/p&gt;
+
+&lt;h3&gt;Alumni&lt;/h3&gt;
+
+&lt;p&gt;Luca Bertoncello (Übersetzung ins Italienische)&lt;/p&gt;
+
+&lt;p&gt;Szymon Kocur (Übersetzung ins Polnische)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="249"/>
@@ -2628,7 +2710,15 @@ has been tested with the following programs.&lt;/p&gt;
 
 &lt;p&gt;Please contact us if you are aware of other programs that also work.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; kann sich mit einer Flugsimulator-Software verbinden. Die App wurde mit folgenden Programmen gestestet:&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;X-Plane 11.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bitte informieren Sie uns, wenn Sie andere Programme kennen, mit denen das auch funktioniert.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="349"/>
@@ -2650,7 +2740,20 @@ following conditions are met.&lt;/p&gt;
   transfer between the devices in the &quot;guest network&quot;&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Vor dem Herstellen der Verbindung&lt;/h2&gt;
+
+&lt;p&gt;Diese Anleitung geht von einer Konfiguration aus, wie man sie in der Regel zuhause hat.
+Stellen Sie sicher, dass die folgenden Voraussetzungen gegeben sind.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Der Computer mit dem Flugsimulator und das Gerät, auf dem &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; läuft, sind mit demselben WLAN desselben Routers verbunden. 
+Achtung: Manche Router bieten zwei Netze an, z.B. &quot;Main&quot; und &quot;Gast&quot; oder 2,4 und 5 GHz.&lt;/li&gt;
+
+  &lt;li&gt;Der Router muss Datenverkehr zwischen den Geräten im WLAN erlauben. Die Sicherheitseinstellungen mancher Router unterbinden das ganz oder müssen entsprechend angepasst werden. Der Verkehr zwischen Haupt- und Gastnetz ist ggf. nicht möglich.
+&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="366"/>
@@ -2665,7 +2768,13 @@ adjust accordingly.  To end the connection to the flight simulator, simply leave
 the flight simulator&apos;s Wi-Fi network.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Einrichtung des Flugsimulators&lt;/h2&gt;
+
+&lt;p&gt;Ihre FS-Software muss die Positions- und Verkehrsinformationen über das WLAN aussenden. Ist das so eingestellt, sind keine weiteren Schritte nötig.
+Sobald diese Aussendung über WLAN beginnt, stellt die Karte von &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; die empfangenen Daten dar. Um die Verbindung zum Flugsimulator zu beenden, trennen Sie einfach Ihr Gerät vom WLAN.&lt;/p&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="376"/>
@@ -2677,7 +2786,12 @@ group &quot;This machine&apos;s role&quot; on the right-hand side of the tab. Op
 &quot;iPHONE, iPAD, and EXTERNAL APPS&quot; and select the item &quot;Broadcast to all mapping
 apps on the network&quot; under the headline &quot;OTHER MAPPING APPS&quot;.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;X-Plane 11&lt;/h3&gt;
+
+&lt;p&gt;Öffnen Sie das Fenster &quot;Einstellungen&quot; und wählen Sie den Reiter &quot;Netzwerk&quot;. Suchen Sie die Einstellgruppe &quot;Rolle dieser Maschine&quot; rechts im Reiter. 
+Öffnen Sie den Abschnitt &quot;iPHONE, iPAD und EXTERNE APPS&quot; und wählen Sie den Punkt &quot;An alle Kartenapps im Netzwerk verteilen&quot; unter der Überschrift &quot;ANDERE MAPPING APPS&quot;.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="383"/>
@@ -2690,7 +2804,15 @@ If the MS Flight Simulator works for you, please be in touch.  The article
 do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
 might be helpful.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;MS Flugsimulator&lt;/h3&gt;
+
+&lt;p&gt;Der Autor kennt dieses Programm bisher nicht und hat keinen Zugang dazu.
+Wenn das bei Ihnen funktioniert, hören wir gern von Ihnen! Der Artikel 
+&lt;a href=&quot;https://support.foreflight.com/hc/en-us/articles/204115275-How-do-I-connect-Microsoft-Flight-Simulator-FS-X-or-FS-2004-to-ForeFlight-&quot;&gt;How
+do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
+könnte nützliche Informationen darüber enthalten.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="391"/>
@@ -2701,7 +2823,12 @@ might be helpful.&lt;/p&gt;
 standard formats &quot;GDL90&quot; or &quot;XGPS&quot; to ports 4000 or 49002.  Given the choice,
 GDL90 is generally the preferred format.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Andere Programme&lt;/h3&gt;
+
+&lt;p&gt;Der Flugsimulator muss so eingestellt sein, dass er UDP-Datagramme in einem der Standardformate &quot;GDL90&quot; oder &quot;XGPS&quot; über die Ports 4000 oder 49002 ausgibt. 
+Falls Sie wählen können, ist GDL90 generell vorzuziehen.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="397"/>
@@ -2715,7 +2842,15 @@ Flight Navigation&lt;/strong&gt; has already found the program in the network an
 connected to it.  If not, then select the entry. The &quot;Traffic Receiver Status&quot;
 page will open, which explains the connection status in more detail.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Fehlersuche&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; behandelt Flugsimulatoren wie Verkehrsdatenempfänger.
+Zur Anzeige des Verbindungsstatus öffnen Sie im Hauptmenü das Menü &quot;Information&quot;.
+ Ist der Eintrag &quot;Verkehrsdatenempfänger&quot; grün unterlegt, hat &lt;strong&gt;Enroute
+Flight Navigation&lt;/strong&gt; das Programm schon im Netz gefunden und sich damit verbunden.
+Ansonsten wählen Sie diesen Eintrag aus. Die Seite &quot;Status&quot; öffnet sich und enthält weiterführende Informationen.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="434"/>
@@ -2725,12 +2860,13 @@ page will open, which explains the connection status in more detail.&lt;/p&gt;
     <message>
         <location filename="../../../src/Librarian.cpp" line="436"/>
         <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format, such as the popular [SkyEcho](https://uavionix.com/products/skyecho/).</source>
-        <translation type="unfinished"></translation>
+        <translation>Zusätzlich zu FLARM unterstützt die App jetzt auch Verkehrsdatenempfänger, die Daten im Format GDL90 aussenden, wie z.B. der bekannte [SkyEcho](https://uavionix.com/products/skyecho/).</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="437"/>
         <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) or the popular [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab).  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die App kann jetzt auch mit Flugsimulatoren wie z.B. [XPlane](https://www.x-plane.com/) und dem beliebten [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab). verwendet werden.
+Mehr darüber finden Sie in den **Einstellungen** im Hauptmenü. Bitte nehmen Sie Kontakt zu uns auf, wenn Sie einen MS Flugsimulator haben und uns gern beim Testen unterstützen wollen.</translation>
     </message>
     <message>
         <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
@@ -4491,12 +4627,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
         <source>How to connect your flight simulator…</source>
-        <translation type="unfinished"></translation>
+        <translation>Mit Ihrem Flugsimulator verbinden ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="150"/>
         <source>Connect your flight simulator</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihren Flugsimulator verbinden</translation>
     </message>
     <message>
         <source>Libraries</source>
