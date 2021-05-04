@@ -1,5 +1,5 @@
-Get started
-===========
+Before your first flight
+========================
 
 Now you are ready for the first use of **Enroute Flight Navigation**.  General
 operation is very intuitive.  Still, we recommend that you take a minute to make
@@ -57,7 +57,6 @@ Flight level and current time are hidden if the display is not wide enough.
    airspaces.**
 
 
-
 Interactive controls
 --------------------
 
@@ -98,5 +97,4 @@ Go flying!
 now ready to take **Enroute Flight Navigation** on its first flight.  There are
 of course many more things that you can do.  Play with the app and have a look
 at the next section :ref:`sec-steps`.
-
 
