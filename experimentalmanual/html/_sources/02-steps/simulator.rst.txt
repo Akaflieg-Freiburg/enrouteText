@@ -8,6 +8,10 @@ has been tested with the following programs.
 
 Please contact us if you are aware of other programs that also work.
 
+.. note:: **Enroute Flight Navigation** treats flight simulators as traffic
+    receivers.  To see the connection status, open the main menu and navigate to
+    the "Information" menu.
+
 
 Before you connect
 ------------------

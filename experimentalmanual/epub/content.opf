@@ -12,8 +12,8 @@
     <dc:publisher>Stefan Kebekus</dc:publisher>
     <dc:rights>2021, Stefan Kebekus</dc:rights>
     <dc:identifier id="unknown">unknown</dc:identifier>
-    <dc:date>2021-05-04T05:39:52Z</dc:date>
-    <meta property="dcterms:modified">2021-05-04T05:39:52Z</meta>
+    <dc:date>2021-05-04T06:33:31Z</dc:date>
+    <meta property="dcterms:modified">2021-05-04T06:33:31Z</meta>
     <meta property="ibooks:version"></meta>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="ibooks:binding">true</meta>
@@ -26,7 +26,7 @@
     <item id="epub-1" href="index.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-2" href="01-intro/01-think.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-3" href="01-intro/02-installation.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-4" href="01-intro/03-getting_started.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-4" href="01-intro/03-firstFlight.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-5" href="02-steps/simulator.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-6" href="02-steps/traffic.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-7" href="03-reference/airspace_display.xhtml" media-type="application/xhtml+xml" />

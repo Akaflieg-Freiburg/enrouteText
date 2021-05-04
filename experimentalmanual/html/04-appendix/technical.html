@@ -87,7 +87,7 @@
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="../01-intro/01-think.html">Think before you fly</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../01-intro/02-installation.html">Installation and setup</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../01-intro/03-getting_started.html">Get started</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../01-intro/03-firstFlight.html">Before your first flight</a></li>
 </ul>
 <p class="caption"><span class="caption-text">Further Steps</span></p>
 <ul>
@@ -106,7 +106,7 @@
 <li class="toctree-l1"><a class="reference internal" href="licenses.html">Software licenses</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Technical Notes</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#traffic-receiver">Traffic Receiver</a><ul>
-<li class="toctree-l3"><a class="reference internal" href="#protocol-notes">Protocol notes</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#known-issues">Known issues</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#platform-notes">Platform notes</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#foreflight-broadcast">ForeFlight Broadcast</a></li>
 </ul>
@@ -188,21 +188,32 @@
 network via Wi-Fi and publishes traffic data via that network.  In order to
 support a wide range of devices, including flight simulators, the app listens to
 several network addresses simultaneously and understands a variety of protocols.</p>
+<p><strong>Enroute Flight Navigation</strong> watches the following data channels, in order of
+preference.</p>
 <ul class="simple">
-<li><p>The app tries to establish TCP connections to port 2000 at the IP addresses
-192.168.1.1 and 192.168.10.1, where it expects to read a stream of FLARM/NMEA
-sentences.  The NMEA sentences must conform to the specification outlined in the
-document FTD-012 <a class="reference external" href="https://flarm.com/support/manuals-documents/">Data Port Interface Control Document (ICD)</a>, Version 7.13, as published by
-<a class="reference external" href="https://flarm.com/">FLARM Technology Ltd</a>.</p></li>
-<li><p>The app tries to establish UDP connections to ports 4000 and 49002, where it
-expects datagrams in GDL90 or XGPS format.  The datagrams must conform to the
-<a class="reference external" href="https://www.faa.gov/nextgen/programs/adsb/archival/media/gdl90_public_icd_reva.pdf">GDL 90 Data Interface Specification</a>
-or the XGPS format specified on the <a class="reference external" href="https://www.foreflight.com/support/network-gps/">ForeFlight Web site</a>.</p></li>
+<li><p>A TCP connection to port 2000 at the IP addresses 192.168.1.1, where the app
+expects a stream of FLARM/NMEA sentences.</p></li>
+<li><p>A TCP connection to port 2000 at the IP addresses 192.168.10.1, where the app
+expects a stream of FLARM/NMEA sentences.</p></li>
+<li><p>A UDP connection to port 4000, where the app expects datagrams in GDL90 or
+XGPS format.</p></li>
+<li><p>A UDP connection to port 49002, where the app expects datagrams in GDL90 or
+XGPS format.</p></li>
 </ul>
-<div class="section" id="protocol-notes">
-<h3>Protocol notes<a class="headerlink" href="#protocol-notes" title="Permalink to this headline">¶</a></h3>
-<p>Support for the GDL90 protocal is problematic, and we recommend to use
-FLARM/NMEA whenever possible.  We are aware of the following issues.</p>
+<p><strong>Enroute Flight Navigation</strong> expects traffic data in the following formats.</p>
+<ul class="simple">
+<li><p>FLARM/NMEA sentences must conform to the specification outlined in the
+document FTD-012 <a class="reference external" href="https://flarm.com/support/manuals-documents/">Data Port Interface Control Document (ICD)</a>, Version 7.13, as published
+by <a class="reference external" href="https://flarm.com/">FLARM Technology Ltd.</a>.</p></li>
+<li><p>Datagrams in GDL90 format must conform to the <a class="reference external" href="https://www.faa.gov/nextgen/programs/adsb/archival/media/gdl90_public_icd_reva.pdf">GDL 90 Data Interface
+Specification</a>.</p></li>
+<li><p>Datagrams in XGPS format must conform to the format specified on the
+<a class="reference external" href="https://www.foreflight.com/support/network-gps/">ForeFlight Web site</a>.</p></li>
+</ul>
+<div class="section" id="known-issues">
+<h3>Known issues<a class="headerlink" href="#known-issues" title="Permalink to this headline">¶</a></h3>
+<p>The GDL90 protocal is problematic, and we recommend to use FLARM/NMEA whenever
+possible.  We are aware of the following issues.</p>
 <p>Altitude measurements</p>
 <blockquote>
 <div><p>According to the GDL90 Specification, the ownship geometric height is reported

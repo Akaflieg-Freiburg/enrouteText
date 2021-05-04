@@ -45,7 +45,7 @@ and frequencies.
 
    01-intro/01-think
    01-intro/02-installation
-   01-intro/03-getting_started
+   01-intro/03-firstFlight
 
 .. raw:: latex
    \part{Further Steps}

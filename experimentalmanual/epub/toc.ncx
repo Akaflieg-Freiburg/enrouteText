@@ -84,38 +84,38 @@
     </navPoint>
     <navPoint id="navPoint13" playOrder="11">
       <navLabel>
-        <text>Get started</text>
+        <text>Before your first flight</text>
       </navLabel>
-      <content src="01-intro/03-getting_started.xhtml" />  
+      <content src="01-intro/03-firstFlight.xhtml" />  
       <navPoint id="navPoint14" playOrder="11">
         <navLabel>
-          <text>Get started</text>
+          <text>Before your first flight</text>
         </navLabel>
-        <content src="01-intro/03-getting_started.xhtml" />  
+        <content src="01-intro/03-firstFlight.xhtml" />  
       </navPoint>
       <navPoint id="navPoint15" playOrder="12">
         <navLabel>
           <text>The moving map</text>
         </navLabel>
-        <content src="01-intro/03-getting_started.xhtml#the-moving-map" />  
+        <content src="01-intro/03-firstFlight.xhtml#the-moving-map" />  
       </navPoint>
       <navPoint id="navPoint16" playOrder="13">
         <navLabel>
           <text>Interactive controls</text>
         </navLabel>
-        <content src="01-intro/03-getting_started.xhtml#interactive-controls" />  
+        <content src="01-intro/03-firstFlight.xhtml#interactive-controls" />  
       </navPoint>
       <navPoint id="navPoint17" playOrder="14">
         <navLabel>
           <text>Information about airspaces, airfields and other facilities</text>
         </navLabel>
-        <content src="01-intro/03-getting_started.xhtml#information-about-airspaces-airfields-and-other-facilities" />  
+        <content src="01-intro/03-firstFlight.xhtml#information-about-airspaces-airfields-and-other-facilities" />  
       </navPoint>
       <navPoint id="navPoint18" playOrder="15">
         <navLabel>
           <text>Go flying!</text>
         </navLabel>
-        <content src="01-intro/03-getting_started.xhtml#go-flying" />  
+        <content src="01-intro/03-firstFlight.xhtml#go-flying" />  
       </navPoint>
     </navPoint>
     <navPoint id="navPoint19" playOrder="16">
@@ -376,9 +376,9 @@
         </navPoint>
         <navPoint id="navPoint62" playOrder="50">
           <navLabel>
-            <text>Protocol notes</text>
+            <text>Known issues</text>
           </navLabel>
-          <content src="04-appendix/technical.xhtml#protocol-notes" />  
+          <content src="04-appendix/technical.xhtml#known-issues" />  
         </navPoint>
         <navPoint id="navPoint63" playOrder="51">
           <navLabel>
