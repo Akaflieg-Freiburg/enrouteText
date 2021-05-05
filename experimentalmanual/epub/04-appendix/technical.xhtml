@@ -15,8 +15,22 @@
             
   <div class="section" id="technical-notes">
 <h1>Technical Notes</h1>
+<div class="section" id="platform-notes">
+<h2>Platform notes</h2>
+<div class="section" id="android">
+<h3>Android</h3>
+<p>Wi-Fi locking</p>
+<blockquote>
+<div><p>When running on Android, the app acquires a Wi-Fi lock as soon as the app
+receives heartbeat messages from one of the channels where it listens for
+traffic receivers.  The lock is released when the messages no longer arrive.</p>
+</div></blockquote>
+</div>
+</div>
 <div class="section" id="traffic-receiver">
 <h2>Traffic Receiver</h2>
+<div class="section" id="communication">
+<h3>Communication</h3>
 <p><strong>Enroute Flight Navigation</strong> expects that the traffic receiver deploys a WLAN
 network via Wi-Fi and publishes traffic data via that network.  In order to
 support a wide range of devices, including flight simulators, the app listens to
@@ -43,10 +57,11 @@ Specification</a><span class="link-target"> [https://www.faa.gov/nextgen/program
 <li><p>Datagrams in XGPS format must conform to the format specified on the
 <a class="reference external" href="https://www.foreflight.com/support/network-gps/">ForeFlight Web site</a><span class="link-target"> [https://www.foreflight.com/support/network-gps/]</span>.</p></li>
 </ul>
+</div>
 <div class="section" id="known-issues">
 <h3>Known issues</h3>
-<p>The GDL90 protocal is problematic, and we recommend to use FLARM/NMEA whenever
-possible.  We are aware of the following issues.</p>
+<p>The GDL90 protocol has a number of shortcomings, and we recommend to use
+FLARM/NMEA whenever possible.  We are aware of the following issues.</p>
 <p>Altitude measurements</p>
 <blockquote>
 <div><p>According to the GDL90 Specification, the ownship geometric height is reported
@@ -56,7 +71,7 @@ different strategies to deal with these shortcomings.</p>
 <ul class="simple">
 <li><p><strong>Enroute Flight Navigation</strong> as well as the app Skydemon expect that
 traffic receivers comply with the GDL90 Specification.</p></li>
-<li><p>Foreflight has extended the GDL90 Specification so that traffic receivers
+<li><p>ForeFlight has extended the GDL90 Specification so that traffic receivers
 can indicate if they comply with the specification or not.</p></li>
 <li><p>Many other apps expect wrong GDL90 implementations and interpret the
 geometric height has height above main sea level.</p></li>
@@ -80,11 +95,6 @@ Position” to give the approximate position to the target.</p></li>
 <p><strong>Enroute Flight Navigation</strong> has special provisions for handling targets
 called “Mode S”, but users should expect that this workaround is not perfect.</p>
 </div></blockquote>
-</div>
-<div class="section" id="platform-notes">
-<h3>Platform notes</h3>
-<p>When running on Android, the app acquires a Wi-Fi lock as soon as valid data is
-received.  The lock is released when data no longer arrives.</p>
 </div>
 <div class="section" id="foreflight-broadcast">
 <h3>ForeFlight Broadcast</h3>

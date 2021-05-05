@@ -47,7 +47,9 @@
 \contentsline {section}{\numberline {10.4}Base maps}{36}{section.10.4}%
 \contentsline {section}{\numberline {10.5}Aviation maps}{36}{section.10.5}%
 \contentsline {chapter}{\numberline {11}Technical Notes}{39}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Traffic Receiver}{39}{section.11.1}%
-\contentsline {subsection}{\numberline {11.1.1}Known issues}{40}{subsection.11.1.1}%
-\contentsline {subsection}{\numberline {11.1.2}Platform notes}{40}{subsection.11.1.2}%
-\contentsline {subsection}{\numberline {11.1.3}ForeFlight Broadcast}{40}{subsection.11.1.3}%
+\contentsline {section}{\numberline {11.1}Platform notes}{39}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}Android}{39}{subsection.11.1.1}%
+\contentsline {section}{\numberline {11.2}Traffic Receiver}{39}{section.11.2}%
+\contentsline {subsection}{\numberline {11.2.1}Communication}{39}{subsection.11.2.1}%
+\contentsline {subsection}{\numberline {11.2.2}Known issues}{40}{subsection.11.2.2}%
+\contentsline {subsection}{\numberline {11.2.3}ForeFlight Broadcast}{40}{subsection.11.2.3}%

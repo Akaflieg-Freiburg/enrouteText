@@ -1,8 +1,26 @@
+
+
 Technical Notes
 ===============
 
+Platform notes
+--------------
+
+Android
+^^^^^^^
+
+Wi-Fi locking
+
+  When running on Android, the app acquires a Wi-Fi lock as soon as the app
+  receives heartbeat messages from one of the channels where it listens for
+  traffic receivers.  The lock is released when the messages no longer arrive.
+
+
 Traffic Receiver
 ----------------
+
+Communication
+^^^^^^^^^^^^^
 
 **Enroute Flight Navigation** expects that the traffic receiver deploys a WLAN
 network via Wi-Fi and publishes traffic data via that network.  In order to
@@ -37,8 +55,8 @@ preference.
 Known issues
 ^^^^^^^^^^^^
 
-The GDL90 protocal is problematic, and we recommend to use FLARM/NMEA whenever
-possible.  We are aware of the following issues.
+The GDL90 protocol has a number of shortcomings, and we recommend to use
+FLARM/NMEA whenever possible.  We are aware of the following issues.
 
 Altitude measurements
 
@@ -49,7 +67,7 @@ Altitude measurements
   
   - **Enroute Flight Navigation** as well as the app Skydemon expect that
     traffic receivers comply with the GDL90 Specification.
-  - Foreflight has extended the GDL90 Specification so that traffic receivers
+  - ForeFlight has extended the GDL90 Specification so that traffic receivers
     can indicate if they comply with the specification or not.
   - Many other apps expect wrong GDL90 implementations and interpret the
     geometric height has height above main sea level.
@@ -72,13 +90,6 @@ MODE-S traffic
 
   **Enroute Flight Navigation** has special provisions for handling targets
   called "Mode S", but users should expect that this workaround is not perfect.
-
-
-Platform notes
-^^^^^^^^^^^^^^
-
-When running on Android, the app acquires a Wi-Fi lock as soon as valid data is
-received.  The lock is released when data no longer arrives.
 
 
 ForeFlight Broadcast

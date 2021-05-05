@@ -365,28 +365,46 @@
       </navPoint>
       <navPoint id="navPoint60" playOrder="49">
         <navLabel>
-          <text>Traffic Receiver</text>
+          <text>Platform notes</text>
         </navLabel>
-        <content src="04-appendix/technical.xhtml#traffic-receiver" />  
+        <content src="04-appendix/technical.xhtml#platform-notes" />  
         <navPoint id="navPoint61" playOrder="49">
-          <navLabel>
-            <text>Traffic Receiver</text>
-          </navLabel>
-          <content src="04-appendix/technical.xhtml#traffic-receiver" />  
-        </navPoint>
-        <navPoint id="navPoint62" playOrder="50">
-          <navLabel>
-            <text>Known issues</text>
-          </navLabel>
-          <content src="04-appendix/technical.xhtml#known-issues" />  
-        </navPoint>
-        <navPoint id="navPoint63" playOrder="51">
           <navLabel>
             <text>Platform notes</text>
           </navLabel>
           <content src="04-appendix/technical.xhtml#platform-notes" />  
         </navPoint>
-        <navPoint id="navPoint64" playOrder="52">
+        <navPoint id="navPoint62" playOrder="50">
+          <navLabel>
+            <text>Android</text>
+          </navLabel>
+          <content src="04-appendix/technical.xhtml#android" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint63" playOrder="51">
+        <navLabel>
+          <text>Traffic Receiver</text>
+        </navLabel>
+        <content src="04-appendix/technical.xhtml#traffic-receiver" />  
+        <navPoint id="navPoint64" playOrder="51">
+          <navLabel>
+            <text>Traffic Receiver</text>
+          </navLabel>
+          <content src="04-appendix/technical.xhtml#traffic-receiver" />  
+        </navPoint>
+        <navPoint id="navPoint65" playOrder="52">
+          <navLabel>
+            <text>Communication</text>
+          </navLabel>
+          <content src="04-appendix/technical.xhtml#communication" />  
+        </navPoint>
+        <navPoint id="navPoint66" playOrder="53">
+          <navLabel>
+            <text>Known issues</text>
+          </navLabel>
+          <content src="04-appendix/technical.xhtml#known-issues" />  
+        </navPoint>
+        <navPoint id="navPoint67" playOrder="54">
           <navLabel>
             <text>ForeFlight Broadcast</text>
           </navLabel>

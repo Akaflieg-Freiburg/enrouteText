@@ -1977,8 +1977,27 @@ XML Schema|W3C Software Notice and Document License (2015\sphinxhyphen{}05\sphin
 \chapter{Technical Notes}
 \label{\detokenize{04-appendix/technical:technical-notes}}\label{\detokenize{04-appendix/technical::doc}}
 
+\section{Platform notes}
+\label{\detokenize{04-appendix/technical:platform-notes}}
+
+\subsection{Android}
+\label{\detokenize{04-appendix/technical:android}}
+\sphinxAtStartPar
+Wi\sphinxhyphen{}Fi locking
+\begin{quote}
+
+\sphinxAtStartPar
+When running on Android, the app acquires a Wi\sphinxhyphen{}Fi lock as soon as the app
+receives heartbeat messages from one of the channels where it listens for
+traffic receivers.  The lock is released when the messages no longer arrive.
+\end{quote}
+
+
 \section{Traffic Receiver}
 \label{\detokenize{04-appendix/technical:traffic-receiver}}
+
+\subsection{Communication}
+\label{\detokenize{04-appendix/technical:communication}}
 \sphinxAtStartPar
 \sphinxstylestrong{Enroute Flight Navigation} expects that the traffic receiver deploys a WLAN
 network via Wi\sphinxhyphen{}Fi and publishes traffic data via that network.  In order to
@@ -2052,8 +2071,8 @@ Datagrams in XGPS format must conform to the format specified on the
 \subsection{Known issues}
 \label{\detokenize{04-appendix/technical:known-issues}}
 \sphinxAtStartPar
-The GDL90 protocal is problematic, and we recommend to use FLARM/NMEA whenever
-possible.  We are aware of the following issues.
+The GDL90 protocol has a number of shortcomings, and we recommend to use
+FLARM/NMEA whenever possible.  We are aware of the following issues.
 
 \sphinxAtStartPar
 Altitude measurements
@@ -2072,7 +2091,7 @@ traffic receivers comply with the GDL90 Specification.
 
 \item {} 
 \sphinxAtStartPar
-Foreflight has extended the GDL90 Specification so that traffic receivers
+ForeFlight has extended the GDL90 Specification so that traffic receivers
 can indicate if they comply with the specification or not.
 
 \item {} 
@@ -2115,13 +2134,6 @@ Position” to give the approximate position to the target.
 \sphinxstylestrong{Enroute Flight Navigation} has special provisions for handling targets
 called “Mode S”, but users should expect that this workaround is not perfect.
 \end{quote}
-
-
-\subsection{Platform notes}
-\label{\detokenize{04-appendix/technical:platform-notes}}
-\sphinxAtStartPar
-When running on Android, the app acquires a Wi\sphinxhyphen{}Fi lock as soon as valid data is
-received.  The lock is released when data no longer arrives.
 
 
 \subsection{ForeFlight Broadcast}

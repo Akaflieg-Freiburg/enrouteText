@@ -105,9 +105,13 @@
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="licenses.html">Software licenses</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Technical Notes</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#platform-notes">Platform notes</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#android">Android</a></li>
+</ul>
+</li>
 <li class="toctree-l2"><a class="reference internal" href="#traffic-receiver">Traffic Receiver</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#communication">Communication</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#known-issues">Known issues</a></li>
-<li class="toctree-l3"><a class="reference internal" href="#platform-notes">Platform notes</a></li>
 <li class="toctree-l3"><a class="reference internal" href="#foreflight-broadcast">ForeFlight Broadcast</a></li>
 </ul>
 </li>
@@ -182,8 +186,22 @@
             
   <div class="section" id="technical-notes">
 <h1>Technical Notes<a class="headerlink" href="#technical-notes" title="Permalink to this headline">¶</a></h1>
+<div class="section" id="platform-notes">
+<h2>Platform notes<a class="headerlink" href="#platform-notes" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="android">
+<h3>Android<a class="headerlink" href="#android" title="Permalink to this headline">¶</a></h3>
+<p>Wi-Fi locking</p>
+<blockquote>
+<div><p>When running on Android, the app acquires a Wi-Fi lock as soon as the app
+receives heartbeat messages from one of the channels where it listens for
+traffic receivers.  The lock is released when the messages no longer arrive.</p>
+</div></blockquote>
+</div>
+</div>
 <div class="section" id="traffic-receiver">
 <h2>Traffic Receiver<a class="headerlink" href="#traffic-receiver" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="communication">
+<h3>Communication<a class="headerlink" href="#communication" title="Permalink to this headline">¶</a></h3>
 <p><strong>Enroute Flight Navigation</strong> expects that the traffic receiver deploys a WLAN
 network via Wi-Fi and publishes traffic data via that network.  In order to
 support a wide range of devices, including flight simulators, the app listens to
@@ -210,10 +228,11 @@ Specification</a>.</p></li>
 <li><p>Datagrams in XGPS format must conform to the format specified on the
 <a class="reference external" href="https://www.foreflight.com/support/network-gps/">ForeFlight Web site</a>.</p></li>
 </ul>
+</div>
 <div class="section" id="known-issues">
 <h3>Known issues<a class="headerlink" href="#known-issues" title="Permalink to this headline">¶</a></h3>
-<p>The GDL90 protocal is problematic, and we recommend to use FLARM/NMEA whenever
-possible.  We are aware of the following issues.</p>
+<p>The GDL90 protocol has a number of shortcomings, and we recommend to use
+FLARM/NMEA whenever possible.  We are aware of the following issues.</p>
 <p>Altitude measurements</p>
 <blockquote>
 <div><p>According to the GDL90 Specification, the ownship geometric height is reported
@@ -223,7 +242,7 @@ different strategies to deal with these shortcomings.</p>
 <ul class="simple">
 <li><p><strong>Enroute Flight Navigation</strong> as well as the app Skydemon expect that
 traffic receivers comply with the GDL90 Specification.</p></li>
-<li><p>Foreflight has extended the GDL90 Specification so that traffic receivers
+<li><p>ForeFlight has extended the GDL90 Specification so that traffic receivers
 can indicate if they comply with the specification or not.</p></li>
 <li><p>Many other apps expect wrong GDL90 implementations and interpret the
 geometric height has height above main sea level.</p></li>
@@ -247,11 +266,6 @@ Position” to give the approximate position to the target.</p></li>
 <p><strong>Enroute Flight Navigation</strong> has special provisions for handling targets
 called “Mode S”, but users should expect that this workaround is not perfect.</p>
 </div></blockquote>
-</div>
-<div class="section" id="platform-notes">
-<h3>Platform notes<a class="headerlink" href="#platform-notes" title="Permalink to this headline">¶</a></h3>
-<p>When running on Android, the app acquires a Wi-Fi lock as soon as valid data is
-received.  The lock is released when data no longer arrives.</p>
 </div>
 <div class="section" id="foreflight-broadcast">
 <h3>ForeFlight Broadcast<a class="headerlink" href="#foreflight-broadcast" title="Permalink to this headline">¶</a></h3>

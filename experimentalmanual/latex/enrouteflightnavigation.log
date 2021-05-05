@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.5)  5 MAY 2021 04:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.5)  5 MAY 2021 05:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -753,7 +753,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 [2]
-<de.akaflieg_freiburg.enroute.png, id=250, 513.92pt x 513.92pt>
+<de.akaflieg_freiburg.enroute.png, id=255, 513.92pt x 513.92pt>
 LaTeX Font Info:    Trying to load font information for T1+pcr on input line 93
 .
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
@@ -810,12 +810,12 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 370--370
 [][][][][][][][][]  
  []
 
-<fig_ground.png, id=311, 1043.9pt x 1314.9125pt>
+<fig_ground.png, id=317, 1043.9pt x 1314.9125pt>
 File: fig_ground.png Graphic file (type png)
 <use fig_ground.png>
 Package pdftex.def Info: fig_ground.png  used on input line 391.
 (pdftex.def)             Requested size: 313.17241pt x 394.47679pt.
-<fig_flight.png, id=312, 1043.9pt x 1314.9125pt>
+<fig_flight.png, id=318, 1043.9pt x 1314.9125pt>
 File: fig_flight.png Graphic file (type png)
 <use fig_flight.png>
 Package pdftex.def Info: fig_flight.png  used on input line 398.
@@ -823,27 +823,27 @@ Package pdftex.def Info: fig_flight.png  used on input line 398.
 [7
 
 ] [8 <./fig_ground.png>] [9 <./fig_flight.png>]
-<ic_menu.png, id=332, 30.1125pt x 30.1125pt>
+<ic_menu.png, id=337, 30.1125pt x 30.1125pt>
 File: ic_menu.png Graphic file (type png)
 <use ic_menu.png>
 Package pdftex.def Info: ic_menu.png  used on input line 512.
 (pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
-<NorthArrow.png, id=333, 30.1125pt x 30.1125pt>
+<NorthArrow.png, id=338, 30.1125pt x 30.1125pt>
 File: NorthArrow.png Graphic file (type png)
 <use NorthArrow.png>
 Package pdftex.def Info: NorthArrow.png  used on input line 512.
 (pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
-<ic_my_location.png, id=334, 30.1125pt x 30.1125pt>
+<ic_my_location.png, id=339, 30.1125pt x 30.1125pt>
 File: ic_my_location.png Graphic file (type png)
 <use ic_my_location.png>
 Package pdftex.def Info: ic_my_location.png  used on input line 512.
 (pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
-<ic_add.png, id=335, 30.1125pt x 30.1125pt>
+<ic_add.png, id=340, 30.1125pt x 30.1125pt>
 File: ic_add.png Graphic file (type png)
 <use ic_add.png>
 Package pdftex.def Info: ic_add.png  used on input line 512.
 (pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
-<ic_remove.png, id=336, 30.1125pt x 30.1125pt>
+<ic_remove.png, id=341, 30.1125pt x 30.1125pt>
 File: ic_remove.png Graphic file (type png)
 <use ic_remove.png>
 Package pdftex.def Info: ic_remove.png  used on input line 512.
@@ -868,7 +868,7 @@ File: ic_remove.png Graphic file (type png)
 <use ic_remove.png>
 Package pdftex.def Info: ic_remove.png  used on input line 512.
 (pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
-<fig_wpInfo.png, id=338, 1043.9pt x 1314.9125pt>
+<fig_wpInfo.png, id=343, 1043.9pt x 1314.9125pt>
 File: fig_wpInfo.png Graphic file (type png)
 <use fig_wpInfo.png>
 Package pdftex.def Info: fig_wpInfo.png  used on input line 530.
@@ -898,7 +898,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 711--711
 [15
 
 ]
-<X-Plane-11.png, id=388, 2569.6pt x 1445.4pt>
+<X-Plane-11.png, id=393, 2569.6pt x 1445.4pt>
 File: X-Plane-11.png Graphic file (type png)
 <use X-Plane-11.png>
 Package pdftex.def Info: X-Plane-11.png  used on input line 780.
@@ -940,19 +940,19 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1171--1171
 [][][][][][][][][]  
  []
 
-<fig_Restricted.png, id=428, 195.129pt x 172.7253pt>
+<fig_Restricted.png, id=433, 195.129pt x 172.7253pt>
 File: fig_Restricted.png Graphic file (type png)
 <use fig_Restricted.png>
 Package pdftex.def Info: fig_Restricted.png  used on input line 1196.
 (pdftex.def)             Requested size: 195.12851pt x 172.72487pt.
 [23 <./fig_Restricted.png>]
-<fig_AirspaceMUC.png, id=437, 195.129pt x 234.1548pt>
+<fig_AirspaceMUC.png, id=442, 195.129pt x 234.1548pt>
 File: fig_AirspaceMUC.png Graphic file (type png)
 <use fig_AirspaceMUC.png>
 Package pdftex.def Info: fig_AirspaceMUC.png  used on input line 1255.
 (pdftex.def)             Requested size: 195.12851pt x 234.15422pt.
  [24 <./fig_AirspaceMUC.png>]
-<fig_nra.png, id=448, 406.51875pt x 532.23843pt>
+<fig_nra.png, id=453, 406.51875pt x 532.23843pt>
 File: fig_nra.png Graphic file (type png)
 <use fig_nra.png>
 Package pdftex.def Info: fig_nra.png  used on input line 1381.
@@ -966,12 +966,12 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1449--1449
 [][][][][][][][][]  
  []
 
-<fig_Weather.png, id=469, 406.51875pt x 738.50906pt>
+<fig_Weather.png, id=474, 406.51875pt x 738.50906pt>
 File: fig_Weather.png Graphic file (type png)
 <use fig_Weather.png>
 Package pdftex.def Info: fig_Weather.png  used on input line 1458.
 (pdftex.def)             Requested size: 358.04774pt x 650.4309pt.
-<fig_WeatherDetail.png, id=470, 389.95688pt x 720.44156pt>
+<fig_WeatherDetail.png, id=475, 389.95688pt x 720.44156pt>
 File: fig_WeatherDetail.png Graphic file (type png)
 <use fig_WeatherDetail.png>
 Package pdftex.def Info: fig_WeatherDetail.png  used on input line 1545.
@@ -1028,27 +1028,27 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1977--1977
  []
 
 [39] (./enrouteflightnavigation.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2152.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2164.
  [40]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2152.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2164.
  (./enrouteflightnavigation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2152.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2152.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2164.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2164.
 
 Package rerunfilecheck Info: File `enrouteflightnavigation.out' has not changed
 .
-(rerunfilecheck)             Checksum: EB653DDAFD9AF8CCE44CBC3C838B5B21;7055.
+(rerunfilecheck)             Checksum: FDA5DBD8359131A7FDBF29945E881492;7185.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2152.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2164.
  ) 
 Here is how much of TeX's memory you used:
- 14067 strings out of 483183
- 200930 string characters out of 5966293
- 480754 words of memory out of 5000000
- 28537 multiletter control sequences out of 15000+600000
+ 14072 strings out of 483183
+ 201041 string characters out of 5966293
+ 480841 words of memory out of 5000000
+ 28540 multiletter control sequences out of 15000+600000
  600986 words of font info for 106 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
  38i,12n,51p,677b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1063,10 +1063,10 @@ r/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fon
 ts/type1/urw/times/utmri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/z
 apfchan/uzcmi8a.pfb>
-Output written on enrouteflightnavigation.pdf (44 pages, 2764387 bytes).
+Output written on enrouteflightnavigation.pdf (44 pages, 2764871 bytes).
 PDF statistics:
- 690 PDF objects out of 1000 (max. 8388607)
- 591 compressed objects within 6 object streams
- 154 named destinations out of 1000 (max. 500000)
- 448 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 696 PDF objects out of 1000 (max. 8388607)
+ 597 compressed objects within 6 object streams
+ 156 named destinations out of 1000 (max. 500000)
+ 456 words of extra memory for PDF output out of 10000 (max. 10000000)
 
