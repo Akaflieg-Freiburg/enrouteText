@@ -3221,8 +3221,9 @@ page will open, which explains the connection status in more detail.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="435"/>
         <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
-        <translation type="vanished">** Abbiamo bisogno di aiuto con la traduzione italiana. ** Se desideri aiutare, se parli italiano e se sai come utilizzare il sistema di controllo di revisione GIT, contattaci.</translation>
+        <translation>** Abbiamo bisogno di aiuto con la traduzione italiana. ** Se desideri aiutare, se parli italiano e se sai come utilizzare il sistema di controllo di revisione GIT, contattaci.</translation>
     </message>
     <message>
         <source>
