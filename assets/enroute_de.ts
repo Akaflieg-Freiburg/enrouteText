@@ -2790,7 +2790,7 @@ apps on the network&quot; under the headline &quot;OTHER MAPPING APPS&quot;.&lt;
 &lt;h3&gt;X-Plane 11&lt;/h3&gt;
 
 &lt;p&gt;Öffnen Sie das Fenster &quot;Einstellungen&quot; und wählen Sie den Reiter &quot;Netzwerk&quot;. Suchen Sie die Einstellgruppe &quot;Rolle dieser Maschine&quot; rechts im Reiter. 
-Öffnen Sie den Abschnitt &quot;iPHONE, iPAD und EXTERNE APPS&quot; und wählen Sie den Punkt &quot;An alle Kartenapps im Netzwerk verteilen&quot; unter der Überschrift &quot;ANDERE MAPPING APPS&quot;.&lt;/p&gt;
+Öffnen Sie den Abschnitt &quot;iPHONE, iPAD und EXTERNE ANWENDUNGEN&quot; und wählen Sie den Punkt &quot;An alle Karten Apps im Netzwerk übertragen&quot; unter der Überschrift &quot;ANDERE KARTEN APPS&quot;.&lt;/p&gt;
 </translation>
     </message>
     <message>
