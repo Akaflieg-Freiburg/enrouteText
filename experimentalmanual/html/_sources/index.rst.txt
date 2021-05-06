@@ -57,6 +57,7 @@ and frequencies.
 
    02-steps/traffic
    02-steps/simulator
+   02-steps/donate
    
 .. raw:: latex
    \part{Reference manual}

@@ -74,7 +74,7 @@
 \input{../../latexPreamble.tex.txt}
 
 \title{Enroute Flight Navigation}
-\date{May 05, 2021}
+\date{May 06, 2021}
 \release{2.2.4}
 \author{Stefan Kebekus}
 \newcommand{\sphinxlogo}{\vbox{}}
@@ -589,6 +589,13 @@ Users reported success with the following traffic receivers.
 
 \end{itemize}
 
+\begin{sphinxadmonition}{note}{Note:}
+\sphinxAtStartPar
+To show only relevant traffic, \sphinxstylestrong{Enroute Flight Navigation} will
+display traffic factors only if the vertical distance is less than 1.500m
+and and the horizontal distance less than 20km.
+\end{sphinxadmonition}
+
 
 \section{Before you connect}
 \label{\detokenize{02-steps/traffic:before-you-connect}}
@@ -725,6 +732,19 @@ has been tested with the following programs.
 \end{itemize}
 
 \sphinxAtStartPar
+Users have reported success with the following programs.
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+\sphinxhref{https://www.x-plane.com/}{X\sphinxhyphen{}Plane 10}%
+\begin{footnote}[14]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://www.x-plane.com/}
+%
+\end{footnote}
+
+\end{itemize}
+
+\sphinxAtStartPar
 Please contact us if you are aware of other programs that also work.
 
 \begin{sphinxadmonition}{note}{Note:}
@@ -769,8 +789,24 @@ adjust accordingly.  To end the connection to the flight simulator, simply leave
 the flight simulator’s Wi\sphinxhyphen{}Fi network.
 
 
-\subsection{X\sphinxhyphen{}Plane 11}
+\subsection{X\sphinxhyphen{}Plane 10}
 \label{\detokenize{02-steps/simulator:id1}}
+\sphinxAtStartPar
+Follow the explanation on \sphinxhref{https://www.x-plane.com/2012/08/foreflight-charts-supported-in-x-plane-10-10-beta-9/}{this page}%
+\begin{footnote}[15]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://www.x-plane.com/2012/08/foreflight-charts-supported-in-x-plane-10-10-beta-9/}
+%
+\end{footnote},
+which explains how to connect X\sphinxhyphen{}Plane 10 to the commercial app ForeFlight.  In
+short: Open the “Settings” window and click “Internet Options”. There, go to the
+“iPhone/iPod” tab and turn on the “ForeFlight” option.  Please be sure to
+disable output of data on tab “Data”.
+
+\noindent\sphinxincludegraphics{{X-Plane-10}.png}
+
+
+\subsection{X\sphinxhyphen{}Plane 11}
+\label{\detokenize{02-steps/simulator:id2}}
 \sphinxAtStartPar
 Open the “Settings” window and choose the “Network” tab.  Locate the settings
 group “This machine’s role” on the right\sphinxhyphen{}hand side of the tab. Open the section
@@ -803,6 +839,34 @@ menu.  If the entry “Traffic Receiver” is highlighted in green, then \sphinx
 Flight Navigation} has already found the program in the network and has
 connected to it.  If not, then select the entry. The “Traffic Receiver Status”
 page will open, which explains the connection status in more detail.
+
+
+\chapter{Make a donation}
+\label{\detokenize{02-steps/donate:make-a-donation}}\label{\detokenize{02-steps/donate::doc}}
+\sphinxAtStartPar
+\sphinxstylestrong{Enroute Flight Navigation} is a non\sphinxhyphen{}commercial project of \sphinxhref{https://akaflieg-freiburg.de/}{Akaflieg Freiburg}%
+\begin{footnote}[16]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://akaflieg-freiburg.de/}
+%
+\end{footnote} and the \sphinxhref{https://uni-freiburg.de/en/}{University of Freiburg}%
+\begin{footnote}[17]\sphinxAtStartFootnote
+\sphinxnolinkurl{https://uni-freiburg.de/en/}
+%
+\end{footnote}. The app has been written by flight enthusiasts
+in their spare time, as a service to the community. The developers do not take
+donations.
+
+\sphinxAtStartPar
+If you appreciate the app, please consider a donation to Akaflieg Freiburg, a
+tax\sphinxhyphen{}privileged, not\sphinxhyphen{}for\sphinxhyphen{}profit flight club of public utility in Freiburg,
+Germany.
+
+\begin{sphinxVerbatim}[commandchars=\\\{\}]
+\PYG{n}{IBAN}\PYG{p}{:}    \PYG{n}{DE35} \PYG{l+m+mi}{6809} \PYG{l+m+mi}{0000} \PYG{l+m+mi}{0027} \PYG{l+m+mi}{6409} \PYG{l+m+mi}{07}
+\PYG{n}{BIC}\PYG{p}{:}     \PYG{n}{GENODE61FR1}
+\PYG{n}{Bank}\PYG{p}{:}    \PYG{n}{Volksbank} \PYG{n}{Freiburg}
+\PYG{n}{Message}\PYG{p}{:} \PYG{n}{Enroute} \PYG{n}{Flight} \PYG{n}{Navigation}
+\end{sphinxVerbatim}
 
 
 \chapter{Map Data}
@@ -1684,7 +1748,7 @@ By definition, VFR is ceiling greater than or equal to 3,000 feet AGL and visib
 \sphinxAtStartPar
 The program \sphinxstylestrong{Enroute Flight Navigation} is licensed under the \sphinxhref{https://www.gnu.org/licenses/gpl-3.0-standalone.html}{GNU General
 Public License V3}%
-\begin{footnote}[14]\sphinxAtStartFootnote
+\begin{footnote}[18]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://www.gnu.org/licenses/gpl-3.0-standalone.html}
 %
 \end{footnote} or,
@@ -1696,12 +1760,12 @@ at your choice, any later version of this license.
 \item {} 
 \sphinxAtStartPar
 This program includes several libraries from the \sphinxhref{https://qt.io}{Qt project}%
-\begin{footnote}[15]\sphinxAtStartFootnote
+\begin{footnote}[19]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://qt.io}
 %
 \end{footnote}, licensed under the \sphinxhref{https://www.qt.io/download-open-source}{GNU Lesser General Public License
 (LGPL) version 3}%
-\begin{footnote}[16]\sphinxAtStartFootnote
+\begin{footnote}[20]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://www.qt.io/download-open-source}
 %
 \end{footnote}.
@@ -1709,12 +1773,12 @@ This program includes several libraries from the \sphinxhref{https://qt.io}{Qt p
 \item {} 
 \sphinxAtStartPar
 This program includes the library \sphinxhref{https://github.com/nitroshare/qhttpengine}{qhttpengine}%
-\begin{footnote}[17]\sphinxAtStartFootnote
+\begin{footnote}[21]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://github.com/nitroshare/qhttpengine}
 %
 \end{footnote}, which is licensed under the
 \sphinxhref{https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt}{MIT license}%
-\begin{footnote}[18]\sphinxAtStartFootnote
+\begin{footnote}[22]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt}
 %
 \end{footnote}.
@@ -1722,12 +1786,12 @@ This program includes the library \sphinxhref{https://github.com/nitroshare/qhtt
 \item {} 
 \sphinxAtStartPar
 This program includes the library \sphinxhref{https://openssl.org}{OpenSSL}%
-\begin{footnote}[19]\sphinxAtStartFootnote
+\begin{footnote}[23]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://openssl.org}
 %
 \end{footnote}, licensed
 under the \sphinxhref{https://www.openssl.org/source/license.html}{Apache License 2.0}%
-\begin{footnote}[20]\sphinxAtStartFootnote
+\begin{footnote}[24]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://www.openssl.org/source/license.html}
 %
 \end{footnote}.
@@ -1740,12 +1804,12 @@ under the \sphinxhref{https://www.openssl.org/source/license.html}{Apache Licens
 \item {} 
 \sphinxAtStartPar
 This program includes versions of the \sphinxhref{https://github.com/google/roboto}{Google Roboto Fonts}%
-\begin{footnote}[21]\sphinxAtStartFootnote
+\begin{footnote}[25]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://github.com/google/roboto}
 %
 \end{footnote}, which are licensed under the \sphinxhref{https://github.com/google/roboto/blob/master/LICENSE}{Apache
 License 2.0}%
-\begin{footnote}[22]\sphinxAtStartFootnote
+\begin{footnote}[26]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://github.com/google/roboto/blob/master/LICENSE}
 %
 \end{footnote}.
@@ -1753,12 +1817,12 @@ License 2.0}%
 \item {} 
 \sphinxAtStartPar
 This program includes several \sphinxhref{https://github.com/google/material-design-icons}{Google Material Design Icons}%
-\begin{footnote}[23]\sphinxAtStartFootnote
+\begin{footnote}[27]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://github.com/google/material-design-icons}
 %
 \end{footnote}, which are licensed under
 the \sphinxhref{https://github.com/google/material-design-icons/blob/master/LICENSE}{Apache License 2.0}%
-\begin{footnote}[24]\sphinxAtStartFootnote
+\begin{footnote}[28]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://github.com/google/material-design-icons/blob/master/LICENSE}
 %
 \end{footnote}.
@@ -1767,19 +1831,19 @@ the \sphinxhref{https://github.com/google/material-design-icons/blob/master/LICE
 \sphinxAtStartPar
 The style specification of the basemap is a modified version of the \sphinxhref{https://github.com/maputnik/osm-liberty}{OSM
 liberty map design}%
-\begin{footnote}[25]\sphinxAtStartFootnote
+\begin{footnote}[29]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://github.com/maputnik/osm-liberty}
 %
 \end{footnote}, which is in
 turn originally derived from OSM Bright from Mapbox Open Styles. The code is
 licensed under the \sphinxhref{https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md}{BSD license}%
-\begin{footnote}[26]\sphinxAtStartFootnote
+\begin{footnote}[30]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md}
 %
 \end{footnote}. The OSM
 style Bright from Mapbox Open Styles is licensed under the \sphinxhref{https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md}{Creative Commons
 Attribution 3.0 license}%
-\begin{footnote}[27]\sphinxAtStartFootnote
+\begin{footnote}[31]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md}
 %
 \end{footnote}.
@@ -1792,12 +1856,12 @@ Attribution 3.0 license}%
 \item {} 
 \sphinxAtStartPar
 The base maps are modified data from \sphinxhref{https://github.com/openmaptiles/openmaptiles}{OpenMapTiles}%
-\begin{footnote}[28]\sphinxAtStartFootnote
+\begin{footnote}[32]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://github.com/openmaptiles/openmaptiles}
 %
 \end{footnote}, published under a \sphinxhref{https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md}{CC\sphinxhyphen{}BY 4.0
 design license}%
-\begin{footnote}[29]\sphinxAtStartFootnote
+\begin{footnote}[33]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md}
 %
 \end{footnote}.
@@ -1810,12 +1874,12 @@ design license}%
 \item {} 
 \sphinxAtStartPar
 The aviation maps contain data from \sphinxhref{http://www.openaip.net}{openAIP}%
-\begin{footnote}[30]\sphinxAtStartFootnote
+\begin{footnote}[34]\sphinxAtStartFootnote
 \sphinxnolinkurl{http://www.openaip.net}
 %
 \end{footnote},
 licensed under a \sphinxhref{https://creativecommons.org/licenses/by-nc-sa/3.0/}{CC BY\sphinxhyphen{}NC\sphinxhyphen{}SA license}%
-\begin{footnote}[31]\sphinxAtStartFootnote
+\begin{footnote}[35]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://creativecommons.org/licenses/by-nc-sa/3.0/}
 %
 \end{footnote}.
@@ -1823,12 +1887,12 @@ licensed under a \sphinxhref{https://creativecommons.org/licenses/by-nc-sa/3.0/}
 \item {} 
 \sphinxAtStartPar
 The aviation maps contain data from \sphinxhref{https://www.openflightmaps.org/}{open flightmaps}%
-\begin{footnote}[32]\sphinxAtStartFootnote
+\begin{footnote}[36]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://www.openflightmaps.org/}
 %
 \end{footnote}, licensed under the \sphinxhref{https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf}{OFMA General Users´
 License}%
-\begin{footnote}[33]\sphinxAtStartFootnote
+\begin{footnote}[37]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf}
 %
 \end{footnote}.
@@ -2037,12 +2101,12 @@ XGPS format.
 \sphinxAtStartPar
 FLARM/NMEA sentences must conform to the specification outlined in the
 document FTD\sphinxhyphen{}012 \sphinxhref{https://flarm.com/support/manuals-documents/}{Data Port Interface Control Document (ICD)}%
-\begin{footnote}[34]\sphinxAtStartFootnote
+\begin{footnote}[38]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://flarm.com/support/manuals-documents/}
 %
 \end{footnote}, Version 7.13, as published
 by \sphinxhref{https://flarm.com/}{FLARM Technology Ltd.}%
-\begin{footnote}[35]\sphinxAtStartFootnote
+\begin{footnote}[39]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://flarm.com/}
 %
 \end{footnote}.
@@ -2051,7 +2115,7 @@ by \sphinxhref{https://flarm.com/}{FLARM Technology Ltd.}%
 \sphinxAtStartPar
 Datagrams in GDL90 format must conform to the \sphinxhref{https://www.faa.gov/nextgen/programs/adsb/archival/media/gdl90\_public\_icd\_reva.pdf}{GDL 90 Data Interface
 Specification}%
-\begin{footnote}[36]\sphinxAtStartFootnote
+\begin{footnote}[40]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://www.faa.gov/nextgen/programs/adsb/archival/media/gdl90\_public\_icd\_reva.pdf}
 %
 \end{footnote}.
@@ -2060,7 +2124,7 @@ Specification}%
 \sphinxAtStartPar
 Datagrams in XGPS format must conform to the format specified on the
 \sphinxhref{https://www.foreflight.com/support/network-gps/}{ForeFlight Web site}%
-\begin{footnote}[37]\sphinxAtStartFootnote
+\begin{footnote}[41]\sphinxAtStartFootnote
 \sphinxnolinkurl{https://www.foreflight.com/support/network-gps/}
 %
 \end{footnote}.

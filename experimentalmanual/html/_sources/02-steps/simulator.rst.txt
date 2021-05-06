@@ -6,6 +6,10 @@ has been tested with the following programs.
 
 - `X-Plane 11 <https://www.x-plane.com/>`_
 
+Users have reported success with the following programs.
+
+- `X-Plane 10 <https://www.x-plane.com/>`_
+
 Please contact us if you are aware of other programs that also work.
 
 .. note:: **Enroute Flight Navigation** treats flight simulators as traffic
@@ -39,6 +43,19 @@ setup required.  As soon as the flight simulator starts to broadcast information
 over the Wi-Fi network, the moving map of **Enroute Flight Navigation** will
 adjust accordingly.  To end the connection to the flight simulator, simply leave
 the flight simulator's Wi-Fi network.
+
+
+X-Plane 10
+^^^^^^^^^^
+
+Follow the explanation on `this page
+<https://www.x-plane.com/2012/08/foreflight-charts-supported-in-x-plane-10-10-beta-9/>`_,
+which explains how to connect X-Plane 10 to the commercial app ForeFlight.  In
+short: Open the "Settings" window and click "Internet Options". There, go to the
+"iPhone/iPod" tab and turn on the "ForeFlight" option.  Please be sure to
+disable output of data on tab "Data".
+
+.. image:: X-Plane-10.png
 
 
 X-Plane 11

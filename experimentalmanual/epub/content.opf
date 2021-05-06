@@ -12,8 +12,8 @@
     <dc:publisher>Stefan Kebekus</dc:publisher>
     <dc:rights>2021, Stefan Kebekus</dc:rights>
     <dc:identifier id="unknown">unknown</dc:identifier>
-    <dc:date>2021-05-05T16:23:01Z</dc:date>
-    <meta property="dcterms:modified">2021-05-05T16:23:01Z</meta>
+    <dc:date>2021-05-06T05:38:23Z</dc:date>
+    <meta property="dcterms:modified">2021-05-06T05:38:23Z</meta>
     <meta property="ibooks:version"></meta>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="ibooks:binding">true</meta>
@@ -27,47 +27,50 @@
     <item id="epub-2" href="01-intro/01-think.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-3" href="01-intro/02-installation.xhtml" media-type="application/xhtml+xml" />
     <item id="epub-4" href="01-intro/03-firstFlight.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-5" href="02-steps/simulator.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-6" href="02-steps/traffic.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-7" href="03-reference/airspace_display.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-8" href="03-reference/map_data.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-9" href="03-reference/weather.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-10" href="04-appendix/licenses.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-11" href="04-appendix/technical.xhtml" media-type="application/xhtml+xml" />
-    <item id="epub-12" href="_images/NorthArrow.png" media-type="image/png" />
-    <item id="epub-13" href="_images/X-Plane-11.png" media-type="image/png" />
-    <item id="epub-14" href="_images/de.akaflieg_freiburg.enroute.png" media-type="image/png" />
-    <item id="epub-15" href="_images/fig_AirspaceMUC.png" media-type="image/png" />
-    <item id="epub-16" href="_images/fig_Restricted.png" media-type="image/png" />
-    <item id="epub-17" href="_images/fig_Weather.png" media-type="image/png" />
-    <item id="epub-18" href="_images/fig_WeatherDetail.png" media-type="image/png" />
-    <item id="epub-19" href="_images/fig_flight.png" media-type="image/png" />
-    <item id="epub-20" href="_images/fig_ground.png" media-type="image/png" />
-    <item id="epub-21" href="_images/fig_nra.png" media-type="image/png" />
-    <item id="epub-22" href="_images/fig_wpInfo.png" media-type="image/png" />
-    <item id="epub-23" href="_images/ic_add.png" media-type="image/png" />
-    <item id="epub-24" href="_images/ic_menu.png" media-type="image/png" />
-    <item id="epub-25" href="_images/ic_my_location.png" media-type="image/png" />
-    <item id="epub-26" href="_images/ic_remove.png" media-type="image/png" />
-    <item id="epub-27" href="_static/basic.css" media-type="text/css" />
-    <item id="epub-28" href="_static/epub.css" media-type="text/css" />
-    <item id="epub-29" href="_static/file.png" media-type="image/png" />
-    <item id="epub-30" href="_static/minus.png" media-type="image/png" />
-    <item id="epub-31" href="_static/plus.png" media-type="image/png" />
-    <item id="epub-32" href="_static/pygments.css" media-type="text/css" />
+    <item id="epub-5" href="02-steps/donate.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-6" href="02-steps/simulator.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-7" href="02-steps/traffic.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-8" href="03-reference/airspace_display.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-9" href="03-reference/map_data.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-10" href="03-reference/weather.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-11" href="04-appendix/licenses.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-12" href="04-appendix/technical.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-13" href="_images/NorthArrow.png" media-type="image/png" />
+    <item id="epub-14" href="_images/X-Plane-10.png" media-type="image/png" />
+    <item id="epub-15" href="_images/X-Plane-11.png" media-type="image/png" />
+    <item id="epub-16" href="_images/de.akaflieg_freiburg.enroute.png" media-type="image/png" />
+    <item id="epub-17" href="_images/fig_AirspaceMUC.png" media-type="image/png" />
+    <item id="epub-18" href="_images/fig_Restricted.png" media-type="image/png" />
+    <item id="epub-19" href="_images/fig_Weather.png" media-type="image/png" />
+    <item id="epub-20" href="_images/fig_WeatherDetail.png" media-type="image/png" />
+    <item id="epub-21" href="_images/fig_flight.png" media-type="image/png" />
+    <item id="epub-22" href="_images/fig_ground.png" media-type="image/png" />
+    <item id="epub-23" href="_images/fig_nra.png" media-type="image/png" />
+    <item id="epub-24" href="_images/fig_wpInfo.png" media-type="image/png" />
+    <item id="epub-25" href="_images/ic_add.png" media-type="image/png" />
+    <item id="epub-26" href="_images/ic_menu.png" media-type="image/png" />
+    <item id="epub-27" href="_images/ic_my_location.png" media-type="image/png" />
+    <item id="epub-28" href="_images/ic_remove.png" media-type="image/png" />
+    <item id="epub-29" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-30" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-31" href="_static/file.png" media-type="image/png" />
+    <item id="epub-32" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-33" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-34" href="_static/pygments.css" media-type="text/css" />
   </manifest>
   <spine toc="ncx" page-progression-direction="ltr">
     <itemref idref="epub-1" />
     <itemref idref="epub-2" />
     <itemref idref="epub-3" />
     <itemref idref="epub-4" />
+    <itemref idref="epub-7" />
     <itemref idref="epub-6" />
     <itemref idref="epub-5" />
-    <itemref idref="epub-8" />
-    <itemref idref="epub-7" />
     <itemref idref="epub-9" />
+    <itemref idref="epub-8" />
     <itemref idref="epub-10" />
     <itemref idref="epub-11" />
+    <itemref idref="epub-12" />
     <itemref idref="epub-0" />
   </spine>
   <guide>

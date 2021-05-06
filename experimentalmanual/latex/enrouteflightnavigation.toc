@@ -21,35 +21,37 @@
 \contentsline {section}{\numberline {4.3}Troubleshooting}{14}{section.4.3}%
 \contentsline {chapter}{\numberline {5}Connect your flight simulator}{15}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Before you connect}{15}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Set up your flight simulator}{15}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}X\sphinxhyphen {}Plane 11}{16}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}MS Flight Simulator}{16}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}Other programs}{16}{subsection.5.2.3}%
-\contentsline {section}{\numberline {5.3}Troubleshooting}{16}{section.5.3}%
-\contentsline {chapter}{\numberline {6}Map Data}{17}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Other}{19}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Flight mode and ground mode}{21}{section.7.1}%
-\contentsline {chapter}{\numberline {8}Airspace Display}{23}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Controlled Airspace}{24}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Control Zone}{24}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Transponder Mandatory Zones}{25}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Radio Mandatory Zone}{25}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Parachute Jumping Areas}{25}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Nature Reserve Areas}{25}{section.8.6}%
-\contentsline {section}{\numberline {8.7}Airfields}{27}{section.8.7}%
-\contentsline {section}{\numberline {8.8}Approach and Departure Routes}{27}{section.8.8}%
-\contentsline {chapter}{\numberline {9}Weather}{29}{chapter.9}%
-\contentsline {part}{I\hspace {1em}Appendix}{33}{part.1}%
-\contentsline {chapter}{\numberline {10}Software licenses}{35}{chapter.10}%
-\contentsline {section}{\numberline {10.1}License of Enroute Flight Navigation}{35}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Third\sphinxhyphen {}Party software included in this program}{35}{section.10.2}%
-\contentsline {section}{\numberline {10.3}Data included in this program}{35}{section.10.3}%
-\contentsline {section}{\numberline {10.4}Base maps}{36}{section.10.4}%
-\contentsline {section}{\numberline {10.5}Aviation maps}{36}{section.10.5}%
-\contentsline {chapter}{\numberline {11}Technical Notes}{39}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Platform notes}{39}{section.11.1}%
-\contentsline {subsection}{\numberline {11.1.1}Android}{39}{subsection.11.1.1}%
-\contentsline {section}{\numberline {11.2}Traffic Receiver}{39}{section.11.2}%
-\contentsline {subsection}{\numberline {11.2.1}Communication}{39}{subsection.11.2.1}%
-\contentsline {subsection}{\numberline {11.2.2}Known issues}{40}{subsection.11.2.2}%
-\contentsline {subsection}{\numberline {11.2.3}ForeFlight Broadcast}{40}{subsection.11.2.3}%
+\contentsline {section}{\numberline {5.2}Set up your flight simulator}{16}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}X\sphinxhyphen {}Plane 10}{16}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}X\sphinxhyphen {}Plane 11}{17}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}MS Flight Simulator}{17}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.4}Other programs}{17}{subsection.5.2.4}%
+\contentsline {section}{\numberline {5.3}Troubleshooting}{17}{section.5.3}%
+\contentsline {chapter}{\numberline {6}Make a donation}{19}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Map Data}{21}{chapter.7}%
+\contentsline {chapter}{\numberline {8}Other}{23}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Flight mode and ground mode}{25}{section.8.1}%
+\contentsline {chapter}{\numberline {9}Airspace Display}{27}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Controlled Airspace}{28}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Control Zone}{28}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Transponder Mandatory Zones}{29}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Radio Mandatory Zone}{29}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Parachute Jumping Areas}{29}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Nature Reserve Areas}{29}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Airfields}{31}{section.9.7}%
+\contentsline {section}{\numberline {9.8}Approach and Departure Routes}{31}{section.9.8}%
+\contentsline {chapter}{\numberline {10}Weather}{33}{chapter.10}%
+\contentsline {part}{I\hspace {1em}Appendix}{37}{part.1}%
+\contentsline {chapter}{\numberline {11}Software licenses}{39}{chapter.11}%
+\contentsline {section}{\numberline {11.1}License of Enroute Flight Navigation}{39}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Third\sphinxhyphen {}Party software included in this program}{39}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Data included in this program}{39}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Base maps}{40}{section.11.4}%
+\contentsline {section}{\numberline {11.5}Aviation maps}{40}{section.11.5}%
+\contentsline {chapter}{\numberline {12}Technical Notes}{43}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Platform notes}{43}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}Android}{43}{subsection.12.1.1}%
+\contentsline {section}{\numberline {12.2}Traffic Receiver}{43}{section.12.2}%
+\contentsline {subsection}{\numberline {12.2.1}Communication}{43}{subsection.12.2.1}%
+\contentsline {subsection}{\numberline {12.2.2}Known issues}{44}{subsection.12.2.2}%
+\contentsline {subsection}{\numberline {12.2.3}ForeFlight Broadcast}{44}{subsection.12.2.3}%
