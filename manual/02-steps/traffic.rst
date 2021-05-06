@@ -19,6 +19,11 @@ Users reported success with the following traffic receivers.
 - `TTGO T-Beam devices <https://www.amazon.de/TTGO-T-Beam-915Mhz-Wireless-Bluetooth/dp/B07SFVQ3Z8>`_
 
 
+.. note:: To show only relevant traffic, **Enroute Flight Navigation** will
+    display traffic factors only if the vertical distance is less than 1.500m
+    and and the horizontal distance less than 20km.
+
+
 Before you connect
 ------------------
 
