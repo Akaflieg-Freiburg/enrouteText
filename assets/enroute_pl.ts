@@ -2659,7 +2659,68 @@ oraz **importu planu lotu**.
   &lt;/tr&gt;
 &lt;/table&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Authors&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt; Aplikacja &lt;strong&gt; Enroute Flight Navigation &lt;/strong&gt; została napisana przez Stefana Kebekusa, entuzjastę lotów od 1986 roku i członka klubu lotniczego Akaflieg Freiburg. Stefan lata na szybowcach i samolotach motorowych. &lt;/p&gt;
+      &lt;h4&gt;Adres&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstraße 77&lt;br&gt;
+      79104 Freiburg&lt;br&gt;
+      Germany&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Pic: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;br&gt;
+      &lt;h3&gt;Współpracujący autorzy&lt;/h3&gt;
+      &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Adrien Crovato jest prywatnym pilotem i inżynierem lotniczym. Dołączył do zespołu programistów w 2020 roku i współtworzy bazę kodu C ++ i QML.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Heiner Tholen lubi budować rzeczy analogowe i cyfrowe, zarówno lotnicze, jak i naziemne. Używa Enroute jako pilota samolotów ultralekkich. Heiner dołączył do zespołu Enroute w połowie 2020 roku i współtworzy bazę kodu C ++ / QML.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
+     &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Johannes Zellner dołączył do rozwoju w 2020 roku. Wnosi wkład w bazę kodu C ++ i QML aplikacji oraz pomaga w naprawianiu błędów.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="113"/>
@@ -2685,7 +2746,28 @@ oraz **importu planu lotu**.
 &lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Podręcznik&lt;/h3&gt;
+
+&lt;p&gt;Podręcznik został uprzejmie udostępniony przez Michaela Horbaschka.&lt;/p&gt;
+
+&lt;h3&gt;Tłumaczenia&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Francuski:&lt;/strong&gt; Adrien Crovato. Adrien został opisany powyżej.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Niemiecki:&lt;/strong&gt; Markus Sachs. Markus lata trójkołowcami i jest entuzjastycznym „współpracownikiem” na każdym innym, co lata.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Włoski:&lt;/strong&gt; Ivan Battistella.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Polski:&lt;/strong&gt; Sławek Mikuła.&lt;/p&gt;
+
+&lt;h3&gt;Alumni&lt;/h3&gt;
+
+&lt;p&gt;Luca Bertoncello (włoskie tłumaczenie)&lt;/p&gt;
+
+&lt;p&gt;Szymon Kocur (polskie tłumaczenie)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="138"/>
@@ -2834,7 +2916,16 @@ has been tested with the following programs.&lt;/p&gt;
 
 &lt;p&gt;Please contact us if you are aware of other programs that also work.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; można podłączyć do symulatora logów.  Aplikacja
+została przetestowana z następującymi programami.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;X-Plane 11.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Proszę skontaktuj się z nami, jeśli wiesz o innych programach, które również działają.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="349"/>
@@ -2856,7 +2947,24 @@ following conditions are met.&lt;/p&gt;
   transfer between the devices in the &quot;guest network&quot;&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Przed podłączeniem&lt;/h2&gt;
+
+&lt;p&gt;Ta instrukcja zakłada standardową domową konfigurację, gdzie obydwa komputery, na których działają
+symulator lotu oraz urządzenie, które posiada &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; są
+podłączone do sieci Wi-Fi uruchomionej przez domowy router. Upewnij się czy
+podane warunki są spełnione.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Komputer, na którym uruchomiony jest symulator lotu oraz urządzenie z &lt;strong&gt;Enroute
+  Flight Navigation&lt;/strong&gt; są podłączone do tej samej sieci Wi-Fi. Niektóre routery
+  uruchamiają dwie sieci, często zwaje &quot;główną siecią&quot; oraz &quot;siecią gościnną&quot;.&lt;/li&gt;
+
+  &lt;li&gt;Upewnij się, że router pozwala na transfer danych pomiędzy urządzeniami w
+  sieci Wi-Fi.  Niektóre routery mają &quot;ustawienia bezpieczeństwa&quot; które nie pozwalają
+  na transfer danych pomiędzy urządzeniami w &quot;sieci gościnnej&quot;&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="366"/>
@@ -2871,7 +2979,17 @@ adjust accordingly.  To end the connection to the flight simulator, simply leave
 the flight simulator&apos;s Wi-Fi network.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Skonfiguruj symulator lotu&lt;/h2&gt;
+
+&lt;p&gt;Twój symulator lotu powinien przesyłać pozycję i informację
+o ruchu lotniczym przez sieć Wi-Fi.  Jak jest to zrobione, nie wymagana jest dodatkowa
+konfiguracja.  Tak szybko jest symulator lotu zacznie przesyłać informację
+przez sieć Wi-Fi, ruchoma mapa &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; zacznie
+się odpowiednio dostosowywać.  Aby zakończć połączenie do symulatora lotu, po prostu opuść
+sieć Wi-Fi symulatora lotu.&lt;/p&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="376"/>
@@ -2883,7 +3001,14 @@ group &quot;This machine&apos;s role&quot; on the right-hand side of the tab. Op
 &quot;iPHONE, iPAD, and EXTERNAL APPS&quot; and select the item &quot;Broadcast to all mapping
 apps on the network&quot; under the headline &quot;OTHER MAPPING APPS&quot;.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;X-Plane 11&lt;/h3&gt;
+
+&lt;p&gt;Otwórz okno &quot;Ustawień&quot; i wybierz załadkę &quot;Sieć&quot;. Znajdź grupę ustawień
+&quot;Rola tej maszyny&quot; po prawej stronie zakładki. Otwórz sekcję
+&quot;iPHONE, iPAD, oraz ZEWNĘTRZNE APLIKACJE&quot; i wybierz opcję &quot;Przesyłaj do wszystkich aplikacji
+do map w sieci&quot; pod nagłówkiem &quot;INNE APLIKACJE DO MAP&quot;.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="383"/>
@@ -2896,7 +3021,14 @@ If the MS Flight Simulator works for you, please be in touch.  The article
 do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
 might be helpful.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
+
+&lt;p&gt;Nieznane jak do teraz, jako że autor nie posiada dostępu do tego programu.
+Jeśli symulator MS Flight Simulator działa dla ciebie, proszę bądź w kontakcie.  Artykuł
+&lt;a href=&quot;https://support.foreflight.com/hc/en-us/articles/204115275-How-do-I-connect-Microsoft-Flight-Simulator-FS-X-or-FS-2004-to-ForeFlight-&quot;&gt;Jak
+podłączyć Microsoft Flight Simulator 2020 (MSFS2020) do ForeFlight?&lt;/a&gt;
+może być pomocny.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="391"/>
@@ -2907,7 +3039,12 @@ might be helpful.&lt;/p&gt;
 standard formats &quot;GDL90&quot; or &quot;XGPS&quot; to ports 4000 or 49002.  Given the choice,
 GDL90 is generally the preferred format.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Inne programy&lt;/h3&gt;
+
+&lt;p&gt;Symulator lotu musi być ustawiony aby wysyłać datagramy UDP w jednym ze standardowych formatów
+&quot;GDL90&quot; lub &quot;XGPS&quot; na porty 4000 lub 49002.  Mając wybór,
+GDL90 jest ogólnie preferowanym formatem.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="397"/>
@@ -2921,7 +3058,16 @@ Flight Navigation&lt;/strong&gt; has already found the program in the network an
 connected to it.  If not, then select the entry. The &quot;Traffic Receiver Status&quot;
 page will open, which explains the connection status in more detail.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h2&gt;Rozwiązywanie problemów&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; traktuje symulator lotu jak odbiornik ruchu lotniczego.  Aby
+zobaczyć status połączenia, otwórz główne menu i nawiguj do menu &quot;Informacje&quot;.
+  Jeśłi wpis &quot;Odbiornik ruchu lotniczego&quot; jest podświetlony na zielono, to &lt;strong&gt;Enroute
+Flight Navigation&lt;/strong&gt; już znalazł program w sieci i podłączył sę do niego.
+  Jeśli nie, wybierz ten wpis. Strona &quot;Status odbiornika ruchu lotniczego&quot;
+się otworzy, wyjaśniając dokładniej status połączenia.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="434"/>
@@ -2931,12 +3077,12 @@ page will open, which explains the connection status in more detail.&lt;/p&gt;
     <message>
         <location filename="../../../src/Librarian.cpp" line="436"/>
         <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format, such as the popular [SkyEcho](https://uavionix.com/products/skyecho/).</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprócz FLARM, aplikacja aktualnie wspiera odbiorniki ruchu lotniczego, które przesyłają dane w formacie GDL90, taki jak popularny [SkyEcho](https://uavionix.com/products/skyecho/).</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="437"/>
         <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) or the popular [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab).  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikacja może być obecnie używana również z symulatorami lotu takimi jak [XPlane](https://www.x-plane.com/) lub popularny [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab).  Otwórz główne menu, idź do **Ustawień** aby dowiedzieć się więcej. Proszę skontaktuj się z nami jeśli posiadasz MS Flight Simulator i chcesz pomóc z testowaniem.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="435"/>
@@ -3866,12 +4012,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
         <source>How to connect your flight simulator…</source>
-        <translation type="unfinished"></translation>
+        <translation>Jak podłączyć twój symulator lotu...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="150"/>
         <source>Connect your flight simulator</source>
-        <translation type="unfinished"></translation>
+        <translation>Podłącz twój symulator lotu</translation>
     </message>
     <message>
         <source>Libraries</source>
