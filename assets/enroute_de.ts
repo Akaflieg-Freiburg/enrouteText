@@ -1683,27 +1683,27 @@ eine Spende zukommen lassen. &lt;/p&gt;
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="146"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="147"/>
         <source>No information available.</source>
         <translation>Keine Information verfügbar.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="149"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="150"/>
         <source>Installed</source>
         <translation>Installiert</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="151"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="152"/>
         <source>File Size</source>
         <translation>Dateigröße</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="165"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="166"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>Die Kartendaten stammen aus folgenden Quellen:</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="195"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="196"/>
         <source>Internal Map Data</source>
         <translation>Interne Kartendaten</translation>
     </message>

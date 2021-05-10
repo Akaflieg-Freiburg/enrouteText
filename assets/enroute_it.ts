@@ -1684,27 +1684,27 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="146"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="147"/>
         <source>No information available.</source>
         <translation>Nessuna informazione disponibile.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="149"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="150"/>
         <source>Installed</source>
         <translation>Installata</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="151"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="152"/>
         <source>File Size</source>
         <translation>Dimensione File</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="165"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="166"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>I dati della mappa sono stati compilati dalle seguenti fonti.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="195"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="196"/>
         <source>Internal Map Data</source>
         <translation>Dati mappa interni</translation>
     </message>
