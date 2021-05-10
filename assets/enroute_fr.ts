@@ -1373,27 +1373,27 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="146"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="147"/>
         <source>No information available.</source>
         <translation>Aucune information disponible</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="149"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="150"/>
         <source>Installed</source>
         <translation>Installée</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="151"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="152"/>
         <source>File Size</source>
         <translation>Taille du fichier</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="165"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="166"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>Les données de carte ont été compilées depuis les sources suivantes.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="195"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="196"/>
         <source>Internal Map Data</source>
         <translation>Données de carte internes</translation>
     </message>
