@@ -14,6 +14,7 @@
 - `Data Compression Library (zlib) <http://zlib.net/>`_. zlib License.
 - `DejaVu Fonts <https://dejavu-fonts.github.io/>`_. Bitstream Vera Font License.
 - `Earcut Polygon Triangulation Library <https://github.com/mapbox/earcut.hpp>`_. ISC License.
+- `Earth Gravitational Model <https://earth-info.nga.mil>`_. Public Domain.
 - `Easing Equations by Robert Penner <http://robertpenner.com/easing/>`_. BSD 3-clause "New" or "Revised" License.
 - `Efficient Binary-Decimal and Decimal-Binary Conversion Routines for IEEE Doubles <https://github.com/google/double-conversion>`_. BSD 3-clause "New" or "Revised" License.
 - forkfd. MIT License.
@@ -82,4 +83,3 @@
 - `X Server helper <https://www.x.org/>`_. X11 License and Historical Permission Notice and Disclaimer.
 - `XCB-XInput <https://xcb.freedesktop.org/>`_. MIT License.
 - XSVG. Historical Permission Notice and Disclaimer - sell variant.
-

@@ -21,11 +21,6 @@ jobs:
       run: |
         cd EnrouteManual
         libreoffice --convert-to pdf IntroducingEnroute.odt
-    - name: Check hyperlinks in sphinx manual
-      run: |
-        export PATH=~/.local/bin:$PATH
-        cd manual
-        make linkcheck
     - name: Generate sphinx manual
       run: |
         export PATH=~/.local/bin:$PATH

@@ -1970,7 +1970,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Jeśli płynnie programujesz w C++ i chciałbyś &lt;strong&gt;pomóc z programowaniem&lt;/strong&gt;, to &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;daj nam znać&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="410"/>
+        <location filename="../../../src/Librarian.cpp" line="460"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -2379,7 +2379,7 @@ losowo, jeśli więcej niż jedno urządzenie próbuje uzyskać dostęp.
   przeglądarki internetowej. Zamknij wszystkie przeglądarki internetowe.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="424"/>
+        <location filename="../../../src/Librarian.cpp" line="474"/>
         <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
       
 &lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
@@ -2814,7 +2814,6 @@ oraz **importu planu lotu**.
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="203"/>
         <source>&lt;h3&gt;License&lt;/h3&gt;
 
 &lt;p&gt;This program is licensed under the &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; or, at your choice, any later version of this license.&lt;/p&gt;
@@ -2828,7 +2827,7 @@ oraz **importu planu lotu**.
 &lt;p&gt;The style specification of the basemap is a modified version of the &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, which is in turn originally derived from OSM Bright from Mapbox Open Styles. The code is licenses under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. The design is derived (although heavily altered) from OSM Bright from Mapbox Open Styles which is licensed under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. The map is displaying and styling modified data from &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; with &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
 
                   &lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Licencja&lt;/h3&gt;
+        <translation type="vanished">&lt;h3&gt;Licencja&lt;/h3&gt;
 
 &lt;p&gt;Ten program jest objęty licencją na podstawie &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;Powszechnej Licencji Publicznej GNU V3&lt;/a&gt; lub, według własnego uznania, każdej późniejszej wersji tej licencji.&lt;/p&gt;
 
@@ -2843,7 +2842,80 @@ oraz **importu planu lotu**.
                   &lt;p&gt;Mapa wyświetla i stylizuje dane z &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, które jest objęte licencją &lt;a href = &quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;Licencja CC BY-NC-SA&lt;/a&gt;. Mapa wyświetla również i stylizuje dane z &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;openflightmaps&lt;/a&gt;, które są licencjonowane na podstawie &lt;a href = &quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt; Licencja dla użytkowników ogólnych OFMA &lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="219"/>
+        <location filename="../../../src/Librarian.cpp" line="207"/>
+        <source>
+&lt;h3&gt;License&lt;/h3&gt;
+
+&lt;p&gt;
+  The program &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;
+  is licensed under the &lt;a
+  href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU
+  General Public License V3&lt;/a&gt; or, at your choice, any later
+  version of this license.
+&lt;/p&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="217"/>
+        <source>
+&lt;h4&gt;Geographic maps&lt;/h4&gt;
+
+&lt;p&gt;
+  As a flight navigation program, &lt;strong&gt;Enroute Flight
+  Navigation&lt;/strong&gt; heavily relies on geographic map
+  data. The geographic maps are not included in the
+  program, but are downloaded at runtime. They are compiled
+  from the following sources.
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;
+    The base maps are modified data from &lt;a
+    href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt;,
+    published under a
+    &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY
+    4.0 design license&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    The aviation maps contain data from &lt;a
+    href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, licensed
+    under a &lt;a
+    href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0&quot;&gt;CC
+    BY-NC-SA license&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    The aviation maps contain data from &lt;a
+    href=&quot;https://www.openflightmaps.org&quot;&gt;open
+    flightmaps&lt;/a&gt;, licensed under the &lt;a
+    href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA
+    General Users License&lt;/a&gt;.
+  &lt;/li&gt;
+&lt;/ul&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="253"/>
+        <source>
+&lt;h4&gt;Software and data included in the program&lt;/h4&gt;
+
+&lt;p&gt;
+  Depending on platform and configuration, the following
+  components might be included in the installation of
+  &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+%1
+&lt;/ul&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="269"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -2864,7 +2936,7 @@ oraz **importu planu lotu**.
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="231"/>
+        <location filename="../../../src/Librarian.cpp" line="281"/>
         <source>
 &lt;p&gt;In order to display nearby traffic on the moving map, &lt;strong&gt;Enroute Flight
 Navigation&lt;/strong&gt; can connect to your aircraft&apos;s traffic receiver (typically a FLARM
@@ -2905,7 +2977,7 @@ następującymi odbiornikami ruchu lotniczego.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="340"/>
+        <location filename="../../../src/Librarian.cpp" line="390"/>
         <source>
 &lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; can connect to flight simulator software.  The app
 has been tested with the following programs.&lt;/p&gt;
@@ -2928,7 +3000,7 @@ została przetestowana z następującymi programami.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="349"/>
+        <location filename="../../../src/Librarian.cpp" line="399"/>
         <source>
 &lt;h2&gt;Before you connect&lt;/h2&gt;
 
@@ -2967,7 +3039,7 @@ podane warunki są spełnione.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="366"/>
+        <location filename="../../../src/Librarian.cpp" line="416"/>
         <source>
 &lt;h2&gt;Set up your flight simulator&lt;/h2&gt;
 
@@ -2992,7 +3064,7 @@ sieć Wi-Fi symulatora lotu.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="376"/>
+        <location filename="../../../src/Librarian.cpp" line="426"/>
         <source>
 &lt;h3&gt;X-Plane 11&lt;/h3&gt;
 
@@ -3011,7 +3083,7 @@ do map w sieci&quot; pod nagłówkiem &quot;INNE APLIKACJE DO MAP&quot;.&lt;/p&g
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="383"/>
+        <location filename="../../../src/Librarian.cpp" line="433"/>
         <source>
 &lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
 
@@ -3031,7 +3103,7 @@ podłączyć Microsoft Flight Simulator 2020 (MSFS2020) do ForeFlight?&lt;/a&gt;
 może być pomocny.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="391"/>
+        <location filename="../../../src/Librarian.cpp" line="441"/>
         <source>
 &lt;h3&gt;Other programs&lt;/h3&gt;
 
@@ -3047,7 +3119,7 @@ GDL90 is generally the preferred format.&lt;/p&gt;
 GDL90 jest ogólnie preferowanym formatem.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="397"/>
+        <location filename="../../../src/Librarian.cpp" line="447"/>
         <source>
 &lt;h2&gt;Troubleshooting&lt;/h2&gt;
 
@@ -3070,22 +3142,22 @@ się otworzy, wyjaśniając dokładniej status połączenia.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="434"/>
+        <location filename="../../../src/Librarian.cpp" line="484"/>
         <source>Test-release for GDL90 and XGPS support</source>
         <translation>Testowe wydanie ze wsparciem dla GDL90 i XGPS</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="436"/>
+        <location filename="../../../src/Librarian.cpp" line="486"/>
         <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format, such as the popular [SkyEcho](https://uavionix.com/products/skyecho/).</source>
         <translation>Oprócz FLARM, aplikacja aktualnie wspiera odbiorniki ruchu lotniczego, które przesyłają dane w formacie GDL90, taki jak popularny [SkyEcho](https://uavionix.com/products/skyecho/).</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="437"/>
+        <location filename="../../../src/Librarian.cpp" line="487"/>
         <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) or the popular [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab).  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
         <translation>Aplikacja może być obecnie używana również z symulatorami lotu takimi jak [XPlane](https://www.x-plane.com/) lub popularny [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab).  Otwórz główne menu, idź do **Ustawień** aby dowiedzieć się więcej. Proszę skontaktuj się z nami jeśli posiadasz MS Flight Simulator i chcesz pomóc z testowaniem.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="435"/>
+        <location filename="../../../src/Librarian.cpp" line="485"/>
         <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
         <translation>**Potrzebujemy pomocy z włoskim tłumaczeniem** Jeśli chciałbyś pomóc, mówisz po Włosku i wiesz jak używać systemu kontroli wersji GIT, proszę skontaktuj się z nami.</translation>
     </message>
@@ -3112,7 +3184,7 @@ Document (ICD)”, wersja 7.13, opublikowana przez FLARM Technology Ltd.&lt;/p&g
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="249"/>
+        <location filename="../../../src/Librarian.cpp" line="299"/>
         <source>
 &lt;h2&gt;Before you connect&lt;/h2&gt;
 
@@ -3151,7 +3223,7 @@ that the following conditions are met.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="267"/>
+        <location filename="../../../src/Librarian.cpp" line="317"/>
         <source>
 &lt;h2&gt;Connecting to the traffic receiver&lt;/h2&gt;
 
@@ -3173,7 +3245,7 @@ dołączać się do jego sieci i łączyć ze strumieniem danych o ruchu lotnicz
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="276"/>
+        <location filename="../../../src/Librarian.cpp" line="326"/>
         <source>
 &lt;h3&gt;Step 1: Enter the traffic receiver&apos;s WLAN network&lt;/h3&gt;
 
@@ -3218,7 +3290,7 @@ użycie tej opcji.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="296"/>
+        <location filename="../../../src/Librarian.cpp" line="346"/>
         <source>
 &lt;h3&gt;Step 2: Connect to the traffic data stream&lt;/h3&gt;
 
@@ -3253,7 +3325,7 @@ stan połączenia i wyjaśnia, jak nawiązać połączenie ręcznie.&lt;/li&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="311"/>
+        <location filename="../../../src/Librarian.cpp" line="361"/>
         <source>
 &lt;h2&gt;Troubleshooting&lt;/h2&gt;
 
