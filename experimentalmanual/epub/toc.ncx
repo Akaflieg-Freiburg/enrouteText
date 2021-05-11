@@ -324,99 +324,87 @@
     </navPoint>
     <navPoint id="navPoint53" playOrder="44">
       <navLabel>
-        <text>Software licenses</text>
+        <text>Software license</text>
       </navLabel>
-      <content src="04-appendix/licenses.xhtml" />  
-      <navPoint id="navPoint54" playOrder="44">
-        <navLabel>
-          <text>Software licenses</text>
-        </navLabel>
-        <content src="04-appendix/licenses.xhtml" />  
-      </navPoint>
+      <content src="04-appendix/license_enroute.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint54" playOrder="45">
+      <navLabel>
+        <text>Third party software and data</text>
+      </navLabel>
+      <content src="04-appendix/license_3rdParty.xhtml" />  
       <navPoint id="navPoint55" playOrder="45">
         <navLabel>
-          <text>License of Enroute Flight Navigation</text>
+          <text>Third party software and data</text>
         </navLabel>
-        <content src="04-appendix/licenses.xhtml#license-of-enroute-flight-navigation" />  
+        <content src="04-appendix/license_3rdParty.xhtml" />  
       </navPoint>
       <navPoint id="navPoint56" playOrder="46">
         <navLabel>
-          <text>Third-Party software included in this program</text>
+          <text>Geographic maps</text>
         </navLabel>
-        <content src="04-appendix/licenses.xhtml#third-party-software-included-in-this-program" />  
+        <content src="04-appendix/license_3rdParty.xhtml#geographic-maps" />  
       </navPoint>
       <navPoint id="navPoint57" playOrder="47">
         <navLabel>
-          <text>Data included in this program</text>
+          <text>Software and data included in the program</text>
         </navLabel>
-        <content src="04-appendix/licenses.xhtml#data-included-in-this-program" />  
-      </navPoint>
-      <navPoint id="navPoint58" playOrder="48">
-        <navLabel>
-          <text>Base maps</text>
-        </navLabel>
-        <content src="04-appendix/licenses.xhtml#base-maps" />  
-      </navPoint>
-      <navPoint id="navPoint59" playOrder="49">
-        <navLabel>
-          <text>Aviation maps</text>
-        </navLabel>
-        <content src="04-appendix/licenses.xhtml#aviation-maps" />  
+        <content src="04-appendix/license_3rdParty.xhtml#software-and-data-included-in-the-program" />  
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint60" playOrder="50">
+    <navPoint id="navPoint58" playOrder="48">
       <navLabel>
         <text>Technical Notes</text>
       </navLabel>
       <content src="04-appendix/technical.xhtml" />  
-      <navPoint id="navPoint61" playOrder="50">
+      <navPoint id="navPoint59" playOrder="48">
         <navLabel>
           <text>Technical Notes</text>
         </navLabel>
         <content src="04-appendix/technical.xhtml" />  
       </navPoint>
-      <navPoint id="navPoint62" playOrder="51">
+      <navPoint id="navPoint60" playOrder="49">
         <navLabel>
           <text>Platform notes</text>
         </navLabel>
         <content src="04-appendix/technical.xhtml#platform-notes" />  
-        <navPoint id="navPoint63" playOrder="51">
+        <navPoint id="navPoint61" playOrder="49">
           <navLabel>
             <text>Platform notes</text>
           </navLabel>
           <content src="04-appendix/technical.xhtml#platform-notes" />  
         </navPoint>
-        <navPoint id="navPoint64" playOrder="52">
+        <navPoint id="navPoint62" playOrder="50">
           <navLabel>
             <text>Android</text>
           </navLabel>
           <content src="04-appendix/technical.xhtml#android" />  
         </navPoint>
       </navPoint>
-      <navPoint id="navPoint65" playOrder="53">
+      <navPoint id="navPoint63" playOrder="51">
         <navLabel>
           <text>Traffic Receiver</text>
         </navLabel>
         <content src="04-appendix/technical.xhtml#traffic-receiver" />  
-        <navPoint id="navPoint66" playOrder="53">
+        <navPoint id="navPoint64" playOrder="51">
           <navLabel>
             <text>Traffic Receiver</text>
           </navLabel>
           <content src="04-appendix/technical.xhtml#traffic-receiver" />  
         </navPoint>
-        <navPoint id="navPoint67" playOrder="54">
+        <navPoint id="navPoint65" playOrder="52">
           <navLabel>
             <text>Communication</text>
           </navLabel>
           <content src="04-appendix/technical.xhtml#communication" />  
         </navPoint>
-        <navPoint id="navPoint68" playOrder="55">
+        <navPoint id="navPoint66" playOrder="53">
           <navLabel>
             <text>Known issues</text>
           </navLabel>
           <content src="04-appendix/technical.xhtml#known-issues" />  
         </navPoint>
-        <navPoint id="navPoint69" playOrder="56">
+        <navPoint id="navPoint67" playOrder="54">
           <navLabel>
             <text>ForeFlight Broadcast</text>
           </navLabel>

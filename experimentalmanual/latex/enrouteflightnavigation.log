@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.6)  6 MAY 2021 05:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.5.11)  11 MAY 2021 14:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -143,8 +143,24 @@ Package babel Info: \l@australian = using hyphenrules for english
 Package babel Info: \l@newzealand = using hyphenrules for english
 (babel)             (\language0) on input line 108.
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
-Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+(/usr/share/texmf/tex/latex/tex-gyre/tgtermes.sty
+Package: tgtermes 2009/09/27 v1.2 TeX Gyre Termes as default roman family
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)))
+(/usr/share/texmf/tex/latex/tex-gyre/tgheros.sty
+Package: tgheros 2009/09/27 v1.2 TeX Gyre Heros as default sans serif family
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fncychap/fncychap.sty
 Package: fncychap 2007/07/30 v1.34 LaTeX package (Revised chapters)
@@ -168,120 +184,8 @@ Package color Info: Driver file: pdftex.def on input line 147.
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )))
 (./sphinx.sty
-Package: sphinx 2021/01/23 v3.5.0 LaTeX package (Sphinx markup)
- (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks21
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
-Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 105.
-)
-\Gin@req@height=\dimen145
-\Gin@req@width=\dimen146
-)
-(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
-s
-\f@nch@headwidth=\skip59
-\f@nch@O@elh=\skip60
-\f@nch@O@erh=\skip61
-\f@nch@O@olh=\skip62
-\f@nch@O@orh=\skip63
-\f@nch@O@elf=\skip64
-\f@nch@O@erf=\skip65
-\f@nch@O@olf=\skip66
-\f@nch@O@orf=\skip67
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-)
-(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box47
-\beforetitleunit=\skip68
-\aftertitleunit=\skip69
-\ttl@plus=\dimen147
-\ttl@minus=\dimen148
-\ttl@toksa=\toks22
-\titlewidth=\dimen149
-\titlewidthlast=\dimen150
-\titlewidthfirst=\dimen151
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
-Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
-
-(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
-\col@sep=\dimen152
-\ar@mcellbox=\box48
-\extrarowheight=\dimen153
-\NC@list=\toks23
-\extratabsurround=\skip70
-\backup@length=\skip71
-\ar@cellbox=\box49
-)
-\TY@count=\count190
-\TY@linewidth=\dimen154
-\tymin=\dimen155
-\tymax=\dimen156
-\TY@tablewidth=\dimen157
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
-Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
-\LTleft=\skip72
-\LTright=\skip73
-\LTpre=\skip74
-\LTpost=\skip75
-\LTchunksize=\count191
-\LTcapwidth=\dimen158
-\LT@head=\box50
-\LT@firsthead=\box51
-\LT@foot=\box52
-\LT@lastfoot=\box53
-\LT@cols=\count192
-\LT@rows=\count193
-\c@LT@tables=\count194
-\c@LT@chunks=\count195
-\LT@p@ftn=\toks24
-)
-(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
-Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box54
-\sift@deathcycles=\count196
-\@vwid@loff=\dimen159
-\@vwid@roff=\dimen160
-)
-(./sphinxmulticell.sty
-Package: sphinxmulticell 2017/02/23 v1.6 better span rows and columns of a tabl
-e (Sphinx team)
-\sphinx@TY@tablewidth=\dimen161
-)
-(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
-Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
-)
-(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
-Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip76
-\fb@frw=\dimen162
-\fb@frh=\dimen163
-\FrameRule=\dimen164
-\FrameSep=\dimen165
-)
-(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: sphinx 2021/01/27 v4.0.0 LaTeX package (Sphinx markup)
+ (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -299,81 +203,73 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
-Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
-\FV@CodeLineNo=\count197
-\FV@InFile=\read3
-\FV@TabBox=\box55
-\c@FancyVerbLine=\count198
-\FV@StepNumber=\count199
-\FV@OutFile=\write3
+\sphinxverbatimsep=\dimen145
+\sphinxverbatimborder=\dimen146
+\sphinxshadowsep=\dimen147
+\sphinxshadowsize=\dimen148
+\sphinxshadowrule=\dimen149
+\spx@notice@border=\dimen150
+
+(./sphinxoptionshyperref.sty
+File: sphinxoptionshyperref.sty 2021/01/27 hyperref
+) (./sphinxoptionsgeometry.sty
+File: sphinxoptionsgeometry.sty 2021/01/27 geometry
 )
-(./footnotehyper-sphinx.sty
-Package: footnotehyper-sphinx 2021/02/04 v1.1d hyperref aware footnote.sty for 
-sphinx (JFB)
-\FNH@notes=\box56
-\FNH@toks=\toks25
-\FNH@width=\dimen166
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count266
-\float@exts=\toks26
-\float@box=\box57
-\@float@everytoks=\toks27
-\@floatcapt=\box58
+\c@float@type=\count190
+\float@exts=\toks22
+\float@box=\box47
+\@float@everytoks=\toks23
+\@floatcapt=\box48
 )
 (/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen167
-\WF@size=\dimen168
-\c@WF@wrappedlines=\count267
-\WF@box=\box59
-\WF@everypar=\toks28
+\wrapoverhang=\dimen151
+\WF@size=\dimen152
+\c@WF@wrappedlines=\count191
+\WF@box=\box49
+\WF@everypar=\toks24
 Package: wrapfig 2003/01/31  v 3.6
-)
-(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
-Rollback for package 'parskip' requested -> version 'v1'.
-         This corresponds to the release introduced on 2001-04-09.
-
-(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip-2001-04-09.sty
-Package: parskip 2001/04/09 non-zero parskip adjustments
-))
-(/usr/share/texlive/texmf-dist/tex/latex/base/alltt.sty
-Package: alltt 1997/06/16 v2.0g defines alltt environment
-)
-(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
-Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
-tim
 )
 (/usr/share/texlive/texmf-dist/tex/latex/capt-of/capt-of.sty
 Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
 )
-(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
-Package: needspace 2010/09/12 v1.3d reserve vertical space
-)
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
-\c@tracingmulticols=\count268
-\mult@box=\box60
-\multicol@leftmargin=\dimen169
-\c@unbalance=\count269
-\c@collectmore=\count270
-\doublecol@number=\count271
-\multicoltolerance=\count272
-\multicolpretolerance=\count273
-\full@width=\dimen170
-\page@free=\dimen171
-\premulticols=\dimen172
-\postmulticols=\dimen173
-\multicolsep=\skip77
-\multicolbaselineskip=\skip78
-\partial@page=\box61
-\last@line=\box62
-\maxbalancingoverflow=\dimen174
-\mult@rightbox=\box63
-\mult@grightbox=\box64
-\mult@gfirstbox=\box65
-\mult@firstbox=\box66
+\c@tracingmulticols=\count192
+\mult@box=\box50
+\multicol@leftmargin=\dimen153
+\c@unbalance=\count193
+\c@collectmore=\count194
+\doublecol@number=\count195
+\multicoltolerance=\count196
+\multicolpretolerance=\count197
+\full@width=\dimen154
+\page@free=\dimen155
+\premulticols=\dimen156
+\postmulticols=\dimen157
+\multicolsep=\skip59
+\multicolbaselineskip=\skip60
+\partial@page=\box51
+\last@line=\box52
+\maxbalancingoverflow=\dimen158
+\mult@rightbox=\box53
+\mult@grightbox=\box54
+\mult@gfirstbox=\box55
+\mult@firstbox=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
 \@tempa=\box67
 \@tempa=\box68
 \@tempa=\box69
@@ -401,54 +297,194 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \@tempa=\box91
 \@tempa=\box92
 \@tempa=\box93
-\@tempa=\box94
-\@tempa=\box95
-\@tempa=\box96
-\@tempa=\box97
-\@tempa=\box98
-\@tempa=\box99
-\@tempa=\box100
-\@tempa=\box101
-\@tempa=\box102
-\@tempa=\box103
-\c@minrows=\count274
-\c@columnbadness=\count275
-\c@finalcolumnbadness=\count276
-\last@try=\dimen175
-\multicolovershoot=\dimen176
-\multicolundershoot=\dimen177
-\mult@nat@firstbox=\box104
-\colbreak@box=\box105
-\mc@col@check@num=\count277
+\c@minrows=\count198
+\c@columnbadness=\count199
+\c@finalcolumnbadness=\count266
+\last@try=\dimen159
+\multicolovershoot=\dimen160
+\multicolundershoot=\dimen161
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count267
 )
-(./sphinxhighlight.sty
-Package: sphinxhighlight 2016/05/29 stylesheet for highlighting with pygments
-)
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+(./sphinxlatexgraphics.sty
+File: sphinxlatexgraphics.sty 2021/01/27 graphics
+\spx@image@maxheight=\dimen164
+\spx@image@box=\box96
+) (./sphinxlatexadmonitions.sty
+File: sphinxlatexadmonitions.sty 2021/01/27 admonitions
+
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
+Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
+\OuterFrameSep=\skip61
+\fb@frw=\dimen165
+\fb@frh=\dimen166
+\FrameRule=\dimen167
+\FrameSep=\dimen168
 ))
-\sphinxverbatimsep=\dimen178
-\sphinxverbatimborder=\dimen179
-\sphinxshadowsep=\dimen180
-\sphinxshadowsize=\dimen181
-\sphinxshadowrule=\dimen182
-\spx@notice@border=\dimen183
-\spx@image@maxheight=\dimen184
-\spx@image@box=\box106
+(./sphinxlatexliterals.sty
+File: sphinxlatexliterals.sty 2021/01/27 code-blocks and parsed literals
+
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count268
+\FV@InFile=\read3
+\FV@TabBox=\box97
+\c@FancyVerbLine=\count269
+\FV@StepNumber=\count270
+\FV@OutFile=\write3
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+)
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+)
+(/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+)
+\sphinxcontinuationbox=\box98
+\sphinxvisiblespacebox=\box99
+\sphinxVerbatim@TitleBox=\box100
+\sphinxVerbatim@ContentsBox=\box101
+\spx@scratchbox=\box102
+)
+(./sphinxlatexshadowbox.sty
+File: sphinxlatexshadowbox.sty 2021/01/27 sphinxShadowBox
+) (./sphinxhighlight.sty
+Package: sphinxhighlight 2016/05/29 stylesheet for highlighting with pygments
+) (./sphinxlatextables.sty
+File: sphinxlatextables.sty 2021/01/27 tables
+
+(/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
+Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen169
+\ar@mcellbox=\box103
+\extrarowheight=\dimen170
+\NC@list=\toks25
+\extratabsurround=\skip62
+\backup@length=\skip63
+\ar@cellbox=\box104
+)
+\TY@count=\count271
+\TY@linewidth=\dimen171
+\tymin=\dimen172
+\tymax=\dimen173
+\TY@tablewidth=\dimen174
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip64
+\LTright=\skip65
+\LTpre=\skip66
+\LTpost=\skip67
+\LTchunksize=\count272
+\LTcapwidth=\dimen175
+\LT@head=\box105
+\LT@firsthead=\box106
+\LT@foot=\box107
+\LT@lastfoot=\box108
+\LT@cols=\count273
+\LT@rows=\count274
+\c@LT@tables=\count275
+\c@LT@chunks=\count276
+\LT@p@ftn=\toks26
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box109
+\sift@deathcycles=\count277
+\@vwid@loff=\dimen176
+\@vwid@roff=\dimen177
+)
+\sphinx@TY@tablewidth=\dimen178
+)
+(./sphinxlatexnumfig.sty
+File: sphinxlatexnumfig.sty 2021/01/27 numbering
+) (./sphinxlatexlists.sty
+File: sphinxlatexlists.sty 2021/01/27 lists
+)
 \c@sphinxscope=\count278
 \c@sphinxexplicit=\count279
-\sphinxcontinuationbox=\box107
-\sphinxvisiblespacebox=\box108
-\sphinxVerbatim@TitleBox=\box109
-\sphinxVerbatim@ContentsBox=\box110
-\spx@scratchbox=\box111
+ (./sphinxpackagefootnote.sty
+Package: sphinxpackagefootnote 2021/02/04 v1.1d footnotehyper adapted to sphinx
+ (Sphinx team)
+\FNH@notes=\box110
+\FNH@toks=\toks27
+\FNH@width=\dimen179
+) (./sphinxlatexindbibtoc.sty
+File: sphinxlatexindbibtoc.sty 2021/01/27 index, bib., toc
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+))
+(./sphinxlatexstylepage.sty
+File: sphinxlatexstylepage.sty 2021/01/27 page styling
+
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
+Rollback for package 'parskip' requested -> version 'v1'.
+         This corresponds to the release introduced on 2001-04-09.
+
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip-2001-04-09.sty
+Package: parskip 2001/04/09 non-zero parskip adjustments
+))
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip68
+\f@nch@O@elh=\skip69
+\f@nch@O@erh=\skip70
+\f@nch@O@olh=\skip71
+\f@nch@O@orh=\skip72
+\f@nch@O@elf=\skip73
+\f@nch@O@erf=\skip74
+\f@nch@O@olf=\skip75
+\f@nch@O@orf=\skip76
+))
+(./sphinxlatexstyleheadings.sty
+File: sphinxlatexstyleheadings.sty 2021/01/27 headings
+
+(/usr/share/texlive/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box111
+\beforetitleunit=\skip77
+\aftertitleunit=\skip78
+\ttl@plus=\dimen180
+\ttl@minus=\dimen181
+\ttl@toksa=\toks28
+\titlewidth=\dimen182
+\titlewidthlast=\dimen183
+\titlewidthfirst=\dimen184
+))
+(./sphinxlatexstyletext.sty
+File: sphinxlatexstyletext.sty 2021/01/27 text styling
+) (./sphinxlatexobjects.sty
+File: sphinxlatexobjects.sty 2021/01/27 documentation environments
 \py@argswidth=\skip79
 \lineblockindentation=\skip80
 \DUlineblockindent=\skip81
-)
+))
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
@@ -614,29 +650,28 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 (./enrouteflightnavigation.aux)
 \openout1 = `enrouteflightnavigation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 83.
-LaTeX Font Info:    ... okay on input line 83.
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 83
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 70.
+LaTeX Font Info:    ... okay on input line 70.
+LaTeX Font Info:    Trying to load font information for T1+qtm on input line 70
 .
-
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
-File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+ (/usr/share/texmf/tex/latex/tex-gyre/t1qtm.fd
+File: t1qtm.fd 2009/09/25 v1.2 font definition file for T1/qtm
 )
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -697,7 +732,7 @@ e
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box114
-Package hyperref Info: Link coloring ON on input line 83.
+Package hyperref Info: Link coloring ON on input line 70.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -709,33 +744,27 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count302
 )
-LaTeX Info: Redefining \ref on input line 83.
-LaTeX Info: Redefining \pageref on input line 83.
-LaTeX Info: Redefining \nameref on input line 83.
+LaTeX Info: Redefining \ref on input line 70.
+LaTeX Info: Redefining \pageref on input line 70.
+LaTeX Info: Redefining \nameref on input line 70.
 
 (./enrouteflightnavigation.out) (./enrouteflightnavigation.out)
 \@outlinefile=\write5
 \openout5 = `enrouteflightnavigation.out'.
 
-Package hyperref Info: Option `pageanchor' set `false' on input line 86.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 86
+Package hyperref Info: Option `pageanchor' set `false' on input line 73.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 73
 .
 
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
-File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
-)
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 86.
-LaTeX Font Info:    Font shape `T1/phv/b/it' in size <17.28> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 86.
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
+(/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd
+File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
+)<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 73.
 
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 73.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -753,16 +782,16 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 [2]
-<de.akaflieg_freiburg.enroute.png, id=260, 513.92pt x 513.92pt>
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 93
-.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
-File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+<de.akaflieg_freiburg.enroute.png, id=290, 385.44pt x 385.44pt>
+LaTeX Font Info:    Trying to load font information for T1+txtt on input line 8
+0.
+ (/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
+File: t1txtt.fd 2000/12/15 v3.1
 )
 File: de.akaflieg_freiburg.enroute.png Graphic file (type png)
 <use de.akaflieg_freiburg.enroute.png>
-Package pdftex.def Info: de.akaflieg_freiburg.enroute.png  used on input line 9
-3.
+Package pdftex.def Info: de.akaflieg_freiburg.enroute.png  used on input line 8
+0.
 (pdftex.def)             Requested size: 75.28076pt x 75.28105pt.
  [1
 
@@ -771,317 +800,402 @@ Package pdftex.def Info: de.akaflieg_freiburg.enroute.png  used on input line 9
 ]
 Chapter 1.
 LaTeX Font Info:    Trying to load font information for OT1+pzc on input line 1
-36.
+22.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pzc.fd
 File: ot1pzc.fd 2001/06/04 font definitions for OT1/pzc.
 )
 LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <76> not available
-(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 136.
+(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 122.
 
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 136--136
+Overfull \hbox (10.0pt too wide) in paragraph at lines 122--122
 [][][][][][][][][]  
  []
 
 [3]
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 2
-02.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
-File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+LaTeX Font Info:    Trying to load font information for TS1+qtm on input line 1
+88.
+ (/usr/share/texmf/tex/latex/tex-gyre/ts1qtm.fd
+File: ts1qtm.fd 2009/09/25 v1.2 font definition file for TS1/qtm
 ) [4]
 Chapter 2.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 255--255
+Overfull \hbox (10.0pt too wide) in paragraph at lines 241--241
 [][][][][][][][][]  
  []
 
 [5
 
-]
-
-Package textcomp Warning: Symbol \textleftarrow not provided by
-(textcomp)                font family ptm in TS1 encoding.
-(textcomp)                Default family used instead on input line 361.
-
-[6]
+] [6]
 Chapter 3.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 370--370
+Overfull \hbox (10.0pt too wide) in paragraph at lines 356--356
 [][][][][][][][][]  
  []
 
-<fig_ground.png, id=322, 1043.9pt x 1314.9125pt>
+<fig_ground.png, id=352, 782.925pt x 986.18437pt>
 File: fig_ground.png Graphic file (type png)
 <use fig_ground.png>
-Package pdftex.def Info: fig_ground.png  used on input line 391.
-(pdftex.def)             Requested size: 313.17241pt x 394.47679pt.
-<fig_flight.png, id=323, 1043.9pt x 1314.9125pt>
+Package pdftex.def Info: fig_ground.png  used on input line 377.
+(pdftex.def)             Requested size: 234.8793pt x 295.85759pt.
+<fig_flight.png, id=353, 782.925pt x 986.18437pt>
 File: fig_flight.png Graphic file (type png)
 <use fig_flight.png>
-Package pdftex.def Info: fig_flight.png  used on input line 398.
-(pdftex.def)             Requested size: 313.17241pt x 394.47679pt.
+Package pdftex.def Info: fig_flight.png  used on input line 384.
+(pdftex.def)             Requested size: 234.8793pt x 295.85759pt.
 [7
 
-] [8 <./fig_ground.png>] [9 <./fig_flight.png>]
-<ic_menu.png, id=342, 30.1125pt x 30.1125pt>
+] [8 <./fig_ground.png> <./fig_flight.png>]
+<ic_menu.png, id=367, 22.58438pt x 22.58438pt>
 File: ic_menu.png Graphic file (type png)
 <use ic_menu.png>
-Package pdftex.def Info: ic_menu.png  used on input line 512.
-(pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
-<NorthArrow.png, id=343, 30.1125pt x 30.1125pt>
+Package pdftex.def Info: ic_menu.png  used on input line 498.
+(pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
+<NorthArrow.png, id=368, 22.58438pt x 22.58438pt>
 File: NorthArrow.png Graphic file (type png)
 <use NorthArrow.png>
-Package pdftex.def Info: NorthArrow.png  used on input line 512.
-(pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
-<ic_my_location.png, id=344, 30.1125pt x 30.1125pt>
+Package pdftex.def Info: NorthArrow.png  used on input line 498.
+(pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
+<ic_my_location.png, id=369, 22.58438pt x 22.58438pt>
 File: ic_my_location.png Graphic file (type png)
 <use ic_my_location.png>
-Package pdftex.def Info: ic_my_location.png  used on input line 512.
-(pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
-<ic_add.png, id=345, 30.1125pt x 30.1125pt>
+Package pdftex.def Info: ic_my_location.png  used on input line 498.
+(pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
+<ic_add.png, id=370, 22.58438pt x 22.58438pt>
 File: ic_add.png Graphic file (type png)
 <use ic_add.png>
-Package pdftex.def Info: ic_add.png  used on input line 512.
-(pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
-<ic_remove.png, id=346, 30.1125pt x 30.1125pt>
+Package pdftex.def Info: ic_add.png  used on input line 498.
+(pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
+<ic_remove.png, id=371, 22.58438pt x 22.58438pt>
 File: ic_remove.png Graphic file (type png)
 <use ic_remove.png>
-Package pdftex.def Info: ic_remove.png  used on input line 512.
-(pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
+Package pdftex.def Info: ic_remove.png  used on input line 498.
+(pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
 File: ic_menu.png Graphic file (type png)
 <use ic_menu.png>
-Package pdftex.def Info: ic_menu.png  used on input line 512.
-(pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
+Package pdftex.def Info: ic_menu.png  used on input line 498.
+(pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
 File: NorthArrow.png Graphic file (type png)
 <use NorthArrow.png>
-Package pdftex.def Info: NorthArrow.png  used on input line 512.
-(pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
+Package pdftex.def Info: NorthArrow.png  used on input line 498.
+(pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
 File: ic_my_location.png Graphic file (type png)
 <use ic_my_location.png>
-Package pdftex.def Info: ic_my_location.png  used on input line 512.
-(pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
+Package pdftex.def Info: ic_my_location.png  used on input line 498.
+(pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
 File: ic_add.png Graphic file (type png)
 <use ic_add.png>
-Package pdftex.def Info: ic_add.png  used on input line 512.
-(pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
+Package pdftex.def Info: ic_add.png  used on input line 498.
+(pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
 File: ic_remove.png Graphic file (type png)
 <use ic_remove.png>
-Package pdftex.def Info: ic_remove.png  used on input line 512.
-(pdftex.def)             Requested size: 30.11241pt x 30.11241pt.
-<fig_wpInfo.png, id=348, 1043.9pt x 1314.9125pt>
+Package pdftex.def Info: ic_remove.png  used on input line 498.
+(pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
+<fig_wpInfo.png, id=373, 782.925pt x 986.18437pt>
 File: fig_wpInfo.png Graphic file (type png)
 <use fig_wpInfo.png>
-Package pdftex.def Info: fig_wpInfo.png  used on input line 530.
-(pdftex.def)             Requested size: 313.17241pt x 394.47679pt.
-
+Package pdftex.def Info: fig_wpInfo.png  used on input line 516.
+(pdftex.def)             Requested size: 234.8793pt x 295.85759pt.
+ [9 <./ic_menu.png> <./NorthArrow.png> <./ic_my_location.png> <./ic_add.png> <.
+/ic_remove.png> <./fig_wpInfo.png>]
 
 LaTeX Warning: Hyper reference `index:sec-steps' on page 10 undefined on input 
-line 540.
+line 526.
 
-[10 <./ic_menu.png> <./NorthArrow.png> <./ic_my_location.png> <./ic_add.png> <.
-/ic_remove.png>] [11 <./fig_wpInfo.png>] [12
-
-]
+[10]
 Chapter 4.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 543--543
+Overfull \hbox (10.0pt too wide) in paragraph at lines 529--529
 [][][][][][][][][]  
  []
 
-[13] [14]
+[11
+
+] [12]
 Chapter 5.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 718--718
+Overfull \hbox (10.0pt too wide) in paragraph at lines 704--704
 [][][][][][][][][]  
  []
 
-[15
+[13
 
 ]
-<X-Plane-10.png, id=403, 1041.8925pt x 785.93625pt>
+<X-Plane-10.png, id=422, 1041.8925pt x 785.93625pt>
 File: X-Plane-10.png Graphic file (type png)
 <use X-Plane-10.png>
-Package pdftex.def Info: X-Plane-10.png  used on input line 805.
+Package pdftex.def Info: X-Plane-10.png  used on input line 791.
 (pdftex.def)             Requested size: 469.75348pt x 354.3636pt.
- [16 <./X-Plane-10.png>]
-<X-Plane-11.png, id=410, 2569.6pt x 1445.4pt>
+ [14 <./X-Plane-10.png>]
+<X-Plane-11.png, id=428, 2569.6pt x 1445.4pt>
 File: X-Plane-11.png Graphic file (type png)
 <use X-Plane-11.png>
-Package pdftex.def Info: X-Plane-11.png  used on input line 816.
+Package pdftex.def Info: X-Plane-11.png  used on input line 802.
 (pdftex.def)             Requested size: 469.72249pt x 264.24095pt.
- [17 <./X-Plane-11.png>] [18
+ [15 <./X-Plane-11.png>] [16
 
 ]
 Chapter 6.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 844--844
+Overfull \hbox (10.0pt too wide) in paragraph at lines 830--830
 [][][][][][][][][]  
  []
 
-[19] [20
+[17] [18
 
 ]
 Chapter 7.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 872--872
+Overfull \hbox (10.0pt too wide) in paragraph at lines 858--858
 [][][][][][][][][]  
  []
 
 
-Overfull \hbox (629.9847pt too wide) in paragraph at lines 895--895
+Overfull \hbox (626.4248pt too wide) in paragraph at lines 881--881
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 895--895
+Underfull \hbox (badness 10000) in paragraph at lines 881--881
 
  []
 
-[21] [22]
+[19] [20]
 Chapter 8.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1007--1007
+Overfull \hbox (10.0pt too wide) in paragraph at lines 993--993
 [][][][][][][][][]  
  []
 
-[23
+[21
 
-] [24] [25] [26
+] [22] [23] [24
 
 ]
 Chapter 9.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1235--1235
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1221--1221
 [][][][][][][][][]  
  []
 
-<fig_Restricted.png, id=470, 195.129pt x 172.7253pt>
+<fig_Restricted.png, id=486, 195.129pt x 172.7253pt>
 File: fig_Restricted.png Graphic file (type png)
 <use fig_Restricted.png>
-Package pdftex.def Info: fig_Restricted.png  used on input line 1260.
+Package pdftex.def Info: fig_Restricted.png  used on input line 1246.
 (pdftex.def)             Requested size: 195.12851pt x 172.72487pt.
-[27 <./fig_Restricted.png>]
-<fig_AirspaceMUC.png, id=479, 195.129pt x 234.1548pt>
+[25 <./fig_Restricted.png>]
+<fig_AirspaceMUC.png, id=494, 195.129pt x 234.1548pt>
 File: fig_AirspaceMUC.png Graphic file (type png)
 <use fig_AirspaceMUC.png>
-Package pdftex.def Info: fig_AirspaceMUC.png  used on input line 1319.
+Package pdftex.def Info: fig_AirspaceMUC.png  used on input line 1305.
 (pdftex.def)             Requested size: 195.12851pt x 234.15422pt.
- [28 <./fig_AirspaceMUC.png>]
-<fig_nra.png, id=490, 406.51875pt x 532.23843pt>
+ [26 <./fig_AirspaceMUC.png>]
+<fig_nra.png, id=505, 406.51875pt x 532.23843pt>
 File: fig_nra.png Graphic file (type png)
 <use fig_nra.png>
-Package pdftex.def Info: fig_nra.png  used on input line 1445.
+Package pdftex.def Info: fig_nra.png  used on input line 1431.
 (pdftex.def)             Requested size: 406.51775pt x 532.23712pt.
- [29] [30 <./fig_nra.png>] [31] [32
+ [27] [28 <./fig_nra.png>] [29] [30
 
 ]
 Chapter 10.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1513--1513
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1499--1499
 [][][][][][][][][]  
  []
 
-<fig_Weather.png, id=510, 406.51875pt x 738.50906pt>
+<fig_Weather.png, id=526, 406.51875pt x 738.50906pt>
 File: fig_Weather.png Graphic file (type png)
 <use fig_Weather.png>
-Package pdftex.def Info: fig_Weather.png  used on input line 1522.
+Package pdftex.def Info: fig_Weather.png  used on input line 1508.
 (pdftex.def)             Requested size: 358.04774pt x 650.4309pt.
-<fig_WeatherDetail.png, id=511, 389.95688pt x 720.44156pt>
+<fig_WeatherDetail.png, id=527, 389.95688pt x 720.44156pt>
 File: fig_WeatherDetail.png Graphic file (type png)
 <use fig_WeatherDetail.png>
-Package pdftex.def Info: fig_WeatherDetail.png  used on input line 1609.
+Package pdftex.def Info: fig_WeatherDetail.png  used on input line 1595.
 (pdftex.def)             Requested size: 352.07658pt x 650.42511pt.
-[33] [34 <./fig_Weather.png>] [35 <./fig_WeatherDetail.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 1726--1726
-[]\T1/ptm/m/n/10 and
+[31] [32 <./fig_Weather.png>] [33 <./fig_WeatherDetail.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1712--1712
+[]\T1/qtm/m/n/10 and
  []
 
 
-Underfull \hbox (badness 8132) in paragraph at lines 1726--1726
-[]\T1/ptm/m/n/10 MVFR Marginal Vi-sual Flight
+Underfull \hbox (badness 10000) in paragraph at lines 1712--1712
+[]\T1/qtm/m/n/10 MVFR Marginal Vi-sual Flight
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1726--1726
-[]\T1/ptm/m/n/10 Yel-
+Underfull \hbox (badness 10000) in paragraph at lines 1712--1712
+[]\T1/qtm/m/n/10 Yel-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1726--1726
-[]\T1/ptm/m/n/10 and
+Underfull \hbox (badness 10000) in paragraph at lines 1712--1712
+[]\T1/qtm/m/n/10 and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1726--1726
-[]\T1/ptm/m/n/10 and
+Underfull \hbox (badness 10000) in paragraph at lines 1712--1712
+[]\T1/qtm/m/n/10 and
  []
 
-[36] [37
+[34] [35
 
-] [38]
+] [36]
 Chapter 11.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1743--1743
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1729--1729
 [][][][][][][][][]  
  []
 
-[39
+LaTeX Font Info:    Trying to load font information for TS1+txtt on input line 
+1745.
+(/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txtt.fd
+File: ts1txtt.fd 2000/12/15 v3.1
+) [37
 
 ]
+Underfull \vbox (badness 10000) detected at line 2337
+ []
 
-Package textcomp Warning: Symbol \textasciiacute not provided by
-(textcomp)                font family ptm in TS1 encoding.
-(textcomp)                Default family used instead on input line 2.
 
-[40] [41] [42
+Underfull \vbox (badness 10000) detected at line 2337
+ []
 
-]
+[38]
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+[39]
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+[40]
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+[41]
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+[42]
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+[43]
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+[44]
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+[45]
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+[46]
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 2337
+ []
+
+[47] [48]
 Chapter 12.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 2041--2041
+Overfull \hbox (10.0pt too wide) in paragraph at lines 2340--2340
 [][][][][][][][][]  
  []
 
-[43] (./enrouteflightnavigation.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2228.
- [44]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2228.
+[49
+
+] [50] [51] [52] [53] [54
+
+]
+Chapter 13.
+
+Overfull \hbox (10.0pt too wide) in paragraph at lines 2981--2981
+[][][][][][][][][]  
+ []
+
+[55]
+LaTeX Font Info:    Font shape `T1/txtt/b/n' in size <10> not available
+(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 3154.
+
+ (./enrouteflightnavigation.ind)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3168.
+ [56] [57]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3168.
  (./enrouteflightnavigation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2228.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2228.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3168.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3168.
 
 Package rerunfilecheck Info: File `enrouteflightnavigation.out' has not changed
 .
-(rerunfilecheck)             Checksum: 7F18663143487502C5A35584F0E8F069;7311.
+(rerunfilecheck)             Checksum: 04493074A7928F8321E94D78C482945A;8618.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2228.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 3168.
  ) 
 Here is how much of TeX's memory you used:
- 14092 strings out of 483183
- 201337 string characters out of 5966293
- 481970 words of memory out of 5000000
- 28549 multiletter control sequences out of 15000+600000
- 600986 words of font info for 106 fonts, out of 8000000 for 9000
+ 14290 strings out of 483183
+ 205245 string characters out of 5966292
+ 1174251 words of memory out of 5000000
+ 28662 multiletter control sequences out of 15000+600000
+ 607950 words of font info for 86 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
- 38i,12n,51p,677b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} </home/runner/.te
-xlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/font
-s/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/h
-elvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvb
-o8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/urw/times/utmri8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/z
-apfchan/uzcmi8a.pfb>
-Output written on enrouteflightnavigation.pdf (48 pages, 2844767 bytes).
+ 38i,12n,51p,428b,535s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/e
+nc/dvips/tex-gyre/q-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base
+/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b></usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb></usr/share/texmf/font
+s/type1/public/tex-gyre/qhvbi.pfb></usr/share/texmf/fonts/type1/public/tex-gyre
+/qhvr.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmb.pfb></usr/share/te
+xmf/fonts/type1/public/tex-gyre/qtmr.pfb></usr/share/texmf/fonts/type1/public/t
+ex-gyre/qtmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1x
+btt.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/tcxtt.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
+Output written on enrouteflightnavigation.pdf (61 pages, 2947219 bytes).
 PDF statistics:
- 734 PDF objects out of 1000 (max. 8388607)
- 629 compressed objects within 7 object streams
- 166 named destinations out of 1000 (max. 500000)
- 469 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 961 PDF objects out of 1000 (max. 8388607)
+ 842 compressed objects within 9 object streams
+ 223 named destinations out of 1000 (max. 500000)
+ 533 words of extra memory for PDF output out of 10000 (max. 10000000)
 
