@@ -2302,23 +2302,18 @@ page will open, which explains the connection status in more detail.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="484"/>
-        <source>Test-release for GDL90 and XGPS support</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="485"/>
-        <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
+        <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="486"/>
-        <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format, such as the popular [SkyEcho](https://uavionix.com/products/skyecho/).</source>
+        <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) and potentially others.  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="487"/>
-        <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) or the popular [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab).  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
+        <location filename="../../../src/Librarian.cpp" line="484"/>
+        <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

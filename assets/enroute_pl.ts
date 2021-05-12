@@ -3142,22 +3142,29 @@ się otworzy, wyjaśniając dokładniej status połączenia.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="484"/>
-        <source>Test-release for GDL90 and XGPS support</source>
-        <translation>Testowe wydanie ze wsparciem dla GDL90 i XGPS</translation>
+        <location filename="../../../src/Librarian.cpp" line="485"/>
+        <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="486"/>
+        <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) and potentially others.  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Test-release for GDL90 and XGPS support</source>
+        <translation type="vanished">Testowe wydanie ze wsparciem dla GDL90 i XGPS</translation>
+    </message>
+    <message>
         <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format, such as the popular [SkyEcho](https://uavionix.com/products/skyecho/).</source>
-        <translation>Oprócz FLARM, aplikacja aktualnie wspiera odbiorniki ruchu lotniczego, które przesyłają dane w formacie GDL90, taki jak popularny [SkyEcho](https://uavionix.com/products/skyecho/).</translation>
+        <translation type="vanished">Oprócz FLARM, aplikacja aktualnie wspiera odbiorniki ruchu lotniczego, które przesyłają dane w formacie GDL90, taki jak popularny [SkyEcho](https://uavionix.com/products/skyecho/).</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="487"/>
         <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) or the popular [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab).  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
-        <translation>Aplikacja może być obecnie używana również z symulatorami lotu takimi jak [XPlane](https://www.x-plane.com/) lub popularny [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab).  Otwórz główne menu, idź do **Ustawień** aby dowiedzieć się więcej. Proszę skontaktuj się z nami jeśli posiadasz MS Flight Simulator i chcesz pomóc z testowaniem.</translation>
+        <translation type="vanished">Aplikacja może być obecnie używana również z symulatorami lotu takimi jak [XPlane](https://www.x-plane.com/) lub popularny [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab).  Otwórz główne menu, idź do **Ustawień** aby dowiedzieć się więcej. Proszę skontaktuj się z nami jeśli posiadasz MS Flight Simulator i chcesz pomóc z testowaniem.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="485"/>
+        <location filename="../../../src/Librarian.cpp" line="484"/>
         <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
         <translation>**Potrzebujemy pomocy z włoskim tłumaczeniem** Jeśli chciałbyś pomóc, mówisz po Włosku i wiesz jak używać systemu kontroli wersji GIT, proszę skontaktuj się z nami.</translation>
     </message>

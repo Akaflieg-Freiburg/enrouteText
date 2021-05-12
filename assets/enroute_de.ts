@@ -2926,23 +2926,30 @@ Ansonsten wählen Sie diesen Eintrag aus. Die Seite &quot;Status&quot; öffnet s
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="484"/>
-        <source>Test-release for GDL90 and XGPS support</source>
-        <translation>Testversion für GDL90- und XGPS-Unterstützung</translation>
+        <location filename="../../../src/Librarian.cpp" line="485"/>
+        <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="486"/>
-        <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format, such as the popular [SkyEcho](https://uavionix.com/products/skyecho/).</source>
-        <translation>Zusätzlich zu FLARM unterstützt die App jetzt auch Verkehrsdatenempfänger, die Daten im Format GDL90 aussenden, wie z.B. der bekannte [SkyEcho](https://uavionix.com/products/skyecho/).</translation>
+        <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) and potentially others.  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="487"/>
+        <source>Test-release for GDL90 and XGPS support</source>
+        <translation type="vanished">Testversion für GDL90- und XGPS-Unterstützung</translation>
+    </message>
+    <message>
+        <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format, such as the popular [SkyEcho](https://uavionix.com/products/skyecho/).</source>
+        <translation type="vanished">Zusätzlich zu FLARM unterstützt die App jetzt auch Verkehrsdatenempfänger, die Daten im Format GDL90 aussenden, wie z.B. der bekannte [SkyEcho](https://uavionix.com/products/skyecho/).</translation>
+    </message>
+    <message>
         <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) or the popular [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab).  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
-        <translation>Die App kann jetzt auch mit Flugsimulatoren wie z.B. [XPlane](https://www.x-plane.com/) und dem beliebten [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab). verwendet werden.
+        <translation type="vanished">Die App kann jetzt auch mit Flugsimulatoren wie z.B. [XPlane](https://www.x-plane.com/) und dem beliebten [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab). verwendet werden.
 Mehr darüber finden Sie in den **Einstellungen** im Hauptmenü. Bitte nehmen Sie Kontakt zu uns auf, wenn Sie einen MS Flugsimulator haben und uns gern beim Testen unterstützen wollen.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="485"/>
+        <location filename="../../../src/Librarian.cpp" line="484"/>
         <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
         <translation>**Wir könnten Hilfe bei der Übersetzung ins Italienische gebrauchen.** Wenn Sie uns helfen wollen, Italienisch sprechen und mit dem GIT Versionskontrollsystem umgehen können, hören wir gern von Ihnen!</translation>
     </message>
