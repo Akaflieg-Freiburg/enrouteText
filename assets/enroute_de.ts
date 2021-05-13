@@ -2588,7 +2588,7 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
 &lt;/ul&gt;
 </source>
         <translatorcomment>XXX --- hier fehlt noch etwas --- XXX</translatorcomment>
-        <translation></translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="253"/>
