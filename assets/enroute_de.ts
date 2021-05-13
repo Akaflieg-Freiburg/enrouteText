@@ -2537,7 +2537,16 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
   version of this license.
 &lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Lizenz&lt;/h3&gt;
+
+&lt;p&gt;
+  das programm &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;
+  ist lizenziert unter der &lt;a
+  href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU
+  General Public License V3&lt;/a&gt; oder, nach Ihrer Wahl, jeder beliebigen späteren Version dieser Lizenz.
+&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="217"/>
@@ -2578,7 +2587,8 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
   &lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>XXX --- hier fehlt noch etwas --- XXX</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="253"/>
@@ -2595,7 +2605,18 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
 %1
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Im Programm enthaltene Software und Daten&lt;/h4&gt;
+
+&lt;p&gt;
+  Je nach Plattform und Konfiguration können die folgenden Komponenten in der Installation von
+  &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; enthalten sein.
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+%1
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="299"/>
@@ -2928,12 +2949,12 @@ Ansonsten wählen Sie diesen Eintrag aus. Die Seite &quot;Status&quot; öffnet s
     <message>
         <location filename="../../../src/Librarian.cpp" line="485"/>
         <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zusätzlich zu FLARM unterstützt die App jetzt auch Verkehrsdatenempfänger, die Daten im Format GDL90 aussenden.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="486"/>
         <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) and potentially others.  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die App kann jetzt zuammen mit Flugsimulatoren wie [XPlane](https://www.x-plane.com/) und möglicherweise weiteren genutzt werden. Auf der Seite **Einstellungen** des Hauptmenüs erfahren Sie mehr. Bitte nehmen Sie Kontakt zu uns auf, wenn Sie einen MS-Flugsimulator benutzen und uns gern beim Testen unterstützten mögen.</translation>
     </message>
     <message>
         <source>Test-release for GDL90 and XGPS support</source>
