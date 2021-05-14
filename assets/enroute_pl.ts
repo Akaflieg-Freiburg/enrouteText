@@ -2854,7 +2854,17 @@ oraz **importu planu lotu**.
   version of this license.
 &lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Licencja&lt;/h3&gt;
+
+&lt;p&gt;
+  Program &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;
+  jest licencjonowany zgodnie z &lt;a
+  href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU
+  General Public License V3&lt;/a&gt; lub, zgodnie z twoium wyborem, każdą kolejną
+  wersją tej licencji.
+&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="217"/>
@@ -2895,7 +2905,43 @@ oraz **importu planu lotu**.
   &lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Mapy geograficzne&lt;/h4&gt;
+
+&lt;p&gt;
+  Jako program do nawigacji lotniczej, &lt;strong&gt;Enroute Flight
+  Navigation&lt;/strong&gt; mocno bazuje na danych z map 
+  geograficznych. Mapy geograficzne nie się dołączone do
+  programu, ale są pobierane podczas pracy. Są kompilacją
+  następujących źródeł.
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;
+    Bazowe mapy są modyfikacją &lt;a
+    href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt;,
+    opublikowanych pod licencją
+    &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY
+    4.0 design license&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Mapy lotnicze zawierają dane z &lt;a
+    href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, licencjonowaną
+    pod licencją &lt;a
+    href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0&quot;&gt;CC
+    BY-NC-SA&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Mapy lotnicze zawierają dane z &lt;a
+    href=&quot;https://www.openflightmaps.org&quot;&gt;open
+    flightmaps&lt;/a&gt;, licencjonowaną pod licencją &lt;a
+    href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA
+    General Users License&lt;/a&gt;.
+  &lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="253"/>
@@ -2912,7 +2958,19 @@ oraz **importu planu lotu**.
 %1
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Oprogramowanie i dane dołączone do programu&lt;/h4&gt;
+
+&lt;p&gt;
+  W zależności od platformy i konfiguracji, następujące
+  komponenty mogą być dołączone podczas instalacji
+  &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+%1
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="269"/>
@@ -3100,7 +3158,8 @@ might be helpful.&lt;/p&gt;
 Jeśli symulator MS Flight Simulator działa dla ciebie, proszę bądź w kontakcie.  Artykuł
 &lt;a href=&quot;https://support.foreflight.com/hc/en-us/articles/204115275-How-do-I-connect-Microsoft-Flight-Simulator-FS-X-or-FS-2004-to-ForeFlight-&quot;&gt;Jak
 podłączyć Microsoft Flight Simulator 2020 (MSFS2020) do ForeFlight?&lt;/a&gt;
-może być pomocny.&lt;/p&gt;</translation>
+może być pomocny.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="441"/>
@@ -3116,7 +3175,8 @@ GDL90 is generally the preferred format.&lt;/p&gt;
 
 &lt;p&gt;Symulator lotu musi być ustawiony aby wysyłać datagramy UDP w jednym ze standardowych formatów
 &quot;GDL90&quot; lub &quot;XGPS&quot; na porty 4000 lub 49002.  Mając wybór,
-GDL90 jest ogólnie preferowanym formatem.&lt;/p&gt;</translation>
+GDL90 jest ogólnie preferowanym formatem.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="447"/>
@@ -3144,12 +3204,12 @@ się otworzy, wyjaśniając dokładniej status połączenia.&lt;/p&gt;
     <message>
         <location filename="../../../src/Librarian.cpp" line="485"/>
         <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
-        <translation type="unfinished"></translation>
+        <translation>W dodatku do komunikacji w formacie FLARM, aplikacja wspiera również odbiorniki, które przesyłają dane w formacie GDL90.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="486"/>
         <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) and potentially others.  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikacja może być obecnie używana razem z symulatorami lotu takimi jak [XPlane](https://www.x-plane.com/) i potencjalnie innymi.  Otwórz główne menu, przejdź do strony **Ustawień** aby dowiedzieć się więcej. Proszę skontaktuj się z nami jeśli posiadasz MS Flight Simulator i jeśli chcesz pomóc z testowaniem.</translation>
     </message>
     <message>
         <source>Test-release for GDL90 and XGPS support</source>
