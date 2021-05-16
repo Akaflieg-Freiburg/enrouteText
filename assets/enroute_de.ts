@@ -2588,7 +2588,39 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
 &lt;/ul&gt;
 </source>
         <translatorcomment>XXX --- hier fehlt noch etwas --- XXX</translatorcomment>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Geografische Karten&lt;/h4&gt;
+
+&lt;p&gt;
+  Als Flugnavigationsprogramm ist &lt;strong&gt;Enroute Flight
+  Navigation&lt;/strong&gt; maßgeblich auf geografische Kartendaten angewiesen. Diese Karten sind nicht in der App enthalten, sondern werden aus dem Programm heraus heruntergeladen. Sie werden aus folgenden Quellen zusammengestellt:
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;
+    Die Basiskarten sind modifizierte Daten der &lt;a
+    href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt;,
+    veröffentlicht unter einer 
+    &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY
+    4.0 design&lt;/a&gt; -Lizenz.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Die Luftfahrtkarten enthalten Daten aus der &lt;a
+    href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, lizenziert unter einer 
+&lt;a    href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0&quot;&gt;CC
+    BY-NC-SA&lt;/a&gt; -Lizenz.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Die Luftfahrtkarten enthalten außerdem Daten aus&lt;a
+    href=&quot;https://www.openflightmaps.org&quot;&gt;open
+    flightmaps&lt;/a&gt;, lizenziert unter der &lt;a
+    href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA
+    General Users License&lt;/a&gt;.
+  &lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="253"/>
