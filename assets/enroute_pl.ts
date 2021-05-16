@@ -3675,7 +3675,8 @@ Wybierz &lt;strong&gt;Bibilioteka/Mapy&lt;/strong&gt; aby otworzyć stronę zarz
 <context>
     <name>MobileAdaptor</name>
     <message>
-        <location filename="../../../src/MobileAdaptor.cpp" line="177"/>
+        <location filename="../../../src/MobileAdaptor.cpp" line="179"/>
+        <location filename="../../../src/MobileAdaptor.cpp" line="188"/>
         <source>Downloading map data…</source>
         <translation>Pobieranie danych map...</translation>
     </message>
