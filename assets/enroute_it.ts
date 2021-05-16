@@ -3137,7 +3137,16 @@ che è licenziata sotto &lt;a href=&quot;https://www.openflightmaps.org/live/dow
   version of this license.
 &lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Licenza&lt;/h3&gt;
+
+&lt;p&gt;
+  Il programma &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;
+  è licenziato con &lt;a
+  href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU
+  General Public License V3&lt;/a&gt; o, a tua discrezione, quasiasi versione successiva.
+&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="217"/>
@@ -3178,7 +3187,41 @@ che è licenziata sotto &lt;a href=&quot;https://www.openflightmaps.org/live/dow
   &lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Mappe geografiche&lt;/h4&gt;
+
+&lt;p&gt;
+  Come un programma di volo, &lt;strong&gt;Enroute Flight
+  Navigation&lt;/strong&gt; utilizza dati di mappe geografichei.
+     Le mappe non sono incluse nel programma, ma vengono scaricate in fase di esecuzione e sono fornite dalle seguenti fonti.
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;
+    La mappe di base sono fornite da &lt;a
+    href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt;,
+    pubblicata sotto licenza
+    &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY
+    4.0 license&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Le mappe di aviazione sono fornite da &lt;a
+    href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, con licenza
+    under a &lt;a
+    href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0&quot;&gt;CC
+    BY-NC-SA license&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Le mappe di aviazione contengono dati di &lt;a
+    href=&quot;https://www.openflightmaps.org&quot;&gt;open
+    flightmaps&lt;/a&gt;, con licenza &lt;a
+    href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA
+    General Users License&lt;/a&gt;.
+  &lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="253"/>
@@ -3195,7 +3238,18 @@ che è licenziata sotto &lt;a href=&quot;https://www.openflightmaps.org/live/dow
 %1
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Software e dati inclusi nel programma&lt;/h4&gt;
+
+&lt;p&gt;
+  A seconda della piattaforma e della configurazione, i componenti seguenti potrebbero essere inclusi nell&apos;installazione 
+  &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+%1
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="269"/>
@@ -3426,12 +3480,12 @@ si aprirà la pagina, che spiega lo stato della connessione in modo più dettagl
     <message>
         <location filename="../../../src/Librarian.cpp" line="485"/>
         <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oltre a FLARM, l&apos;app ora supporta i ricevitori di traffico che inviano dati sul traffico in formato GDL90.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="486"/>
         <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) and potentially others.  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ora l&apos;app può essere utilizzata insieme a simulatori di volo come [XPlane] (https://www.x-plane.com/) e potenzialmente altri. Apri il menu principale e vai alla pagina **Impostazioni** per saperne di più. Contattaci se possiedi un simulatore di volo MS e se desideri aiutare con il test.</translation>
     </message>
     <message>
         <source>Test-release for GDL90 and XGPS support</source>
