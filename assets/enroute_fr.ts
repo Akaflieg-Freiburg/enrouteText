@@ -1447,172 +1447,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>Librarian</name>
     <message>
-        <source>&lt;h3&gt;Authors&lt;/h3&gt;
-
-&lt;br&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
-      &lt;h4&gt;Address&lt;/h4&gt;
-      Stefan Kebekus&lt;br&gt;
-      Wintererstraße 77&lt;br&gt;
-      79104 Freiburg&lt;br&gt;
-      Germany&lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Pic: Patrick Seeger&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;br&gt;
-      &lt;h3&gt;Contributing Authors&lt;/h3&gt;
-      &lt;br&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Adrien Crovato is a private pilot and aerospace engineer. He joined the development team in 2020, and contributes to the C++ and QML code base.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses Enroute as a pilot of ultralight planes. Heiner joined the Enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
-     &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Johannes Zellner joined the development in 2020.  He contributes to the C++ and QML code base of the app and helps with bug fixing.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h3&gt;Manual&lt;/h3&gt;
-
-&lt;p&gt;The manual has kindly been provided by Michael Horbaschk.&lt;/p&gt;
-
-&lt;h3&gt;Translations&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato. Adrien has been described above.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Luca Bertoncello. Luca flies ultralight planes since 2014 and has become a flight instructor in 2019. He programs since 1988 and works as a systems administrator in Dresden, Germany.  Ivan Battistella has recently started to fly ultralight aircraft. He works freelance as a software consultant.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/p&gt;
-
-&lt;h3&gt;Alumni&lt;/h3&gt;
-
-&lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</source>
-        <translation type="vanished">
-&lt;h3&gt;Auteurs&lt;/h3&gt;
-
-&lt;br&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;L&apos;application &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est développée par Stefan Kebekus, pilote amateur depuis 1986 et membre de l&apos;aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
-      &lt;h4&gt;Adresse&lt;/h4&gt;
-      Stefan Kebekus&lt;br&gt;
-      Wintererstraße 77&lt;br&gt;
-      79104 Freiburg&lt;br&gt;
-      Germany&lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Photo: Patrick Seeger&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;br&gt;
-      &lt;h3&gt;Co-auteurs&lt;/h3&gt;
-      &lt;br&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Adrien Crovato est pilote privé et ingénieur en aérospatiale. Il a rejoint l&apos;équipe en 2020 et contribue au code C++ and QML.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Heiner Tholen aime construire des choses, autant analogiques que digitales, en vol autant qu&apos;au sol. Il utilise Enroute en tant que pilote d&apos;ULM. Heiner a rejoint l&apos;équipe mi-2020 et contribue au développement du code C++/QML.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Johannes Zellner a rejoint l&apos;équipe en 2020. Il contribue au code C++ et QML de l&apos;application et aide à résoudre les bugs.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;h3&gt;Manuel&lt;/h3&gt;
-
-&lt;p&gt;Le manuel a été écrit par Michael Horbaschk.&lt;/p&gt;
-
-&lt;h3&gt;Traductions&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Français&lt;/strong&gt; : Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Allemand&lt;/strong&gt; : Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;E-Mail&lt;/a&gt;. Markus pilote des deltaplanes et est un &apos;co-pilote&apos; enthousiate sur tout autre type d&apos;appareil.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Italien&lt;/strong&gt; : Ivan Battistella et Luca Bertoncello. Luca pilote des ULM depuis 2014 et est instructeur depuis 2019. Il programme depuis 1988 et est administrateur systèmes à Dresden, Allemagne.&lt;/p&gt;  Ivan Battistella pilote des ULM depuis peu. Il travaille comme consultant software indépendant.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Polonais&lt;/strong&gt; : Sławek Mikuła.&lt;/p&gt;
-
-&lt;h3&gt;Alumni&lt;/h3&gt;
-
-&lt;p&gt;Szymon Kocur (traduction en polonais)&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-</translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="175"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
@@ -1680,7 +1514,11 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
   version of this license.
 &lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Licence&lt;/h3&gt;
+
+&lt;p&gt;Le logiciel &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est licencié sous la &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; ou tout autre version plus récente de la même licence.&lt;/p&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="217"/>
@@ -1721,7 +1559,38 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
   &lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+<translation>
+&lt;h4&gt;Cartes géographiques&lt;/h4&gt;
+
+&lt;p&gt;
+  &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; se base sur des données de carte géographique. Ces données ne sont pas inclues dans le logiciel, mais sont téléchargées au démarrage de l&apos;application. Elles sont compilées depuis les sources suivantes.
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;
+    Les fonds de cartes sont basés sur &lt;a
+    href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt;,
+    publiés sous
+    &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY
+    4.0 design license&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Les données aéronautiques sont basées sur &lt;a
+    href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, licenciée sous &lt;a
+    href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0&quot;&gt;CC
+    BY-NC-SA license&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Les cartes aéronautiques proviennent de &lt;a
+    href=&quot;https://www.openflightmaps.org&quot;&gt;open
+    flightmaps&lt;/a&gt;, licensiées sous &lt;a
+    href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA
+    General Users License&lt;/a&gt;.
+  &lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="253"/>
@@ -1738,7 +1607,17 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 %1
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Autres logiciels et données inclus dans l&apos;application&lt;/h4&gt;
+
+&lt;p&gt;
+  En fonction de la plateforme utilisée et de la configuration, les composants suivants peuvent être inclus lors de l&apos;installation de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+%1
+&lt;/ul&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="460"/>
@@ -1881,7 +1760,69 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
   &lt;/tr&gt;
 &lt;/table&gt;
 </source>
-        <translation type="unfinished"></translation>
+<translation>
+&lt;h3&gt;Auteurs&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;L&apos;application &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est développée par Stefan Kebekus, pilote amateur depuis 1986 et membre de l&apos;aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
+      &lt;h4&gt;Adresse&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstraße 77&lt;br&gt;
+      79104 Freiburg&lt;br&gt;
+      Germany&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Photo: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;br&gt;
+      &lt;h3&gt;Co-auteurs&lt;/h3&gt;
+      &lt;br&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Adrien Crovato est pilote privé et ingénieur en aérospatiale. Il a rejoint l&apos;équipe en 2020 et contribue au code C++ and QML.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Heiner Tholen aime construire des choses, autant analogiques que digitales, en vol autant qu&apos;au sol. Il utilise Enroute en tant que pilote d&apos;ULM. Heiner a rejoint l&apos;équipe mi-2020 et contribue au développement du code C++/QML.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;Johannes Zellner a rejoint l&apos;équipe en 2020. Il contribue au code C++ et QML de l&apos;application et aide à résoudre les bugs.&lt;/p&gt;
+      &lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="113"/>
@@ -1907,36 +1848,28 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 &lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;License&lt;/h3&gt;
+<translation>
+&lt;h3&gt;Manuel&lt;/h3&gt;
 
-&lt;p&gt;This program is licensed under the &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; or, at your choice, any later version of this license.&lt;/p&gt;
+&lt;p&gt;Le manuel a été écrit par Michael Horbaschk.&lt;/p&gt;
 
-&lt;h4&gt;Third-Party software and data included in this program&lt;/h4&gt;
+&lt;h3&gt;Traductions&lt;/h3&gt;
 
-&lt;p&gt;This program includes several libraries from the &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt; project, licensed under the &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;. This program includes the library &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;MIT license&lt;/a&gt;. This program includes the library &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, licensed under the &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Français&lt;/strong&gt; : Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;This program includes versions of the &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;Google Roboto Fonts&lt;/a&gt;, which are licensed under the &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; license. This program includes several &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;Google Material Design Icons&lt;/a&gt;, which are licensed under the &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt; license.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Allemand&lt;/strong&gt; : Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;E-Mail&lt;/a&gt;. Markus pilote des deltaplanes et est un &apos;co-pilote&apos; enthousiate sur tout autre type d&apos;appareil.&lt;/p&gt;
 
-&lt;p&gt;The style specification of the basemap is a modified version of the &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, which is in turn originally derived from OSM Bright from Mapbox Open Styles. The code is licenses under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. The design is derived (although heavily altered) from OSM Bright from Mapbox Open Styles which is licensed under the &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. The map is displaying and styling modified data from &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; with &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
+&lt;p&gt;&lt;strong&gt;Italien&lt;/strong&gt; : Ivan Battistella. Ivan pilote des ULM depuis peu. Il travaille comme consultant software indépendant.&lt;/p&gt;
 
-                  &lt;p&gt;The map is displaying and styling data from &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, which is licensed under a &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. The map is also displaying and styling data from &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, which is licensed under the &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</source>
-        <translation type="vanished">
-&lt;h3&gt;Licence&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Polonais&lt;/strong&gt; : Sławek Mikuła.&lt;/p&gt;
 
-&lt;p&gt;Ce logiciel est licencié sous la &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; ou tout autre version plus récente de la même licence.&lt;/p&gt;
+&lt;h3&gt;Alumni&lt;/h3&gt;
 
-&lt;h4&gt;Autres logiciels et données inclus dans l&apos;application&lt;/h4&gt;
+&lt;p&gt;Luca Bertoncello (traduction en italien)&lt;/p&gt;
 
-&lt;p&gt;Ce programme inclut plusieurs bibliothèques du projet &lt;a href=&quot;https://qt.io&quot;&gt;Qt&lt;/a&gt;, licencié sous la licence &lt;a href=&quot;https://www.qt.io/download-open-source&quot;&gt;GNU General Public License V3&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;qhttpengine&lt;/a&gt;, licenciée sous la &lt;a href=&quot;https://github.com/nitroshare/qhttpengine/blob/master/LICENSE.txt&quot;&gt;licence MIT&lt;/a&gt;. Ce programme inclut la bibliothèque &lt;a href=&quot;https://openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, licenciée sous la licence &lt;a href=&quot;https://www.openssl.org/source/license.html&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Szymon Kocur (traduction en polonais)&lt;/p&gt;
 
-&lt;p&gt;Ce programme inclut plusieurs versions des polices &lt;a href=&quot;https://github.com/google/roboto&quot;&gt;Google Roboto Fonts&lt;/a&gt;, licenciées sous la licence &lt;a href=&quot;https://github.com/google/roboto/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt;. Ce programme inclut plusieurs icônes &lt;a href=&quot;https://github.com/google/material-design-icons&quot;&gt;Google Material Design Icons&lt;/a&gt;, licenciées sous la &lt;a href=&quot;https://github.com/google/material-design-icons/blob/master/LICENSE&quot;&gt;Apache License 2.0&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Le style des fonds de carte est basé sur une version modifiée du style &lt;a href=&quot;https://github.com/maputnik/osm-liberty&quot;&gt;OSM liberty map design&lt;/a&gt;, lui-même dérivé du OSM Bright de Mapbox Open Styles. Le code est licencié sous la licence &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;BSD license&lt;/a&gt;. Le design provient (même s&apos;il a été largement modifié) du OSM Bright from Mapbox Open Styles, licencié sous la licence &lt;a href=&quot;https://github.com/maputnik/osm-liberty/blob/gh-pages/LICENSE.md&quot;&gt;Creative Commons Attribution 3.0 license&lt;/a&gt;. Les données affichées sur la carte proviennent de &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt; sous la licence &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design license&lt;/a&gt;.
-
-&lt;p&gt;Les données aéronautiques proviennent de &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, et sont licenciées sous la licence &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;CC BY-NC-SA license&lt;/a&gt;. Certaines données et cartes proviennent également de &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt;, et sont licenciées sous la licence &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -1999,27 +1932,6 @@ Navigation&lt;/strong&gt; peut se connecter au récepteur de traffic devotre avi
   &lt;li&gt;Stratux&lt;/li&gt;
   &lt;li&gt;T-Beam&lt;/li&gt;
 &lt;/ul&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;h3&gt;Technical Note&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; expects that the traffic receiver deploys a WLAN
-network via Wi-Fi and publishes a stream of NMEA sentences at the IP address
-192.168.1.1, port 2000 of that network. The NMEA sentences must conform to the
-specification outlined in in the document FTD-012 &apos;Data Port Interface Control
-Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&gt;
-
-</source>
-        <translation type="vanished">
-&lt;h3&gt;Note Technique&lt;/h3&gt;
-
-&lt;p&gt;Le récepteur de traffic doit mettre en place un réseau WLAN accessible via WiFi 
-et publier un flux de donnnées consistant de phrases NMEA, via l&apos;adresse IP 192.168.1.1, 
-sur le port 2000 pour se connecter à &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. 
-Les phrases NMEA doivent être conformes aux spécifications données dans le document FTD-012 &apos;Data Port Interface Control
-Document (ICD)&apos;, Version 7.13, publié par FLARM Technology Ltd.&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -2212,7 +2124,15 @@ has been tested with the following programs.&lt;/p&gt;
 
 &lt;p&gt;Please contact us if you are aware of other programs that also work.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; peut se connecter à des simulateurs de vol.  L&apos;application a été testée avec les programmes suivants.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;X-Plane 11.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Contactez-nous si vous avez testé l&pos;application avec d&apos;autres logiciels.&lt;/p&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="399"/>
@@ -2234,7 +2154,17 @@ following conditions are met.&lt;/p&gt;
   transfer between the devices in the &quot;guest network&quot;&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+<translation>
+&lt;h2&gt;Avant de vous connecter&lt;/h2&gt;
+
+&lt;p&gt;Ce manuel suppose que vous vous trouvez dans un environnement classique, dans lequel l&apos;ordinateur sur lequel le simulateur est installé et l&apos;appareil qui utilise &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; sont connectés à un même réseau deployé par le  memê routeur.  Assurez-vous que les conditions suivantes sont remplies.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;L&apos;ordinateur sur lequel le simulateur est installé et l&apos;appareil qui utilise &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; doivent être connectés à un même réseau deployé par le  memê routeur.  Attention, certains routeurs peuvent déployer deux réseaux (le réseau &quot;principal&quot; et le réseau &quot;invité&quot;).&lt;/li&gt;
+
+  &lt;li&gt;Assurez-vous que le routeur autorise le transfert de donnée entre les différents appareils connectés.  Attention, certains routeurs ont des &quot;paramètres de sécurité&quot; empêchant le transfert de donnée sur le réseau &quot;invité&quot;&lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="416"/>
@@ -2249,7 +2179,11 @@ adjust accordingly.  To end the connection to the flight simulator, simply leave
 the flight simulator&apos;s Wi-Fi network.&lt;/p&gt;
 
 </source>
-        <translation type="unfinished"></translation>
+<translation>
+&lt;h2&gt;Paramètrez vi-otre simulateur de vol&lt;/h2&gt;
+
+&lt;p&gt;Votre simulateur doit partager les informations de positionnement et de traffic au travers du réseau. Dès que le simulateur partagera ces informations sur le réseau, la carte de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; s&apos;adaptera automatiquement. Pour interrompre la connexion, déconnectez-vous du réseau.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="426"/>
@@ -2261,7 +2195,11 @@ group &quot;This machine&apos;s role&quot; on the right-hand side of the tab. Op
 &quot;iPHONE, iPAD, and EXTERNAL APPS&quot; and select the item &quot;Broadcast to all mapping
 apps on the network&quot; under the headline &quot;OTHER MAPPING APPS&quot;.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+<translation>
+&lt;h3&gt;X-Plane 11&lt;/h3&gt;
+
+&lt;p&gt;Ouvrez la fenêtre &quot;Paramètres&quot; et choisissez l&apos;onglet &quot;Réseau&quot;. Cherchez le groupe &quot;Rôle de la machine&quot; sur le côté droit. Ouvrez la section &quot;iPHONE, iPAD, et APPS EXTERNES&quot; et sélectionnez &quot;Transmettre à toutes les applications sur le réseau&quot; sous le titre &quot;AUTRES APPS&quot;.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="433"/>
@@ -2274,7 +2212,14 @@ If the MS Flight Simulator works for you, please be in touch.  The article
 do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
 might be helpful.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+<translation>
+&lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
+
+&lt;p&gt;Inconnu pour le moment, car l&apos;auteur n&apos;a pas accès à ce logiciel.
+Contactez-vous si vous avez MS Flight Simulator. L&apos;article
+&lt;a href=&quot;https://support.foreflight.com/hc/en-us/articles/204115275-How-do-I-connect-Microsoft-Flight-Simulator-FS-X-or-FS-2004-to-ForeFlight-&quot;&gt;How do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
+peut vous être utile.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="441"/>
@@ -2285,7 +2230,11 @@ might be helpful.&lt;/p&gt;
 standard formats &quot;GDL90&quot; or &quot;XGPS&quot; to ports 4000 or 49002.  Given the choice,
 GDL90 is generally the preferred format.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+<translation>
+&lt;h3&gt;Autres programmes&lt;/h3&gt;
+
+&lt;p&gt;Le simulateur doit être paramètré pour envoyer des données UDP dans un des formats standards &quot;GDL90&quot; ou &quot;XGPS&quot; aux ports 4000 ou 49002.  Si vous avez le choix, préfèrez le format GDL90.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="447"/>
@@ -2299,34 +2248,37 @@ Flight Navigation&lt;/strong&gt; has already found the program in the network an
 connected to it.  If not, then select the entry. The &quot;Traffic Receiver Status&quot;
 page will open, which explains the connection status in more detail.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+<translation>
+&lt;h2&gt;Résolution des bugs&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; traite les simulateurs de vol en tant que récepteur de traffic. Pour vérifier le statut de la connexion, ouvrez le menu principal et allez dans le menu &quot;Information&quot;. Si l&apos;entrée &quot;Récepteur de Traffic&quot; est surligné en vert, alors &lt;strong&gt;Enroute
+Flight Navigation&lt;/strong&gt; a déjà trouvé le simulateur et s&apos;y est connecté. Sinon, cliquez sur l&apos;enrée. La page &quot;Statut du Récepteur de Traffic&quot; s&apos;ouvrira, et donnera plus d&apos;informations sur l&apos;état de la connexion.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="485"/>
         <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
-        <translation type="unfinished"></translation>
+        <translation>En plus du FLARM, l&pos;application fonctionne aussi avec des récepteurs de traffic utilisant le format GDL90.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="486"/>
         <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) and potentially others.  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;application peut maintenant être utilisée conjointement avec des simulateurs de vol comme [XPlane](https://www.x-plane.com/) ou autres.  Ouvrez le menu principal et allez sur la page **Paramètres** pour en apprendre plus. Contactez-nous si vous possédez MS Flight Simulator et si vous voulez nous aider à le tester.
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="484"/>
         <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
-        <translation type="unfinished"></translation>
+        <translation>**Nous recherchons des volontaires pour traduire l&pos;application en italien. Si vous le parlez, et que vous êtes capable d&apos;utiliser GIT, alors contactez-nous !
+        </translation>
     </message>
     <message>
         <source>Users of Stratux traffic receivers can now connect to their devices without changing the Stratux&apos; IP address.</source>
-        <translation type="vanished">Les utilisateurs d&apos;appareils Stratux peuvent maintenant se connecter sans changer l&apos;adresse IP du récepteur.</translation>
-    </message>
-    <message>
-        <source>The app now shows FLARM traffic warnings.</source>
-        <translation type="vanished">L&apos;application affiche maintenant les avertissements de traffic FLARM.</translation>
+        <translation>Les utilisateurs d&apos;appareils Stratux peuvent maintenant se connecter sans changer l&apos;adresse IP du récepteur.</translation>
     </message>
     <message>
         <source>There are many small improvements in the user interface.</source>
-        <translation type="vanished">Il y a des petites améliorations dans l&apos;interface utilisateur.</translation>
+        <translation>Il y a des petites améliorations dans l&apos;interface utilisateur.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="147"/>
@@ -2363,15 +2315,13 @@ page will open, which explains the connection status in more detail.&lt;/p&gt;
 <context>
     <name>MFM</name>
     <message>
-        <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Please open the menu and go to &lt;strong&gt;Settings/Library/Maps&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Aucune carte aéronautique installée.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Ouvrez le menu et allez dans &lt;strong&gt;Paramètres/Bibliothèque/Cartes&lt;/strong&gt;.&lt;/p&gt;</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/items/MFM.qml" line="427"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the button ☰ in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Aucune carte aéronautique n&apos;est installée.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour installer une carte, ouvrez le menu en utilisant le bouton ☰ situé dans le coin supérieur gauche.
+Choisissez &lt;strong&gt;Bibliothèque/Cartes&lt;/strong&gt; pour ouvrir le menu de gestion des cartes.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="461"/>
@@ -2839,64 +2789,32 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="119"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Aide</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="128"/>
         <source>How to connect your traffic receiver…</source>
-        <translation type="unfinished"></translation>
+        <translation>Comment connecter votre récepteur de traffic…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="135"/>
         <source>Connect your traffic receiver</source>
-        <translation type="unfinished">Connecter votre récepteur de traffic</translation>
+        <translation>Connecter votre récepteur de traffic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
         <source>How to connect your flight simulator…</source>
-        <translation type="unfinished"></translation>
+        <translation>Comment connecter un simulateur de vol…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="150"/>
         <source>Connect your flight simulator</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Libraries</source>
-        <translation type="vanished">Bibliothèques</translation>
-    </message>
-    <message>
-        <source>Flight Routes</source>
-        <translation type="vanished">Routes</translation>
-    </message>
-    <message>
-        <source>Maps</source>
-        <translation type="vanished">Cartes</translation>
-    </message>
-    <message>
-        <source>Updates available</source>
-        <translation type="vanished">Mises à jour disponibles</translation>
-    </message>
-    <message>
-        <source>Item not available in flight</source>
-        <translation type="vanished">Non disponible en vol</translation>
+        <translation>Connecter votre simulateur de vol</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
         <source>System</source>
         <translation>Système</translation>
-    </message>
-    <message>
-        <source>Automatic flight detection</source>
-        <translation type="vanished">Détéction automatique du mode vol</translation>
-    </message>
-    <message>
-        <source>Switching to flight-mode at 30 kt</source>
-        <translation type="vanished">Mode vol actif au-delà de 30 kt</translation>
-    </message>
-    <message>
-        <source>Always in flight-mode</source>
-        <translation type="vanished">Mode vol toujours actif</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="87"/>
@@ -2907,10 +2825,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="90"/>
         <source>Speed in km/h, distance in km</source>
         <translation>Vitesse en km/h, distance en km</translation>
-    </message>
-    <message>
-        <source>Use English</source>
-        <translation type="vanished">Utiliser l&apos;anglais</translation>
     </message>
 </context>
 <context>
@@ -3185,152 +3099,152 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="40"/>
         <source>The connection was refused by the peer (or timed out).</source>
-        <translation type="unfinished">Connection refusée ou délai dépassé.</translation>
+        <translation>Connection refusée ou délai dépassé.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="43"/>
         <source>The remote host closed the connection.</source>
-        <translation type="unfinished">Le serveur a interrompu la connexion.</translation>
+        <translation>Le serveur a interrompu la connexion.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="46"/>
         <source>The host address was not found.</source>
-        <translation type="unfinished">L&apos;adresse du serveur n&apos;a pas été trouvée.</translation>
+        <translation>L&apos;adresse du serveur n&apos;a pas été trouvée.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="49"/>
         <source>The socket operation failed because the application lacked the required privileges.</source>
-        <translation type="unfinished">Echec de l&apos;opération car l&apos;application n&apos;a pas les autorisations.</translation>
+        <translation>Echec de l&apos;opération car l&apos;application n&apos;a pas les autorisations.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="52"/>
         <source>The local system ran out of resources.</source>
-        <translation type="unfinished">Le système local n&apos; plus de ressources.</translation>
+        <translation>Le système local n&apos; plus de ressources.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="55"/>
         <source>The socket operation timed out.</source>
-        <translation type="unfinished">Delai d&apos;attente de l&apos;opération dépassé.</translation>
+        <translation>Delai d&apos;attente de l&apos;opération dépassé.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="58"/>
         <source>The datagram was larger than the operating system&apos;s limit.</source>
-        <translation type="unfinished">Le datagramme est plus grand que la limite de l&apos;OS.</translation>
+        <translation>Le datagramme est plus grand que la limite de l&apos;OS.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="61"/>
         <source>An error occurred with the network.</source>
-        <translation type="unfinished">Erreur réseau.</translation>
+        <translation>Erreur réseau.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="64"/>
         <source>The address specified to QAbstractSocket::bind() is already in use and was set to be exclusive.</source>
-        <translation type="unfinished">L&apos;adresse donnée à QAbstractSocket::bind() est déjà utilisée mais est censée être unique.</translation>
+        <translation>L&apos;adresse donnée à QAbstractSocket::bind() est déjà utilisée mais est censée être unique.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="67"/>
         <source>The address specified to QAbstractSocket::bind() does not belong to the host.</source>
-        <translation type="unfinished">L&apos;adresse donnée à QAbstractSocket::bind() n&apos;appartient pas à l&apos;hote.</translation>
+        <translation>L&apos;adresse donnée à QAbstractSocket::bind() n&apos;appartient pas à l&apos;hote.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="70"/>
         <source>The requested socket operation is not supported by the local operating system.</source>
-        <translation type="unfinished">Opération non supportée par l&apos;OS local.</translation>
+        <translation>Opération non supportée par l&apos;OS local.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="73"/>
         <source>The socket is using a proxy, and the proxy requires authentication.</source>
-        <translation type="unfinished">Le proxy du connecteur requiert une authentification.</translation>
+        <translation>Le proxy du connecteur requiert une authentification.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="76"/>
         <source>The SSL/TLS handshake failed, so the connection was closed.</source>
-        <translation type="unfinished">Connexion terminée à cause de l&apos;échec de la transaction SSL/TLS.</translation>
+        <translation>Connexion terminée à cause de l&apos;échec de la transaction SSL/TLS.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="79"/>
         <source>The last operation attempted has not finished yet (still in progress in the background).</source>
-        <translation type="unfinished">La dernière opération n&apos;est pas encore terminée (encore active en arrière-plan).</translation>
+        <translation>La dernière opération n&apos;est pas encore terminée (encore active en arrière-plan).</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="82"/>
         <source>Could not contact the proxy server because the connection to that server was denied.</source>
-        <translation type="unfinished">Refus de la connexion au serveur proxy.</translation>
+        <translation>Refus de la connexion au serveur proxy.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="85"/>
         <source>The connection to the proxy server was closed unexpectedly (before the connection to the final peer was established).</source>
-        <translation type="unfinished">La connexion au serveur proxy s&apos;est terminée prématurement.</translation>
+        <translation>La connexion au serveur proxy s&apos;est terminée prématurement.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="88"/>
         <source>The connection to the proxy server timed out or the proxy server stopped responding in the authentication phase.</source>
-        <translation type="unfinished">Délai d&apos;attente dépassé lors de la connexion au serveur proxy.</translation>
+        <translation>Délai d&apos;attente dépassé lors de la connexion au serveur proxy.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="91"/>
         <source>The proxy address set with setProxy() (or the application proxy) was not found.</source>
-        <translation type="unfinished">L&apos;adresse du proxy n&apos;a pas été trouvée.</translation>
+        <translation>L&apos;adresse du proxy n&apos;a pas été trouvée.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="94"/>
         <source>The connection negotiation with the proxy server failed, because the response from the proxy server could not be understood.</source>
-        <translation type="unfinished">Echec de la négociation de la connexion au serveur proxy. Réponse non conforme.</translation>
+        <translation>Echec de la négociation de la connexion au serveur proxy. Réponse non conforme.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="97"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
-        <translation type="unfinished">Tentative d&apos;opération alors que le connecteur n&apos;était pas dans un état adéquat.</translation>
+        <translation>Tentative d&apos;opération alors que le connecteur n&apos;était pas dans un état adéquat.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="100"/>
         <source>The SSL library being used reported an internal error. This is probably the result of a bad installation or misconfiguration of the library.</source>
-        <translation type="unfinished">Erreur interne à la bibiothèsque SSL, probablement à cause d&apos;une erreur d&apos;installation ou de configuration.</translation>
+        <translation>Erreur interne à la bibiothèsque SSL, probablement à cause d&apos;une erreur d&apos;installation ou de configuration.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="103"/>
         <source>Invalid data (certificate, key, cypher, etc.) was provided and its use resulted in an error in the SSL library.</source>
-        <translation type="unfinished">Donnée invalide (certificat, clé, etc.) fournie à la bibliothèque SSL.</translation>
+        <translation>Données invalides (certificat, clé, etc.) fournie à la bibliothèque SSL.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="106"/>
         <source>A temporary error occurred (e.g., operation would block and socket is non-blocking).</source>
-        <translation type="unfinished">Erreur temporaire.</translation>
+        <translation>Erreur temporaire.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="109"/>
         <source>An unidentified error occurred.</source>
-        <translation type="unfinished">Erreur non-identifiée.</translation>
+        <translation>Erreur non-identifiée.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="133"/>
         <source>Performing host name lookup.</source>
-        <translation type="unfinished">Recherche du nom de l&apos;hote.</translation>
+        <translation>Recherche du nom de l&apos;hote.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="136"/>
         <source>Trying to establish a connection.</source>
-        <translation type="unfinished">Tentative d&apos;établissement de la connexion</translation>
+        <translation>Tentative d&apos;établissement de la connexion</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="139"/>
         <source>Connected.</source>
-        <translation type="unfinished">Connecté.</translation>
+        <translation>Connecté.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="142"/>
         <source>Bound to an address and port, but not connected yet.</source>
-        <translation type="unfinished">Lié à une adresse et un port, mais pas encore connecté.</translation>
+        <translation>Lié à une adresse et un port, mais pas encore connecté.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="145"/>
         <source>Closing.</source>
-        <translation type="unfinished">Interruption.</translation>
+        <translation>Interruption.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="148"/>
         <source>Not connected.</source>
-        <translation type="unfinished">Non connecté.</translation>
+        <translation>Non connecté.</translation>
     </message>
 </context>
 <context>
@@ -3424,126 +3338,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Traffic::TrafficDataSource_Tcp</name>
     <message>
-        <source>The connection was refused by the peer (or timed out).</source>
-        <translation type="vanished">Connection refusée ou délai dépassé.</translation>
-    </message>
-    <message>
-        <source>The remote host closed the connection.</source>
-        <translation type="vanished">Le serveur a interrompu la connexion.</translation>
-    </message>
-    <message>
-        <source>The host address was not found.</source>
-        <translation type="vanished">L&apos;adresse du serveur n&apos;a pas été trouvée.</translation>
-    </message>
-    <message>
-        <source>The socket operation failed because the application lacked the required privileges.</source>
-        <translation type="vanished">Echec de l&apos;opération car l&apos;application n&apos;a pas les autorisations.</translation>
-    </message>
-    <message>
-        <source>The local system ran out of resources.</source>
-        <translation type="vanished">Le système local n&apos; plus de ressources.</translation>
-    </message>
-    <message>
-        <source>The socket operation timed out.</source>
-        <translation type="vanished">Delai d&apos;attente de l&apos;opération dépassé.</translation>
-    </message>
-    <message>
-        <source>The datagram was larger than the operating system&apos;s limit.</source>
-        <translation type="vanished">Le datagramme est plus grand que la limite de l&apos;OS.</translation>
-    </message>
-    <message>
-        <source>An error occurred with the network.</source>
-        <translation type="vanished">Erreur réseau.</translation>
-    </message>
-    <message>
-        <source>The address specified to QAbstractSocket::bind() is already in use and was set to be exclusive.</source>
-        <translation type="vanished">L&apos;adresse donnée à QAbstractSocket::bind() est déjà utilisée mais est censée être unique.</translation>
-    </message>
-    <message>
-        <source>The address specified to QAbstractSocket::bind() does not belong to the host.</source>
-        <translation type="vanished">L&apos;adresse donnée à QAbstractSocket::bind() n&apos;appartient pas à l&apos;hote.</translation>
-    </message>
-    <message>
-        <source>The requested socket operation is not supported by the local operating system.</source>
-        <translation type="vanished">Opération non supportée par l&apos;OS local.</translation>
-    </message>
-    <message>
-        <source>The socket is using a proxy, and the proxy requires authentication.</source>
-        <translation type="vanished">Le proxy du connecteur requiert une authentification.</translation>
-    </message>
-    <message>
-        <source>The SSL/TLS handshake failed, so the connection was closed.</source>
-        <translation type="vanished">Connexion terminée à cause de l&apos;échec de la transaction SSL/TLS.</translation>
-    </message>
-    <message>
-        <source>The last operation attempted has not finished yet (still in progress in the background).</source>
-        <translation type="vanished">La dernière opération n&apos;est pas encore terminée (encore active en arrière-plan).</translation>
-    </message>
-    <message>
-        <source>Could not contact the proxy server because the connection to that server was denied.</source>
-        <translation type="vanished">Refus de la connexion au serveur proxy.</translation>
-    </message>
-    <message>
-        <source>The connection to the proxy server was closed unexpectedly (before the connection to the final peer was established).</source>
-        <translation type="vanished">La connexion au serveur proxy s&apos;est terminée prématurement.</translation>
-    </message>
-    <message>
-        <source>The connection to the proxy server timed out or the proxy server stopped responding in the authentication phase.</source>
-        <translation type="vanished">Délai d&apos;attente dépassé lors de la connexion au serveur proxy.</translation>
-    </message>
-    <message>
-        <source>The proxy address set with setProxy() (or the application proxy) was not found.</source>
-        <translation type="vanished">L&apos;adresse du proxy n&apos;a pas été trouvée.</translation>
-    </message>
-    <message>
-        <source>The connection negotiation with the proxy server failed, because the response from the proxy server could not be understood.</source>
-        <translation type="vanished">Echec de la négociation de la connexion au serveur proxy. Réponse non conforme.</translation>
-    </message>
-    <message>
-        <source>An operation was attempted while the socket was in a state that did not permit it.</source>
-        <translation type="vanished">Tentative d&apos;opération alors que le connecteur n&apos;était pas dans un état adéquat.</translation>
-    </message>
-    <message>
-        <source>The SSL library being used reported an internal error. This is probably the result of a bad installation or misconfiguration of the library.</source>
-        <translation type="vanished">Erreur interne à la bibiothèsque SSL, probablement à cause d&apos;une erreur d&apos;installation ou de configuration.</translation>
-    </message>
-    <message>
-        <source>Invalid data (certificate, key, cypher, etc.) was provided and its use resulted in an error in the SSL library.</source>
-        <translation type="vanished">Donnée invalide (certificat, clé, etc.) fournie à la bibliothèque SSL.</translation>
-    </message>
-    <message>
-        <source>A temporary error occurred (e.g., operation would block and socket is non-blocking).</source>
-        <translation type="vanished">Erreur temporaire.</translation>
-    </message>
-    <message>
-        <source>An unidentified error occurred.</source>
-        <translation type="vanished">Erreur non-identifiée.</translation>
-    </message>
-    <message>
-        <source>Performing host name lookup.</source>
-        <translation type="vanished">Recherche du nom de l&apos;hote.</translation>
-    </message>
-    <message>
-        <source>Trying to establish a connection.</source>
-        <translation type="vanished">Tentative d&apos;établissement de la connexion</translation>
-    </message>
-    <message>
-        <source>Connected.</source>
-        <translation type="vanished">Connecté.</translation>
-    </message>
-    <message>
-        <source>Bound to an address and port, but not connected yet.</source>
-        <translation type="vanished">Lié à une adresse et un port, mais pas encore connecté.</translation>
-    </message>
-    <message>
-        <source>Closing.</source>
-        <translation type="vanished">Interruption.</translation>
-    </message>
-    <message>
-        <source>Not connected.</source>
-        <translation type="vanished">Non connecté.</translation>
-    </message>
-    <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.h" line="67"/>
         <source>TCP connection to %1 port %2</source>
         <translation>Connexion TCP à %1 port %2</translation>
@@ -3554,130 +3348,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Udp.h" line="66"/>
         <source>UDP connection to port %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Traffic::TrafficDataSource_Udp_GDL</name>
-    <message>
-        <source>The connection was refused by the peer (or timed out).</source>
-        <translation type="obsolete">Connection refusée ou délai dépassé.</translation>
-    </message>
-    <message>
-        <source>The remote host closed the connection.</source>
-        <translation type="obsolete">Le serveur a interrompu la connexion.</translation>
-    </message>
-    <message>
-        <source>The host address was not found.</source>
-        <translation type="obsolete">L&apos;adresse du serveur n&apos;a pas été trouvée.</translation>
-    </message>
-    <message>
-        <source>The socket operation failed because the application lacked the required privileges.</source>
-        <translation type="obsolete">Echec de l&apos;opération car l&apos;application n&apos;a pas les autorisations.</translation>
-    </message>
-    <message>
-        <source>The local system ran out of resources.</source>
-        <translation type="obsolete">Le système local n&apos; plus de ressources.</translation>
-    </message>
-    <message>
-        <source>The socket operation timed out.</source>
-        <translation type="obsolete">Delai d&apos;attente de l&apos;opération dépassé.</translation>
-    </message>
-    <message>
-        <source>The datagram was larger than the operating system&apos;s limit.</source>
-        <translation type="obsolete">Le datagramme est plus grand que la limite de l&apos;OS.</translation>
-    </message>
-    <message>
-        <source>An error occurred with the network.</source>
-        <translation type="obsolete">Erreur réseau.</translation>
-    </message>
-    <message>
-        <source>The address specified to QAbstractSocket::bind() is already in use and was set to be exclusive.</source>
-        <translation type="obsolete">L&apos;adresse donnée à QAbstractSocket::bind() est déjà utilisée mais est censée être unique.</translation>
-    </message>
-    <message>
-        <source>The address specified to QAbstractSocket::bind() does not belong to the host.</source>
-        <translation type="obsolete">L&apos;adresse donnée à QAbstractSocket::bind() n&apos;appartient pas à l&apos;hote.</translation>
-    </message>
-    <message>
-        <source>The requested socket operation is not supported by the local operating system.</source>
-        <translation type="obsolete">Opération non supportée par l&apos;OS local.</translation>
-    </message>
-    <message>
-        <source>The socket is using a proxy, and the proxy requires authentication.</source>
-        <translation type="obsolete">Le proxy du connecteur requiert une authentification.</translation>
-    </message>
-    <message>
-        <source>The SSL/TLS handshake failed, so the connection was closed.</source>
-        <translation type="obsolete">Connexion terminée à cause de l&apos;échec de la transaction SSL/TLS.</translation>
-    </message>
-    <message>
-        <source>The last operation attempted has not finished yet (still in progress in the background).</source>
-        <translation type="obsolete">La dernière opération n&apos;est pas encore terminée (encore active en arrière-plan).</translation>
-    </message>
-    <message>
-        <source>Could not contact the proxy server because the connection to that server was denied.</source>
-        <translation type="obsolete">Refus de la connexion au serveur proxy.</translation>
-    </message>
-    <message>
-        <source>The connection to the proxy server was closed unexpectedly (before the connection to the final peer was established).</source>
-        <translation type="obsolete">La connexion au serveur proxy s&apos;est terminée prématurement.</translation>
-    </message>
-    <message>
-        <source>The connection to the proxy server timed out or the proxy server stopped responding in the authentication phase.</source>
-        <translation type="obsolete">Délai d&apos;attente dépassé lors de la connexion au serveur proxy.</translation>
-    </message>
-    <message>
-        <source>The proxy address set with setProxy() (or the application proxy) was not found.</source>
-        <translation type="obsolete">L&apos;adresse du proxy n&apos;a pas été trouvée.</translation>
-    </message>
-    <message>
-        <source>The connection negotiation with the proxy server failed, because the response from the proxy server could not be understood.</source>
-        <translation type="obsolete">Echec de la négociation de la connexion au serveur proxy. Réponse non conforme.</translation>
-    </message>
-    <message>
-        <source>An operation was attempted while the socket was in a state that did not permit it.</source>
-        <translation type="obsolete">Tentative d&apos;opération alors que le connecteur n&apos;était pas dans un état adéquat.</translation>
-    </message>
-    <message>
-        <source>The SSL library being used reported an internal error. This is probably the result of a bad installation or misconfiguration of the library.</source>
-        <translation type="obsolete">Erreur interne à la bibiothèsque SSL, probablement à cause d&apos;une erreur d&apos;installation ou de configuration.</translation>
-    </message>
-    <message>
-        <source>Invalid data (certificate, key, cypher, etc.) was provided and its use resulted in an error in the SSL library.</source>
-        <translation type="obsolete">Donnée invalide (certificat, clé, etc.) fournie à la bibliothèque SSL.</translation>
-    </message>
-    <message>
-        <source>A temporary error occurred (e.g., operation would block and socket is non-blocking).</source>
-        <translation type="obsolete">Erreur temporaire.</translation>
-    </message>
-    <message>
-        <source>An unidentified error occurred.</source>
-        <translation type="obsolete">Erreur non-identifiée.</translation>
-    </message>
-    <message>
-        <source>Performing host name lookup.</source>
-        <translation type="obsolete">Recherche du nom de l&apos;hote.</translation>
-    </message>
-    <message>
-        <source>Trying to establish a connection.</source>
-        <translation type="obsolete">Tentative d&apos;établissement de la connexion</translation>
-    </message>
-    <message>
-        <source>Connected.</source>
-        <translation type="obsolete">Connecté.</translation>
-    </message>
-    <message>
-        <source>Bound to an address and port, but not connected yet.</source>
-        <translation type="obsolete">Lié à une adresse et un port, mais pas encore connecté.</translation>
-    </message>
-    <message>
-        <source>Closing.</source>
-        <translation type="obsolete">Interruption.</translation>
-    </message>
-    <message>
-        <source>Not connected.</source>
-        <translation type="obsolete">Non connecté.</translation>
+        <translation>connexion UDP au port %1</translation>
     </message>
 </context>
 <context>
@@ -3819,25 +3490,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>&lt;p&gt;Bien joué, vous pouvez partir en vol !&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>
-&lt;p&gt;If no traffic data has arrived after a few seconds, somthing has gone wrong.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-&lt;li&gt;Make sure that your device has entered the WLAN network deployed by your traffic receiver.  If not, then use the button at the bottem of the screen to abort the connection attempt.&lt;/li&gt;
-&lt;li&gt;Some traffic receivers protect the data stream with an additional password. This is currently not supported.&lt;/li&gt;
-&lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
-&lt;/ul&gt;
-</source>
-        <translation type="vanished">
-&lt;p&gt;Si les données de traffic n&apos;arrivent pas après quelques secondes, la procédure a échoué.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-&lt;li&gt;Assurez-vous que votre appareil est connecté au réseau WLAN émis par le récepeur. Si ce n&apos;est pas le cas, annulez la tentative de connexion en utilisant le bouton en bas de page.&lt;/li&gt;
-&lt;li&gt;Certains récepteurs protègent leur flux de données avec un mot de passe additionnel. Cette option n&apos;est pas supportée pour le moment.&lt;/li&gt;
-&lt;li&gt;Cliquez sur le point d&apos;interrogation dans le titre de la page pour ouvrir un dialogue d&apos;aide avancée.&lt;/li&gt;
-</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="150"/>
         <source>
 &lt;h3&gt;How to connect your device to the traffic receiver&lt;/h3&gt;
@@ -3881,11 +3533,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="188"/>
         <source>Connect to Traffic Receiver</source>
-        <translation>Se connecteur au récepteur de traffic</translation>
-    </message>
-    <message>
-        <source>Disconnect from Traffic Receiver</source>
-        <translation type="vanished">Se déconnecter du récepteur de traffic</translation>
+        <translation>Se connecter au récepteur de traffic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="215"/>
@@ -6985,10 +6633,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Contribuer</translation>
     </message>
     <message>
-        <source>Satellite Navigation</source>
-        <translation type="vanished">Navigation satellite</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/main.qml" line="233"/>
         <source>Traffic Receiver</source>
         <translation>Récepteur de traffic</translation>
@@ -7001,32 +6645,32 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="131"/>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliothèque</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="144"/>
         <source>Flight Routes</source>
-        <translation type="unfinished">Routes</translation>
+        <translation>Routes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="157"/>
         <source>Maps</source>
-        <translation type="unfinished">Cartes</translation>
+        <translation>Cartes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="158"/>
         <source>Updates available</source>
-        <translation type="unfinished">Mises à jour disponibles</translation>
+        <translation>Mises à jour disponibles</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="159"/>
         <source>Item not available in flight</source>
-        <translation type="unfinished">Non disponible en vol</translation>
+        <translation>Non disponible en vol</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="210"/>
         <source>Positioning</source>
-        <translation type="unfinished">Positionnement</translation>
+        <translation>Positionnement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="212"/>
