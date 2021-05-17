@@ -1559,7 +1559,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
   &lt;/li&gt;
 &lt;/ul&gt;
 </source>
-<translation>
+        <translation>
 &lt;h4&gt;Cartes géographiques&lt;/h4&gt;
 
 &lt;p&gt;
@@ -1760,7 +1760,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
   &lt;/tr&gt;
 &lt;/table&gt;
 </source>
-<translation>
+        <translation>
 &lt;h3&gt;Auteurs&lt;/h3&gt;
 
 &lt;br&gt;
@@ -1848,7 +1848,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 &lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-<translation>
+        <translation>
 &lt;h3&gt;Manuel&lt;/h3&gt;
 
 &lt;p&gt;Le manuel a été écrit par Michael Horbaschk.&lt;/p&gt;
@@ -2131,7 +2131,7 @@ has been tested with the following programs.&lt;/p&gt;
   &lt;li&gt;X-Plane 11.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Contactez-nous si vous avez testé l&pos;application avec d&apos;autres logiciels.&lt;/p&gt;
+&lt;p&gt;Contactez-nous si vous avez testé l&apos;application avec d&apos;autres logiciels.&lt;/p&gt;
         </translation>
     </message>
     <message>
@@ -2154,7 +2154,7 @@ following conditions are met.&lt;/p&gt;
   transfer between the devices in the &quot;guest network&quot;&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-<translation>
+        <translation>
 &lt;h2&gt;Avant de vous connecter&lt;/h2&gt;
 
 &lt;p&gt;Ce manuel suppose que vous vous trouvez dans un environnement classique, dans lequel l&apos;ordinateur sur lequel le simulateur est installé et l&apos;appareil qui utilise &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; sont connectés à un même réseau deployé par le  memê routeur.  Assurez-vous que les conditions suivantes sont remplies.&lt;/p&gt;
@@ -2179,7 +2179,7 @@ adjust accordingly.  To end the connection to the flight simulator, simply leave
 the flight simulator&apos;s Wi-Fi network.&lt;/p&gt;
 
 </source>
-<translation>
+        <translation>
 &lt;h2&gt;Paramètrez vi-otre simulateur de vol&lt;/h2&gt;
 
 &lt;p&gt;Votre simulateur doit partager les informations de positionnement et de traffic au travers du réseau. Dès que le simulateur partagera ces informations sur le réseau, la carte de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; s&apos;adaptera automatiquement. Pour interrompre la connexion, déconnectez-vous du réseau.&lt;/p&gt;
@@ -2195,7 +2195,7 @@ group &quot;This machine&apos;s role&quot; on the right-hand side of the tab. Op
 &quot;iPHONE, iPAD, and EXTERNAL APPS&quot; and select the item &quot;Broadcast to all mapping
 apps on the network&quot; under the headline &quot;OTHER MAPPING APPS&quot;.&lt;/p&gt;
 </source>
-<translation>
+        <translation>
 &lt;h3&gt;X-Plane 11&lt;/h3&gt;
 
 &lt;p&gt;Ouvrez la fenêtre &quot;Paramètres&quot; et choisissez l&apos;onglet &quot;Réseau&quot;. Cherchez le groupe &quot;Rôle de la machine&quot; sur le côté droit. Ouvrez la section &quot;iPHONE, iPAD, et APPS EXTERNES&quot; et sélectionnez &quot;Transmettre à toutes les applications sur le réseau&quot; sous le titre &quot;AUTRES APPS&quot;.&lt;/p&gt;
@@ -2212,7 +2212,7 @@ If the MS Flight Simulator works for you, please be in touch.  The article
 do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
 might be helpful.&lt;/p&gt;
 </source>
-<translation>
+        <translation>
 &lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
 
 &lt;p&gt;Inconnu pour le moment, car l&apos;auteur n&apos;a pas accès à ce logiciel.
@@ -2230,7 +2230,7 @@ peut vous être utile.&lt;/p&gt;
 standard formats &quot;GDL90&quot; or &quot;XGPS&quot; to ports 4000 or 49002.  Given the choice,
 GDL90 is generally the preferred format.&lt;/p&gt;
 </source>
-<translation>
+        <translation>
 &lt;h3&gt;Autres programmes&lt;/h3&gt;
 
 &lt;p&gt;Le simulateur doit être paramètré pour envoyer des données UDP dans un des formats standards &quot;GDL90&quot; ou &quot;XGPS&quot; aux ports 4000 ou 49002.  Si vous avez le choix, préfèrez le format GDL90.&lt;/p&gt;
@@ -2248,7 +2248,7 @@ Flight Navigation&lt;/strong&gt; has already found the program in the network an
 connected to it.  If not, then select the entry. The &quot;Traffic Receiver Status&quot;
 page will open, which explains the connection status in more detail.&lt;/p&gt;
 </source>
-<translation>
+        <translation>
 &lt;h2&gt;Résolution des bugs&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; traite les simulateurs de vol en tant que récepteur de traffic. Pour vérifier le statut de la connexion, ouvrez le menu principal et allez dans le menu &quot;Information&quot;. Si l&apos;entrée &quot;Récepteur de Traffic&quot; est surligné en vert, alors &lt;strong&gt;Enroute
@@ -2258,7 +2258,7 @@ Flight Navigation&lt;/strong&gt; a déjà trouvé le simulateur et s&apos;y est 
     <message>
         <location filename="../../../src/Librarian.cpp" line="485"/>
         <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
-        <translation>En plus du FLARM, l&pos;application fonctionne aussi avec des récepteurs de traffic utilisant le format GDL90.</translation>
+        <translation>En plus du FLARM, l&apos;application fonctionne aussi avec des récepteurs de traffic utilisant le format GDL90.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="486"/>
@@ -2269,16 +2269,16 @@ Flight Navigation&lt;/strong&gt; a déjà trouvé le simulateur et s&apos;y est 
     <message>
         <location filename="../../../src/Librarian.cpp" line="484"/>
         <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
-        <translation>**Nous recherchons des volontaires pour traduire l&pos;application en italien. Si vous le parlez, et que vous êtes capable d&apos;utiliser GIT, alors contactez-nous !
+        <translation>**Nous recherchons des volontaires pour traduire l&apos;application en italien. Si vous le parlez, et que vous êtes capable d&apos;utiliser GIT, alors contactez-nous !
         </translation>
     </message>
     <message>
         <source>Users of Stratux traffic receivers can now connect to their devices without changing the Stratux&apos; IP address.</source>
-        <translation>Les utilisateurs d&apos;appareils Stratux peuvent maintenant se connecter sans changer l&apos;adresse IP du récepteur.</translation>
+        <translation type="vanished">Les utilisateurs d&apos;appareils Stratux peuvent maintenant se connecter sans changer l&apos;adresse IP du récepteur.</translation>
     </message>
     <message>
         <source>There are many small improvements in the user interface.</source>
-        <translation>Il y a des petites améliorations dans l&apos;interface utilisateur.</translation>
+        <translation type="vanished">Il y a des petites améliorations dans l&apos;interface utilisateur.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="147"/>
