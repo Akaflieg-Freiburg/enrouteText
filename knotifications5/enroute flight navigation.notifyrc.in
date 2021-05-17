@@ -5,7 +5,9 @@ Comment=Navigation app for VFR pilots
 Comment[de]=Navigations-App für VFR-Piloten
 Comment[fr]=Application de navigation VFR
 Comment[pl]=Aplikacja do nawigacji lotniczej dla pilotów VFR
+Comment[it]=App di navigazione per piloti VFR
 DesktopEntry=de.akaflieg_freiburg.enroute
+
 
 [Event/downloading]
 Name=Downloading map data…
