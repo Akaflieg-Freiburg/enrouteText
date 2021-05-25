@@ -2660,7 +2660,27 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
   &lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Geografische Karten&lt;/h4&gt;
+
+&lt;p&gt;
+  Als Flugnavigationsprogramm ist &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; maßgeblich auf geografische Kartendaten angewiesen. Diese Karten sind nicht Bestandteil der App, sondern werden vom Anwender über die Funktion Kartenverwaltung heruntergeladen. Die Karten werden aus folgenden Quellen zusammengestellt:
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;
+    Die Basiskarten sind modifizierte Daten von &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt;, veröffentlicht unter einer &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY 4.0 design -Lizenz&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Die Luftfahrtkarten enthalten Daten aus &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, lizenziert unter einer &lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0&quot;&gt;CC BY-NC-SA -Lizenz&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Die Luftfahrtkarten enthalten außerdem Daten aus &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;, lizenziert unter der &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users -Lizenz&lt;/a&gt;.
+  &lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="262"/>
@@ -2700,14 +2720,20 @@ device).&lt;/p&gt;
 &lt;p&gt;The author has tested the &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; with the
 following traffic receivers.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Um in der Näge befindlichen Verkehr anzuzeigen, kann sich &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; mit Ihrem Verkehrsdatenempfänger (typischerwesie ein FLARM-Gerät) verbinden .&lt;/p&gt;
+
+&lt;p&gt;Der Autor hat &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; bisher mit den folgenden Verkehrsdatenempfängern getestet:&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="301"/>
         <source>
 &lt;p&gt;Users reported success with the following traffic receivers.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Anwender berichteten uns über die erfolgereiche Verwendung der folgenden Verkehrsdatenempfänger:&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="310"/>
