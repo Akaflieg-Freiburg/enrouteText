@@ -3350,7 +3350,43 @@ seguenti ricevitori di traffico.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Mappe geografiche&lt;/h4&gt;
+
+&lt;p&gt;
+	Come programma di navigazione aerea, &lt;strong&gt;Enroute Flight
+	Navigation&lt;/strong&gt; si basa molto sui dati geografici.
+    Le mappe geografiche non sono incluse nel
+    programma, ma vengono scaricate dall&apos;utente pagina di gestione. 
+	Le mappe sono prodotte dalle fonti sequenti.
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;
+    La mappa di base è fornita da &lt;a
+    href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt;,
+    pubblicato con 
+    &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY
+    4.0 design license&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Le mappe d&apos;avviazione sono fornite da &lt;a
+    href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, lincenziate con 
+    &lt;a
+    href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0&quot;&gt;CC
+    BY-NC-SA license&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Le mappe di navigazione contengono dati forniti da &lt;a
+    href=&quot;https://www.openflightmaps.org&quot;&gt;open
+    flightmaps&lt;/a&gt;, licenziati sotto &lt;a
+    href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA
+    General Users License&lt;/a&gt;.
+  &lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="290"/>
@@ -3362,14 +3398,20 @@ device).&lt;/p&gt;
 &lt;p&gt;The author has tested the &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; with the
 following traffic receivers.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Per visualizzare il traffico nelle vicinanze sulla mappa mobile, &lt;strong&gt;Enroute Flight
+	Navigation&lt;/strong&gt;può connettersi al ricevitore Info Traffico del tuo aereo (tipicamente un dispositivo FLARM).&lt;/p&gt;
+
+&lt;p&gt;L&apos;autore ha testato la &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; con il
+seguenti ricevitori sul traffico.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="301"/>
         <source>
 &lt;p&gt;Users reported success with the following traffic receivers.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Gli utenti hanno riportato esito positivo con i seguenti ricevitori di traffico.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="401"/>
