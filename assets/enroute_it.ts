@@ -3562,14 +3562,17 @@ si aprirà la pagina, che spiega lo stato della connessione in modo più dettagl
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="496"/>
-        <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
-        <translation>Oltre a FLARM, l&apos;app ora supporta i ricevitori di traffico che inviano dati sul traffico in formato GDL90.</translation>
+        <location filename="../../../src/Librarian.cpp" line="497"/>
+        <source>**We need help with the Microsoft Flight Simulator.** This App should work well with the MS Flight Simulator, but the author does not access to a Windows machine. Please contact us if you know the Flight Simulator and if you would like to help with testing.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="497"/>
+        <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
+        <translation type="vanished">Oltre a FLARM, l&apos;app ora supporta i ricevitori di traffico che inviano dati sul traffico in formato GDL90.</translation>
+    </message>
+    <message>
         <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) and potentially others.  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
-        <translation>Ora l&apos;app può essere utilizzata insieme a simulatori di volo come [XPlane] (https://www.x-plane.com/) e potenzialmente altri. Apri il menu principale e vai alla pagina **Impostazioni** per saperne di più. Contattaci se possiedi un simulatore di volo MS e se desideri aiutare con il test.</translation>
+        <translation type="vanished">Ora l&apos;app può essere utilizzata insieme a simulatori di volo come [XPlane] (https://www.x-plane.com/) e potenzialmente altri. Apri il menu principale e vai alla pagina **Impostazioni** per saperne di più. Contattaci se possiedi un simulatore di volo MS e se desideri aiutare con il test.</translation>
     </message>
     <message>
         <source>Test-release for GDL90 and XGPS support</source>
@@ -3584,7 +3587,7 @@ si aprirà la pagina, che spiega lo stato della connessione in modo più dettagl
         <translation type="vanished">L&apos;app ora può essere utilizzata insieme a simulatori di volo come [XPlane] (https://www.x-plane.com/) o il popolare [MS Flight Simulator] (https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab). Apri il menu principale e vai alla pagina ** Impostazioni ** per saperne di più. Contattaci se possiedi un simulatore di volo MS e se desideri aiutare con i test.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="495"/>
+        <location filename="../../../src/Librarian.cpp" line="496"/>
         <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
         <translation>** Abbiamo bisogno di aiuto con la traduzione italiana. ** Se desideri aiutare, se parli italiano e se sai come utilizzare il sistema di controllo di revisione GIT, contattaci.</translation>
     </message>

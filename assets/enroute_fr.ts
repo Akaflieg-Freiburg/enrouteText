@@ -2298,18 +2298,21 @@ Flight Navigation&lt;/strong&gt; a déjà trouvé le simulateur et s&apos;y est 
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="496"/>
-        <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
-        <translation>En plus du FLARM, l&apos;application fonctionne aussi avec des récepteurs de traffic utilisant le format GDL90.</translation>
+        <location filename="../../../src/Librarian.cpp" line="497"/>
+        <source>**We need help with the Microsoft Flight Simulator.** This App should work well with the MS Flight Simulator, but the author does not access to a Windows machine. Please contact us if you know the Flight Simulator and if you would like to help with testing.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="497"/>
+        <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
+        <translation type="vanished">En plus du FLARM, l&apos;application fonctionne aussi avec des récepteurs de traffic utilisant le format GDL90.</translation>
+    </message>
+    <message>
         <source>The app now can now be used together with flight simulators such as [XPlane](https://www.x-plane.com/) and potentially others.  Open the main menu and go to the **Settings** page to learn more. Please contact us if you own an MS Flight Simulator and if you would like to help with the testing.</source>
-        <translation>L&apos;application peut maintenant être utilisée conjointement avec des simulateurs de vol comme [XPlane](https://www.x-plane.com/) ou autres.  Ouvrez le menu principal et allez sur la page **Paramètres** pour en apprendre plus. Contactez-nous si vous possédez MS Flight Simulator et si vous voulez nous aider à le tester.
+        <translation type="vanished">L&apos;application peut maintenant être utilisée conjointement avec des simulateurs de vol comme [XPlane](https://www.x-plane.com/) ou autres.  Ouvrez le menu principal et allez sur la page **Paramètres** pour en apprendre plus. Contactez-nous si vous possédez MS Flight Simulator et si vous voulez nous aider à le tester.
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="495"/>
+        <location filename="../../../src/Librarian.cpp" line="496"/>
         <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
         <translation>**Nous recherchons des volontaires pour traduire l&apos;application en italien. Si vous le parlez, et que vous êtes capable d&apos;utiliser GIT, alors contactez-nous !
         </translation>
