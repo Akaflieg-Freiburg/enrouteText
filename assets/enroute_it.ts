@@ -4001,8 +4001,8 @@ Scegli &lt;strong&gt; Biblioteca / Mappe &lt;/strong&gt; per aprire la pagina di
 <context>
     <name>MobileAdaptor</name>
     <message>
-        <location filename="../../../src/MobileAdaptor.cpp" line="175"/>
-        <location filename="../../../src/MobileAdaptor.cpp" line="184"/>
+        <location filename="../../../src/MobileAdaptor.cpp" line="174"/>
+        <location filename="../../../src/MobileAdaptor.cpp" line="183"/>
         <source>Downloading map data…</source>
         <translation>Download dati mappa...</translation>
     </message>

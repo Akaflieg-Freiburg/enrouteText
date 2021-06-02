@@ -4364,8 +4364,8 @@ Wählen Sie &lt;strong&gt;Bibliothek/Karten&lt;/strong&gt; um zum Kartenmanageme
 <context>
     <name>MobileAdaptor</name>
     <message>
-        <location filename="../../../src/MobileAdaptor.cpp" line="175"/>
-        <location filename="../../../src/MobileAdaptor.cpp" line="184"/>
+        <location filename="../../../src/MobileAdaptor.cpp" line="174"/>
+        <location filename="../../../src/MobileAdaptor.cpp" line="183"/>
         <source>Downloading map data…</source>
         <translation>Kartendaten werden heruntergeladen …</translation>
     </message>
