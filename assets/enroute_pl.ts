@@ -3245,7 +3245,7 @@ się otworzy, wyjaśniając dokładniej status połączenia.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="497"/>
-        <source>**We need help with the Microsoft Flight Simulator.** This App should work well with the MS Flight Simulator, but the author does not access to a Windows machine. Please contact us if you know the Flight Simulator and if you would like to help with testing.</source>
+        <source>**We need help with the Microsoft Flight Simulator.** This App should work well with the MS Flight Simulator, but the author does not have access to a Windows machine. Please contact us if you know the Flight Simulator and if you would like to help with testing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
