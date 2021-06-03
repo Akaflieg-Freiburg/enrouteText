@@ -1163,17 +1163,17 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <translation>Aggiungi destinazione</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="756"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="760"/>
         <source>Clear route?</source>
         <translation>Cancellare l&apos;itinerario?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="768"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="772"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>Una volta cancellato, ll&apos;itinerario non potrà essere ripristinato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="776"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="780"/>
         <source>Flight route cleared</source>
         <translation>Itinerario di volo ripulito</translation>
     </message>
@@ -1182,7 +1182,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <translation type="vanished">Pulisci itinerario</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="805"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="809"/>
         <source>Error exporting data…</source>
         <translation>Errore durante l&apos;esportazione dei dati…</translation>
     </message>
@@ -4010,47 +4010,47 @@ Scegli &lt;strong&gt; Biblioteca / Mappe &lt;/strong&gt; per aprire la pagina di
         <translation>Download dati mappa...</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="46"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="47"/>
         <source>Import data</source>
         <translation>Importa i dati</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="48"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="49"/>
         <source>All files (*)</source>
         <translation>Tutti i file (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="74"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="75"/>
         <source>No suitable file sharing app could be found.</source>
         <translation>Nessuna app trovata per la condivisione del file.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="77"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="78"/>
         <source>Export flight route</source>
         <translation>Esporta itinerario</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="79"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="80"/>
         <source>%1 (*.%2);;All files (*)</source>
         <translation>%1 (*.%2);;tutti i files (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="86"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="87"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Impossibile aprire il file &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="90"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="91"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Impossibile scrivere il file &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="110"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="111"/>
         <source>No suitable app for viewing this data could be found.</source>
         <translation>Nessuna app trovata per la visualizzazione di questi dati.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="116"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="117"/>
         <source>Unable to open data in other app.</source>
         <translation>Impossibile aprire i dati in un&apos;altra app.</translation>
     </message>
