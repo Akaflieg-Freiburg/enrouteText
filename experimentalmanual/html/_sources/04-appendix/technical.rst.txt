@@ -1,20 +1,6 @@
 
-
 Technical Notes
 ===============
-
-Platform notes
---------------
-
-Android
-^^^^^^^
-
-Wi-Fi locking
-
-  When running on Android, the app acquires a Wi-Fi lock as soon as the app
-  receives heartbeat messages from one of the channels where it listens for
-  traffic receivers.  The lock is released when the messages no longer arrive.
-
 
 Traffic Receiver
 ----------------

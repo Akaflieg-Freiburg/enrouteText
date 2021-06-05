@@ -28,28 +28,21 @@
 \contentsline {subsection}{\numberline {5.2.4}Other programs}{15}{subsection.5.2.4}%
 \contentsline {section}{\numberline {5.3}Troubleshooting}{15}{section.5.3}%
 \contentsline {chapter}{\numberline {6}Make a donation}{17}{chapter.6}%
-\contentsline {chapter}{\numberline {7}Map Data}{19}{chapter.7}%
-\contentsline {chapter}{\numberline {8}Other}{21}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Flight mode and ground mode}{23}{section.8.1}%
-\contentsline {chapter}{\numberline {9}Airspace Display}{25}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Controlled Airspace}{26}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Control Zone}{26}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Transponder Mandatory Zones}{27}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Radio Mandatory Zone}{27}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Parachute Jumping Areas}{27}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Nature Reserve Areas}{27}{section.9.6}%
-\contentsline {section}{\numberline {9.7}Airfields}{29}{section.9.7}%
-\contentsline {section}{\numberline {9.8}Approach and Departure Routes}{29}{section.9.8}%
-\contentsline {chapter}{\numberline {10}Weather}{31}{chapter.10}%
-\contentsline {part}{I\hspace {1em}Appendix}{35}{part.1}%
-\contentsline {chapter}{\numberline {11}Software license}{37}{chapter.11}%
-\contentsline {chapter}{\numberline {12}Third party software and data}{49}{chapter.12}%
-\contentsline {section}{\numberline {12.1}Geographic maps}{49}{section.12.1}%
-\contentsline {section}{\numberline {12.2}Software and data included in the program}{49}{section.12.2}%
-\contentsline {chapter}{\numberline {13}Technical Notes}{55}{chapter.13}%
-\contentsline {section}{\numberline {13.1}Platform notes}{55}{section.13.1}%
-\contentsline {subsection}{\numberline {13.1.1}Android}{55}{subsection.13.1.1}%
-\contentsline {section}{\numberline {13.2}Traffic Receiver}{55}{section.13.2}%
-\contentsline {subsection}{\numberline {13.2.1}Communication}{55}{subsection.13.2.1}%
-\contentsline {subsection}{\numberline {13.2.2}Known issues}{56}{subsection.13.2.2}%
-\contentsline {subsection}{\numberline {13.2.3}ForeFlight Broadcast}{56}{subsection.13.2.3}%
+\contentsline {chapter}{\numberline {7}Platform notes}{19}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Android}{19}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Screen backlighting}{19}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Screen locking}{19}{subsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.1.3}Wi\sphinxhyphen {}Fi locking}{19}{subsection.7.1.3}%
+\contentsline {section}{\numberline {7.2}Linux desktop}{19}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}File import by drag\sphinxhyphen {}and\sphinxhyphen {}drop}{19}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Command line}{20}{subsection.7.2.2}%
+\contentsline {part}{I\hspace {1em}Appendix}{21}{part.1}%
+\contentsline {chapter}{\numberline {8}Software license}{23}{chapter.8}%
+\contentsline {chapter}{\numberline {9}Third party software and data}{35}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Geographic maps}{35}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Software and data included in the program}{35}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Technical Notes}{41}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Traffic Receiver}{41}{section.10.1}%
+\contentsline {subsection}{\numberline {10.1.1}Communication}{41}{subsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.1.2}Known issues}{42}{subsection.10.1.2}%
+\contentsline {subsection}{\numberline {10.1.3}ForeFlight Broadcast}{42}{subsection.10.1.3}%

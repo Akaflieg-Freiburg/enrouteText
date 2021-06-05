@@ -234,177 +234,135 @@
     </navPoint>
     <navPoint id="navPoint38" playOrder="31">
       <navLabel>
-        <text>Map Data</text>
+        <text>Platform notes</text>
       </navLabel>
-      <content src="03-reference/map_data.xhtml" />  
-    </navPoint>
-    <navPoint id="navPoint39" playOrder="32">
-      <navLabel>
-        <text>Other</text>
-      </navLabel>
-      <content src="03-reference/map_data.xhtml#other" />  
+      <content src="03-reference/platform.xhtml" />  
+      <navPoint id="navPoint39" playOrder="31">
+        <navLabel>
+          <text>Platform notes</text>
+        </navLabel>
+        <content src="03-reference/platform.xhtml" />  
+      </navPoint>
       <navPoint id="navPoint40" playOrder="32">
         <navLabel>
-          <text>Other</text>
+          <text>Android</text>
         </navLabel>
-        <content src="03-reference/map_data.xhtml#other" />  
-      </navPoint>
-      <navPoint id="navPoint41" playOrder="33">
-        <navLabel>
-          <text>Flight mode and ground mode</text>
-        </navLabel>
-        <content src="03-reference/map_data.xhtml#flight-mode-and-ground-mode" />  
-      </navPoint>
-    </navPoint>
-    <navPoint id="navPoint42" playOrder="34">
-      <navLabel>
-        <text>Airspace Display</text>
-      </navLabel>
-      <content src="03-reference/airspace_display.xhtml" />  
-      <navPoint id="navPoint43" playOrder="34">
-        <navLabel>
-          <text>Airspace Display</text>
-        </navLabel>
-        <content src="03-reference/airspace_display.xhtml" />  
-      </navPoint>
-      <navPoint id="navPoint44" playOrder="35">
-        <navLabel>
-          <text>Controlled Airspace</text>
-        </navLabel>
-        <content src="03-reference/airspace_display.xhtml#controlled-airspace" />  
+        <content src="03-reference/platform.xhtml#android" />  
+        <navPoint id="navPoint41" playOrder="32">
+          <navLabel>
+            <text>Android</text>
+          </navLabel>
+          <content src="03-reference/platform.xhtml#android" />  
+        </navPoint>
+        <navPoint id="navPoint42" playOrder="33">
+          <navLabel>
+            <text>Screen backlighting</text>
+          </navLabel>
+          <content src="03-reference/platform.xhtml#screen-backlighting" />  
+        </navPoint>
+        <navPoint id="navPoint43" playOrder="34">
+          <navLabel>
+            <text>Screen locking</text>
+          </navLabel>
+          <content src="03-reference/platform.xhtml#screen-locking" />  
+        </navPoint>
+        <navPoint id="navPoint44" playOrder="35">
+          <navLabel>
+            <text>Wi-Fi locking</text>
+          </navLabel>
+          <content src="03-reference/platform.xhtml#wi-fi-locking" />  
+        </navPoint>
       </navPoint>
       <navPoint id="navPoint45" playOrder="36">
         <navLabel>
-          <text>Control Zone</text>
+          <text>Linux desktop</text>
         </navLabel>
-        <content src="03-reference/airspace_display.xhtml#control-zone" />  
-      </navPoint>
-      <navPoint id="navPoint46" playOrder="37">
-        <navLabel>
-          <text>Transponder Mandatory Zones</text>
-        </navLabel>
-        <content src="03-reference/airspace_display.xhtml#transponder-mandatory-zones" />  
-      </navPoint>
-      <navPoint id="navPoint47" playOrder="38">
-        <navLabel>
-          <text>Radio Mandatory Zone</text>
-        </navLabel>
-        <content src="03-reference/airspace_display.xhtml#radio-mandatory-zone" />  
-      </navPoint>
-      <navPoint id="navPoint48" playOrder="39">
-        <navLabel>
-          <text>Parachute Jumping Areas</text>
-        </navLabel>
-        <content src="03-reference/airspace_display.xhtml#parachute-jumping-areas" />  
-      </navPoint>
-      <navPoint id="navPoint49" playOrder="40">
-        <navLabel>
-          <text>Nature Reserve Areas</text>
-        </navLabel>
-        <content src="03-reference/airspace_display.xhtml#nature-reserve-areas" />  
-      </navPoint>
-      <navPoint id="navPoint50" playOrder="41">
-        <navLabel>
-          <text>Airfields</text>
-        </navLabel>
-        <content src="03-reference/airspace_display.xhtml#airfields" />  
-      </navPoint>
-      <navPoint id="navPoint51" playOrder="42">
-        <navLabel>
-          <text>Approach and Departure Routes</text>
-        </navLabel>
-        <content src="03-reference/airspace_display.xhtml#approach-and-departure-routes" />  
+        <content src="03-reference/platform.xhtml#linux-desktop" />  
+        <navPoint id="navPoint46" playOrder="36">
+          <navLabel>
+            <text>Linux desktop</text>
+          </navLabel>
+          <content src="03-reference/platform.xhtml#linux-desktop" />  
+        </navPoint>
+        <navPoint id="navPoint47" playOrder="37">
+          <navLabel>
+            <text>File import by drag-and-drop</text>
+          </navLabel>
+          <content src="03-reference/platform.xhtml#file-import-by-drag-and-drop" />  
+        </navPoint>
+        <navPoint id="navPoint48" playOrder="38">
+          <navLabel>
+            <text>Command line</text>
+          </navLabel>
+          <content src="03-reference/platform.xhtml#command-line" />  
+        </navPoint>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint52" playOrder="43">
-      <navLabel>
-        <text>Weather</text>
-      </navLabel>
-      <content src="03-reference/weather.xhtml" />  
-    </navPoint>
-    <navPoint id="navPoint53" playOrder="44">
+    <navPoint id="navPoint49" playOrder="39">
       <navLabel>
         <text>Software license</text>
       </navLabel>
       <content src="04-appendix/license_enroute.xhtml" />  
     </navPoint>
-    <navPoint id="navPoint54" playOrder="45">
+    <navPoint id="navPoint50" playOrder="40">
       <navLabel>
         <text>Third party software and data</text>
       </navLabel>
       <content src="04-appendix/license_3rdParty.xhtml" />  
-      <navPoint id="navPoint55" playOrder="45">
+      <navPoint id="navPoint51" playOrder="40">
         <navLabel>
           <text>Third party software and data</text>
         </navLabel>
         <content src="04-appendix/license_3rdParty.xhtml" />  
       </navPoint>
-      <navPoint id="navPoint56" playOrder="46">
+      <navPoint id="navPoint52" playOrder="41">
         <navLabel>
           <text>Geographic maps</text>
         </navLabel>
         <content src="04-appendix/license_3rdParty.xhtml#geographic-maps" />  
       </navPoint>
-      <navPoint id="navPoint57" playOrder="47">
+      <navPoint id="navPoint53" playOrder="42">
         <navLabel>
           <text>Software and data included in the program</text>
         </navLabel>
         <content src="04-appendix/license_3rdParty.xhtml#software-and-data-included-in-the-program" />  
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint58" playOrder="48">
+    <navPoint id="navPoint54" playOrder="43">
       <navLabel>
         <text>Technical Notes</text>
       </navLabel>
       <content src="04-appendix/technical.xhtml" />  
-      <navPoint id="navPoint59" playOrder="48">
+      <navPoint id="navPoint55" playOrder="43">
         <navLabel>
           <text>Technical Notes</text>
         </navLabel>
         <content src="04-appendix/technical.xhtml" />  
       </navPoint>
-      <navPoint id="navPoint60" playOrder="49">
-        <navLabel>
-          <text>Platform notes</text>
-        </navLabel>
-        <content src="04-appendix/technical.xhtml#platform-notes" />  
-        <navPoint id="navPoint61" playOrder="49">
-          <navLabel>
-            <text>Platform notes</text>
-          </navLabel>
-          <content src="04-appendix/technical.xhtml#platform-notes" />  
-        </navPoint>
-        <navPoint id="navPoint62" playOrder="50">
-          <navLabel>
-            <text>Android</text>
-          </navLabel>
-          <content src="04-appendix/technical.xhtml#android" />  
-        </navPoint>
-      </navPoint>
-      <navPoint id="navPoint63" playOrder="51">
+      <navPoint id="navPoint56" playOrder="44">
         <navLabel>
           <text>Traffic Receiver</text>
         </navLabel>
         <content src="04-appendix/technical.xhtml#traffic-receiver" />  
-        <navPoint id="navPoint64" playOrder="51">
+        <navPoint id="navPoint57" playOrder="44">
           <navLabel>
             <text>Traffic Receiver</text>
           </navLabel>
           <content src="04-appendix/technical.xhtml#traffic-receiver" />  
         </navPoint>
-        <navPoint id="navPoint65" playOrder="52">
+        <navPoint id="navPoint58" playOrder="45">
           <navLabel>
             <text>Communication</text>
           </navLabel>
           <content src="04-appendix/technical.xhtml#communication" />  
         </navPoint>
-        <navPoint id="navPoint66" playOrder="53">
+        <navPoint id="navPoint59" playOrder="46">
           <navLabel>
             <text>Known issues</text>
           </navLabel>
           <content src="04-appendix/technical.xhtml#known-issues" />  
         </navPoint>
-        <navPoint id="navPoint67" playOrder="54">
+        <navPoint id="navPoint60" playOrder="47">
           <navLabel>
             <text>ForeFlight Broadcast</text>
           </navLabel>

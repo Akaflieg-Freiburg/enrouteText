@@ -61,7 +61,7 @@
 \input{../../latexPreamble.tex.txt}
 
 \title{Enroute Flight Navigation}
-\date{Jun 03, 2021}
+\date{Jun 05, 2021}
 \release{2.2.4}
 \author{Stefan Kebekus}
 \newcommand{\sphinxlogo}{\vbox{}}
@@ -398,7 +398,14 @@ The bottom of the display shows a little panel with the following information.
 \centering
 \begin{tabulary}{\linewidth}[t]{|T|T|}
 \hline
-
+\sphinxstyletheadfamily 
+\sphinxAtStartPar
+Code
+&\sphinxstyletheadfamily 
+\sphinxAtStartPar
+Meaning
+\\
+\hline
 \sphinxAtStartPar
 T.TALT
 &
@@ -464,7 +471,14 @@ control the app.
 \centering
 \begin{tabulary}{\linewidth}[t]{|T|T|}
 \hline
-
+\sphinxstyletheadfamily 
+\sphinxAtStartPar
+Symbol
+&\sphinxstyletheadfamily 
+\sphinxAtStartPar
+Function
+\\
+\hline
 \noindent\sphinxincludegraphics{{ic_menu}.png}
 &
 \sphinxAtStartPar
@@ -521,9 +535,9 @@ look.
 \label{\detokenize{01-intro/03-firstFlight:go-flying}}
 \sphinxAtStartPar
 \sphinxstylestrong{Enroute Flight Navigation} is designed to be simple.  We think that you are
-now ready to take \sphinxstylestrong{Enroute Flight Navigation} on its first flight.  There are
-of course many more things that you can do.  Play with the app and have a look
-at the next section {\hyperref[\detokenize{index:sec-steps}]{\sphinxcrossref{\DUrole{std,std-ref}{Further Steps}}}}.
+now ready to take the app on its first flight.  There are of course many more
+things that you can do.  Play with the app and have a look at the next section
+{\hyperref[\detokenize{index:sec-steps}]{\sphinxcrossref{\DUrole{std,std-ref}{Further Steps}}}}.
 
 
 \chapter{Connect your traffic receiver}
@@ -531,9 +545,7 @@ at the next section {\hyperref[\detokenize{index:sec-steps}]{\sphinxcrossref{\DU
 \sphinxAtStartPar
 In order to display nearby traffic on the moving map, \sphinxstylestrong{Enroute Flight
 Navigation} can connect to your aircraft’s traffic receiver (typically a FLARM
-device).  In order to show only relevant information, \sphinxstylestrong{Enroute Flight
-Navigation} will not display traffic more than 1,500 m above or below the own
-position.
+device).
 
 \sphinxAtStartPar
 The app author has tested the \sphinxstylestrong{Enroute Flight Navigation} with the following
@@ -871,873 +883,105 @@ Germany.
 \end{sphinxVerbatim}
 
 
-\chapter{Map Data}
-\label{\detokenize{03-reference/map_data:map-data}}\label{\detokenize{03-reference/map_data::doc}}
-\sphinxAtStartPar
-The Information displayed by the Map of Enroute Flight Navigation is provided by the following resources:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-openAIP
+\chapter{Platform notes}
+\label{\detokenize{03-reference/platform:platform-notes}}\label{\detokenize{03-reference/platform::doc}}
 
-\item {} 
+\section{Android}
+\label{\detokenize{03-reference/platform:android}}
+
+\subsection{Screen backlighting}
+\label{\detokenize{03-reference/platform:screen-backlighting}}
 \sphinxAtStartPar
-open flightmaps
+\sphinxstylestrong{Enroute Flight Navigation} overrides the system settings of your device and
+ensures that the screen backlighting is always on.  To save battery power, the
+screen can be switched off manually with the hardware “power button” of your
+device.
 
-\item {} 
+
+\subsection{Screen locking}
+\label{\detokenize{03-reference/platform:screen-locking}}
 \sphinxAtStartPar
-Map Tiler
+\sphinxstylestrong{Enroute Flight Navigation} stays on top of the lock screen of your device.
+It will therefore be shown immediately as soon as the screen is switched on.
+You can therefore use \sphinxstylestrong{Enroute Flight Navigation} without unlocking your
+device.
 
-\item {} 
+
+\subsection{Wi\sphinxhyphen{}Fi locking}
+\label{\detokenize{03-reference/platform:wi-fi-locking}}
 \sphinxAtStartPar
-Open Street Map
+When running on Android, \sphinxstylestrong{Enroute Flight Navigation} acquires a Wi\sphinxhyphen{}Fi lock as
+soon as the app receives heartbeat messages from one of the channels where it
+listens for traffic receivers.  The lock is released when the messages no longer
+arrive.
 
-\end{itemize}
-\begin{description}
-\item[{To get more detailed Information on these Resources you may touch the link on the lower edge of the map Display \sphinxstylestrong{Map Data Copyright Info}. After touching the line \sphinxstylestrong{Map Data Copyright Info} a sub window will open showing links to the contributor web sites:}] \leavevmode\begin{itemize}
-\item {} 
+
+\section{Linux desktop}
+\label{\detokenize{03-reference/platform:linux-desktop}}
+
+\subsection{File import by drag\sphinxhyphen{}and\sphinxhyphen{}drop}
+\label{\detokenize{03-reference/platform:file-import-by-drag-and-drop}}
 \sphinxAtStartPar
-\sphinxurl{https://www.openaip.net}
-
-\item {} 
-\sphinxAtStartPar
-\sphinxurl{https://www.openflightmaps.org}
-
-\item {} 
-\sphinxAtStartPar
-\sphinxurl{https://www.maptiler.com}
-
-\item {} 
-\sphinxAtStartPar
-\sphinxurl{https://www.openstreetmap.org}
-
-\end{itemize}
-
-\end{description}
-
-\sphinxAtStartPar
-\sphinxstylestrong{Open AIP}
-
-\sphinxAtStartPar
-Open AIP has the goal to deliver free, current and precise data for air navigation to everyone. Open AIP is a web based and crowd\sphinxhyphen{}sourced platform.
-The Open AIP provides the basic source aeronautical data for display in Enroute Flight Navigation.
-
-\sphinxAtStartPar
-\sphinxstylestrong{Open Flight Maps}
-
-\sphinxAtStartPar
-Open Flight Maps is an open\sphinxhyphen{}source project providing aeronautical data for a high quality VFR Map.
-Open Flight Maps is providing some additional information, where available.
-
-\sphinxAtStartPar
-The detailed split of the data sources for the Enroute Flight Naviagtion map is shown below:
+It is possible to import files by dragging and dropping then anywhere in the
+main window of \sphinxstylestrong{Enroute Flight Navigation}.  The following file types are
+accepted.
 
 
 \begin{savenotes}\sphinxattablestart
 \centering
-\begin{tabulary}{\linewidth}[t]{|T|T|}
+\begin{tabulary}{\linewidth}[t]{|T|T|T|}
 \hline
 \sphinxstyletheadfamily 
 \sphinxAtStartPar
-Map Feature
+Content
 &\sphinxstyletheadfamily 
 \sphinxAtStartPar
-Data Origin
+Format
+&\sphinxstyletheadfamily 
+\sphinxAtStartPar
+File name
 \\
 \hline
 \sphinxAtStartPar
-Airfields
+FLARM Test Data
 &
 \sphinxAtStartPar
-openAIP
+Text
+&
+\sphinxAtStartPar
+*.txt
 \\
 \hline
 \sphinxAtStartPar
-Airspace: Nature Preserve Areas
+Flight Route
 &
 \sphinxAtStartPar
-open flightmaps
+GeoJSON
+&
+\sphinxAtStartPar
+*.geojson
 \\
 \hline
 \sphinxAtStartPar
-Airspace: all other
+Flight Route
 &
 \sphinxAtStartPar
-openAIP
-\\
-\hline
-\sphinxAtStartPar
-Navaids
+GPX
 &
 \sphinxAtStartPar
-openAIP
-\\
-\hline
-\sphinxAtStartPar
-Procedures (Traffic Circuits, …)
-&
-\sphinxAtStartPar
-open flightmaps
-\\
-\hline
-\sphinxAtStartPar
-Reporting Points
-&
-\sphinxAtStartPar
-open flightmaps
+*.gpx
 \\
 \hline
 \end{tabulary}
 \par
 \sphinxattableend\end{savenotes}
 
-\sphinxAtStartPar
-\sphinxstylestrong{Map Tiler}
-
-\sphinxAtStartPar
-Is a software application to combine multiple layers of data for maps and provide the map in a format for loading and display.
-The Enroute Flight Naviagtion base maps are edited versions of maps kindly provided by Klokan Technologies through the OpenMapTiles project.
-
-\sphinxAtStartPar
-\sphinxstylestrong{Open Street Map}
-
-\sphinxAtStartPar
-Open Street Map (OSM) is a collaborative project to create a free editable map of the world. The geodata underlying the map is considered the primary output of the project. The creation and growth of OSM has been motivated by restrictions on use or availability of map data across much of the world, and the advent of inexpensive portable satellite navigation devices.
-The Open Street Map data is used to crate the base maps.
-
-
-\chapter{Other}
-\label{\detokenize{03-reference/map_data:other}}
-\sphinxAtStartPar
-The Map display is composed of two layers selected in the respective Tabs of the
-‘Map Library’ screen:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Aeronautical Map
-
-\item {} 
-\sphinxAtStartPar
-Base Map
-
-\end{itemize}
-
-\sphinxAtStartPar
-\sphinxstylestrong{Aeronautical Maps}
-
-\sphinxAtStartPar
-The Aeronautical Map layers is showing the airspace data on the Map screen. If
-no Base Map is installed for the area only the information coming from the
-Aviation Map data is displayed.
-
-\sphinxAtStartPar
-The Aeronautical Map contains:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Airfields
-
-\item {} 
-\sphinxAtStartPar
-Airspace boundaries
-
-\item {} 
-\sphinxAtStartPar
-Navaids
-
-\item {} 
-\sphinxAtStartPar
-Reporting points and routes (if available)
-
-\end{itemize}
-
-\sphinxAtStartPar
-The display used for aerospace data is using the following basic color scheme:
-\begin{itemize}
-\item {} \begin{description}
-\item[{Red:}] \leavevmode\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Line with shadow inside for Restricted Airspace
-
-\item {} 
-\sphinxAtStartPar
-Shadow with dashed blue border for Aerodrome Control Zone (CTR)
-
-\item {} 
-\sphinxAtStartPar
-Dashed Line for Parachute Jumping Exercise area
-
-\item {} 
-\sphinxAtStartPar
-Line for Glider or Microlight Traffic pattern
-
-\end{itemize}
-
-\end{description}
-
-\item {} 
-\sphinxAtStartPar
-Blue:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Line with shadow for controlled airspace (A, B, C, D)
-
-\item {} 
-\sphinxAtStartPar
-Shadow with dashed blue border for Radio Mandatory Zone (RMZ)
-
-\item {} 
-\sphinxAtStartPar
-Airport, reporting point or Navaid  symbols
-
-\item {} 
-\sphinxAtStartPar
-For Route or Traffic Pattern for powered aircraft
-
-\end{itemize}
-
-\item {} 
-\sphinxAtStartPar
-Green:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Line with shadow for Natural Reserve Area (NRA)
-
-\item {} 
-\sphinxAtStartPar
-Line for airspace control sector boundaries
-
-\end{itemize}
-
-\item {} 
-\sphinxAtStartPar
-Black:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Dashed Line for Transponder Mandatory Zone (TMZ)
-
-\end{itemize}
-
-\end{itemize}
-
-\sphinxAtStartPar
-\sphinxstylestrong{Class 1 and Class 2 maps:}
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Class 1 maps are compiled from openAIP and open flightmaps data. These maps
-contain complete information about airspaces, airfields and navaids. In
-addition, the maps contain (mandatory) reporting points. Some of our tier 1
-maps also show traffic circuits and flight procedures for control zones.
-
-\item {} 
-\sphinxAtStartPar
-Class 2 maps are compiled from openAIP data only. They contain complete
-information about airspaces, airfields and navaids.
-
-\end{itemize}
-
-\sphinxAtStartPar
-Details on the maps may be found at
-\textless{}\sphinxurl{https://akaflieg-freiburg.github.io/enroute/maps/}\textgreater{} The Aeronautical Map data is
-selected on the “Map Library” \textendash{} “Aviation Data” page accessed via the “Settings”
-Menu.  To update the list of available maps the “…” option in the upper right
-corner of the screen may be used.  You may install or uninstall the aviation Map
-data for a county by the selection on the right hand side of the country
-list. To find a country you have to scroll up and down in the list.
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-To have optimum presentation of the \sphinxstylestrong{Enroute Flight Navigation} map
-display install the Aviation Map and the Base Map for all areas you intend
-to use \sphinxstylestrong{Enroute Flight Navigation}.
-\end{sphinxadmonition}
-
-\begin{sphinxadmonition}{caution}{Caution:}
-\sphinxAtStartPar
-No airspace information will be provided in country when the
-Aeronautical Map is not installed for it.
-\end{sphinxadmonition}
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-\sphinxstylestrong{Enroute Flight Navigation} will automatically check for updated
-Maps on the Enroute server and show a pop\sphinxhyphen{}up window after start if updated
-maps have been detected.  You will be asked if you want to update the map or
-delay the update.
-\end{sphinxadmonition}
-
-\sphinxAtStartPar
-\sphinxstylestrong{Base Map}
-
-\sphinxAtStartPar
-The Base Map layers is showing the geographic data on the Map screen. If no Base
-Map is shown for an area it will be shown in the white background color. If no
-Aviation Map is installed for the area only the information coming from the Base
-Map data is displayed. The Base Map is organized in tiles. This will result in
-not stopping the Base Map display abruptly at the border of an installed
-country, but showing some overlap.  The Base Map will show:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Landmass
-
-\item {} 
-\sphinxAtStartPar
-Water Surface (oceans, lakes and rivers)
-
-\item {} 
-\sphinxAtStartPar
-Forests
-
-\item {} 
-\sphinxAtStartPar
-Main Roads
-
-\item {} 
-\sphinxAtStartPar
-Railroad lines
-
-\item {} 
-\sphinxAtStartPar
-City names
-
-\end{itemize}
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-To have optimum presentation of the \sphinxstylestrong{Enroute Flight Navigation} map
-display install the Aeronautical Map and the Base Map for all areas you
-intend to use \sphinxstylestrong{Enroute Flight Navigation}.
-\end{sphinxadmonition}
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-\sphinxstylestrong{Enroute Flight Navigation} will not show most cultural build ups
-and limits or settled area boundaries to reduce the map size.
-\end{sphinxadmonition}
-
-
-\section{Flight mode and ground mode}
-\label{\detokenize{03-reference/map_data:flight-mode-and-ground-mode}}
-\sphinxAtStartPar
-\sphinxstylestrong{Ground Mode}
-
-\sphinxAtStartPar
-Ground Mode is displayed by \sphinxstylestrong{Enroute Flight Navigation} whenever the sensed
-speed is below the threshold and the Menu item ‘Automatic Flight Detection’ is
-not set to ‘Always in Flight Mode’.  Ground Mode does not display the Flight
-Data line at the lower end of the screen and is intended for flight planning.
-
-
-\chapter{Airspace Display}
-\label{\detokenize{03-reference/airspace_display:airspace-display}}\label{\detokenize{03-reference/airspace_display::doc}}
-\sphinxAtStartPar
-The display of airspace will generally follow the common ICAO symbology.
-Restricted Airspace
-Restricted airspace will be surrounded by an intense red dashed line and a thick transparent red line inside the restricted area boundaries.
-When selecting a point inside the restricted area by double touching the screen the information to the related area is given with the waypoint pop\sphinxhyphen{}up window:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Area Name
-
-\item {} 
-\sphinxAtStartPar
-Area altitude limits
-
-\item {} 
-\sphinxAtStartPar
-Area activation time
-
-\end{itemize}
-
-\begin{figure}[htbp]
-\centering
-
-\noindent\sphinxincludegraphics{{fig_Restricted}.png}
-\end{figure}
-
-\sphinxAtStartPar
-\sphinxstyleemphasis{Legend}:
-\begin{enumerate}
-\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
-\item {} 
-\sphinxAtStartPar
-Outline of Restricted Airspace
-
-\item {} 
-\sphinxAtStartPar
-Designation and activation time of airspace
-
-\end{enumerate}
-
-
-\section{Controlled Airspace}
-\label{\detokenize{03-reference/airspace_display:controlled-airspace}}
-\sphinxAtStartPar
-All boundaries of controlled airspace are shown by a solid blue line and a thick transparent blue line inside the airspace. Figure 13:  Controlled Airspace
-When selecting a point inside the controlled airspace by double touching the screen the information to the related area is given with the waypoint pop\sphinxhyphen{}up window:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Area Name
-
-\item {} 
-\sphinxAtStartPar
-Area altitude limits
-
-\end{itemize}
-
-\begin{sphinxadmonition}{caution}{Caution:}
-\sphinxAtStartPar
-All controlled airspace (Class A \textendash{} Class D) are shown in the same way even if different restrictions or ATC clearance requirements may be present.
-\end{sphinxadmonition}
-
-
-\section{Control Zone}
-\label{\detokenize{03-reference/airspace_display:control-zone}}
-\sphinxAtStartPar
-The Control Zone of an airport is shown with a dashed blue line filled in transparent red color. Figure 13:  Controlled Airspace
-When selecting a point inside the Control Zone (CTR) by double touching the screen the information to the related area is given with the waypoint pop\sphinxhyphen{}up window:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Area Name
-
-\item {} 
-\sphinxAtStartPar
-Area altitude limits
-
-\end{itemize}
-
-\begin{figure}[htbp]
-\centering
-
-\noindent\sphinxincludegraphics{{fig_AirspaceMUC}.png}
-\end{figure}
-
-\sphinxAtStartPar
-\sphinxstyleemphasis{Legend}:
-\begin{enumerate}
-\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
-\item {} 
-\sphinxAtStartPar
-Airport ICAO Symbol
-
-\item {} 
-\sphinxAtStartPar
-Airport Control Zone (CTR)
-
-\item {} 
-\sphinxAtStartPar
-Radio Mandatory Zone (RMZ)
-
-\item {} 
-\sphinxAtStartPar
-Boundary of Controlled Airspace
-
-\item {} 
-\sphinxAtStartPar
-Restricted Airspace
-
-\end{enumerate}
-
-
-\section{Transponder Mandatory Zones}
-\label{\detokenize{03-reference/airspace_display:transponder-mandatory-zones}}
-\sphinxAtStartPar
-Transponder Mandatory Zones TMZ are shown with a black dashed outline.
-When selecting a point inside the Transponder Mandatory Zone (TMZ) by double touching the screen the information to the related ares is given with the waypoint pop\sphinxhyphen{}up window:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Area Name
-
-\item {} 
-\sphinxAtStartPar
-Area altitude limits
-
-\item {} 
-\sphinxAtStartPar
-Monitoring Frequency
-
-\item {} 
-\sphinxAtStartPar
-Mode 3 Squawk
-
-\end{itemize}
-
-
-\section{Radio Mandatory Zone}
-\label{\detokenize{03-reference/airspace_display:radio-mandatory-zone}}
-\sphinxAtStartPar
-Radio Mandatory Zones (RMZ) are shown with a solid blue dashed outline and filled in transparent blue.
-When selecting a point inside the Radio Mandatory Zone (RMZ) by double touching the screen the information to the related area is given with the waypoint pop\sphinxhyphen{}up window:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Area Name
-
-\item {} 
-\sphinxAtStartPar
-Area altitude limits
-
-\item {} 
-\sphinxAtStartPar
-Radio Frequency
-
-\end{itemize}
-
-
-\section{Parachute Jumping Areas}
-\label{\detokenize{03-reference/airspace_display:parachute-jumping-areas}}
-\sphinxAtStartPar
-Parachute Jumping Exercise areas (PJE) are shown with a solid red dashed outline.
-When selecting a point inside the PJE by double touching the screen the information to the related area is given with the waypoint pop\sphinxhyphen{}up window:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Area Name
-
-\item {} 
-\sphinxAtStartPar
-Area altitude limits
-
-\item {} 
-\sphinxAtStartPar
-Radio Frequency
-
-\end{itemize}
-
-
-\section{Nature Reserve Areas}
-\label{\detokenize{03-reference/airspace_display:nature-reserve-areas}}
-\sphinxAtStartPar
-Nature Reserve Areas (NRA) are shown with a solid green outline.
-When selecting a point inside the NRA by double touching the screen the information to the related area is given with the waypoint pop\sphinxhyphen{}up window:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Area Name
-
-\item {} 
-\sphinxAtStartPar
-Area altitude limits
-
-\end{itemize}
-
-\begin{sphinxadmonition}{caution}{Caution:}
-\sphinxAtStartPar
-Check restrictions applicable for flying inside NRA when planning your flight. For example in Austria high fines are applicable when flying inside NRA.
-\begin{quote}
-
-\sphinxAtStartPar
-Figure 14:  Nature Reserve Area
-\end{quote}
-\end{sphinxadmonition}
-
-\begin{figure}[htbp]
-\centering
-
-\noindent\sphinxincludegraphics{{fig_nra}.png}
-\end{figure}
-
-\sphinxAtStartPar
-\sphinxstyleemphasis{Legend}:
-\begin{enumerate}
-\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
-\item {} 
-\sphinxAtStartPar
-Outline of Nature Reserve Area (NRA)
-
-\item {} 
-\sphinxAtStartPar
-Designation of NRA
-
-\end{enumerate}
-
-
-\section{Airfields}
-\label{\detokenize{03-reference/airspace_display:airfields}}
-\sphinxAtStartPar
-The symbology used to display airfields follows the ICAO rules.
-Airfield Information
-When selecting an airfield by double touching the screen the related information is given in a pop\sphinxhyphen{}up window:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Airfield Name and Identifier
-
-\item {} 
-\sphinxAtStartPar
-Radio Frequency including COM and Information frequencies
-
-\item {} 
-\sphinxAtStartPar
-Navaid frequencies
-
-\item {} 
-\sphinxAtStartPar
-Runway orientation, dimensions and surface
-
-\item {} 
-\sphinxAtStartPar
-Field elevation
-
-\item {} 
-\sphinxAtStartPar
-Data for associated airspace
-
-\end{itemize}
-
-
-\section{Approach and Departure Routes}
-\label{\detokenize{03-reference/airspace_display:approach-and-departure-routes}}
-\sphinxAtStartPar
-Approach routes to airfields are shown as solid blue lines. The designation of the route is written along the paths. The associated reporting points are shown as blue triangles with a dashed circle and the reporting point designation.
-Approach Routes will be shown by a solid line and Departure Routes will be shown as  dashed lines.
-Note
-Approach Routes will only be displayed when zooming into the area.
-Traffic Pattern
-Traffic pattern for motorized aircraft are shown as blue lines.
-Traffic circuits for gliders or Ultralight aircraft are shown as red lines.
-Entry and exit routes to traffic pattern are indicated by open ends of the pattern.
-The traffic circuit will show the traffic circuit altitude when the information is available.
-Note
-Traffic pattern will only be displayed when zooming into the area.
-
-
-\chapter{Weather}
-\label{\detokenize{03-reference/weather:weather}}\label{\detokenize{03-reference/weather::doc}}
-\sphinxAtStartPar
-The Weather page is opened via the Menu by touching the “Weather” entry.
-The Weather page will display the station overview list for all currently available meteorological reports within 200 NM of the current position.
-
-\begin{figure}[htbp]
-\centering
-
-\noindent\sphinxincludegraphics{{fig_Weather}.png}
-\end{figure}
-
-\sphinxAtStartPar
-\sphinxstyleemphasis{Legend}:
-\begin{enumerate}
-\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
-\item {} 
-\sphinxAtStartPar
-Weather Menu
-
-\item {} 
-\sphinxAtStartPar
-Station data
-
-\item {} 
-\sphinxAtStartPar
-Meteorological data closest to own position
-
-\end{enumerate}
-
-\sphinxAtStartPar
-The weather data is downloaded from the National Weather Service of the United States of America.
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-When opening the Weather page the first time you will have to confirm that you agree to download data from the NWS server to use this service.
-\end{sphinxadmonition}
-
-\sphinxAtStartPar
-The menu of the Waether page will allow to:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-Update the METAR and TAF data
-
-\item {} 
-\sphinxAtStartPar
-Disallow he internet connection
-
-\end{itemize}
-
-\sphinxAtStartPar
-The Weather overview window will provide the following information based on the METAR:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-ICAO identifier for Station and Airport name
-
-\item {} 
-\sphinxAtStartPar
-Distance and magnetic Bearing to Airport
-
-\item {} 
-\sphinxAtStartPar
-Time of METAR and summary weather state
-
-\end{itemize}
-
-\sphinxAtStartPar
-On the lower end of the weather page the following data relevant to your current position will be displayed:
-\begin{itemize}
-\item {} 
-\sphinxAtStartPar
-QNH
-
-\item {} 
-\sphinxAtStartPar
-Location and time of the report the QNH was extracted
-
-\item {} 
-\sphinxAtStartPar
-Sunset during day or Sunrise during night at current location
-
-\item {} 
-\sphinxAtStartPar
-Remaining time until sunset or sunrise
-
-\end{itemize}
-
-\sphinxAtStartPar
-The information of each airport will be color coded by a system established by the US National Weather Service. The coding scheme is explained in the table below.
-When touching a station line METAR and TAF (if available) will be shown in a weather detail sub\sphinxhyphen{}page
-
-\begin{figure}[htbp]
-\centering
-
-\noindent\sphinxincludegraphics{{fig_WeatherDetail}.png}
-\end{figure}
-
-\sphinxAtStartPar
-\sphinxstyleemphasis{Legend}:
-\begin{enumerate}
-\sphinxsetlistlabels{\arabic}{enumi}{enumii}{}{.}%
-\item {} 
-\sphinxAtStartPar
-Station data including bering and distance
-
-\item {} 
-\sphinxAtStartPar
-Current meteorological report
-
-\item {} 
-\sphinxAtStartPar
-Decoded view of Current meteorological report
-
-\item {} 
-\sphinxAtStartPar
-Weather forecast for station
-
-\item {} 
-\sphinxAtStartPar
-Decoded view of weather forecast
-
-\end{enumerate}
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-To view the full weather forecast you have to scroll down in most cases
-\end{sphinxadmonition}
-
-\begin{sphinxadmonition}{caution}{Caution:}
-\sphinxAtStartPar
-The color coding used for station weather does not match to European VFR criteria. Assessment of  meteorological flight conditions has to be done via an officially approved source of flight weather.
-\end{sphinxadmonition}
-
-
-\begin{savenotes}\sphinxattablestart
-\centering
-\begin{tabulary}{\linewidth}[t]{|T|T|T|T|T|}
-\hline
-\sphinxstyletheadfamily 
-\sphinxAtStartPar
-Category
-&\sphinxstyletheadfamily 
-\sphinxAtStartPar
-Color
-&\sphinxstyletheadfamily 
-\sphinxAtStartPar
-Ceiling
-&\sphinxstyletheadfamily &\sphinxstyletheadfamily 
-\sphinxAtStartPar
-Visibility
-\\
-\hline
-\sphinxAtStartPar
-IFR
-Instrument Flight Rules
-&
-\sphinxAtStartPar
-Red
-&
-\sphinxAtStartPar
-500 to below
-1,000 feet AGL
-&
-\sphinxAtStartPar
-and
-/or
-&
-\sphinxAtStartPar
-1 mile to
-less than 3 miles
-\\
-\hline
-\sphinxAtStartPar
-MVFR
-Marginal Visual Flight Rules
-&
-\sphinxAtStartPar
-Yellow
-&
-\sphinxAtStartPar
-1,000 to
-3,000 feet AGL
-&
-\sphinxAtStartPar
-and
-/or
-&
-\sphinxAtStartPar
-3 to 5 miles
-\\
-\hline
-\sphinxAtStartPar
-VFR
-Visual Flight Rules
-&
-\sphinxAtStartPar
-Green
-&
-\sphinxAtStartPar
-greater than
-3,000 feet AGL
-&
-\sphinxAtStartPar
-and
-/or
-&
-\sphinxAtStartPar
-greater than
-5 miles
-\\
-\hline
-\end{tabulary}
-\par
-\sphinxattableend\end{savenotes}
-
-\begin{sphinxadmonition}{note}{Note:}
-\sphinxAtStartPar
-By definition, IFR is ceiling less than 1,000 feet AGL.
-\end{sphinxadmonition}
 
-\begin{sphinxadmonition}{note}{Note:}
+\subsection{Command line}
+\label{\detokenize{03-reference/platform:command-line}}
 \sphinxAtStartPar
-By definition, VFR is ceiling greater than or equal to 3,000 feet AGL and visibility greater than or equal to 5 miles while MVFR is a sub\sphinxhyphen{}category of VFR.
-\end{sphinxadmonition}
+Rather than importing file by drag\sphinxhyphen{}and\sphinxhyphen{}drop, file names can also be given when
+starting \sphinxstylestrong{Enroute Flight Navigation} via the Unix command line.
 
 \part{Appendix}
 
@@ -2996,22 +2240,6 @@ XSVG. Historical Permission Notice and Disclaimer \sphinxhyphen{} sell variant.
 
 \chapter{Technical Notes}
 \label{\detokenize{04-appendix/technical:technical-notes}}\label{\detokenize{04-appendix/technical::doc}}
-
-\section{Platform notes}
-\label{\detokenize{04-appendix/technical:platform-notes}}
-
-\subsection{Android}
-\label{\detokenize{04-appendix/technical:android}}
-\sphinxAtStartPar
-Wi\sphinxhyphen{}Fi locking
-\begin{quote}
-
-\sphinxAtStartPar
-When running on Android, the app acquires a Wi\sphinxhyphen{}Fi lock as soon as the app
-receives heartbeat messages from one of the channels where it listens for
-traffic receivers.  The lock is released when the messages no longer arrive.
-\end{quote}
-
 
 \section{Traffic Receiver}
 \label{\detokenize{04-appendix/technical:traffic-receiver}}

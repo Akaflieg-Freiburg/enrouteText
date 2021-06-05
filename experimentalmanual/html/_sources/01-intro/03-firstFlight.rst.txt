@@ -39,6 +39,8 @@ track for the next five minutes.
 The bottom of the display shows a little panel with the following information.
 
 ====== ==============
+Code   Meaning
+====== ==============
 T.TALT True altitude (=geometric altitude) above sea level.
 FL     Flight level.
 GS     Ground speed.
@@ -63,6 +65,8 @@ Interactive controls
 In addition to the pan and pinch gestures, you can use the following buttons to
 control the app.
 
+============================= ========
+Symbol                        Function
 ============================= ========
 .. image:: ic_menu.png        Open main menu
 .. image:: NorthArrow.png     Switch between display modes **north up** and **track up**.
@@ -94,6 +98,6 @@ Go flying!
 ----------
 
 **Enroute Flight Navigation** is designed to be simple.  We think that you are
-now ready to take **Enroute Flight Navigation** on its first flight.  There are
-of course many more things that you can do.  Play with the app and have a look
-at the next section :ref:`sec-steps`.
+now ready to take the app on its first flight.  There are of course many more
+things that you can do.  Play with the app and have a look at the next section
+:ref:`sec-steps`.

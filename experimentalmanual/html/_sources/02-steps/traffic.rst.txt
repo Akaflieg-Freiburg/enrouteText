@@ -3,9 +3,7 @@ Connect your traffic receiver
 
 In order to display nearby traffic on the moving map, **Enroute Flight
 Navigation** can connect to your aircraft's traffic receiver (typically a FLARM
-device).  In order to show only relevant information, **Enroute Flight
-Navigation** will not display traffic more than 1,500 m above or below the own
-position.
+device).
 
 The app author has tested the **Enroute Flight Navigation** with the following
 traffic receivers.
