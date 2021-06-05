@@ -67,9 +67,7 @@ and frequencies.
    :caption: Reference manual
    :name: sec-reference
     
-   03-reference/map_data
-   03-reference/airspace_display
-   03-reference/weather
+   03-reference/platform
 
    
 .. raw:: latex
