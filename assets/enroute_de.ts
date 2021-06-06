@@ -3049,7 +3049,7 @@ Ansonsten wählen Sie diesen Eintrag aus. Die Seite &quot;Status&quot; öffnet s
     <message>
         <location filename="../../../src/Librarian.cpp" line="497"/>
         <source>**We need help with the Microsoft Flight Simulator.** This App should work well with the MS Flight Simulator, but the author does not have access to a Windows machine. Please contact us if you know the Flight Simulator and if you would like to help with testing.</source>
-        <translation type="unfinished"></translation>
+        <translation>**Wir brauchen Hilfe beim Microsoft-Flugsimulator.** Diese App sollte gut damit zurechtkommen, aber der Autor hat keinen Zugang zu einem Windows-PC. Bitte nehmen Sie Kontakt zu uns auf, wenn Sie den Flugsimulator kennen und uns gern beim Testen helfen würden.</translation>
     </message>
     <message>
         <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
@@ -4446,83 +4446,83 @@ Wählen Sie &lt;strong&gt;Bibliothek/Karten&lt;/strong&gt; um zum Kartenmanageme
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="146"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
-        <translation type="unfinished">Datei &apos;%1&apos; kann nicht zum Lesen geöffnet werden.</translation>
+        <translation>Datei &apos;%1&apos; kann nicht zum Lesen geöffnet werden.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="150"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
-        <translation type="unfinished">Datei &apos;%1&apos; kann nicht gelesen werden.</translation>
+        <translation>Datei &apos;%1&apos; kann nicht gelesen werden.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="157"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
-        <translation type="unfinished">Datei &apos;%1&apos; unverständlich, Grund: %2.</translation>
+        <translation>Datei &apos;%1&apos; unverständlich, Grund: %2.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="164"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
-        <translation type="unfinished">Inhalt der Datei &apos;%1&apos; unverständlich.</translation>
+        <translation>Inhalt der Datei &apos;%1&apos; unverständlich.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="276"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished">Datei &apos;%1&apos; kann nicht zum Schreiben geöffnet werden.</translation>
+        <translation>Datei &apos;%1&apos; kann nicht zum Schreiben geöffnet werden.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="282"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished">Kann nicht in Datei &apos;%1&apos; schreiben.</translation>
+        <translation>Kann nicht in Datei &apos;%1&apos; schreiben.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="292"/>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="341"/>
         <source>Flight Route</source>
-        <translation type="unfinished">Route</translation>
+        <translation>Route</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="378"/>
         <source>Total: %1&amp;nbsp;km</source>
-        <translation type="unfinished">Total: %1&amp;nbsp;km</translation>
+        <translation>Total: %1&amp;nbsp;km</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="380"/>
         <source>Total: %1&amp;nbsp;nm</source>
-        <translation type="unfinished"></translation>
+        <translation>Total: %1&amp;nbsp;nm</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="392"/>
         <source>Cruise speed not specified.</source>
-        <translation type="unfinished">Reisegeschwindigkeit nicht angegeben.</translation>
+        <translation>Reisegeschwindigkeit nicht angegeben.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="395"/>
         <source>Fuel consumption not specified.</source>
-        <translation type="unfinished">Treibstoffverbrauch nicht angegeben.</translation>
+        <translation>Treibstoffverbrauch nicht angegeben.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="398"/>
         <source>Wind speed not specified.</source>
-        <translation type="unfinished">Windgeschwindigkeit nicht angegeben.</translation>
+        <translation>Windgeschwindigkeit nicht angegeben.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="402"/>
         <source>Wind direction not specified.</source>
-        <translation type="unfinished">Windrichtung nicht angegeben.</translation>
+        <translation>Windrichtung nicht angegeben.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="407"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Berechnung unvollständig. %1&lt;/font&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Berechnung unvollständig. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="149"/>
         <source>Error opening file &apos;%1&apos;</source>
-        <translation type="unfinished">Fehler beim Öffnen der Datei &apos;%1&apos;</translation>
+        <translation>Fehler beim Öffnen der Datei &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="295"/>
         <source>Error interpreting GPX file: no valid route found.</source>
-        <translation type="unfinished">Fehler beim Lesen der GPX-Datei: keine gültige Route gefunden.</translation>
+        <translation>Fehler beim Lesen der GPX-Datei: keine gültige Route gefunden.</translation>
     </message>
 </context>
 <context>
@@ -9360,23 +9360,23 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="371"/>
         <source>Waiting for precise position…</source>
-        <translation type="unfinished">Warte auf genaue Position ...</translation>
+        <translation>Warte auf genaue Position ...</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="419"/>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="424"/>
         <source>SR %1, %2</source>
-        <translation type="unfinished">SA %1, %2</translation>
+        <translation>SA %1, %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="422"/>
         <source>SS %1, %2</source>
-        <translation type="unfinished">SU %1, %2</translation>
+        <translation>SU %1, %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="466"/>
         <source>QNH: %1 hPa in %2, %3</source>
-        <translation type="unfinished">QNH: %1 hPa in %2, %3</translation>
+        <translation>QNH: %1 hPa in %2, %3</translation>
     </message>
 </context>
 <context>
