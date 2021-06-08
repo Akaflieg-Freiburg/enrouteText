@@ -5642,17 +5642,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="40"/>
         <source>Connected.</source>
-        <translation type="unfinished">Verbunden.</translation>
+        <translation>Verbunden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="47"/>
         <source>Not connected.</source>
-        <translation type="unfinished">Nicht verbunden.</translation>
+        <translation>Nicht verbunden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.h" line="61"/>
         <source>Simulator data</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulator-Daten</translation>
     </message>
 </context>
 <context>
