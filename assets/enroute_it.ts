@@ -4010,47 +4010,47 @@ Scegli &lt;strong&gt; Biblioteca / Mappe &lt;/strong&gt; per aprire la pagina di
         <translation>Download dati mappa...</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="49"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="47"/>
         <source>Import data</source>
         <translation>Importa i dati</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="51"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="49"/>
         <source>All files (*)</source>
         <translation>Tutti i file (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="77"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="75"/>
         <source>No suitable file sharing app could be found.</source>
         <translation>Nessuna app trovata per la condivisione del file.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="80"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="78"/>
         <source>Export flight route</source>
         <translation>Esporta itinerario</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="82"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="80"/>
         <source>%1 (*.%2);;All files (*)</source>
         <translation>%1 (*.%2);;tutti i files (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="89"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="87"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Impossibile aprire il file &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="93"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="91"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Impossibile scrivere il file &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="113"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="111"/>
         <source>No suitable app for viewing this data could be found.</source>
         <translation>Nessuna app trovata per la visualizzazione di questi dati.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="119"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="117"/>
         <source>Unable to open data in other app.</source>
         <translation>Impossibile aprire i dati in un&apos;altra app.</translation>
     </message>
@@ -4460,23 +4460,23 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>Positioning::PositionProvider</name>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="202"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="206"/>
         <source>Receiving position information.</source>
         <translation>Ricezioni informazioni di posizione.</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="204"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="208"/>
         <source>Receiving pressure altitude.</source>
         <translation>Ricezione altitudine di pressione.</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="211"/>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="213"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="215"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="217"/>
         <source>Not receiving position information</source>
         <translation>Non ricevo informazioni di posizionamento</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="213"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="217"/>
         <source>Traffic receiver</source>
         <translation>Ricevitore di traffico</translation>
     </message>
@@ -4657,27 +4657,27 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataProvider</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="49"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="54"/>
         <source>Traffic data receiver</source>
         <translation>Dati del ricevitore di traffico</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="301"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="330"/>
         <source>Receiving traffic data.</source>
         <translation>Ricezione dati di traffico.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="303"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="332"/>
         <source>Receiving position info.</source>
         <translation>Ricezione informazioni di posizione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="306"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="335"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Ricezione info barometriche di altitudine.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="313"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="342"/>
         <source>Not receiving traffic data.</source>
         <translation>Non ricevo dati di traffico.</translation>
     </message>
@@ -5245,19 +5245,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Simulate</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="40"/>
         <source>Connected.</source>
-        <translation type="unfinished">Connesso.</translation>
+        <translation type="obsolete">Connesso.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="47"/>
         <source>Not connected.</source>
-        <translation type="unfinished">Non connesso.</translation>
-    </message>
-    <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Simulate.h" line="61"/>
-        <source>Simulator data</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Non connesso.</translation>
     </message>
 </context>
 <context>
@@ -9135,12 +9128,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Cosa c&apos;è di nuovo...?</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="113"/>
+        <location filename="../../../src/main.cpp" line="111"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation è una app libera per piloti VFR, sviuluppata da Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="116"/>
+        <location filename="../../../src/main.cpp" line="114"/>
         <source>File to import.</source>
         <translation>File da importare.</translation>
     </message>
