@@ -3562,6 +3562,11 @@ si aprirà la pagina, che spiega lo stato della connessione in modo più dettagl
 </translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="495"/>
+        <source>This release fixes a few minor issues.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="497"/>
         <source>**We need help with the Microsoft Flight Simulator.** This App should work well with the MS Flight Simulator, but the author does not have access to a Windows machine. Please contact us if you know the Flight Simulator and if you would like to help with testing.</source>
         <translation type="unfinished"></translation>
