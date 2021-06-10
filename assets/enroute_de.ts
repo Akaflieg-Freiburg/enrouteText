@@ -3049,7 +3049,7 @@ Ansonsten wählen Sie diesen Eintrag aus. Die Seite &quot;Status&quot; öffnet s
     <message>
         <location filename="../../../src/Librarian.cpp" line="495"/>
         <source>This release fixes a few minor issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Version beseitigt ein paar kleinere Fehler.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="497"/>
