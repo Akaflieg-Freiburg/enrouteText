@@ -3564,12 +3564,12 @@ si aprirà la pagina, che spiega lo stato della connessione in modo più dettagl
     <message>
         <location filename="../../../src/Librarian.cpp" line="495"/>
         <source>This release fixes a few minor issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa versione risolve alcuni problemi minori.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="497"/>
         <source>**We need help with the Microsoft Flight Simulator.** This App should work well with the MS Flight Simulator, but the author does not have access to a Windows machine. Please contact us if you know the Flight Simulator and if you would like to help with testing.</source>
-        <translation type="unfinished"></translation>
+        <translation>**Abbiamo bisogno di aiuto con Microsoft Flight Simulator.** Questa app dovrebbe funzionare bene con MS Flight Simulator, ma l&apos;autore non ha accesso a una macchina Windows. Contattaci se conosci il simulatore di volo e se desideri aiutare con i test.</translation>
     </message>
     <message>
         <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
@@ -4088,83 +4088,83 @@ Scegli &lt;strong&gt; Biblioteca / Mappe &lt;/strong&gt; per aprire la pagina di
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="146"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
-        <translation type="unfinished">Impossibile aprire il file &apos;%1&apos; in lettura.</translation>
+        <translation>Impossibile aprire il file &apos;%1&apos; in lettura.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="150"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
-        <translation type="unfinished">Impossibile leggere il file &apos;%1&apos;.</translation>
+        <translation>Impossibile leggere il file &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="157"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
-        <translation type="unfinished">Impossibile analizzare il file &apos;%1&apos;. Motivo: %2.</translation>
+        <translation>Impossibile analizzare il file &apos;%1&apos;. Motivo: %2.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="164"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
-        <translation type="unfinished">Impossibile analizzare il contenuto del file &apos;%1&apos;.</translation>
+        <translation>Impossibile analizzare il contenuto del file &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="276"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished">Impossibile aprire il file &apos;%1&apos; in scrittura.</translation>
+        <translation>Impossibile aprire il file &apos;%1&apos; in scrittura.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="282"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished">Impossibile scrivere nel file &apos;%1&apos;.</translation>
+        <translation>Impossibile scrivere nel file &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="292"/>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="341"/>
         <source>Flight Route</source>
-        <translation type="unfinished">Itinerario</translation>
+        <translation>Itinerario</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="378"/>
         <source>Total: %1&amp;nbsp;km</source>
-        <translation type="unfinished">Totale: %1&amp;nbsp;km</translation>
+        <translation>Totale: %1&amp;nbsp;km</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="380"/>
         <source>Total: %1&amp;nbsp;nm</source>
-        <translation type="unfinished"></translation>
+        <translation>Totale: %1&amp;nbsp;nm</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="392"/>
         <source>Cruise speed not specified.</source>
-        <translation type="unfinished">Velocità di crociera non specificata.</translation>
+        <translation>Velocità di crociera non specificata.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="395"/>
         <source>Fuel consumption not specified.</source>
-        <translation type="unfinished">Consumo non specificato.</translation>
+        <translation>Consumo non specificato.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="398"/>
         <source>Wind speed not specified.</source>
-        <translation type="unfinished">Velocità del vento non specificata.</translation>
+        <translation>Velocità del vento non specificata.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="402"/>
         <source>Wind direction not specified.</source>
-        <translation type="unfinished">Direzione del vento non specificata.</translation>
+        <translation>Direzione del vento non specificata.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="407"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Calcolo incompleto. %1&lt;/font&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Calcolo incompleto. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="149"/>
         <source>Error opening file &apos;%1&apos;</source>
-        <translation type="unfinished">Errore nell&apos;apertura del file &apos;%1&apos;</translation>
+        <translation>Errore nell&apos;apertura del file &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="295"/>
         <source>Error interpreting GPX file: no valid route found.</source>
-        <translation type="unfinished">Errore nell&apos;interpretazione del file GPX: nessun itinerario trovato.</translation>
+        <translation>Errore nell&apos;interpretazione del file GPX: nessun itinerario trovato.</translation>
     </message>
 </context>
 <context>
@@ -8880,23 +8880,23 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="371"/>
         <source>Waiting for precise position…</source>
-        <translation type="unfinished">In attesa di una posizione precisa...</translation>
+        <translation>In attesa di una posizione precisa...</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="419"/>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="424"/>
         <source>SR %1, %2</source>
-        <translation type="unfinished">SR %1, %2</translation>
+        <translation>SR %1, %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="422"/>
         <source>SS %1, %2</source>
-        <translation type="unfinished">SS %1, %2</translation>
+        <translation>SS %1, %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="466"/>
         <source>QNH: %1 hPa in %2, %3</source>
-        <translation type="unfinished">QNH: %1 hPa in %2, %3</translation>
+        <translation>QNH: %1 hPa in %2, %3</translation>
     </message>
 </context>
 <context>
