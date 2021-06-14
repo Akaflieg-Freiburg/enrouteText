@@ -3055,7 +3055,43 @@ następującymi odbiornikami ruchu lotniczego.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;mapy geograficzne&lt;/h4&gt;
+
+&lt;p&gt;
+  Jako program do nawigacji lotniczej, &lt;strong&gt;Enroute Flight
+  Navigation&lt;/strong&gt; mocno bazuje na danych z map 
+  geograficznych. Mapy geograficzne nie się dołączone do
+  programu, ale są pobierane podczas pracy. Są kompilacją
+  następujących źródeł.
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;
+    Bazowe mapy są modyfikacją &lt;a
+    href=&quot;https://github.com/openmaptiles/openmaptiles&quot;&gt;OpenMapTiles&lt;/a&gt;,
+    opublikowanych pod licencją
+    &lt;a href=&quot;https://github.com/openmaptiles/openmaptiles/blob/master/LICENSE.md&quot;&gt;CC-BY
+    4.0&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Mapy lotnicze zawierają dane z &lt;a
+    href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, licencjonowaną
+    pod licencją &lt;a
+    href=&quot;https://creativecommons.org/licenses/by-nc-sa/3.0&quot;&gt;CC
+    BY-NC-SA&lt;/a&gt;.
+  &lt;/li&gt;
+
+  &lt;li&gt;
+    Mapy lotnicze zawierają dane z &lt;a
+    href=&quot;https://www.openflightmaps.org&quot;&gt;open
+    flightmaps&lt;/a&gt;, licencjonowaną pod licencją &lt;a
+    href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA
+    General Users License&lt;/a&gt;.
+  &lt;/li&gt;
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="290"/>
@@ -3067,14 +3103,23 @@ device).&lt;/p&gt;
 &lt;p&gt;The author has tested the &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; with the
 following traffic receivers.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Aby wyświetlić ruch lotniczy w pobliżu na ruchomej mapie, &lt;strong&gt;Enroute Flight
+Navigation&lt;strong&gt; może łączyć się z odbiornikiem komunikatów lotniczych samolotu (zazwyczaj jest to 
+urządzenie FLARM).&lt;/p&gt;
+
+&lt;p&gt;Autor przetestował &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; z
+następującymi odbiornikami ruchu lotniczego.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="301"/>
         <source>
 &lt;p&gt;Users reported success with the following traffic receivers.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Użytkownicy zaraportowali sukces z następującymi odbiornikami.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="401"/>
@@ -3246,12 +3291,12 @@ się otworzy, wyjaśniając dokładniej status połączenia.&lt;/p&gt;
     <message>
         <location filename="../../../src/Librarian.cpp" line="495"/>
         <source>This release fixes a few minor issues.</source>
-        <translation type="unfinished"></translation>
+        <translation>To wydanie poprawia kilka mniejszych błędów.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="497"/>
         <source>**We need help with the Microsoft Flight Simulator.** This App should work well with the MS Flight Simulator, but the author does not have access to a Windows machine. Please contact us if you know the Flight Simulator and if you would like to help with testing.</source>
-        <translation type="unfinished"></translation>
+        <translation>**Potrzebujemy pomocy z aplikacją Microsoft Flight Simulator.** Ta aplikacja powinna działać poprawnie z MS Flight Simulator, ale autor nie posiada dostępu do komputera z systemem Windows. Proszę skontaktuj się jeśli znasz Flight Simulator i chcesz pomóc z testowaniem.</translation>
     </message>
     <message>
         <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
@@ -3804,83 +3849,83 @@ Wybierz &lt;strong&gt;Bibilioteka/Mapy&lt;/strong&gt; aby otworzyć stronę zarz
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="163"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
-        <translation type="unfinished">Nie można otworzyć pliku &apos;%1&apos; do odczytu.</translation>
+        <translation>Nie można otworzyć pliku &apos;%1&apos; do odczytu.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="167"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
-        <translation type="unfinished">Nie można odczytać danych z pliku &apos;%1&apos;.</translation>
+        <translation>Nie można odczytać danych z pliku &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="174"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
-        <translation type="unfinished">Nie można prawidłowo odczytać pliku &apos;%1&apos;. Powód: %2.</translation>
+        <translation>Nie można prawidłowo odczytać pliku &apos;%1&apos;. Powód: %2.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="181"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
-        <translation type="unfinished">Nie można prawidłowo odczytać pliku &apos;%1&apos;.</translation>
+        <translation>Nie można prawidłowo odczytać pliku &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="293"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished">Nie można otworzyć pliku &apos;%1&apos; do zapisu.</translation>
+        <translation>Nie można otworzyć pliku &apos;%1&apos; do zapisu.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="299"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished">Nie można zapisać danych do pliku &apos;%1&apos;.</translation>
+        <translation>Nie można zapisać danych do pliku &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="309"/>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="358"/>
         <source>Flight Route</source>
-        <translation type="unfinished"></translation>
+        <translation>Trasa lotnicza</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="395"/>
         <source>Total: %1&amp;nbsp;km</source>
-        <translation type="unfinished">Sumarycznie: %1&amp;nbsp;km</translation>
+        <translation>Sumarycznie: %1&amp;nbsp;km</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="397"/>
         <source>Total: %1&amp;nbsp;nm</source>
-        <translation type="unfinished"></translation>
+        <translation>Sumarycznie: %1nbsp;nm</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="409"/>
         <source>Cruise speed not specified.</source>
-        <translation type="unfinished">Prędkość przelotowa nie jest ustawiona.</translation>
+        <translation>Prędkość przelotowa nie jest ustawiona.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="412"/>
         <source>Fuel consumption not specified.</source>
-        <translation type="unfinished">Spalanie paliwa nie jest ustawione.</translation>
+        <translation>Spalanie paliwa nie jest ustawione.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="415"/>
         <source>Wind speed not specified.</source>
-        <translation type="unfinished">Prędkość wiatru nie jest ustawiona.</translation>
+        <translation>Prędkość wiatru nie jest ustawiona.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="419"/>
         <source>Wind direction not specified.</source>
-        <translation type="unfinished">Kierunek wiatru nie jest ustawiony.</translation>
+        <translation>Kierunek wiatru nie jest ustawiony.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="424"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Obliczenia skończone. %1&lt;/font&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Obliczenia skończone. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="149"/>
         <source>Error opening file &apos;%1&apos;</source>
-        <translation type="unfinished">Błąd przy otwieraniu pliku &apos;%1&apos;</translation>
+        <translation>Błąd przy otwieraniu pliku &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="295"/>
         <source>Error interpreting GPX file: no valid route found.</source>
-        <translation type="unfinished">Błąd przy odczycie pliku GPX: nie znaleziono prawidłowej trasy.</translation>
+        <translation>Błąd przy odczycie pliku GPX: nie znaleziono prawidłowej trasy.</translation>
     </message>
 </context>
 <context>
@@ -8540,23 +8585,23 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="371"/>
         <source>Waiting for precise position…</source>
-        <translation type="unfinished">Oczekiwanie na dokładną pozycję...</translation>
+        <translation>Oczekiwanie na dokładną pozycję...</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="419"/>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="424"/>
         <source>SR %1, %2</source>
-        <translation type="unfinished">WSCH %1, %2</translation>
+        <translation>SR %1, %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="422"/>
         <source>SS %1, %2</source>
-        <translation type="unfinished">ZACH %1, %2</translation>
+        <translation>SS %1, %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="466"/>
         <source>QNH: %1 hPa in %2, %3</source>
-        <translation type="unfinished">QNH: %1 hPa w %2, %3</translation>
+        <translation>QNH: %1 hPa w %2, %3</translation>
     </message>
 </context>
 <context>
