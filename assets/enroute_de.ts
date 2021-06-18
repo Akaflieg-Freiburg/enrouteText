@@ -4960,7 +4960,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="90"/>
         <source>Speed in km/h, distance in km</source>
-        <translation>Geschwindigkeit in km/h, Distanzen in km</translation>
+        <translation>Geschwindigkeit in km/h, Entfernung in km</translation>
     </message>
     <message>
         <source>Speed in kt, distance in NM</source>
@@ -9644,12 +9644,13 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/main.cpp" line="113"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation ist eine kostenlose Navigations-App für VFR-Piloten,
+entwickelt als Projekt der Akaflieg Freiburg.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="116"/>
         <source>Run simulator and generate screenshots for manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulator starten und Screenshots für das Handbuch erzeugen</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="118"/>
