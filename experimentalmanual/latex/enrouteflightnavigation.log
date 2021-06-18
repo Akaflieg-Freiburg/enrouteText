@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.18)  18 JUN 2021 05:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.6.18)  18 JUN 2021 06:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -956,100 +956,100 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 885--885
 ] [22]
 Chapter 8.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 988--988
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1034--1034
 [][][][][][][][][]  
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+txtt on input line 
-1004.
+1050.
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txtt.fd
 File: ts1txtt.fd 2000/12/15 v3.1
 ) [23
 
 ]
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 [24]
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 [25]
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 [26]
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 [27]
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 [28]
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 [29]
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 [30]
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 [31]
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 [32]
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1596
+Underfull \vbox (badness 10000) detected at line 1642
  []
 
 [33] [34]
 Chapter 9.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1599--1599
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1645--1645
 [][][][][][][][][]  
  []
 
@@ -1060,21 +1060,21 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 1599--1599
 ]
 Chapter 10.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 2240--2240
+Overfull \hbox (10.0pt too wide) in paragraph at lines 2286--2286
 [][][][][][][][][]  
  []
 
 [41]
 LaTeX Font Info:    Font shape `T1/txtt/b/n' in size <10> not available
-(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 2397.
+(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 2443.
 
  (./enrouteflightnavigation.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2411.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2457.
  [42]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2411.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2457.
  (./enrouteflightnavigation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2411.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2411.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2457.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2457.
 
 Package rerunfilecheck Info: File `enrouteflightnavigation.out' has not changed
 .
@@ -1083,13 +1083,13 @@ Package rerunfilecheck Info: File `enrouteflightnavigation.out' has not changed
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2411.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2457.
  ) 
 Here is how much of TeX's memory you used:
- 14202 strings out of 483183
- 203962 string characters out of 5966292
- 1173513 words of memory out of 5000000
- 28616 multiletter control sequences out of 15000+600000
+ 14205 strings out of 483183
+ 203978 string characters out of 5966292
+ 1173512 words of memory out of 5000000
+ 28619 multiletter control sequences out of 15000+600000
  607950 words of font info for 86 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
  38i,12n,51p,428b,550s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1104,7 +1104,7 @@ ex-gyre/qtmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1x
 btt.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/tcxtt.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on enrouteflightnavigation.pdf (46 pages, 2029087 bytes).
+Output written on enrouteflightnavigation.pdf (46 pages, 2029973 bytes).
 PDF statistics:
  819 PDF objects out of 1000 (max. 8388607)
  729 compressed objects within 8 object streams
