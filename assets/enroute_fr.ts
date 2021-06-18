@@ -1356,27 +1356,27 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="129"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="124"/>
         <source>No information available.</source>
         <translation>Aucune information disponible</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="132"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="127"/>
         <source>Installed</source>
         <translation>Installée</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="134"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="129"/>
         <source>File Size</source>
         <translation>Taille du fichier</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="148"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="143"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>Les données de carte ont été compilées depuis les sources suivantes.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="178"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="173"/>
         <source>Internal Map Data</source>
         <translation>Données de carte internes</translation>
     </message>
@@ -2514,47 +2514,47 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes&lt;/strong&gt; pour ouvrir le menu
         <translation>Téléchargement des cartes…</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="47"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="49"/>
         <source>Import data</source>
         <translation>Importer les données</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="49"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="51"/>
         <source>All files (*)</source>
         <translation>Tous les fichiers (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="75"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="77"/>
         <source>No suitable file sharing app could be found.</source>
         <translation>Aucun fichier de partage d&apos;application n&apos;a pu être trouvé</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="78"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="80"/>
         <source>Export flight route</source>
         <translation>Exporter la route</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="80"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="82"/>
         <source>%1 (*.%2);;All files (*)</source>
         <translation>%1 (*.%2);;Tous les fichiers (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="87"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="89"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Impossible d&apos;ouvrir le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="91"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="93"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Impossible d&apos;écrire dans le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="111"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="113"/>
         <source>No suitable app for viewing this data could be found.</source>
         <translation>Aucune application permettant de visualiser ces données n&apos;a été trouvée.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="117"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="119"/>
         <source>Unable to open data in other app.</source>
         <translation>Impossible d&apos;ouvrir les données dans une autre application.</translation>
     </message>
@@ -2862,23 +2862,23 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Positioning::PositionProvider</name>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="206"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="202"/>
         <source>Receiving position information.</source>
         <translation>Réception des informations sur la position.</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="208"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="204"/>
         <source>Receiving pressure altitude.</source>
         <translation>Réception de l&apos;altitude pression</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="215"/>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="217"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="211"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="213"/>
         <source>Not receiving position information</source>
         <translation>Aucune réception des informations sur la position</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="217"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="213"/>
         <source>Traffic receiver</source>
         <translation>Récepteur de traffic</translation>
     </message>
@@ -2984,27 +2984,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Traffic::TrafficDataProvider</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="54"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="49"/>
         <source>Traffic data receiver</source>
         <translation>Récepteur de traffic</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="330"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="301"/>
         <source>Receiving traffic data.</source>
         <translation>Réception des données de traffic.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="332"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="303"/>
         <source>Receiving position info.</source>
         <translation>Réception des information sur la position.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="335"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="306"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Réception de l&apos;altitude baramétrique.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="342"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="313"/>
         <source>Not receiving traffic data.</source>
         <translation>Aucune réception.</translation>
     </message>
@@ -3472,12 +3472,19 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Traffic::TrafficDataSource_Simulate</name>
     <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="40"/>
         <source>Connected.</source>
-        <translation type="obsolete">Connecté.</translation>
+        <translation type="unfinished">Connecté.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="47"/>
         <source>Not connected.</source>
-        <translation type="obsolete">Non connecté.</translation>
+        <translation type="unfinished">Non connecté.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Simulate.h" line="56"/>
+        <source>Simulator data</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6747,152 +6754,162 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>main</name>
     <message>
-        <location filename="../../../src/qml/main.qml" line="35"/>
+        <location filename="../../../src/qml/main.qml" line="37"/>
         <source>Enroute Flight Navigation</source>
         <translation>Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="82"/>
+        <location filename="../../../src/qml/main.qml" line="84"/>
         <source>Route</source>
         <translation>Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="97"/>
+        <location filename="../../../src/qml/main.qml" line="99"/>
         <source>Nearby Waypoints</source>
         <translation>Points à proximité</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="112"/>
+        <location filename="../../../src/qml/main.qml" line="114"/>
         <source>Weather</source>
         <translation>Météo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="178"/>
+        <location filename="../../../src/qml/main.qml" line="180"/>
         <source>Settings</source>
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="197"/>
+        <location filename="../../../src/qml/main.qml" line="199"/>
         <source>Information</source>
         <translation>Informations</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="278"/>
+        <location filename="../../../src/qml/main.qml" line="280"/>
         <source>About Enroute Flight Navigation</source>
         <translation>A propos d&apos;Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="304"/>
+        <location filename="../../../src/qml/main.qml" line="306"/>
         <source>Donate</source>
         <translation>Faire un don</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="319"/>
+        <location filename="../../../src/qml/main.qml" line="321"/>
         <source>Bug report</source>
         <translation>Signaler un bug</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="291"/>
+        <location filename="../../../src/qml/main.qml" line="293"/>
         <source>Participate</source>
         <translation>Contribuer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="233"/>
+        <location filename="../../../src/qml/main.qml" line="235"/>
         <source>Traffic Receiver</source>
         <translation>Récepteur de traffic</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="212"/>
+        <location filename="../../../src/qml/main.qml" line="214"/>
         <source>Receiving position information.</source>
         <translation>Réception de l&apos;information sur la position.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="131"/>
+        <location filename="../../../src/qml/main.qml" line="133"/>
         <source>Library</source>
         <translation>Bibliothèque</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="144"/>
+        <location filename="../../../src/qml/main.qml" line="146"/>
         <source>Flight Routes</source>
         <translation>Routes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="157"/>
+        <location filename="../../../src/qml/main.qml" line="159"/>
         <source>Maps</source>
         <translation>Cartes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="158"/>
+        <location filename="../../../src/qml/main.qml" line="160"/>
         <source>Updates available</source>
         <translation>Mises à jour disponibles</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="159"/>
+        <location filename="../../../src/qml/main.qml" line="161"/>
         <source>Item not available in flight</source>
         <translation>Non disponible en vol</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="210"/>
+        <location filename="../../../src/qml/main.qml" line="212"/>
         <source>Positioning</source>
         <translation>Positionnement</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="212"/>
+        <location filename="../../../src/qml/main.qml" line="214"/>
         <source>Not receiving position information.</source>
         <translation>Aucune réception de l&apos;information sur la position.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="235"/>
+        <location filename="../../../src/qml/main.qml" line="237"/>
         <source>Receiving traffic data.</source>
         <translation>Réception des données du traffic.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="235"/>
+        <location filename="../../../src/qml/main.qml" line="237"/>
         <source>Not receiving traffic data.</source>
         <translation>Aucune réception des données du traffic.&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="259"/>
+        <location filename="../../../src/qml/main.qml" line="261"/>
         <source>Manual</source>
         <translation>Manuel</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="340"/>
+        <location filename="../../../src/qml/main.qml" line="342"/>
         <source>Exit</source>
         <translation>Quitter</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="472"/>
+        <location filename="../../../src/qml/main.qml" line="474"/>
         <source>Connected to traffic receiver.</source>
         <translation>Connecté au récepteur de traffic.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="474"/>
+        <location filename="../../../src/qml/main.qml" line="476"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Connexion au récepteur de traffic perdue.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="507"/>
+        <location filename="../../../src/qml/main.qml" line="509"/>
         <source>Exit…?</source>
         <translation>Quitter ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="508"/>
+        <location filename="../../../src/qml/main.qml" line="510"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Voulez-vous vraiment quitter &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="519"/>
+        <location filename="../../../src/qml/main.qml" line="521"/>
         <source>What&apos;s new …?</source>
         <translation>Nouveautés</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="111"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
-        <translation>Enroute Flight Navigation est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.</translation>
+        <translation type="vanished">Enroute Flight Navigation est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="114"/>
+        <location filename="../../../src/main.cpp" line="113"/>
+        <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
+developed as a project of Akaflieg Freiburg.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/main.cpp" line="116"/>
+        <source>Run simulator and generate screenshots for manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/main.cpp" line="118"/>
         <source>File to import.</source>
         <translation>Fichier à importer</translation>
     </message>
