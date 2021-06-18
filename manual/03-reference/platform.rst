@@ -56,4 +56,15 @@ Command line
 ^^^^^^^^^^^^
 
 Rather than importing file by drag-and-drop, file names can also be given when
-starting **Enroute Flight Navigation** via the Unix command line.
+starting **Enroute Flight Navigation** via the Unix command line.  The followin
+command line options are supported.
+
+============== =====================
+Option         Description
+============== =====================
+-h, --help     Displays help on commandline options.
+--help-all     Displays help including Qt specific options.
+-v, --version  Displays version information.
+-s             Run simulator and generate screenshots for manual
+============== =====================
+
