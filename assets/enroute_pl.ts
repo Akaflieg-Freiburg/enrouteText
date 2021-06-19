@@ -5015,17 +5015,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="40"/>
         <source>Connected.</source>
-        <translation type="unfinished">Połączony.</translation>
+        <translation>Połączony.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="47"/>
         <source>Not connected.</source>
-        <translation type="unfinished">Nie połączony.</translation>
+        <translation>Nie połączony.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.h" line="56"/>
         <source>Simulator data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane symulatora</translation>
     </message>
 </context>
 <context>
@@ -8848,12 +8848,13 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/main.cpp" line="113"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation to darmowa nawigacja lotnicza dla pilotów VFR,
+rozwijana jako projekt Akaflieg Freiburg.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="116"/>
         <source>Run simulator and generate screenshots for manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom symulator i generuj ekrany dla instrukcji użytkownika</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="118"/>
