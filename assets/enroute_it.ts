@@ -1859,7 +1859,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
 
 &lt;h3&gt;Riconoscimenti&lt;/h3&gt;
 
-&lt;p&gt;Questo programma include un certo numero di biblioteche open source, incluso &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; e &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Questo programma include un certo numero di archivi open source, incluso &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; e &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I dati aereonautici sono gentilmente forniti dai progetti &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; e &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;. Le cartine di base sono gentilmente forniti da &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Per maggiori informazioni consultate la documentazione.&lt;/p&gt;</translation>
     </message>
@@ -3872,7 +3872,7 @@ e la connessione si interrompe a causa di più dispositivi che tentano di accede
 Choose &lt;strong&gt;Library/Maps&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
         <translation>&lt;p&gt; &lt;strong&gt; Non è installata alcuna mappa aereonautica. &lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt; Per installare una mappa, apri il menu utilizzando il pulsante ☰ nell&apos;angolo in alto a sinistra di questa schermata.
-Scegli &lt;strong&gt; Biblioteca / Mappe &lt;/strong&gt; per aprire la pagina di gestione della mappa. &lt;/p&gt;</translation>
+Scegli &lt;strong&gt; Archivio / Mappe &lt;/strong&gt; per aprire la pagina di gestione della mappa. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="454"/>
@@ -5252,17 +5252,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="40"/>
         <source>Connected.</source>
-        <translation type="unfinished">Connesso.</translation>
+        <translation>Connesso.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="47"/>
         <source>Not connected.</source>
-        <translation type="unfinished">Non connesso.</translation>
+        <translation>Non connesso.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.h" line="56"/>
         <source>Simulator data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dati simulatore</translation>
     </message>
 </context>
 <context>
@@ -9147,12 +9147,13 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/main.cpp" line="113"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation è un&apos;app di navigazione per piloti VFR,
+sviluppata e progettata da Akaflieg Freiburg.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="116"/>
         <source>Run simulator and generate screenshots for manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui il simulatore e genera uno screenshots per il manuale</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="118"/>
