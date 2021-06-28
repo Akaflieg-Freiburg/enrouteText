@@ -3049,7 +3049,7 @@ Ansonsten wählen Sie diesen Eintrag aus. Die Seite &quot;Status&quot; öffnet s
     <message>
         <location filename="../../../src/Librarian.cpp" line="495"/>
         <source>**The moving map can now optionally display glider sectors.** Update your aviation maps and go to Menu/Settings to enable this feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>**Die Karte kann jetzt auf Wunsch Segelflugsektoren anzeigen.**Aktualisieren Sie Ihre Luftfahrtkarten und aktivieren Sie diese Funktion in den Einstellungen.</translation>
     </message>
     <message>
         <source>This release fixes a few minor issues.</source>
@@ -4900,17 +4900,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
         <source>Hide Gliding Sectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Segelflugsektoren ausblenden</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="82"/>
         <source>Gliding sectors hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Segelflugsektoren sind ausgeblendet</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
         <source>Gliding sectors shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Segelflugsektoren werden angezeigt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
