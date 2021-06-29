@@ -3290,12 +3290,8 @@ się otworzy, wyjaśniając dokładniej status połączenia.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="495"/>
-        <source>**The moving map can now optionally display glider sectors.** Update your aviation maps and go to Menu/Settings to enable this feature.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>This release fixes a few minor issues.</source>
-        <translation type="vanished">To wydanie poprawia kilka mniejszych błędów.</translation>
+        <translation>To wydanie poprawia kilka mniejszych błędów.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="497"/>
@@ -3774,8 +3770,8 @@ Wybierz &lt;strong&gt;Bibilioteka/Mapy&lt;/strong&gt; aby otworzyć stronę zarz
 <context>
     <name>MobileAdaptor</name>
     <message>
-        <location filename="../../../src/MobileAdaptor.cpp" line="174"/>
-        <location filename="../../../src/MobileAdaptor.cpp" line="183"/>
+        <location filename="../../../src/MobileAdaptor.cpp" line="178"/>
+        <location filename="../../../src/MobileAdaptor.cpp" line="187"/>
         <source>Downloading map data…</source>
         <translation>Pobieranie danych map...</translation>
     </message>
@@ -4308,52 +4304,37 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Pokazane wszystkie przestrzenie lotnicze</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
-        <source>Hide Gliding Sectors</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="82"/>
-        <source>Gliding sectors hidden</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
-        <source>Gliding sectors shown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="91"/>
         <source>Speed in kn, distance in nm</source>
         <translation>Prędkość w kn, odległość w nm</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="105"/>
         <source>Night mode</source>
         <translation>Tryb nocny</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="119"/>
         <source>Help</source>
         <translation>Pomoc</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="128"/>
         <source>How to connect your traffic receiver…</source>
         <translation>Jak podłączyć twój odbiornik ruchu lotniczego...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="159"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="135"/>
         <source>Connect your traffic receiver</source>
         <translation>Podłącz twój odbiornik ruchu lotniczego</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="167"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
         <source>How to connect your flight simulator…</source>
         <translation>Jak podłączyć twój symulator lotu...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="174"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="150"/>
         <source>Connect your flight simulator</source>
         <translation>Podłącz twój symulator lotu</translation>
     </message>
@@ -4378,7 +4359,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Element nie dostępny podczas lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="103"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
         <source>System</source>
         <translation>System</translation>
     </message>
@@ -4395,12 +4376,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Zawsze w trybie lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="111"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="87"/>
         <source>Use metric units</source>
         <translation>Użyj systemu metrycznego</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="114"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="90"/>
         <source>Speed in km/h, distance in km</source>
         <translation>Prędkość w km/h, dystans w km</translation>
     </message>
@@ -5631,18 +5612,18 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>odczytaj TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="373"/>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="447"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="368"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="442"/>
         <source>New flight route: direct to %1.</source>
         <translation>Nowa trasa lotu: bezpośrednio do %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="391"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="386"/>
         <source>Added %1 to route.</source>
         <translation>Dodano %1 do trasy.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="410"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="405"/>
         <source>Removed %1 from route.</source>
         <translation>Usunięto %1 z trasy.</translation>
     </message>
@@ -5655,7 +5636,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">mailto:stefan.kebekus@gmail.com?subject=Enroute,Error Report&amp;body=Dziękuję za sugestie korekt w mapach. Proszę, opisz tutaj swój problem.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="360"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="355"/>
         <source>Direct</source>
         <translation>Bezpośredni</translation>
     </message>
@@ -5668,12 +5649,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">do Trasy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="423"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="418"/>
         <source>Overwrite current flight route?</source>
         <translation>Czy nadpisać obecną trasę lotu?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="433"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="428"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation>Raz nadpisana, obecna trasa lotu nie będzie mogła zostać odzyskana.</translation>
     </message>
