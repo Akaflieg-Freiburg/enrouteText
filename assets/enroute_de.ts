@@ -3049,7 +3049,7 @@ Ansonsten wählen Sie diesen Eintrag aus. Die Seite &quot;Status&quot; öffnet s
     <message>
         <location filename="../../../src/Librarian.cpp" line="495"/>
         <source>**The moving map can now optionally display glider sectors.** Update your aviation maps and go to Menu/Settings to enable this feature.</source>
-        <translation>**Die Karte kann jetzt auf Wunsch Segelflugsektoren anzeigen.**Aktualisieren Sie Ihre Luftfahrtkarten und aktivieren Sie diese Funktion in den Einstellungen.</translation>
+        <translation>**Die Karte kann jetzt auf Wunsch Segelflugsektoren anzeigen.** Aktualisieren Sie Ihre Luftfahrtkarten und aktivieren Sie diese Funktion in den Einstellungen.</translation>
     </message>
     <message>
         <source>This release fixes a few minor issues.</source>
