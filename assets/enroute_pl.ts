@@ -3291,7 +3291,7 @@ się otworzy, wyjaśniając dokładniej status połączenia.&lt;/p&gt;
     <message>
         <location filename="../../../src/Librarian.cpp" line="495"/>
         <source>**The moving map can now optionally display glider sectors.** Update your aviation maps and go to Menu/Settings to enable this feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>**Ruchoma mapa może teraz pokazywać opcjonalnie sektory szybowcowe.** Zaktualizuj swoje mapy lotnicze i idź do Menu/Ustawienia aby włączyć tą funkcję.</translation>
     </message>
     <message>
         <source>This release fixes a few minor issues.</source>
@@ -4310,17 +4310,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
         <source>Hide Gliding Sectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukryj sektory szybowcowe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="82"/>
         <source>Gliding sectors hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Sektory szybowcowe ukryte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
         <source>Gliding sectors shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Sektory szybowcowe pokazywane</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
