@@ -20,7 +20,7 @@ Users reported success with the following traffic receivers.
 
 .. note:: To show only relevant traffic, **Enroute Flight Navigation** will
     display traffic factors only if the vertical distance is less than 1.500m
-    and and the horizontal distance less than 20km.
+    and and the horizontal distance less than 20nm.
 
 
 Before you connect
