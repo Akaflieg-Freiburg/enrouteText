@@ -13,7 +13,7 @@ traffic receivers.
 
 Users reported success with the following traffic receivers.
 
-- `PilotAware Rosetta <https://https://www.pilotaware.com/rosetta/>`_
+- `PilotAware Rosetta <https://www.pilotaware.com/rosetta/>`_
 - `SkyEcho2 <https://uavionix.com/products/skyecho/>`_
 - `Stratux devices <http://stratux.me/>`_
 - `TTGO T-Beam devices <https://www.amazon.de/TTGO-T-Beam-915Mhz-Wireless-Bluetooth/dp/B07SFVQ3Z8>`_
