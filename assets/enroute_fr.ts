@@ -2162,11 +2162,7 @@ Flight Navigation&lt;/strong&gt; a déjà trouvé le simulateur et s&apos;y est 
     <message>
         <location filename="../../../src/Librarian.cpp" line="495"/>
         <source>**The moving map can now optionally display glider sectors.** Update your aviation maps and go to Menu/Settings to enable this feature.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>This release fixes a few minor issues.</source>
-        <translation type="vanished">Cette mise à jour corrige quelques bugs mineurs.</translation>
+        <translation>**La carte peut maintenant afficher les secteurs pour les planeurs.** Mettez à jour vos cartes et allez dans les paramètres pour activer cette option.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="497"/>
@@ -2764,17 +2760,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
         <source>Hide Gliding Sectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Cacher les secteurs pour planeurs</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="82"/>
         <source>Gliding sectors hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Secteurs pour planeurs cachés</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
         <source>Gliding sectors shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Secteurs pour planeurs affichés</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
