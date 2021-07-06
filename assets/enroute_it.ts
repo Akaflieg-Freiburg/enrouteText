@@ -3564,7 +3564,7 @@ si aprirà la pagina, che spiega lo stato della connessione in modo più dettagl
     <message>
         <location filename="../../../src/Librarian.cpp" line="495"/>
         <source>**The moving map can now optionally display glider sectors.** Update your aviation maps and go to Menu/Settings to enable this feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>**La mappa in movimento ora può visualizzare facoltativamente i settori alianti.** Aggiorna le mappe dell&apos;aviazione e vai a Menu/Impostazioni per abilitare questa funzione.</translation>
     </message>
     <message>
         <source>This release fixes a few minor issues.</source>
@@ -4547,17 +4547,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
         <source>Hide Gliding Sectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Nascondi Settori Alianti</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="82"/>
         <source>Gliding sectors hidden</source>
-        <translation type="unfinished"></translation>
+        <translation>Settori alianti nascosti</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
         <source>Gliding sectors shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Settori alianti visualizzati</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
