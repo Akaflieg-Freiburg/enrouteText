@@ -8,6 +8,7 @@ has been tested with the following programs.
 
 Users have reported success with the following programs.
 
+- `Microsoft Flight Simulator (2020) <https://www.flightsimulator.com/>`_
 - `X-Plane 10 <https://www.x-plane.com/>`_
 
 Please contact us if you are aware of other programs that also work.
@@ -43,6 +44,26 @@ setup required.  As soon as the flight simulator starts to broadcast information
 over the Wi-Fi network, the moving map of **Enroute Flight Navigation** will
 adjust accordingly.  To end the connection to the flight simulator, simply leave
 the flight simulator's Wi-Fi network.
+	   
+  
+MS Flight Simulator
+^^^^^^^^^^^^^^^^^^^
+
+In order to communicate with other programs, the MS Flight Simulator requires
+additional software. Users reported that **Enroute Flight Navigation** works
+well with the inexpensive EFB-Connector program `XMapsy <http://xmapsy.com/>`_.
+If you are aware of other software that also works, then please be in touch.
+
+
+X-Plane 11
+^^^^^^^^^^
+
+Open the "Settings" window and choose the "Network" tab.  Locate the settings
+group "This machine's role" on the right-hand side of the tab. Open the section
+"iPHONE, iPAD, and EXTERNAL APPS" and select the item "Broadcast to all mapping
+apps on the network" under the headline "OTHER MAPPING APPS".
+
+.. image:: X-Plane-11.png
 
 
 X-Plane 10
@@ -58,30 +79,12 @@ disable output of data on tab "Data".
 .. image:: X-Plane-10.png
 
 
-X-Plane 11
-^^^^^^^^^^
-
-Open the "Settings" window and choose the "Network" tab.  Locate the settings
-group "This machine's role" on the right-hand side of the tab. Open the section
-"iPHONE, iPAD, and EXTERNAL APPS" and select the item "Broadcast to all mapping
-apps on the network" under the headline "OTHER MAPPING APPS".
-
-.. image:: X-Plane-11.png
-	   
-  
-MS Flight Simulator
-^^^^^^^^^^^^^^^^^^^
-
-UNKNOWN AS OF NOW.
-
-
 Other programs
 ^^^^^^^^^^^^^^
 
 The flight simulator needs to be set up to send UDP datagrams in one of the
 standard formats "GDL90" or "XGPS" to ports 4000 or 49002.  Given the choice,
 GDL90 is generally the preferred format.
-
 
 
 Troubleshooting
