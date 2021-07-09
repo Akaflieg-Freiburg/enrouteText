@@ -22,11 +22,11 @@
 \contentsline {chapter}{\numberline {5}Connect your flight simulator}{13}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Before you connect}{13}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Set up your flight simulator}{14}{section.5.2}%
-\contentsline {subsection}{\numberline {5.2.1}X\sphinxhyphen {}Plane 10}{14}{subsection.5.2.1}%
-\contentsline {subsection}{\numberline {5.2.2}X\sphinxhyphen {}Plane 11}{15}{subsection.5.2.2}%
-\contentsline {subsection}{\numberline {5.2.3}MS Flight Simulator}{15}{subsection.5.2.3}%
+\contentsline {subsection}{\numberline {5.2.1}MS Flight Simulator}{14}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}X\sphinxhyphen {}Plane 11}{14}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}X\sphinxhyphen {}Plane 10}{15}{subsection.5.2.3}%
 \contentsline {subsection}{\numberline {5.2.4}Other programs}{15}{subsection.5.2.4}%
-\contentsline {section}{\numberline {5.3}Troubleshooting}{15}{section.5.3}%
+\contentsline {section}{\numberline {5.3}Troubleshooting}{16}{section.5.3}%
 \contentsline {chapter}{\numberline {6}Make a donation}{17}{chapter.6}%
 \contentsline {chapter}{\numberline {7}Platform notes}{19}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Android}{19}{section.7.1}%

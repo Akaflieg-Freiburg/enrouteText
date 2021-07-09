@@ -196,21 +196,21 @@
         </navPoint>
         <navPoint id="navPoint32" playOrder="25">
           <navLabel>
-            <text>X-Plane 10</text>
+            <text>MS Flight Simulator</text>
           </navLabel>
-          <content src="02-steps/simulator.xhtml#id1" />  
+          <content src="02-steps/simulator.xhtml#ms-flight-simulator" />  
         </navPoint>
         <navPoint id="navPoint33" playOrder="26">
           <navLabel>
             <text>X-Plane 11</text>
           </navLabel>
-          <content src="02-steps/simulator.xhtml#id2" />  
+          <content src="02-steps/simulator.xhtml#id1" />  
         </navPoint>
         <navPoint id="navPoint34" playOrder="27">
           <navLabel>
-            <text>MS Flight Simulator</text>
+            <text>X-Plane 10</text>
           </navLabel>
-          <content src="02-steps/simulator.xhtml#ms-flight-simulator" />  
+          <content src="02-steps/simulator.xhtml#id2" />  
         </navPoint>
         <navPoint id="navPoint35" playOrder="28">
           <navLabel>
