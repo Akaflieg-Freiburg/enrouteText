@@ -2199,7 +2199,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
 &lt;p&gt;Ti preghiamo di comprendere che programmiamo questa app gratuita nel nostro tempo libero, come un servizio alla comunit&amp;agrave;. Purtroppo, devo sottolineare che l&apos;invio di richieste scortesi probabilmente non dar&amp;agrave; il risultato che desideri.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="183"/>
+        <location filename="../../../src/Librarian.cpp" line="294"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -2573,7 +2573,7 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
 &lt;p&gt;Se siete bravi nella programmazione in C++ e volete &lt;strong&gt;aiutare nella programmazione&lt;/strong&gt;, &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;contattateci&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="471"/>
+        <location filename="../../../src/Librarian.cpp" line="480"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -3058,7 +3058,7 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="171"/>
+        <location filename="../../../src/Librarian.cpp" line="282"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -3108,7 +3108,7 @@ La mappa mostra anche e applica lo stile ai dati da &lt;a href=&quot;https://www
 che è licenziata sotto &lt;a href=&quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt;OFMA General Users´ License&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="215"/>
+        <location filename="../../../src/Librarian.cpp" line="326"/>
         <source>
 &lt;h3&gt;License&lt;/h3&gt;
 
@@ -3206,7 +3206,7 @@ che è licenziata sotto &lt;a href=&quot;https://www.openflightmaps.org/live/dow
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="262"/>
+        <location filename="../../../src/Librarian.cpp" line="373"/>
         <source>
 &lt;h4&gt;Software and data included in the program&lt;/h4&gt;
 
@@ -3234,7 +3234,7 @@ che è licenziata sotto &lt;a href=&quot;https://www.openflightmaps.org/live/dow
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="278"/>
+        <location filename="../../../src/Librarian.cpp" line="389"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -3294,7 +3294,7 @@ seguenti ricevitori di traffico.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="225"/>
+        <location filename="../../../src/Librarian.cpp" line="336"/>
         <source>
 &lt;h4&gt;Geographic maps&lt;/h4&gt;
 
@@ -3372,7 +3372,7 @@ seguenti ricevitori di traffico.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <location filename="../../../src/Librarian.cpp" line="171"/>
         <source>
 &lt;p&gt;In order to display nearby traffic on the moving map, &lt;strong&gt;Enroute Flight
 Navigation&lt;/strong&gt; can connect to your aircraft&apos;s traffic receiver (typically a FLARM
@@ -3388,7 +3388,7 @@ following traffic receivers.&lt;/p&gt;
 seguenti ricevitori sul traffico.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="301"/>
+        <location filename="../../../src/Librarian.cpp" line="182"/>
         <source>
 &lt;p&gt;Users reported success with the following traffic receivers.&lt;/p&gt;
 </source>
@@ -3397,7 +3397,6 @@ seguenti ricevitori sul traffico.&lt;/p&gt;</translation>
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="401"/>
         <source>
 &lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; can connect to flight simulator software.  The app
 has been tested with the following programs.&lt;/p&gt;
@@ -3408,7 +3407,7 @@ has been tested with the following programs.&lt;/p&gt;
 
 &lt;p&gt;Please contact us if you are aware of other programs that also work.&lt;/p&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; può connettersi ad un software simulatore di volo. L&apos;app
 è stata testata con i seguenti programmi.&lt;/p&gt;
 
@@ -3419,7 +3418,7 @@ has been tested with the following programs.&lt;/p&gt;
 &lt;p&gt;Contattaci se sei a conoscenza di altri programmi che funzionano.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="410"/>
+        <location filename="../../../src/Librarian.cpp" line="417"/>
         <source>
 &lt;h2&gt;Before you connect&lt;/h2&gt;
 
@@ -3457,7 +3456,7 @@ connessi a una rete Wi-Fi dello stesso router domestico. Assicurati che siano so
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="427"/>
+        <location filename="../../../src/Librarian.cpp" line="434"/>
         <source>
 &lt;h2&gt;Set up your flight simulator&lt;/h2&gt;
 
@@ -3482,7 +3481,22 @@ la rete Wi-Fi del simulatore di volo.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="437"/>
+        <location filename="../../../src/Librarian.cpp" line="444"/>
+        <source>
+&lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
+
+&lt;p&gt;In order to communicate with other programs, the MS Flight Simulator requires
+additional software. Users reported that &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; works
+well with the inexpensive EFB-Connector program &lt;a href= &quot;http://xmapsy.com/&quot;&gt;XMapsy&lt;/a&gt;.
+If you are aware of other software that also works, then please be in touch.  The article
+&lt;a href=&quot;https://support.foreflight.com/hc/en-us/articles/204115275-How-do-I-connect-Microsoft-Flight-Simulator-FS-X-or-FS-2004-to-ForeFlight-&quot;&gt;How
+do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
+might be helpful.&lt;/p&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="454"/>
         <source>
 &lt;h3&gt;X-Plane 11&lt;/h3&gt;
 
@@ -3501,7 +3515,6 @@ app sulla rete &quot;sotto il titolo&quot; ALTRE APP DI MAPPATURA &quot;.&lt;/p&
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="444"/>
         <source>
 &lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
 
@@ -3511,7 +3524,7 @@ If the MS Flight Simulator works for you, please be in touch.  The article
 do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
 might be helpful.&lt;/p&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
 
 &lt;p&gt;Non ancora testato, poiché l&apos;autore non ha questo programma.
@@ -3522,7 +3535,7 @@ do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="452"/>
+        <location filename="../../../src/Librarian.cpp" line="461"/>
         <source>
 &lt;h3&gt;Other programs&lt;/h3&gt;
 
@@ -3539,7 +3552,7 @@ GDL90 è generalmente il formato preferito.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="458"/>
+        <location filename="../../../src/Librarian.cpp" line="467"/>
         <source>
 &lt;h2&gt;Troubleshooting&lt;/h2&gt;
 
@@ -3562,7 +3575,7 @@ si aprirà la pagina, che spiega lo stato della connessione in modo più dettagl
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="495"/>
+        <location filename="../../../src/Librarian.cpp" line="504"/>
         <source>**The moving map can now optionally display glider sectors.** Update your aviation maps and go to Menu/Settings to enable this feature.</source>
         <translation>**La mappa in movimento ora può visualizzare facoltativamente i settori alianti.** Aggiorna le mappe dell&apos;aviazione e vai a Menu/Impostazioni per abilitare questa funzione.</translation>
     </message>
@@ -3571,9 +3584,8 @@ si aprirà la pagina, che spiega lo stato della connessione in modo più dettagl
         <translation type="vanished">Questa versione risolve alcuni problemi minori.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="497"/>
         <source>**We need help with the Microsoft Flight Simulator.** This App should work well with the MS Flight Simulator, but the author does not have access to a Windows machine. Please contact us if you know the Flight Simulator and if you would like to help with testing.</source>
-        <translation>**Abbiamo bisogno di aiuto con Microsoft Flight Simulator.** Questa app dovrebbe funzionare bene con MS Flight Simulator, ma l&apos;autore non ha accesso a una macchina Windows. Contattaci se conosci il simulatore di volo e se desideri aiutare con i test.</translation>
+        <translation type="vanished">**Abbiamo bisogno di aiuto con Microsoft Flight Simulator.** Questa app dovrebbe funzionare bene con MS Flight Simulator, ma l&apos;autore non ha accesso a una macchina Windows. Contattaci se conosci il simulatore di volo e se desideri aiutare con i test.</translation>
     </message>
     <message>
         <source>In addition to FLARM, the app now supports traffic receivers that send traffic data in GDL90 format.</source>
@@ -3596,7 +3608,7 @@ si aprirà la pagina, che spiega lo stato della connessione in modo più dettagl
         <translation type="vanished">L&apos;app ora può essere utilizzata insieme a simulatori di volo come [XPlane] (https://www.x-plane.com/) o il popolare [MS Flight Simulator] (https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab). Apri il menu principale e vai alla pagina ** Impostazioni ** per saperne di più. Contattaci se possiedi un simulatore di volo MS e se desideri aiutare con i test.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="496"/>
+        <location filename="../../../src/Librarian.cpp" line="505"/>
         <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
         <translation>** Abbiamo bisogno di aiuto con la traduzione italiana. ** Se desideri aiutare, se parli italiano e se sai come utilizzare il sistema di controllo di revisione GIT, contattaci.</translation>
     </message>
@@ -3623,7 +3635,7 @@ Document (ICD) &apos;, Versione 7.13, come pubblicato da FLARM Technology Ltd.&l
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="310"/>
+        <location filename="../../../src/Librarian.cpp" line="191"/>
         <source>
 &lt;h2&gt;Before you connect&lt;/h2&gt;
 
@@ -3664,7 +3676,7 @@ che le seguenti condizioni siano soddisfatte.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="328"/>
+        <location filename="../../../src/Librarian.cpp" line="209"/>
         <source>
 &lt;h2&gt;Connecting to the traffic receiver&lt;/h2&gt;
 
@@ -3687,7 +3699,7 @@ streaming ogni volta che vai a volare&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="337"/>
+        <location filename="../../../src/Librarian.cpp" line="218"/>
         <source>
 &lt;h3&gt;Step 1: Enter the traffic receiver&apos;s WLAN network&lt;/h3&gt;
 
@@ -3732,7 +3744,7 @@ usa questa opzione.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="357"/>
+        <location filename="../../../src/Librarian.cpp" line="238"/>
         <source>
 &lt;h3&gt;Step 2: Connect to the traffic data stream&lt;/h3&gt;
 
@@ -3767,7 +3779,7 @@ usa questa opzione.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="372"/>
+        <location filename="../../../src/Librarian.cpp" line="253"/>
         <source>
 &lt;h2&gt;Troubleshooting&lt;/h2&gt;
 
@@ -3822,6 +3834,27 @@ e la connessione si interrompe a causa di più dispositivi che tentano di accede
 </translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="401"/>
+        <source>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; can connect to flight simulator software.  The app
+has been tested with the following programs.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;X-Plane 11.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Users have reported success with the following programs.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Microsoft Flight Simulator.&lt;/li&gt;
+  &lt;li&gt;X-Plane 10.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please contact us if you are aware of other programs that also work.&lt;/p&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Users of Stratux traffic receivers can now connect to their devices without changing the Stratux&apos; IP address.</source>
         <translation type="vanished">Gli utenti del ricevitore di traffic Stratux possono ora connettersi ai propri dispositivi senza cambiare l&apos;indirizzo IP di Stratux.</translation>
     </message>
@@ -3846,7 +3879,7 @@ e la connessione si interrompe a causa di più dispositivi che tentano di accede
 &lt;p&gt;Ivan Battistella and Luca Bertoncello hanno tradotto l&apos;app in italiano.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="485"/>
+        <location filename="../../../src/Librarian.cpp" line="494"/>
         <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
       
 &lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
