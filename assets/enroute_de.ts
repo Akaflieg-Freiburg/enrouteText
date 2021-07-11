@@ -2910,7 +2910,22 @@ has been tested with the following programs.&lt;/p&gt;
 
 &lt;p&gt;Please contact us if you are aware of other programs that also work.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; kann sich mit Flugsimulatorsoftware verbinden. Die App wurde mit den folgenden Programmen getestet:&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;X-Plane 11.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Von Benutzern liegen uns Erfolgsmeldungen mit den folgenden Programmen vor:&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Microsoft Flight Simulator.&lt;/li&gt;
+  &lt;li&gt;X-Plane 10.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bitte melden Sie sich bei uns, wenn Sie andere Programme kennen, mit denen es auch geht.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <source>
@@ -3002,7 +3017,15 @@ If you are aware of other software that also works, then please be in touch.  Th
 do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
 might be helpful.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
+
+&lt;p&gt;Für die Kommunikation mit anderen Programmen benötigt der MS Flight Simulator zusätzliche Software. Benutzer berichten, dass &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; gut mit dem günstigen 
+EFB-Connector &lt;a href= &quot;http://xmapsy.com/&quot;&gt;XMapsy&lt;/a&gt; zusammenspielt.
+Wenn Sie andere Software kennen, mit der das auch geht, hören wir gern von Ihnen!. Der Artikel 
+&lt;a href=&quot;https://support.foreflight.com/hc/en-us/articles/204115275-How-do-I-connect-Microsoft-Flight-Simulator-FS-X-or-FS-2004-to-ForeFlight-&quot;&gt;How do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
+kann dabei helfen.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="454"/>
@@ -6034,72 +6057,72 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="108"/>
         <source>Aircraft</source>
-        <translation type="unfinished">Luftfahrzeug</translation>
+        <translation>Luftfahrzeug</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="111"/>
         <source>Airship</source>
-        <translation type="unfinished">Luftschiff</translation>
+        <translation>Luftschiff</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="114"/>
         <source>Balloon</source>
-        <translation type="unfinished">Ballon</translation>
+        <translation>Ballon</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="117"/>
         <source>Copter</source>
-        <translation type="unfinished">Kopter</translation>
+        <translation>Hubschrauber</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="120"/>
         <source>Drone</source>
-        <translation type="unfinished">Drohne</translation>
+        <translation>Drohne</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="123"/>
         <source>Glider</source>
-        <translation type="unfinished">Segelflugzeug</translation>
+        <translation>Segelflugzeug</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="126"/>
         <source>Hang glider</source>
-        <translation type="unfinished">Hängegleiter</translation>
+        <translation>Hängegleiter</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="129"/>
         <source>Jet</source>
-        <translation type="unfinished">Jet</translation>
+        <translation>Jet</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="132"/>
         <source>Paraglider</source>
-        <translation type="unfinished">Gleitschirm</translation>
+        <translation>Gleitschirm</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="135"/>
         <source>Skydiver</source>
-        <translation type="unfinished">Fallschirmspringer</translation>
+        <translation>Fallschirmspringer</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="138"/>
         <source>Static Obstacle</source>
-        <translation type="unfinished">Stehendes Hindernis</translation>
+        <translation>Stehendes Hindernis</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="141"/>
         <source>Tow Plane</source>
-        <translation type="unfinished">Schleppflugzeug</translation>
+        <translation>Schleppflugzeug</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="144"/>
         <source>Traffic</source>
-        <translation type="unfinished">Verkehr</translation>
+        <translation>Verkehr</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="149"/>
         <source>Position unknown</source>
-        <translation type="unfinished">Position unbekannt</translation>
+        <translation>Position unbekannt</translation>
     </message>
 </context>
 <context>
@@ -6107,72 +6130,72 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="65"/>
         <source>Aircraft</source>
-        <translation type="unfinished">Luftfahrzeug</translation>
+        <translation>Luftfahrzeug</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="68"/>
         <source>Airship</source>
-        <translation type="unfinished">Luftschiff</translation>
+        <translation>Luftschiff</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="71"/>
         <source>Balloon</source>
-        <translation type="unfinished">Ballon</translation>
+        <translation>Ballon</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="74"/>
         <source>Copter</source>
-        <translation type="unfinished">Kopter</translation>
+        <translation>Hubschrauber</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="77"/>
         <source>Drone</source>
-        <translation type="unfinished">Drohne</translation>
+        <translation>Drohne</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="80"/>
         <source>Glider</source>
-        <translation type="unfinished">Segelflugzeug</translation>
+        <translation>Segelflugzeug</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="83"/>
         <source>Hang glider</source>
-        <translation type="unfinished">Hängegleiter</translation>
+        <translation>Hängegleiter</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="86"/>
         <source>Jet</source>
-        <translation type="unfinished">Jet</translation>
+        <translation>Jet</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="89"/>
         <source>Paraglider</source>
-        <translation type="unfinished">Gleitschirm</translation>
+        <translation>Gleitschirm</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="92"/>
         <source>Skydiver</source>
-        <translation type="unfinished">Fallschirmspringer</translation>
+        <translation>Fallschirmspringer</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="95"/>
         <source>Static Obstacle</source>
-        <translation type="unfinished">Stehendes Hindernis</translation>
+        <translation>Stehendes Hindernis</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="98"/>
         <source>Tow Plane</source>
-        <translation type="unfinished">Schleppflugzeug</translation>
+        <translation>Schleppflugzeug</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="101"/>
         <source>Traffic</source>
-        <translation type="unfinished">Verkehr</translation>
+        <translation>Verkehr</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="106"/>
         <source>Position unknown</source>
-        <translation type="unfinished">Position unbekannt</translation>
+        <translation>Position unbekannt</translation>
     </message>
 </context>
 <context>
@@ -6405,7 +6428,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/units/Angle.cpp" line="37"/>
         <source>%1 o&apos;clock</source>
-        <translation type="unfinished">%1 Uhr</translation>
+        <translation>%1 Uhr</translation>
     </message>
 </context>
 <context>
