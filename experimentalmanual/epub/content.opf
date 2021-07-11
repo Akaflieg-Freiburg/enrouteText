@@ -12,8 +12,8 @@
     <dc:publisher>Stefan Kebekus</dc:publisher>
     <dc:rights>2021, Stefan Kebekus</dc:rights>
     <dc:identifier id="unknown">unknown</dc:identifier>
-    <dc:date>2021-07-10T08:00:20Z</dc:date>
-    <meta property="dcterms:modified">2021-07-10T08:00:20Z</meta>
+    <dc:date>2021-07-11T06:29:14Z</dc:date>
+    <meta property="dcterms:modified">2021-07-11T06:29:14Z</meta>
     <meta property="ibooks:version"></meta>
     <meta property="ibooks:specified-fonts">true</meta>
     <meta property="ibooks:binding">true</meta>
@@ -38,20 +38,21 @@
     <item id="epub-13" href="_images/01-03-01-ground.png" media-type="image/png" />
     <item id="epub-14" href="_images/01-03-02-flight.png" media-type="image/png" />
     <item id="epub-15" href="_images/01-03-03-EDFEinfo.png" media-type="image/png" />
-    <item id="epub-16" href="_images/NorthArrow.png" media-type="image/png" />
-    <item id="epub-17" href="_images/X-Plane-10.png" media-type="image/png" />
-    <item id="epub-18" href="_images/X-Plane-11.png" media-type="image/png" />
-    <item id="epub-19" href="_images/de.akaflieg_freiburg.enroute.png" media-type="image/png" />
-    <item id="epub-20" href="_images/ic_add.png" media-type="image/png" />
-    <item id="epub-21" href="_images/ic_menu.png" media-type="image/png" />
-    <item id="epub-22" href="_images/ic_my_location.png" media-type="image/png" />
-    <item id="epub-23" href="_images/ic_remove.png" media-type="image/png" />
-    <item id="epub-24" href="_static/basic.css" media-type="text/css" />
-    <item id="epub-25" href="_static/epub.css" media-type="text/css" />
-    <item id="epub-26" href="_static/file.png" media-type="image/png" />
-    <item id="epub-27" href="_static/minus.png" media-type="image/png" />
-    <item id="epub-28" href="_static/plus.png" media-type="image/png" />
-    <item id="epub-29" href="_static/pygments.css" media-type="text/css" />
+    <item id="epub-16" href="_images/02-01-01-traffic.png" media-type="image/png" />
+    <item id="epub-17" href="_images/NorthArrow.png" media-type="image/png" />
+    <item id="epub-18" href="_images/X-Plane-10.png" media-type="image/png" />
+    <item id="epub-19" href="_images/X-Plane-11.png" media-type="image/png" />
+    <item id="epub-20" href="_images/de.akaflieg_freiburg.enroute.png" media-type="image/png" />
+    <item id="epub-21" href="_images/ic_add.png" media-type="image/png" />
+    <item id="epub-22" href="_images/ic_menu.png" media-type="image/png" />
+    <item id="epub-23" href="_images/ic_my_location.png" media-type="image/png" />
+    <item id="epub-24" href="_images/ic_remove.png" media-type="image/png" />
+    <item id="epub-25" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-26" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-27" href="_static/file.png" media-type="image/png" />
+    <item id="epub-28" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-29" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-30" href="_static/pygments.css" media-type="text/css" />
   </manifest>
   <spine toc="ncx" page-progression-direction="ltr">
     <itemref idref="epub-1" />

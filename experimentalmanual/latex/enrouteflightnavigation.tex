@@ -61,7 +61,7 @@
 \input{../../latexPreamble.tex.txt}
 
 \title{Enroute Flight Navigation}
-\date{Jul 10, 2021}
+\date{Jul 11, 2021}
 \release{2.2.4}
 \author{Stefan Kebekus}
 \newcommand{\sphinxlogo}{\vbox{}}
@@ -546,9 +546,53 @@ In order to display nearby traffic on the moving map, \sphinxstylestrong{Enroute
 Navigation} can connect to your aircraft’s traffic receiver (typically a FLARM
 device).
 
+\begin{figure}[htbp]
+\centering
+\capstart
+
+\noindent\sphinxincludegraphics[scale=0.3]{{02-01-01-traffic}.png}
+\caption{Approaching EDTF with traffic}\label{\detokenize{02-steps/traffic:id1}}\label{\detokenize{02-steps/traffic:edtftraffic}}\end{figure}
+
 \sphinxAtStartPar
-The app author has tested the \sphinxstylestrong{Enroute Flight Navigation} with the following
-traffic receivers.
+The figure {\hyperref[\detokenize{02-steps/traffic:edtftraffic}]{\sphinxcrossref{\DUrole{std,std-ref}{Approaching EDTF with traffic}}}} shows what to expect.  The figure shows two
+traffic factors.
+\begin{itemize}
+\item {} 
+\sphinxAtStartPar
+There is one aircraft in the downwind section of the traffic circuit.  The
+traffic has approximately the same altitude as the own aircraft and is
+sinking.  The green color indicates “no alarm”.
+
+\item {} 
+\sphinxAtStartPar
+There is one aircraft nearby whose precise position is unknown to the traffic
+receiver; this is often the case with traffic that has only a Mode\sphinxhyphen{}S
+transponder.  The traffic is most likely found within the yellow circle. The
+yellow color indicates that the traffic might be close enough to be dangerous.
+
+\end{itemize}
+
+\begin{sphinxadmonition}{note}{Note:}
+\sphinxAtStartPar
+To show only relevant traffic, \sphinxstylestrong{Enroute Flight Navigation} will
+display traffic factors only if the vertical distance is less than 1.500m
+and and the horizontal distance less than 20nm.
+\end{sphinxadmonition}
+
+\begin{sphinxadmonition}{warning}{Warning:}
+\sphinxAtStartPar
+\sphinxstylestrong{Enroute Flight Navigation} shows traffic on the moving map, but
+does not issue traffic warnings.  The app contains no collision avoidance
+algorithms.  Color coding of traffic according to relevance works best with
+FLARM devices.
+\end{sphinxadmonition}
+
+
+\section{Compatibility}
+\label{\detokenize{02-steps/traffic:compatibility}}
+\sphinxAtStartPar
+\sphinxstylestrong{Enroute Flight Navigation} should work with all modern, standard\sphinxhyphen{}compliant
+traffic receivers.  The author has tested the app with the following receivers.
 \begin{itemize}
 \item {} 
 \sphinxAtStartPar
@@ -604,9 +648,11 @@ Users reported success with the following traffic receivers.
 
 \begin{sphinxadmonition}{note}{Note:}
 \sphinxAtStartPar
-To show only relevant traffic, \sphinxstylestrong{Enroute Flight Navigation} will
-display traffic factors only if the vertical distance is less than 1.500m
-and and the horizontal distance less than 20nm.
+For best results, use FLARM compatible devices.  If your traffic
+receiver supports FLARM/NMEA as well as GDL90 output, always use FLARM/NMEA.
+The GDL90 protocol has a number of shortcomings that \sphinxstylestrong{Enroute Flight
+Navigation} cannot always work around.  See the Section “Technincal Notes”
+in the appendix for more details.
 \end{sphinxadmonition}
 
 
@@ -2376,8 +2422,8 @@ Datagrams in XGPS format must conform to the format specified on the
 \end{itemize}
 
 
-\subsection{Known issues}
-\label{\detokenize{04-appendix/technical:known-issues}}
+\subsection{Known issues with GDL90}
+\label{\detokenize{04-appendix/technical:known-issues-with-gdl90}}
 \sphinxAtStartPar
 The GDL90 protocol has a number of shortcomings, and we recommend to use
 FLARM/NMEA whenever possible.  We are aware of the following issues.

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.7.10)  10 JUL 2021 08:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.7.11)  11 JUL 2021 06:29
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -782,7 +782,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 [2]
-<de.akaflieg_freiburg.enroute.png, id=251, 385.44pt x 385.44pt>
+<de.akaflieg_freiburg.enroute.png, id=256, 385.44pt x 385.44pt>
 LaTeX Font Info:    Trying to load font information for T1+txtt on input line 8
 0.
  (/usr/share/texlive/texmf-dist/tex/latex/txfonts/t1txtt.fd
@@ -833,12 +833,12 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 356--356
 [][][][][][][][][]  
  []
 
-<01-03-01-ground.png, id=312, 602.25pt x 903.375pt>
+<01-03-01-ground.png, id=317, 602.25pt x 903.375pt>
 File: 01-03-01-ground.png Graphic file (type png)
 <use 01-03-01-ground.png>
 Package pdftex.def Info: 01-03-01-ground.png  used on input line 377.
 (pdftex.def)             Requested size: 180.67639pt x 271.01459pt.
-<01-03-02-flight.png, id=313, 602.25pt x 903.375pt>
+<01-03-02-flight.png, id=318, 602.25pt x 903.375pt>
 File: 01-03-02-flight.png Graphic file (type png)
 <use 01-03-02-flight.png>
 Package pdftex.def Info: 01-03-02-flight.png  used on input line 384.
@@ -846,27 +846,27 @@ Package pdftex.def Info: 01-03-02-flight.png  used on input line 384.
 [7
 
  <./01-03-01-ground.png (PNG copy)>] [8 <./01-03-02-flight.png (PNG copy)>]
-<ic_menu.png, id=327, 22.58438pt x 22.58438pt>
+<ic_menu.png, id=332, 22.58438pt x 22.58438pt>
 File: ic_menu.png Graphic file (type png)
 <use ic_menu.png>
 Package pdftex.def Info: ic_menu.png  used on input line 512.
 (pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
-<NorthArrow.png, id=328, 22.58438pt x 22.58438pt>
+<NorthArrow.png, id=333, 22.58438pt x 22.58438pt>
 File: NorthArrow.png Graphic file (type png)
 <use NorthArrow.png>
 Package pdftex.def Info: NorthArrow.png  used on input line 512.
 (pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
-<ic_my_location.png, id=329, 22.58438pt x 22.58438pt>
+<ic_my_location.png, id=334, 22.58438pt x 22.58438pt>
 File: ic_my_location.png Graphic file (type png)
 <use ic_my_location.png>
 Package pdftex.def Info: ic_my_location.png  used on input line 512.
 (pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
-<ic_add.png, id=330, 22.58438pt x 22.58438pt>
+<ic_add.png, id=335, 22.58438pt x 22.58438pt>
 File: ic_add.png Graphic file (type png)
 <use ic_add.png>
 Package pdftex.def Info: ic_add.png  used on input line 512.
 (pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
-<ic_remove.png, id=331, 22.58438pt x 22.58438pt>
+<ic_remove.png, id=336, 22.58438pt x 22.58438pt>
 File: ic_remove.png Graphic file (type png)
 <use ic_remove.png>
 Package pdftex.def Info: ic_remove.png  used on input line 512.
@@ -891,7 +891,7 @@ File: ic_remove.png Graphic file (type png)
 <use ic_remove.png>
 Package pdftex.def Info: ic_remove.png  used on input line 512.
 (pdftex.def)             Requested size: 22.5843pt x 22.5843pt.
-<01-03-03-EDFEinfo.png, id=333, 602.25pt x 903.375pt>
+<01-03-03-EDFEinfo.png, id=338, 602.25pt x 903.375pt>
 File: 01-03-03-EDFEinfo.png Graphic file (type png)
 <use 01-03-03-EDFEinfo.png>
 Package pdftex.def Info: 01-03-03-EDFEinfo.png  used on input line 529.
@@ -910,189 +910,194 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 542--542
 [][][][][][][][][]  
  []
 
+<02-01-01-traffic.png, id=354, 602.25pt x 903.375pt>
+File: 02-01-01-traffic.png Graphic file (type png)
+<use 02-01-01-traffic.png>
+Package pdftex.def Info: 02-01-01-traffic.png  used on input line 553.
+(pdftex.def)             Requested size: 180.67639pt x 271.01459pt.
 [11
 
-] [12]
-Chapter 5.
-
-Overfull \hbox (10.0pt too wide) in paragraph at lines 731--731
-[][][][][][][][][]  
- []
-
-[13
+ <./02-01-01-traffic.png (PNG copy)>] [12] [13] [14
 
 ]
-<X-Plane-11.png, id=390, 2569.6pt x 1445.4pt>
-File: X-Plane-11.png Graphic file (type png)
-<use X-Plane-11.png>
-Package pdftex.def Info: X-Plane-11.png  used on input line 834.
-(pdftex.def)             Requested size: 469.72249pt x 264.24095pt.
- [14 <./X-Plane-11.png>]
-<X-Plane-10.png, id=399, 1041.8925pt x 785.93625pt>
-File: X-Plane-10.png Graphic file (type png)
-<use X-Plane-10.png>
-Package pdftex.def Info: X-Plane-10.png  used on input line 850.
-(pdftex.def)             Requested size: 469.75348pt x 354.3636pt.
- [15 <./X-Plane-10.png>] [16]
-Chapter 6.
+Chapter 5.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 872--872
+Overfull \hbox (10.0pt too wide) in paragraph at lines 777--777
 [][][][][][][][][]  
  []
 
-[17
+[15]
+<X-Plane-11.png, id=407, 2569.6pt x 1445.4pt>
+File: X-Plane-11.png Graphic file (type png)
+<use X-Plane-11.png>
+Package pdftex.def Info: X-Plane-11.png  used on input line 880.
+(pdftex.def)             Requested size: 469.72249pt x 264.24095pt.
+ [16 <./X-Plane-11.png>]
+<X-Plane-10.png, id=416, 1041.8925pt x 785.93625pt>
+File: X-Plane-10.png Graphic file (type png)
+<use X-Plane-10.png>
+Package pdftex.def Info: X-Plane-10.png  used on input line 896.
+(pdftex.def)             Requested size: 469.75348pt x 354.3636pt.
+ [17 <./X-Plane-10.png>] [18]
+Chapter 6.
 
-] [18
+Overfull \hbox (10.0pt too wide) in paragraph at lines 918--918
+[][][][][][][][][]  
+ []
+
+[19
+
+] [20
 
 ]
 Chapter 7.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 900--900
+Overfull \hbox (10.0pt too wide) in paragraph at lines 946--946
 [][][][][][][][][]  
  []
 
-[19] [20] [21
+[21] [22] [23
 
-] [22]
+] [24]
 Chapter 8.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1049--1049
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1095--1095
 [][][][][][][][][]  
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+txtt on input line 
-1065.
+1111.
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txtt.fd
 File: ts1txtt.fd 2000/12/15 v3.1
-) [23
+) [25
 
 ]
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1657
- []
-
-[24]
-Underfull \vbox (badness 10000) detected at line 1657
- []
-
-
-Underfull \vbox (badness 10000) detected at line 1657
- []
-
-[25]
-Underfull \vbox (badness 10000) detected at line 1657
- []
-
-
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 [26]
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 [27]
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 [28]
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 [29]
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 [30]
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 [31]
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 [32]
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
 
-Underfull \vbox (badness 10000) detected at line 1657
+Underfull \vbox (badness 10000) detected at line 1703
  []
 
-[33] [34]
+[33]
+Underfull \vbox (badness 10000) detected at line 1703
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1703
+ []
+
+[34]
+Underfull \vbox (badness 10000) detected at line 1703
+ []
+
+
+Underfull \vbox (badness 10000) detected at line 1703
+ []
+
+[35] [36]
 Chapter 9.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 1660--1660
+Overfull \hbox (10.0pt too wide) in paragraph at lines 1706--1706
 [][][][][][][][][]  
  []
 
-[35
+[37
 
-] [36] [37] [38] [39] [40
+] [38] [39] [40] [41] [42
 
 ]
 Chapter 10.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 2301--2301
+Overfull \hbox (10.0pt too wide) in paragraph at lines 2347--2347
 [][][][][][][][][]  
  []
 
-[41]
+[43]
 LaTeX Font Info:    Font shape `T1/txtt/b/n' in size <10> not available
-(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 2458.
+(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 2504.
 
  (./enrouteflightnavigation.ind)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2472.
- [42]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2472.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2518.
+ [44]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2518.
  (./enrouteflightnavigation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2472.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2472.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2518.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2518.
 
 Package rerunfilecheck Info: File `enrouteflightnavigation.out' has not changed
 .
-(rerunfilecheck)             Checksum: A0B9093975ED3DCF9E305092DD156309;7635.
+(rerunfilecheck)             Checksum: 33D1922A472F6053999E0F754F5E3DF1;7816.
 
 
 LaTeX Warning: There were undefined references.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2472.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 2518.
  ) 
 Here is how much of TeX's memory you used:
- 14207 strings out of 483183
- 204002 string characters out of 5966292
- 1173522 words of memory out of 5000000
- 28619 multiletter control sequences out of 15000+600000
+ 14221 strings out of 483183
+ 204284 string characters out of 5966292
+ 1173734 words of memory out of 5000000
+ 28628 multiletter control sequences out of 15000+600000
  607950 words of font info for 86 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
- 38i,12n,51p,428b,550s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,12n,51p,428b,552s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}{/usr/share/texmf/fonts/e
 nc/dvips/tex-gyre/q-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base
 /8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pf
@@ -1104,10 +1109,10 @@ ex-gyre/qtmri.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1x
 btt.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></u
 sr/share/texlive/texmf-dist/fonts/type1/public/txfonts/tcxtt.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on enrouteflightnavigation.pdf (46 pages, 2034956 bytes).
+Output written on enrouteflightnavigation.pdf (48 pages, 2254800 bytes).
 PDF statistics:
- 826 PDF objects out of 1000 (max. 8388607)
- 736 compressed objects within 8 object streams
- 188 named destinations out of 1000 (max. 500000)
- 452 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 842 PDF objects out of 1000 (max. 8388607)
+ 749 compressed objects within 8 object streams
+ 192 named destinations out of 1000 (max. 500000)
+ 465 words of extra memory for PDF output out of 10000 (max. 10000000)
 

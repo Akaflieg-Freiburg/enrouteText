@@ -37,9 +37,9 @@ preference.
 - Datagrams in XGPS format must conform to the format specified on the
   `ForeFlight Web site <https://www.foreflight.com/support/network-gps/>`_.
 
-
-Known issues
-^^^^^^^^^^^^
+  
+Known issues with GDL90
+^^^^^^^^^^^^^^^^^^^^^^^
 
 The GDL90 protocol has a number of shortcomings, and we recommend to use
 FLARM/NMEA whenever possible.  We are aware of the following issues.
