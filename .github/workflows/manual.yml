@@ -25,9 +25,13 @@ jobs:
       run: |
         export PATH=~/.local/bin:$PATH
         cd manual
+        make epub
         make html
         make latexpdf
-        make epub
+        mv _build/latex/enrouteflightnavigation.pdf _build/manual.pdf
+        mv _build/epub/EnrouteFlightNavigation.epub _build/manual.epub
+	mv _build/html _build/manual
+	rm -rf _build/doctrees _build/epub _build/latex
     - name: Publish Documentation
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
@@ -40,5 +44,5 @@ jobs:
       with:
         BRANCH: master
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        FOLDER: manual/_build/html
-        TARGET_FOLDER: docs/manual
+        FOLDER: manual/_build
+        TARGET_FOLDER: docs
