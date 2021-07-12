@@ -31,7 +31,7 @@ jobs:
         mv _build/latex/enrouteflightnavigation.pdf _build/manual.pdf
         mv _build/epub/EnrouteFlightNavigation.epub _build/manual.epub
         mv _build/html _build/manual
-	rm -rf _build/doctrees _build/epub _build/latex
+        rm -rf _build/doctrees _build/epub _build/latex
     - name: Publish Documentation
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
