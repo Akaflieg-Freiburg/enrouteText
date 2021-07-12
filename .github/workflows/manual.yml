@@ -40,5 +40,5 @@ jobs:
       with:
         BRANCH: master
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        FOLDER: manual/_build
+        FOLDER: manual/_build/html
         TARGET_FOLDER: docs/manual
