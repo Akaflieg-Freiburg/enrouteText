@@ -38,7 +38,7 @@ jobs:
     - name: Publish sphinx documentation
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
-        BRANCH: gh-pages
+        BRANCH: master
         ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         FOLDER: manual/_build
-        TARGET_FOLDER: experimentalmanual
+        TARGET_FOLDER: website/manual
