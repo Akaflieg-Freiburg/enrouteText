@@ -4327,7 +4327,7 @@ Wählen Sie &lt;strong&gt;Bibliothek/Karten&lt;/strong&gt; um zum Kartenmanageme
     <message>
         <location filename="../../../src/qml/pages/Manual.qml" line="29"/>
         <source>Manual</source>
-        <translation type="unfinished">Handbuch</translation>
+        <translation>Handbuch</translation>
     </message>
 </context>
 <context>
