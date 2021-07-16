@@ -13,14 +13,9 @@ jobs:
     - uses: actions/checkout@v2
     - name: Install Additional Software
       run: |
-        sudo apt install libreoffice --no-install-recommends  --no-install-suggests
         sudo apt install latexmk texlive-base texlive-fonts-recommended texlive-latex-base texlive-latex-extra texlive-latex-recommended tex-gyre --no-install-recommends  --no-install-suggests
         pip3 install Sphinx
-        pip3 install sphinx-rtd-theme
-    - name: Generate PDF from libreoffice document
-      run: |
-        cd EnrouteManual
-        libreoffice --convert-to pdf IntroducingEnroute.odt
+        pip3 install sphinx-material
     - name: Generate sphinx manual
       run: |
         export PATH=~/.local/bin:$PATH
@@ -32,13 +27,6 @@ jobs:
         mv _build/epub/EnrouteFlightNavigation.epub _build/manual.epub
         mv _build/html _build/manual
         rm -rf _build/doctrees _build/epub _build/latex
-    - name: Publish Documentation
-      uses: JamesIves/github-pages-deploy-action@releases/v3
-      with:
-        BRANCH: gh-pages
-        ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        FOLDER: EnrouteManual
-        TARGET_FOLDER: manual
     - name: Publish sphinx documentation
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
