@@ -39,7 +39,7 @@ and frequencies.
    \part{Getting started}
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Getting started
    :name: sec-intro
 
@@ -51,7 +51,7 @@ and frequencies.
    \part{Further Steps}
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Further Steps
    :name: sec-steps
 
@@ -63,7 +63,7 @@ and frequencies.
    \part{Reference manual}
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Reference manual
    :name: sec-reference
     
@@ -75,7 +75,7 @@ and frequencies.
    \part{Appendix}   
   
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Appendix
    :name: sec-appendix
 
