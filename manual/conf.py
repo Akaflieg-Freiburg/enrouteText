@@ -53,20 +53,31 @@ html_theme = 'sphinx_material'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_title = ''
+
 html_theme_options = {
-    # Visible levels of the global TOC; -1 means unlimited
     'globaltoc_depth': 1,
+    'touch_icon': 'enroute.png',
+#    'logo_icon': 'X',
+    "nav_links": [
+        {"href": "https://akaflieg-freiburg.github.io/enrouteText/manual", "internal": False, "title": "Online"},
+        {"href": "https://akaflieg-freiburg.github.io/enrouteText/manual.epub", "internal": False, "title": "eBook"},
+        {"href": "https://akaflieg-freiburg.github.io/enrouteText/manual.pdf", "internal": False, "title": "PDF"},
+    ],
+    'nav_title': 'Enroute Flight Navigation',
 }
 
 # globaltoc seems it's not added by default
 html_sidebars = {
     "**": [
+#        "logo-text.html",
         "globaltoc.html",
         "localtoc.html",
         "searchbox.html",
     ]
 }
 
+html_favicon = "enroute.png"
 
 # -- Options for LaTeX output -------------------------------------------------
 
