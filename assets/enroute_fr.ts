@@ -2,13 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="fr_FR">
 <context>
-    <name>AviationUnits::Angle</name>
-    <message>
-        <source>%1 o&apos;clock</source>
-        <translation type="vanished">%1 h</translation>
-    </message>
-</context>
-<context>
     <name>BugReportPage</name>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="30"/>
@@ -1507,7 +1500,22 @@ has been tested with the following programs.&lt;/p&gt;
 
 &lt;p&gt;Please contact us if you are aware of other programs that also work.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; peut se connecter à des simulateurs de vol.  L&apos;application a été testée avec les programmes suivants.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;X-Plane 11.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Les utilisateurs ont réussi à utiliser Enroute avec les programmes suivants.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Microsoft Flight Simulator.&lt;/li&gt;
+  &lt;li&gt;X-Plane 10.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Contactez-nous si vous avez testé l&apos;application avec d&apos;autres logiciels.&lt;/p&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="444"/>
@@ -1522,7 +1530,16 @@ If you are aware of other software that also works, then please be in touch.  Th
 do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
 might be helpful.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
+
+&lt;p&gt;MS Flight Simulator requiert un programme additionnel pour se connecter à d&apos;autres applications.
+Les utilisateurs ont testé &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; avec le EFB-Connector &lt;a href= &quot;http://xmapsy.com/&quot;&gt;XMapsy&lt;/a&gt;.
+Si vous connaissez d&apos;autres logiciels, merci de nous contacter. L&apos;article
+&lt;a href=&quot;https://support.foreflight.com/hc/en-us/articles/204115275-How-do-I-connect-Microsoft-Flight-Simulator-FS-X-or-FS-2004-to-ForeFlight-&quot;&gt;How
+do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
+peut être intéressant.&lt;/p&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="480"/>
@@ -2052,27 +2069,6 @@ at random if more than one device tries to access.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <source>
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; can connect to flight simulator software.  The app
-has been tested with the following programs.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;X-Plane 11.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Please contact us if you are aware of other programs that also work.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; peut se connecter à des simulateurs de vol.  L&apos;application a été testée avec les programmes suivants.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;X-Plane 11.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Contactez-nous si vous avez testé l&apos;application avec d&apos;autres logiciels.&lt;/p&gt;
-        </translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="417"/>
         <source>
 &lt;h2&gt;Before you connect&lt;/h2&gt;
@@ -2140,25 +2136,6 @@ apps on the network&quot; under the headline &quot;OTHER MAPPING APPS&quot;.&lt;
 </translation>
     </message>
     <message>
-        <source>
-&lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
-
-&lt;p&gt;Unknown as of now, as the author does not have access to this program.
-If the MS Flight Simulator works for you, please be in touch.  The article
-&lt;a href=&quot;https://support.foreflight.com/hc/en-us/articles/204115275-How-do-I-connect-Microsoft-Flight-Simulator-FS-X-or-FS-2004-to-ForeFlight-&quot;&gt;How
-do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
-might be helpful.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
-
-&lt;p&gt;Inconnu pour le moment, car l&apos;auteur n&apos;a pas accès à ce logiciel.
-Contactez-vous si vous avez MS Flight Simulator. L&apos;article
-&lt;a href=&quot;https://support.foreflight.com/hc/en-us/articles/204115275-How-do-I-connect-Microsoft-Flight-Simulator-FS-X-or-FS-2004-to-ForeFlight-&quot;&gt;How do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
-peut vous être utile.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="461"/>
         <source>
 &lt;h3&gt;Other programs&lt;/h3&gt;
@@ -2196,12 +2173,6 @@ Flight Navigation&lt;/strong&gt; a déjà trouvé le simulateur et s&apos;y est 
         <location filename="../../../src/Librarian.cpp" line="504"/>
         <source>**The moving map can now optionally display glider sectors.** Update your aviation maps and go to Menu/Settings to enable this feature.</source>
         <translation>**La carte peut maintenant afficher les secteurs pour les planeurs.** Mettez à jour vos cartes et allez dans les paramètres pour activer cette option.</translation>
-    </message>
-    <message>
-        <source>**We need help with the Microsoft Flight Simulator.** This App should work well with the MS Flight Simulator, but the author does not have access to a Windows machine. Please contact us if you know the Flight Simulator and if you would like to help with testing.</source>
-        <translation type="vanished">
-**Nous avons besoin d&apos;aide pour tester Microsoft Flight Simulator.** L&apos;application devrait fonctionner avec MS Flight Simulator, mais l&apos; n&apos;a pas accès à une machine Windows. Contactez-nous si vous utilisez MS Flight Simulator et si vous souhaitez nous aider à le tester.
-        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="505"/>
@@ -2283,7 +2254,7 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes&lt;/strong&gt; pour ouvrir le menu
     <message>
         <location filename="../../../src/qml/pages/Manual.qml" line="29"/>
         <source>Manual</source>
-        <translation type="unfinished">Manuel</translation>
+        <translation>Manuel</translation>
     </message>
 </context>
 <context>
@@ -3406,135 +3377,76 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     </message>
 </context>
 <context>
-    <name>Traffic::TrafficFactor</name>
-    <message>
-        <source>Aircraft</source>
-        <translation type="vanished">Avion</translation>
-    </message>
-    <message>
-        <source>Airship</source>
-        <translation type="vanished">Avion</translation>
-    </message>
-    <message>
-        <source>Balloon</source>
-        <translation type="vanished">Balon</translation>
-    </message>
-    <message>
-        <source>Copter</source>
-        <translation type="vanished">Hélicopter</translation>
-    </message>
-    <message>
-        <source>Drone</source>
-        <translation type="vanished">Drone</translation>
-    </message>
-    <message>
-        <source>Glider</source>
-        <translation type="vanished">Planeur</translation>
-    </message>
-    <message>
-        <source>Hang glider</source>
-        <translation type="vanished">Deltaplane</translation>
-    </message>
-    <message>
-        <source>Jet</source>
-        <translation type="vanished">Avion à réaction</translation>
-    </message>
-    <message>
-        <source>Paraglider</source>
-        <translation type="vanished">Para-moteur</translation>
-    </message>
-    <message>
-        <source>Skydiver</source>
-        <translation type="vanished">Parachutiste</translation>
-    </message>
-    <message>
-        <source>Static Obstacle</source>
-        <translation type="vanished">Obstacle statique</translation>
-    </message>
-    <message>
-        <source>Tow Plane</source>
-        <translation type="vanished">Avion remorqueur</translation>
-    </message>
-    <message>
-        <source>Traffic</source>
-        <translation type="vanished">Traffic</translation>
-    </message>
-    <message>
-        <source>Position unknown</source>
-        <translation type="vanished">Position inconnue</translation>
-    </message>
-</context>
-<context>
     <name>Traffic::TrafficFactor_Abstract</name>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="108"/>
         <source>Aircraft</source>
-        <translation type="unfinished">Avion</translation>
+        <translation>Avion</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="111"/>
         <source>Airship</source>
-        <translation type="unfinished">Avion</translation>
+        <translation>Avion</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="114"/>
         <source>Balloon</source>
-        <translation type="unfinished">Balon</translation>
+        <translation>Balon</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="117"/>
         <source>Copter</source>
-        <translation type="unfinished">Hélicopter</translation>
+        <translation>Hélicopter</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="120"/>
         <source>Drone</source>
-        <translation type="unfinished">Drone</translation>
+        <translation>Drone</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="123"/>
         <source>Glider</source>
-        <translation type="unfinished">Planeur</translation>
+        <translation>Planeur</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="126"/>
         <source>Hang glider</source>
-        <translation type="unfinished">Deltaplane</translation>
+        <translation>Deltaplane</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="129"/>
         <source>Jet</source>
-        <translation type="unfinished">Avion à réaction</translation>
+        <translation>Avion à réaction</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="132"/>
         <source>Paraglider</source>
-        <translation type="unfinished">Para-moteur</translation>
+        <translation>Para-moteur</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="135"/>
         <source>Skydiver</source>
-        <translation type="unfinished">Parachutiste</translation>
+        <translation>Parachutiste</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="138"/>
         <source>Static Obstacle</source>
-        <translation type="unfinished">Obstacle statique</translation>
+        <translation>Obstacle statique</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="141"/>
         <source>Tow Plane</source>
-        <translation type="unfinished">Avion remorqueur</translation>
+        <translation>Avion remorqueur</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="144"/>
         <source>Traffic</source>
-        <translation type="unfinished">Traffic</translation>
+        <translation>Traffic</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="149"/>
         <source>Position unknown</source>
-        <translation type="unfinished">Position inconnue</translation>
+        <translation>Position inconnue</translation>
     </message>
 </context>
 <context>
@@ -3542,72 +3454,72 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="65"/>
         <source>Aircraft</source>
-        <translation type="unfinished">Avion</translation>
+        <translation>Avion</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="68"/>
         <source>Airship</source>
-        <translation type="unfinished">Avion</translation>
+        <translation>Avion</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="71"/>
         <source>Balloon</source>
-        <translation type="unfinished">Balon</translation>
+        <translation>Balon</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="74"/>
         <source>Copter</source>
-        <translation type="unfinished">Hélicopter</translation>
+        <translation>Hélicopter</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="77"/>
         <source>Drone</source>
-        <translation type="unfinished">Drone</translation>
+        <translation>Drone</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="80"/>
         <source>Glider</source>
-        <translation type="unfinished">Planeur</translation>
+        <translation>Planeur</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="83"/>
         <source>Hang glider</source>
-        <translation type="unfinished">Deltaplane</translation>
+        <translation>Deltaplane</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="86"/>
         <source>Jet</source>
-        <translation type="unfinished">Avion à réaction</translation>
+        <translation>Avion à réaction</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="89"/>
         <source>Paraglider</source>
-        <translation type="unfinished">Para-moteur</translation>
+        <translation>Para-moteur</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="92"/>
         <source>Skydiver</source>
-        <translation type="unfinished">Parachutiste</translation>
+        <translation>Parachutiste</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="95"/>
         <source>Static Obstacle</source>
-        <translation type="unfinished">Obstacle statique</translation>
+        <translation>Obstacle statique</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="98"/>
         <source>Tow Plane</source>
-        <translation type="unfinished">Avion remorqueur</translation>
+        <translation>Avion remorqueur</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="101"/>
         <source>Traffic</source>
-        <translation type="unfinished">Traffic</translation>
+        <translation>Traffic</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="106"/>
         <source>Position unknown</source>
-        <translation type="unfinished">Position inconnue</translation>
+        <translation>Position inconnue</translation>
     </message>
 </context>
 <context>
@@ -3732,7 +3644,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/units/Angle.cpp" line="37"/>
         <source>%1 o&apos;clock</source>
-        <translation type="unfinished">%1 h</translation>
+        <translation>%1 h</translation>
     </message>
 </context>
 <context>
