@@ -52,7 +52,36 @@ MS Flight Simulator
 In order to communicate with other programs, the MS Flight Simulator requires
 additional software. Users reported that **Enroute Flight Navigation** works
 well with the inexpensive EFB-Connector program `XMapsy <http://xmapsy.com/>`_.
-If you are aware of other software that also works, then please be in touch.
+Other programs might also work.  The following information has kindly been
+provided by the XMapsy developer.
+
+**Enroute Flight Navigation** works both with the less expensive programm
+version **XMapsy Essential** and with the full-featured version **XMapsy V3**.
+Barometric altitude date is however only provided by **XMapsy V3**.
+
+If you use **XMapsy Essential**, then set the "Message-Format" to
+"XPlane/simulator".  The format is called "XGPS" in this document.  The figure
+:ref:`XMapsy-XGPS` shows the XMapsy settings dialog.
+
+.. _XMapsy-XGPS:
+.. figure:: XMapsy-XGPS.png
+   :scale: 75 %
+   :align: center
+
+   XMapsy settings for the "XPlane/simulator" message format
+
+
+If you use **XMapsy V3**, then set the "Message-Format" to "ADS-B/GDL90".  To
+receive the correct altitude, be sure to check the box "GDL90 ownship geometric
+altitudes based on MSL".  The figure :ref:`XMapsy-GDL90` shows the XMapsy
+settings dialog.
+
+.. _XMapsy-GDL90:
+.. figure:: XMapsy-GDL90.png
+   :scale: 75 %
+   :align: center
+
+   XMapsy settings for the "ADS-B/GDL90" message format
 
 
 X-Plane 11
