@@ -3966,7 +3966,7 @@ Scegli &lt;strong&gt; Archivio / Mappe &lt;/strong&gt; per aprire la pagina di g
     <message>
         <location filename="../../../src/qml/pages/Manual.qml" line="29"/>
         <source>Manual</source>
-        <translation type="unfinished">Manuale</translation>
+        <translation>Manuale</translation>
     </message>
 </context>
 <context>
