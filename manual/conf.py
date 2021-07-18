@@ -64,7 +64,7 @@ html_theme_options = {
         {"href": "https://akaflieg-freiburg.github.io/enrouteText/manual.epub", "internal": False, "title": "eBook"},
         {"href": "https://akaflieg-freiburg.github.io/enrouteText/manual.pdf", "internal": False, "title": "PDF"},
     ],
-    'nav_title': 'Enroute Flight Navigation',
+    'nav_title': 'Manual for Enroute Flight Navigation',
 }
 
 # globaltoc seems it's not added by default
