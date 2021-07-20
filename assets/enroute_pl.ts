@@ -1847,7 +1847,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Dane lotnicze są dostarczane przez &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; oraz &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projekt. Mapy podstawowe dostarczane są dzięki &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Odwołaj się do dokumentacji by poznać więcej szczegółów.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="294"/>
+        <location filename="../../../src/Librarian.cpp" line="183"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -1952,7 +1952,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Jeśli płynnie programujesz w C++ i chciałbyś &lt;strong&gt;pomóc z programowaniem&lt;/strong&gt;, to &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;daj nam znać&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="480"/>
+        <location filename="../../../src/Librarian.cpp" line="290"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -1977,7 +1977,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Robimy co w naszej mocy, by uniknąć sztywnych limitów na pobieranie map w przyszłości. Proszę, pomóż nam z tym. Już masz &lt;strong&gt;%2 map&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="282"/>
+        <location filename="../../../src/Librarian.cpp" line="171"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -2361,7 +2361,7 @@ losowo, jeśli więcej niż jedno urządzenie próbuje uzyskać dostęp.
   przeglądarki internetowej. Zamknij wszystkie przeglądarki internetowe.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="494"/>
+        <location filename="../../../src/Librarian.cpp" line="304"/>
         <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
       
 &lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
@@ -2796,6 +2796,16 @@ oraz **importu planu lotu**.
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="314"/>
+        <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; Open the main menu and go to Information/Manual to try it out.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="315"/>
+        <source>&lt;p&gt;&lt;strong&gt;We need help with the Italian translation.&lt;/strong&gt; If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;h3&gt;License&lt;/h3&gt;
 
 &lt;p&gt;This program is licensed under the &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; or, at your choice, any later version of this license.&lt;/p&gt;
@@ -2824,7 +2834,7 @@ oraz **importu planu lotu**.
                   &lt;p&gt;Mapa wyświetla i stylizuje dane z &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, które jest objęte licencją &lt;a href = &quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;Licencja CC BY-NC-SA&lt;/a&gt;. Mapa wyświetla również i stylizuje dane z &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;openflightmaps&lt;/a&gt;, które są licencjonowane na podstawie &lt;a href = &quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt; Licencja dla użytkowników ogólnych OFMA &lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="326"/>
+        <location filename="../../../src/Librarian.cpp" line="215"/>
         <source>
 &lt;h3&gt;License&lt;/h3&gt;
 
@@ -2925,7 +2935,7 @@ oraz **importu planu lotu**.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="373"/>
+        <location filename="../../../src/Librarian.cpp" line="262"/>
         <source>
 &lt;h4&gt;Software and data included in the program&lt;/h4&gt;
 
@@ -2954,7 +2964,7 @@ oraz **importu planu lotu**.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="389"/>
+        <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -3015,7 +3025,7 @@ następującymi odbiornikami ruchu lotniczego.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="336"/>
+        <location filename="../../../src/Librarian.cpp" line="225"/>
         <source>
 &lt;h4&gt;Geographic maps&lt;/h4&gt;
 
@@ -3093,7 +3103,6 @@ następującymi odbiornikami ruchu lotniczego.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="171"/>
         <source>
 &lt;p&gt;In order to display nearby traffic on the moving map, &lt;strong&gt;Enroute Flight
 Navigation&lt;/strong&gt; can connect to your aircraft&apos;s traffic receiver (typically a FLARM
@@ -3102,7 +3111,7 @@ device).&lt;/p&gt;
 &lt;p&gt;The author has tested the &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; with the
 following traffic receivers.&lt;/p&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;p&gt;Aby wyświetlić ruch lotniczy w pobliżu na ruchomej mapie, &lt;strong&gt;Enroute Flight
 Navigation&lt;strong&gt; może łączyć się z odbiornikiem komunikatów lotniczych samolotu (zazwyczaj jest to 
 urządzenie FLARM).&lt;/p&gt;
@@ -3112,11 +3121,10 @@ następującymi odbiornikami ruchu lotniczego.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="182"/>
         <source>
 &lt;p&gt;Users reported success with the following traffic receivers.&lt;/p&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;p&gt;Użytkownicy zaraportowali sukces z następującymi odbiornikami.&lt;/p&gt;
 </translation>
     </message>
@@ -3143,7 +3151,6 @@ została przetestowana z następującymi programami.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="417"/>
         <source>
 &lt;h2&gt;Before you connect&lt;/h2&gt;
 
@@ -3162,7 +3169,7 @@ following conditions are met.&lt;/p&gt;
   transfer between the devices in the &quot;guest network&quot;&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h2&gt;Przed podłączeniem&lt;/h2&gt;
 
 &lt;p&gt;Ta instrukcja zakłada standardową domową konfigurację, gdzie obydwa komputery, na których działają
@@ -3182,7 +3189,6 @@ podane warunki są spełnione.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="434"/>
         <source>
 &lt;h2&gt;Set up your flight simulator&lt;/h2&gt;
 
@@ -3194,7 +3200,7 @@ adjust accordingly.  To end the connection to the flight simulator, simply leave
 the flight simulator&apos;s Wi-Fi network.&lt;/p&gt;
 
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h2&gt;Skonfiguruj symulator lotu&lt;/h2&gt;
 
 &lt;p&gt;Twój symulator lotu powinien przesyłać pozycję i informację
@@ -3207,7 +3213,6 @@ sieć Wi-Fi symulatora lotu.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="444"/>
         <source>
 &lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
 
@@ -3219,7 +3224,7 @@ If you are aware of other software that also works, then please be in touch.  Th
 do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
 might be helpful.&lt;/p&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
 
 &lt;p&gt;W celu komunikacji z innymi programami, MS Flight Simulator wymaga
@@ -3232,7 +3237,6 @@ może być pomocny.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="454"/>
         <source>
 &lt;h3&gt;X-Plane 11&lt;/h3&gt;
 
@@ -3241,7 +3245,7 @@ group &quot;This machine&apos;s role&quot; on the right-hand side of the tab. Op
 &quot;iPHONE, iPAD, and EXTERNAL APPS&quot; and select the item &quot;Broadcast to all mapping
 apps on the network&quot; under the headline &quot;OTHER MAPPING APPS&quot;.&lt;/p&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h3&gt;X-Plane 11&lt;/h3&gt;
 
 &lt;p&gt;Otwórz okno &quot;Ustawień&quot; i wybierz załadkę &quot;Sieć&quot;. Znajdź grupę ustawień
@@ -3271,7 +3275,6 @@ może być pomocny.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="461"/>
         <source>
 &lt;h3&gt;Other programs&lt;/h3&gt;
 
@@ -3279,7 +3282,7 @@ może być pomocny.&lt;/p&gt;
 standard formats &quot;GDL90&quot; or &quot;XGPS&quot; to ports 4000 or 49002.  Given the choice,
 GDL90 is generally the preferred format.&lt;/p&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h3&gt;Inne programy&lt;/h3&gt;
 
 &lt;p&gt;Symulator lotu musi być ustawiony aby wysyłać datagramy UDP w jednym ze standardowych formatów
@@ -3288,7 +3291,6 @@ GDL90 jest ogólnie preferowanym formatem.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="467"/>
         <source>
 &lt;h2&gt;Troubleshooting&lt;/h2&gt;
 
@@ -3299,7 +3301,7 @@ Flight Navigation&lt;/strong&gt; has already found the program in the network an
 connected to it.  If not, then select the entry. The &quot;Traffic Receiver Status&quot;
 page will open, which explains the connection status in more detail.&lt;/p&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h2&gt;Rozwiązywanie problemów&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; traktuje symulator lotu jak odbiornik ruchu lotniczego.  Aby
@@ -3311,9 +3313,8 @@ się otworzy, wyjaśniając dokładniej status połączenia.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="504"/>
         <source>**The moving map can now optionally display glider sectors.** Update your aviation maps and go to Menu/Settings to enable this feature.</source>
-        <translation>**Ruchoma mapa może teraz pokazywać opcjonalnie sektory szybowcowe.** Zaktualizuj swoje mapy lotnicze i idź do Menu/Ustawienia aby włączyć tą funkcję.</translation>
+        <translation type="vanished">**Ruchoma mapa może teraz pokazywać opcjonalnie sektory szybowcowe.** Zaktualizuj swoje mapy lotnicze i idź do Menu/Ustawienia aby włączyć tą funkcję.</translation>
     </message>
     <message>
         <source>This release fixes a few minor issues.</source>
@@ -3344,9 +3345,8 @@ się otworzy, wyjaśniając dokładniej status połączenia.&lt;/p&gt;
         <translation type="vanished">Aplikacja może być obecnie używana również z symulatorami lotu takimi jak [XPlane](https://www.x-plane.com/) lub popularny [MS Flight Simulator](https://www.microsoft.com/en-us/p/microsoft-flight-simulator-standard/9nxn8gf8n9ht?activetab=pivot:overviewtab).  Otwórz główne menu, idź do **Ustawień** aby dowiedzieć się więcej. Proszę skontaktuj się z nami jeśli posiadasz MS Flight Simulator i chcesz pomóc z testowaniem.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="505"/>
         <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
-        <translation>**Potrzebujemy pomocy z włoskim tłumaczeniem** Jeśli chciałbyś pomóc, mówisz po Włosku i wiesz jak używać systemu kontroli wersji GIT, proszę skontaktuj się z nami.</translation>
+        <translation type="vanished">**Potrzebujemy pomocy z włoskim tłumaczeniem** Jeśli chciałbyś pomóc, mówisz po Włosku i wiesz jak używać systemu kontroli wersji GIT, proszę skontaktuj się z nami.</translation>
     </message>
     <message>
         <source>
@@ -3371,7 +3371,6 @@ Document (ICD)”, wersja 7.13, opublikowana przez FLARM Technology Ltd.&lt;/p&g
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="191"/>
         <source>
 &lt;h2&gt;Before you connect&lt;/h2&gt;
 
@@ -3391,7 +3390,7 @@ that the following conditions are met.&lt;/p&gt;
   additional password is required.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h2&gt;Przed połączeniem&lt;/h2&gt;
 
 &lt;p&gt;Zanim spróbujesz się połączyć, upewnij się, że spełnione są następujące warunki.&lt;/p&gt;
@@ -3410,7 +3409,6 @@ that the following conditions are met.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="209"/>
         <source>
 &lt;h2&gt;Connecting to the traffic receiver&lt;/h2&gt;
 
@@ -3421,7 +3419,7 @@ receiver&apos;s WLAN network, enter the network and connect to the traffic data
 stream whenever you go flying.&lt;/p&gt;
 
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h2&gt;Połączenie z odbiornikiem komunikatów lotniczych&lt;/h2&gt;
 
 &lt;p&gt;Aby połączyć &lt;strong&gt;Enroute Flight Navigation&lt;strong&gt; z ruchem lotniczym, wystarczy wykonać dwa kroki. 
@@ -3432,7 +3430,6 @@ dołączać się do jego sieci i łączyć ze strumieniem danych o ruchu lotnicz
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="218"/>
         <source>
 &lt;h3&gt;Step 1: Enter the traffic receiver&apos;s WLAN network&lt;/h3&gt;
 
@@ -3454,7 +3451,7 @@ device will automatically connect to this WLAN in the future. We recommend to
 use this option.&lt;/p&gt;
 
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h3&gt;Krok 1: Wprowadź sieć WLAN odbiornika komunikatów lotniczych&lt;/h3&gt;
 
 &lt;ul style=&quot;margin-left:-25px;&quot;&gt;
@@ -3477,7 +3474,6 @@ użycie tej opcji.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="238"/>
         <source>
 &lt;h3&gt;Step 2: Connect to the traffic data stream&lt;/h3&gt;
 
@@ -3494,7 +3490,7 @@ użycie tej opcji.&lt;/p&gt;
   manually.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h3&gt;Krok 2: Połącz się ze strumieniem danych o ruchu lotniczym&lt;/h3&gt;
 
 &lt;p&gt;Otwórz główne menu i przejść do menu &apos;Informacja&apos;&lt;/p&gt;
@@ -3512,7 +3508,6 @@ stan połączenia i wyjaśnia, jak nawiązać połączenie ręcznie.&lt;/li&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="253"/>
         <source>
 &lt;h2&gt;Troubleshooting&lt;/h2&gt;
 
@@ -3539,7 +3534,7 @@ at random if more than one device tries to access.&lt;/p&gt;
   web browser. Close all web browsers.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h2&gt;Rozwiązywanie problemów&lt;/h2&gt;
 
 &lt;h4&gt;Aplikacja nie może połączyć się ze strumieniem danych o ruchu lotniczym&lt;/h4&gt;
@@ -3567,7 +3562,6 @@ losowo, jeśli więcej niż jedno urządzenie próbuje uzyskać dostęp.&lt;/p&g
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="401"/>
         <source>
 &lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; can connect to flight simulator software.  The app
 has been tested with the following programs.&lt;/p&gt;
@@ -3585,7 +3579,7 @@ has been tested with the following programs.&lt;/p&gt;
 
 &lt;p&gt;Please contact us if you are aware of other programs that also work.&lt;/p&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; może łączyć się do symulatorów lotu.  Aplikacja
 została przetestowana z następującymi programami.&lt;/p&gt;
 
@@ -4409,19 +4403,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Jak podłączyć twój odbiornik ruchu lotniczego...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="159"/>
         <source>Connect your traffic receiver</source>
-        <translation>Podłącz twój odbiornik ruchu lotniczego</translation>
+        <translation type="vanished">Podłącz twój odbiornik ruchu lotniczego</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="167"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="159"/>
         <source>How to connect your flight simulator…</source>
         <translation>Jak podłączyć twój symulator lotu...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="174"/>
         <source>Connect your flight simulator</source>
-        <translation>Podłącz twój symulator lotu</translation>
+        <translation type="vanished">Podłącz twój symulator lotu</translation>
     </message>
     <message>
         <source>Libraries</source>
@@ -5621,17 +5613,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Odbiornik ruchu lotniczego</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="112"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="111"/>
         <source>&lt;h3&gt;Status&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Status&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="150"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="149"/>
         <source>&lt;p&gt;Well done! Go flying. Give yourself a pat on the back.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Super! Leć już. Poklep się po plecach.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="161"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="160"/>
         <source>
 &lt;p&gt;If no traffic data has arrived after a few seconds, something has gone wrong.&lt;/p&gt;
 
@@ -5712,7 +5704,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Ostatni błąd</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="152"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="151"/>
         <source>
 &lt;h3&gt;How to connect your device to the traffic receiver&lt;/h3&gt;
 
@@ -5775,7 +5767,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 &lt;p&gt;Dobra robota! Do lotu gotowi start. Poklep się po plecach.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="190"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="188"/>
         <source>Connect to Traffic Receiver</source>
         <translation>Połącz do odbiornika ruchu lotniczego</translation>
     </message>
@@ -5788,9 +5780,8 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Rozłącz z odbiornika ruchu lotniczego</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="217"/>
         <source>Connect your traffic receiver</source>
-        <translation>Podłącz twój odbiornik ruchu lotniczego</translation>
+        <translation type="vanished">Podłącz twój odbiornik ruchu lotniczego</translation>
     </message>
 </context>
 <context>
@@ -8910,12 +8901,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Słaby odbiór</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="168"/>
+        <location filename="../../../src/qml/main.qml" line="169"/>
         <source>Settings</source>
         <translation>Ustawienia</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="187"/>
+        <location filename="../../../src/qml/main.qml" line="188"/>
         <source>Information</source>
         <translation>Informacja</translation>
     </message>
@@ -8928,22 +8919,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Obecny Status</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="269"/>
+        <location filename="../../../src/qml/main.qml" line="250"/>
         <source>About Enroute Flight Navigation</source>
         <translation>O Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="295"/>
+        <location filename="../../../src/qml/main.qml" line="276"/>
         <source>Donate</source>
         <translation>Wspomóż</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="310"/>
+        <location filename="../../../src/qml/main.qml" line="381"/>
         <source>Bug report</source>
         <translation>Zgłoszenie błędu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="282"/>
+        <location filename="../../../src/qml/main.qml" line="263"/>
         <source>Participate</source>
         <translation>Uczestnicz</translation>
     </message>
@@ -8956,7 +8947,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Status</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="223"/>
+        <location filename="../../../src/qml/main.qml" line="224"/>
         <source>Traffic Receiver</source>
         <translation>Odbiornik ruchu lotniczego</translation>
     </message>
@@ -9006,62 +8997,82 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Element niedostępny podczas lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="200"/>
+        <location filename="../../../src/qml/main.qml" line="201"/>
         <source>Positioning</source>
         <translation>Pozycjonowanie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="202"/>
+        <location filename="../../../src/qml/main.qml" line="203"/>
         <source>Receiving position information.</source>
         <translation>Odbieranie informacji o pozycji.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="202"/>
+        <location filename="../../../src/qml/main.qml" line="203"/>
         <source>Not receiving position information.</source>
         <translation>Nie odbieranie informacji o pozycji.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="225"/>
+        <location filename="../../../src/qml/main.qml" line="226"/>
         <source>Receiving traffic data.</source>
         <translation>Odbieranie danych ruchu lotniczego.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="225"/>
+        <location filename="../../../src/qml/main.qml" line="226"/>
         <source>Not receiving traffic data.</source>
         <translation>Nie odbieranie danych ruchu lotniczego.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="249"/>
+        <location filename="../../../src/qml/main.qml" line="293"/>
         <source>Manual</source>
         <translation>Instrukcja obsługi</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="331"/>
+        <location filename="../../../src/qml/main.qml" line="307"/>
+        <source>Read manual</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="332"/>
+        <source>Open in browser</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="347"/>
+        <source>Download as ebook</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="361"/>
+        <source>Download as PDF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="402"/>
         <source>Exit</source>
         <translation>Wyjście</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="460"/>
+        <location filename="../../../src/qml/main.qml" line="531"/>
         <source>Connected to traffic receiver.</source>
         <translation>Podłączony do odbiornika ruchu lotniczego.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="462"/>
+        <location filename="../../../src/qml/main.qml" line="533"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Utracono połączenie do odbiornika ruchu lotniczego.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="495"/>
+        <location filename="../../../src/qml/main.qml" line="566"/>
         <source>Exit…?</source>
         <translation>Wyjść...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="496"/>
+        <location filename="../../../src/qml/main.qml" line="567"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Czy chesz wyjść z &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="507"/>
+        <location filename="../../../src/qml/main.qml" line="578"/>
         <source>What&apos;s new …?</source>
         <translation>Co nowego ...?</translation>
     </message>
