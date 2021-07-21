@@ -57,8 +57,11 @@ html_title = ''
 
 html_theme_options = {
     'globaltoc_depth': 1,
+    "logo_icon": "&#xe865",
     'touch_icon': 'enroute.png',
-#    'logo_icon': 'X',
+#    'color_primary': 'teal',
+    'html_minify': True,   
+    'css_minify': True,
     "nav_links": [
         {"href": "https://akaflieg-freiburg.github.io/enrouteText/manual", "internal": False, "title": "Online"},
         {"href": "https://akaflieg-freiburg.github.io/enrouteText/manual.epub", "internal": False, "title": "eBook"},
@@ -70,7 +73,6 @@ html_theme_options = {
 # globaltoc seems it's not added by default
 html_sidebars = {
     "**": [
-#        "logo-text.html",
         "globaltoc.html",
         "localtoc.html",
         "searchbox.html",
