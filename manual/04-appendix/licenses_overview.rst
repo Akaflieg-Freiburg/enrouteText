@@ -7,63 +7,85 @@
 - ANGLE: trace_event. BSD 3-clause "New" or "Revised" License.
 - `Anti-aliasing rasterizer from FreeType 2 <http://www.freetype.org>`_. Freetype Project License or GNU General Public License v2.0 only.
 - `Bitstream Vera Font <https://www.gnome.org/fonts/>`_. Bitstream Vera Font License.
+- `Boost <http://www.boost.org>`_. Boost Software License 1.0.
 - `Clip2Tri Polygon Triangulation Library <https://github.com/raptor/clip2tri>`_. MIT License.
 - `Clipper Polygon Clipping Library <http://www.angusj.com/delphi/clipper.php>`_. Boost Software License 1.0.
 - Cocoa Platform Plugin. BSD 3-clause "New" or "Revised" License.
+- `CSS Color Parser <https://github.com/kkaefer/css-color-parser-cpp>`_. MIT License.
+- `cURL Parse Date <https://curl.haxx.se>`_. MIT License.
 - Cycle. MIT License.
 - `Data Compression Library (zlib) <http://zlib.net/>`_. zlib License.
 - `DejaVu Fonts <https://dejavu-fonts.github.io/>`_. Bitstream Vera Font License.
+- `Earcut <https://github.com/mapbox/earcut.hpp>`_. ISC License.
 - `Earcut Polygon Triangulation Library <https://github.com/mapbox/earcut.hpp>`_. ISC License.
 - `Earth Gravitational Model <https://earth-info.nga.mil>`_. Public Domain.
 - `Easing Equations by Robert Penner <http://robertpenner.com/easing/>`_. BSD 3-clause "New" or "Revised" License.
 - `Efficient Binary-Decimal and Decimal-Binary Conversion Routines for IEEE Doubles <https://github.com/google/double-conversion>`_. BSD 3-clause "New" or "Revised" License.
+- `fontawesome <https://github.com/FortAwesome/Font-Awesome>`_. SIL Open Font Licence 1.1.
 - forkfd. MIT License.
 - `FreeBSD strtoll and strtoull <https://github.com/freebsd/freebsd/>`_. BSD 3-clause "New" or "Revised" License.
 - `Freetype 2 <http://www.freetype.org>`_. Freetype Project License or GNU General Public License v2.0 only.
 - `Freetype 2 - Bitmap Distribution Format (BDF) support <http://www.freetype.org>`_. MIT License.
 - `Freetype 2 - Portable Compiled Format (PCF) support <http://www.freetype.org>`_. MIT License.
 - `Freetype 2 - zlib <http://www.freetype.org>`_. zlib License.
+- `geojson-cpp <https://github.com/mapbox/geojson-cpp>`_. ISC License.
+- `geojson-vt-cpp <https://github.com/mapbox/geojson-vt-cpp>`_. ISC License.
+- `geometry.hpp <https://github.com/mapbox/geometry.hpp>`_. ISC License.
 - `geosimplify-js polyline simplification library <https://github.com/mapbox/geosimplify-js>`_. geosimplify-js License.
 - `Google Fonts <https://github.com/google/fonts>`_. Apache 2 License.
+- `Google Material Icon Font <https://fonts.google.com/icons>`_. Apache Licence 2.0.
 - `Gradle wrapper <https://gradle.org>`_. Apache License 2.0.
 - `Guidelines Support Library <https://github.com/microsoft/GSL>`_. MIT License.
 - HarfBuzz. MIT License.
 - `HarfBuzz-NG <http://harfbuzz.org>`_. MIT License.
 - `IAccessible2 IDL Specification <https://wiki.linuxfoundation.org/accessibility/iaccessible2/>`_. BSD 3-clause "New" or "Revised" License.
 - `JavaScriptCore Macro Assembler <https://trac.webkit.org/wiki/JavaScriptCore>`_. BSD 2-clause "Simplified" License.
+- `jQuery <https://github.com/jquery/jquery>`_. MIT License.
 - `KDAB's helper class for single-instance policy applications <https://github.com/KDAB/KDSingleApplication>`_. MIT License.
+- `kdbush.hpp <https://github.com/mourner/kdbush.hpp>`_. ISC License.
 - `libdus-1 headers <https://www.freedesktop.org/wiki/Software/dbus/>`_. Academic Free License v2.1, or GNU General Public License v2.0 or later.
 - `LibJPEG-turbo <http://libjpeg-turbo.virtualgl.org/>`_. Independent JPEG Group License.
 - `LibPNG <http://www.libpng.org/pub/png/libpng.html>`_. libpng License and PNG Reference Library version 2.
 - `Linux Performance Events <https://www.kernel.org>`_. GNU General Public License v2.0 only with Linux Syscall Note.
+- `lunr.js <https://github.com/olivernn/lunr.js>`_. MIT License.
+- `Mapbox GL Native <https://github.com/mapbox/mapbox-gl-native>`_. BSD 2-clause "Simplified" License and zlib License.
 - `Material Design Icons <https://github.com/google/material-design-icons>`_. Apache License.
+- `Material Sphinx Theme <https://github.com/bashtage/sphinx-material/>`_. MIT License.
 - MD4. Public Domain.
 - `MD4C <https://github.com/mity/md4c>`_. MIT License.
 - MD5. Public Domain.
 - `Metaf library <https://github.com/nnaumenko/metaf>`_. MIT License.
 - Native Style for Android. Apache License 2.0.
+- `nunicode <https://bitbucket.org/alekseyt/nunicode.git>`_. MIT License.
 - `OpenGL ES 2 Headers <https://www.khronos.org/>`_. MIT License.
 - `OpenGL Headers <https://www.khronos.org/>`_. MIT License.
 - `openSSL library <https://www.openssl.org>`_. Apache 2 License.
+- `Optional <https://github.com/akrzemi1/Optional>`_. Boost Software License 1.0.
 - `OSM Liberty <https://github.com/maputnik/osm-liberty>`_. BSD License.
 - `PCRE2 <http://www.pcre.org/>`_. BSD 3-clause "New" or "Revised" License.
 - `PCRE2 - Stack-less Just-In-Time Compiler <http://www.pcre.org/>`_. BSD 2-clause "Simplified" License.
 - `Pixman <http://www.pixman.org/>`_. MIT License.
 - `Poly2Tri Polygon Triangulation Library <http://code.google.com/p/poly2tri/>`_. BSD 3-clause "New" or "Revised" License.
+- `polylabel <https://github.com/mapbox/polylabel>`_. ISC License.
+- `protozero <https://github.com/mapbox/protozero>`_. BSD 2-clause "Simplified" License.
 - QEventDispatcher on macOS. BSD 3-clause "New" or "Revised" License.
 - `QHttpEngine <https://github.com/nitroshare/qhttpengine>`_. MIT License.
 - `Qt Toolkit, Libraries and Modules <https://qt.io>`_. GNU General Public License v3.0.
+- `RapidJSON <http://rapidjson.org>`_. MIT License.
 - `Secure Hash Algorithm SHA-1 <http://www.dominik-reichl.de/projects/csha1/>`_. Public Domain.
 - Secure Hash Algorithm SHA-3 - brg_endian. BSD 2-clause "Simplified" License.
 - Secure Hash Algorithm SHA-3 - Keccak. Creative Commons Zero v1.0 Universal.
 - Secure Hash Algorithms SHA-384 and SHA-512. BSD 3-clause "New" or "Revised" License.
 - `Shadow values from Angular Material <https://angularjs.org/>`_. MIT License.
+- `shelf-pack-cpp <https://github.com/mapbox/shelf-pack-cpp>`_. ISC License.
 - Smooth Scaling Algorithm. BSD 2-clause "Simplified" License and Imlib2 License.
 - `SQLite <https://www.sqlite.org/>`_. Public Domain.
 - `sRGB color profile icc file <http://www.color.org/>`_. International Color Consortium License.
 - `Sunset library <https://github.com/buelowp/sunset>`_. GNU General Public License v2.0.
+- `supercluster.hpp <https://github.com/mapbox/supercluster.hpp>`_. ISC License.
 - `Tango Icons <http://tango.freedesktop.org/Tango_Desktop_Project>`_. Public Domain.
 - `Tango Weather Icon Pack by Darkobra <https://www.deviantart.com/darkobra/art/Tango-Weather-Icon-Pack-98024429>`_. Public Domain.
+- `tao_tuple <https://github.com/taocpp/>`_. MIT License.
 - Text Codec: EUC-JP. BSD 2-clause "Simplified" License.
 - Text Codec: EUC-KR. BSD 2-clause "Simplified" License.
 - Text Codec: GBK. BSD 2-clause "Simplified" License.
@@ -73,11 +95,16 @@
 - Text Codecs: Big5, Big5-HKSCS. BSD 2-clause "Simplified" License.
 - `The Public Suffix List <http://publicsuffix.org/>`_. Mozilla Public License 2.0.
 - `TinyCBOR <https://github.com/intel/tinycbor>`_. MIT License.
+- `underscore <https://github.com/jashkenas/underscore>`_. MIT License.
 - `Unicode Character Database (UCD) <https://www.unicode.org/ucd/>`_. Unicode License Agreement - Data Files and Software (2016).
 - `Unicode Common Locale Data Repository (CLDR) <http://cldr.unicode.org/>`_. Unicode License Agreement - Data Files and Software (2016).
+- `unique_resource <https://github.com/okdshin/unique_resource>`_. Boost Software License 1.0.
 - `Valgrind <http://valgrind.org/>`_. BSD 4-clause "Original" or "Old" License.
+- `variant <https://github.com/mapbox/variant>`_. BSD 3-clause "New" or "Revised" License.
+- `Vector Tile Library <https://github.com/mapbox/vector-tile>`_. ISC License.
 - `Vulkan API Registry <https://www.khronos.org/>`_. MIT License.
 - `Vulkan Memory Allocator <https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator>`_. MIT License.
+- `Wagyu Geometry Processing Library <https://github.com/mapbox/wagyu>`_. MIT License.
 - `WebGradients <https://webgradients.com/>`_. MIT License.
 - Wintab API. LCS-Telegraphics License.
 - `X Server helper <https://www.x.org/>`_. X11 License and Historical Permission Notice and Disclaimer.
