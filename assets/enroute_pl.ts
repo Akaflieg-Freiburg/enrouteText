@@ -1847,7 +1847,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Dane lotnicze są dostarczane przez &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; oraz &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projekt. Mapy podstawowe dostarczane są dzięki &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Odwołaj się do dokumentacji by poznać więcej szczegółów.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="183"/>
+        <location filename="../../../src/Librarian.cpp" line="156"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -1952,7 +1952,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Jeśli płynnie programujesz w C++ i chciałbyś &lt;strong&gt;pomóc z programowaniem&lt;/strong&gt;, to &lt;a href=&quot;mailto:stefan.kebekus@gmail.com&quot;&gt;daj nam znać&lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <location filename="../../../src/Librarian.cpp" line="263"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -1977,7 +1977,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Robimy co w naszej mocy, by uniknąć sztywnych limitów na pobieranie map w przyszłości. Proszę, pomóż nam z tym. Już masz &lt;strong&gt;%2 map&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="171"/>
+        <location filename="../../../src/Librarian.cpp" line="144"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -2361,7 +2361,7 @@ losowo, jeśli więcej niż jedno urządzenie próbuje uzyskać dostęp.
   przeglądarki internetowej. Zamknij wszystkie przeglądarki internetowe.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="304"/>
+        <location filename="../../../src/Librarian.cpp" line="277"/>
         <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
       
 &lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
@@ -2578,7 +2578,6 @@ oraz **importu planu lotu**.
 &lt;p&gt; &lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="60"/>
         <source>&lt;h3&gt;Authors&lt;/h3&gt;
 
 &lt;br&gt;
@@ -2641,7 +2640,7 @@ oraz **importu planu lotu**.
   &lt;/tr&gt;
 &lt;/table&gt;
 </source>
-        <translation>&lt;h3&gt;Authors&lt;/h3&gt;
+        <translation type="vanished">&lt;h3&gt;Authors&lt;/h3&gt;
 
 &lt;br&gt;
 
@@ -2705,7 +2704,6 @@ oraz **importu planu lotu**.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="121"/>
         <source>
 &lt;h3&gt;Manual&lt;/h3&gt;
 
@@ -2728,7 +2726,7 @@ oraz **importu planu lotu**.
 &lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</source>
-        <translation>
+        <translation type="vanished">
 &lt;h3&gt;Podręcznik&lt;/h3&gt;
 
 &lt;p&gt;Podręcznik został uprzejmie udostępniony przez Michaela Horbaschka.&lt;/p&gt;
@@ -2752,7 +2750,119 @@ oraz **importu planu lotu**.
 &lt;p&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="146"/>
+        <location filename="../../../src/Librarian.cpp" line="60"/>
+        <source>&lt;h3&gt;Authors&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
+      &lt;h4&gt;Address&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstraße 77&lt;br&gt;
+      79104 Freiburg&lt;br&gt;
+      Germany&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Pic: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="81"/>
+        <source>
+&lt;h3&gt;Manual&lt;/h3&gt;
+
+&lt;p&gt;The manual has kindly been provided by Michael Horbaschk.&lt;/p&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="85"/>
+        <source>
+&lt;h3&gt;Translations&lt;/h3&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="89"/>
+        <source>
+&lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato. Adrien is a private pilot and aerospace engineer.&lt;/li&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="91"/>
+        <source>
+&lt;li&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/li&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="93"/>
+        <source>
+&lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella.&lt;/li&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="95"/>
+        <source>
+&lt;li&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/li&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="99"/>
+        <source>
+&lt;h3&gt;Alumni&lt;/h3&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="103"/>
+        <source>
+&lt;li&gt;Luca Bertoncello (Italian translation)&lt;/li&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="105"/>
+        <source>
+&lt;li&gt;Adrien Crovato (Integration of weather information)&lt;/li&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="107"/>
+        <source>
+&lt;li&gt;Szymon Kocur (Polish translation)&lt;/li&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="109"/>
+        <source>
+&lt;li&gt;Heiner Tholen (User interface)&lt;/li&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="111"/>
+        <source>
+&lt;li&gt;Johannes Zellner (Geoid correction for altitude)&lt;/li&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="119"/>
         <source>
 &lt;p&gt;We receive our aviation data from &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. This is a not-for-profit organisation where volunteers compile aviation data for many countries. If openAIP covers your country, we might be able to generate maps for it. First, however, we need to be reasonably sure that the openAIP data is accurate and complete. Please have a look at the &lt;a href=&quot;http://maps.openaip.net&quot;&gt;openAIP maps&lt;/a&gt; and compare the display with an official aviation map of your country. Are the airfields there? Are runway lengths/orientations and frequencies correct? Are NavAids correctly displayed, with correct codes and frequencies? And what about airspaces?&lt;/p&gt;
 
@@ -2767,7 +2877,7 @@ oraz **importu planu lotu**.
 &lt;p&gt; Pamiętaj, że w wolnym czasie programujemy tę bezpłatną aplikację jako usługę dla społeczności. Niestety, powinienem zaznaczyć, że wysyłanie nam niegrzecznych żądań raczej nie przyniesie pożądanego rezultatu. &lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="155"/>
+        <location filename="../../../src/Librarian.cpp" line="128"/>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
@@ -2796,12 +2906,12 @@ oraz **importu planu lotu**.
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="314"/>
+        <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; Open the main menu and go to Information/Manual to try it out.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="315"/>
+        <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>&lt;p&gt;&lt;strong&gt;We need help with the Italian translation.&lt;/strong&gt; If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2834,7 +2944,7 @@ oraz **importu planu lotu**.
                   &lt;p&gt;Mapa wyświetla i stylizuje dane z &lt;a href=&quot;http://www.openaip.net&quot;&gt;openAIP&lt;/a&gt;, które jest objęte licencją &lt;a href = &quot;https://creativecommons.org/licenses/by-nc-sa/3.0/&quot;&gt;Licencja CC BY-NC-SA&lt;/a&gt;. Mapa wyświetla również i stylizuje dane z &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;openflightmaps&lt;/a&gt;, które są licencjonowane na podstawie &lt;a href = &quot;https://www.openflightmaps.org/live/downloads/20150306-LCN.pdf&quot;&gt; Licencja dla użytkowników ogólnych OFMA &lt;/a&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="215"/>
+        <location filename="../../../src/Librarian.cpp" line="188"/>
         <source>
 &lt;h3&gt;License&lt;/h3&gt;
 
@@ -2935,7 +3045,7 @@ oraz **importu planu lotu**.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="262"/>
+        <location filename="../../../src/Librarian.cpp" line="235"/>
         <source>
 &lt;h4&gt;Software and data included in the program&lt;/h4&gt;
 
@@ -2964,7 +3074,7 @@ oraz **importu planu lotu**.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="278"/>
+        <location filename="../../../src/Librarian.cpp" line="251"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -3025,7 +3135,7 @@ następującymi odbiornikami ruchu lotniczego.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="225"/>
+        <location filename="../../../src/Librarian.cpp" line="198"/>
         <source>
 &lt;h4&gt;Geographic maps&lt;/h4&gt;
 
