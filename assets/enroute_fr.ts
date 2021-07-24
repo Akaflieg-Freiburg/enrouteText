@@ -1716,6 +1716,11 @@ peut être intéressant.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="289"/>
+        <source>&lt;p&gt;&lt;strong&gt;Google now counts more than 10.000 active installations of this app.&lt;/strong&gt; Thanks to everybody who made this success possible.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="119"/>
         <source>
 &lt;p&gt;We receive our aviation data from &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. This is a not-for-profit organisation where volunteers compile aviation data for many countries. If openAIP covers your country, we might be able to generate maps for it. First, however, we need to be reasonably sure that the openAIP data is accurate and complete. Please have a look at the &lt;a href=&quot;http://maps.openaip.net&quot;&gt;openAIP maps&lt;/a&gt; and compare the display with an official aviation map of your country. Are the airfields there? Are runway lengths/orientations and frequencies correct? Are NavAids correctly displayed, with correct codes and frequencies? And what about airspaces?&lt;/p&gt;

@@ -2690,6 +2690,11 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
         <translation>&lt;p&gt;&lt;strong&gt;Das Handbuch ist jetzt fest in die App eingebaut.&lt;/strong&gt; Zum Ausprobieren öffnen Sie das Hauptmenü und wählen Sie den Punkt &apos;Handbuch&apos;.&lt;/p&gt;</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="289"/>
+        <source>&lt;p&gt;&lt;strong&gt;Google now counts more than 10.000 active installations of this app.&lt;/strong&gt; Thanks to everybody who made this success possible.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; Open the main menu and go to Information/Manual to try it out.&lt;/p&gt;</source>
         <translation type="obsolete">&lt;p&gt;&lt;strong&gt;Das Handbuch ist jetzt in die App eingebaut.&lt;/strong&gt; Um das neue Handbuch auszuprobieren, öffnen Sie das Hauptmenü und wähgehen Sie zu &quot;Information/Manual to try it out.&lt;/p&gt;</translation>
     </message>

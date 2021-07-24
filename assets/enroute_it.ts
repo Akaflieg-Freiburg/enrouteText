@@ -3232,6 +3232,11 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="289"/>
+        <source>&lt;p&gt;&lt;strong&gt;Google now counts more than 10.000 active installations of this app.&lt;/strong&gt; Thanks to everybody who made this success possible.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; Open the main menu and go to Information/Manual to try it out.&lt;/p&gt;</source>
         <translation type="vanished">&lt;p&gt;&lt;strong&gt;Il manuale è ora integrato nell&apos;app.&lt;/strong&gt; Apri il menu principale e vai su Informazioni/Manuale per consultarlo.&lt;/p&gt;</translation>
     </message>

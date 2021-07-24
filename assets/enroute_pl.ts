@@ -2916,6 +2916,11 @@ oraz **importu planu lotu**.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="289"/>
+        <source>&lt;p&gt;&lt;strong&gt;Google now counts more than 10.000 active installations of this app.&lt;/strong&gt; Thanks to everybody who made this success possible.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;h3&gt;License&lt;/h3&gt;
 
 &lt;p&gt;This program is licensed under the &lt;a href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU General Public License V3&lt;/a&gt; or, at your choice, any later version of this license.&lt;/p&gt;
