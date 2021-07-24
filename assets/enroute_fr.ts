@@ -1717,7 +1717,7 @@ peut être intéressant.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="289"/>
-        <source>&lt;p&gt;&lt;strong&gt;Google now counts more than 10.000 active installations of this app.&lt;/strong&gt; Thanks to everybody who made this success possible.&lt;/p&gt;</source>
+        <source>&lt;p&gt;&lt;strong&gt;Google now counts more than 10.000 active installations of this app.&lt;/strong&gt; Thanks to everybody who made this success possible!&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
