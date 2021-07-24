@@ -8983,22 +8983,21 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>main</name>
     <message>
-        <location filename="../../../src/qml/main.qml" line="37"/>
         <source>Enroute Flight Navigation</source>
-        <translation>Enroute Flight Navigation</translation>
+        <translation type="vanished">Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="72"/>
+        <location filename="../../../src/qml/main.qml" line="110"/>
         <source>Route</source>
         <translation>Trasa</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="87"/>
+        <location filename="../../../src/qml/main.qml" line="125"/>
         <source>Nearby Waypoints</source>
         <translation>Pobliskie Punkty Orientacyjne</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="102"/>
+        <location filename="../../../src/qml/main.qml" line="140"/>
         <source>Weather</source>
         <translation>Pogoda</translation>
     </message>
@@ -9011,12 +9010,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Słaby odbiór</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="169"/>
+        <location filename="../../../src/qml/main.qml" line="207"/>
         <source>Settings</source>
         <translation>Ustawienia</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="188"/>
+        <location filename="../../../src/qml/main.qml" line="226"/>
         <source>Information</source>
         <translation>Informacja</translation>
     </message>
@@ -9029,22 +9028,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Obecny Status</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="250"/>
+        <location filename="../../../src/qml/main.qml" line="288"/>
         <source>About Enroute Flight Navigation</source>
         <translation>O Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="276"/>
+        <location filename="../../../src/qml/main.qml" line="314"/>
         <source>Donate</source>
         <translation>Wspomóż</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="381"/>
+        <location filename="../../../src/qml/main.qml" line="417"/>
         <source>Bug report</source>
         <translation>Zgłoszenie błędu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="263"/>
+        <location filename="../../../src/qml/main.qml" line="301"/>
         <source>Participate</source>
         <translation>Uczestnicz</translation>
     </message>
@@ -9057,7 +9056,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Status</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="224"/>
+        <location filename="../../../src/qml/main.qml" line="262"/>
         <source>Traffic Receiver</source>
         <translation>Odbiornik ruchu lotniczego</translation>
     </message>
@@ -9082,107 +9081,107 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Odbieranie informacji o ruchu lotniczym</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="121"/>
+        <location filename="../../../src/qml/main.qml" line="159"/>
         <source>Library</source>
         <translation>Biblioteka</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="134"/>
+        <location filename="../../../src/qml/main.qml" line="172"/>
         <source>Flight Routes</source>
         <translation>Trasy Lotnicze</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="147"/>
+        <location filename="../../../src/qml/main.qml" line="185"/>
         <source>Maps</source>
         <translation>Mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="148"/>
+        <location filename="../../../src/qml/main.qml" line="186"/>
         <source>Updates available</source>
         <translation>Dostępne aktualizacje</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="149"/>
+        <location filename="../../../src/qml/main.qml" line="187"/>
         <source>Item not available in flight</source>
         <translation>Element niedostępny podczas lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="201"/>
+        <location filename="../../../src/qml/main.qml" line="239"/>
         <source>Positioning</source>
         <translation>Pozycjonowanie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="203"/>
+        <location filename="../../../src/qml/main.qml" line="241"/>
         <source>Receiving position information.</source>
         <translation>Odbieranie informacji o pozycji.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="203"/>
+        <location filename="../../../src/qml/main.qml" line="241"/>
         <source>Not receiving position information.</source>
         <translation>Nie odbieranie informacji o pozycji.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="226"/>
+        <location filename="../../../src/qml/main.qml" line="264"/>
         <source>Receiving traffic data.</source>
         <translation>Odbieranie danych ruchu lotniczego.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="226"/>
+        <location filename="../../../src/qml/main.qml" line="264"/>
         <source>Not receiving traffic data.</source>
         <translation>Nie odbieranie danych ruchu lotniczego.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="293"/>
+        <location filename="../../../src/qml/main.qml" line="330"/>
         <source>Manual</source>
         <translation>Instrukcja obsługi</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="307"/>
+        <location filename="../../../src/qml/main.qml" line="344"/>
         <source>Read manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="332"/>
+        <location filename="../../../src/qml/main.qml" line="369"/>
         <source>Open in browser</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="347"/>
+        <location filename="../../../src/qml/main.qml" line="384"/>
         <source>Download as ebook</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="361"/>
+        <location filename="../../../src/qml/main.qml" line="398"/>
         <source>Download as PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="402"/>
+        <location filename="../../../src/qml/main.qml" line="438"/>
         <source>Exit</source>
         <translation>Wyjście</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="531"/>
+        <location filename="../../../src/qml/main.qml" line="567"/>
         <source>Connected to traffic receiver.</source>
         <translation>Podłączony do odbiornika ruchu lotniczego.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="533"/>
+        <location filename="../../../src/qml/main.qml" line="569"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Utracono połączenie do odbiornika ruchu lotniczego.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="566"/>
+        <location filename="../../../src/qml/main.qml" line="602"/>
         <source>Exit…?</source>
         <translation>Wyjść...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="567"/>
+        <location filename="../../../src/qml/main.qml" line="603"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Czy chesz wyjść z &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="578"/>
+        <location filename="../../../src/qml/main.qml" line="614"/>
         <source>What&apos;s new …?</source>
         <translation>Co nowego ...?</translation>
     </message>
