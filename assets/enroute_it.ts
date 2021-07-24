@@ -3228,8 +3228,12 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
+        <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; To try it out, Open the main menu and choose the item &apos;Manual&apos;.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; Open the main menu and go to Information/Manual to try it out.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Il manuale è ora integrato nell&apos;app.&lt;/strong&gt; Apri il menu principale e vai su Informazioni/Manuale per consultarlo.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Il manuale è ora integrato nell&apos;app.&lt;/strong&gt; Apri il menu principale e vai su Informazioni/Manuale per consultarlo.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
