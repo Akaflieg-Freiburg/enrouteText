@@ -67,6 +67,7 @@ and frequencies.
    :caption: Reference manual
    :name: sec-reference
     
+   03-reference/mapData
    03-reference/platform
 
    
