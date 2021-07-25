@@ -1456,88 +1456,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         </translation>
     </message>
     <message>
-        <source>
-&lt;p&gt;In order to display nearby traffic on the moving map, &lt;strong&gt;Enroute Flight
-Navigation&lt;/strong&gt; can connect to your aircraft&apos;s traffic receiver (typically a FLARM
-device).&lt;/p&gt;
-
-&lt;p&gt;The author has tested the &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; with the
-following traffic receivers.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;p&gt;Pour afficher le traffic aérien sur la carte, &lt;strong&gt;Enroute Flight
-Navigation&lt;/strong&gt; peut se connecter au récepteur de traffic devotre avion (ex : FLARM).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; a été testé par l&apos;auteur avec le matériel suivant.&lt;/p&gt;
-        </translation>
-    </message>
-    <message>
-        <source>
-&lt;p&gt;Users reported success with the following traffic receivers.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;p&gt;Les utilisateurs ont réussi à connecter les matériels suivants.&lt;/p&gt;
-        </translation>
-    </message>
-    <message>
-        <source>
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; can connect to flight simulator software.  The app
-has been tested with the following programs.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;X-Plane 11.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Users have reported success with the following programs.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;Microsoft Flight Simulator.&lt;/li&gt;
-  &lt;li&gt;X-Plane 10.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Please contact us if you are aware of other programs that also work.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; peut se connecter à des simulateurs de vol.  L&apos;application a été testée avec les programmes suivants.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;X-Plane 11.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Les utilisateurs ont réussi à utiliser Enroute avec les programmes suivants.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;Microsoft Flight Simulator.&lt;/li&gt;
-  &lt;li&gt;X-Plane 10.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Contactez-nous si vous avez testé l&apos;application avec d&apos;autres logiciels.&lt;/p&gt;
-        </translation>
-    </message>
-    <message>
-        <source>
-&lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
-
-&lt;p&gt;In order to communicate with other programs, the MS Flight Simulator requires
-additional software. Users reported that &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; works
-well with the inexpensive EFB-Connector program &lt;a href= &quot;http://xmapsy.com/&quot;&gt;XMapsy&lt;/a&gt;.
-If you are aware of other software that also works, then please be in touch.  The article
-&lt;a href=&quot;https://support.foreflight.com/hc/en-us/articles/204115275-How-do-I-connect-Microsoft-Flight-Simulator-FS-X-or-FS-2004-to-ForeFlight-&quot;&gt;How
-do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
-might be helpful.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;h3&gt;MS Flight Simulator&lt;/h3&gt;
-
-&lt;p&gt;MS Flight Simulator requiert un programme additionnel pour se connecter à d&apos;autres applications.
-Les utilisateurs ont testé &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; avec le EFB-Connector &lt;a href= &quot;http://xmapsy.com/&quot;&gt;XMapsy&lt;/a&gt;.
-Si vous connaissez d&apos;autres logiciels, merci de nous contacter. L&apos;article
-&lt;a href=&quot;https://support.foreflight.com/hc/en-us/articles/204115275-How-do-I-connect-Microsoft-Flight-Simulator-FS-X-or-FS-2004-to-ForeFlight-&quot;&gt;How
-do I connect Microsoft Flight Simulator 2020 (MSFS2020) to ForeFlight?&lt;/a&gt;
-peut être intéressant.&lt;/p&gt;
-        </translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="263"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
@@ -1603,7 +1521,29 @@ peut être intéressant.&lt;/p&gt;
   &lt;/tr&gt;
 &lt;/table&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type=>
+&lt;h3&gt;Auteurs&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;L&apos;application &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est développée par Stefan Kebekus, pilote amateur depuis 1986 et membre de l&apos;aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
+      &lt;h4&gt;Adresse&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstraße 77&lt;br&gt;
+      79104 Freiburg&lt;br&gt;
+      Germany&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Photo: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="81"/>
@@ -1612,84 +1552,106 @@ peut être intéressant.&lt;/p&gt;
 
 &lt;p&gt;The manual has kindly been provided by Michael Horbaschk.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Manuel&lt;/h3&gt;
+
+&lt;p&gt;Le manuel a été écrit par Michael Horbaschk.&lt;/p&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="85"/>
         <source>
 &lt;h3&gt;Translations&lt;/h3&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type>&lt;h3&gt;Traductions&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="89"/>
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato. Adrien is a private pilot and aerospace engineer.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;&lt;strong&gt;Francais:&lt;/strong&gt; Adrien Crovato. Adrien est pilote privé et ingénieur en aérospatiale.&lt;/li&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="91"/>
         <source>
 &lt;li&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type>
+&lt;li&gt;&lt;strong&gt;Allemand:&lt;/strong&gt; Markus Sachs. Markus pilote des deltaplanes et est un &apos;co-pilote&apos; enthousiate sur tout autre type d&apos;appareil.&lt;/li&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="93"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;&lt;strong&gt;Italien:&lt;/strong&gt; Ivan Battistella.&lt;/li&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="95"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;&lt;strong&gt;Polonais:&lt;/strong&gt; Sławek Mikuła.&lt;/li&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="99"/>
         <source>
 &lt;h3&gt;Alumni&lt;/h3&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Alumni&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="103"/>
         <source>
 &lt;li&gt;Luca Bertoncello (Italian translation)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;Luca Bertoncello (traduction en italien)&lt;/li&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="105"/>
         <source>
 &lt;li&gt;Adrien Crovato (Integration of weather information)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;Adrien Crovato (integration des informations météos)&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="107"/>
         <source>
 &lt;li&gt;Szymon Kocur (Polish translation)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type>
+&lt;li&gt;Szymon Kocur (traduction en polonais)&lt;/li&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="109"/>
         <source>
 &lt;li&gt;Heiner Tholen (User interface)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;Heiner Tholen (interface utilisateur)&lt;/li&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="111"/>
         <source>
 &lt;li&gt;Johannes Zellner (Geoid correction for altitude)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;Johannes Zellner (correction Geoid pour l&apos;altitude)&lt;/li&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="277"/>
@@ -1713,12 +1675,13 @@ peut être intéressant.&lt;/p&gt;
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; To try it out, Open the main menu and choose the item &apos;Manual&apos;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Le manuel est maintenant accessible depuis l&apos;application via&lt;/strong&gt;le menu principal.&lt;/p&gt;
+        </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="289"/>
         <source>&lt;p&gt;&lt;strong&gt;Google now counts more than 10.000 active installations of this app.&lt;/strong&gt; Thanks to everybody who made this success possible!&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Il y a maintenant plus de 10.000 installations de l&apos;application.&lt;/strong&gt; Merci à tous ceux qui ont rendu ce succès possible!&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="119"/>
@@ -1734,180 +1697,6 @@ peut être intéressant.&lt;/p&gt;
 &lt;p&gt;Si les données vous semblent suffisamment précises, vous pouvez demander à ajouter la carte correspondante. Rendez-vous sur &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enrouteServer/issues&quot;&gt;GitHub&lt;/a&gt; et ouvrez une &apos;issue&apos; avec votre requête. Merci d&apos;indiquer qui vous êtes, où vous volez et comment vous avez vérifié les données sur OpenAIP. Si les données ne vous semblent pas suffisamment précises, vous pouvez rejoindre le projet openAIP et aider à améliorer les données.&lt;/p&gt;
 
 &lt;p&gt;Nous développons cette application durant notre temps libre, en tant que service envers la communauté des pilotes amateurs, et nous vous demandons donc votre compréhension si nous ne pouvons pas prendre en compte votre demande.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Authors&lt;/h3&gt;
-
-&lt;br&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.&lt;/p&gt;
-      &lt;h4&gt;Address&lt;/h4&gt;
-      Stefan Kebekus&lt;br&gt;
-      Wintererstraße 77&lt;br&gt;
-      79104 Freiburg&lt;br&gt;
-      Germany&lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Pic: Patrick Seeger&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;br&gt;
-      &lt;h3&gt;Contributing Authors&lt;/h3&gt;
-      &lt;br&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Adrien Crovato is a private pilot and aerospace engineer. He joined the development team in 2020, and contributes to the C++ and QML code base.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Heiner Tholen enjoys building things, analog and digital, airborne as well as ground-based. He uses Enroute as a pilot of ultralight planes. Heiner joined the Enroute team mid 2020 and contributes to the C++/QML codebase.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
-     &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Johannes Zellner joined the development in 2020.  He contributes to the C++ and QML code base of the app and helps with bug fixing.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-</source>
-        <translation type="vanished">
-&lt;h3&gt;Auteurs&lt;/h3&gt;
-
-&lt;br&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;L&apos;application &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est développée par Stefan Kebekus, pilote amateur depuis 1986 et membre de l&apos;aéroclub Akaflieg Freiburg. Stefan pilote des planeurs et des avions.&lt;/p&gt;
-      &lt;h4&gt;Adresse&lt;/h4&gt;
-      Stefan Kebekus&lt;br&gt;
-      Wintererstraße 77&lt;br&gt;
-      79104 Freiburg&lt;br&gt;
-      Germany&lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Photo: Patrick Seeger&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;br&gt;
-      &lt;h3&gt;Co-auteurs&lt;/h3&gt;
-      &lt;br&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Adrien Crovato est pilote privé et ingénieur en aérospatiale. Il a rejoint l&apos;équipe en 2020 et contribue au code C++ and QML.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/crovato.jpg&apos; alt=&apos;Adrien Crovato&apos; height=&apos;140&apos;&gt;&lt;br&gt;Adrien Crovato&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Heiner Tholen aime construire des choses, autant analogiques que digitales, en vol autant qu&apos;au sol. Il utilise Enroute en tant que pilote d&apos;ULM. Heiner a rejoint l&apos;équipe mi-2020 et contribue au développement du code C++/QML.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:ul@heinertholen.com&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/tholen.jpg&apos; alt=&apos;Heiner Tholen&apos; height=&apos;140&apos;&gt;&lt;br&gt;Heiner Tholen&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;
-      &lt;p&gt;Johannes Zellner a rejoint l&apos;équipe en 2020. Il contribue au code C++ et QML de l&apos;application et aide à résoudre les bugs.&lt;/p&gt;
-      &lt;br&gt;
-      &lt;br&gt;
-      &lt;a href=&apos;mailto:johannes@zellner.org&apos;&gt;e-mail&lt;/a&gt;
-    &lt;/td&gt;
-    &lt;td&gt;
-      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/zellner.jpg&apos; alt=&apos;Johannes Zellner&apos; height=&apos;140&apos;&gt;&lt;br&gt;Johannes Zellner&lt;/p&gt;
-    &lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;h3&gt;Manual&lt;/h3&gt;
-
-&lt;p&gt;The manual has kindly been provided by Michael Horbaschk.&lt;/p&gt;
-
-&lt;h3&gt;Translations&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato. Adrien has been described above.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/p&gt;
-
-&lt;h3&gt;Alumni&lt;/h3&gt;
-
-&lt;p&gt;Luca Bertoncello (Italian translation)&lt;/p&gt;
-
-&lt;p&gt;Szymon Kocur (Polish translation)&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</source>
-        <translation type="vanished">
-&lt;h3&gt;Manuel&lt;/h3&gt;
-
-&lt;p&gt;Le manuel a été écrit par Michael Horbaschk.&lt;/p&gt;
-
-&lt;h3&gt;Traductions&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Français&lt;/strong&gt; : Adrien Crovato, &lt;a href=&apos;mailto:adriencrovato+code@gmail.com&apos;&gt;e-mail&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Allemand&lt;/strong&gt; : Markus Sachs, &lt;a href=&apos;mailto:ms@squawk-vfr.de&apos;&gt;E-Mail&lt;/a&gt;. Markus pilote des deltaplanes et est un &apos;co-pilote&apos; enthousiate sur tout autre type d&apos;appareil.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Italien&lt;/strong&gt; : Ivan Battistella. Ivan pilote des ULM depuis peu. Il travaille comme consultant software indépendant.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Polonais&lt;/strong&gt; : Sławek Mikuła.&lt;/p&gt;
-
-&lt;h3&gt;Alumni&lt;/h3&gt;
-
-&lt;p&gt;Luca Bertoncello (traduction en italien)&lt;/p&gt;
-
-&lt;p&gt;Szymon Kocur (traduction en polonais)&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
 </translation>
     </message>
     <message>
@@ -2009,285 +1798,7 @@ peut être intéressant.&lt;/p&gt;
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>&lt;p&gt;&lt;strong&gt;We need help with the Italian translation.&lt;/strong&gt; If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>
-&lt;h2&gt;Before you connect&lt;/h2&gt;
-
-&lt;p&gt;Before you try to connect this app to your traffic receiver, make sure
-that the following conditions are met.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;Your traffic receiver has an integrated Wi-Fi interface that acts as a
-  wireless access point. Bluetooth devices are currently not supported.&lt;/li&gt;
-
-  &lt;li&gt;You know the network name (=SSID) of the WLAN network deployed by your traffic
-  receiver. If the network is encrypted, you also need to know the WLAN
-  password.&lt;/li&gt;
-
-  &lt;li&gt;Some devices require an additional password in order to access traffic
-  data. This is currently not supported. Set up your device so that no
-  additional password is required.&lt;/li&gt;
-&lt;/ul&gt;
-</source>
-        <translation type="vanished">
-&lt;h2&gt;Avant de vous connecter&lt;/h2&gt;
-
-&lt;p&gt;Avant de connecter l&apos;application à votre récepteur de traffic, veuillez vérifier les confitions suivantes.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;Votre récepteur doit se connecter via WiFi. Les récepteurs Bluetooth ne sont pas supportés pour le moment.&lt;/li&gt;
-
-  &lt;li&gt;Vous devez connaitre le nom du réseau WLAN (SSID) du récepteur de traffic. 
-  Si le réseau est crypté, vous aurez également besoin du mot de passe.&lt;/li&gt;
-
-  &lt;li&gt;Certains récepteurs requierent un mot de passe supplémentaire ; ce qui n&apos;est pas supporté pour le moment. 
-  Paramétrez votre récepteur pour qu&apos;aucun mot de passe supplémentaire ne soit requis.&lt;/li&gt;
-&lt;/ul&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;h2&gt;Connecting to the traffic receiver&lt;/h2&gt;
-
-&lt;p&gt;It takes a two steps to connect &lt;strong&gt;Enroute Flight
-Navigation&lt;/strong&gt; to the traffic receiver for the first time. Once things
-are set up properly, your device should automatically detect the traffic
-receiver&apos;s WLAN network, enter the network and connect to the traffic data
-stream whenever you go flying.&lt;/p&gt;
-
-</source>
-        <translation type="vanished">
-&lt;h2&gt;Se connecter au récepteur de traffic&lt;/h2&gt;
-
-&lt;p&gt;Connecter &lt;strong&gt;Enroute Flight
-Navigation&lt;/strong&gt; au récepteur se fait en deux étapes.
-Après ces étapes, votre appareil devrait détecter le réseau du récepteur et s&apos;y connecter automatiquement.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;h3&gt;Step 1: Enter the traffic receiver&apos;s WLAN network&lt;/h3&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;Make sure that the traffic receiver has power and is switched on. In a typical
-  aircraft installation, the traffic receiver is connected to the &apos;Avionics&apos;
-  switch and will automatically switch on. You may need to wait a minute before
-  the WLAN comes online and is visible to your device.&lt;/li&gt;
-
-  &lt;li&gt;Enter the WLAN network deployed by your traffic receiver. This is usually done
-  in the &quot;WLAN Settings&quot; of your device. Enter the WLAN password if
-  required. Some devices will issue a warning that the WLAN is not connected to
-  the internet. In this case, you might need to confirm that you wish to enter
-  the WLAN network.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Most operating systems will offer to remember the connection, so that your
-device will automatically connect to this WLAN in the future. We recommend to
-use this option.&lt;/p&gt;
-
-</source>
-        <translation type="vanished">
-&lt;h3&gt;Etape 1 : Entrez le réseau WLAN du récepteur&lt;/h3&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;Assurez-vous que le récepteur est en service et allumé. 
-  Typiquement, le récepteur est connecté à l&apos;interrupteur &apos;Avionics&apos;. 
-  Après la mise en route, il peut être nécessaire d&apos;attendre une minute pour que 
-  le réseau émis soit visible depuis les autres appareils.&lt;/li&gt;
-
-  &lt;li&gt;Entrez le nom du réseau WLAN de votre récepteur dans les &quot;paramètres WLAN&quot; de votre appareil, ainsi que le mot de passe, si nécessaire.
-  Certains appareils vous avertiront que le réseau que vous tentez de rejoindre n&apos;est pas connecté à internet. Dans ce cas, confirmez pour continuer la procédure.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nous vous recommandons d&apos;indiquer à votre appareil de se souvenir de ce réseau et de s&apos;y connecter automatiquement.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;h3&gt;Step 2: Connect to the traffic data stream&lt;/h3&gt;
-
-&lt;p&gt;Open the main menu and navigate to the &quot;Information&quot; menu.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;If the entry &quot;Traffic Receiver&quot; is highlighted in green, then &lt;strong&gt;Enroute
-  Flight Navigation&lt;/strong&gt; has already found the traffic receiver in the network
-  and has connected to it. Congratulations, you are done!&lt;/li&gt;
-
-  &lt;li&gt;If the entry &quot;Traffic Receiver&quot; is not highlighted in green, then select the
-  entry. The &quot;Traffic Receiver Status&quot; page will open. The page explains the
-  connection status in detail, and explains how to establish a connection
-  manually.&lt;/li&gt;
-&lt;/ul&gt;
-</source>
-        <translation type="vanished">
-&lt;h3&gt;Etape 2: Connectez votre appareil au flux de données de traffic&lt;/h3&gt;
-
-&lt;p&gt;Ouvrez le menu principal et entrez dans le menu &quot;Information&quot;.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;Si &quot;Récepteur de traffic&quot; est surligné en vert, alors &lt;strong&gt;Enroute
-  Flight Navigation&lt;/strong&gt; est déjà connecté au récepteur. Bravo, tout est en place !&lt;/li&gt;
-
-  &lt;li&gt;Si &quot;Récepteur de traffic&quot; n&apos;est pas surligné en vert, alors cliquez dessus. 
-  La page &quot;Etat du récepteur&quot; s&apos;ouvrira et vous expliquera comment établir la connexion manuellement.&lt;/li&gt;
-&lt;/ul&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;h2&gt;Troubleshooting&lt;/h2&gt;
-
-&lt;h4&gt;The app cannot connect to the traffic data stream&lt;/h4&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;If check that your device is connected to the WLAN network deployed by your
-  traffic receiver.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;The connection breaks down after a few seconds&lt;/h4&gt;
-
-&lt;p&gt;Most traffic receivers cannot serve more than one client and abort connections
-at random if more than one device tries to access.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;Make sure that there no second device connected to the traffic receiver&apos;s WLAN
-  network. The other device might well be in your friend&apos;s pocket!&lt;/li&gt;
-
-  &lt;li&gt;Make sure that there is no other app trying to connected to the traffic
-  receiver&apos;s data stream.&lt;/li&gt;
-
-  &lt;li&gt;Many traffic receivers offer &quot;configuration panels&quot; that can be accessed via a
-  web browser. Close all web browsers.&lt;/li&gt;
-&lt;/ul&gt;
-</source>
-        <translation type="vanished">
-&lt;h2&gt;Résolution des problèmes&lt;/h2&gt;
-
-&lt;h4&gt;L&apos;application ne parvient pas à se connecter au flux de données.&lt;/h4&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;Vérifiez que votre appareil est bien connecté au réseau émis par le récepteur de traffic.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4&gt;La connexion est interrompue après quelques instants.&lt;/h4&gt;
-
-&lt;p&gt;La plupart des récepteurs de traffic ne peuvent désservir qu&apos;un seul appareil à la fois, et coupent la connexion si plusieurs appareils sont connectés.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;Assurez-vous qu&apos;un seul appareil est connecté (faites attention aux téléphones de vos passagers).&lt;/li&gt;
-
-  &lt;li&gt;Assurez-vous qu&apos;aucune autre application ne tente de se connecter aux flux de données.&lt;/li&gt;
-
-  &lt;li&gt;Beaucoup de récepteurs offrent un &quot;panneau de configuration&quot; accessible via un navigateur web. Fermez les navigateurs.&lt;/li&gt;
-&lt;/ul&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;h2&gt;Before you connect&lt;/h2&gt;
-
-&lt;p&gt;This manual assumes a typical home setup, where both the computer that runs the
-flight simulator and the device that runs &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; are
-connected to a Wi-Fi network deployed by a home router.  Make sure that the
-following conditions are met.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;The computer that runs the flight simulator and the device that runs &lt;strong&gt;Enroute
-  Flight Navigation&lt;/strong&gt; are connected to the same Wi-Fi network.  Some routers
-  deploy two networks, often called &quot;main network&quot; and a &quot;guest network&quot;.&lt;/li&gt;
-
-  &lt;li&gt;Make sure that the router allows data transfer between the devices in the
-  Wi-Fi network.  Some routers have &quot;security settings&quot; that disallow data
-  transfer between the devices in the &quot;guest network&quot;&lt;/li&gt;
-&lt;/ul&gt;
-</source>
-        <translation type="vanished">
-&lt;h2&gt;Avant de vous connecter&lt;/h2&gt;
-
-&lt;p&gt;Ce manuel suppose que vous vous trouvez dans un environnement classique, dans lequel l&apos;ordinateur sur lequel le simulateur est installé et l&apos;appareil qui utilise &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; sont connectés à un même réseau deployé par le  memê routeur.  Assurez-vous que les conditions suivantes sont remplies.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-  &lt;li&gt;L&apos;ordinateur sur lequel le simulateur est installé et l&apos;appareil qui utilise &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; doivent être connectés à un même réseau deployé par le  memê routeur.  Attention, certains routeurs peuvent déployer deux réseaux (le réseau &quot;principal&quot; et le réseau &quot;invité&quot;).&lt;/li&gt;
-
-  &lt;li&gt;Assurez-vous que le routeur autorise le transfert de donnée entre les différents appareils connectés.  Attention, certains routeurs ont des &quot;paramètres de sécurité&quot; empêchant le transfert de donnée sur le réseau &quot;invité&quot;&lt;/li&gt;
-&lt;/ul&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;h2&gt;Set up your flight simulator&lt;/h2&gt;
-
-&lt;p&gt;Your flight simulation software needs to broadcast position and traffic
-information over the Wi-Fi network.  Once this is done, there is no further
-setup required.  As soon as the flight simulator starts to broadcast information
-over the Wi-Fi network, the moving map of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will
-adjust accordingly.  To end the connection to the flight simulator, simply leave
-the flight simulator&apos;s Wi-Fi network.&lt;/p&gt;
-
-</source>
-        <translation type="vanished">
-&lt;h2&gt;Paramètrez vi-otre simulateur de vol&lt;/h2&gt;
-
-&lt;p&gt;Votre simulateur doit partager les informations de positionnement et de traffic au travers du réseau. Dès que le simulateur partagera ces informations sur le réseau, la carte de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; s&apos;adaptera automatiquement. Pour interrompre la connexion, déconnectez-vous du réseau.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;h3&gt;X-Plane 11&lt;/h3&gt;
-
-&lt;p&gt;Open the &quot;Settings&quot; window and choose the &quot;Network&quot; tab.  Locate the settings
-group &quot;This machine&apos;s role&quot; on the right-hand side of the tab. Open the section
-&quot;iPHONE, iPAD, and EXTERNAL APPS&quot; and select the item &quot;Broadcast to all mapping
-apps on the network&quot; under the headline &quot;OTHER MAPPING APPS&quot;.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;h3&gt;X-Plane 11&lt;/h3&gt;
-
-&lt;p&gt;Ouvrez la fenêtre &quot;Paramètres&quot; et choisissez l&apos;onglet &quot;Réseau&quot;. Cherchez le groupe &quot;Rôle de la machine&quot; sur le côté droit. Ouvrez la section &quot;iPHONE, iPAD, et APPS EXTERNES&quot; et sélectionnez &quot;Transmettre à toutes les applications sur le réseau&quot; sous le titre &quot;AUTRES APPS&quot;.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;h3&gt;Other programs&lt;/h3&gt;
-
-&lt;p&gt;The flight simulator needs to be set up to send UDP datagrams in one of the
-standard formats &quot;GDL90&quot; or &quot;XGPS&quot; to ports 4000 or 49002.  Given the choice,
-GDL90 is generally the preferred format.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;h3&gt;Autres programmes&lt;/h3&gt;
-
-&lt;p&gt;Le simulateur doit être paramètré pour envoyer des données UDP dans un des formats standards &quot;GDL90&quot; ou &quot;XGPS&quot; aux ports 4000 ou 49002.  Si vous avez le choix, préfèrez le format GDL90.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;h2&gt;Troubleshooting&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; treats flight simulators as traffic receivers.  To
-see the connection status, open the main menu and navigate to the &quot;Information&quot;
-menu.  If the entry &quot;Traffic Receiver&quot; is highlighted in green, then &lt;strong&gt;Enroute
-Flight Navigation&lt;/strong&gt; has already found the program in the network and has
-connected to it.  If not, then select the entry. The &quot;Traffic Receiver Status&quot;
-page will open, which explains the connection status in more detail.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;h2&gt;Résolution des bugs&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; traite les simulateurs de vol en tant que récepteur de traffic. Pour vérifier le statut de la connexion, ouvrez le menu principal et allez dans le menu &quot;Information&quot;. Si l&apos;entrée &quot;Récepteur de Traffic&quot; est surligné en vert, alors &lt;strong&gt;Enroute
-Flight Navigation&lt;/strong&gt; a déjà trouvé le simulateur et s&apos;y est connecté. Sinon, cliquez sur l&apos;enrée. La page &quot;Statut du Récepteur de Traffic&quot; s&apos;ouvrira, et donnera plus d&apos;informations sur l&apos;état de la connexion.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
-        <source>**The moving map can now optionally display glider sectors.** Update your aviation maps and go to Menu/Settings to enable this feature.</source>
-        <translation type="vanished">**La carte peut maintenant afficher les secteurs pour les planeurs.** Mettez à jour vos cartes et allez dans les paramètres pour activer cette option.</translation>
-    </message>
-    <message>
-        <source>**We need help with the Italian translation.** If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.</source>
-        <translation type="vanished">**Nous recherchons des volontaires pour traduire l&apos;application en italien. Si vous le parlez, et que vous êtes capable d&apos;utiliser GIT, alors contactez-nous !
-        </translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Nous avons besoin d&apos;aide pour la traduction en italien.&lt;/strong&gt; Si vous voulez nous aider, que vous parlez italien et que vous savez utiliser GIT, alors n&apos;hésitez pas à nous contacter.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="128"/>
@@ -2913,17 +2424,9 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Comment connecter votre récepteur de traffic…</translation>
     </message>
     <message>
-        <source>Connect your traffic receiver</source>
-        <translation type="vanished">Connecter votre récepteur de traffic</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="159"/>
         <source>How to connect your flight simulator…</source>
         <translation>Comment connecter un simulateur de vol…</translation>
-    </message>
-    <message>
-        <source>Connect your flight simulator</source>
-        <translation type="vanished">Connecter votre simulateur de vol</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="103"/>
@@ -3739,10 +3242,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="188"/>
         <source>Connect to Traffic Receiver</source>
         <translation>Se connecter au récepteur de traffic</translation>
-    </message>
-    <message>
-        <source>Connect your traffic receiver</source>
-        <translation type="vanished">Connecter votre récepteur de traffic</translation>
     </message>
 </context>
 <context>
@@ -6795,10 +6294,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>main</name>
     <message>
-        <source>Enroute Flight Navigation</source>
-        <translation type="vanished">Enroute Flight Navigation</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/main.qml" line="110"/>
         <source>Route</source>
         <translation>Route</translation>
@@ -6906,22 +6401,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="344"/>
         <source>Read manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Lire le manuel</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="369"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir dans un navigateur</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="384"/>
         <source>Download as ebook</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger l&apos;ebook</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="398"/>
         <source>Download as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger le PDF</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="438"/>
