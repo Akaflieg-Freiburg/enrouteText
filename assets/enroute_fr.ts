@@ -1521,7 +1521,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
   &lt;/tr&gt;
 &lt;/table&gt;
 </source>
-        <translation type=>
+        <translation>
 &lt;h3&gt;Auteurs&lt;/h3&gt;
 
 &lt;br&gt;
