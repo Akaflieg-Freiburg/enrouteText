@@ -1563,7 +1563,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <source>
 &lt;h3&gt;Translations&lt;/h3&gt;
 </source>
-        <translation type>&lt;h3&gt;Traductions&lt;/h3&gt;</translation>
+        <translation>&lt;h3&gt;Traductions&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="89"/>
@@ -1579,7 +1579,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <source>
 &lt;li&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/li&gt;
 </source>
-        <translation type>
+        <translation>
 &lt;li&gt;&lt;strong&gt;Allemand:&lt;/strong&gt; Markus Sachs. Markus pilote des deltaplanes et est un &apos;co-pilote&apos; enthousiate sur tout autre type d&apos;appareil.&lt;/li&gt;
         </translation>
     </message>
@@ -1631,7 +1631,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <source>
 &lt;li&gt;Szymon Kocur (Polish translation)&lt;/li&gt;
 </source>
-        <translation type>
+        <translation>
 &lt;li&gt;Szymon Kocur (traduction en polonais)&lt;/li&gt;
         </translation>
     </message>
