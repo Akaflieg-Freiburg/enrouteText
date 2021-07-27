@@ -1187,7 +1187,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <name>FlightRouteLibrary</name>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="31"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="408"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="410"/>
         <source>Flight Route Library</source>
         <translation>Routen-Bibliothek</translation>
     </message>
@@ -1202,27 +1202,27 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <translation>Importieren …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="119"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="121"/>
         <source>Filter Flight Route Names</source>
         <translation>Routen nach Namen filtern</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="165"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="167"/>
         <source>Open …</source>
         <translation>Öffnen …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="180"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="182"/>
         <source>Export …</source>
         <translation>Exportieren …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="180"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="182"/>
         <source>Share …</source>
         <translation>Teilen …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="183"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="185"/>
         <source>… to GeoJSON file</source>
         <translation>… als GeoJSON-Datei</translation>
     </message>
@@ -1235,17 +1235,17 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <translation type="vanished">Route exportiert</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="208"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="210"/>
         <source>… to GPX file</source>
         <translation>… als GPX-Datei</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="234"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="236"/>
         <source>Open in other app …</source>
         <translation>In anderer App öffnen …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="237"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="239"/>
         <source>… in GeoJSON format</source>
         <translation>… im GeoJSON-Format</translation>
     </message>
@@ -1254,86 +1254,86 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <translation type="vanished">Route in anderer App geöffnet</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="192"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="217"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="194"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="219"/>
         <source>Aborted</source>
         <translation>Abgebrochen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="201"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="226"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="228"/>
         <source>Flight route shared</source>
         <translation>Route geteilt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="228"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="205"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="230"/>
         <source>Flight route exported</source>
         <translation>Route exportiert</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="249"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="266"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="251"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="268"/>
         <source>Flight route opened in other app</source>
         <translation>Route in anderer App geöffnet</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="254"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="256"/>
         <source>… in GPX format</source>
         <translation>… im GPX-Format</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="276"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="278"/>
         <source>Rename …</source>
         <translation>Umbenennen …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="288"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="290"/>
         <source>Remove …</source>
         <translation>Löschen …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="330"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="332"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes available. To add a route here, chose &apos;Flight Route&apos; from the main menu, edit a route and save it to the library.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Routen vorhanden. Zum Hinzufügen &apos;Route&apos; im Hauptmenü wählen, eine Route erstellen und dann speichern.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="331"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="333"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Routen passen zur Auswahl.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="368"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="370"/>
         <source>An error occurred…</source>
         <translation>Fehler aufgetreten …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="417"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="419"/>
         <source>Overwrite current flight route?</source>
         <translation>Aktuelle Route überschreiben?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="427"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="429"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Die Route &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Route. Diese kann dann nicht mehr wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="451"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="453"/>
         <source>Remove from device?</source>
         <translation>Vom Gerät löschen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="461"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="463"/>
         <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Die Route &lt;strong&gt;%1&lt;/strong&gt; kann nach dem Löschen nicht wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="473"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="475"/>
         <source>Flight route removed from device</source>
         <translation>Route vom Gerät entfernt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="541"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="543"/>
         <source>Flight route renamed</source>
         <translation>Route umbenannt</translation>
     </message>
@@ -1342,17 +1342,17 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <translation type="vanished">Route vom Gerät gelöscht</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="487"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="489"/>
         <source>Rename Flight Route</source>
         <translation>Route umbenennen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="505"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="507"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Geben Sie für die Route &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="531"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="533"/>
         <source>Rename</source>
         <translation>Umbenennen</translation>
     </message>
@@ -1361,7 +1361,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
         <translation type="vanished">Route umbenannt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="556"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="558"/>
         <source>Error exporting data…</source>
         <translation>Fehler beim Exportieren der Daten…</translation>
     </message>
