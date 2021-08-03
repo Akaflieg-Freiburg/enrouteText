@@ -50,38 +50,44 @@ MS Flight Simulator
 ^^^^^^^^^^^^^^^^^^^
 
 In order to communicate with other programs, the MS Flight Simulator requires
-additional software. Users reported that **Enroute Flight Navigation** works
-well with the inexpensive EFB-Connector program `XMapsy <http://xmapsy.com/>`_.
-Other programs might also work.  The following information has kindly been
-provided by the XMapsy developer.
+additional software.  Users reported that **Enroute Flight Navigation** works
+well with the following EFB-Connector programs.
 
-**Enroute Flight Navigation** works both with the less expensive programm
-version **XMapsy Essential** and with the full-featured version **XMapsy V3**.
-Barometric altitude date is however only provided by **XMapsy V3**.
+- `XMapsy Essential <http://xmapsy.com/>`_ (commercial, inexpensive, does not
+  provide barometric altitude data).
+- `XMapsy V3 <http://xmapsy.com/>`_ (commercial, more expensive, provides
+  barometric altitude data).
 
-If you use **XMapsy Essential**, then set the "Message-Format" to
-"XPlane/simulator".  The format is called "XGPS" in this document.  The figure
-:ref:`XMapsy-XGPS` shows the XMapsy settings dialog.
+.. note:: In MSFS2020 cold and dark mode, traffic in the air will not been
+    shown. You have to power on the avionics!
 
-.. _XMapsy-XGPS:
-.. figure:: XMapsy-XGPS.png
-   :scale: 75 %
-   :align: center
+	  
+XMapsy Essential
+  If you use XMapsy Essential, you need not to setup anything. Just start Xmapsy
+  Essential and start MSFS2020. The broadcast address will be setup
+  automatically.  The figure :ref:`XMapsyEssential` shows the settings.
+  
+  .. _XMapsyEssential:
+  .. figure:: XMapsyEssential.png
+     :scale: 75 %
+     :align: center
 
-   XMapsy settings for the "XPlane/simulator" message format
+     XMapsy Essential settings
 
+XMapsy V3
+  If you use XMapsy V3, set the “Message-Format” to “ADS-B/GDL90” and the
+  “Preferred Technology” to SIMCONNECT.  To receive the correct altitude, be
+  sure to check the box “GDL90 ownship geometric altitudes based on MSL”.  The
+  figure :ref:`XMapsyV3` shows verified XMapsy V3 settings for proper work with
+  MSFS2020.  The Broadcast address will be determined by Xmapsy and should not
+  be touched except you have extended network configuration experience.
 
-If you use **XMapsy V3**, then set the "Message-Format" to "ADS-B/GDL90".  To
-receive the correct altitude, be sure to check the box "GDL90 ownship geometric
-altitudes based on MSL".  The figure :ref:`XMapsy-GDL90` shows the XMapsy
-settings dialog.
+  .. _XMapsyV3:
+  .. figure:: XMapsyV3.png
+     :scale: 75 %
+     :align: center
 
-.. _XMapsy-GDL90:
-.. figure:: XMapsy-GDL90.png
-   :scale: 75 %
-   :align: center
-
-   XMapsy settings for the "ADS-B/GDL90" message format
+     XMapsy V3 settings
 
 
 X-Plane 11
