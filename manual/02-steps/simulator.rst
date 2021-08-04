@@ -1,15 +1,19 @@
 Connect your flight simulator
 =============================
 
-**Enroute Flight Navigation** can connect to flight simulator software.  The app
-has been tested with the following programs.
+**Enroute Flight Navigation** can connect to flight simulator software.  When
+setup correctly, position and traffic information is sent from the flight
+simulator via WiFi to the device that runs **Enroute Flight Navigation**.
 
-- `X-Plane 11 <https://www.x-plane.com/>`_
+The author has tested **Enroute Flight Navigation** with the following flight
+simulator programs.
+
+- `X-Plane 11`_
 
 Users have reported success with the following programs.
 
-- `Microsoft Flight Simulator (2020) <https://www.flightsimulator.com/>`_
-- `X-Plane 10 <https://www.x-plane.com/>`_
+- `MS Flight Simulator`_
+- `X-Plane 10`_
 
 Please contact us if you are aware of other programs that also work.
 
@@ -51,17 +55,42 @@ MS Flight Simulator
 
 In order to communicate with other programs, the MS Flight Simulator requires
 additional software.  Users reported that **Enroute Flight Navigation** works
-well with the following EFB-Connector programs.
+well with the following EFB-connector programs.
 
+- `fs2ff <https://github.com/astenlund/fs2ff>`__ (free, open source)
 - `XMapsy Essential <http://xmapsy.com/>`_ (commercial, inexpensive, does not
   provide barometric altitude data).
 - `XMapsy V3 <http://xmapsy.com/>`_ (commercial, more expensive, provides
   barometric altitude data).
 
+The `web site of the commerical EFB program ForeFlight
+<https://foreflight.com/support/support-center/category/about-foreflight-mobile/204115275>`_
+lists additional EFB-connector programs that might also work.
+  
 .. note:: In MSFS2020 cold and dark mode, traffic in the air will not been
     shown. You have to power on the avionics!
 
-	  
+.. note:: At the time of writing (04Aug21), the MS Flight Simulator reports only
+    traffic that has a tail number.  This is likely due to a bug in the MS
+    Flight Simulator software.
+
+
+fs2ff
+  The program `fs2ff <https://github.com/astenlund/fs2ff>`__ does not require
+  any complicated installation or setup, just download and run.  The latest
+  release of fs2ff can be downloaded `here
+  <https://github.com/astenlund/fs2ff/releases/latest>`__.  Detailed instruction
+  are found `here
+  <https://github.com/astenlund/fs2ff#fs2ff-flight-simulator-to-foreflight>`__.
+  The figure :ref:`fs2ff-img` shows extremely simple settings window.
+  
+  .. _fs2ff-img:
+  .. figure:: fs2ff.png
+     :scale: 75 %
+     :align: center
+
+     fs2ff settings
+
 XMapsy Essential
   If you use XMapsy Essential, you need not to setup anything. Just start Xmapsy
   Essential and start MSFS2020. The broadcast address will be setup
