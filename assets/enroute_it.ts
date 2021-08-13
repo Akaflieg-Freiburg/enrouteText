@@ -4537,6 +4537,52 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     </message>
 </context>
 <context>
+    <name>PasswordDialog</name>
+    <message>
+        <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="51"/>
+        <source>Enter the password for the traffic data receiver in the WiFi network &lt;strong&gt;%1&lt;/strong&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="60"/>
+        <source>Password</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="66"/>
+        <source>Show clear text</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PasswordStorageDialog</name>
+    <message>
+        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="43"/>
+        <source>Store password?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="48"/>
+        <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now connected to the traffic data receiver in the WiFi network &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="49"/>
+        <source>&lt;p&gt;Would you like to store the password for the traffic data receiver? Note that the stored password will not be encrypted. You can clear the password storage from the setting page.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="56"/>
+        <source>Store</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="60"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancella</translation>
+    </message>
+</context>
+<context>
     <name>Positioning</name>
     <message>
         <source>Satellite Status</source>
@@ -4785,21 +4831,51 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Settori alianti visualizzati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="144"/>
+        <source>Clear password storage</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="151"/>
         <source>Help</source>
         <translation>Aiuto</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="160"/>
         <source>How to connect your traffic receiver…</source>
         <translation>Come connettere il tuo ricevitore di traffico...</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="193"/>
+        <source>Clear password storage?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="198"/>
+        <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="204"/>
+        <source>Clear</source>
+        <translation type="unfinished">Cancella</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="208"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancella</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="218"/>
+        <source>Password storage cleared</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connect your traffic receiver</source>
         <translation type="vanished">Connetti il tuo ricevitore di traffico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="159"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="167"/>
         <source>How to connect your flight simulator…</source>
         <translation>Come connettere un simulatore di volo...</translation>
     </message>
@@ -4909,22 +4985,22 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Dati del ricevitore di traffico</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="317"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="332"/>
         <source>Receiving traffic data.</source>
         <translation>Ricezione dati di traffico.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="319"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="334"/>
         <source>Receiving position info.</source>
         <translation>Ricezione informazioni di posizione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="322"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="337"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Ricezione info barometriche di altitudine.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="329"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="344"/>
         <source>Not receiving traffic data.</source>
         <translation>Non ricevo dati di traffico.</translation>
     </message>
@@ -5371,32 +5447,32 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Si è verificato un errore non identificato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="134"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="130"/>
         <source>Performing host name lookup.</source>
         <translation>Ricerca del nome host.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="137"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="133"/>
         <source>Trying to establish a connection.</source>
         <translation>Tentativo di stabile una connessione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="140"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="136"/>
         <source>Connected.</source>
         <translation>Connesso.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="143"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="139"/>
         <source>Bound to an address and port, but not connected yet.</source>
         <translation>Associato a un indirizzo e una porta, ma non ancora connesso.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="146"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="142"/>
         <source>Closing.</source>
         <translation>Chiusura.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="149"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="145"/>
         <source>Not connected.</source>
         <translation>Non connesso.</translation>
     </message>
@@ -9544,19 +9620,19 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Enroute Flight Navigation è una app libera per piloti VFR, sviuluppata da Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="117"/>
+        <location filename="../../../src/main.cpp" line="119"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation è un&apos;app di navigazione per piloti VFR,
 sviluppata e progettata da Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="120"/>
+        <location filename="../../../src/main.cpp" line="122"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation>Esegui il simulatore e genera uno screenshots per il manuale</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="122"/>
+        <location filename="../../../src/main.cpp" line="124"/>
         <source>File to import.</source>
         <translation>File da importare.</translation>
     </message>
