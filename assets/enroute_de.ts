@@ -2686,8 +2686,12 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
+        <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports traffic data receivers that require a password in addition to the WiFi password.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; To try it out, Open the main menu and choose the item &apos;Manual&apos;.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Das Handbuch ist jetzt fest in die App eingebaut.&lt;/strong&gt; Zum Ausprobieren öffnen Sie das Hauptmenü und wählen Sie den Punkt &apos;Handbuch&apos;.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Das Handbuch ist jetzt fest in die App eingebaut.&lt;/strong&gt; Zum Ausprobieren öffnen Sie das Hauptmenü und wählen Sie den Punkt &apos;Handbuch&apos;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="289"/>

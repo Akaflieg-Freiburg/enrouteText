@@ -1673,9 +1673,8 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; To try it out, Open the main menu and choose the item &apos;Manual&apos;.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Le manuel est maintenant accessible depuis l&apos;application&lt;/strong&gt; via le menu principal.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Le manuel est maintenant accessible depuis l&apos;application&lt;/strong&gt; via le menu principal.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="289"/>
@@ -1793,6 +1792,11 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;
 </translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="287"/>
+        <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports traffic data receivers that require a password in addition to the WiFi password.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>

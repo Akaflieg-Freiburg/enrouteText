@@ -2954,8 +2954,12 @@ oraz **importu planu lotu**.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
+        <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports traffic data receivers that require a password in addition to the WiFi password.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; To try it out, Open the main menu and choose the item &apos;Manual&apos;.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Instrukcja użytkownika jest wbudowana w aplikację.&lt;/strong&gt; Aby jej spróbować, otwórz główne menu i wybierz &apos;Instrukcja użytkownika&apos;.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Instrukcja użytkownika jest wbudowana w aplikację.&lt;/strong&gt; Aby jej spróbować, otwórz główne menu i wybierz &apos;Instrukcja użytkownika&apos;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
