@@ -4378,64 +4378,72 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Pozycjonowanie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="60"/>
         <source>&lt;h3&gt;Status&lt;/h3&gt;</source>
-        <translation>&lt;h3&gt;Status&lt;/h3&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Status&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="96"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="62"/>
+        <source>Status</source>
+        <translation type="unfinished">Status</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="103"/>
+        <source>Position Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="109"/>
         <source>Latitude</source>
         <translation>Szerokość</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="109"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="122"/>
         <source>Longitude</source>
         <translation>Długość</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="121"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="134"/>
         <source>True Altitude</source>
         <translation>Rzeczywista wysokość</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="129"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="142"/>
         <source>Error (horizontal)</source>
         <translation>Błąd (poziomy)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="137"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="150"/>
         <source>Error (vertical)</source>
         <translation>Błąd (pionowy)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="146"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="159"/>
         <source>Magnetic Variation</source>
         <translation>Wariacja magnetyczna</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="153"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="166"/>
         <source>Ground Speed</source>
         <translation>Prędkość wzg. ziemi</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="163"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="176"/>
         <source>True Track</source>
         <translation>Rzeczywisty tor lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="171"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="184"/>
         <source>Vertical Speed</source>
         <translation>Pionowa prędkość</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="179"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="192"/>
         <source>Pressure Altitude</source>
         <translation>Wysokość wzgl. ciśnienia</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="192"/>
         <source>Connect your traffic receiver</source>
-        <translation>Podłącz twój odbiornik ruchu lotniczego</translation>
+        <translation type="vanished">Podłącz twój odbiornik ruchu lotniczego</translation>
     </message>
     <message>
         <source>Error</source>
@@ -5850,22 +5858,44 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>TrafficReceiver</name>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="33"/>
         <source>Traffic Receiver</source>
-        <translation>Odbiornik ruchu lotniczego</translation>
+        <translation type="vanished">Odbiornik ruchu lotniczego</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="111"/>
         <source>&lt;h3&gt;Status&lt;/h3&gt;</source>
-        <translation>&lt;h3&gt;Status&lt;/h3&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Status&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="149"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="33"/>
+        <source>Traffic Data Receiver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="62"/>
+        <source>Status</source>
+        <translation type="unfinished">Status</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="99"/>
         <source>&lt;p&gt;Well done! Go flying. Give yourself a pat on the back.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Super! Leć już. Poklep się po plecach.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="160"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="128"/>
+        <source>Help</source>
+        <translation type="unfinished">Pomoc</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="138"/>
+        <source>How to connect your traffic receiver…</source>
+        <translation type="unfinished">Jak podłączyć twój odbiornik ruchu lotniczego...</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="146"/>
+        <source>How to connect your flight simulator…</source>
+        <translation type="unfinished">Jak podłączyć twój symulator lotu...</translation>
+    </message>
+    <message>
         <source>
 &lt;p&gt;If no traffic data has arrived after a few seconds, something has gone wrong.&lt;/p&gt;
 
@@ -5875,7 +5905,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 &lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;p&gt;Jeśli dane ruchu lotniczego nie pojawią się po kilku sekundach, stało się coś złego.&lt;/p&gt;
 
 &lt;ul style=&quot;margin-left:-25px;&quot;&gt;
@@ -5946,7 +5976,6 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Ostatni błąd</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="151"/>
         <source>
 &lt;h3&gt;How to connect your device to the traffic receiver&lt;/h3&gt;
 
@@ -5956,7 +5985,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 &lt;li&gt;Once your device has entered the WLAN network, use the button at the bottom of the page to connect the &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; to the traffic data stream.&lt;/li&gt;
 &lt;/ul&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h3&gt;Jak podłączyć twoje urządzenie do odbiornika ruchu lotniczego&lt;/h3&gt;
 
 &lt;ul style=&quot;margin-left:-25px;&quot;&gt;
@@ -6009,7 +6038,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 &lt;p&gt;Dobra robota! Do lotu gotowi start. Poklep się po plecach.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="188"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="106"/>
         <source>Connect to Traffic Receiver</source>
         <translation>Połącz do odbiornika ruchu lotniczego</translation>
     </message>
