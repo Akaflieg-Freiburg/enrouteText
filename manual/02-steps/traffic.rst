@@ -42,8 +42,13 @@ Compatibility
 traffic receivers.  The author has tested the app with the following receivers.
 
 - `AT-1 AIR Traffic <http://www.air-avionics.com/?page_id=253>`_ by `Air
-  Avionics <http://www.air-avionics.com/>`_ with software version 5.
+  Avionics <http://www.air-avionics.com/>`__ with software version 5.
 
+- `PowerFLARM Core <https://flarm.com/flarm-product/powerflarm-core-pure/>`_ by
+  `FLARM Technology Ltd <https://flarm.com/>`_, and `AIR Connect
+  <https://www.air-avionics.com/?page_id=401>`_ WiFi Adaptor by `Air Avionics
+  <http://www.air-avionics.com/>`__
+  
 Users reported success with the following traffic receivers.
 
 - `PilotAware Rosetta <https://www.pilotaware.com/rosetta/>`_
@@ -69,9 +74,8 @@ following conditions are met.
 - You know the network name (=SSID) of the Wi-Fi network deployed by your
   traffic receiver. If the network is encrypted, you also need to know the Wi-Fi
   password.
-- Some devices require an additional password in order to access traffic
-  data. This is currently **not** supported. Set up your device so that no
-  additional password is required.
+- Some devices require an additional password in order to access traffic data.
+  If this is the case, you will need to know this password.
 
   
 Connect to the traffic receiver
