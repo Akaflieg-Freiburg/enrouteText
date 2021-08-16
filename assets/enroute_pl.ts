@@ -2955,7 +2955,7 @@ oraz **importu planu lotu**.
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports traffic data receivers that require a password in addition to the WiFi password.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; obecnie wspiera odbiorniki ruchu lotniczego, które wymagają hasła dodatkowego względem hasła WiFi.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; To try it out, Open the main menu and choose the item &apos;Manual&apos;.&lt;/p&gt;</source>
@@ -4305,17 +4305,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="51"/>
         <source>Enter the password for the traffic data receiver in the WiFi network &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź hasło dla odbiornika ruchu lotniczego w sieci WiFI &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="60"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Hasło</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="66"/>
         <source>Show clear text</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż hasło</translation>
     </message>
 </context>
 <context>
@@ -4323,27 +4323,27 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="43"/>
         <source>Store password?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisać hasło?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="48"/>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now connected to the traffic data receiver in the WiFi network &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; jest teraz połączony do odbiornika ruchu lotniczego w sieci WiFi &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="49"/>
         <source>&lt;p&gt;Would you like to store the password for the traffic data receiver? Note that the stored password will not be encrypted. You can clear the password storage from the setting page.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Czy chcesz zapisać hasło do odbiornika ruchu lotniczego? Zauważ, że zapisane hasło nie będzie zaszyfrowane. Możesz wyczyścić magazyn haseł ze strony ustawień.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="56"/>
         <source>Store</source>
-        <translation type="unfinished"></translation>
+        <translation>Zapisz</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -4384,12 +4384,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="62"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="103"/>
         <source>Position Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane pozycji</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="109"/>
@@ -4615,7 +4615,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="144"/>
         <source>Clear password storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść magazyn haseł</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="151"/>
@@ -4630,27 +4630,27 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="193"/>
         <source>Clear password storage?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyścić magazyn haseł?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="198"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
-        <translation type="unfinished"></translation>
+        <translation>W momencie wyczyszczenia magazynu, hasła nie mogą być odczytane.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="204"/>
         <source>Clear</source>
-        <translation type="unfinished">Wyczyść</translation>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="208"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="218"/>
         <source>Password storage cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Magazyn haseł wyczyszczony</translation>
     </message>
     <message>
         <source>Connect your traffic receiver</source>
@@ -5868,12 +5868,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="33"/>
         <source>Traffic Data Receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbiornik ruchu lotniczego</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="62"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="99"/>
@@ -5883,17 +5883,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="128"/>
         <source>Help</source>
-        <translation type="unfinished">Pomoc</translation>
+        <translation>Pomoc</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="138"/>
         <source>How to connect your traffic receiver…</source>
-        <translation type="unfinished">Jak podłączyć twój odbiornik ruchu lotniczego...</translation>
+        <translation>Jak podłączyć twój odbiornik ruchu lotniczego...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="146"/>
         <source>How to connect your flight simulator…</source>
-        <translation type="unfinished">Jak podłączyć twój symulator lotu...</translation>
+        <translation>Jak podłączyć twój symulator lotu...</translation>
     </message>
     <message>
         <source>
