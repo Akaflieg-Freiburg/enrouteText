@@ -4091,7 +4091,7 @@ L&apos;app è stata testata con i seguenti programmi.&lt;/p&gt;
         <translation type="vanished">&lt;p&gt;&lt;strong&gt;Le mappe di navigazione non sono state installate.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Andate nel Menu &lt;strong&gt;Impostazioni/Archivi/Mappe&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="465"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="472"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the button ☰ in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
@@ -4100,27 +4100,27 @@ Choose &lt;strong&gt;Library/Maps&lt;/strong&gt; to open the map management page
 Scegli &lt;strong&gt; Archivio / Mappe &lt;/strong&gt; per aprire la pagina di gestione della mappa. &lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="499"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="506"/>
         <source>Map Mode: Track Up</source>
         <translation>Modalità cartina: rotta in alto</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="502"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="509"/>
         <source>Map Mode: North Up</source>
         <translation>Modalità cartina: nord in alto</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="525"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="532"/>
         <source>Map Mode: Autopan</source>
         <translation>Modalità cartina: automatico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="625"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="632"/>
         <source>Map Data Copyright Info</source>
         <translation>Copyright Info Mappe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="631"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="638"/>
         <source>Map Data Copyright Information</source>
         <translation>Informazioni Copyright Mappe</translation>
     </message>
@@ -4878,7 +4878,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="unfinished">Cancella</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="218"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="217"/>
         <source>Password storage cleared</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5572,7 +5572,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Il file non può essere copiato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.h" line="60"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.h" line="61"/>
         <source>Simulator file %1</source>
         <translation>File simulatore %1</translation>
     </message>
