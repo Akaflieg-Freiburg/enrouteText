@@ -2687,7 +2687,7 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports traffic data receivers that require a password in addition to the WiFi password.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; unterstützt jetzt Verkehrsdatenempfänger, die neben dem WLAN-Passwort ein weiteres benötigen.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; To try it out, Open the main menu and choose the item &apos;Manual&apos;.&lt;/p&gt;</source>
@@ -4907,17 +4907,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="51"/>
         <source>Enter the password for the traffic data receiver in the WiFi network &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie das Passwort des Verkehrsdatenempfängers für das WLAN &lt;strong&gt;%1&lt;/strong&gt; ein.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="60"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Passwort</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="66"/>
         <source>Show clear text</source>
-        <translation type="unfinished"></translation>
+        <translation>Im Klartext anzeigen</translation>
     </message>
 </context>
 <context>
@@ -4925,27 +4925,27 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="43"/>
         <source>Store password?</source>
-        <translation type="unfinished"></translation>
+        <translation>Passwort speichern?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="48"/>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now connected to the traffic data receiver in the WiFi network &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ist jetzt mit dem Verkehrsdatenempfänger im WLAN &lt;strong&gt;%1&lt;/strong&gt; verbunden.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="49"/>
         <source>&lt;p&gt;Would you like to store the password for the traffic data receiver? Note that the stored password will not be encrypted. You can clear the password storage from the setting page.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Wollen Sie das Passwort für den Verkehrsdatenempfänger speichern? Es wird unverschlüsselt gespeichert. Sie können den Passwortspeicher in den Einstellungen wieder löschen.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="56"/>
         <source>Store</source>
-        <translation type="unfinished"></translation>
+        <translation>Speichern</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -4987,12 +4987,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="62"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="103"/>
         <source>Position Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Positionsdaten</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="109"/>
@@ -5208,7 +5208,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="144"/>
         <source>Clear password storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Passwortspeicher löschen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="151"/>
@@ -5223,27 +5223,27 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="193"/>
         <source>Clear password storage?</source>
-        <translation type="unfinished"></translation>
+        <translation>Passwortspeicher löschen?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="198"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Passwörter können nach dem Löschen NICHT wiederhergestellt werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="204"/>
         <source>Clear</source>
-        <translation type="unfinished">Löschen</translation>
+        <translation>Löschen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="208"/>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="218"/>
         <source>Password storage cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Passwortspeicher gelöscht</translation>
     </message>
     <message>
         <source>Connect your traffic receiver</source>
@@ -6515,12 +6515,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="33"/>
         <source>Traffic Data Receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkehrsdatenempfänger</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="62"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="99"/>
@@ -6530,17 +6530,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="128"/>
         <source>Help</source>
-        <translation type="unfinished">Hilfe</translation>
+        <translation>Hilfe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="138"/>
         <source>How to connect your traffic receiver…</source>
-        <translation type="unfinished">Wie man sich mit dem Verkehrsdatenempfänger verbindet ...</translation>
+        <translation>Wie man sich mit dem Verkehrsdatenempfänger verbindet ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="146"/>
         <source>How to connect your flight simulator…</source>
-        <translation type="unfinished">Mit Ihrem Flugsimulator verbinden ...</translation>
+        <translation>Mit Ihrem Flugsimulator verbinden ...</translation>
     </message>
     <message>
         <source>
