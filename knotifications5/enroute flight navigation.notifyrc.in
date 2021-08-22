@@ -8,7 +8,11 @@ Comment[pl]=Aplikacja do nawigacji lotniczej dla pilotów VFR
 Comment[it]=App di navigazione per piloti VFR
 DesktopEntry=de.akaflieg_freiburg.enroute
 
-
 [Event/downloading]
 Name=Downloading map data…
 Action=Popup
+
+[Event/trafficReceiverProblem]
+Name=Traffic receiver problem
+Action=Popup
+Urgency=Normal
