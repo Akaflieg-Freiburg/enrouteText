@@ -1673,10 +1673,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 </translation>
     </message>
     <message>
-        <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; To try it out, Open the main menu and choose the item &apos;Manual&apos;.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Le manuel est maintenant accessible depuis l&apos;application&lt;/strong&gt; via le menu principal.&lt;/p&gt;</translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="289"/>
         <source>&lt;p&gt;&lt;strong&gt;Google now counts more than 10.000 active installations of this app.&lt;/strong&gt; Thanks to everybody who made this success possible!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Il y a maintenant plus de 10.000 installations de l&apos;application.&lt;/strong&gt; Merci à tous ceux qui ont rendu ce succès possible!&lt;/p&gt;</translation>
@@ -1796,7 +1792,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports traffic data receivers that require a password in addition to the WiFi password.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; supportes maintenant les récepteurs de données traffic protégés par mot de passe.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
@@ -2234,17 +2230,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="51"/>
         <source>Enter the password for the traffic data receiver in the WiFi network &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le mot de passe pour le récepteur de données de traffic du réseau WiFi &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="60"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Mot de passe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="66"/>
         <source>Show clear text</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher</translation>
     </message>
 </context>
 <context>
@@ -2252,27 +2248,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="43"/>
         <source>Store password?</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer le mot de passe ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="48"/>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now connected to the traffic data receiver in the WiFi network &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est maintenant connecté au récepteur de données de traffic du réseau WiFi &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="49"/>
         <source>&lt;p&gt;Would you like to store the password for the traffic data receiver? Note that the stored password will not be encrypted. You can clear the password storage from the setting page.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Voulez-vous enregistrer ce mot de passe pour le récepteur de données de traffic? Veuillez noter que ce mot de passe ne sera pas crypté. Vous pouvez l&apos;effacer depuis la page des paramètres.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="56"/>
         <source>Store</source>
-        <translation type="unfinished"></translation>
+        <translation>Enregistrer</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="60"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
@@ -2283,18 +2279,14 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Positionnement</translation>
     </message>
     <message>
-        <source>&lt;h3&gt;Status&lt;/h3&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Statut&lt;/h3&gt;</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="62"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="103"/>
         <source>Position Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Données de position</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="109"/>
@@ -2345,10 +2337,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/Positioning.qml" line="192"/>
         <source>Pressure Altitude</source>
         <translation>Altitude pression</translation>
-    </message>
-    <message>
-        <source>Connect your traffic receiver</source>
-        <translation type="vanished">Connecter votre récepteur de traffic</translation>
     </message>
 </context>
 <context>
@@ -2473,7 +2461,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="144"/>
         <source>Clear password storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer les mots de passe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="151"/>
@@ -2493,27 +2481,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="193"/>
         <source>Clear password storage?</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer les mots de passe ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="198"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une fois que les mots de passe ont été effacés, ils ne pourront plus être récupérés</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="204"/>
         <source>Clear</source>
-        <translation type="unfinished">Effacer</translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="208"/>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="217"/>
         <source>Password storage cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Mots de passe effacés</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="103"/>
@@ -3270,22 +3258,14 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>TrafficReceiver</name>
     <message>
-        <source>Traffic Receiver</source>
-        <translation type="vanished">Récepteur de traffic</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Status&lt;/h3&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Statut&lt;/h3&gt;</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="33"/>
         <source>Traffic Data Receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Récepteur de données de traffic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="62"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="99"/>
@@ -3295,56 +3275,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="128"/>
         <source>Help</source>
-        <translation type="unfinished">Aide</translation>
+        <translation>Aide</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="138"/>
         <source>How to connect your traffic receiver…</source>
-        <translation type="unfinished">Comment connecter votre récepteur de traffic…</translation>
+        <translation>Comment connecter votre récepteur de traffic…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="146"/>
         <source>How to connect your flight simulator…</source>
-        <translation type="unfinished">Comment connecter un simulateur de vol…</translation>
-    </message>
-    <message>
-        <source>
-&lt;h3&gt;How to connect your device to the traffic receiver&lt;/h3&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-&lt;li&gt;Make sure that your traffic receiver has an integrated Wi-Fi interface that acts as a wireless access point. Bluetooth devices are currently not supported.&lt;/li&gt;
-&lt;li&gt;Use the &apos;WLAN Settings&apos; of your device to enter the WLAN network deployed by your traffic receiver.&lt;/li&gt;
-&lt;li&gt;Once your device has entered the WLAN network, use the button at the bottom of the page to connect the &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; to the traffic data stream.&lt;/li&gt;
-&lt;/ul&gt;
-</source>
-        <translation type="vanished">
-&lt;h3&gt;Comment se connecter au récepteur de traffic&lt;/h3&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-&lt;li&gt;Assurez-vous que le récepteur émette un réseau WLAN via WiFi. Les récepteurs Bluetooth ne sont pas supportés pour le moment.&lt;/li&gt;
-&lt;li&gt;Utilisez les &apos;paramètres WLAN&apos; de votre appareil pour entrer le nom (et éventuellement le mot de passe) du réseau WLAN émis par votre récepteur.&lt;/li&gt;
-&lt;li&gt;Une fois votre appareil connecté au réseau, appuyez sur le bouton en bas de la page pour connecter &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; au flux de données de traffic.&lt;/li&gt;
-&lt;/ul&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;p&gt;If no traffic data has arrived after a few seconds, something has gone wrong.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-&lt;li&gt;Make sure that your device has entered the WLAN network deployed by your traffic receiver.  If not, then use the button at the bottem of the screen to abort the connection attempt.&lt;/li&gt;
-&lt;li&gt;Some traffic receivers protect the data stream with an additional password. This is currently not supported.&lt;/li&gt;
-&lt;li&gt;Click on the question mark in the page title to open a more detailed help dialog.&lt;/li&gt;
-&lt;/ul&gt;
-</source>
-        <translation type="vanished">
-&lt;p&gt;Si les données de traffic n&apos;arrivent pas après quelques secondes, la procédure a échoué.&lt;/p&gt;
-
-&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
-&lt;li&gt;Assurez-vous que votre appareil est connecté au réseau WLAN émis par le récepeur. Si ce n&apos;est pas le cas, annulez la tentative de connexion en utilisant le bouton en bas de page.&lt;/li&gt;
-&lt;li&gt;Certains récepteurs protègent leur flux de données avec un mot de passe additionnel. Cette option n&apos;est pas supportée pour le moment.&lt;/li&gt;
-&lt;li&gt;Cliquez sur le point d&apos;interrogation dans le titre de la page pour ouvrir un dialogue d&apos;aide avancée.&lt;/li&gt;
-</translation>
+        <translation>Comment connecter un simulateur de vol…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="106"/>
