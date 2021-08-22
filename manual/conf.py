@@ -79,7 +79,7 @@ html_sidebars = {
     ]
 }
 
-html_favicon = "enroute.png"
+html_favicon = "de.akaflieg_freiburg.enroute.png"
 
 # -- Options for LaTeX output -------------------------------------------------
 

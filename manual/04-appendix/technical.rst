@@ -2,8 +2,8 @@
 Technical Notes
 ===============
 
-Traffic Receiver
-----------------
+Traffic Data Receiver support
+-----------------------------
 
 Communication
 ^^^^^^^^^^^^^
@@ -45,7 +45,6 @@ The GDL90 protocol has a number of shortcomings, and we recommend to use
 FLARM/NMEA whenever possible.  We are aware of the following issues.
 
 Altitude measurements
-
   According to the GDL90 Specification, the ownship geometric height is reported
   as height above WGS-84 ellipsoid.  There are however many devices on the
   market that wrongly report height above main sea level.  Different apps have
@@ -60,7 +59,6 @@ Altitude measurements
 
 
 MODE-S traffic
-  
   Most traffic receivers see traffic equipped with MODE-S transponders and can
   give an estimate for the distance to the traffic.  They are, however, unable
   to obtain the precise traffic position.  Unlike FLARM/NMEA, the GDL90
@@ -97,3 +95,34 @@ This broadcast will be a JSON message, with at least these fields:
   }
 
 The GDL90 "port" field is currently 4000, but might change in the future.
+
+
+.. _skyEcho:
+
+Known issues with SkyEcho devices
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Enroute Flight Navigation** works fine with SkyEcho devices. There are,
+however, several shortcomings that users should be aware of.
+
+Unidirectional FLARM
+  The SkyEcho can receive FLARM signals, but cannot send them.  The SkyEcho
+  device cannot be seen by other FLARM users.  The author of **Enroute Flight
+  Navigation** is not convinced that unidirectionl FLARM is a good idea.
+
+FLARM Output 
+  uAvionix follows an unusual business model.  The FLARM/NMEA output of the
+  SkyEcho is encrypted.  To read the FLARM data, all apps need to include
+  commercial, closed-source decryption libraries that must be purchased by the
+  app users.  The author of **Enroute Flight Navigation** feels that this is
+  incompatible with the idea of free, open source software.
+
+  To communicate with SkyEcho devices, **Enroute Flight Navigation** will switch
+  to the GDL90 protocol.
+
+Alitmeter readings
+  SkyEcho includes an integrated barometric altimeter, but does not have any
+  access to static pressure.  To estimate the barometric altitude, the SkyEcho
+  correlates cabin pressure altitude to altitudes of nearby traffic.  The author
+  of **Enroute Flight Navigation** is not convinced that this method gives
+  altimeter readings that are sufficiently realiable for aviation purposes.
