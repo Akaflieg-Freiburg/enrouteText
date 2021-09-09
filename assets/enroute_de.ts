@@ -4499,89 +4499,89 @@ Wählen Sie &lt;strong&gt;Bibliothek/Karten&lt;/strong&gt; um zum Kartenmanageme
 <context>
     <name>MapManager</name>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="31"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="33"/>
         <source>Map Library</source>
         <translation>Karten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="59"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="61"/>
         <source>aviation maps</source>
         <translation>Luftfahrtkarten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="62"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="64"/>
         <source>base maps</source>
         <translation>Basiskarten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="150"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="152"/>
         <source>Map Info</source>
         <translation>Karteninfo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="154"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="156"/>
         <source>Map Info: </source>
         <translation>Karteninfo:</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="162"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="164"/>
         <source>Uninstall</source>
         <translation>Deinstallieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="178"/>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="488"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="180"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="490"/>
         <source>Download Error</source>
         <translation>Fehler beim Download</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="179"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="181"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Download fehlgeschlagen: &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Grund: %2.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="247"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="249"/>
         <source>Update list of maps</source>
         <translation>Liste der Karten aktualisieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="259"/>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="473"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="261"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="475"/>
         <source>Download all updates…</source>
         <translation>Alle Aktualisierungen herunterladen …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="283"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="285"/>
         <source>Aviation Maps</source>
         <translation>Luftfahrtkarten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="286"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="288"/>
         <source>Base Maps</source>
         <translation>Basiskarten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="327"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="329"/>
         <source>How to request additional aviation maps…</source>
         <translation>Wie man zusätzliche Luftfahrtkarten anfordert ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="334"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="336"/>
         <source>Request additional aviation maps</source>
         <translation>Zusätzliche Luftfahrtkarten anfordern</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="408"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="410"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste der verfügbaren Karten wurde noch nicht vom Server geladen. Sie können das über &apos;Aktualisieren&apos; im Menü anstoßen. Suchen Sie dafür nach dem Symbol &apos;&amp;#8942;&apos; in der Ecke  rechts oben auf dem Schirm.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="434"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="436"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Download läuft …&lt;/h3&gt;&lt;p&gt;Bitte einen Moment Geduld, während wir die Liste der verfügbaren Karten herunterladen…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="489"/>
+        <location filename="../../../src/qml/pages/MapManager.qml" line="491"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Download der Liste der Luftfahrtkarten fehlgeschlagen.&lt;/p&gt;&lt;p&gt;Grund: %1.&lt;/p&gt;</translation>
     </message>
@@ -4605,10 +4605,8 @@ Wählen Sie &lt;strong&gt;Bibliothek/Karten&lt;/strong&gt; um zum Kartenmanageme
 <context>
     <name>MobileAdaptor</name>
     <message>
-        <location filename="../../../src/MobileAdaptor.cpp" line="178"/>
-        <location filename="../../../src/MobileAdaptor.cpp" line="187"/>
         <source>Downloading map data…</source>
-        <translation>Kartendaten werden heruntergeladen …</translation>
+        <translation type="vanished">Kartendaten werden heruntergeladen …</translation>
     </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="49"/>
@@ -4946,6 +4944,29 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="60"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
+    </message>
+</context>
+<context>
+    <name>Platform::Notifier</name>
+    <message>
+        <location filename="../../../src/platform/Notifier.cpp" line="28"/>
+        <source>Downloading map data…</source>
+        <translation type="unfinished">Kartendaten werden heruntergeladen …</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier.cpp" line="30"/>
+        <source>Traffic data receiver problem</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier.cpp" line="32"/>
+        <source>Traffic data receiver self test error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="85"/>
+        <source>Open Application</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5392,22 +5413,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Verkehrsdatenempfänger</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="332"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="380"/>
         <source>Receiving traffic data.</source>
         <translation>Empfange Verkehrsdaten.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="334"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="382"/>
         <source>Receiving position info.</source>
         <translation>Empfange Positionsdaten.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="337"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="385"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Empfange barometrische Höhe.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="344"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="392"/>
         <source>Not receiving traffic data.</source>
         <translation>Empfange keine Verkehrsdaten.</translation>
     </message>
@@ -5415,220 +5436,236 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Abstract</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="379"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="381"/>
         <source>No Error</source>
         <translation>Kein Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="382"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="384"/>
         <source>Normal Operation</source>
         <translation>Arbeitet normal</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="385"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="387"/>
         <source>Reduced Functionality</source>
         <translation>Eingeschränkte Funktionalität</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="388"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="390"/>
         <source>Device INOP</source>
         <translation>Gerät außer Betrieb</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="392"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="394"/>
         <source>Error code: %1</source>
         <translation>Fehlercode: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="395"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="397"/>
         <source>Firmware expired</source>
         <translation>Firmware veraltet</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="398"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="400"/>
         <source>Firmware update error</source>
         <translation>Fehler beim Update der Firmware</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="401"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="403"/>
         <source>Power (Voltage &lt; 8V)</source>
         <translation>Stromversorgung (Spannung &lt; 8V)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="404"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="406"/>
         <source>UI error</source>
         <translation>UI-Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="407"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="409"/>
         <source>Audio error</source>
         <translation>Audio-Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="410"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="412"/>
         <source>ADC error</source>
         <translation>ADC-Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="413"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="415"/>
         <source>SD card error</source>
         <translation>Fehler bei der SD-Karte</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="416"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="418"/>
         <source>USB error</source>
         <translation>USB-Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="419"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="421"/>
         <source>LED error</source>
         <translation>LED-Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="422"/>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="431"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="424"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="433"/>
         <source>EEPROM error</source>
         <translation>EEPROM-Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="425"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="427"/>
         <source>General hardware error</source>
         <translation>Allgemeiner Hardwarefehler</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="428"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="430"/>
         <source>Transponder receiver Mode-C/S/ADS-B unserviceable</source>
         <translation>Transponder-Empfänger Mode C/S/ADS-B unbrauchbar</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="434"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="436"/>
         <source>GPIO error</source>
         <translation>GPIO-Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="437"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="439"/>
         <source>GPS communication</source>
         <translation>GPS-Kommunikation</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="440"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="442"/>
         <source>Configuration of GPS module</source>
         <translation>Konfiguration des GPS-Moduls</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="443"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="445"/>
         <source>GPS antenna</source>
         <translation>GPS-Antenne</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="446"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="448"/>
         <source>RF communication</source>
         <translation>RF-Kommunikation</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="449"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="451"/>
         <source>Another FLARM device with the same Radio ID is being received. Alarms are suppressed for the relevant device.</source>
         <translation>Anderes FLARM-Gerät mit der selben &apos;Radio-ID&apos; empfangen. Alarme für das betreffende Gerät werden unterdrückt.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="452"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="454"/>
         <source>Wrong ICAO 24-bit address or radio ID</source>
         <translation>Falsche ICAO-24-Bit-Adresse oder &apos;Radio-ID&apos;</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="455"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="457"/>
         <source>Communication</source>
         <translation>Kommunikation</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="458"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="460"/>
         <source>Flash memory</source>
         <translation>Flash memory</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="461"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="463"/>
         <source>Pressure sensor</source>
         <translation>Drucksensor</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="464"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="466"/>
         <source>Obstacle database (e.g. incorrect file type)</source>
         <translation>Hindernisdatenbank (z.B. falscher Dateityp)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="467"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="469"/>
         <source>Obstacle database expired.</source>
         <translation>Hindernisdatenbank veraltet</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="470"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="472"/>
         <source>Flight recorder</source>
         <translation>Flugdatenaufzeichner</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="473"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="475"/>
         <source>Engine-noise recording not possible</source>
         <translation>Aufzeichnung der Triebwerksgeräusche unmöglich</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="476"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="478"/>
         <source>Range analyzer</source>
         <translation>Bereichs-Analysator</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="479"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="481"/>
         <source>Configuration error, e.g. while reading flarmcfg.txt from SD/USB.</source>
         <translation>Konfigurationsfehler, z.B. beim Lesen der flarmcfg.txt von SD/USB</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="482"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="484"/>
         <source>Invalid obstacle database license (e.g. wrong serial number)</source>
         <translation>Ungültige Lizenz für die Hindernisdatenbank (z.B. falsche Seriennummer)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="485"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="487"/>
         <source>Invalid IGC feature license</source>
         <translation>Ungültige Lizenz für IGC</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="488"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="490"/>
         <source>Invalid AUD feature license</source>
         <translation>Ungültige Lizenz für AUD</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="491"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="493"/>
         <source>Invalid ENL feature license</source>
         <translation>Ungültige Lizenz für ENL</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="494"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="496"/>
         <source>Invalid RFB feature license</source>
         <translation>Ungültige Lizenz für RFB</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="497"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="499"/>
         <source>Invalid TIS feature license</source>
         <translation>Ungültige Lizenz für TIS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="500"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="502"/>
         <source>Generic error</source>
         <translation>Übergeordneter Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="503"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="505"/>
         <source>Flash File System error</source>
         <translation>Fehler beim Dateisystem des Flash-Mediums</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="506"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="508"/>
         <source>Failure updating firmware of external display</source>
         <translation>Update der Firmware der externen Anzeige fehlgeschlagen</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="509"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="511"/>
         <source>Device is operated outside the designated region. The device does not work.</source>
         <translation>Gerät wird außerhalb der vorgesehenen Region betrieben und arbeitet nicht.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="541"/>
+        <source>No FLARM transmission</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="545"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="243"/>
+        <source>No GPS reception</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="549"/>
+        <source>Under- or Overvoltage</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The connection was refused by the peer (or timed out).</source>
@@ -5729,6 +5766,16 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <source>%2 (Time of error: %1)</source>
         <translation type="vanished">%2 (Zeitpunkt des Fehlers: %1)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="246"/>
+        <source>Maintenance required</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="249"/>
+        <source>GPS Battery low voltage</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5887,87 +5934,87 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_File</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="113"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="141"/>
         <source>Connected.</source>
         <translation>Verbunden.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="115"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="143"/>
         <source>Not connected.</source>
         <translation>Nicht verbunden.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="124"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="152"/>
         <source>An error occurred when reading from the file.</source>
         <translation>Fehler beim Lesen der Datei.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="127"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="155"/>
         <source>An error occurred when writing to the file.</source>
         <translation>Fehler beim Schreiben der Datei.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="130"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="158"/>
         <source>A fatal error occurred.</source>
         <translation>Schwerer Fehler aufgetreten.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="133"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="161"/>
         <source>Out of resources (e.g., too many open files, out of memory, etc.)</source>
         <translation>Zu wenig Ressourcen (z.B. zu viele offene Dateien, Speicher voll usw.)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="136"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="164"/>
         <source>The file could not be opened.</source>
         <translation>Datei konnte nicht geöffnet werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="139"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="167"/>
         <source>The operation was aborted.</source>
         <translation>Operation wurde abgebrochen.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="142"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="170"/>
         <source>A timeout occurred.</source>
         <translation>Timeout aufgetreten.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="145"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="173"/>
         <source>An unspecified error occurred.</source>
         <translation>Unspezifischer Fehler aufgetreten.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="148"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="176"/>
         <source>The file could not be removed.</source>
         <translation>Datei konnte nicht gelöscht werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="151"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="179"/>
         <source>The file could not be renamed.</source>
         <translation>Datei konnte nicht umbenannt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="154"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="182"/>
         <source>The position in the file could not be changed.</source>
         <translation>Die Position konnte in der Datei nicht geändert werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="157"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="185"/>
         <source>The file could not be resized.</source>
         <translation>Dateigröße konnte nicht geändert werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="160"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="188"/>
         <source>The file could not be accessed.</source>
         <translation>Dateizugriff nicht möglich.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="163"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="191"/>
         <source>The file could not be copied.</source>
         <translation>Datei konnte nicht kopiert werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.h" line="61"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.h" line="68"/>
         <source>Simulator file %1</source>
         <translation>Simulator-Datei %1</translation>
     </message>
@@ -5975,12 +6022,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Simulate</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="40"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="41"/>
         <source>Connected.</source>
         <translation>Verbunden.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="47"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="48"/>
         <source>Not connected.</source>
         <translation>Nicht verbunden.</translation>
     </message>
@@ -6513,32 +6560,45 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">&lt;h3&gt;Status&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="33"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="35"/>
         <source>Traffic Data Receiver</source>
         <translation>Verkehrsdatenempfänger</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="62"/>
         <source>Status</source>
-        <translation>Status</translation>
+        <translation type="vanished">Status</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="99"/>
         <source>&lt;p&gt;Well done! Go flying. Give yourself a pat on the back.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Gut gemacht, Sie dürfen sich gratulieren! Viel Spaß beim Fliegen!&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Gut gemacht, Sie dürfen sich gratulieren! Viel Spaß beim Fliegen!&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="128"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="64"/>
+        <source>Connection Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="101"/>
+        <source>Traffic Data Receiver Status</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="130"/>
+        <source>No problem reported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="168"/>
         <source>Help</source>
         <translation>Hilfe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="138"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="178"/>
         <source>How to connect your traffic receiver…</source>
         <translation>Wie man sich mit dem Verkehrsdatenempfänger verbindet ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="146"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="186"/>
         <source>How to connect your flight simulator…</source>
         <translation>Mit Ihrem Flugsimulator verbinden ...</translation>
     </message>
@@ -6682,7 +6742,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">&lt;p&gt;Gut gemacht, Sie dürfen sich auf die Schulter klopfen! Gehen Sie fliegen!&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="106"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="146"/>
         <source>Connect to Traffic Receiver</source>
         <translation>Mit Verkehrsempfänger verbinden</translation>
     </message>
@@ -10150,19 +10210,19 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Enroute Flight Navigation ist eine kostenlose Navigations-App für VFR Piloten. Die App wurde als Projekt der Akaflieg Freiburg entwickelt.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="119"/>
+        <location filename="../../../src/main.cpp" line="122"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation ist eine kostenlose Navigations-App für VFR-Piloten,
 entwickelt als Projekt der Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="122"/>
+        <location filename="../../../src/main.cpp" line="125"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation>Simulator starten und Screenshots für das Handbuch erzeugen</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="124"/>
+        <location filename="../../../src/main.cpp" line="127"/>
         <source>File to import.</source>
         <translation>Datei zum Importieren.</translation>
     </message>

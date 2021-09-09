@@ -12,7 +12,12 @@ DesktopEntry=de.akaflieg_freiburg.enroute
 Name=Downloading map data…
 Action=Popup
 
-[Event/trafficReceiverProblem]
+[Event/trafficReceiverRuntimeError]
 Name=Traffic receiver problem
 Action=Popup
-Urgency=Normal
+Urgency=Critical
+
+[Event/trafficReceiverSelfTestError]
+Name=Traffic receiver problem
+Action=Popup
+Urgency=Critical
