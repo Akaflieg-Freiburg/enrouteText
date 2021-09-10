@@ -4349,22 +4349,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="28"/>
         <source>Downloading map data…</source>
-        <translation type="unfinished">Pobieranie danych map...</translation>
+        <translation>Pobieranie danych map...</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="30"/>
         <source>Traffic data receiver problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Problem z odbiornikiem danych ruchu lotniczego</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="32"/>
         <source>Traffic data receiver self test error</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd self-testu odbiornika ruchu lotniczego</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="85"/>
         <source>Open Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz aplikację</translation>
     </message>
 </context>
 <context>
@@ -5019,18 +5019,18 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="541"/>
         <source>No FLARM transmission</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak transmisji FLARM</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="545"/>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="243"/>
         <source>No GPS reception</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak odbioru GPS</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="549"/>
         <source>Under- or Overvoltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Zubt małe lub duże napięcie</translation>
     </message>
     <message>
         <source>The connection was refused by the peer (or timed out).</source>
@@ -5135,12 +5135,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="246"/>
         <source>Maintenance required</source>
-        <translation type="unfinished"></translation>
+        <translation>Wymagana kontrola</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="249"/>
         <source>GPS Battery low voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Niskie napięcie baterii GPS</translation>
     </message>
 </context>
 <context>
@@ -5928,17 +5928,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="64"/>
         <source>Connection Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status połączenia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="101"/>
         <source>Traffic Data Receiver Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status odbiornika danych lotniczych</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="130"/>
         <source>No problem reported</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie wykryto błędu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="168"/>
