@@ -4951,22 +4951,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="28"/>
         <source>Downloading map data…</source>
-        <translation type="unfinished">Kartendaten werden heruntergeladen …</translation>
+        <translation>Kartendaten werden heruntergeladen …</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="30"/>
         <source>Traffic data receiver problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Problem mit dem Verkehrsdatenempfänger</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="32"/>
         <source>Traffic data receiver self test error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Selbsttest des Verkehrsdatenempfängers</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="85"/>
         <source>Open Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Anwendung öffnen</translation>
     </message>
 </context>
 <context>
@@ -5654,18 +5654,18 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="541"/>
         <source>No FLARM transmission</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine FLARM-Übertragung</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="545"/>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="243"/>
         <source>No GPS reception</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein GPS-Empfang</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="549"/>
         <source>Under- or Overvoltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Über- oder Unterspannung</translation>
     </message>
     <message>
         <source>The connection was refused by the peer (or timed out).</source>
@@ -5770,12 +5770,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="246"/>
         <source>Maintenance required</source>
-        <translation type="unfinished"></translation>
+        <translation>Wartung erforderlich</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="249"/>
         <source>GPS Battery low voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS-Batterie schwach</translation>
     </message>
 </context>
 <context>
@@ -6575,17 +6575,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="64"/>
         <source>Connection Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbindungsstatus</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="101"/>
         <source>Traffic Data Receiver Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status des Verkehrsdatenempfängers</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="130"/>
         <source>No problem reported</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Problem bekannt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="168"/>
