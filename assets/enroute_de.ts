@@ -4521,7 +4521,7 @@ Wählen Sie &lt;strong&gt;Bibliothek/Karten&lt;/strong&gt; um zum Kartenmanageme
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="156"/>
         <source>Map Info: </source>
-        <translation>Karteninfo:</translation>
+        <translation>Karteninfo: </translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/MapManager.qml" line="164"/>
