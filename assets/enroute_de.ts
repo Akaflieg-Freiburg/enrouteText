@@ -1013,8 +1013,12 @@ anderes dazu sagen können.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="555"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu. You find the menu at the top right corner of the screen.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste der verfügbaren Karten wurde noch nicht vom Server geladen. Sie können das über &apos;Aktualisieren&apos; im Menü anstoßen. Suchen Sie dafür nach dem Symbol &apos;&amp;#8942;&apos; in der Ecke  rechts oben auf dem Schirm.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste der verfügbaren Karten wurde noch nicht vom Server geladen. Sie können das über &apos;Aktualisieren&apos; im Menü anstoßen. Suchen Sie dafür nach dem Symbol &apos;&amp;#8942;&apos; in der Ecke  rechts oben auf dem Schirm.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="581"/>
@@ -4595,12 +4599,18 @@ Choose &lt;strong&gt;Library/Maps&lt;/strong&gt; to open the map management page
 Wählen Sie &lt;strong&gt;Bibliothek/Karten&lt;/strong&gt; um zum Kartenmanagement zu gelangen.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="472"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the button ☰ in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Es ist keine Luftfahrtkarte installiert.&lt;/strong&gt;&lt;/p&gt;
+        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Es ist keine Luftfahrtkarte installiert.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Zur Installation einer Karte wählen Sie bitte im Menü ☰ oben links &lt;strong&gt;Bibliothek/Karten und Daten&lt;/strong&gt; zum Öffnen der Kartenverwaltung.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="472"/>
+        <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In order to install a map, please open the menu using the menu button in the upper left corner of this screen.
+Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="506"/>

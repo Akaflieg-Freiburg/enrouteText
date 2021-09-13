@@ -991,8 +991,12 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="555"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu. You find the menu at the top right corner of the screen.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Lista dostępnych map nie została jeszcze pobrana z serwera. Możesz ręcznie zrestartować pobieranie wybierając element Aktualizacja z menu. Aby znaleźć menu, poszukuj symbolu &apos;&amp;#8942; w prawym górnym rogu ekranu.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Lista dostępnych map nie została jeszcze pobrana z serwera. Możesz ręcznie zrestartować pobieranie wybierając element Aktualizacja z menu. Aby znaleźć menu, poszukuj symbolu &apos;&amp;#8942; w prawym górnym rogu ekranu.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="581"/>
@@ -3992,7 +3996,7 @@ Wybierz &lt;strong&gt;Bibilioteka/Mapy&lt;/strong&gt; aby otworzyć stronę zarz
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="472"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In order to install a map, please open the menu using the button ☰ in the upper left corner of this screen.
+&lt;p&gt;In order to install a map, please open the menu using the menu button in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
