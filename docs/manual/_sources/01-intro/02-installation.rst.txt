@@ -43,8 +43,8 @@ Follow these steps to install the maps that you need.
 
 - Open the Menu by touching the menu button in the upper right side of the
   screen.  The button is marked with the symbol '☰'.
-- Choose the menu item *Library*, then *Maps*.  The map management page will
-  then open.
+- Choose the menu item *Library*, then *Maps and Data*.  The data management
+  page will then open.
 - On the map management page, click or tap on the desired maps.  The maps will
   be downloaded and installed on your device.
 
