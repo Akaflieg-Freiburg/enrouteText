@@ -601,6 +601,415 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     </message>
 </context>
 <context>
+    <name>DataManagement::DataManager</name>
+    <message>
+        <source>Map Library</source>
+        <translation type="vanished">Biblioteka map</translation>
+    </message>
+    <message>
+        <source>aviation maps</source>
+        <translation type="vanished">mapy lotnicze</translation>
+    </message>
+    <message>
+        <source>base maps</source>
+        <translation type="vanished">mapy podstawowe</translation>
+    </message>
+    <message>
+        <source>Map Info</source>
+        <translation type="vanished">Informacja dot. mapy</translation>
+    </message>
+    <message>
+        <source>Map Info: </source>
+        <translation type="vanished">Informacja mapy: </translation>
+    </message>
+    <message>
+        <source>Uninstall</source>
+        <translation type="vanished">Odinstaluj</translation>
+    </message>
+    <message>
+        <source>Download Error</source>
+        <translation type="vanished">Błąd pobierania</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;p&gt;Błąd przy pobieraniu &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Powód: %2.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>Update list of maps</source>
+        <translation type="vanished">Zaktualizuj listę map</translation>
+    </message>
+    <message>
+        <source>Download all updates…</source>
+        <translation type="vanished">Pobierz wszystkie aktualizacje...</translation>
+    </message>
+    <message>
+        <source>Aviation Maps</source>
+        <translation type="vanished">Mapy Lotnicze</translation>
+    </message>
+    <message>
+        <source>Base Maps</source>
+        <translation type="vanished">Mapy podstawowe</translation>
+    </message>
+    <message>
+        <source>How to request additional aviation maps…</source>
+        <translation type="vanished">Jak zażądać dodatkowych map nawigacyjnych...</translation>
+    </message>
+    <message>
+        <source>Request additional aviation maps</source>
+        <translation type="vanished">Zażądaj dodatkowych map nawigacyjnych</translation>
+    </message>
+    <message>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Lista dostępnych map nie została jeszcze pobrana z serwera. Możesz ręcznie zrestartować pobieranie wybierając element Aktualizacja z menu. Aby znaleźć menu, poszukuj symbolu &apos;&amp;#8942; w prawym górnym rogu ekranu.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
+        <translation type="vanished">&lt;h3&gt;Pobieranie w toku...&lt;/h3&gt;&lt;p&gt;Proszę poczekaj, gdy aplikacja pobierze z serwera listę dostępnych map...&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;p&gt;Nie udało się pobrać listy map lotniczych.&lt;/p&gt;&lt;p&gt;Powód: %1.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="124"/>
+        <source>No information available.</source>
+        <translation type="unfinished">Brak dostępnych informacji.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="127"/>
+        <source>Installed</source>
+        <translation type="unfinished">Zainstalowana</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="129"/>
+        <source>File Size</source>
+        <translation type="unfinished">Rozmiar pliku</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="143"/>
+        <source>The map data was compiled from the following sources.</source>
+        <translation type="unfinished">Dane mapy zostały skompilowane z następujących źródeł.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="173"/>
+        <source>Internal Map Data</source>
+        <translation type="unfinished">Wewnętrzne dane map</translation>
+    </message>
+</context>
+<context>
+    <name>DataManagement::Downloadable</name>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="57"/>
+        <source>downloading … %1% complete</source>
+        <translation>pobieranie ... %1% ukończone</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="63"/>
+        <source>installed • %1</source>
+        <translation>zainstalowano %1</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="68"/>
+        <source>update available</source>
+        <translation>dostępna aktualizacja</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="71"/>
+        <source>no longer supported</source>
+        <translation>dłużej nie jest wspierane</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="74"/>
+        <source>not installed</source>
+        <translation>nie zainstalowane</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="79"/>
+        <source>file size unknown</source>
+        <translation>wielkość pliku jest nieznana</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="302"/>
+        <source>the remote server refused the connection (the server is not accepting requests)</source>
+        <translation>zdalny serwer odrzucił połączenie (serwer nie akceptuje zapytań)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="306"/>
+        <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
+        <translation>serwer zdalny zamknął połączenie przedwcześnie, zanim cała odpowiedź została odczytana i przetworzona</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="311"/>
+        <source>the remote host name was not found (invalid hostname)</source>
+        <translation>nazwa zdalnego hosta nie została odnaleziona (błędna nazwa hosta)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="315"/>
+        <source>the connection to the remote server timed out</source>
+        <translation>połączenie z serwerem zdalnym wygasło</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="320"/>
+        <source>the operation was canceled via calls to abort() or close() before it was finished</source>
+        <translation>operacja została anulowana przez wywołania abort() lub close() zanim się zakończyła</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="324"/>
+        <source>the SSL/TLS handshake failed and the encrypted channel could not be established. The sslErrors() signal should have been emitted</source>
+        <translation>w trakcie połączenia SSL/TLS wystąpił błąd i nie można utworzyć zaszyfrowanego kanału. Sygnał sslErrors() powinien zostać wyemitowany</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="329"/>
+        <source>the connection was broken due to disconnection from the network</source>
+        <translation>połączenie zostało przerwane z powodu odłączenia od sieci</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="333"/>
+        <source>the connection was broken due to disconnection from the network or failure to start the network</source>
+        <translation>połączenie zostało przerwane z powodu odłączenia od sieci lub z powodu błędu uruchomienia sieci</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="338"/>
+        <source>the background request is not currently allowed due to platform policy</source>
+        <translation>zapytania w tle nie są aktualnie dozwolone ze względu na politykę platformy sprzętowej</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="342"/>
+        <source>while following redirects, the maximum limit was reached</source>
+        <translation>w trakcie podążania za przekierowaniami, osiągnięto maksymalny limit</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="346"/>
+        <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
+        <translation>w trakcie podążania za przekierowaniami, punkt dostępu sieciowego API wykrył przekierowanie z zaszyfrowanego protokołu (https) do niezaszyfrowanego (http)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="351"/>
+        <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
+        <translation>połączenie z serwerem proxy zostało odrzucone (serwer proxy nie akceptuje zapytań)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="356"/>
+        <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
+        <translation>serwer proxy zamknął przedwcześnie połączenie, zanim cała odpowiedź została odczytana i przetworzona</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="361"/>
+        <source>the proxy host name was not found (invalid proxy hostname)</source>
+        <translation>nazwa hosta proxy nie została odnaleziona (wadliwa nazwa hosta proxy)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="365"/>
+        <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
+        <translation>zapytanie do proxy wygasło lub nie odpowiedziano na czas wysłanemu zapytaniu</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="370"/>
+        <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
+        <translation>proxy wymaga uwierzytelniania w celu weryfikacji zapytania, ale nie zaakceptowało żadnych przesłanych danych logowania (jeśli takowe były)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="375"/>
+        <source>the access to the remote content was denied (similar to HTTP error 403)</source>
+        <translation>brak dostępu do zdalnej zawartości (identycznie jak błąd HTTP 403)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="379"/>
+        <source>the operation requested on the remote content is not permitted</source>
+        <translation>żądana operacja na zdalnej zawartości nie jest dozwolona</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="383"/>
+        <source>the remote content was not found at the server (similar to HTTP error 404)</source>
+        <translation>zdalna zawartość nie można zostać znaleziona na serwerze (to samo błąd HTTP 404)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="387"/>
+        <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
+        <translation>serwer zdalny wymaga uwierzytelniania by zwrócić zawartość, ale dane dostępowe nie zostały zaakceptowane (jeśli takowe były)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="392"/>
+        <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
+        <translation>zapytanie musi zostać ponownie wysłane, mógł wystąpić błąd na przykład z tego powodu, że wysyłane dane nie mogą zostać odczytane po raz drugi</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="397"/>
+        <source>the request could not be completed due to a conflict with the current state of the resource</source>
+        <translation>zapytanie nie może zostać ukończone z powodu konliktu stanów tego zasobu</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="402"/>
+        <source>the requested resource is no longer available at the server</source>
+        <translation>żądane zasoby nie są dłużej dostępne na serwerze</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="406"/>
+        <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
+        <translation>serwer napotkał niespodziewane okoliczności, które przeszkodziły w realizacji zapytania</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="412"/>
+        <source>the server does not support the functionality required to fulfill the request</source>
+        <translation>serwer nie posiada funkcjonalności wymaganej by spełnić zapytanie</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="416"/>
+        <source>the server is unable to handle the request at this time</source>
+        <translation>serwer nie może w tej chwili przetworzyć zapytania</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="421"/>
+        <source>the Network Access API cannot honor the request because the protocol is not known</source>
+        <translation>Network Access API nie może przyjąć zapytania, bo protokół jest nieznany</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="425"/>
+        <source>the requested operation is invalid for this protocol</source>
+        <translation>żądana operacja jest wadliwa dla tego protokołu</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="429"/>
+        <source>an unknown network-related error was detected</source>
+        <translation>nieznany błąd sieci został wykryty</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="433"/>
+        <source>an unknown proxy-related error was detected</source>
+        <translation>nieznany błąd związany z proxy został wykryty</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="437"/>
+        <source>an unknown error related to the remote content was detected</source>
+        <translation>nieznany błąd dotyczący zdalnej zawartości został wykryty</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="441"/>
+        <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
+        <translation>została wykryta awaria protokołu (błąd parsowania, błędne lub nieoczekiwane odpowiedzi, etc.)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="446"/>
+        <source>an unknown error related to the server response was detected</source>
+        <translation>nieznany błąd dotyczący odpowiedzi z serwera został wykryty</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="450"/>
+        <source>unknown</source>
+        <translation>nieznane</translation>
+    </message>
+</context>
+<context>
+    <name>DataManager</name>
+    <message>
+        <source>Map Library</source>
+        <translation type="vanished">Biblioteka map</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="61"/>
+        <source>aviation maps</source>
+        <translation>mapy lotnicze</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="64"/>
+        <source>base maps</source>
+        <translation>mapy podstawowe</translation>
+    </message>
+    <message>
+        <source>Map Info</source>
+        <translation type="vanished">Informacja dot. mapy</translation>
+    </message>
+    <message>
+        <source>Map Info: </source>
+        <translation type="vanished">Informacja mapy: </translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="33"/>
+        <source>Map and Data Library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="152"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="270"/>
+        <source>Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="164"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="282"/>
+        <source>Uninstall</source>
+        <translation>Odinstaluj</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="180"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="298"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="635"/>
+        <source>Download Error</source>
+        <translation>Błąd pobierania</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="181"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="299"/>
+        <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Błąd przy pobieraniu &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Powód: %2.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="367"/>
+        <source>Update list of maps</source>
+        <translation>Zaktualizuj listę map</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="379"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="620"/>
+        <source>Download all updates…</source>
+        <translation>Pobierz wszystkie aktualizacje...</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="403"/>
+        <source>Aviation Maps</source>
+        <translation>Mapy Lotnicze</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="406"/>
+        <source>Base Maps</source>
+        <translation>Mapy podstawowe</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="409"/>
+        <source>Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="450"/>
+        <source>How to request additional aviation maps…</source>
+        <translation>Jak zażądać dodatkowych map nawigacyjnych...</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="457"/>
+        <source>Request additional aviation maps</source>
+        <translation>Zażądaj dodatkowych map nawigacyjnych</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="555"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu. You find the menu at the top right corner of the screen.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Lista dostępnych map nie została jeszcze pobrana z serwera. Możesz ręcznie zrestartować pobieranie wybierając element Aktualizacja z menu. Aby znaleźć menu, poszukuj symbolu &apos;&amp;#8942; w prawym górnym rogu ekranu.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="581"/>
+        <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
+        <translation>&lt;h3&gt;Pobieranie w toku...&lt;/h3&gt;&lt;p&gt;Proszę poczekaj, gdy aplikacja pobierze z serwera listę dostępnych map...&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="636"/>
+        <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Nie udało się pobrać listy map lotniczych.&lt;/p&gt;&lt;p&gt;Powód: %1.&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
     <name>DonatePage</name>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="30"/>
@@ -1445,305 +1854,26 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
     </message>
 </context>
 <context>
-    <name>GeoMaps::Downloadable</name>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="57"/>
-        <source>downloading … %1% complete</source>
-        <translation>pobieranie ... %1% ukończone</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="63"/>
-        <source>installed • %1</source>
-        <translation>zainstalowano %1</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="68"/>
-        <source>update available</source>
-        <translation>dostępna aktualizacja</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="71"/>
-        <source>no longer supported</source>
-        <translation>dłużej nie jest wspierane</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="74"/>
-        <source>not installed</source>
-        <translation>nie zainstalowane</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="79"/>
-        <source>file size unknown</source>
-        <translation>wielkość pliku jest nieznana</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="302"/>
-        <source>the remote server refused the connection (the server is not accepting requests)</source>
-        <translation>zdalny serwer odrzucił połączenie (serwer nie akceptuje zapytań)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="306"/>
-        <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
-        <translation>serwer zdalny zamknął połączenie przedwcześnie, zanim cała odpowiedź została odczytana i przetworzona</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="311"/>
-        <source>the remote host name was not found (invalid hostname)</source>
-        <translation>nazwa zdalnego hosta nie została odnaleziona (błędna nazwa hosta)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="315"/>
-        <source>the connection to the remote server timed out</source>
-        <translation>połączenie z serwerem zdalnym wygasło</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="320"/>
-        <source>the operation was canceled via calls to abort() or close() before it was finished</source>
-        <translation>operacja została anulowana przez wywołania abort() lub close() zanim się zakończyła</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="324"/>
-        <source>the SSL/TLS handshake failed and the encrypted channel could not be established. The sslErrors() signal should have been emitted</source>
-        <translation>w trakcie połączenia SSL/TLS wystąpił błąd i nie można utworzyć zaszyfrowanego kanału. Sygnał sslErrors() powinien zostać wyemitowany</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="329"/>
-        <source>the connection was broken due to disconnection from the network</source>
-        <translation>połączenie zostało przerwane z powodu odłączenia od sieci</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="333"/>
-        <source>the connection was broken due to disconnection from the network or failure to start the network</source>
-        <translation>połączenie zostało przerwane z powodu odłączenia od sieci lub z powodu błędu uruchomienia sieci</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="338"/>
-        <source>the background request is not currently allowed due to platform policy</source>
-        <translation>zapytania w tle nie są aktualnie dozwolone ze względu na politykę platformy sprzętowej</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="342"/>
-        <source>while following redirects, the maximum limit was reached</source>
-        <translation>w trakcie podążania za przekierowaniami, osiągnięto maksymalny limit</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="346"/>
-        <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
-        <translation>w trakcie podążania za przekierowaniami, punkt dostępu sieciowego API wykrył przekierowanie z zaszyfrowanego protokołu (https) do niezaszyfrowanego (http)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="351"/>
-        <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
-        <translation>połączenie z serwerem proxy zostało odrzucone (serwer proxy nie akceptuje zapytań)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="356"/>
-        <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
-        <translation>serwer proxy zamknął przedwcześnie połączenie, zanim cała odpowiedź została odczytana i przetworzona</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="361"/>
-        <source>the proxy host name was not found (invalid proxy hostname)</source>
-        <translation>nazwa hosta proxy nie została odnaleziona (wadliwa nazwa hosta proxy)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="365"/>
-        <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
-        <translation>zapytanie do proxy wygasło lub nie odpowiedziano na czas wysłanemu zapytaniu</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="370"/>
-        <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
-        <translation>proxy wymaga uwierzytelniania w celu weryfikacji zapytania, ale nie zaakceptowało żadnych przesłanych danych logowania (jeśli takowe były)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="375"/>
-        <source>the access to the remote content was denied (similar to HTTP error 403)</source>
-        <translation>brak dostępu do zdalnej zawartości (identycznie jak błąd HTTP 403)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="379"/>
-        <source>the operation requested on the remote content is not permitted</source>
-        <translation>żądana operacja na zdalnej zawartości nie jest dozwolona</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="383"/>
-        <source>the remote content was not found at the server (similar to HTTP error 404)</source>
-        <translation>zdalna zawartość nie można zostać znaleziona na serwerze (to samo błąd HTTP 404)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="387"/>
-        <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
-        <translation>serwer zdalny wymaga uwierzytelniania by zwrócić zawartość, ale dane dostępowe nie zostały zaakceptowane (jeśli takowe były)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="392"/>
-        <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
-        <translation>zapytanie musi zostać ponownie wysłane, mógł wystąpić błąd na przykład z tego powodu, że wysyłane dane nie mogą zostać odczytane po raz drugi</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="397"/>
-        <source>the request could not be completed due to a conflict with the current state of the resource</source>
-        <translation>zapytanie nie może zostać ukończone z powodu konliktu stanów tego zasobu</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="402"/>
-        <source>the requested resource is no longer available at the server</source>
-        <translation>żądane zasoby nie są dłużej dostępne na serwerze</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="406"/>
-        <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
-        <translation>serwer napotkał niespodziewane okoliczności, które przeszkodziły w realizacji zapytania</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="412"/>
-        <source>the server does not support the functionality required to fulfill the request</source>
-        <translation>serwer nie posiada funkcjonalności wymaganej by spełnić zapytanie</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="416"/>
-        <source>the server is unable to handle the request at this time</source>
-        <translation>serwer nie może w tej chwili przetworzyć zapytania</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="421"/>
-        <source>the Network Access API cannot honor the request because the protocol is not known</source>
-        <translation>Network Access API nie może przyjąć zapytania, bo protokół jest nieznany</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="425"/>
-        <source>the requested operation is invalid for this protocol</source>
-        <translation>żądana operacja jest wadliwa dla tego protokołu</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="429"/>
-        <source>an unknown network-related error was detected</source>
-        <translation>nieznany błąd sieci został wykryty</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="433"/>
-        <source>an unknown proxy-related error was detected</source>
-        <translation>nieznany błąd związany z proxy został wykryty</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="437"/>
-        <source>an unknown error related to the remote content was detected</source>
-        <translation>nieznany błąd dotyczący zdalnej zawartości został wykryty</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="441"/>
-        <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
-        <translation>została wykryta awaria protokołu (błąd parsowania, błędne lub nieoczekiwane odpowiedzi, etc.)</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="446"/>
-        <source>an unknown error related to the server response was detected</source>
-        <translation>nieznany błąd dotyczący odpowiedzi z serwera został wykryty</translation>
-    </message>
-    <message>
-        <location filename="../../../src/geomaps/Downloadable.cpp" line="450"/>
-        <source>unknown</source>
-        <translation>nieznane</translation>
-    </message>
-</context>
-<context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="124"/>
         <source>No information available.</source>
-        <translation>Brak dostępnych informacji.</translation>
+        <translation type="vanished">Brak dostępnych informacji.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="127"/>
         <source>Installed</source>
-        <translation>Zainstalowana</translation>
+        <translation type="vanished">Zainstalowana</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="129"/>
         <source>File Size</source>
-        <translation>Rozmiar pliku</translation>
+        <translation type="vanished">Rozmiar pliku</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="143"/>
         <source>The map data was compiled from the following sources.</source>
-        <translation>Dane mapy zostały skompilowane z następujących źródeł.</translation>
+        <translation type="vanished">Dane mapy zostały skompilowane z następujących źródeł.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="173"/>
         <source>Internal Map Data</source>
-        <translation>Wewnętrzne dane map</translation>
-    </message>
-</context>
-<context>
-    <name>GeoMaps::MapManager</name>
-    <message>
-        <source>Map Library</source>
-        <translation type="vanished">Biblioteka map</translation>
-    </message>
-    <message>
-        <source>aviation maps</source>
-        <translation type="vanished">mapy lotnicze</translation>
-    </message>
-    <message>
-        <source>base maps</source>
-        <translation type="vanished">mapy podstawowe</translation>
-    </message>
-    <message>
-        <source>Map Info</source>
-        <translation type="vanished">Informacja dot. mapy</translation>
-    </message>
-    <message>
-        <source>Map Info: </source>
-        <translation type="vanished">Informacja mapy: </translation>
-    </message>
-    <message>
-        <source>Uninstall</source>
-        <translation type="vanished">Odinstaluj</translation>
-    </message>
-    <message>
-        <source>Download Error</source>
-        <translation type="vanished">Błąd pobierania</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Błąd przy pobieraniu &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Powód: %2.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>Update list of maps</source>
-        <translation type="vanished">Zaktualizuj listę map</translation>
-    </message>
-    <message>
-        <source>Download all updates…</source>
-        <translation type="vanished">Pobierz wszystkie aktualizacje...</translation>
-    </message>
-    <message>
-        <source>Aviation Maps</source>
-        <translation type="vanished">Mapy Lotnicze</translation>
-    </message>
-    <message>
-        <source>Base Maps</source>
-        <translation type="vanished">Mapy podstawowe</translation>
-    </message>
-    <message>
-        <source>How to request additional aviation maps…</source>
-        <translation type="vanished">Jak zażądać dodatkowych map nawigacyjnych...</translation>
-    </message>
-    <message>
-        <source>Request additional aviation maps</source>
-        <translation type="vanished">Zażądaj dodatkowych map nawigacyjnych</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Lista dostępnych map nie została jeszcze pobrana z serwera. Możesz ręcznie zrestartować pobieranie wybierając element Aktualizacja z menu. Aby znaleźć menu, poszukuj symbolu &apos;&amp;#8942; w prawym górnym rogu ekranu.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Pobieranie w toku...&lt;/h3&gt;&lt;p&gt;Proszę poczekaj, gdy aplikacja pobierze z serwera listę dostępnych map...&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Nie udało się pobrać listy map lotniczych.&lt;/p&gt;&lt;p&gt;Powód: %1.&lt;/p&gt;</translation>
+        <translation type="vanished">Wewnętrzne dane map</translation>
     </message>
 </context>
 <context>
@@ -2954,22 +3084,29 @@ oraz **importu planu lotu**.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
+        <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now uses the Flarmnet database to identify traffic.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="288"/>
+        <source>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; The readers of the German aviation magazine &apos;Aerokurier&apos; have named &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; as one of the top three innovations of the year in the category &apos;Avionics&apos;. Thanks to everybody who made this success possible!&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports traffic data receivers that require a password in addition to the WiFi password.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; obecnie wspiera odbiorniki ruchu lotniczego, które wymagają hasła dodatkowego względem hasła WiFi.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; obecnie wspiera odbiorniki ruchu lotniczego, które wymagają hasła dodatkowego względem hasła WiFi.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;The manual is now built into the app.&lt;/strong&gt; To try it out, Open the main menu and choose the item &apos;Manual&apos;.&lt;/p&gt;</source>
         <translation type="vanished">&lt;p&gt;&lt;strong&gt;Instrukcja użytkownika jest wbudowana w aplikację.&lt;/strong&gt; Aby jej spróbować, otwórz główne menu i wybierz &apos;Instrukcja użytkownika&apos;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>&lt;p&gt;&lt;strong&gt;We need help with the Italian translation.&lt;/strong&gt; If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Potrzebujemy pomocy z włoskim tłumaczeniem.&lt;/strong&gt; Jeśli chcesz pomóc, mówisz po włosku i wiesz jak używać systemu kontroli wersji GIT, proszę skontaktuj się z nami.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Potrzebujemy pomocy z włoskim tłumaczeniem.&lt;/strong&gt; Jeśli chcesz pomóc, mówisz po włosku i wiesz jak używać systemu kontroli wersji GIT, proszę skontaktuj się z nami.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="289"/>
         <source>&lt;p&gt;&lt;strong&gt;Google now counts more than 10.000 active installations of this app.&lt;/strong&gt; Thanks to everybody who made this success possible!&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Google wskazuje teraz więcej niż 10.000 aktywnych instalacji aplikacji.&lt;/strong&gt; Dziękujemy wszystkim, dzięki którym ten sukces był możliwy!&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Google wskazuje teraz więcej niż 10.000 aktywnych instalacji aplikacji.&lt;/strong&gt; Dziękujemy wszystkim, dzięki którym ten sukces był możliwy!&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;License&lt;/h3&gt;
@@ -3849,13 +3986,19 @@ Pokazane są sektory informacji o lotach. &lt;/p&gt;</translation>
         <translation type="vanished">&lt;p&gt;&lt;strong&gt;Nie ma żadnej zainstalowanej mapy lotniczej.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Otwórz menu i przejdź do &lt;strong&gt;Ustawienia/Biblioteka/Mapy&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="472"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the button ☰ in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Nie ma zainstalowanych map lotniczych.&lt;/strong&gt;&lt;/p&gt;
+        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Nie ma zainstalowanych map lotniczych.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Aby zainstalowwać mapy, otwórz menu użytwając przycisku ☰ w górnym lewym roku tego ekranu.
 Wybierz &lt;strong&gt;Bibilioteka/Mapy&lt;/strong&gt; aby otworzyć stronę zarządzania mapami.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="472"/>
+        <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In order to install a map, please open the menu using the menu button in the upper left corner of this screen.
+Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="506"/>
@@ -3889,96 +4032,6 @@ Wybierz &lt;strong&gt;Bibilioteka/Mapy&lt;/strong&gt; aby otworzyć stronę zarz
         <location filename="../../../src/qml/pages/Manual.qml" line="29"/>
         <source>Manual</source>
         <translation>Instrukcja obsługi</translation>
-    </message>
-</context>
-<context>
-    <name>MapManager</name>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="33"/>
-        <source>Map Library</source>
-        <translation>Biblioteka map</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="61"/>
-        <source>aviation maps</source>
-        <translation>mapy lotnicze</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="64"/>
-        <source>base maps</source>
-        <translation>mapy podstawowe</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="152"/>
-        <source>Map Info</source>
-        <translation>Informacja dot. mapy</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="156"/>
-        <source>Map Info: </source>
-        <translation>Informacja mapy: </translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="164"/>
-        <source>Uninstall</source>
-        <translation>Odinstaluj</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="180"/>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="490"/>
-        <source>Download Error</source>
-        <translation>Błąd pobierania</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="181"/>
-        <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Błąd przy pobieraniu &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Powód: %2.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="249"/>
-        <source>Update list of maps</source>
-        <translation>Zaktualizuj listę map</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="261"/>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="475"/>
-        <source>Download all updates…</source>
-        <translation>Pobierz wszystkie aktualizacje...</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="285"/>
-        <source>Aviation Maps</source>
-        <translation>Mapy Lotnicze</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="288"/>
-        <source>Base Maps</source>
-        <translation>Mapy podstawowe</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="329"/>
-        <source>How to request additional aviation maps…</source>
-        <translation>Jak zażądać dodatkowych map nawigacyjnych...</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="336"/>
-        <source>Request additional aviation maps</source>
-        <translation>Zażądaj dodatkowych map nawigacyjnych</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="410"/>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Lista dostępnych map nie została jeszcze pobrana z serwera. Możesz ręcznie zrestartować pobieranie wybierając element Aktualizacja z menu. Aby znaleźć menu, poszukuj symbolu &apos;&amp;#8942; w prawym górnym rogu ekranu.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="436"/>
-        <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Pobieranie w toku...&lt;/h3&gt;&lt;p&gt;Proszę poczekaj, gdy aplikacja pobierze z serwera listę dostępnych map...&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/MapManager.qml" line="491"/>
-        <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Nie udało się pobrać listy map lotniczych.&lt;/p&gt;&lt;p&gt;Powód: %1.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -4349,22 +4402,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="28"/>
         <source>Downloading map data…</source>
-        <translation type="unfinished">Pobieranie danych map...</translation>
+        <translation>Pobieranie danych map...</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="30"/>
         <source>Traffic data receiver problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Problem z odbiornikiem danych ruchu lotniczego</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="32"/>
         <source>Traffic data receiver self test error</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd self-testu odbiornika ruchu lotniczego</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="85"/>
         <source>Open Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz aplikację</translation>
     </message>
 </context>
 <context>
@@ -4771,6 +4824,14 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     </message>
 </context>
 <context>
+    <name>Traffic::FlarmnetDB</name>
+    <message>
+        <location filename="../../../src/traffic/FlarmnetDB.cpp" line="81"/>
+        <source>Placeholder file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Traffic::TrafficDataProvider</name>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="49"/>
@@ -4801,236 +4862,236 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Abstract</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="381"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="383"/>
         <source>No Error</source>
         <translation>Brak błędu</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="384"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="386"/>
         <source>Normal Operation</source>
         <translation>Normalne działanie</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="387"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="389"/>
         <source>Reduced Functionality</source>
         <translation>Ograniczona funkcjonalność</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="390"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="392"/>
         <source>Device INOP</source>
         <translation>Urządzenie INOP</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="394"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="396"/>
         <source>Error code: %1</source>
         <translation>Kod błędu: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="397"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="399"/>
         <source>Firmware expired</source>
         <translation>Oprogramowanie wbudowane wygasło</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="400"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="402"/>
         <source>Firmware update error</source>
         <translation>Błąd aktualizacji oprogramowania wbudowanego</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="403"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="405"/>
         <source>Power (Voltage &lt; 8V)</source>
         <translation>Zasilanie (Napięcie &lt; 8V)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="406"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="408"/>
         <source>UI error</source>
         <translation>Błąd interfejsu</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="409"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="411"/>
         <source>Audio error</source>
         <translation>Błąd audio</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="412"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="414"/>
         <source>ADC error</source>
         <translation>Błąd ADC</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="415"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="417"/>
         <source>SD card error</source>
         <translation>Błąd karty SD</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="418"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="420"/>
         <source>USB error</source>
         <translation>Błąd USB</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="421"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="423"/>
         <source>LED error</source>
         <translation>Błąd LED</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="424"/>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="433"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="426"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="435"/>
         <source>EEPROM error</source>
         <translation>Błąd EEPROM</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="427"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="429"/>
         <source>General hardware error</source>
         <translation>Ogólny błąd sprzętu</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="430"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="432"/>
         <source>Transponder receiver Mode-C/S/ADS-B unserviceable</source>
         <translation>Niedostępny tryb odbioru transpondera C/S/ADS-B</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="436"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="438"/>
         <source>GPIO error</source>
         <translation>Błąd GPIO</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="439"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="441"/>
         <source>GPS communication</source>
         <translation>Komunikacja GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="442"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="444"/>
         <source>Configuration of GPS module</source>
         <translation>Kofiguracja modułu GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="445"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="447"/>
         <source>GPS antenna</source>
         <translation>Antena GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="448"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="450"/>
         <source>RF communication</source>
         <translation>Komunikacja RF</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="451"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="453"/>
         <source>Another FLARM device with the same Radio ID is being received. Alarms are suppressed for the relevant device.</source>
         <translation>Inne urządzenie FLARM jest odbierane z tym samym identyfikatorem Radio ID. Alarmy zostaną wyciszone dla tego urządzenia.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="454"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="456"/>
         <source>Wrong ICAO 24-bit address or radio ID</source>
         <translation>Błędny adres ICAO 24bit lub ID radia</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="457"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="459"/>
         <source>Communication</source>
         <translation>Komunikacja</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="460"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="462"/>
         <source>Flash memory</source>
         <translation>Pamięć Flash</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="463"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="465"/>
         <source>Pressure sensor</source>
         <translation>Czujnik ciśnienia</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="466"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="468"/>
         <source>Obstacle database (e.g. incorrect file type)</source>
         <translation>Baza danych przeszkód (np. niepoprawny typ pliku)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="469"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="471"/>
         <source>Obstacle database expired.</source>
         <translation>Przeterminowana baza danych przeszkód.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="472"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="474"/>
         <source>Flight recorder</source>
         <translation>Rejestrator lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="475"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="477"/>
         <source>Engine-noise recording not possible</source>
         <translation>Niemożliwe zapisywanie dźwięków silnika</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="478"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="480"/>
         <source>Range analyzer</source>
         <translation>Analizator zasięgu</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="481"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="483"/>
         <source>Configuration error, e.g. while reading flarmcfg.txt from SD/USB.</source>
         <translation>Błąd konfiguracji, np. podczas odczytu pliku flarm.cfg z SD/USB.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="484"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="486"/>
         <source>Invalid obstacle database license (e.g. wrong serial number)</source>
         <translation>Nieprawidłowa licencja bazy danych przeszkód (np. zły numer seryjny)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="487"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="489"/>
         <source>Invalid IGC feature license</source>
         <translation>Nieprawidłowa licencja własności IGC</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="490"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="492"/>
         <source>Invalid AUD feature license</source>
         <translation>Nieprawidłowa licencja własności AUD</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="493"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="495"/>
         <source>Invalid ENL feature license</source>
         <translation>Nieprawidłowa licencja własności ENL</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="496"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="498"/>
         <source>Invalid RFB feature license</source>
         <translation>Nieprawidłowa licencja własności RFB</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="499"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="501"/>
         <source>Invalid TIS feature license</source>
         <translation>Nieprawidłowa licencja własności TIS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="502"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="504"/>
         <source>Generic error</source>
         <translation>Ogólny błąd</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="505"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="507"/>
         <source>Flash File System error</source>
         <translation>Błąd systemu plików pamięci Flash</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="508"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="510"/>
         <source>Failure updating firmware of external display</source>
         <translation>Błąd aktualizacji oprogramowania zewnętrznego wyświetlacza</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="511"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="513"/>
         <source>Device is operated outside the designated region. The device does not work.</source>
         <translation>Urządzenie jest używane poza wyznaczonym regionem. To urządzenie nie działa.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="541"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="543"/>
         <source>No FLARM transmission</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak transmisji FLARM</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="545"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="547"/>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="243"/>
         <source>No GPS reception</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak odbioru GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="549"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="551"/>
         <source>Under- or Overvoltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Zubt małe lub duże napięcie</translation>
     </message>
     <message>
         <source>The connection was refused by the peer (or timed out).</source>
@@ -5135,12 +5196,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="246"/>
         <source>Maintenance required</source>
-        <translation type="unfinished"></translation>
+        <translation>Wymagana kontrola</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="249"/>
         <source>GPS Battery low voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Niskie napięcie baterii GPS</translation>
     </message>
 </context>
 <context>
@@ -5928,17 +5989,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="64"/>
         <source>Connection Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status połączenia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="101"/>
         <source>Traffic Data Receiver Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Status odbiornika danych lotniczych</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="130"/>
         <source>No problem reported</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie wykryto błędu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="168"/>
@@ -6126,14 +6187,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>UpdateMapDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="27"/>
         <source>Map updates available</source>
-        <translation>Dostępne są aktualizacje map</translation>
+        <translation type="vanished">Dostępne są aktualizacje map</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;One or several of your installed maps can be updated. The estimated download size is %1.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;p&gt;Jedna lub więcej z zainstalowanych map może zostać zaktualizowana. Przewidywana wielkość pobierania %1. &lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="27"/>
+        <source>Updates available</source>
+        <translation type="unfinished">Dostępne aktualizacje</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="28"/>
-        <source>&lt;p&gt;One or several of your installed maps can be updated. The estimated download size is %1.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Jedna lub więcej z zainstalowanych map może zostać zaktualizowana. Przewidywana wielkość pobierania %1. &lt;/p&gt;</translation>
+        <source>&lt;p&gt;One or several of your installed maps or databases can be updated. The estimated download size is %1.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="32"/>
@@ -9312,9 +9381,13 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Trasy Lotnicze</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="185"/>
         <source>Maps</source>
-        <translation>Mapy</translation>
+        <translation type="vanished">Mapy</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="185"/>
+        <source>Maps and Data</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="186"/>
