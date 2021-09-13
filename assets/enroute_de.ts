@@ -693,27 +693,27 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="124"/>
         <source>No information available.</source>
-        <translation type="unfinished">Keine Information verfügbar.</translation>
+        <translation>Keine Information verfügbar.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="127"/>
         <source>Installed</source>
-        <translation type="unfinished">Installiert</translation>
+        <translation>Installiert</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="129"/>
         <source>File Size</source>
-        <translation type="unfinished">Dateigröße</translation>
+        <translation>Dateigröße</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="143"/>
         <source>The map data was compiled from the following sources.</source>
-        <translation type="unfinished">Die Kartendaten stammen aus folgenden Quellen:</translation>
+        <translation>Die Kartendaten stammen aus folgenden Quellen:</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="173"/>
         <source>Internal Map Data</source>
-        <translation type="unfinished">Interne Kartendaten</translation>
+        <translation>Interne Kartendaten</translation>
     </message>
 </context>
 <context>
@@ -1014,7 +1014,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="555"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu. You find the menu at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste verfügbarer Karten wurde noch nicht vom Server heruntergeladen. Sie können das über den Menüpunkt &apos;Aktualisieren&apos; manuell neu anstoßen. Sie finden das Menü rechts oben auf dem Schirm.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
@@ -4610,7 +4610,8 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the menu button in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Es ist keine Luftfahrtkarte installiert.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Zur Installation einer Karte finden Sie im Menü links oben über den Punkt &lt;strong&gt;Bibliothek/Karten und Daten&lt;/strong&gt; das Kartenmanagement.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="506"/>
