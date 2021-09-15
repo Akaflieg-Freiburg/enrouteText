@@ -2821,6 +2821,11 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
+        <source>&lt;p&gt;The traffic receiver status is now shown prominently on the front page.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="289"/>
         <source>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; The readers of the German aviation magazine &apos;Aerokurier&apos; have named &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; as one of the top three innovations of the year in the category &apos;Avionics&apos;. Thanks to everybody who made this success possible!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; Die Leser der deutschen Luftfahrtzeitschrift &apos;Aerokurier&apos; haben &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; als eine der drei Top-Innovationen des Jahres in der Kategorie &apos;Avionics&apos; gewählt. Danke an alle, die diesen Erfolg ermöglicht haben!&lt;/p&gt;</translation>
     </message>
@@ -4629,12 +4634,12 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <translation>Kartenmodus: automatisch zentrieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="632"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="657"/>
         <source>Map Data Copyright Info</source>
         <translation>Copyright der Kartendaten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="638"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="663"/>
         <source>Map Data Copyright Information</source>
         <translation>Copyright-Information zu den Kartendaten</translation>
     </message>

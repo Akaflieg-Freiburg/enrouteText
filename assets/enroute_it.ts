@@ -3363,6 +3363,11 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
+        <source>&lt;p&gt;The traffic receiver status is now shown prominently on the front page.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="289"/>
         <source>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; The readers of the German aviation magazine &apos;Aerokurier&apos; have named &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; as one of the top three innovations of the year in the category &apos;Avionics&apos;. Thanks to everybody who made this success possible!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; I lettori di un megazine tedesco &apos;Aerokurier&apos; hanno nominato &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; come uno dei top 3 innovazioni dell&apos;anno della categoria &apos;Avionics&apos;. Grazie a tutti per aver reso tutto ciò possibile!&lt;/p&gt;</translation>
     </message>
@@ -4260,12 +4265,12 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
         <translation>Modalità cartina: automatico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="632"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="657"/>
         <source>Map Data Copyright Info</source>
         <translation>Copyright Info Mappe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="638"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="663"/>
         <source>Map Data Copyright Information</source>
         <translation>Informazioni Copyright Mappe</translation>
     </message>
