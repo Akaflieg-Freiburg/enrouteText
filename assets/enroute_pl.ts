@@ -673,27 +673,27 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="124"/>
         <source>No information available.</source>
-        <translation type="unfinished">Brak dostępnych informacji.</translation>
+        <translation>Brak dostępnych informacji.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="127"/>
         <source>Installed</source>
-        <translation type="unfinished">Zainstalowana</translation>
+        <translation>Zainstalowana</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="129"/>
         <source>File Size</source>
-        <translation type="unfinished">Rozmiar pliku</translation>
+        <translation>Rozmiar pliku</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="143"/>
         <source>The map data was compiled from the following sources.</source>
-        <translation type="unfinished">Dane mapy zostały skompilowane z następujących źródeł.</translation>
+        <translation>Dane mapy zostały skompilowane z następujących źródeł.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="173"/>
         <source>Internal Map Data</source>
-        <translation type="unfinished">Wewnętrzne dane map</translation>
+        <translation>Wewnętrzne dane map</translation>
     </message>
 </context>
 <context>
@@ -926,13 +926,13 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="33"/>
         <source>Map and Data Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteka map i danych</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="152"/>
         <location filename="../../../src/qml/pages/DataManager.qml" line="270"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacja</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="164"/>
@@ -977,7 +977,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="409"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="450"/>
@@ -992,7 +992,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="555"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu. You find the menu at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Lista dostępnych map nie została jeszcze pobrana z serwera. Możesz ponowić pobieranie ręcznie używając akcji &apos;Aktualizuj&apos; z menu. Menu znajdziesz w górnym rogu ekranu.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
@@ -3085,17 +3085,17 @@ oraz **importu planu lotu**.
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now uses the Flarmnet database to identify traffic.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; obecnie używa danych bazy Flarmnet do identyfikacji ruchu lotniczego.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>&lt;p&gt;The traffic receiver status is now shown prominently on the front page.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Status odbiornika ruchu lotniczego jest pokazywany w widocznym miejscu na głównej stronie.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="289"/>
         <source>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; The readers of the German aviation magazine &apos;Aerokurier&apos; have named &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; as one of the top three innovations of the year in the category &apos;Avionics&apos;. Thanks to everybody who made this success possible!&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Nagroda Innowacje 2021&lt;/strong&gt; Czytelnicy niemieckiego magazynu techniki lotniczej &apos;Aerokurier&apos; wybrali &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; jako jeden z trzech najlepszych innowacji tego roku w kategorii &apos;Awionika&apos;. Dziękujemy wszystkim, którzy się przyczynili do tego sukcesu!&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports traffic data receivers that require a password in addition to the WiFi password.&lt;/p&gt;</source>
@@ -4003,7 +4003,9 @@ Wybierz &lt;strong&gt;Bibilioteka/Mapy&lt;/strong&gt; aby otworzyć stronę zarz
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the menu button in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Nie ma zainstalowanych map lotniczych.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Aby zainstalować mapę, proszę otworzyć menu wykorzystując przycik w górnym lewym rogu ekranu.
+Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stronę z zarządzaniem mapami.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="506"/>
@@ -4833,7 +4835,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/FlarmnetDB.cpp" line="81"/>
         <source>Placeholder file.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -6202,12 +6204,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="27"/>
         <source>Updates available</source>
-        <translation type="unfinished">Dostępne aktualizacje</translation>
+        <translation>Dostępne aktualizacje</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="28"/>
         <source>&lt;p&gt;One or several of your installed maps or databases can be updated. The estimated download size is %1.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Jedna z twoich wielu zainstalowanych map lub baz danych może być zaktualizowana. Szacunkowy rozmiar pobierania to %1.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="32"/>
@@ -9392,7 +9394,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="185"/>
         <source>Maps and Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapy i dane</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="186"/>
