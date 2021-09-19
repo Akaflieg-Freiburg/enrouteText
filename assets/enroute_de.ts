@@ -2822,7 +2822,7 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>&lt;p&gt;The traffic receiver status is now shown prominently on the front page.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Der Status des Verkehrsdatenempfängers erscheint jetzt gut sichtbar auf der Hauptseite.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="289"/>
