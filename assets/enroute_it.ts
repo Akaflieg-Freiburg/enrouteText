@@ -6601,7 +6601,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="334"/>
         <source>[unable to convert pressure to hPa]</source>
-        <translation type="unfinished">[impossibile convertire la pressione in hPa]</translation>
+        <translation>[impossibile convertire la pressione in hPa]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1888"/>
@@ -7010,7 +7010,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="811"/>
         <source>stratus fractus</source>
-        <translation type="unfinished">fractostrati</translation>
+        <translation>fractostrati</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="814"/>
@@ -7157,7 +7157,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1670"/>
         <source>freezing snow</source>
-        <translation type="unfinished">neve gelata</translation>
+        <translation>neve gelata</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1673"/>
@@ -7380,7 +7380,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="314"/>
         <source>trace amount</source>
-        <translation type="unfinished">tracce</translation>
+        <translation>tracce</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="321"/>
@@ -7616,7 +7616,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="961"/>
         <source>Moderate mixed icing</source>
-        <translation type="unfinished">Moderato ghiaccio misto</translation>
+        <translation>Moderato ghiaccio misto</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="964"/>
@@ -7671,7 +7671,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="994"/>
         <source>Frequent moderate turbulence in cloud</source>
-        <translation type="unfinished">Frequente moderata turbolenza nelle nuvole</translation>
+        <translation>Frequente moderata turbolenza nelle nuvole</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="997"/>
@@ -7696,7 +7696,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1009"/>
         <source>Extreme turbulence</source>
-        <translation type="unfinished">Turbolenza estrema</translation>
+        <translation>Turbolenza estrema</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1021"/>
@@ -7741,7 +7741,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1051"/>
         <source>increasing more rapidly</source>
-        <translation type="unfinished">aumenta più rapidamente</translation>
+        <translation>aumenta più rapidamente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1054"/>
@@ -7756,7 +7756,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1060"/>
         <source>decreasing more slowly</source>
-        <translation type="unfinished">diminuisce più lentamente</translation>
+        <translation>diminuisce più lentamente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1063"/>
@@ -7766,7 +7766,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1066"/>
         <source>decreasing more rapidly</source>
-        <translation type="unfinished">diminuisce più rapidamente</translation>
+        <translation>diminuisce più rapidamente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1072"/>
@@ -7781,17 +7781,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1084"/>
         <source>Probability 30%</source>
-        <translation type="unfinished">Probabilità 30%</translation>
+        <translation>Probabilità 30%</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1087"/>
         <source>Probability 40%</source>
-        <translation type="unfinished">Probabilità 40%</translation>
+        <translation>Probabilità 40%</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1102"/>
         <source>clear and dry</source>
-        <translation type="unfinished">chiaro e secco</translation>
+        <translation>chiaro e secco</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1105"/>
@@ -7921,7 +7921,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1177"/>
         <source>drizzle in the vicinity</source>
-        <translation type="unfinished">pioviggine nelle vicinanze</translation>
+        <translation>pioviggine nelle vicinanze</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1196"/>
@@ -7941,22 +7941,22 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1205"/>
         <source>moderate freezing drizzle</source>
-        <translation type="unfinished">moderata pioggerella gelata</translation>
+        <translation>moderata pioggerella gelata</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1208"/>
         <source>heavy freezing drizzle</source>
-        <translation type="unfinished">forte pioggerella gelata</translation>
+        <translation>forte pioggerella gelata</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1211"/>
         <source>recent freezing drizzle</source>
-        <translation type="unfinished">recente pioviggine gelata</translation>
+        <translation>recente pioviggine gelata</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1224"/>
         <source>blowing dust in the vicinity</source>
-        <translation type="unfinished">vento polveroso nelle vicinanze</translation>
+        <translation>vento polveroso nelle vicinanze</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1236"/>
@@ -8095,12 +8095,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1470"/>
         <source>rain showers</source>
-        <translation type="unfinished">scrosci di pioggia</translation>
+        <translation>scrosci di pioggia</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1473"/>
         <source>rain showers in the vicinity</source>
-        <translation type="unfinished">scrosci di pioggia nelle vicinanze</translation>
+        <translation>scrosci di pioggia nelle vicinanze</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1495"/>
@@ -8250,7 +8250,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1701"/>
         <source>light snow showers</source>
-        <translation type="unfinished">deboli nevicate</translation>
+        <translation>deboli nevicate</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1704"/>
@@ -8335,12 +8335,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1773"/>
         <source>thunderstorm with small hail in the vicinity</source>
-        <translation type="unfinished">temporale con grandine fine nelle vicinanze</translation>
+        <translation>temporale con grandine fine nelle vicinanze</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1776"/>
         <source>light thunderstorm with small hail</source>
-        <translation type="unfinished">temporale leggero con grandine fine</translation>
+        <translation>temporale leggero con grandine fine</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1779"/>
@@ -8350,12 +8350,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1782"/>
         <source>heavy thunderstorm with small hail</source>
-        <translation type="unfinished">temporale forte con grandine fine</translation>
+        <translation>temporale forte con grandine fine</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1785"/>
         <source>recent thunderstorm with small hail</source>
-        <translation type="unfinished">temporale recente con grandine fine</translation>
+        <translation>temporale recente con grandine fine</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1804"/>
@@ -8513,7 +8513,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2071"/>
         <source>Sky condition data (cloud data) is missing</source>
-        <translation type="unfinished">Condizioni del cielo (nubi) non disponibili</translation>
+        <translation>Condizioni del cielo (nubi) non disponibili</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2077"/>
@@ -8598,22 +8598,22 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2149"/>
         <source>Automated station w/o precipitation discriminator</source>
-        <translation type="unfinished">Stazione automatizzata senza discriminatore di precipitazione</translation>
+        <translation>Stazione automatizzata senza discriminatore di precipitazione</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2152"/>
         <source>Automated station with precipitation discriminator</source>
-        <translation type="unfinished">Stazione automatizzata con discriminatore di precipitazione</translation>
+        <translation>Stazione automatizzata con discriminatore di precipitazione</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2155"/>
         <source>Automated station w/o precipitation discriminator, report augmented by a human observer</source>
-        <translation type="unfinished">Stazione automatizzata senza discriminatore di precipitazione, riepilogo integrato da un osservatore umano</translation>
+        <translation>Stazione automatizzata senza discriminatore di precipitazione, riepilogo integrato da un osservatore umano</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2158"/>
         <source>Automated station with precipitation discriminator, report augmented by a human observer</source>
-        <translation type="unfinished">Stazione automatizzata con discriminatore di precipitazione, riepilogo integrato da un osservatore umano</translation>
+        <translation>Stazione automatizzata con discriminatore di precipitazione, riepilogo integrato da un osservatore umano</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2161"/>
@@ -8659,7 +8659,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="2216"/>
         <source>cloud-to-ground</source>
         <translatorcomment>Indica la direzione del fulmine</translatorcomment>
-        <translation type="unfinished">nube-suolo</translation>
+        <translation>nube-suolo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2219"/>
@@ -8669,12 +8669,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2222"/>
         <source>cloud-to-cloud</source>
-        <translation type="unfinished">nuvola-nuvola</translation>
+        <translation>nuvola-nuvola</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2225"/>
         <source>cloud-to-air without strike to ground</source>
-        <translation type="unfinished">nuvola-aria senza toccare terra</translation>
+        <translation>nuvola-aria senza toccare terra</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2228"/>
@@ -8703,12 +8703,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2277"/>
         <source>Observed 6-hourly minimum/maximum temperature: %1/%2</source>
-        <translation type="unfinished">Temperatura minima/massima osservata ogni 6 ore:%1 /%2</translation>
+        <translation>Temperatura minima/massima osservata ogni 6 ore:%1 /%2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2282"/>
         <source>Observed 24-hourly minimum/maximum temperature: %1/%2</source>
-        <translation type="unfinished">Temperatura minima/massima osservata ogni 24 ore:%1 /%2</translation>
+        <translation>Temperatura minima/massima osservata ogni 24 ore:%1 /%2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2288"/>
@@ -8728,17 +8728,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2314"/>
         <source>Duration of sunshine that occurred the previous calendar day is %1 minutes.</source>
-        <translation type="unfinished">La durata di luce solare verificata il giorno precedente è di%1 minuti.</translation>
+        <translation>La durata di luce solare verificata il giorno precedente è di%1 minuti.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2316"/>
         <source>No sunshine occurred the previous calendar day</source>
-        <translation type="unfinished">Nessuna luce solare rillevata il giorno precedente</translation>
+        <translation>Nessuna luce solare rillevata il giorno precedente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2319"/>
         <source>This report is the corrected weather observation, correction number is %1</source>
-        <translation type="unfinished">Questo rapporto è l&apos;osservazione meteorologica corretta, il numero di correzione è%1</translation>
+        <translation>Questo rapporto è l&apos;osservazione meteorologica corretta, il numero di correzione è%1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2325"/>
@@ -8758,7 +8758,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2345"/>
         <source>Colour code BLUE+: visibility &gt;8000 m or lowest cloud base height &gt;2000 ft</source>
-        <translation type="unfinished">Codice colore BLU+: visibilità&gt; 8000 m e altezza minima della base delle nuvole &gt; 2000 ft</translation>
+        <translation>Codice colore BLU+: visibilità&gt; 8000 m e altezza minima della base delle nuvole &gt; 2000 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2354"/>
@@ -8822,12 +8822,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2439"/>
         <source>Water equivalent of frozen precipitation for the last 3 or 6 hours: %1.</source>
-        <translation type="unfinished">Equivalente in acqua della precipitazione gelata nelle ultime 3 o 6 ore:%1.</translation>
+        <translation>Equivalente in acqua della precipitazione gelata nelle ultime 3 o 6 ore:%1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2443"/>
         <source>Water equivalent of frozen precipitation for the last 3 hours: %1.</source>
-        <translation type="unfinished">Equivalente in acqua della precipitazione gelata nelle ultime 3 ore:%1.</translation>
+        <translation>Equivalente in acqua della precipitazione gelata nelle ultime 3 ore:%1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2447"/>
@@ -8872,12 +8872,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2479"/>
         <source>Snow increasing rapidly. For the last hour snow increased by %1. Total snowfall: %2.</source>
-        <translation type="unfinished">Neve in rapido accumulo. Nelle ultime ore la neve è aumentata di %1 per un totale di %2.</translation>
+        <translation>Neve in rapido accumulo. Nelle ultime ore la neve è aumentata di %1 per un totale di %2.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2484"/>
         <source>Rainfall for the last 10 minutes before report release time: %1. Rainfall since 9:00 local time: %2.</source>
-        <translation type="unfinished">Precipitazioni negli ultimi 10 minuti precedenti all&apos;emissione del rapporto delle %1. Precipitazioni dalle 9:00 ora locale:%2.</translation>
+        <translation>Precipitazioni negli ultimi 10 minuti precedenti all&apos;emissione del rapporto delle %1. Precipitazioni dalle 9:00 ora locale:%2.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2489"/>
@@ -8897,7 +8897,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2498"/>
         <source>Precipitation data is missing.</source>
-        <translation type="unfinished">Dati sulle precipitazioni mancanti.</translation>
+        <translation>Dati sulle precipitazioni mancanti.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2512"/>
@@ -8907,7 +8907,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2515"/>
         <source>Forecast lowest QNH: %1</source>
-        <translation type="unfinished">Previsione del QNH minimo: %1</translation>
+        <translation>Previsione del QNH minimo: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2519"/>
@@ -8917,12 +8917,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2523"/>
         <source>Standard sea level pressure: %1</source>
-        <translation type="unfinished">Pressione standard al livello del mare: %1</translation>
+        <translation>Pressione standard al livello del mare: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2527"/>
         <source>QNH is not available</source>
-        <translation type="unfinished">QNH non disponibile</translation>
+        <translation>QNH non disponibile</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2531"/>
@@ -8943,13 +8943,13 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="2554"/>
         <source>During last 3 hours the atmospheric pressure was %1. Now the atmospheric pressure is %2 3h ago. Absolute pressure change is %3</source>
         <extracomment>Note: the string %2 will be replaced by a text such as &quot;less than&quot;</extracomment>
-        <translation type="unfinished">Nelle ultime 3 ore la pressione atmosferica è stata %1. Ora la pressione atmosferica è %2 di 3 ore fa. La variazione della pressione assoluta è %3</translation>
+        <translation>Nelle ultime 3 ore la pressione atmosferica è stata %1. Ora la pressione atmosferica è %2 di 3 ore fa. La variazione della pressione assoluta è %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2567"/>
         <source>Issued at %1</source>
         <translatorcomment>Presumo 1% sia un orario</translatorcomment>
-        <translation type="unfinished">Rilasciato alle %1</translation>
+        <translation>Rilasciato alle %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2576"/>
@@ -8969,7 +8969,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2598"/>
         <source>Aerodrome closed due to snow accumulation</source>
-        <translation type="unfinished">Aeroporto chiuso per accumulo neve</translation>
+        <translation>Aeroporto chiuso per accumulo neve</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2601"/>
@@ -8994,12 +8994,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2658"/>
         <source>No significant weather changes expected</source>
-        <translation type="unfinished">Nessun cambiamento significativo del meteo previsto</translation>
+        <translation>Nessun cambiamento significativo del meteo previsto</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2661"/>
         <source>Gradually changing</source>
-        <translation type="unfinished">Cambia gradualmente</translation>
+        <translation>Cambia gradualmente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2663"/>
@@ -9077,27 +9077,27 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2756"/>
         <source>Towering cumulus cloud(s)</source>
-        <translation type="unfinished">Nuvola/e cumulo a torre</translation>
+        <translation>Nuvola/e cumulo a torre</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2760"/>
         <source>Altocumulus cloud(s)</source>
-        <translation type="unfinished">Nuvola/e Altocumulo</translation>
+        <translation>Nuvola/e Altocumulo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2764"/>
         <source>Stratocumulus standing lenticular cloud(s)</source>
-        <translation type="unfinished">Nuvola/e Stratocumuli  lenticolare permanenti</translation>
+        <translation>Nuvola/e Stratocumuli  lenticolare permanenti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2768"/>
         <source>Altocumulus standing lenticular cloud(s)</source>
-        <translation type="unfinished">Nuvola/e Altocumuli  lenticolare permanenti</translation>
+        <translation>Nuvola/e Altocumuli  lenticolare permanenti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2772"/>
         <source>Cirrocumulus standing lenticular cloud(s)</source>
-        <translation type="unfinished">Nuvola/e Cirrocumuli  lenticolare permanenti</translation>
+        <translation>Nuvola/e Cirrocumuli  lenticolare permanenti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2776"/>
@@ -9168,7 +9168,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="2832"/>
         <source>Moving towards %1.</source>
         <extracomment>%1 is string like &apos;west&apos;</extracomment>
-        <translation type="unfinished">Verso %1.</translation>
+        <translation>Verso %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2846"/>
@@ -9208,7 +9208,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2882"/>
         <source>Visibility from air traffic control tower is %1</source>
-        <translation type="unfinished">La visibilità della torre di controllo: %1</translation>
+        <translation>La visibilità della torre di controllo: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2886"/>
@@ -9218,7 +9218,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2891"/>
         <source>Visibility is variable from %1 to %2</source>
-        <translation type="unfinished">La visibilità è varibile da %1 a %2</translation>
+        <translation>La visibilità è varibile da %1 a %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2896"/>
@@ -9238,7 +9238,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2915"/>
         <source>Runway visual range for %1 is variable from %2 to %3</source>
-        <translation type="unfinished">La visibilità della pista per %1 è variabile da %2 a %3</translation>
+        <translation>La visibilità della pista per %1 è variabile da %2 a %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2921"/>
@@ -9248,12 +9248,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2927"/>
         <source>Visibility data missing</source>
-        <translation type="unfinished">Dati visibilità mancanti</translation>
+        <translation>Dati visibilità mancanti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2930"/>
         <source>Runway visual range data is missing</source>
-        <translation type="unfinished">Dati sulla visibilità della pista mancanti</translation>
+        <translation>Dati sulla visibilità della pista mancanti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2933"/>
@@ -9383,17 +9383,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3079"/>
         <source>Wind shear between runway level and 1.600 ft at runway %1</source>
-        <translation type="unfinished">Raffiche di vento tra il livello della pista e 1.600 ft sulla pista %1</translation>
+        <translation>Raffiche di vento tra il livello della pista e 1.600 ft sulla pista %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3081"/>
         <source>Wind shear between runway level and 1.600 ft</source>
-        <translation type="unfinished">Raffiche di vento tra il livello della pista e 1.600 ft</translation>
+        <translation>Raffiche di vento tra il livello della pista e 1.600 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3084"/>
         <source>Potential wind shear</source>
-        <translation type="unfinished">Raffiche di vento potenziali</translation>
+        <translation>Raffiche di vento potenziali</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3087"/>
