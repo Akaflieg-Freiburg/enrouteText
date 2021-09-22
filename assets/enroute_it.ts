@@ -2328,7 +2328,6 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
 &lt;p&gt;Ti preghiamo di comprendere che programmiamo questa app gratuita nel nostro tempo libero, come un servizio alla comunit&amp;agrave;. Purtroppo, devo sottolineare che l&apos;invio di richieste scortesi probabilmente non dar&amp;agrave; il risultato che desideri.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="156"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -2354,7 +2353,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+        <translation type="vanished">&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Versione %1&lt;/p&gt;
 
@@ -3355,6 +3354,35 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Gli itinerari possono venir letti da altri programmi, come app di backup o sincronia files.  Questo aiuta nel condividere gli itinerari con altri dispositivi.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="156"/>
+        <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+
+&lt;p&gt;Version %1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Simple, elegant and functional&lt;/li&gt;
+  &lt;li&gt;No ads, no commercical &quot;pro&quot; version&lt;/li&gt;
+  &lt;li&gt;No registration, no membership&lt;/li&gt;
+  &lt;li&gt;Does not spy on you&lt;/li&gt;
+  &lt;li&gt;100% Open Source, written without commercial interest&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Check &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;the web site&lt;/a&gt; for more information.&lt;/p&gt;
+
+&lt;h3&gt;Academic Sponsor&lt;/h3&gt;
+      
+&lt;p&gt;The author gratefully acknowledges support by our academic sponsor, the &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;University of Freiburg&lt;/a&gt;.  The university kindly provides the infrastructure used to generate our maps, and the bandwidth required to serve them.&lt;/p&gt;
+
+&lt;h3&gt;Acknowledgements&lt;/h3&gt;
+
+&lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
@@ -5086,24 +5114,32 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Dati del ricevitore di traffico</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="380"/>
         <source>Receiving traffic data.</source>
-        <translation>Ricezione dati di traffico.</translation>
+        <translation type="vanished">Ricezione dati di traffico.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="382"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="393"/>
+        <source>Receiving heartbeat.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="395"/>
         <source>Receiving position info.</source>
         <translation>Ricezione informazioni di posizione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="385"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="398"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Ricezione info barometriche di altitudine.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="392"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="405"/>
+        <source>Not receiving heartbeat.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not receiving traffic data.</source>
-        <translation>Non ricevo dati di traffico.</translation>
+        <translation type="vanished">Non ricevo dati di traffico.</translation>
     </message>
 </context>
 <context>
@@ -5695,12 +5731,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Simulate</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="41"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="46"/>
         <source>Connected.</source>
         <translation>Connesso.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="48"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="53"/>
         <source>Not connected.</source>
         <translation>Non connesso.</translation>
     </message>
@@ -9726,14 +9762,22 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Non ricevo informazioni sulla posizione.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="264"/>
         <source>Receiving traffic data.</source>
-        <translation>Ricezione dati di traffico.</translation>
+        <translation type="vanished">Ricezione dati di traffico.</translation>
+    </message>
+    <message>
+        <source>Not receiving traffic data.</source>
+        <translation type="vanished">Non ricevo dati di traffico.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="264"/>
-        <source>Not receiving traffic data.</source>
-        <translation>Non ricevo dati di traffico.</translation>
+        <source>Receiving heartbeat.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="264"/>
+        <source>Not receiving heartbeat.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="330"/>
@@ -9795,11 +9839,16 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Enroute Flight Navigation è una app libera per piloti VFR, sviuluppata da Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="122"/>
         <source>Enroute Flight Navigation is a free navigation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
-        <translation>Enroute Flight Navigation è un&apos;app di navigazione per piloti VFR,
+        <translation type="vanished">Enroute Flight Navigation è un&apos;app di navigazione per piloti VFR,
 sviluppata e progettata da Akaflieg Freiburg.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/main.cpp" line="122"/>
+        <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
+developed as a project of Akaflieg Freiburg.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="125"/>

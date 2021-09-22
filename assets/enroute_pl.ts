@@ -1977,7 +1977,6 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;Dane lotnicze są dostarczane przez &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; oraz &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projekt. Mapy podstawowe dostarczane są dzięki &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Odwołaj się do dokumentacji by poznać więcej szczegółów.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="156"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -2003,7 +2002,7 @@ fundacji non-profit we Freiburgu w Niemczech. &lt;/p&gt;
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+        <translation type="vanished">&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Wersja %1&lt;/p&gt;
 
@@ -3081,6 +3080,35 @@ oraz **importu planu lotu**.
 &lt;p&gt;Lataj bezpiecznie i ciesz się wieloma lądowaniami!&lt;/p&gt;
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="156"/>
+        <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+
+&lt;p&gt;Version %1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Simple, elegant and functional&lt;/li&gt;
+  &lt;li&gt;No ads, no commercical &quot;pro&quot; version&lt;/li&gt;
+  &lt;li&gt;No registration, no membership&lt;/li&gt;
+  &lt;li&gt;Does not spy on you&lt;/li&gt;
+  &lt;li&gt;100% Open Source, written without commercial interest&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Check &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;the web site&lt;/a&gt; for more information.&lt;/p&gt;
+
+&lt;h3&gt;Academic Sponsor&lt;/h3&gt;
+      
+&lt;p&gt;The author gratefully acknowledges support by our academic sponsor, the &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;University of Freiburg&lt;/a&gt;.  The university kindly provides the infrastructure used to generate our maps, and the bandwidth required to serve them.&lt;/p&gt;
+
+&lt;h3&gt;Acknowledgements&lt;/h3&gt;
+
+&lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
@@ -4846,24 +4874,32 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Odbiornik danych ruchu lotniczego</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="380"/>
         <source>Receiving traffic data.</source>
-        <translation>Odbieranie danych ruchu lotniczego.</translation>
+        <translation type="vanished">Odbieranie danych ruchu lotniczego.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="382"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="393"/>
+        <source>Receiving heartbeat.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="395"/>
         <source>Receiving position info.</source>
         <translation>Odbieranie informacji o pozycji.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="385"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="398"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Odbieranie informacji o wysokości barometrycznej.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="392"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="405"/>
+        <source>Not receiving heartbeat.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not receiving traffic data.</source>
-        <translation>Nie odbieranie danych ruchu lotniczego.</translation>
+        <translation type="vanished">Nie odbieranie danych ruchu lotniczego.</translation>
     </message>
 </context>
 <context>
@@ -5455,12 +5491,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Simulate</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="41"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="46"/>
         <source>Connected.</source>
         <translation>Połączony.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="48"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="53"/>
         <source>Not connected.</source>
         <translation>Nie połączony.</translation>
     </message>
@@ -9422,14 +9458,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Nie odbieranie informacji o pozycji.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="264"/>
         <source>Receiving traffic data.</source>
-        <translation>Odbieranie danych ruchu lotniczego.</translation>
+        <translation type="vanished">Odbieranie danych ruchu lotniczego.</translation>
+    </message>
+    <message>
+        <source>Not receiving traffic data.</source>
+        <translation type="vanished">Nie odbieranie danych ruchu lotniczego.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="264"/>
-        <source>Not receiving traffic data.</source>
-        <translation>Nie odbieranie danych ruchu lotniczego.</translation>
+        <source>Receiving heartbeat.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="264"/>
+        <source>Not receiving heartbeat.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="330"/>
