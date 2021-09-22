@@ -2816,7 +2816,30 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+
+&lt;p&gt;Version %1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ist eine kostenlose Navigations-App für VFR-Piloten, entwickelt als Projekt der Akaflieg Freiburg.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Einfach, elegant und funktional&lt;/li&gt;
+  &lt;li&gt;Keine Werbung, keine kommerzielle &quot;Pro&quot;-Version&lt;/li&gt;
+  &lt;li&gt;Keine Registrierung, keine Mitgliedschaft&lt;/li&gt;
+  &lt;li&gt;Spioniert Sie nicht aus&lt;/li&gt;
+  &lt;li&gt;100% Open Source, geschrieben ohne kommerzielles Interesse&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;Hier&lt;/a&gt; finden Sie weiterführende Informationen.&lt;/p&gt;
+
+&lt;h3&gt;Akademischer Sponsor&lt;/h3&gt;
+&lt;p&gt;Der Autor ist dankbar für die Unterstützung unseres akademischen Sponsors, der &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Universität Freiburg&lt;/a&gt;. Sie stellt uns freundlicherweise die Infrastruktur zur Erzeugung unserer Karten und die Bandbreite der Netzanbindung zur Verfügung.&lt;/p&gt;
+
+&lt;h3&gt;Danksagungen&lt;/h3&gt;
+
+&lt;p&gt;Dieses Programm basiert auf einer Anzahl von Open-Source-Bibliotheken, einschließlich &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; und &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Freundlicherweise zur Verfügung gestellt werden uns die Luftfahrtdaten von den Projekten &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; und &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; sowie die Basiskarten von &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Details dazu finden Sie in der Dokumentation.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="188"/>
@@ -5521,7 +5544,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="393"/>
         <source>Receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfange Heartbeat</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="395"/>
@@ -5536,7 +5559,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="405"/>
         <source>Not receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfange keinen Heartbeat</translation>
     </message>
     <message>
         <source>Not receiving traffic data.</source>
@@ -10273,12 +10296,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="264"/>
         <source>Receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfange Heartbeat.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="264"/>
         <source>Not receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfange keinen Heartbeat.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="330"/>
