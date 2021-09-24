@@ -3254,7 +3254,7 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;li&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella e Antonio Fardella. Antonio è un aviatore navale con la passione per tutto ciò che è entusiasmante.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="95"/>
@@ -3388,7 +3388,32 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Stefan, please correct the spelling &quot;navigation&quot; instead of &quot;nagivation&quot;</translatorcomment>
+        <translation>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+
+&lt;p&gt;Versione %1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è una app gratuita per piloti VFR, sviluppata e progettata da Akaflieg Freiburg.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Semplice, elegante e funzionale.&lt;/li&gt;
+  &lt;li&gt;Nessuna pubblicità, nessuna versione &quot;pro&quot; commerciale.&lt;/li&gt;
+  &lt;li&gt;Senza registrazione nè iscrizione.&lt;/li&gt;
+  &lt;li&gt;Non ti spia.&lt;/li&gt;
+  &lt;li&gt;100% Open Source, scritta senza interessi economici.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Vai al sito &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;&lt;/a&gt; per ulteriori informazioni.&lt;/p&gt;
+
+&lt;h3&gt;Sponsor Accademici&lt;/h3&gt;
+      
+&lt;p&gt;L&apos;autore riconosce con gratitudine il supporto del nostro sponsor accademico, l&apos;&lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Università di Freiburg&lt;/a&gt;. L&apos;università fornisce generosamente le infrastrutture usate per generare le nostre mappe, e la larghezza di banda necessaria per farle scaricare.&lt;/p&gt;
+
+&lt;h3&gt;Riconoscimenti&lt;/h3&gt;
+
+&lt;p&gt;Questo programma è costruito su un certo numero di librerie open source, incluse &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I dati aeronautici sono generosamente forniti dai progetti &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; e &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;. Le mappe base sono generosamente fornite da &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Consultare la relativa documentazione per maggiori dettagli.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
@@ -3403,7 +3428,7 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
     <message>
         <location filename="../../../src/Librarian.cpp" line="289"/>
         <source>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; The readers of the German aviation magazine &apos;Aerokurier&apos; have named &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; as one of the top three innovations of the year in the category &apos;Avionics&apos;. Thanks to everybody who made this success possible!&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; I lettori di un megazine tedesco &apos;Aerokurier&apos; hanno nominato &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; come uno dei top 3 innovazioni dell&apos;anno della categoria &apos;Avionics&apos;. Grazie a tutti per aver reso tutto ciò possibile!&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; I lettori del magazine tedesco &apos;Aerokurier&apos; hanno nominato &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; come una delle top 3 innovazioni dell&apos;anno della categoria &apos;Avionics&apos;. Grazie a tutti per aver reso tutto ciò possibile!&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports traffic data receivers that require a password in addition to the WiFi password.&lt;/p&gt;</source>
@@ -5126,7 +5151,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="393"/>
         <source>Receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rilevazione dei battiti.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="395"/>
@@ -5141,7 +5166,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="405"/>
         <source>Not receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mancata rilevazione dei battiti.</translation>
     </message>
     <message>
         <source>Not receiving traffic data.</source>
@@ -9778,12 +9803,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="264"/>
         <source>Receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricezione dei battiti.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="264"/>
         <source>Not receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non ricevo i battiti.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="330"/>
@@ -9798,7 +9823,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="369"/>
         <source>Open in browser</source>
-        <translation>Apri il browser</translation>
+        <translation>Apri nel browser</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="384"/>
@@ -9854,7 +9879,8 @@ sviluppata e progettata da Akaflieg Freiburg.</translation>
         <location filename="../../../src/main.cpp" line="122"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation è un&apos;app di navigazione per piloti VFR,
+sviluppata e progettata da Akaflieg Freiburg.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="125"/>
