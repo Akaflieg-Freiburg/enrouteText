@@ -1803,7 +1803,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="184"/>
         <source>Overwrite current flight route?</source>
-        <translation type="unfinished">Sovrascrivere l&apos;itinerario corrente?</translation>
+        <translation>Sovrascrivere l&apos;itinerario corrente?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="194"/>
@@ -1845,7 +1845,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="205"/>
         <source>The route &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
-        <translation type="unfinished">L&apos;itinerario &lt;strong&gt;%1&lt;/strong&gt; è già presente. Vuoi sovrascriverlo?</translation>
+        <translation>L&apos;itinerario &lt;strong&gt;%1&lt;/strong&gt; è già presente. Vuoi sovrascriverlo?</translation>
     </message>
     <message>
         <source>Enter a file name or choose an existing name from the list below.</source>
@@ -1902,12 +1902,12 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="69"/>
         <source>Import Flight Route?</source>
-        <translation type="unfinished">Importare l&apos;itinerario?</translation>
+        <translation>Importare l&apos;itinerario?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="76"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="unfinished">State per sovrascrivere l&apos;itinerario. Una volta sovrascritto non potrà essere ripristinato.</translation>
+        <translation>State per sovrascrivere l&apos;itinerario. Una volta sovrascritto non potrà essere ripristinato.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="104"/>
@@ -1930,7 +1930,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="43"/>
         <source>Authors</source>
-        <translation type="unfinished">Autori</translation>
+        <translation>Autori</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="44"/>
@@ -4626,7 +4626,7 @@ like to port the app to iOS and if you have development
 experience with C++/Qt programming and with Apple systems,
 please get in touch with us by opening a GitHub issue.&lt;/p&gt;
 </source>
-        <translation type="unfinished">
+        <translation>
 &lt;h3&gt;Partecipa allo sviluppo&lt;/h3&gt;
 
 &lt;p&gt;Abbiamo grandi piani per l&apos;app &lt;strong&gt;Enroute Flight
@@ -4644,7 +4644,7 @@ vorresti tradurre l&apos;app nella tua lingua madre
 
 &lt;p&gt;Se sei fluente in C++ e se desideri aiutare
 con la programmazione, mettiti in contatto con noi entro
-apertura di un problema di GitHub. Stiamo anche lottando con la gestione della carica di Android e sarei grato per qualsiasi aiuto
+apertura di un problema di GitHub. Stiamo anche lavorando sulla gestione della carica di Android e sarei grato per qualsiasi aiuto
 che potremmo ottenere.&lt;/p&gt;
 
 &lt;h3&gt;Porting per iOS&lt;/h3&gt;
@@ -4855,7 +4855,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="36"/>
         <source>Built-in receiver/%1</source>
-        <translation type="unfinished">Ricevitore incorporato/%1</translation>
+        <translation>Ricevitore incorporato/%1</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="43"/>
@@ -5004,7 +5004,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="198"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
-        <translation type="unfinished">Una volta che la memoria è stata cancellata, la password non può essere più recuperata.</translation>
+        <translation>Una volta che la memoria è stata cancellata, la password non può essere più recuperata.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="204"/>
