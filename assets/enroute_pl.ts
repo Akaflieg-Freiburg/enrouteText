@@ -2970,7 +2970,7 @@ oraz **importu planu lotu**.
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="95"/>
@@ -3106,7 +3106,7 @@ oraz **importu planu lotu**.
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
@@ -4163,42 +4163,42 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="59"/>
         <source>just now</source>
-        <translation type="unfinished">teraz</translation>
+        <translation>teraz</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="67"/>
         <source>%1h</source>
-        <translation type="unfinished">%1g</translation>
+        <translation>%1g</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="69"/>
         <source>%1min</source>
-        <translation type="unfinished">%1min</translation>
+        <translation>%1min</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="71"/>
         <source>%1h and %2min</source>
-        <translation type="unfinished">%1g i %2min</translation>
+        <translation>%1g i %2min</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="75"/>
         <source>%1 ago</source>
-        <translation type="unfinished">sprzed %1</translation>
+        <translation>sprzed %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="77"/>
         <source>in %1</source>
-        <translation type="unfinished">w %1</translation>
+        <translation>w %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="95"/>
         <source>yesterday %1</source>
-        <translation type="unfinished">wczoraj %1</translation>
+        <translation>wczoraj %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="99"/>
         <source>tomorrow %1</source>
-        <translation type="unfinished">jutro %1</translation>
+        <translation>jutro %1</translation>
     </message>
 </context>
 <context>
@@ -9509,12 +9509,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="264"/>
         <source>Receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="264"/>
         <source>Not receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="330"/>

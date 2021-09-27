@@ -4797,42 +4797,42 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="59"/>
         <source>just now</source>
-        <translation type="unfinished">soeben</translation>
+        <translation>soeben</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="67"/>
         <source>%1h</source>
-        <translation type="unfinished">%1 h</translation>
+        <translation>%1h</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="69"/>
         <source>%1min</source>
-        <translation type="unfinished">%1 min</translation>
+        <translation>%1min</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="71"/>
         <source>%1h and %2min</source>
-        <translation type="unfinished">%1 h und %2 min</translation>
+        <translation>%1h und %2min</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="75"/>
         <source>%1 ago</source>
-        <translation type="unfinished">vor %1 </translation>
+        <translation>vor %1 </translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="77"/>
         <source>in %1</source>
-        <translation type="unfinished">in %1 </translation>
+        <translation>in %1 </translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="95"/>
         <source>yesterday %1</source>
-        <translation type="unfinished">gestern %1</translation>
+        <translation>gestern %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="99"/>
         <source>tomorrow %1</source>
-        <translation type="unfinished">morgen %1</translation>
+        <translation>morgen %1</translation>
     </message>
 </context>
 <context>

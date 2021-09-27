@@ -4430,42 +4430,42 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="59"/>
         <source>just now</source>
-        <translation type="unfinished">ora</translation>
+        <translation>ora</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="67"/>
         <source>%1h</source>
-        <translation type="unfinished">%1h</translation>
+        <translation>%1h</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="69"/>
         <source>%1min</source>
-        <translation type="unfinished">%1min</translation>
+        <translation>%1min</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="71"/>
         <source>%1h and %2min</source>
-        <translation type="unfinished">%1h e %2min</translation>
+        <translation>%1h e %2min</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="75"/>
         <source>%1 ago</source>
-        <translation type="unfinished">%1 fa</translation>
+        <translation>%1 fa</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="77"/>
         <source>in %1</source>
-        <translation type="unfinished">in %1</translation>
+        <translation>in %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="95"/>
         <source>yesterday %1</source>
-        <translation type="unfinished">ieri %1</translation>
+        <translation>ieri %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="99"/>
         <source>tomorrow %1</source>
-        <translation type="unfinished">domani %1</translation>
+        <translation>domani %1</translation>
     </message>
 </context>
 <context>

@@ -2126,42 +2126,42 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="59"/>
         <source>just now</source>
-        <translation type="unfinished">maintenant</translation>
+        <translation>maintenant</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="67"/>
         <source>%1h</source>
-        <translation type="unfinished">%1h</translation>
+        <translation>%1h</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="69"/>
         <source>%1min</source>
-        <translation type="unfinished">%1min</translation>
+        <translation>%1min</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="71"/>
         <source>%1h and %2min</source>
-        <translation type="unfinished">%1h et %2min</translation>
+        <translation>%1h et %2min</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="75"/>
         <source>%1 ago</source>
-        <translation type="unfinished">il y a %1</translation>
+        <translation>il y a %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="77"/>
         <source>in %1</source>
-        <translation type="unfinished">dans %1</translation>
+        <translation>dans %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="95"/>
         <source>yesterday %1</source>
-        <translation type="unfinished">hier %1</translation>
+        <translation>hier %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="99"/>
         <source>tomorrow %1</source>
-        <translation type="unfinished">demain %1</translation>
+        <translation>demain %1</translation>
     </message>
 </context>
 <context>
@@ -2404,7 +2404,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="28"/>
         <source>Downloading map data…</source>
-        <translation type="unfinished">Téléchargement des cartes…</translation>
+        <translation>Téléchargement des cartes…</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="30"/>
@@ -3520,7 +3520,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="27"/>
         <source>Updates available</source>
-        <translation type="unfinished">Mises à jour disponibles</translation>
+        <translation>Mises à jour disponibles</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="28"/>
