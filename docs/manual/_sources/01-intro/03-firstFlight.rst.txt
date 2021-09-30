@@ -36,6 +36,18 @@ has not yet acquired a valid position).  Once you are moving, your own position
 is shown as a blue arrow shape.  The flight path vector shows the projected
 track for the next five minutes.
 
+.. note:: When you start the app for the first time, you will probably see a
+   bright red aircraft symbol in the lower left corner of the map. This symbol
+   indicates that the app is not connected to the traffic data receiver of your
+   aircraft, so that traffic will not be shown on the moving map.  
+   
+   Once you are familiar with the app, please have a look at the Section
+   :ref:`traffic` of this manual.
+
+
+Flight Information
+------------------
+
 The bottom of the display shows a little panel with the following information.
 
 ====== ==============
@@ -65,15 +77,16 @@ Interactive controls
 In addition to the pan and pinch gestures, you can use the following buttons to
 control the app.
 
-============================= ========
-Symbol                        Function
-============================= ========
-.. image:: ic_menu.png        Open main menu
-.. image:: NorthArrow.png     Switch between display modes **north up** and **track up**.
-.. image:: ic_my_location.png Center map about own position.
-.. image:: ic_add.png         Zoom in
-.. image:: ic_remove.png      Zoom out
-============================= ========
+===================================== ========
+Symbol                                Function
+===================================== ========
+.. image:: ic_menu.png                Open main menu
+.. image:: NorthArrow.png             Switch between display modes **north up** and **track up**.
+.. image:: ic_my_location.png         Center map about own position.
+.. image:: ic_add.png                 Zoom in
+.. image:: ic_remove.png              Zoom out
+.. image:: ic_airplanemode_active.png This control is shown when the app is not connected to a traffic data receiver. A click opens the traffic receiver status page.
+===================================== ========
 
 
 Information about airspaces, airfields and other facilities
