@@ -1,3 +1,5 @@
+.. _traffic:
+
 Connect your traffic receiver
 =============================
 
@@ -57,11 +59,17 @@ Users reported success with the following traffic receivers.
 - `Stratux devices <http://stratux.me/>`_
 - `TTGO T-Beam devices <https://www.amazon.de/TTGO-T-Beam-915Mhz-Wireless-Bluetooth/dp/B07SFVQ3Z8>`_
 
+
+.. note:: Most traffic data receivers can only handle one concurrent connection.
+    If more devices connect, this might lead to frequent loss of connection or
+    loss of data.  To be on the safe side, it might be useful to ask your
+    passengers to disable Wi-Fi on their phone before boarding.
+
 .. note:: For best results, use FLARM compatible devices.  If your traffic
     receiver supports FLARM/NMEA as well as GDL90 output, always use FLARM/NMEA.
     The GDL90 protocol has a number of shortcomings that **Enroute Flight
-    Navigation** cannot always work around.  See the Section "Technincal Notes"
-    in the appendix for more details.
+    Navigation** cannot always work around.  See the Section
+    :ref:`gdl90problems` for more details.
 
 
 Before you connect

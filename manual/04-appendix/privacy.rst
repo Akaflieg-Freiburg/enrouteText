@@ -35,8 +35,8 @@ The Android app requires the following privileges.
 - WAKE_LOCK – Required to maintain WiFi connections to traffic data receivers
   even when the device display is off.
 
-- WRITE_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE – This priviege is required
-  to store the flight map library in a globaly accessible directory. This
+- WRITE_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE – This privilege is required
+  to store the flight map library in a globally accessible directory. This
   ensures that the library persists when the app is uninstalled or reinstalled.
-  It also ensures that other apps, such as file managers or file synchronisation
+  It also ensures that other apps, such as file managers or file synchronization
   software, can access the data.

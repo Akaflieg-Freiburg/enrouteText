@@ -37,7 +37,9 @@ preference.
 - Datagrams in XGPS format must conform to the format specified on the
   `ForeFlight Web site <https://www.foreflight.com/support/network-gps/>`_.
 
-  
+
+.. _gdl90problems:  
+
 Known issues with GDL90
 ^^^^^^^^^^^^^^^^^^^^^^^
 

@@ -1,7 +1,7 @@
 Third party software and data
 =============================
 
-**Enroute Flight Navigation** builds on a large number of open-source software
+**Enroute Flight Navigation** builds on numerours open-source software
 components and on open-source data.
 
 
