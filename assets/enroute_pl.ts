@@ -4921,7 +4921,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="397"/>
         <source>Receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbieranie odświeżenia.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="399"/>
@@ -4936,7 +4936,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="409"/>
         <source>Not receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak odbioru odświeżenia.</translation>
     </message>
     <message>
         <source>Not receiving traffic data.</source>
