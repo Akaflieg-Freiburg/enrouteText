@@ -9875,27 +9875,27 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Esci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="567"/>
+        <location filename="../../../src/qml/main.qml" line="581"/>
         <source>Connected to traffic receiver.</source>
         <translation>Connesso al ricevitore di traffico.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="569"/>
+        <location filename="../../../src/qml/main.qml" line="583"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Persa connessione al ricevitore del traffico.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="602"/>
+        <location filename="../../../src/qml/main.qml" line="616"/>
         <source>Exit…?</source>
         <translation>Uscire…?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="603"/>
+        <location filename="../../../src/qml/main.qml" line="617"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Volete uscire da &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="614"/>
+        <location filename="../../../src/qml/main.qml" line="628"/>
         <source>What&apos;s new …?</source>
         <translation>Cosa c&apos;è di nuovo...?</translation>
     </message>

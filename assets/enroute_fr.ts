@@ -6699,27 +6699,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Quitter</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="567"/>
+        <location filename="../../../src/qml/main.qml" line="581"/>
         <source>Connected to traffic receiver.</source>
         <translation>Connecté au récepteur de traffic.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="569"/>
+        <location filename="../../../src/qml/main.qml" line="583"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Connexion au récepteur de traffic perdue.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="602"/>
+        <location filename="../../../src/qml/main.qml" line="616"/>
         <source>Exit…?</source>
         <translation>Quitter ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="603"/>
+        <location filename="../../../src/qml/main.qml" line="617"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Voulez-vous vraiment quitter &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="614"/>
+        <location filename="../../../src/qml/main.qml" line="628"/>
         <source>What&apos;s new …?</source>
         <translation>Nouveautés</translation>
     </message>
