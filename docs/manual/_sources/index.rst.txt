@@ -2,12 +2,6 @@
 Enroute Flight Navigation
 #########################
 
-.. image:: de.akaflieg_freiburg.enroute.png
-    :width: 100px
-    :alt: Logo
-    :align: center
-
-
 **Enroute Flight Navigation** is a free flight navigation app for Android and
 other devices.  Designed to be simple, functional and elegant, it takes the
 stress out of your next flight. The program has been written by flight
