@@ -479,66 +479,31 @@ données de manière publique et gratuite.&lt;/p&gt;
     </message>
 </context>
 <context>
-    <name>Clock</name>
-    <message>
-        <source>just now</source>
-        <translation type="vanished">maintenant</translation>
-    </message>
-    <message>
-        <source>%1h</source>
-        <translation type="vanished">%1h</translation>
-    </message>
-    <message>
-        <source>%1min</source>
-        <translation type="vanished">%1min</translation>
-    </message>
-    <message>
-        <source>%1h and %2min</source>
-        <translation type="vanished">%1h et %2min</translation>
-    </message>
-    <message>
-        <source>%1 ago</source>
-        <translation type="vanished">il y a %1</translation>
-    </message>
-    <message>
-        <source>in %1</source>
-        <translation type="vanished">dans %1</translation>
-    </message>
-    <message>
-        <source>yesterday %1</source>
-        <translation type="vanished">hier %1</translation>
-    </message>
-    <message>
-        <source>tomorrow %1</source>
-        <translation type="vanished">demain %1</translation>
-    </message>
-</context>
-<context>
     <name>DataManagement::DataManager</name>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="128"/>
         <source>No information available.</source>
-        <translation type="unfinished">Aucune information disponible</translation>
+        <translation>Aucune information disponible</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="131"/>
         <source>Installed</source>
-        <translation type="unfinished">Installée</translation>
+        <translation>Installée</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="133"/>
         <source>File Size</source>
-        <translation type="unfinished">Taille du fichier</translation>
+        <translation>Taille du fichier</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="147"/>
         <source>The map data was compiled from the following sources.</source>
-        <translation type="unfinished">Les données de carte ont été compilées depuis les sources suivantes.</translation>
+        <translation>Les données de carte ont été compilées depuis les sources suivantes.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="177"/>
         <source>Internal Map Data</source>
-        <translation type="unfinished">Données de carte internes</translation>
+        <translation>Données de carte internes</translation>
     </message>
 </context>
 <context>
@@ -747,10 +712,6 @@ données de manière publique et gratuite.&lt;/p&gt;
 <context>
     <name>DataManager</name>
     <message>
-        <source>Map Library</source>
-        <translation type="vanished">Bibliothèque de carte</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="61"/>
         <source>aviation maps</source>
         <translation>cartes aéronautiques</translation>
@@ -761,23 +722,15 @@ données de manière publique et gratuite.&lt;/p&gt;
         <translation>fonds de carte</translation>
     </message>
     <message>
-        <source>Map Info</source>
-        <translation type="vanished">Information sur la carte</translation>
-    </message>
-    <message>
-        <source>Map Info: </source>
-        <translation type="vanished">Information sur la carte :</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="33"/>
         <source>Map and Data Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliothèque de cartes et de données</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="152"/>
         <location filename="../../../src/qml/pages/DataManager.qml" line="270"/>
         <source>Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Info</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="164"/>
@@ -822,7 +775,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="409"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Données</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="450"/>
@@ -837,11 +790,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="555"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu. You find the menu at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n&apos;a pas encore été téléchargée du serveur. Vous pouvez redémarrer le téléchargement manuellement en utilisant &apos;Mettre à jour&apos; depuis le menu. Le menu est accessible en cliquant sur le symbole &apos;&amp;#8942;&apos; dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n&apos; pas encore été téléchargée. Vous pouvez recommencer le téléchargement en utilisant le bouton &apos;Mettre à jour&apos; depuis le menu situé dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="581"/>
@@ -1409,29 +1358,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     </message>
 </context>
 <context>
-    <name>GeoMaps::GeoMapProvider</name>
-    <message>
-        <source>No information available.</source>
-        <translation type="vanished">Aucune information disponible</translation>
-    </message>
-    <message>
-        <source>Installed</source>
-        <translation type="vanished">Installée</translation>
-    </message>
-    <message>
-        <source>File Size</source>
-        <translation type="vanished">Taille du fichier</translation>
-    </message>
-    <message>
-        <source>The map data was compiled from the following sources.</source>
-        <translation type="vanished">Les données de carte ont été compilées depuis les sources suivantes.</translation>
-    </message>
-    <message>
-        <source>Internal Map Data</source>
-        <translation type="vanished">Données de carte internes</translation>
-    </message>
-</context>
-<context>
     <name>ImportManager</name>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="41"/>
@@ -1479,60 +1405,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 </context>
 <context>
     <name>Librarian</name>
-    <message>
-        <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
-
-&lt;p&gt;Version %1&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a free nagivation app for VFR pilots, developed as a project of Akaflieg Freiburg.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Simple, elegant and functional&lt;/li&gt;
-  &lt;li&gt;No ads, no commercical &quot;pro&quot; version&lt;/li&gt;
-  &lt;li&gt;No registration, no membership&lt;/li&gt;
-  &lt;li&gt;Does not spy on you&lt;/li&gt;
-  &lt;li&gt;100% Open Source, written without commercial interest&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Check &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;the web site&lt;/a&gt; for more information.&lt;/p&gt;
-
-&lt;h3&gt;Academic Sponsor&lt;/h3&gt;
-      
-&lt;p&gt;The author gratefully acknowledges support by our academic sponsor, the &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;University of Freiburg&lt;/a&gt;.  The university kindly provides the infrastructure used to generate our maps, and the bandwidth required to serve them.&lt;/p&gt;
-
-&lt;h3&gt;Acknowledgements&lt;/h3&gt;
-
-&lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="vanished">
-&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
-
-&lt;p&gt;Version %1&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est une application de navigation VFR gratuite développée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Simple, élégante et fonctionnelle&lt;/li&gt;
-  &lt;li&gt;Pas de publicité, ni de version &quot;pro&quot; commerciale&lt;/li&gt;
-  &lt;li&gt;Pas d&apos;enregistrement, ni de compte requis&lt;/li&gt;
-  &lt;li&gt;Ne vous espionne pas&lt;/li&gt;
-  &lt;li&gt;100% Open Source, écrite sans intérêt commercial&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Rendez-vous sur le &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;site web&lt;/a&gt; pour plus d&apos;informations.&lt;/p&gt;
-
-&lt;h3&gt;Sponsor académique&lt;/h3&gt;
-      
-&lt;p&gt;L&apos;autheur remercie son sponsor académique, l&apos;&lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Université de Freiburg&lt;/a&gt;. L&apos;Université fournit l&apos;infrastructure nécessaire pour générer les cartes et les distribuer.&lt;/p&gt;
-
-&lt;h3&gt;Remerciements&lt;/h3&gt;
-
-&lt;p&gt;Ce programme est basé sur plusieurs bibliothèques open source, notamment &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; et &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Les données aéronautiques sont fournies par les projets &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; et &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;. Les fonds de cartes sont fournis par &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Pour plus de détails, référez-vous à la documentation.&lt;/p&gt;
-        </translation>
-    </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="181"/>
         <source>
@@ -1708,19 +1580,11 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         </translation>
     </message>
     <message>
-        <source>
-&lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella.&lt;/li&gt;
-</source>
-        <translation type="vanished">
-&lt;li&gt;&lt;strong&gt;Italien:&lt;/strong&gt; Ivan Battistella.&lt;/li&gt;
-        </translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="86"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;li&gt;&lt;strong&gt;Italien:&lt;/strong&gt; Ivan Battistella et Antonio Fardella.  Antonio est pilote aéro et est passioné par tous types de challenge.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="88"/>
@@ -1810,7 +1674,33 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+		&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+
+&lt;p&gt;Version %1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est une application de navigation VFR gratuite développée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Simple, élégante et fonctionnelle&lt;/li&gt;
+  &lt;li&gt;Pas de publicité, ni de version &quot;pro&quot; commerciale&lt;/li&gt;
+  &lt;li&gt;Pas d&apos;enregistrement, ni de compte requis&lt;/li&gt;
+  &lt;li&gt;Ne vous espionne pas&lt;/li&gt;
+  &lt;li&gt;100% Open Source, écrite sans intérêt commercial&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Rendez-vous sur le &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;site web&lt;/a&gt; pour plus d&apos;informations.&lt;/p&gt;
+
+&lt;h3&gt;Sponsor académique&lt;/h3&gt;
+      
+&lt;p&gt;L&apos;autheur remercie son sponsor académique, l&apos;&lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Université de Freiburg&lt;/a&gt;. L&apos;Université fournit l&apos;infrastructure nécessaire pour générer les cartes et les distribuer.&lt;/p&gt;
+
+&lt;h3&gt;Remerciements&lt;/h3&gt;
+
+&lt;p&gt;Ce programme est basé sur plusieurs bibliothèques open source, notamment &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; et &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Les données aéronautiques sont fournies par les projets &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; et &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;. Les fonds de cartes sont fournis par &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Pour plus de détails, référez-vous à la documentation.&lt;/p&gt;
+		</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="270"/>
@@ -1834,21 +1724,17 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="280"/>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now uses the Flarmnet database to identify traffic.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; utilise maintenant la base de données Flarmnet pour identifier le traffic.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="281"/>
         <source>&lt;p&gt;The traffic receiver status is now shown prominently on the front page.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Les statut du récepteur d&apos;informations traffic est maintenant clairement affiché.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="282"/>
         <source>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; The readers of the German aviation magazine &apos;Aerokurier&apos; have named &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; as one of the top three innovations of the year in the category &apos;Avionics&apos;. Thanks to everybody who made this success possible!&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;&lt;strong&gt;Google now counts more than 10.000 active installations of this app.&lt;/strong&gt; Thanks to everybody who made this success possible!&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Il y a maintenant plus de 10.000 installations de l&apos;application.&lt;/strong&gt; Merci à tous ceux qui ont rendu ce succès possible!&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; Les lecteurs de la revue allemande &apos;Aerokurier&apos; ont nomé &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; comme l&apos;une des trois meilleures innovations dans la catégorie &apos;Avionics&apos;. Merci à tous ceux qui ont rendu ce succès possible !&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="112"/>
@@ -1963,14 +1849,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 </translation>
     </message>
     <message>
-        <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports traffic data receivers that require a password in addition to the WiFi password.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; supportes maintenant les récepteurs de données traffic protégés par mot de passe.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;&lt;strong&gt;We need help with the Italian translation.&lt;/strong&gt; If you would like to help, if you speak Italian and if know how to use the GIT revision control system, then please contact us.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Nous avons besoin d&apos;aide pour la traduction en italien.&lt;/strong&gt; Si vous voulez nous aider, que vous parlez italien et que vous savez utiliser GIT, alors n&apos;hésitez pas à nous contacter.&lt;/p&gt;</translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="121"/>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
@@ -2005,19 +1883,13 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>MFM</name>
     <message>
-        <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In order to install a map, please open the menu using the button ☰ in the upper left corner of this screen.
-Choose &lt;strong&gt;Library/Maps&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Aucune carte aéronautique n&apos;est installée.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Pour installer une carte, ouvrez le menu en utilisant le bouton ☰ situé dans le coin supérieur gauche.
-Choisissez &lt;strong&gt;Bibliothèque/Cartes&lt;/strong&gt; pour ouvrir le menu de gestion des cartes.&lt;/p&gt;</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/items/MFM.qml" line="472"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the menu button in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Aucune carte aéronautique installée.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pour installer une carte, ouvrez le menu en utilisant le bouton situé dans le coin supérieur gauche.
+Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ouvrir le menu de gestion des cartes.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="506"/>
@@ -2071,10 +1943,6 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
 </context>
 <context>
     <name>MobileAdaptor</name>
-    <message>
-        <source>Downloading map data…</source>
-        <translation type="vanished">Téléchargement des cartes…</translation>
-    </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="49"/>
         <source>Import data</source>
@@ -2409,17 +2277,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="30"/>
         <source>Traffic data receiver problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Problème du récepteur de données de traffic</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="32"/>
         <source>Traffic data receiver self test error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur de l&apos;auto-test du récepteur de données de traffic</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="85"/>
         <source>Open Application</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir l&apos;application</translation>
     </message>
 </context>
 <context>
@@ -2695,7 +2563,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/FlarmnetDB.cpp" line="81"/>
         <source>Placeholder file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier réservé</translation>
     </message>
 </context>
 <context>
@@ -2706,13 +2574,9 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Récepteur de traffic</translation>
     </message>
     <message>
-        <source>Receiving traffic data.</source>
-        <translation type="vanished">Réception des données de traffic.</translation>
-    </message>
-    <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="397"/>
         <source>Receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réception.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="399"/>
@@ -2727,11 +2591,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="409"/>
         <source>Not receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Not receiving traffic data.</source>
-        <translation type="vanished">Aucune réception.</translation>
+        <translation>Aucune réception.</translation>
     </message>
 </context>
 <context>
@@ -2955,28 +2815,28 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="543"/>
         <source>No FLARM transmission</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune transmission du FLARM</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="547"/>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="244"/>
         <source>No GPS reception</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune réception GPS</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="551"/>
         <source>Under- or Overvoltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Sur- ou sous-voltage</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="247"/>
         <source>Maintenance required</source>
-        <translation type="unfinished"></translation>
+        <translation>Maintenance requise</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="250"/>
         <source>GPS Battery low voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Bas voltage de la batterie GPS</translation>
     </message>
 </context>
 <context>
@@ -3456,27 +3316,19 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Récepteur de données de traffic</translation>
     </message>
     <message>
-        <source>Status</source>
-        <translation type="vanished">Statut</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Well done! Go flying. Give yourself a pat on the back.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Bien joué, vous pouvez partir en vol !&lt;/p&gt;</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="64"/>
         <source>Connection Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut de la connexion</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="101"/>
         <source>Traffic Data Receiver Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Statut du récepteur de données de traffic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="130"/>
         <source>No problem reported</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun problème</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="168"/>
@@ -3510,14 +3362,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>UpdateMapDialog</name>
     <message>
-        <source>Map updates available</source>
-        <translation type="vanished">Mises à jour des cartes disponibles</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;One or several of your installed maps can be updated. The estimated download size is %1.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Une ou plusieurs des cartes installées peuvent être mises à jour. Taille  estimée du téléchargement : %1.&lt;/p&gt;</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="27"/>
         <source>Updates available</source>
         <translation>Mises à jour disponibles</translation>
@@ -3525,7 +3369,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="28"/>
         <source>&lt;p&gt;One or several of your installed maps or databases can be updated. The estimated download size is %1.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Une ou plusieurs des cartes installées peuvent être mises à jour. Taille  estimée du téléchargement : %1.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="32"/>
@@ -6574,7 +6418,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="185"/>
         <source>Maps and Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartes et données</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="207"/>
@@ -6589,12 +6433,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="264"/>
         <source>Receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réception de données</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="264"/>
         <source>Not receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune réception de données</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="288"/>
@@ -6637,10 +6481,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Routes</translation>
     </message>
     <message>
-        <source>Maps</source>
-        <translation type="vanished">Cartes</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/main.qml" line="186"/>
         <source>Updates available</source>
         <translation>Mises à jour disponibles</translation>
@@ -6659,14 +6499,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/main.qml" line="241"/>
         <source>Not receiving position information.</source>
         <translation>Aucune réception de l&apos;information sur la position.</translation>
-    </message>
-    <message>
-        <source>Receiving traffic data.</source>
-        <translation type="vanished">Réception des données du traffic.</translation>
-    </message>
-    <message>
-        <source>Not receiving traffic data.</source>
-        <translation type="vanished">Aucune réception des données du traffic.&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="330"/>
