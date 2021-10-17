@@ -481,27 +481,27 @@ données de manière publique et gratuite.&lt;/p&gt;
 <context>
     <name>DataManagement::DataManager</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="128"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="129"/>
         <source>No information available.</source>
         <translation>Aucune information disponible</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="131"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="132"/>
         <source>Installed</source>
         <translation>Installée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="133"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="134"/>
         <source>File Size</source>
         <translation>Taille du fichier</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="147"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="148"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>Les données de carte ont été compilées depuis les sources suivantes.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="177"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="178"/>
         <source>Internal Map Data</source>
         <translation>Données de carte internes</translation>
     </message>
@@ -539,174 +539,201 @@ données de manière publique et gratuite.&lt;/p&gt;
         <translation>taille du fichier inconnue</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="302"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="298"/>
         <source>the remote server refused the connection (the server is not accepting requests)</source>
         <translation>la connexion a été refusée par le serveur (le serveur n&apos;accèpte pas les requêtes)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="306"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="302"/>
         <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>la connexion a été arrêtée prématurément par le serveur avant que la réponse ne soit reçue et traitée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="311"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="307"/>
         <source>the remote host name was not found (invalid hostname)</source>
         <translation>le nom de l&apos;hôte n&apos;a pas été trouvée (nom invalide)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="315"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="311"/>
         <source>the connection to the remote server timed out</source>
         <translation>le délai d&apos;attente de la connexion au serveur a été dépassé</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="320"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="316"/>
         <source>the operation was canceled via calls to abort() or close() before it was finished</source>
         <translation>l&apos;opération a été annulée par un appel aux méthodes abort() ou close() avant d&apos;être terminée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="324"/>
         <source>the SSL/TLS handshake failed and the encrypted channel could not be established. The sslErrors() signal should have been emitted</source>
-        <translation>un canal sécurisé n&apos;a pas pu être établi car la négociaton SSL/TLS a échouée. Un signal sslErrors() devrait avoir été émis</translation>
+        <translation type="vanished">un canal sécurisé n&apos;a pas pu être établi car la négociaton SSL/TLS a échouée. Un signal sslErrors() devrait avoir été émis</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="329"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="320"/>
+        <source>the SSL/TLS handshake failed and the encrypted channel could not be established.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="324"/>
         <source>the connection was broken due to disconnection from the network</source>
         <translation>la connexion a été interrompue car vous avez été déconnecté du réseau</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="333"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="328"/>
         <source>the connection was broken due to disconnection from the network or failure to start the network</source>
         <translation>la connexion a été interrompue car vous avez été déconnecté du réseau ou le réseau n&apos;a pas pu s&apos;initialiser</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="338"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="333"/>
         <source>the background request is not currently allowed due to platform policy</source>
         <translation>les requêtes effectuées en tâche de fond ne sont pas permises par les règles de la platforme</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="342"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="337"/>
         <source>while following redirects, the maximum limit was reached</source>
         <translation>la limite du nombre de redirections a été atteinte</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="346"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="341"/>
         <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
         <translation>l&apos;API du réseau a détecté une redirection vers un protocol non crypté (http) à partir d&apos;un protocal crypté (https)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="351"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="346"/>
         <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
         <translation>la connexion au serveur proxy a été refusée (le serveur proxy n&apos;accepte pas de requêtes)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="356"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="351"/>
         <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>la connexion a été arrêtée prématurément par le serveur proxy avant que la réponse ne soit reçue et traitée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="361"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="356"/>
         <source>the proxy host name was not found (invalid proxy hostname)</source>
         <translation>le nom de l&apos;hôte du proxy n&apos;a pas été trouvée (nom du proxy invalide)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="365"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="360"/>
         <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
         <translation>le délai d&apos;attente de la connexion au serveur proxy a été dépassé ou le proxy n&apos;a pas répondu dans les temps</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="370"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="365"/>
         <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
         <translation>une authentification est requise par le serveur proxy, mais il n&apos;a accepté aucun des identifiants fournis (s&apos;il y en avait)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="375"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="370"/>
         <source>the access to the remote content was denied (similar to HTTP error 403)</source>
         <translation>l&apos;accès au contenu distant a été refusé (similaire à l&apos;erreur HTTP 403)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="379"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="374"/>
         <source>the operation requested on the remote content is not permitted</source>
         <translation>l&apos;opération demandée sur le contenu distant n&apos;est pas autorisée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="383"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="378"/>
         <source>the remote content was not found at the server (similar to HTTP error 404)</source>
         <translation>le contenu distant n&apos;a pas été trouvé sur le serveur (similaire à l&apos;erreur HTTP 404)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="387"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="382"/>
         <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
         <translation>une authentification est requise par le serveur pour distribuer le contenu, mais il n&apos;a accepté aucun des identifiants fournis (s&apos;il y en avait)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="392"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="387"/>
         <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
         <translation>la requête devait être réenvoyée, mais cela a échoué, par exemple parce que les données envoyées n&apos;ont pas pu être relues</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="397"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="392"/>
         <source>the request could not be completed due to a conflict with the current state of the resource</source>
         <translation>la requête n&apos;a pas être traitée à cause d&apos;un conflit avec l&apos;état de la ressource</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="402"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="397"/>
         <source>the requested resource is no longer available at the server</source>
         <translation>la ressource demandée n&apos;est plus disponible sur le serveur</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="406"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="401"/>
         <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
         <translation>une condition innatendue a été rencontré par le serveur et il n&apos;a pas traiter la requête</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="412"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="407"/>
         <source>the server does not support the functionality required to fulfill the request</source>
         <translation>la fonctionnalité requise pour traiter la requête n&apos;est pas supportée par le serveur</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="416"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="411"/>
         <source>the server is unable to handle the request at this time</source>
         <translation>le serveur n&apos;est actuellement pas disponible pour traiter la requête</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="421"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="416"/>
         <source>the Network Access API cannot honor the request because the protocol is not known</source>
         <translation>l&apos;API réseau ne peut pas traiter la requête car le protocol est inconnu</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="425"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="420"/>
         <source>the requested operation is invalid for this protocol</source>
         <translation>l&apos;opération demandée est invalide pour ce protocol</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="429"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="424"/>
         <source>an unknown network-related error was detected</source>
         <translation>une erreur inconnue liée au réseau a été détectée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="433"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="428"/>
         <source>an unknown proxy-related error was detected</source>
         <translation>une erreur inconnue liée au proxy a été détectée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="437"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="432"/>
         <source>an unknown error related to the remote content was detected</source>
         <translation>une erreur inconnue liée au contenu distant a été détectée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="441"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="436"/>
         <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
         <translation>un échec a été détecté dans le protocole (erreur de lecture, réponses invalides ou innattendues, etc.)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="446"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="441"/>
         <source>an unknown error related to the server response was detected</source>
         <translation>une erreur inconnue liée à la réponse du serveur a été détectée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="450"/>
+        <location filename="../../../src/dataManagement/Downloadable.cpp" line="445"/>
         <source>unknown</source>
         <translation>inconnu</translation>
+    </message>
+</context>
+<context>
+    <name>DataManagement::SSLErrorHandler</name>
+    <message>
+        <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="55"/>
+        <source>Enroute is unable to establish a secure internet connection to one or several servers.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="63"/>
+        <source>You can choose to ignore this warning in the future and to connect anyway. This will however leave the data transfer open to tampering and manipulation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="67"/>
+        <source>On older Android devices, the problem is most likely caused by outdated security certificates in your system.  Certificates can only be installed by the hardware manufacturer via system updates. If your device has not received any system security updates in a while, then secure internet connections are no longer possible. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteText/manual/03-reference/platform.html#network-security-problems&apos;&gt;See the platform notes in the manual&lt;/a&gt; for more details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="76"/>
+        <source>On recent devices, this problem is a strong indication that your internet connection is being manipulated.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2478,47 +2505,52 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Mode nuit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="144"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
+        <source>Ignore network security errors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="159"/>
         <source>Clear password storage</source>
         <translation>Effacer les mots de passe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="151"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="166"/>
         <source>Help</source>
         <translation>Aide</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="160"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="175"/>
         <source>How to connect your traffic receiver…</source>
         <translation>Comment connecter votre récepteur de traffic…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="167"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="182"/>
         <source>How to connect your flight simulator…</source>
         <translation>Comment connecter un simulateur de vol…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="193"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="208"/>
         <source>Clear password storage?</source>
         <translation>Effacer les mots de passe ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="198"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="213"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
         <translation>Une fois que les mots de passe ont été effacés, ils ne pourront plus être récupérés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="204"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="219"/>
         <source>Clear</source>
         <translation>Effacer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="208"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="223"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="217"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="232"/>
         <source>Password storage cleared</source>
         <translation>Mots de passe effacés</translation>
     </message>
@@ -6556,18 +6588,33 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Nouveautés</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="124"/>
+        <location filename="../../../src/qml/main.qml" line="690"/>
+        <source>Network security error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="702"/>
+        <source>Network security settings</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="703"/>
+        <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/main.cpp" line="126"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="127"/>
+        <location filename="../../../src/main.cpp" line="129"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation>Lancer le simulateur et générer des captures d&apos;écran pour le manuel</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="129"/>
+        <location filename="../../../src/main.cpp" line="131"/>
         <source>File to import.</source>
         <translation>Fichier à importer</translation>
     </message>
