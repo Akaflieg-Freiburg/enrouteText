@@ -769,7 +769,7 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable.cpp" line="320"/>
         <source>the SSL/TLS handshake failed and the encrypted channel could not be established.</source>
-        <translation type="unfinished"></translation>
+        <translation>La verifica SSL/TLS non è riuscita e non è stato possibile stabilire il canale crittografato.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable.cpp" line="324"/>
@@ -917,22 +917,22 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="55"/>
         <source>Enroute is unable to establish a secure internet connection to one or several servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute non è in grado di stabilire una connessione Internet sicura a uno o più server.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="63"/>
         <source>You can choose to ignore this warning in the future and to connect anyway. This will however leave the data transfer open to tampering and manipulation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puoi scegliere di ignorare questo avviso in futuro e di connetterti comunque. Ciò tuttavia lascerà il trasferimento dei dati soggetto a manomissioni e manipolazioni.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="67"/>
         <source>On older Android devices, the problem is most likely caused by outdated security certificates in your system.  Certificates can only be installed by the hardware manufacturer via system updates. If your device has not received any system security updates in a while, then secure internet connections are no longer possible. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteText/manual/03-reference/platform.html#network-security-problems&apos;&gt;See the platform notes in the manual&lt;/a&gt; for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sui dispositivi Android meno recenti, il problema è molto frequente a causa di certificati di sicurezza obsoleti del sistema. I certificati possono essere installati solo dal produttore dell&apos;hardware tramite aggiornamenti di sistema. Se il tuo dispositivo non riceve aggiornamenti di sicurezza da un po&apos; di tempo, le connessioni Internet sicure non sono più possibili. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteText/manual/03-reference/platform.html#network-security-problems&apos;&gt;Consulta le note della piattaforma nel manuale&lt;/a&gt; per maggiori dettagli.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="76"/>
         <source>On recent devices, this problem is a strong indication that your internet connection is being manipulated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sui dispositivi recenti, questo problema è una forte sintomo che la tua connessione Internet è stata manipolata.</translation>
     </message>
 </context>
 <context>
@@ -5046,7 +5046,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
         <source>Ignore network security errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingnora gli errori di sicurezza della rete</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="159"/>
@@ -9934,17 +9934,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="690"/>
         <source>Network security error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore di sicurezza di rete</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="702"/>
         <source>Network security settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Impostazioni di sicurezza rete</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="703"/>
         <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai scelto di ignorare gli errori di sicurezza della rete in futuro. **Ciò rappresenta un rischio per la sicurezza.** Vai alla pagina &quot;Impostazioni&quot; se desideri ripristinare il comportamento originale e sicuro di questa app.</translation>
     </message>
     <message>
         <source>Enroute Flight Navigation is a free navigation app for VFR pilots, developed as a project of Akaflieg Freiburg.</source>
