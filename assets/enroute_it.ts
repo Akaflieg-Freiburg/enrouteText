@@ -3273,7 +3273,7 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translation>&lt;li&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella e Antonio Fardella. Antonio è un aviatore navale con la passione per tutto ciò che è entusiasmante.&lt;/li&gt;</translation>
+        <translation>&lt;li&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella e Antonio Fardella.  Antonio è un aviatore navale con la passione per tutto ciò che è entusiasmante.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="88"/>
