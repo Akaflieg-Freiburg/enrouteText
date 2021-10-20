@@ -564,13 +564,9 @@ données de manière publique et gratuite.&lt;/p&gt;
         <translation>l&apos;opération a été annulée par un appel aux méthodes abort() ou close() avant d&apos;être terminée</translation>
     </message>
     <message>
-        <source>the SSL/TLS handshake failed and the encrypted channel could not be established. The sslErrors() signal should have been emitted</source>
-        <translation type="vanished">un canal sécurisé n&apos;a pas pu être établi car la négociaton SSL/TLS a échouée. Un signal sslErrors() devrait avoir été émis</translation>
-    </message>
-    <message>
         <location filename="../../../src/dataManagement/Downloadable.cpp" line="320"/>
         <source>the SSL/TLS handshake failed and the encrypted channel could not be established.</source>
-        <translation type="unfinished"></translation>
+        <translation>un canal sécurisé n&apos;a pas pu être établi car la négociaton SSL/TLS a échouée.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable.cpp" line="324"/>
@@ -718,22 +714,22 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="55"/>
         <source>Enroute is unable to establish a secure internet connection to one or several servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute ne peut pas établir une connexion sécurisée à un ou plusieurs serveurs.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="63"/>
         <source>You can choose to ignore this warning in the future and to connect anyway. This will however leave the data transfer open to tampering and manipulation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous pouvez choisir d&apos;ignorer ce message et de vous connecter. Cependant, le transfert de données ne sera pas sécurisé et les données pourraient être manipulées.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="67"/>
         <source>On older Android devices, the problem is most likely caused by outdated security certificates in your system.  Certificates can only be installed by the hardware manufacturer via system updates. If your device has not received any system security updates in a while, then secure internet connections are no longer possible. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteText/manual/03-reference/platform.html#network-security-problems&apos;&gt;See the platform notes in the manual&lt;/a&gt; for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sur les vieux appareils Android, le problème est probablement causé par la présence de certificats de sécurités périmés sur votre système. Les certificats peuvent uniquement être installés par le producteur de votre appareil via des mises à jour. Si votre appareil n&apos;a pas été mis à jour récemment, alors il ne peut plus se connecter à internet de manière sécurisée. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteText/manual/03-reference/platform.html#network-security-problems&apos;&gt;Référez-vous au manuel&lt;/a&gt; pour plus de détails.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="76"/>
         <source>On recent devices, this problem is a strong indication that your internet connection is being manipulated.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si votre appareil est récent, il est fortement possible que votre connexion soit manipulée.</translation>
     </message>
 </context>
 <context>
@@ -2507,7 +2503,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
         <source>Ignore network security errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorer les erreurs de sécurité réseau</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="159"/>
@@ -6590,17 +6586,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="690"/>
         <source>Network security error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur de sécurité réseau</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="702"/>
         <source>Network security settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Paramètres de sécurité réseau</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="703"/>
         <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez choisi d&apos;ignorer les erreurs de sécurité réseau. **Ceci constitue un risque**. Allez sur la page&apos;Paramètres&apos; si vous souhaitez restorer le comportement original et sécurisé de l&apos;application.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="126"/>
