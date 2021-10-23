@@ -54,10 +54,9 @@ the flight simulator's Wi-Fi network.
 FlightGear
 ^^^^^^^^^^
 
-`FlightGear <https://flightgear.org>`_ works well, even though position
-information is only broadcast when the simulated aircraft is moving.  The
-following two parameters in the text field of the settings dialog need to be
-set::
+FlightGear works well, even though position information is only broadcast when
+the simulated aircraft is moving.  The following two parameters in the text
+field of the settings dialog need to be set::
 
   --generic=socket,out,1,255.255.255.255,49002,udp,foreflight-xgps
   --httpd=8080
