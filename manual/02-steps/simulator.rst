@@ -12,6 +12,7 @@ simulator programs.
 
 Users have reported success with the following programs.
 
+- `FlightGear`_
 - `MS Flight Simulator`_
 - `X-Plane 10`_
 
@@ -48,7 +49,28 @@ setup required.  As soon as the flight simulator starts to broadcast information
 over the Wi-Fi network, the moving map of **Enroute Flight Navigation** will
 adjust accordingly.  To end the connection to the flight simulator, simply leave
 the flight simulator's Wi-Fi network.
-	   
+
+
+FlightGear
+^^^^^^^^^^
+
+`FlightGear <https://flightgear.org>`_ works well, even though position
+information is only broadcast when the simulated aircraft is moving.  The
+following two parameters in the text field of the settings dialog need to be
+set::
+
+  --generic=socket,out,1,255.255.255.255,49002,udp,foreflight-xgps
+  --httpd=8080
+
+The figure :ref:`flightGear-img` shows settings window.
+
+.. _flightGear-img:
+.. figure:: FlightGear.png
+   :scale: 50 %
+   :align: center
+
+   FlightGear settings
+
   
 MS Flight Simulator
 ^^^^^^^^^^^^^^^^^^^
