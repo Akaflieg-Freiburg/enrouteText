@@ -827,6 +827,19 @@ données de manière publique et gratuite.&lt;/p&gt;
     </message>
 </context>
 <context>
+    <name>DegreeInput</name>
+    <message>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="79"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="116"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="135"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="175"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="193"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="211"/>
+        <source>undefined</source>
+        <translation type="unfinished">non défini</translation>
+    </message>
+</context>
+<context>
     <name>DonatePage</name>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="30"/>
@@ -1008,7 +1021,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Route partagée</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="822"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="821"/>
         <source>Flight route cleared</source>
         <translation>Route supprimée</translation>
     </message>
@@ -1053,37 +1066,37 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>&lt;h2&gt;Route vide&lt;/h2&gt;&lt;p&gt;Utilisez le bouton &apos;Ajouter un point tournant&apos; ci-dessous.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="586"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="585"/>
         <source>True Airspeed</source>
         <translation>Vitesse vraie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="594"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="706"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="593"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="705"/>
         <source>Cruise</source>
         <translation>Croisière</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="645"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="644"/>
         <source>Descent</source>
         <translation>Descente</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="500"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="549"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="628"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="680"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="728"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="499"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="548"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="627"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="679"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="727"/>
         <source>undefined</source>
         <translation>non défini</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="698"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="697"/>
         <source>Fuel consumption</source>
         <translation>Consommation de carburant</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="731"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="730"/>
         <source>l/h</source>
         <translation>l/h</translation>
     </message>
@@ -1121,27 +1134,27 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Direction</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="517"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="516"/>
         <source>Speed</source>
         <translation>Vitesse</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="780"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="779"/>
         <source>Add Waypoint</source>
         <translation>Ajouter un point tournant</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="802"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="801"/>
         <source>Clear route?</source>
         <translation>Effacer la route ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="814"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="813"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>La route ne pourra pas être rétablie si elle est effacée.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="851"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="850"/>
         <source>Error exporting data…</source>
         <translation>Erreur lors de l&apos;exportation des données…</translation>
     </message>
@@ -2078,53 +2091,53 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
         <translation>Analyse du contenu du fichier &apos;%1&apos; impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="294"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="323"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Ouverture du fichier &apos;%1&apos; pour écriture impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="300"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="329"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Ecriture du fichier &apos;%1&apos; impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="310"/>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="359"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="339"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="388"/>
         <source>Flight Route</source>
         <translation>Route</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="396"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="425"/>
         <source>Total: %1&amp;nbsp;km</source>
         <translation>Total : %1&amp;nbsp;km</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="398"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="427"/>
         <source>Total: %1&amp;nbsp;nm</source>
         <translation>Total : %1&amp;nbsp;nm</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="410"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="439"/>
         <source>Cruise speed not specified.</source>
         <translation>Vitesse de croisière non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="413"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="442"/>
         <source>Fuel consumption not specified.</source>
         <translation>Comsommation de carburant non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="416"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="445"/>
         <source>Wind speed not specified.</source>
         <translation>Vitesse du vent non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="419"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="448"/>
         <source>Wind direction not specified.</source>
         <translation>Direction du vent non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="423"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="452"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Calcul impossible. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
@@ -2590,6 +2603,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <name>Traffic::FlarmnetDB</name>
     <message>
         <location filename="../../../src/traffic/FlarmnetDB.cpp" line="81"/>
+        <location filename="../../../src/traffic/FlarmnetDB.cpp" line="122"/>
         <source>Placeholder file.</source>
         <translation>Fichier réservé</translation>
     </message>
@@ -3457,14 +3471,53 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>WaypointEditor</name>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="46"/>
         <source>New waypoint name</source>
-        <translation>Nouveau nom pour le point tournant</translation>
+        <translation type="vanished">Nouveau nom pour le point tournant</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="61"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="49"/>
+        <source>Edit waypoint</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="60"/>
+        <source>Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="73"/>
         <source>undefined</source>
         <translation>non défini</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="78"/>
+        <source>Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
+        <source>Degrees</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
+        <source>Degrees and Minutes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
+        <source>Degrees, Minutes and Seconds</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="90"/>
+        <source>Latitude</source>
+        <translation type="unfinished">Latitude</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="106"/>
+        <source>Longitude</source>
+        <translation type="unfinished">Longitude</translation>
     </message>
 </context>
 <context>
