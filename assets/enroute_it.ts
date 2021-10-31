@@ -1055,7 +1055,7 @@ la nostra App.&lt;/p&gt;
         <location filename="../../../src/qml/items/DegreeInput.qml" line="193"/>
         <location filename="../../../src/qml/items/DegreeInput.qml" line="211"/>
         <source>undefined</source>
-        <translation type="unfinished">non specificato</translation>
+        <translation>non definito</translation>
     </message>
 </context>
 <context>
@@ -6688,12 +6688,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="49"/>
         <source>Edit waypoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifica waypoint</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="60"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="73"/>
@@ -6703,32 +6703,32 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="78"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
         <source>Degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradi</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
         <source>Degrees and Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradi e Minuti</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
         <source>Degrees, Minutes and Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Gradi, Minuti e Secondi</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="90"/>
         <source>Latitude</source>
-        <translation type="unfinished">Latitudine</translation>
+        <translation>Latitudine</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="106"/>
         <source>Longitude</source>
-        <translation type="unfinished">Longitudine</translation>
+        <translation>Longitudine</translation>
     </message>
 </context>
 <context>
