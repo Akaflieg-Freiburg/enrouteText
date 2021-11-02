@@ -64,6 +64,9 @@ and frequencies.
     
    03-reference/mapData
    03-reference/platform
+   03-reference/Airspace
+   03-reference/Weather
+   03-reference/RoutePlan
 
    
 .. raw:: latex
