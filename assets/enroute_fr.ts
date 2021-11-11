@@ -812,11 +812,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="557"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu. You find the menu at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n&apos; pas encore été téléchargée. Vous pouvez recommencer le téléchargement en utilisant le bouton &apos;Mettre à jour&apos; depuis le menu situé dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n&apos; pas encore été téléchargée. Vous pouvez recommencer le téléchargement en utilisant le bouton ci-dessous.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="585"/>
@@ -826,12 +822,12 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="627"/>
         <source>Download list of maps…</source>
-        <translation type="unfinished"></translation>
+        <translation>Télécharger la liste des cartes…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="641"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="657"/>
