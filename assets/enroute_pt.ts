@@ -620,7 +620,7 @@ no better news.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="180"/>
         <location filename="../../../src/qml/pages/DataManager.qml" line="298"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="656"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="639"/>
         <source>Download Error</source>
         <translation type="unfinished"></translation>
     </message>
@@ -637,6 +637,7 @@ no better news.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="379"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="624"/>
         <source>Download all updates…</source>
         <translation type="unfinished"></translation>
     </message>
@@ -667,7 +668,7 @@ no better news.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="557"/>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu. You find the menu at the top right corner of the screen.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -676,31 +677,8 @@ no better news.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="627"/>
-        <source>Download list of maps…</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="641"/>
-        <source>Update</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="657"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="640"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>DegreeInput</name>
-    <message>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="79"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="116"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="135"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="175"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="193"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="211"/>
-        <source>undefined</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1765,53 +1743,53 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="323"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="294"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="329"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="300"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="339"/>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="388"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="310"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="359"/>
         <source>Flight Route</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="425"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="396"/>
         <source>Total: %1&amp;nbsp;km</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="427"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="398"/>
         <source>Total: %1&amp;nbsp;nm</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="439"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="410"/>
         <source>Cruise speed not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="442"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="413"/>
         <source>Fuel consumption not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="445"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="416"/>
         <source>Wind speed not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="448"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="419"/>
         <source>Wind direction not specified.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="452"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="423"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3114,48 +3092,13 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
 <context>
     <name>WaypointEditor</name>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="49"/>
-        <source>Edit waypoint</source>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="46"/>
+        <source>New waypoint name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="60"/>
-        <source>Name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="73"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="61"/>
         <source>undefined</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="78"/>
-        <source>Format</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
-        <source>Degrees</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
-        <source>Degrees and Minutes</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
-        <source>Degrees, Minutes and Seconds</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="90"/>
-        <source>Latitude</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="106"/>
-        <source>Longitude</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6251,42 +6194,42 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="581"/>
+        <location filename="../../../src/qml/main.qml" line="586"/>
         <source>Connected to traffic receiver.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="583"/>
+        <location filename="../../../src/qml/main.qml" line="588"/>
         <source>Lost connection to traffic receiver.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="616"/>
+        <location filename="../../../src/qml/main.qml" line="621"/>
         <source>Exit…?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="617"/>
+        <location filename="../../../src/qml/main.qml" line="622"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="627"/>
+        <location filename="../../../src/qml/main.qml" line="632"/>
         <source>What&apos;s new …?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="688"/>
+        <location filename="../../../src/qml/main.qml" line="693"/>
         <source>Network security error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="700"/>
+        <location filename="../../../src/qml/main.qml" line="705"/>
         <source>Network security settings</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="701"/>
+        <location filename="../../../src/qml/main.qml" line="706"/>
         <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation type="unfinished"></translation>
     </message>

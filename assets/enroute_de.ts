@@ -984,7 +984,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="180"/>
         <location filename="../../../src/qml/pages/DataManager.qml" line="298"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="656"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="639"/>
         <source>Download Error</source>
         <translation>Fehler beim Download</translation>
     </message>
@@ -1001,6 +1001,7 @@ anderes dazu sagen können.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="379"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="624"/>
         <source>Download all updates…</source>
         <translation>Alle Aktualisierungen herunterladen …</translation>
     </message>
@@ -1030,13 +1031,13 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation>Zusätzliche Luftfahrtkarten anfordern</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="557"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste verfügbarer Karten wurde noch nicht heruntergeladen. Sie können das manuell mit dem Knopf unten neu anstoßen.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste verfügbarer Karten wurde noch nicht heruntergeladen. Sie können das manuell mit dem Knopf unten neu anstoßen.&lt;/p&gt;</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="557"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu. You find the menu at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste verfügbarer Karten wurde noch nicht vom Server heruntergeladen. Sie können das über den Menüpunkt &apos;Aktualisieren&apos; manuell neu anstoßen. Sie finden das Menü rechts oben auf dem Schirm.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste verfügbarer Karten wurde noch nicht vom Server heruntergeladen. Sie können das über den Menüpunkt &apos;Aktualisieren&apos; manuell neu anstoßen. Sie finden das Menü rechts oben auf dem Schirm.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu.  To find the menu, look for the symbol &apos;&amp;#8942;&apos; at the top right corner of the screen.&lt;/p&gt;</source>
@@ -1048,17 +1049,15 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation>&lt;h3&gt;Download läuft …&lt;/h3&gt;&lt;p&gt;Bitte einen Moment Geduld, während wir die Liste der verfügbaren Karten herunterladen…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="627"/>
         <source>Download list of maps…</source>
-        <translation>Liste der Karten herunterladen…</translation>
+        <translation type="vanished">Liste der Karten herunterladen…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="641"/>
         <source>Update</source>
-        <translation>Update</translation>
+        <translation type="vanished">Update</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="657"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="640"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Download der Liste der Luftfahrtkarten fehlgeschlagen.&lt;/p&gt;&lt;p&gt;Grund: %1.&lt;/p&gt;</translation>
     </message>
@@ -1066,14 +1065,8 @@ anderes dazu sagen können.&lt;/p&gt;
 <context>
     <name>DegreeInput</name>
     <message>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="79"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="116"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="135"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="175"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="193"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="211"/>
         <source>undefined</source>
-        <translation>unbestimmt</translation>
+        <translation type="vanished">unbestimmt</translation>
     </message>
 </context>
 <context>
@@ -4911,53 +4904,53 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <translation>Inhalt der Datei &apos;%1&apos; unverständlich.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="323"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="294"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Datei &apos;%1&apos; kann nicht zum Schreiben geöffnet werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="329"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="300"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Kann nicht in Datei &apos;%1&apos; schreiben.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="339"/>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="388"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="310"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="359"/>
         <source>Flight Route</source>
         <translation>Route</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="425"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="396"/>
         <source>Total: %1&amp;nbsp;km</source>
         <translation>Total: %1&amp;nbsp;km</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="427"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="398"/>
         <source>Total: %1&amp;nbsp;nm</source>
         <translation>Total: %1&amp;nbsp;nm</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="439"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="410"/>
         <source>Cruise speed not specified.</source>
         <translation>Reisegeschwindigkeit nicht angegeben.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="442"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="413"/>
         <source>Fuel consumption not specified.</source>
         <translation>Treibstoffverbrauch nicht angegeben.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="445"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="416"/>
         <source>Wind speed not specified.</source>
         <translation>Windgeschwindigkeit nicht angegeben.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="448"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="419"/>
         <source>Wind direction not specified.</source>
         <translation>Windrichtung nicht angegeben.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="452"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="423"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Berechnung unvollständig. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
@@ -7094,53 +7087,46 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>WaypointEditor</name>
     <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="46"/>
         <source>New waypoint name</source>
-        <translation type="vanished">Neuer Name des Wegpunkts</translation>
+        <translation>Neuer Name des Wegpunkts</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="49"/>
         <source>Edit waypoint</source>
-        <translation>Wegpunkt bearbeiten</translation>
+        <translation type="vanished">Wegpunkt bearbeiten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="60"/>
         <source>Name</source>
-        <translation>Name</translation>
+        <translation type="vanished">Name</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="73"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="61"/>
         <source>undefined</source>
         <translation>unbestimmt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="78"/>
         <source>Format</source>
-        <translation>Format</translation>
+        <translation type="vanished">Format</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
         <source>Degrees</source>
-        <translation>Grad</translation>
+        <translation type="vanished">Grad</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
         <source>Degrees and Minutes</source>
-        <translation>Grad und Minuten</translation>
+        <translation type="vanished">Grad und Minuten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
         <source>Degrees, Minutes and Seconds</source>
-        <translation>Grad, Minuten und Sekunden</translation>
+        <translation type="vanished">Grad, Minuten und Sekunden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="90"/>
         <source>Latitude</source>
-        <translation>Breite</translation>
+        <translation type="vanished">Breite</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="106"/>
         <source>Longitude</source>
-        <translation>Länge</translation>
+        <translation type="vanished">Länge</translation>
     </message>
 </context>
 <context>
@@ -10473,42 +10459,42 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="581"/>
+        <location filename="../../../src/qml/main.qml" line="586"/>
         <source>Connected to traffic receiver.</source>
         <translation>Mit dem Verkehrsdatenempfänger verbunden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="583"/>
+        <location filename="../../../src/qml/main.qml" line="588"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Verbindung zum Verkehrsdatenempfänger verloren.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="616"/>
+        <location filename="../../../src/qml/main.qml" line="621"/>
         <source>Exit…?</source>
         <translation>Beenden…?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="617"/>
+        <location filename="../../../src/qml/main.qml" line="622"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; tatsächlich beenden?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="627"/>
+        <location filename="../../../src/qml/main.qml" line="632"/>
         <source>What&apos;s new …?</source>
         <translation>Was ist neu …?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="688"/>
+        <location filename="../../../src/qml/main.qml" line="693"/>
         <source>Network security error</source>
         <translation>Netzwerksicherheits-Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="700"/>
+        <location filename="../../../src/qml/main.qml" line="705"/>
         <source>Network security settings</source>
         <translation>Einstellungen zur Netzwerksicherheit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="701"/>
+        <location filename="../../../src/qml/main.qml" line="706"/>
         <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Sie haben entschieden, Netzwerksicherheits-Fehler zukünftig zu ignorieren. **Dies stellt ein Sicherheitsrisiko dar.** In den Einstellungen können Sie auf Wunsch das ursprüngliche, sichere Verhalten der App wiederherstellen.</translation>
     </message>
