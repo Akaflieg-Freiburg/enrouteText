@@ -4,12 +4,10 @@ Check Weather
 **Enroute Flight Navigation** can show METAR reports and TAF forecasts from
 nearby airfields along your route.  The data is updated frequently, provided
 that an internet connection is available.  To check weather, open the main menu
-and choose the item "Weather".
-
-.. note::
-    Weather information comes from the "Aviation Weather Center", a website of
-    the US government.  When you open the page for the first time, **Enroute
-    Flight Navigation** asks for your permission to access that site. 
+and choose the item "Weather".  The weather information comes from the "Aviation
+Weather Center", a website of the US government.  When you open the page for the
+first time, **Enroute Flight Navigation** asks for your permission to access
+that site. 
 
 .. warning::
     The weather information shown by **Enroute Flight Navigation** might be
@@ -38,8 +36,8 @@ in the picture, the following information is shown.
 
 The entries are classified and colored according to the "aviation flight
 categories" typically used in the United States. The coding scheme is explained
-in the table below. Note that the color coding might be different from the
-coding typically used in your country. Green color does certainly **not** imply
+in the table below. Note that this color coding might be different from the
+scheme typically used in your country. Green color does certainly **not** imply
 that it is advisable (or legal) to fly.
 
 +--------------+--------+-------------------------+-----+---------------+
@@ -55,12 +53,12 @@ that it is advisable (or legal) to fly.
 +--------------+--------+-------------------------+-----+---------------+
 
 
+The detailed weather dialog
+---------------------------
 
-The information of each airport will be color coded by a system established by
-the US National Weather Service. The coding scheme is explained in the table
-below. When touching a station line METAR and TAF (if available) will be shown
-in a weather detail sub-page. The following data will be displayed in the pop-up
-window when touching the station line of a weather report:
+
+The following data will be displayed in the pop-up window when touching the
+station line of a weather report:
 
     1. Station data including bearing and distance
     2. Current meteorological report (METAR)
@@ -74,10 +72,6 @@ The following Information will be displayed:
     2. Station data
     3. Meteorological data closest to own position
 
-The weather data is downloaded from the National Weather Service of the United States of America.
-
-.. note::
-    When opening the Weather page the first time you will have to confirm that you agree to download data from the NWS server to use this service.
 
 The menu of the Waether page will allow to:
 
