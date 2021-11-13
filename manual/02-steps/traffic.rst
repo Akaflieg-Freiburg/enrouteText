@@ -1,7 +1,7 @@
 .. _traffic:
 
-Connect your traffic receiver
-=============================
+See traffic
+===========
 
 In order to display nearby traffic on the moving map, **Enroute Flight
 Navigation** can connect to your aircraft's traffic receiver (typically a FLARM

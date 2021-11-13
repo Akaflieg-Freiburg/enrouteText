@@ -49,9 +49,9 @@ and frequencies.
    :caption: Further Steps
    :name: sec-steps
 
+   02-steps/traffic
    02-steps/nearby
    02-steps/weather
-   02-steps/traffic
    02-steps/simulator
    02-steps/donate
    
@@ -66,7 +66,6 @@ and frequencies.
    03-reference/mapData
    03-reference/platform
    03-reference/Airspace
-   03-reference/Weather
    03-reference/RoutePlan
 
    
