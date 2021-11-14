@@ -764,7 +764,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="180"/>
         <location filename="../../../src/qml/pages/DataManager.qml" line="298"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="639"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="656"/>
         <source>Download Error</source>
         <translation>Erreur de téléchargement</translation>
     </message>
@@ -781,7 +781,6 @@ données de manière publique et gratuite.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="379"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="624"/>
         <source>Download all updates…</source>
         <translation>Télécharger toutes les mises à jour…</translation>
     </message>
@@ -812,12 +811,8 @@ données de manière publique et gratuite.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="557"/>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using the item &apos;Update&apos; from the menu. You find the menu at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n&apos; pas encore été téléchargée. Vous pouvez recommencer le téléchargement en utilisant le bouton ci-dessous.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes disponibles n&apos; pas encore été téléchargée. Vous pouvez recommencer le téléchargement en utilisant le bouton ci-dessous.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="585"/>
@@ -825,15 +820,17 @@ données de manière publique et gratuite.&lt;/p&gt;
         <translation>&lt;h3&gt;Téléchargement en cours…&lt;/h3&gt;&lt;p&gt;Merci de patienter pendant que la liste des cartes est téléchargée depuis le serveur…&lt;/p&gt;</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="627"/>
         <source>Download list of maps…</source>
-        <translation type="vanished">Télécharger la liste des cartes…</translation>
+        <translation>Télécharger la liste des cartes…</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="641"/>
         <source>Update</source>
-        <translation type="vanished">Mettre à jour</translation>
+        <translation>Mettre à jour</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="640"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="657"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Echec du téléchargement de la liste des cartes aéronautiques.&lt;/p&gt;&lt;p&gt;Cause: %1.&lt;/p&gt;</translation>
     </message>
@@ -841,8 +838,14 @@ données de manière publique et gratuite.&lt;/p&gt;
 <context>
     <name>DegreeInput</name>
     <message>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="79"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="116"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="135"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="175"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="193"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="211"/>
         <source>undefined</source>
-        <translation type="vanished">non défini</translation>
+        <translation>non défini</translation>
     </message>
 </context>
 <context>
@@ -2097,53 +2100,53 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
         <translation>Analyse du contenu du fichier &apos;%1&apos; impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="294"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="323"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Ouverture du fichier &apos;%1&apos; pour écriture impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="300"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="329"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Ecriture du fichier &apos;%1&apos; impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="310"/>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="359"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="339"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="388"/>
         <source>Flight Route</source>
         <translation>Route</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="396"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="425"/>
         <source>Total: %1&amp;nbsp;km</source>
         <translation>Total : %1&amp;nbsp;km</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="398"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="427"/>
         <source>Total: %1&amp;nbsp;nm</source>
         <translation>Total : %1&amp;nbsp;nm</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="410"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="439"/>
         <source>Cruise speed not specified.</source>
         <translation>Vitesse de croisière non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="413"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="442"/>
         <source>Fuel consumption not specified.</source>
         <translation>Comsommation de carburant non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="416"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="445"/>
         <source>Wind speed not specified.</source>
         <translation>Vitesse du vent non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="419"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="448"/>
         <source>Wind direction not specified.</source>
         <translation>Direction du vent non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="423"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="452"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Calcul impossible. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
@@ -3477,46 +3480,49 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>WaypointEditor</name>
     <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="49"/>
         <source>Edit waypoint</source>
-        <translation type="vanished">Modifier le point tournant</translation>
+        <translation>Modifier le point tournant</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="60"/>
         <source>Name</source>
-        <translation type="vanished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="46"/>
-        <source>New waypoint name</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="61"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="73"/>
         <source>undefined</source>
         <translation>non défini</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="78"/>
         <source>Format</source>
-        <translation type="vanished">Format</translation>
+        <translation>Format</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
         <source>Degrees</source>
-        <translation type="vanished">Degrés</translation>
+        <translation>Degrés</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
         <source>Degrees and Minutes</source>
-        <translation type="vanished">Degrés et minutes</translation>
+        <translation>Degrés et minutes</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="85"/>
         <source>Degrees, Minutes and Seconds</source>
-        <translation type="vanished">Degrés, minutes et secondes</translation>
+        <translation>Degrés, minutes et secondes</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="90"/>
         <source>Latitude</source>
-        <translation type="vanished">Latitude</translation>
+        <translation>Latitude</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="106"/>
         <source>Longitude</source>
-        <translation type="vanished">Longitude</translation>
+        <translation>Longitude</translation>
     </message>
 </context>
 <context>
