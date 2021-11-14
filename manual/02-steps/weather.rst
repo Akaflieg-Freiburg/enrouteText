@@ -26,7 +26,7 @@ this.
    Weather information
 
 
-The page body displays a list of stations that are within 85 nm around your
+The page body displays a list of stations that are within 85nm around your
 current position or your intended flight route.  As you can see in the picture,
 the following information is shown.
 
