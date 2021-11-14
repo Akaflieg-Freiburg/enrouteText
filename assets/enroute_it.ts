@@ -4349,7 +4349,7 @@ Scegli &lt;strong&gt; Archivio / Mappe &lt;/strong&gt; per aprire la pagina di g
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the menu button in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Non ci sono mappe d&apos;avviazione installate.&lt;/strong&gt;&lt;/p&gt;
+        <translation>&lt;p&gt;&lt;strong&gt;Non ci sono mappe d&apos;aviazione installate.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Per installare una mappa, aprire il menu utilizzando il pulsante menu nell&apos;angolo in alto a sinistra di questa schermata.
 Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagina della gestione delle mappe.&lt;/p&gt;</translation>
     </message>
@@ -4876,12 +4876,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="142"/>
         <source>Error (horizontal)</source>
-        <translation>Errore (Orizzontale)</translation>
+        <translation>Errore (orizzontale)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="150"/>
         <source>Error (vertical)</source>
-        <translation>Errore (Verticale)</translation>
+        <translation>Errore (verticale)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="159"/>
@@ -4992,7 +4992,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/positioning/PositionProvider.cpp" line="202"/>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="204"/>
         <source>Not receiving position information</source>
-        <translation>Non ricevo informazioni di posizionamento</translation>
+        <translation>Non ricevo informazioni di posizione</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="204"/>
@@ -5377,7 +5377,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="450"/>
         <source>RF communication</source>
-        <translation>Comunicazione</translation>
+        <translation>Comunicazione RF</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="453"/>
@@ -5784,7 +5784,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="155"/>
         <source>An error occurred when writing to the file.</source>
-        <translation>Si è verificato un errore durante la scrittura dal file.</translation>
+        <translation>Si è verificato un errore durante la scrittura del file.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="158"/>
@@ -5814,7 +5814,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="173"/>
         <source>An unspecified error occurred.</source>
-        <translation>Si è verificato un errore non ben specificato.</translation>
+        <translatorcomment>tolto &quot;ben&quot;</translatorcomment>
+        <translation>Si è verificato un errore non specificato.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="176"/>
@@ -6248,7 +6249,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="141"/>
         <source>Tow Plane</source>
-        <translation>Cavo di traino</translation>
+        <translatorcomment>Replaced &quot;Cavo&quot; with &quot;Aereo&quot;</translatorcomment>
+        <translation>Aereo di traino</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="144"/>
@@ -6321,7 +6323,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="98"/>
         <source>Tow Plane</source>
-        <translation>Cavo di traino</translation>
+        <translatorcomment>Replaced &quot;Cavo&quot; with &quot;Aereo&quot;</translatorcomment>
+        <translation>Aereo di traino</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="101"/>
@@ -6433,7 +6436,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="186"/>
         <source>How to connect your flight simulator…</source>
-        <translation>Come connettere un simulatore di volo...</translation>
+        <translatorcomment>Replaced &quot;un&quot; with &quot;il tuo&quot;</translatorcomment>
+        <translation>Come connettere il tuo simulatore di volo...</translation>
     </message>
     <message>
         <source>
@@ -6684,12 +6688,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="423"/>
         <source>Overwrite current flight route?</source>
-        <translation>Sovrascrivere ll&apos;itinerario corrente?</translation>
+        <translation>Sovrascrivere l&apos;itinerario corrente?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="433"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
-        <translation>Una volta sovrascritto, ll&apos;itinerario di volo non potrà essere ripristinato.</translation>
+        <translation>Una volta sovrascritto, l&apos;itinerario di volo non potrà essere ripristinato.</translation>
     </message>
 </context>
 <context>
@@ -9789,7 +9793,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="110"/>
         <source>Route</source>
-        <translation>Itinerario</translation>
+        <translatorcomment>Replaced &quot;Itinerario&quot; with &quot;Piano di volo&quot; as per emails.</translatorcomment>
+        <translation>Piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="125"/>
