@@ -5279,7 +5279,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="196"/>
         <source>Timestamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeitstempel</translation>
     </message>
     <message>
         <source>Connect your traffic receiver</source>
