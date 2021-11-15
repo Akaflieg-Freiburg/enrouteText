@@ -5277,6 +5277,11 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Druckhöhe</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="196"/>
+        <source>Timestamp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Connect your traffic receiver</source>
         <translation type="vanished">Verbinden Sie Ihren Verkehrsdatenempfänger</translation>
     </message>

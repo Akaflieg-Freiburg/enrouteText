@@ -2402,6 +2402,11 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <source>Pressure Altitude</source>
         <translation>Altitude pression</translation>
     </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="196"/>
+        <source>Timestamp</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Positioning::PositionInfoSource_Satellite</name>

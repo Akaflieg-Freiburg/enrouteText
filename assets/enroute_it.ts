@@ -4909,6 +4909,11 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Altitudine di pressione</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="196"/>
+        <source>Timestamp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Connect your traffic receiver</source>
         <translation type="vanished">Connetti il Ricevitore di Traffico</translation>
     </message>

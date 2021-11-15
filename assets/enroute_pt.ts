@@ -2043,6 +2043,11 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <source>Pressure Altitude</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="196"/>
+        <source>Timestamp</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Positioning::PositionInfoSource_Satellite</name>

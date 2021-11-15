@@ -4645,6 +4645,11 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Wysokość wzgl. ciśnienia</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="196"/>
+        <source>Timestamp</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Connect your traffic receiver</source>
         <translation type="vanished">Podłącz twój odbiornik ruchu lotniczego</translation>
     </message>
