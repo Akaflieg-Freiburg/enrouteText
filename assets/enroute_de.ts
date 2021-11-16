@@ -2928,6 +2928,11 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="282"/>
+        <source>&lt;p&gt;The app now honors the system setting for haptic feedback.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="283"/>
         <source>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; The readers of the German aviation magazine &apos;Aerokurier&apos; have named &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; as one of the top three innovations of the year in the category &apos;Avionics&apos;. Thanks to everybody who made this success possible!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; Die Leser der deutschen Luftfahrtzeitschrift &apos;Aerokurier&apos; haben &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; als eine der drei Top-Innovationen des Jahres in der Kategorie &apos;Avionics&apos; gewählt. Danke an alle, die diesen Erfolg ermöglicht haben!&lt;/p&gt;</translation>
     </message>
