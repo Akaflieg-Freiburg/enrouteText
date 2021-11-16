@@ -2929,7 +2929,7 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
     <message>
         <location filename="../../../src/Librarian.cpp" line="282"/>
         <source>&lt;p&gt;The app now honors the system setting for haptic feedback.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Die App berücksichtigt jetzt die Systemeinstellung für haptische Rückmeldung.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
