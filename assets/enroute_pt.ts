@@ -6301,18 +6301,18 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="128"/>
+        <location filename="../../../src/main.cpp" line="135"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="131"/>
+        <location filename="../../../src/main.cpp" line="138"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="133"/>
+        <location filename="../../../src/main.cpp" line="140"/>
         <source>File to import.</source>
         <translation type="unfinished"></translation>
     </message>
