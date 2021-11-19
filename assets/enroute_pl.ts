@@ -3174,7 +3174,7 @@ oraz **importu planu lotu**.
     <message>
         <location filename="../../../src/Librarian.cpp" line="282"/>
         <source>&lt;p&gt;The app now honors the system setting for haptic feedback.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Aplikacja uwzględnia teraz ustawienia systemowe dotyczące reakcji dotykowych.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
@@ -4652,7 +4652,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="196"/>
         <source>Timestamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Znacznik czasu</translation>
     </message>
     <message>
         <source>Connect your traffic receiver</source>
