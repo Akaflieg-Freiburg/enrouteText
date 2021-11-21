@@ -3473,7 +3473,7 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
     <message>
         <location filename="../../../src/Librarian.cpp" line="282"/>
         <source>&lt;p&gt;The app now honors the system setting for haptic feedback.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;Adesso la app rispetta le impostazioni di sistema per il tocco.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
@@ -4916,7 +4916,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="196"/>
         <source>Timestamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Marca temporale</translation>
     </message>
     <message>
         <source>Connect your traffic receiver</source>
