@@ -98,7 +98,7 @@ Command line
 ^^^^^^^^^^^^
 
 Rather than importing file by drag-and-drop, file names can also be given when
-starting **Enroute Flight Navigation** via the Unix command line.  The followin
+starting **Enroute Flight Navigation** via the Unix command line.  The following
 command line options are supported.
 
 ============== =====================

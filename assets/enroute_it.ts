@@ -1421,7 +1421,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="33"/>
         <source>Flight Route</source>
-        <translation>Itinerario</translation>
+        <translation>Piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="82"/>
@@ -1525,24 +1525,24 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="262"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="286"/>
         <source>Flight route shared</source>
-        <translation>Itinerario di volo condiviso</translation>
+        <translation>Piano di volo condiviso</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="264"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="288"/>
         <source>Flight route exported</source>
-        <translation>Itinerario di volo esportato</translation>
+        <translation>Piano di volo esportato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="310"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="327"/>
         <source>Flight route opened in other app</source>
-        <translation>Itinerario di volo aperto in un&apos;altra app</translation>
+        <translation>Piano di volo aperto in un&apos;altra app</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="355"/>
         <source>Flight route reversed</source>
-        <translation>Itinerario di volo riservato</translation>
+        <translation>Piano di volo invertito</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="371"/>
@@ -1563,7 +1563,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="398"/>
         <source>&lt;h2&gt;Empty Route&lt;/h2&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below.&lt;/p&gt;</source>
-        <translation>&lt;h2&gt;Itinerario vuoto&lt;/h2&gt;&lt;p&gt;Usare il tasto &lt;strong&gt;Aggiungi destinazione&lt;/strong&gt; qui sotto.&lt;/p&gt;</translation>
+        <translation>&lt;h2&gt;Piano di volo vuoto&lt;/h2&gt;&lt;p&gt;Usare il tasto &lt;strong&gt;Aggiungi destinazione&lt;/strong&gt; qui sotto.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="475"/>
@@ -1618,17 +1618,17 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="801"/>
         <source>Clear route?</source>
-        <translation>Cancellare l&apos;itinerario?</translation>
+        <translation>Cancellare il piano di volo?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="813"/>
         <source>Once erased, the current flight route cannot be restored.</source>
-        <translation>Una volta cancellato, ll&apos;itinerario non potrà essere ripristinato.</translation>
+        <translation>Una volta cancellato, il piano di volo non potrà essere ripristinato.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="821"/>
         <source>Flight route cleared</source>
-        <translation>Itinerario di volo ripulito</translation>
+        <translation>Piano di volo ripulito</translation>
     </message>
     <message>
         <source>Cleared flight route</source>
@@ -1720,19 +1720,19 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="228"/>
         <source>Flight route shared</source>
-        <translation>Itinerario di volo condiviso</translation>
+        <translation>Piano di volo condiviso</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="205"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="230"/>
         <source>Flight route exported</source>
-        <translation>Itinerario di volo esportato</translation>
+        <translation>Piano di volo esportato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="251"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="268"/>
         <source>Flight route opened in other app</source>
-        <translation>Itinerario di volo aperto in un&apos;altra app</translation>
+        <translation>Piano di volo aperto in un&apos;altra app</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="256"/>
@@ -1752,12 +1752,12 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="332"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes available. To add a route here, chose &apos;Flight Route&apos; from the main menu, edit a route and save it to the library.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessun itinerario disponibile. Per aprire un itinerario, selezionare &apos;Itinerario&apos; dal menu principale, modificare e salvare nell&apos;archivio.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessun piano di volo disponibile. Per aprire un piano di volo, selezionare &apos;Piano di volo&apos; dal menu principale, modificare e salvare nell&apos;archivio.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="333"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes match your filter criteria.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessun itinerario soddisfa i criteri selezionati.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessun piano di volo soddisfa i criteri selezionati.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="370"/>
@@ -1767,12 +1767,12 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="419"/>
         <source>Overwrite current flight route?</source>
-        <translation>Sovrascrivere l&apos;itinerario corrente?</translation>
+        <translation>Sovrascrivere il piano di volo corrente?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="429"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation>Caricando l&apos;itinerario &lt;strong&gt;%1&lt;/strong&gt; verrà cancellato l&apos;itinerario corrente. Una volta sovrascritto non potrà essere ripristinato.</translation>
+        <translation>Caricare il piano di volo &lt;strong&gt;%1&lt;/strong&gt; cancellerà quello corrente. Una volta sovrascritto non potrà essere ripristinato.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="453"/>
@@ -1782,17 +1782,17 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="463"/>
         <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation>Una volta cancellato l&apos;itinerario &lt;strong&gt;%1&lt;/strong&gt;, non potrà essere ripristinato.</translation>
+        <translation>Una volta cancellato il piano di volo &lt;strong&gt;%1&lt;/strong&gt;, non potrà essere ripristinato.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="475"/>
         <source>Flight route removed from device</source>
-        <translation>Itinerario di volo rimosso dal dispositivo</translation>
+        <translation>Piano di volo rimosso dal dispositivo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="543"/>
         <source>Flight route renamed</source>
-        <translation>Itinerario di volo rinominato</translation>
+        <translation>Piano di volo rinominato</translation>
     </message>
     <message>
         <source>Removed flight route from device</source>
@@ -1801,12 +1801,12 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="489"/>
         <source>Rename Flight Route</source>
-        <translation>Rinomina l&apos;itinerario</translation>
+        <translation>Rinomina il piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="507"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation>Inserire il nuovo nome per l&apos;itinerario &lt;strong&gt;%1&lt;/strong&gt;.</translation>
+        <translation>Inserire il nuovo nome per il piano di volo &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="533"/>
@@ -1828,17 +1828,17 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="30"/>
         <source>Load Flight Route from Library…</source>
-        <translation>Carica un itinerario dal&apos;archivio…</translation>
+        <translation>Carica un piano di volo dall&apos;archivio…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="79"/>
         <source>Choose a flight route from the list below.</source>
-        <translation>Scegliere un itinerario dalla lista sottostante.</translation>
+        <translation>Scegliere un piano di volo dalla lista sottostante.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="89"/>
         <source>Filter Flight Route Names</source>
-        <translation>Filtra gli itinerari per nome</translation>
+        <translation>Filtra i piani di volo per nome</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="151"/>
@@ -1848,12 +1848,12 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="184"/>
         <source>Overwrite current flight route?</source>
-        <translation>Sovrascrivere l&apos;itinerario corrente?</translation>
+        <translation>Sovrascrivere il piano di volo corrente?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteOpenDialog.qml" line="194"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation>Caricando l&apos;itinerario &lt;strong&gt;%1&lt;/strong&gt; verrà sovrascritto l&apos;attuale. Una volta sovrascritto non potrà essere ripristinato.</translation>
+        <translation>Caricare il piano di volo &lt;strong&gt;%1&lt;/strong&gt; cancellerà l&apos;attuale. Una volta sovrascritto non potrà essere ripristinato.</translation>
     </message>
 </context>
 <context>
@@ -1861,7 +1861,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="30"/>
         <source>Save Flight Route…</source>
-        <translation>Salva l&apos;itinerario…</translation>
+        <translation>Salva il piano di volo…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="77"/>
@@ -1871,12 +1871,12 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="88"/>
         <source>Flight Route Name</source>
-        <translation>Nome dell&apos;itinerario</translation>
+        <translation>Nome del piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="146"/>
         <source>Flight route %1 saved</source>
-        <translation>Itinerario di volo %1 salvato</translation>
+        <translation>Piano di volo %1 salvato</translation>
     </message>
     <message>
         <source>Saved flight route %1</source>
@@ -1885,12 +1885,12 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="198"/>
         <source>Overwrite flight route?</source>
-        <translation>Sovrascrivere l&apos;itinerario?</translation>
+        <translation>Sovrascrivere il piano di volo?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="205"/>
         <source>The route &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
-        <translation>L&apos;itinerario &lt;strong&gt;%1&lt;/strong&gt; è già presente. Vuoi sovrascriverlo?</translation>
+        <translation>Il piano di volo &lt;strong&gt;%1&lt;/strong&gt; è già presente. Vuoi sovrascriverlo?</translation>
     </message>
     <message>
         <source>Enter a file name or choose an existing name from the list below.</source>
@@ -1947,22 +1947,22 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="69"/>
         <source>Import Flight Route?</source>
-        <translation>Importare l&apos;itinerario?</translation>
+        <translation>Importare il piano di volo?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="76"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation>State per sovrascrivere l&apos;itinerario. Una volta sovrascritto non potrà essere ripristinato.</translation>
+        <translation>State per sovrascrivere il piano di volo. Una volta sovrascritto non potrà essere ripristinato.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="104"/>
         <source>Flight route imported</source>
-        <translation>Rotte volo importate</translation>
+        <translation>Piano di volo importato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="125"/>
         <source>Error importing flight route</source>
-        <translation>Errore durante il caricamento dell&apos;itinerario</translation>
+        <translation>Errore durante il caricamento del piano di volo</translation>
     </message>
 </context>
 <context>
@@ -3472,6 +3472,11 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="282"/>
+        <source>&lt;p&gt;The app now honors the system setting for haptic feedback.&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p&gt;Adesso la app rispetta le impostazioni di sistema per il tocco.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="283"/>
         <source>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; The readers of the German aviation magazine &apos;Aerokurier&apos; have named &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; as one of the top three innovations of the year in the category &apos;Avionics&apos;. Thanks to everybody who made this success possible!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; I lettori del magazine tedesco &apos;Aerokurier&apos; hanno nominato &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; come una delle top 3 innovazioni dell&apos;anno della categoria &apos;Avionics&apos;. Grazie a tutti per aver reso tutto ciò possibile!&lt;/p&gt;</translation>
     </message>
@@ -4325,7 +4330,7 @@ L&apos;app è stata testata con i seguenti programmi.&lt;/p&gt;
       
 &lt;p&gt;Come molti altri programmi, questa app usa i dati meteo presi da &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, un sito del governo statunitense.&lt;/p&gt;
 
-&lt;p&gt;Per poter fornire dati meteo attuali, questa app deve &lt;strong&gt;spedire la vostra posizione e il vostro itinerario corrente all&apos;Aviation Weather Center&lt;/strong&gt; ad intervalli regolari. Se siete d&apos;accordo con questo, potete attivare la funzione meteo cliccando sul pulsante sottostante. Potete disattivare la funzione in qualsiasi momento usando il menu in cima allo schermo.&lt;/p&gt;
+&lt;p&gt;Per poter fornire dati meteo attuali, questa app deve &lt;strong&gt;spedire la vostra posizione e il vostro piano di volo corrente all&apos;Aviation Weather Center&lt;/strong&gt; ad intervalli regolari. Se siete d&apos;accordo con questo, potete attivare la funzione meteo cliccando sul pulsante sottostante. Potete disattivare la funzione in qualsiasi momento usando il menu in cima allo schermo.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Non abbiamo nessun controllo sui dati spediti a Aviation Weather Center. Non possiamo garantire la correttezza delle informazioni meteo in nessun modo!&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
@@ -4349,7 +4354,7 @@ Scegli &lt;strong&gt; Archivio / Mappe &lt;/strong&gt; per aprire la pagina di g
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the menu button in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Non ci sono mappe d&apos;avviazione installate.&lt;/strong&gt;&lt;/p&gt;
+        <translation>&lt;p&gt;&lt;strong&gt;Non ci sono mappe d&apos;aviazione installate.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Per installare una mappa, aprire il menu utilizzando il pulsante menu nell&apos;angolo in alto a sinistra di questa schermata.
 Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagina della gestione delle mappe.&lt;/p&gt;</translation>
     </message>
@@ -4427,7 +4432,7 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="80"/>
         <source>Export flight route</source>
-        <translation>Esporta itinerario</translation>
+        <translation>Esporta il piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/MobileAdaptor_share.cpp" line="82"/>
@@ -4557,7 +4562,7 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
         <location filename="../../../src/navigation/FlightRoute.cpp" line="339"/>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="388"/>
         <source>Flight Route</source>
-        <translation>Itinerario</translation>
+        <translation>Piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="425"/>
@@ -4602,7 +4607,7 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="295"/>
         <source>Error interpreting GPX file: no valid route found.</source>
-        <translation>Errore nell&apos;interpretazione del file GPX: nessun itinerario trovato.</translation>
+        <translation>Errore nell&apos;interpretazione del file GPX: nessun piano di volo valido trovato.</translation>
     </message>
 </context>
 <context>
@@ -4876,12 +4881,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="142"/>
         <source>Error (horizontal)</source>
-        <translation>Errore (Orizzontale)</translation>
+        <translation>Errore (orizzontale)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="150"/>
         <source>Error (vertical)</source>
-        <translation>Errore (Verticale)</translation>
+        <translation>Errore (verticale)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="159"/>
@@ -4907,6 +4912,11 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/qml/pages/Positioning.qml" line="192"/>
         <source>Pressure Altitude</source>
         <translation>Altitudine di pressione</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="196"/>
+        <source>Timestamp</source>
+        <translation>Marca temporale</translation>
     </message>
     <message>
         <source>Connect your traffic receiver</source>
@@ -4992,7 +5002,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/positioning/PositionProvider.cpp" line="202"/>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="204"/>
         <source>Not receiving position information</source>
-        <translation>Non ricevo informazioni di posizionamento</translation>
+        <translation>Non ricevo informazioni di posizione</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="204"/>
@@ -5377,7 +5387,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="450"/>
         <source>RF communication</source>
-        <translation>Comunicazione</translation>
+        <translation>Comunicazione RF</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="453"/>
@@ -5784,7 +5794,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="155"/>
         <source>An error occurred when writing to the file.</source>
-        <translation>Si è verificato un errore durante la scrittura dal file.</translation>
+        <translation>Si è verificato un errore durante la scrittura del file.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="158"/>
@@ -5814,7 +5824,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="173"/>
         <source>An unspecified error occurred.</source>
-        <translation>Si è verificato un errore non ben specificato.</translation>
+        <translatorcomment>tolto &quot;ben&quot;</translatorcomment>
+        <translation>Si è verificato un errore non specificato.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="176"/>
@@ -6248,7 +6259,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="141"/>
         <source>Tow Plane</source>
-        <translation>Cavo di traino</translation>
+        <translatorcomment>Replaced &quot;Cavo&quot; with &quot;Aereo&quot;</translatorcomment>
+        <translation>Aereo di traino</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="144"/>
@@ -6321,7 +6333,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="98"/>
         <source>Tow Plane</source>
-        <translation>Cavo di traino</translation>
+        <translatorcomment>Replaced &quot;Cavo&quot; with &quot;Aereo&quot;</translatorcomment>
+        <translation>Aereo di traino</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="101"/>
@@ -6433,7 +6446,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="186"/>
         <source>How to connect your flight simulator…</source>
-        <translation>Come connettere un simulatore di volo...</translation>
+        <translatorcomment>Replaced &quot;un&quot; with &quot;il tuo&quot;</translatorcomment>
+        <translation>Come connettere il tuo simulatore di volo...</translation>
     </message>
     <message>
         <source>
@@ -6648,17 +6662,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="373"/>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="447"/>
         <source>New flight route: direct to %1.</source>
-        <translation>Nuovo itinerario di volo: diretto a %1.</translation>
+        <translation>Nuovo piano di volo: diretto a %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="391"/>
         <source>Added %1 to route.</source>
-        <translation>Aggiunto %1 all&apos;itinerario.</translation>
+        <translation>Aggiunto %1 al piano di volo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="410"/>
         <source>Removed %1 from route.</source>
-        <translation>Rimosso %1 dall&apos;itinerario.</translation>
+        <translation>Rimosso %1 dal piano di volo.</translation>
     </message>
     <message>
         <source>New light route: direct to %1.</source>
@@ -6684,12 +6698,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="423"/>
         <source>Overwrite current flight route?</source>
-        <translation>Sovrascrivere ll&apos;itinerario corrente?</translation>
+        <translation>Sovrascrivere il piano di volo corrente?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="433"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
-        <translation>Una volta sovrascritto, ll&apos;itinerario di volo non potrà essere ripristinato.</translation>
+        <translation>Una volta sovrascritto, il piano di volo non potrà essere ripristinato.</translation>
     </message>
 </context>
 <context>
@@ -9789,7 +9803,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="110"/>
         <source>Route</source>
-        <translation>Itinerario</translation>
+        <translatorcomment>Replaced &quot;Itinerario&quot; with &quot;Piano di volo&quot; as per emails.</translatorcomment>
+        <translation>Piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="125"/>
@@ -9888,7 +9903,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="172"/>
         <source>Flight Routes</source>
-        <translation>Itinerari</translation>
+        <translation>Piani di volo</translation>
     </message>
     <message>
         <source>Maps</source>
@@ -10023,19 +10038,19 @@ developed as a project of Akaflieg Freiburg.</source>
 sviluppata e progettata da Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="126"/>
+        <location filename="../../../src/main.cpp" line="135"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation è un&apos;app di navigazione per piloti VFR,
 sviluppata e progettata da Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="129"/>
+        <location filename="../../../src/main.cpp" line="138"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation>Esegui il simulatore e genera uno screenshots per il manuale</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="131"/>
+        <location filename="../../../src/main.cpp" line="140"/>
         <source>File to import.</source>
         <translation>File da importare.</translation>
     </message>
