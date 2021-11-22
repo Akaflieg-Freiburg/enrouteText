@@ -2488,112 +2488,112 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Paramètres</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="47"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="48"/>
         <source>Moving Map</source>
         <translation>Carte</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="55"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="56"/>
         <source>Hide Airspaces ≥ FL100</source>
         <translation>Cacher les espaces aériens ≥ FL100</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="58"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="59"/>
         <source>Upper airspaces hidden</source>
         <translation>Espaces aériens supérieurs cachés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="62"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="63"/>
         <source>All airspaces shown</source>
         <translation>Espaces aériens tous affichés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="80"/>
         <source>Hide Gliding Sectors</source>
         <translation>Cacher les secteurs pour planeurs</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="82"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="83"/>
         <source>Gliding sectors hidden</source>
         <translation>Secteurs pour planeurs cachés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="87"/>
         <source>Gliding sectors shown</source>
         <translation>Secteurs pour planeurs affichés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="116"/>
         <source>Speed in kn, distance in nm</source>
         <translation>Vitesse en kn, distance en nm</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="130"/>
         <source>Night mode</source>
         <translation>Mode nuit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="144"/>
         <source>Ignore network security errors</source>
         <translation>Ignorer les erreurs de sécurité réseau</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="159"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="160"/>
         <source>Clear password storage</source>
         <translation>Effacer les mots de passe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="166"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="167"/>
         <source>Help</source>
         <translation>Aide</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="175"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="176"/>
         <source>How to connect your traffic receiver…</source>
         <translation>Comment connecter votre récepteur de traffic…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="182"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="183"/>
         <source>How to connect your flight simulator…</source>
         <translation>Comment connecter un simulateur de vol…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="208"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="209"/>
         <source>Clear password storage?</source>
         <translation>Effacer les mots de passe ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="213"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="214"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
         <translation>Une fois que les mots de passe ont été effacés, ils ne pourront plus être récupérés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="219"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="220"/>
         <source>Clear</source>
         <translation>Effacer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="223"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="224"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="232"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="233"/>
         <source>Password storage cleared</source>
         <translation>Mots de passe effacés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="103"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="104"/>
         <source>System</source>
         <translation>Système</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="111"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="112"/>
         <source>Use metric units</source>
         <translation>Utiliser les unités métriques</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="114"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
         <source>Speed in km/h, distance in km</source>
         <translation>Vitesse en km/h, distance en km</translation>
     </message>
@@ -6667,18 +6667,18 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Vous avez choisi d&apos;ignorer les erreurs de sécurité réseau. **Ceci constitue un risque**. Allez sur la page&apos;Paramètres&apos; si vous souhaitez restorer le comportement original et sécurisé de l&apos;application.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="135"/>
+        <location filename="../../../src/main.cpp" line="128"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="138"/>
+        <location filename="../../../src/main.cpp" line="131"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation>Lancer le simulateur et générer des captures d&apos;écran pour le manuel</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="140"/>
+        <location filename="../../../src/main.cpp" line="133"/>
         <source>File to import.</source>
         <translation>Fichier à importer</translation>
     </message>

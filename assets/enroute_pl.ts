@@ -4781,92 +4781,92 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Ustawienia</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="47"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="48"/>
         <source>Moving Map</source>
         <translation>Mapa mobilna</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="55"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="56"/>
         <source>Hide Airspaces ≥ FL100</source>
         <translation>Ukryj Przestrzenie Lotnicze ≥ FL100</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="58"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="59"/>
         <source>Upper airspaces hidden</source>
         <translation>Wyższe przestrzenie lotnicze ukryte</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="62"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="63"/>
         <source>All airspaces shown</source>
         <translation>Pokazane wszystkie przestrzenie lotnicze</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="79"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="80"/>
         <source>Hide Gliding Sectors</source>
         <translation>Ukryj sektory szybowcowe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="82"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="83"/>
         <source>Gliding sectors hidden</source>
         <translation>Sektory szybowcowe ukryte</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="87"/>
         <source>Gliding sectors shown</source>
         <translation>Sektory szybowcowe pokazywane</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="116"/>
         <source>Speed in kn, distance in nm</source>
         <translation>Prędkość w kn, odległość w nm</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="130"/>
         <source>Night mode</source>
         <translation>Tryb nocny</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="144"/>
         <source>Ignore network security errors</source>
         <translation>Ignoruj błędy bezpieczeństwa sieci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="159"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="160"/>
         <source>Clear password storage</source>
         <translation>Wyczyść magazyn haseł</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="166"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="167"/>
         <source>Help</source>
         <translation>Pomoc</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="175"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="176"/>
         <source>How to connect your traffic receiver…</source>
         <translation>Jak podłączyć twój odbiornik ruchu lotniczego...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="208"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="209"/>
         <source>Clear password storage?</source>
         <translation>Wyczyścić magazyn haseł?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="213"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="214"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
         <translation>W momencie wyczyszczenia magazynu, hasła nie mogą być odczytane.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="219"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="220"/>
         <source>Clear</source>
         <translation>Wyczyść</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="223"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="224"/>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="232"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="233"/>
         <source>Password storage cleared</source>
         <translation>Magazyn haseł wyczyszczony</translation>
     </message>
@@ -4875,7 +4875,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Podłącz twój odbiornik ruchu lotniczego</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="182"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="183"/>
         <source>How to connect your flight simulator…</source>
         <translation>Jak podłączyć twój symulator lotu...</translation>
     </message>
@@ -4904,7 +4904,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Element nie dostępny podczas lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="103"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="104"/>
         <source>System</source>
         <translation>System</translation>
     </message>
@@ -4921,12 +4921,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Zawsze w trybie lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="111"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="112"/>
         <source>Use metric units</source>
         <translation>Użyj systemu metrycznego</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="114"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
         <source>Speed in km/h, distance in km</source>
         <translation>Prędkość w km/h, dystans w km</translation>
     </message>
@@ -9699,19 +9699,19 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Enroute Flight Navigation to darmowa nawigacja lotnicza dla pilotów VFR, rozwijana jako projekt Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="135"/>
+        <location filename="../../../src/main.cpp" line="128"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation to darmowa nawigacja lotnicza dla pilotów VFR,
 rozwijana jako projekt Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="138"/>
+        <location filename="../../../src/main.cpp" line="131"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation>Uruchom symulator i generuj ekrany dla instrukcji użytkownika</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="140"/>
+        <location filename="../../../src/main.cpp" line="133"/>
         <source>File to import.</source>
         <translation>Plik do zaimportowania.</translation>
     </message>
