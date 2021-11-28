@@ -1779,7 +1779,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="282"/>
         <source>&lt;p&gt;The app now honors the system setting for haptic feedback.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;L&apos;app utilise maintenant les paramètres systèmes pour fournir un feedback haptique.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
@@ -2410,7 +2410,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="196"/>
         <source>Timestamp</source>
-        <translation type="unfinished"></translation>
+        <translation>Horodatage</translation>
     </message>
 </context>
 <context>
