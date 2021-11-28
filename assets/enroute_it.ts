@@ -3473,7 +3473,7 @@ disponibile in &lt;strong&gt; lingua polacca &lt;/strong&gt;.&lt;/p&gt;</transla
     <message>
         <location filename="../../../src/Librarian.cpp" line="282"/>
         <source>&lt;p&gt;The app now honors the system setting for haptic feedback.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Adesso la app rispetta le impostazioni di sistema per il tocco.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;L&apos;app ora rispetta l&apos;impostazione di sistema per il feedback tattile.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
