@@ -1644,7 +1644,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
     <name>FlightRouteLibrary</name>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="31"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="410"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="394"/>
         <source>Flight Route Library</source>
         <translation>Archivio itinerari</translation>
     </message>
@@ -1664,22 +1664,21 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <translation>Filtra gli itinerari per nome</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="167"/>
         <source>Open …</source>
-        <translation>Apri…</translation>
+        <translation type="vanished">Apri…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="182"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="166"/>
         <source>Share …</source>
         <translation>Condividi…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="182"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="166"/>
         <source>Export …</source>
         <translation>Esporta…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="185"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="169"/>
         <source>… to GeoJSON file</source>
         <translation>… come file GeoJSON</translation>
     </message>
@@ -1692,17 +1691,17 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <translation type="vanished">Itinerario esportato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="210"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="194"/>
         <source>… to GPX file</source>
         <translation>… come file GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="236"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="220"/>
         <source>Open in other app …</source>
         <translation>Apri in un&apos;altra app…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="239"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="223"/>
         <source>… in GeoJSON format</source>
         <translation>in formato GeoJSON</translation>
     </message>
@@ -1711,86 +1710,86 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <translation type="vanished">Apri l&apos;itinerario di volo con un&apos;altra app</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="194"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="219"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="178"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
         <source>Aborted</source>
         <translation>Annnullato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="228"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="187"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="212"/>
         <source>Flight route shared</source>
         <translation>Piano di volo condiviso</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="205"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="230"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="189"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="214"/>
         <source>Flight route exported</source>
         <translation>Piano di volo esportato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="251"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="268"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="235"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="252"/>
         <source>Flight route opened in other app</source>
         <translation>Piano di volo aperto in un&apos;altra app</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="256"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="240"/>
         <source>… in GPX format</source>
         <translation>… in formato GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="278"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="262"/>
         <source>Rename …</source>
         <translation>Rinomina…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="290"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="274"/>
         <source>Remove …</source>
         <translation>Rimuovi…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="332"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="316"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes available. To add a route here, chose &apos;Flight Route&apos; from the main menu, edit a route and save it to the library.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessun piano di volo disponibile. Per aprire un piano di volo, selezionare &apos;Piano di volo&apos; dal menu principale, modificare e salvare nell&apos;archivio.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="333"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="317"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessun piano di volo soddisfa i criteri selezionati.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="370"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="354"/>
         <source>An error occurred…</source>
         <translation>Ci sono errori…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="419"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="403"/>
         <source>Overwrite current flight route?</source>
         <translation>Sovrascrivere il piano di volo corrente?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="429"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="413"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Caricare il piano di volo &lt;strong&gt;%1&lt;/strong&gt; cancellerà quello corrente. Una volta sovrascritto non potrà essere ripristinato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="453"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="437"/>
         <source>Remove from device?</source>
         <translation>Rimuovere dal dispositivo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="463"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="447"/>
         <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Una volta cancellato il piano di volo &lt;strong&gt;%1&lt;/strong&gt;, non potrà essere ripristinato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="475"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="459"/>
         <source>Flight route removed from device</source>
         <translation>Piano di volo rimosso dal dispositivo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="543"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="527"/>
         <source>Flight route renamed</source>
         <translation>Piano di volo rinominato</translation>
     </message>
@@ -1799,17 +1798,17 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <translation type="vanished">Rimuovi l&apos;itinerario di volo dal dispositivo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="489"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="473"/>
         <source>Rename Flight Route</source>
         <translation>Rinomina il piano di volo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="507"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="491"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Inserire il nuovo nome per il piano di volo &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="533"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="517"/>
         <source>Rename</source>
         <translation>Rinomina</translation>
     </message>
@@ -1818,7 +1817,7 @@ club di volo di pubblica utilit&amp;agrave; a Friburgo, Germania. &lt;/p&gt;
         <translation type="vanished">Rinomina l&apos;itinerario di volo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="558"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="542"/>
         <source>Error exporting data…</source>
         <translation>Errore esportando i dati…</translation>
     </message>
@@ -10038,19 +10037,19 @@ developed as a project of Akaflieg Freiburg.</source>
 sviluppata e progettata da Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="134"/>
+        <location filename="../../../src/main.cpp" line="133"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation è un&apos;app di navigazione per piloti VFR,
 sviluppata e progettata da Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="137"/>
+        <location filename="../../../src/main.cpp" line="136"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation>Esegui il simulatore e genera uno screenshots per il manuale</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="139"/>
+        <location filename="../../../src/main.cpp" line="138"/>
         <source>File to import.</source>
         <translation>File da importare.</translation>
     </message>
