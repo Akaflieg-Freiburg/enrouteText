@@ -6,23 +6,23 @@
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="33"/>
         <source>Aircraft</source>
-        <translation type="unfinished">Luftfahrzeug</translation>
+        <translation>Luftfahrzeug</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="90"/>
         <source>View Library …</source>
-        <translation type="unfinished">Bibliothek betrachten …</translation>
+        <translation>Bibliothek betrachten …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="99"/>
         <source>Save to library …</source>
-        <translation type="unfinished">In Bibliothek speichern …</translation>
+        <translation>In Bibliothek speichern …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="137"/>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="146"/>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="162"/>
@@ -31,88 +31,88 @@
         <location filename="../../../src/qml/pages/Aircraft.qml" line="470"/>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="558"/>
         <source>undefined</source>
-        <translation type="unfinished">unbestimmt</translation>
+        <translation>unbestimmt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="166"/>
         <source>Units</source>
-        <translation type="unfinished"></translation>
+        <translation>Einheiten</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="174"/>
         <source>Horizontal</source>
-        <translation type="unfinished">Horizontal</translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="187"/>
         <source>Nautical Miles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nautische Meilen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="187"/>
         <source>Kilometers</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilometer</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="187"/>
         <source>Statute Miles</source>
-        <translation type="unfinished"></translation>
+        <translation>Britische Meilen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="190"/>
         <source>Vertical</source>
-        <translation type="unfinished">Vertikal</translation>
+        <translation>Vertikal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="203"/>
         <source>Feet</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuß</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="203"/>
         <source>Meters</source>
-        <translation type="unfinished"></translation>
+        <translation>Meter</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="206"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="219"/>
         <source>Liters</source>
-        <translation type="unfinished"></translation>
+        <translation>Liter</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="219"/>
         <source>U.S. Gallons</source>
-        <translation type="unfinished"></translation>
+        <translation>U.S. Gallonen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="225"/>
         <source>True Airspeed</source>
-        <translation type="unfinished">Wahre Fluggeschwindigkeit</translation>
+        <translation>Wahre Fluggeschwindigkeit</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="233"/>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="506"/>
         <source>Cruise</source>
-        <translation type="unfinished">Reiseflug</translation>
+        <translation>Reiseflug</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="321"/>
         <source>Descent</source>
-        <translation type="unfinished">Sinkflug</translation>
+        <translation>Sinkflug</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="409"/>
         <source>Minumum</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimum</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="498"/>
         <source>Fuel Consumption</source>
-        <translation type="unfinished"></translation>
+        <translation>Treibstoffverbrauch</translation>
     </message>
 </context>
 <context>
@@ -120,87 +120,87 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="33"/>
         <source>Aircraft Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Lfz-Bibliothek</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="47"/>
         <source>Filter Aircraft Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Filter Lfz-Namen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="93"/>
         <source>Rename …</source>
-        <translation type="unfinished">Umbenennen …</translation>
+        <translation>Umbenennen …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="105"/>
         <source>Remove …</source>
-        <translation type="unfinished">Löschen …</translation>
+        <translation>Löschen …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="147"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft available. To add a route here, chose &apos;Aircraft&apos; from the main menu, and save the current aircraft to the library.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Kein Luftfahrzeug verfügbar. Um hier eine Route hinzuzufügen, wählen Sie &apos;Luftfahrzeug&apos; im Hauptmenü und speichern Sie das aktuelle Lfz. in der Bibliothek.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="148"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft match your filter criteria.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Kein Lfz. passend zum Filter gefunden.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="185"/>
         <source>An error occurred…</source>
-        <translation type="unfinished"></translation>
+        <translation>Es ist ein Fehler aufgetreten ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="226"/>
         <source>Overwrite current aircraft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktuelles Luftfahrzeug überschreiben?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="236"/>
         <source>Loading the aircraft &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current aircraft. Once overwritten, the current aircraft cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Luftfahrzeug &lt;strong&gt;%1&lt;/strong&gt; laden überschreibt das aktuelle Luftfahrzeug. Es kann danach nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="259"/>
         <source>Remove from device?</source>
-        <translation type="unfinished">Vom Gerät löschen?</translation>
+        <translation>Vom Gerät löschen?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="269"/>
         <source>Once the aircraft &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Einmal gelöscht, kann das Luftfahrzeug &lt;strong&gt;%1&lt;/strong&gt; nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="281"/>
         <source>Aircraft removed from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Luftfahrzeug vom Gerät gelöscht</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="295"/>
         <source>Rename Aircraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Luftfahrzeug umbenennen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="313"/>
         <source>Enter new name for the aircraft &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte neuen Namen für das Luftfahrzeug &lt;strong&gt;%1&lt;/strong&gt; eingeben.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="326"/>
         <source>New Aircraft Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Neuer Lfz.-Name</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="339"/>
         <source>Rename</source>
-        <translation type="unfinished">Umbenennen</translation>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="349"/>
         <source>Aircraft renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Luftfahrzeug umbenannt</translation>
     </message>
 </context>
 <context>
@@ -208,37 +208,37 @@
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="30"/>
         <source>Save Aircraft…</source>
-        <translation type="unfinished"></translation>
+        <translation>Luftfahrzeug speichern ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="77"/>
         <source>Enter a name or choose an existing name from the list below.</source>
-        <translation type="unfinished">Geben Sie einen Namen ein oder wählen Sie einen bestehenden aus der Liste unten aus.</translation>
+        <translation>Geben Sie einen Namen ein oder wählen Sie einen bestehenden aus der Liste unten aus.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="88"/>
         <source>Aircraft Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Luftfahrzeugname</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="146"/>
         <source>Aircraft %1 saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Luftfahrzeug %1 gespeichert</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="160"/>
         <source>An error occurred…</source>
-        <translation type="unfinished"></translation>
+        <translation>Es ist ein Fehler aufgetreten ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="198"/>
         <source>Overwrite aircraft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Luftfahrzeug überschreiben?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="205"/>
         <source>The aircraft &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Luftfahrzeug &lt;strong&gt;%1&lt;/strong&gt; gibt es schon in der Bibliothek. Überschreiben?</translation>
     </message>
 </context>
 <context>
@@ -2019,7 +2019,8 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="506"/>
         <source>New Flight Route Name</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Bezug unklar, bitte prüfen, Ggf. wäre richtig: Name der neuen Route?</translatorcomment>
+        <translation>Neuer Name der Flugroute?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="529"/>
@@ -3146,7 +3147,7 @@ Document (ICD)&apos;, Version 7.13, as published by FLARM Technology Ltd.&lt;/p&
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports more units of measurement. Go to the new &apos;Aircraft&apos; entry in the main menu to choose your preferred units.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Wie von unseren Benutzern gewünscht, unterstützt &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; jetzt mehr Maßeinheiten. Wählen Sie im neuen Menüpunkt &apos;Luftfahrzeug&apos; des Hauptmenüs Ihre bevorzugten Einheiten.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now uses the Flarmnet database to identify traffic.&lt;/p&gt;</source>
@@ -5084,27 +5085,27 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="144"/>
         <source>Unable to open the file &apos;%1&apos; for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann Datei &apos;%1&apos; nicht zum Lesen öffnen.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="160"/>
         <source>JSON document contains no data.</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON-Dokument enthält keine Daten.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="164"/>
         <source>JSON document does not describe an aircraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>JSON-Dokument beschreibt kein Luftfahrzeug.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="189"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished">Datei &apos;%1&apos; kann nicht zum Schreiben geöffnet werden.</translation>
+        <translation>Datei &apos;%1&apos; kann nicht zum Schreiben geöffnet werden.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="195"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished">Kann nicht in Datei &apos;%1&apos; schreiben.</translation>
+        <translation>Kann nicht in Datei &apos;%1&apos; schreiben.</translation>
     </message>
 </context>
 <context>
@@ -5191,17 +5192,17 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="427"/>
         <source>Total: %1 km</source>
-        <translation type="unfinished"></translation>
+        <translation>Total: %1 km</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="430"/>
         <source>Total: %1 nm</source>
-        <translation type="unfinished"></translation>
+        <translation>Total: %1 NM</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="433"/>
         <source>Total: %1 mil</source>
-        <translation type="unfinished"></translation>
+        <translation>Total: %1 mil</translation>
     </message>
     <message>
         <source>Total: %1&amp;nbsp;km</source>
@@ -5252,17 +5253,17 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/navigation/FlightRoute_Leg.cpp" line="132"/>
         <source>%1 km</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 km</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute_Leg.cpp" line="135"/>
         <source>%1 nm</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 NM</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute_Leg.cpp" line="138"/>
         <source>%1 mil</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 mil</translation>
     </message>
 </context>
 <context>
@@ -7064,7 +7065,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="123"/>
         <source>Distance %1 mil</source>
-        <translation type="unfinished"></translation>
+        <translation>Entfernung %1 mil</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="142"/>
@@ -7074,12 +7075,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="145"/>
         <source>%1 below</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 unterhalb</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="147"/>
         <source>%1 above</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 oberhalb</translation>
     </message>
     <message>
         <source>%1 ft below</source>
@@ -8077,7 +8078,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="950"/>
         <source>statute miles</source>
-        <translation>engl. Meilen</translation>
+        <translation>brit. Meilen</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="962"/>
@@ -8408,22 +8409,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="194"/>
         <source>12 to 35 mil</source>
-        <translation type="unfinished"></translation>
+        <translation>12 bis 35 mil</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="197"/>
         <source>10 to 30 nm</source>
-        <translation type="unfinished"></translation>
+        <translation>10 bis 30 NM</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="208"/>
         <source>6 to 12 mil</source>
-        <translation type="unfinished"></translation>
+        <translation>6 bis 12 mil</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="211"/>
         <source>5 to 10 nm</source>
-        <translation type="unfinished"></translation>
+        <translation>5 bis 10 NM</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="800"/>
@@ -10509,32 +10510,32 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="263"/>
         <source>gusts of %1 km/h</source>
-        <translation type="unfinished"></translation>
+        <translation>Böen von %1 km/h</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="266"/>
         <source>gusts of %1 mph</source>
-        <translation type="unfinished"></translation>
+        <translation>Böen von %1 mph</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="269"/>
         <source>gusts of %1 kn</source>
-        <translation type="unfinished"></translation>
+        <translation>Böen von %1 kn</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="275"/>
         <source>wind at %1 km/h</source>
-        <translation type="unfinished"></translation>
+        <translation>Wind von %1 km/h</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="278"/>
         <source>wind at %1 mph</source>
-        <translation type="unfinished"></translation>
+        <translation>Wind von %1 mph</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="281"/>
         <source>wind at %1 kn</source>
-        <translation type="unfinished"></translation>
+        <translation>Wind von %1 kn</translation>
     </message>
     <message>
         <source>gusts of %1</source>
@@ -10666,12 +10667,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/qml/main.qml" line="110"/>
         <location filename="../../../src/qml/main.qml" line="187"/>
         <source>Aircraft</source>
-        <translation type="unfinished">Luftfahrzeug</translation>
+        <translation>Luftfahrzeug</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="124"/>
         <source>Route and Wind</source>
-        <translation type="unfinished"></translation>
+        <translation>Route und Wind</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="155"/>
