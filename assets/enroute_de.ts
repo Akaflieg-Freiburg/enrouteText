@@ -2019,8 +2019,7 @@ eine Spende zukommen lassen. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="506"/>
         <source>New Flight Route Name</source>
-        <translatorcomment>Bezug unklar, bitte prüfen, Ggf. wäre richtig: Name der neuen Route?</translatorcomment>
-        <translation>Neuer Name der Flugroute?</translation>
+        <translation>Neuer Name der Flugroute</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="529"/>
