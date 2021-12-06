@@ -46,7 +46,7 @@
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="187"/>
         <source>Nautical Miles</source>
-        <translation type="unfinished">Nautische Meilen</translation>
+        <translation>Nautische Meilen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="187"/>
