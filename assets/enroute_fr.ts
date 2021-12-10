@@ -1223,10 +1223,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Supprimer</translation>
     </message>
     <message>
-        <source>Open from library …</source>
-        <translation type="vanished">Ouvrir depuis la bibliothèque …</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="203"/>
         <source>Save to library …</source>
         <translation>Sauvegarder dans la bibliothèque …</translation>
@@ -1314,30 +1310,10 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>&lt;h2&gt;Route vide&lt;/h2&gt;&lt;p&gt;Utilisez le bouton &apos;Ajouter un point tournant&apos; ci-dessous.&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>True Airspeed</source>
-        <translation type="vanished">Vitesse vraie</translation>
-    </message>
-    <message>
-        <source>Cruise</source>
-        <translation type="vanished">Croisière</translation>
-    </message>
-    <message>
-        <source>Descent</source>
-        <translation type="vanished">Descente</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="488"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="568"/>
         <source>undefined</source>
         <translation>non défini</translation>
-    </message>
-    <message>
-        <source>Fuel consumption</source>
-        <translation type="vanished">Consommation de carburant</translation>
-    </message>
-    <message>
-        <source>l/h</source>
-        <translation type="vanished">l/h</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="361"/>
@@ -1361,10 +1337,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="344"/>
         <source>Flight route reversed</source>
         <translation>Route réordonnée</translation>
-    </message>
-    <message>
-        <source>ACFT</source>
-        <translation type="vanished">ACFT</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="464"/>
@@ -1419,10 +1391,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="123"/>
         <source>Filter Flight Route Names</source>
         <translation>Filtrer les routes</translation>
-    </message>
-    <message>
-        <source>Open …</source>
-        <translation type="vanished">Ouvrir …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="168"/>
@@ -1562,33 +1530,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="544"/>
         <source>Error exporting data…</source>
         <translation>Erreur lors de l&apos;exportation des données…</translation>
-    </message>
-</context>
-<context>
-    <name>FlightRouteOpenDialog</name>
-    <message>
-        <source>Load Flight Route from Library…</source>
-        <translation type="vanished">Charger une route depuis la bibliothèque…</translation>
-    </message>
-    <message>
-        <source>Choose a flight route from the list below.</source>
-        <translation type="vanished">Choisissez une route depuis la liste ci-dessous.</translation>
-    </message>
-    <message>
-        <source>Filter Flight Route Names</source>
-        <translation type="vanished">Filtrer les routes</translation>
-    </message>
-    <message>
-        <source>An error occurred…</source>
-        <translation type="vanished">Une erreur s&apos;est produite…</translation>
-    </message>
-    <message>
-        <source>Overwrite current flight route?</source>
-        <translation type="vanished">Ecraser la route actuelle ?</translation>
-    </message>
-    <message>
-        <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="vanished">Charger la route &lt;strong&gt;%1&lt;/strong&gt; écrasera la route actuelle. Une fois écrasée, la route actuelle ne pourra plus être restaurée.</translation>
     </message>
 </context>
 <context>
@@ -1999,18 +1940,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now uses the Flarmnet database to identify traffic.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; utilise maintenant la base de données Flarmnet pour identifier le traffic.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;The traffic receiver status is now shown prominently on the front page.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Les statut du récepteur d&apos;informations traffic est maintenant clairement affiché.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;The app now honors the system setting for haptic feedback.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;L&apos;app utilise maintenant les paramètres systèmes pour fournir un feedback haptique.&lt;/p&gt;</translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
         <source>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; The readers of the German aviation magazine &apos;Aerokurier&apos; have named &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; as one of the top three innovations of the year in the category &apos;Avionics&apos;. Thanks to everybody who made this success possible!&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; Les lecteurs de la revue allemande &apos;Aerokurier&apos; ont nomé &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; comme l&apos;une des trois meilleures innovations dans la catégorie &apos;Avionics&apos;. Merci à tous ceux qui ont rendu ce succès possible !&lt;/p&gt;</translation>
@@ -2391,14 +2320,6 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
         <location filename="../../../src/navigation/FlightRoute.cpp" line="433"/>
         <source>Total: %1 mil</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Total: %1&amp;nbsp;km</source>
-        <translation type="vanished">Total : %1&amp;nbsp;km</translation>
-    </message>
-    <message>
-        <source>Total: %1&amp;nbsp;nm</source>
-        <translation type="vanished">Total : %1&amp;nbsp;nm</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="447"/>
@@ -2811,10 +2732,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Secteurs pour planeurs affichés</translation>
     </message>
     <message>
-        <source>Speed in kn, distance in nm</source>
-        <translation type="vanished">Vitesse en kn, distance en nm</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="112"/>
         <source>Night mode</source>
         <translation>Mode nuit</translation>
@@ -2874,14 +2791,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <source>System</source>
         <translation>Système</translation>
     </message>
-    <message>
-        <source>Use metric units</source>
-        <translation type="vanished">Utiliser les unités métriques</translation>
-    </message>
-    <message>
-        <source>Speed in km/h, distance in km</source>
-        <translation type="vanished">Vitesse en km/h, distance en km</translation>
-    </message>
 </context>
 <context>
     <name>TooManyDownloadsDialog</name>
@@ -2894,13 +2803,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/dialogs/TooManyDownloadsDialog.qml" line="37"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
-    </message>
-</context>
-<context>
-    <name>Traffic::FLARMWarning</name>
-    <message>
-        <source>Traffic</source>
-        <translation type="obsolete">Traffic</translation>
     </message>
 </context>
 <context>
@@ -3657,14 +3559,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/traffic/Warning.cpp" line="147"/>
         <source>%1 above</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 ft below</source>
-        <translation type="vanished">%1 ft en-dessous</translation>
-    </message>
-    <message>
-        <source>%1 ft above</source>
-        <translation type="vanished">%1 ft au-dessus</translation>
     </message>
 </context>
 <context>
@@ -4565,17 +4459,9 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>19 à 55 km</translation>
     </message>
     <message>
-        <source>10 to 30 NM</source>
-        <translation type="vanished">10 à 30 nm</translation>
-    </message>
-    <message>
         <location filename="../../../src/weather/Decoder.cpp" line="205"/>
         <source>9 to 19 km</source>
         <translation>9 à 19 km</translation>
-    </message>
-    <message>
-        <source>5 to 10 NM</source>
-        <translation type="vanished">5 à 10 nm</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="225"/>
@@ -6758,14 +6644,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>gusts of %1</source>
-        <translation type="vanished">rafales de %1</translation>
-    </message>
-    <message>
-        <source>wind at %1</source>
-        <translation type="vanished">vent à %1</translation>
-    </message>
-    <message>
         <location filename="../../../src/weather/METAR.cpp" line="296"/>
         <source>%1 %2: %3</source>
         <translation>%1 %2: %3</translation>
@@ -6840,10 +6718,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 </context>
 <context>
     <name>main</name>
-    <message>
-        <source>Route</source>
-        <translation type="vanished">Route</translation>
-    </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="140"/>
         <source>Nearby Waypoints</source>
