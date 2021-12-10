@@ -10342,42 +10342,42 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Esci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="615"/>
+        <location filename="../../../src/qml/main.qml" line="620"/>
         <source>Connected to traffic receiver.</source>
         <translation>Connesso al ricevitore di traffico.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="617"/>
+        <location filename="../../../src/qml/main.qml" line="622"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Persa connessione al ricevitore del traffico.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="650"/>
+        <location filename="../../../src/qml/main.qml" line="655"/>
         <source>Exit…?</source>
         <translation>Uscire…?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="651"/>
+        <location filename="../../../src/qml/main.qml" line="656"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Volete uscire da &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="661"/>
+        <location filename="../../../src/qml/main.qml" line="666"/>
         <source>What&apos;s new …?</source>
         <translation>Cosa c&apos;è di nuovo...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="722"/>
+        <location filename="../../../src/qml/main.qml" line="727"/>
         <source>Network security error</source>
         <translation>Errore di sicurezza di rete</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="734"/>
+        <location filename="../../../src/qml/main.qml" line="739"/>
         <source>Network security settings</source>
         <translation>Impostazioni di sicurezza rete</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="735"/>
+        <location filename="../../../src/qml/main.qml" line="740"/>
         <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Hai scelto di ignorare gli errori di sicurezza della rete in futuro. **Ciò rappresenta un rischio per la sicurezza.** Vai alla pagina &quot;Impostazioni&quot; se desideri ripristinare il comportamento originale e sicuro di questa app.</translation>
     </message>
