@@ -2303,7 +2303,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="430"/>
         <source>Total: %1 nm</source>
-        <translation>Total: %1 NM</translation>
+        <translation>Total: %1 nm</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="433"/>
@@ -2356,7 +2356,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/navigation/FlightRoute_Leg.cpp" line="135"/>
         <source>%1 nm</source>
-        <translation>%1 NM</translation>
+        <translation>%1 nm</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute_Leg.cpp" line="138"/>
@@ -3531,7 +3531,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="120"/>
         <source>Distance %1 nm</source>
-        <translation>Entfernung %1 NM</translation>
+        <translation>Entfernung %1 nm</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="123"/>
@@ -4670,7 +4670,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="197"/>
         <source>10 to 30 nm</source>
-        <translation>10 bis 30 NM</translation>
+        <translation>10 bis 30 nm</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="208"/>
@@ -4680,7 +4680,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="211"/>
         <source>5 to 10 nm</source>
-        <translation>5 bis 10 NM</translation>
+        <translation>5 bis 10 nm</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="800"/>
