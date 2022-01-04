@@ -106,7 +106,7 @@
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="408"/>
-        <source>Minumum</source>
+        <source>Minimum</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
