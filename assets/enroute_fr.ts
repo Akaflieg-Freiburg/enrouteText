@@ -6702,7 +6702,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="200"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the three-dot menu at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Désolé!&lt;/h3&gt;&lt;p&gt;METAR/TAF non disponible. Vous pouvez les télécharger manuellement en utilisant la fonction &apos;Mettre à jour METAR/TAF&apos; depuis le menu. Le menu est accessible via le symbole &apos;&amp;#8942;&apos; se trouvant dans le coin supérieur droit.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé!&lt;/h3&gt;&lt;p&gt;METAR/TAF non disponible. Vous pouvez les télécharger manuellement en utilisant la fonction &apos;Mettre à jour METAR/TAF&apos; dans le menu à trois points situé dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="360"/>
