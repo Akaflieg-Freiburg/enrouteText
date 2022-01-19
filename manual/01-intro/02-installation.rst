@@ -65,6 +65,8 @@ the arrow symbol '←' or use the Android 'Back' button to leave the map page an
 return to the main screen.
 
 
+.. _setUpSetAircraft:
+
 Set aircraft specifics
 ----------------------
 
