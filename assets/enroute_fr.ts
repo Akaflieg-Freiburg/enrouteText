@@ -1936,13 +1936,16 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
-        <source>&lt;p&gt;As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports more units of measurement. Go to the new &apos;Aircraft&apos; entry in the main menu to choose your preferred units.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;A la demande de nos utilisateurs, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; supporte maintenant plus d&apos;unités. Allez dans la page &apos;Avion&apos; depuis le menu principal pour choisir vos unités préférées.&lt;/p&gt;</translation>
+        <source>&lt;p&gt;The openAIP aviation database has seen a major update, and much of our infrastructure had to be rebuilt. &lt;strong&gt;Please contact us if you spot any inconsistencies and errors!&lt;/strong&gt;&lt;p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="279"/>
+        <source>&lt;p&gt;As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports more units of measurement. Go to the new &apos;Aircraft&apos; entry in the main menu to choose your preferred units.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;p&gt;A la demande de nos utilisateurs, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; supporte maintenant plus d&apos;unités. Allez dans la page &apos;Avion&apos; depuis le menu principal pour choisir vos unités préférées.&lt;/p&gt;</translation>
+    </message>
+    <message>
         <source>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; The readers of the German aviation magazine &apos;Aerokurier&apos; have named &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; as one of the top three innovations of the year in the category &apos;Avionics&apos;. Thanks to everybody who made this success possible!&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; Les lecteurs de la revue allemande &apos;Aerokurier&apos; ont nomé &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; comme l&apos;une des trois meilleures innovations dans la catégorie &apos;Avionics&apos;. Merci à tous ceux qui ont rendu ce succès possible !&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; Les lecteurs de la revue allemande &apos;Aerokurier&apos; ont nomé &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; comme l&apos;une des trois meilleures innovations dans la catégorie &apos;Avionics&apos;. Merci à tous ceux qui ont rendu ce succès possible !&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="110"/>
@@ -2233,37 +2236,34 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
         <translation>maintenant</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="67"/>
         <source>%1h</source>
-        <translation>%1h</translation>
+        <translation type="vanished">%1h</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="69"/>
         <source>%1min</source>
-        <translation>%1min</translation>
+        <translation type="vanished">%1min</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="71"/>
         <source>%1h and %2min</source>
-        <translation>%1h et %2min</translation>
+        <translation type="vanished">%1h et %2min</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="75"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="73"/>
         <source>%1 ago</source>
         <translation>il y a %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="77"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="75"/>
         <source>in %1</source>
         <translation>dans %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="95"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="93"/>
         <source>yesterday %1</source>
         <translation>hier %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="99"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="97"/>
         <source>tomorrow %1</source>
         <translation>demain %1</translation>
     </message>
