@@ -1875,7 +1875,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;The openAIP aviation database has seen a major update, and much of our infrastructure had to be rebuilt. &lt;strong&gt;Please contact us if you spot any inconsistencies and errors!&lt;/strong&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Die openAIP-Luftfahrtdatenbank hat ein größeres Update erfahren, und ein Großteil unserer Infrastruktur musste daher erneuert werden. &lt;strong&gt;Bitte kontaktieren Sie uns, wenn Sie Unstimmigkeiten oder Fehler finden sollten!&lt;/strong&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports more units of measurement. Go to the new &apos;Aircraft&apos; entry in the main menu to choose your preferred units.&lt;/p&gt;</source>
