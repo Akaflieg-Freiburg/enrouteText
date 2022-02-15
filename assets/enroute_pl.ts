@@ -738,27 +738,27 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
 <context>
     <name>DataManagement::DataManager</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="143"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="140"/>
         <source>No information available.</source>
         <translation>Brak dostępnych informacji.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="146"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="143"/>
         <source>Installed</source>
         <translation>Zainstalowana</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="148"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="145"/>
         <source>File Size</source>
         <translation>Rozmiar pliku</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="162"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="159"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>Dane mapy zostały skompilowane z następujących źródeł.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="192"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="189"/>
         <source>Internal Map Data</source>
         <translation>Wewnętrzne dane map</translation>
     </message>
@@ -987,14 +987,6 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="76"/>
         <source>On recent devices, this problem is a strong indication that your internet connection is being manipulated.</source>
         <translation>Na aktualnych urządzeniach, ten problem jest mocnym wskaźnikiem, że twoje połączenie internetowe jest wrogo modyfikowane.</translation>
-    </message>
-</context>
-<context>
-    <name>DataManagement::UpdateNotifier</name>
-    <message>
-        <location filename="../../../src/dataManagement/UpdateNotifier.cpp" line="54"/>
-        <source>The estimated download size is %1.</source>
-        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2542,24 +2534,19 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Platform::Notifier</name>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="35"/>
+        <location filename="../../../src/platform/Notifier.cpp" line="28"/>
         <source>Downloading map data…</source>
         <translation>Pobieranie danych map...</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="37"/>
+        <location filename="../../../src/platform/Notifier.cpp" line="30"/>
         <source>Traffic data receiver problem</source>
         <translation>Problem z odbiornikiem danych ruchu lotniczego</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="39"/>
+        <location filename="../../../src/platform/Notifier.cpp" line="32"/>
         <source>Traffic data receiver self test error</source>
         <translation>Błąd self-testu odbiornika ruchu lotniczego</translation>
-    </message>
-    <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="41"/>
-        <source>Map updates available</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Application</source>
@@ -2569,14 +2556,8 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Platform::Notifier_Linux</name>
     <message>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="130"/>
         <source>Update</source>
-        <translation type="unfinished">Aktualizacja</translation>
-    </message>
-    <message>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="131"/>
-        <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Aktualizacja</translation>
     </message>
 </context>
 <context>
@@ -6911,22 +6892,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Co nowego ...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="739"/>
-        <source>Starting map update</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/main.qml" line="761"/>
+        <location filename="../../../src/qml/main.qml" line="751"/>
         <source>Network security error</source>
         <translation>Błąd bezpieczeństwa sieci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="773"/>
+        <location filename="../../../src/qml/main.qml" line="763"/>
         <source>Network security settings</source>
         <translation>Ustawienia bezpieczeństwa sieci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="774"/>
+        <location filename="../../../src/qml/main.qml" line="764"/>
         <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Wybrałeś, aby ignorować w przyszłości błędy bezpieczeństwa sieci. **To zwiększa ryzyko przewania zabezpieczeń.** Przejdź do strony &apos;Ustawienia&apos; jeśli chcesz przywrócić oryginalne, bezpieczne zachowanie tej aplikacji.</translation>
     </message>
