@@ -732,27 +732,27 @@ anderes dazu sagen können.&lt;/p&gt;
 <context>
     <name>DataManagement::DataManager</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="140"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="143"/>
         <source>No information available.</source>
         <translation>Keine Information verfügbar.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="143"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="146"/>
         <source>Installed</source>
         <translation>Installiert</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="145"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="148"/>
         <source>File Size</source>
         <translation>Dateigröße</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="159"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="162"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>Die Kartendaten stammen aus folgenden Quellen:</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="189"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="192"/>
         <source>Internal Map Data</source>
         <translation>Interne Kartendaten</translation>
     </message>
@@ -983,6 +983,14 @@ anderes dazu sagen können.&lt;/p&gt;
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="76"/>
         <source>On recent devices, this problem is a strong indication that your internet connection is being manipulated.</source>
         <translation>Auf jüngeren Geräten weist das Problem stark auf eine Manipulation Ihrer Internetverbindung hin.</translation>
+    </message>
+</context>
+<context>
+    <name>DataManagement::UpdateNotifier</name>
+    <message>
+        <location filename="../../../src/dataManagement/UpdateNotifier.cpp" line="67"/>
+        <source>The estimated download size is %1.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2521,19 +2529,24 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Platform::Notifier</name>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="28"/>
+        <location filename="../../../src/platform/Notifier.cpp" line="52"/>
         <source>Downloading map data…</source>
         <translation>Kartendaten werden heruntergeladen …</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="30"/>
+        <location filename="../../../src/platform/Notifier.cpp" line="54"/>
         <source>Traffic data receiver problem</source>
         <translation>Problem mit dem Verkehrsdatenempfänger</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="32"/>
+        <location filename="../../../src/platform/Notifier.cpp" line="56"/>
         <source>Traffic data receiver self test error</source>
         <translation>Fehler beim Selbsttest des Verkehrsdatenempfängers</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier.cpp" line="58"/>
+        <source>Map updates available</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open Application</source>
@@ -2541,10 +2554,24 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
 </context>
 <context>
+    <name>Platform::Notifier_Android</name>
+    <message>
+        <location filename="../../../src/platform/Notifier_Android.cpp" line="81"/>
+        <source>Update</source>
+        <translation type="unfinished">Update</translation>
+    </message>
+</context>
+<context>
     <name>Platform::Notifier_Linux</name>
     <message>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="130"/>
         <source>Update</source>
-        <translation type="obsolete">Update</translation>
+        <translation type="unfinished">Update</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="131"/>
+        <source>Dismiss</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3614,24 +3641,20 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>UpdateMapDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="27"/>
         <source>Updates available</source>
-        <translation>Aktualisierungen verfügbar</translation>
+        <translation type="vanished">Aktualisierungen verfügbar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="28"/>
         <source>&lt;p&gt;One or several of your installed maps or databases can be updated. The estimated download size is %1.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Mindestens eine installierte Karte oder Datenbank kann aktualisiert werden. Geschätzte Datenmenge zum Download: %1.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Mindestens eine installierte Karte oder Datenbank kann aktualisiert werden. Geschätzte Datenmenge zum Download: %1.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="32"/>
         <source>Update now</source>
-        <translation>Jetzt aktualisieren</translation>
+        <translation type="vanished">Jetzt aktualisieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/UpdateMapDialog.qml" line="36"/>
         <source>Later</source>
-        <translation>Später</translation>
+        <translation type="vanished">Später</translation>
     </message>
 </context>
 <context>
@@ -6859,60 +6882,65 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="635"/>
+        <location filename="../../../src/qml/main.qml" line="629"/>
         <source>Connected to traffic receiver.</source>
         <translation>Mit dem Verkehrsdatenempfänger verbunden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="637"/>
+        <location filename="../../../src/qml/main.qml" line="631"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Verbindung zum Verkehrsdatenempfänger verloren.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="670"/>
+        <location filename="../../../src/qml/main.qml" line="664"/>
         <source>Exit…?</source>
         <translation>Beenden…?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="671"/>
+        <location filename="../../../src/qml/main.qml" line="665"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; tatsächlich beenden?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="681"/>
-        <location filename="../../../src/qml/main.qml" line="690"/>
+        <location filename="../../../src/qml/main.qml" line="675"/>
+        <location filename="../../../src/qml/main.qml" line="684"/>
         <source>What&apos;s new …?</source>
         <translation>Was ist neu …?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="751"/>
+        <location filename="../../../src/qml/main.qml" line="733"/>
+        <source>Starting map update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="755"/>
         <source>Network security error</source>
         <translation>Netzwerksicherheits-Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="763"/>
+        <location filename="../../../src/qml/main.qml" line="767"/>
         <source>Network security settings</source>
         <translation>Einstellungen zur Netzwerksicherheit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="764"/>
+        <location filename="../../../src/qml/main.qml" line="768"/>
         <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Sie haben entschieden, Netzwerksicherheits-Fehler zukünftig zu ignorieren. **Dies stellt ein Sicherheitsrisiko dar.** In den Einstellungen können Sie auf Wunsch das ursprüngliche, sichere Verhalten der App wiederherstellen.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="149"/>
+        <location filename="../../../src/main.cpp" line="150"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation ist eine kostenlose Navigations-App für VFR-Piloten,
 entwickelt als Projekt der Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="152"/>
+        <location filename="../../../src/main.cpp" line="153"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation>Simulator starten und Screenshots für das Handbuch erzeugen</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="154"/>
+        <location filename="../../../src/main.cpp" line="155"/>
         <source>File to import.</source>
         <translation>Datei zum Importieren.</translation>
     </message>
