@@ -990,7 +990,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/UpdateNotifier.cpp" line="67"/>
         <source>The estimated download size is %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die geschätzte Downloadgröße ist %1.</translation>
     </message>
 </context>
 <context>
@@ -2546,7 +2546,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="58"/>
         <source>Map updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Es gibt Kartenupdates</translation>
     </message>
     <message>
         <source>Open Application</source>
@@ -2558,7 +2558,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier_Android.cpp" line="81"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
 </context>
 <context>
@@ -2566,12 +2566,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="130"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="131"/>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Ablehnen</translation>
     </message>
 </context>
 <context>
@@ -6910,7 +6910,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="733"/>
         <source>Starting map update</source>
-        <translation type="unfinished"></translation>
+        <translation>Beginne Kartenupdate</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="755"/>
