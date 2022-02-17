@@ -975,7 +975,7 @@ données de manière publique et gratuite.&lt;/p&gt;
 <context>
     <name>DataManagement::UpdateNotifier</name>
     <message>
-        <location filename="../../../src/dataManagement/UpdateNotifier.cpp" line="67"/>
+        <location filename="../../../src/dataManagement/UpdateNotifier.cpp" line="70"/>
         <source>The estimated download size is %1.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2572,12 +2572,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Platform::Notifier_Linux</name>
     <message>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="130"/>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="196"/>
         <source>Update</source>
         <translation type="unfinished">Mettre à jour</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="131"/>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="197"/>
         <source>Dismiss</source>
         <translation type="unfinished"></translation>
     </message>
