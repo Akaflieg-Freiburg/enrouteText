@@ -994,7 +994,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/UpdateNotifier.cpp" line="70"/>
         <source>The estimated download size is %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Szacowany rozmiar pobierania to %1.</translation>
     </message>
 </context>
 <context>
@@ -2559,7 +2559,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="58"/>
         <source>Map updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępne aktualizacje mapy</translation>
     </message>
     <message>
         <source>Open Application</source>
@@ -2571,7 +2571,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier_Android.cpp" line="81"/>
         <source>Update</source>
-        <translation type="unfinished">Aktualizacja</translation>
+        <translation>Aktualizacja</translation>
     </message>
 </context>
 <context>
@@ -2579,12 +2579,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="196"/>
         <source>Update</source>
-        <translation type="unfinished">Aktualizacja</translation>
+        <translation>Aktualizacja</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="197"/>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Odrzuć</translation>
     </message>
 </context>
 <context>
@@ -6917,7 +6917,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="733"/>
         <source>Starting map update</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozpoczęcie aktualizacji mapy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="755"/>
