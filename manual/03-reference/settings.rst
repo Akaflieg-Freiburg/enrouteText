@@ -18,35 +18,32 @@ Airspace Altitude Limit
 ^^^^^^^^^^^^^^^^^^^^^^^
 
 If you never fly higher than 5.000ft, you will probably not be interested in
-airspaces that begin above FL100.  To improve readability of the moving map,
-**Enroute Flight Navigation** allows you to set an altitude limit. Once set,
-only airspaces below that limit will be shown. Tap on the entry "Airspace 
-Altitude Limit" to set or unset the altitude limit.
+airspaces that begin above FL100. **Enroute Flight Navigation** allows you to
+set an altitude limit to improve the readability of the moving map. Once set,
+the app will show only airspaces below that limit. Tap on the entry “Airspace
+Altitude Limit” to set or unset the altitude limit. 
 
-Once an altitude limit has been set, the moving map will display a little
-warning ("Airspaces up to 9,500 ft") to remind you that not all airspaces are
-shown. To ensure that relevant airspaces are always visible, the app will
-automatically increase the limit when your aircraft approaches the altitude
-limit from below.
+Once you set an altitude limit, the moving map will display a little warning
+(“Airspaces up to 9,500 ft”) to remind you that the moving map does not show all
+airspaces. The app will automatically increase the limit when your aircraft
+approaches the altitude limit from below.
 
-.. warning:: Airspace boundaries are often specified in terms of flight levels. 
-    The true altitude of a flight level depends on meteorological conditions 
-    (such as the temperature gradient) and is not known to **Enroute Flight 
-    Navigation**.  When deciding which airspace to show, the app will 
-    therefore use an approximation.  In extreme weather, the approximation 
-    might be off by 1,000ft or more. Always make sure to leave an ample 
-    safety margin when setting an airspace altitude limit.
-
+.. warning:: Airspace boundaries are often flight levels. The true altitude of a
+    flight level depends on meteorological conditions (such as the temperature 
+    gradient) and is not known to **Enroute Flight Navigation**. When deciding 
+    which airspace to show, the app will use an approximation. The approximation 
+    might be off by 1,000ft or more in extreme weather. **Always leave an ample 
+    safety margin when setting an airspace altitude limit.**
+    
 
 Hide Gliding Sectors
 ^^^^^^^^^^^^^^^^^^^^
 
-In regions with high glider traffic, there are often local regulations that
-allow gliders to fly in airspaces that are otherwise difficult to access, such
-as control zones.  The moving map displays these "Gliding Sectors" in bright
-yellow.  If you are not flying a glider, the gliding sectors are probably not
-relevant to you.  Hiding the gliding sectors might improve the readability of
-the moving map.
+In regions with high glider traffic, local regulations often allow gliders to
+fly in airspaces that are otherwise difficult to access, such as control zones.
+The moving map displays these “Gliding Sectors” in bright yellow. If you are not
+flying a glider, the gliding sectors are probably not relevant. Hiding the
+gliding sectors might improve the readability of the moving map.
 
 
 System
@@ -55,17 +52,13 @@ System
 Night Mode
 ^^^^^^^^^^
 
-The "Night Mode" of **Enroute Flight Navigation** is similar to the "Dark Mode"
-found in many other apps.  The night mode is meant to help with VFR flights by
-night, and is meant to be used by pilots whose eyes have adapted to the
-darkness.  Compared with other apps, you will find that the display is quite
-dark indeed.
+The “Night Mode” of Enroute Flight Navigation is similar to the “Dark Mode”
+found in many other apps. We designed the night mode for pilots performing VFR
+flights by night, whose eyes have adapted to the darkness. Compared with other
+apps, you will find that the display is quite dark indeed.
 
 
 Help
 ----
 
-The items grouped under "Help" link to specific sections of this manual. We
-include these items for the benefit of users who are searching to "Settings"
-menu in hope for help with the setup of the app.
-
+The items grouped under “Help” refer the user to this manual.
