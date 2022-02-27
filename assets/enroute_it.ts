@@ -2343,7 +2343,7 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="430"/>
         <source>Total: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Totale: %1</translation>
     </message>
     <message>
         <source>Total: %1 km</source>
