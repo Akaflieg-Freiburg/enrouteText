@@ -2572,7 +2572,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="52"/>
         <source>Downloading map and data…</source>
-        <translation>Download di mappa e dati...</translation>
+        <translation>Download mappa e dati...</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="54"/>
