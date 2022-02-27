@@ -2134,7 +2134,7 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="505"/>
         <source>Airspaces up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Spazio aereo fino a %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="537"/>
@@ -2573,7 +2573,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="52"/>
         <source>Downloading map and data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Download di mappa e dati...</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="54"/>
@@ -2588,7 +2588,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="58"/>
         <source>Map and data updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamenti disponibili di mappa e dati</translation>
     </message>
     <message>
         <source>Map updates available</source>
@@ -2847,12 +2847,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="258"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra spazi aerei fino a %1ft / %2 m.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="265"/>
         <source>Cannot set reasonable airspaces altitude limit because the present own altitude is too high.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non posso impostare una limite ragionevole dello spazio aereo perchè la quota attuale è troppo alta.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="175"/>
@@ -2862,18 +2862,18 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
         <source>No limit, all airspaces shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun limite, tutti gli spazi aerei sono mostrati</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
         <source>Showing airspaces up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Spazi aerei mostrati fino a %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="69"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="249"/>
         <source>Airspace Altitude Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite Quota Spazio Aereo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="122"/>
@@ -6979,12 +6979,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="722"/>
         <source>Now showing airspaces up to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spazi aerei mostrati fino a %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="724"/>
         <source>Now showing all airspaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non tutti gli spazi aerei sono mostrati.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="748"/>
