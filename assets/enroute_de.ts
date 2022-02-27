@@ -2311,7 +2311,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="430"/>
         <source>Total: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Insgesamt: %1</translation>
     </message>
     <message>
         <source>Total: %1 km</source>
