@@ -89,6 +89,9 @@ Symbol                                Function
 ===================================== ========
 
 
+
+.. _firstFlightWaypointInfo:
+
 Information about airspaces, airfields and other facilities
 -----------------------------------------------------------
 

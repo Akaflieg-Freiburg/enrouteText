@@ -50,6 +50,7 @@ and frequencies.
    :name: sec-steps
 
    02-steps/traffic
+   02-steps/plan
    02-steps/nearby
    02-steps/weather
    02-steps/simulator
@@ -63,6 +64,7 @@ and frequencies.
    :caption: Reference manual
    :name: sec-reference
     
+   03-reference/settings
    03-reference/mapData
    03-reference/platform
    03-reference/Airspace

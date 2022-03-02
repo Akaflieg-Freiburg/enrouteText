@@ -1,7 +1,7 @@
 .. _traffic:
 
-See and avoid traffic
-=====================
+Sense and avoid
+===============
 
 Midair collisions are a major reason for loss of lives in general aviation.
 Collisions often happen near airfields or in the traffic circuit. In order to
