@@ -58,6 +58,22 @@ flights by night, whose eyes have adapted to the darkness. Compared with other
 apps, you will find that the display is quite dark indeed.
 
 
+Ignore network security errors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+This entry is visible if you have asked the app to download data via insecure
+internet connections after a secure connection attempt failed. Uncheck this item
+to revert to the standard policy, which enforces secure connections.
+
+
+Clear password storage
+^^^^^^^^^^^^^^^^^^^^^^
+
+This entry is visible if you have connected to a traffic data receiver that
+requires a password in addition to the Wi-Fi password and if you have asked the
+app to remember the password. Tap on this entry to clear the password storage. 
+
+
 Help
 ----
 
