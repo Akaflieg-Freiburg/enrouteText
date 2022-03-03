@@ -1933,6 +1933,11 @@ z danymi konta bankowego.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
+        <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="281"/>
         <source>&lt;p&gt;The openAIP aviation database has seen a major update, and much of our infrastructure had to be rebuilt. &lt;strong&gt;Please contact us if you spot any inconsistencies and errors!&lt;/strong&gt;&lt;p&gt;</source>
         <translation>&lt;p&gt;Lotnicza baza danych openAIP otrzymała znaczną aktualizację, i dużo naszej infrastruktury musiało być przebudowane. &lt;strong&gt;Prosimy o kontakt, jeśli znajdziesz jakieś nieścisłości lub błędy!&lt;/strong&gt;&lt;p&gt;</translation>
     </message>
@@ -2719,23 +2724,23 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Positioning::PositionProvider</name>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="209"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="232"/>
         <source>Receiving position information.</source>
         <translation>Odbieranie informacji o pozycji.</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="211"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="234"/>
         <source>Receiving pressure altitude.</source>
         <translation>Odbieranie wysokości wzg. ciśnienia.</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="218"/>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="220"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="241"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="243"/>
         <source>Not receiving position information</source>
         <translation>Nie odbieranie informacji o pozycji</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="220"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="243"/>
         <source>Traffic receiver</source>
         <translation>Odbiornik ruchu lotniczego</translation>
     </message>
@@ -2765,87 +2770,127 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Pokazane wszystkie przestrzenie lotnicze</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="90"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="85"/>
         <source>Hide Gliding Sectors</source>
         <translation>Ukryj sektory szybowcowe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="93"/>
         <source>Gliding sectors hidden</source>
-        <translation>Sektory szybowcowe ukryte</translation>
+        <translation type="vanished">Sektory szybowcowe ukryte</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="97"/>
         <source>Gliding sectors shown</source>
-        <translation>Sektory szybowcowe pokazywane</translation>
+        <translation type="vanished">Sektory szybowcowe pokazywane</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="122"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="110"/>
+        <source>Traffic data receiver</source>
+        <translation type="unfinished">Odbiornik danych ruchu lotniczego</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="112"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="367"/>
+        <source>Built-in satnav receiver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="114"/>
+        <source>Primary position data source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
         <source>Night mode</source>
         <translation>Tryb nocny</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="136"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
         <source>Ignore network security errors</source>
         <translation>Ignoruj błędy bezpieczeństwa sieci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="159"/>
         <source>Clear password storage</source>
         <translation>Wyczyść magazyn haseł</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="159"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="166"/>
         <source>Help</source>
         <translation>Pomoc</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="168"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="175"/>
         <source>How to connect your traffic receiver…</source>
         <translation>Jak podłączyć twój odbiornik ruchu lotniczego...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="203"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="210"/>
         <source>Clear password storage?</source>
         <translation>Wyczyścić magazyn haseł?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="208"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="215"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
         <translation>W momencie wyczyszczenia magazynu, hasła nie mogą być odczytane.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="214"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="221"/>
         <source>Clear</source>
         <translation>Wyczyść</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="218"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="225"/>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="227"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="234"/>
         <source>Password storage cleared</source>
         <translation>Magazyn haseł wyczyszczony</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="258"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="264"/>
+        <source>Set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="272"/>
+        <source>Set altitude limit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="298"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="265"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="309"/>
         <source>Cannot set reasonable airspaces altitude limit because the present own altitude is too high.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="175"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="352"/>
+        <source>Position data source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="360"/>
+        <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="375"/>
+        <source>Traffic data reveiver (when available)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="182"/>
         <source>How to connect your flight simulator…</source>
         <translation>Jak podłączyć twój symulator lotu...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="300"/>
         <source>No limit, all airspaces shown</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2856,12 +2901,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="69"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="249"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="256"/>
         <source>Airspace Altitude Limit</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="114"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="99"/>
         <source>System</source>
         <translation>System</translation>
     </message>
