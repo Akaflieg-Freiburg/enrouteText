@@ -1883,7 +1883,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Man kann jetzt die primäre Datenquelle festlegen. &lt;strong&gt;Bei Nutzung der App mit einem Flugsimulator müssen Sie &apos;Verkehrsdatenempfänger&apos; als Primärquelle wählen&lt;/strong&gt;, und zwar im Hauptmenü in den &apos;Einstellungen&apos;.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="281"/>
@@ -2782,18 +2782,18 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="110"/>
         <source>Traffic data receiver</source>
-        <translation type="unfinished">Verkehrsdatenempfänger</translation>
+        <translation>Verkehrsdatenempfänger</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="112"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="367"/>
         <source>Built-in satnav receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Eingebauter GPS-Empfänger</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="114"/>
         <source>Primary position data source</source>
-        <translation type="unfinished"></translation>
+        <translation>Primäre Positionsdatenquelle</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
@@ -2848,12 +2848,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="264"/>
         <source>Set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Legen Sie zur besseren Lesbarkeit der Moving Map ein Höhenlimit fest. Danach zeigt die Karte nur noch Lufträume unterhalb dieser Grenze an.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="272"/>
         <source>Set altitude limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Höhenlimit festlegen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="298"/>
@@ -2868,17 +2868,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="352"/>
         <source>Position data source</source>
-        <translation type="unfinished"></translation>
+        <translation>Positionsdatenquelle</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="360"/>
         <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die meisten Anwender werden den eingebauten GPS-Empfänger wählen. Wählen Sie den Verkehrsdatenempfänger bei Empfangsproblemen Ihres GPS-Empfängers und bei Nutzung der App mit einem Flugsimulator.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="375"/>
         <source>Traffic data reveiver (when available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkehrsdatenempfänger (wenn verfügbar)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="182"/>
