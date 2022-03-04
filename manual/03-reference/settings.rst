@@ -49,7 +49,31 @@ gliding sectors might improve the readability of the moving map.
 System
 ------
 
-Night Mode
+Primary position data source
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Enroute Flight Navigation** can either use the built-in satnav receiver of
+your device or a connected traffic receiver as a primary position data source.
+This setting is essential if your device has reception problems or if you use
+**Enroute Flight Navigation** together with a flight simulator.
+
+- You will most likely prefer the built-in satnav receiver for actual flight.
+  The built-in receiver provides one position update per second on a typical
+  Android system, while traffic receivers do not always provide timely position
+  updates.
+
+- If you use **Enroute Flight Navigation** together with a flight simulator, you
+  **must** choose the traffic receiver as a primary position data source. As long
+  as the built-in satnav receiver is selected, all position information provided 
+  by your flight simulator is ignored.
+
+.. note:: Setting a traffic receiver as a primary position data source is safe 
+    even when the app is not connected to a traffic receiver. When no traffic 
+    receiver is connected, **Enroute Flight Navigation** will automatically fall 
+    back using the built-in satnav receiver of your device.
+
+
+Night mode
 ^^^^^^^^^^
 
 The “Night Mode” of Enroute Flight Navigation is similar to the “Dark Mode”
