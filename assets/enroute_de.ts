@@ -1333,7 +1333,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="466"/>
         <source>Direction from</source>
-        <translation type="unfinished"></translation>
+        <translation>Aus Richtung</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="490"/>
@@ -2747,27 +2747,27 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="167"/>
         <source>Unable to open the file &apos;%1&apos; for reading.</source>
-        <translation type="unfinished">Kann Datei &apos;%1&apos; nicht zum Lesen öffnen.</translation>
+        <translation>Kann Datei &apos;%1&apos; nicht zum Lesen öffnen.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="183"/>
         <source>JSON document contains no data.</source>
-        <translation type="unfinished">JSON-Dokument enthält keine Daten.</translation>
+        <translation>JSON-Dokument enthält keine Daten.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="187"/>
         <source>JSON document does not describe an aircraft.</source>
-        <translation type="unfinished">JSON-Dokument beschreibt kein Luftfahrzeug.</translation>
+        <translation>JSON-Dokument beschreibt kein Luftfahrzeug.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="225"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished">Datei &apos;%1&apos; kann nicht zum Schreiben geöffnet werden.</translation>
+        <translation>Datei &apos;%1&apos; kann nicht zum Schreiben geöffnet werden.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="231"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished">Kann nicht in Datei &apos;%1&apos; schreiben.</translation>
+        <translation>Kann nicht in Datei &apos;%1&apos; schreiben.</translation>
     </message>
 </context>
 <context>
