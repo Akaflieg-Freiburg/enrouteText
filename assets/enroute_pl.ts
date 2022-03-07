@@ -2772,12 +2772,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="unfinished">Dokument JSON nie opisuje samolotu.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="212"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="225"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation type="unfinished">Nie można otworzyć pliku &apos;%1&apos; do zapisu.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="218"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="231"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>

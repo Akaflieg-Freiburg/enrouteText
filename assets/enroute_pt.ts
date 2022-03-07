@@ -2322,12 +2322,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="212"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="225"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="218"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="231"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>

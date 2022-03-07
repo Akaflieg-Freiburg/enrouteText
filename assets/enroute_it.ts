@@ -2791,12 +2791,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="unfinished">il documento JSON non descrive un aereo.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="212"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="225"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation type="unfinished">Impossibile aprire il file &apos;%1&apos; in scrittura.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="218"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="231"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation type="unfinished">Impossibile scrivere nel file &apos;%1&apos;.</translation>
     </message>

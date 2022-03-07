@@ -2763,12 +2763,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation type="unfinished">Le document JSON ne décrit pas un avion.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="212"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="225"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation type="unfinished">Ouverture du fichier &apos;%1&apos; pour écriture impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="218"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="231"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation type="unfinished">Ecriture du fichier &apos;%1&apos; impossible.</translation>
     </message>

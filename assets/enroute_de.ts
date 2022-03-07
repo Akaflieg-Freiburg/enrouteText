@@ -2760,12 +2760,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="unfinished">JSON-Dokument beschreibt kein Luftfahrzeug.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="212"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="225"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation type="unfinished">Datei &apos;%1&apos; kann nicht zum Schreiben geöffnet werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="218"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="231"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation type="unfinished">Kann nicht in Datei &apos;%1&apos; schreiben.</translation>
     </message>
