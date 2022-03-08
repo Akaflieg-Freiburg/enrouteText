@@ -150,7 +150,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="162"/>
         <source>Loading aircraft &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wczytywanie samolotu &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="186"/>
@@ -1345,7 +1345,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="466"/>
         <source>Direction from</source>
-        <translation type="unfinished"></translation>
+        <translation>Kierunek z</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="490"/>
@@ -1511,7 +1511,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="333"/>
         <source>Loading flight route &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Wczytywanie planu lotu &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="357"/>
@@ -1948,7 +1948,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Użytkownikcy mogą wybrać główne źródło danych o pozycji. &lt;strong&gt;Jeśli używasz tej aplikacji wspólnie z symulatorem lotu, musisz wybrać &apos;odbiornik ruchu lotniczego&apos; jako podstawowe źródło pozycji.&lt;/strong&gt; Otwórz stronę &apos;Ustawienia&apos; w głównym menu aby dokonać wyboru.&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="281"/>
@@ -2131,7 +2131,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="505"/>
         <source>Airspaces up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Przestrzenie powietrzne do %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="537"/>
@@ -2335,7 +2335,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="138"/>
         <source>Total: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Suma: %1</translation>
     </message>
     <message>
         <source>Total: %1 km</source>
@@ -2567,7 +2567,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="52"/>
         <source>Downloading map and data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie map i danych...</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="54"/>
@@ -2582,7 +2582,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="58"/>
         <source>Map and data updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępne aktualizacje map i danych</translation>
     </message>
     <message>
         <source>Map updates available</source>
@@ -2759,27 +2759,27 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="167"/>
         <source>Unable to open the file &apos;%1&apos; for reading.</source>
-        <translation type="unfinished">Nie można odczytać pliku &apos;%1&apos; w trybie odczytu.</translation>
+        <translation>Nie można odczytać pliku &apos;%1&apos; w trybie odczytu.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="183"/>
         <source>JSON document contains no data.</source>
-        <translation type="unfinished">Dokument JSON nie zawiera danych.</translation>
+        <translation>Dokument JSON nie zawiera danych.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="187"/>
         <source>JSON document does not describe an aircraft.</source>
-        <translation type="unfinished">Dokument JSON nie opisuje samolotu.</translation>
+        <translation>Dokument JSON nie opisuje samolotu.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="225"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished">Nie można otworzyć pliku &apos;%1&apos; do zapisu.</translation>
+        <translation>Nie można otworzyć pliku &apos;%1&apos; do zapisu.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="231"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zapisać do pliku &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
@@ -2822,18 +2822,18 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="110"/>
         <source>Traffic data receiver</source>
-        <translation type="unfinished">Odbiornik danych ruchu lotniczego</translation>
+        <translation>Odbiornik danych ruchu lotniczego</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="112"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="367"/>
         <source>Built-in satnav receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Wbudowany odbiornik satnav</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="114"/>
         <source>Primary position data source</source>
-        <translation type="unfinished"></translation>
+        <translation>Podstawowe źródło pozycji</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
@@ -2888,37 +2888,37 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="264"/>
         <source>Set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw wysokość aby poprawić czytelność ruchomej mapy. Po ustawieniu, aplikacja będzie pokazywała tylko przestrzenie powietrzne poniżej tego limitu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="272"/>
         <source>Set altitude limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ustaw limit wysokości</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="298"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż przestrzenie powietrzne do %1 ft / %2 m.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="309"/>
         <source>Cannot set reasonable airspaces altitude limit because the present own altitude is too high.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można ustawić sensownej wysokości przestrzeni powietrznych ponieważ aktualna własna wysokość jest za duża.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="352"/>
         <source>Position data source</source>
-        <translation type="unfinished"></translation>
+        <translation>Źródło danych pozycji</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="360"/>
         <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Większość użytkowników wybierze wbudowany odbiornik satnav. Wybierz odbiornik danych ruchu lotniczego gdy twój odbiornik satnav w urządzeniu ma problemy z odbiorem, lub jeśli używasz tej aplikacji razem z symulatorem lotu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="375"/>
         <source>Traffic data reveiver (when available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbiornik ruchu lotniczego (gdy dostępne)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="182"/>
@@ -2929,18 +2929,18 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="300"/>
         <source>No limit, all airspaces shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak limitu, pokazywane wszystkie przestrzenie powietrzne</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
         <source>Showing airspaces up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokazywanie przestrzeni powietrznych do %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="69"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="256"/>
         <source>Airspace Altitude Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Limit wysokości przestrzeni powietrznych</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="99"/>
@@ -7035,12 +7035,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="722"/>
         <source>Now showing airspaces up to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obecnie pokazywanie przestrzeni do %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="724"/>
         <source>Now showing all airspaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Obecnie pokazywanie wszystkich przestrzeni.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="748"/>
