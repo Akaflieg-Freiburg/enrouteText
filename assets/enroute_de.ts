@@ -1897,12 +1897,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;If you are following a route, the app will now show the remaining distances to the next and the final waypoint, as well as ETE and ETA.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Wenn Sie einer Route folgen, sehen Sie jetzt die verbleibende Distanz zum nächsten und zum letzten Wegpunkt,außerdem ETE und ETA.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="280"/>
         <source>&lt;p&gt;&lt;strong&gt;Please test this new feature and report any issues!&lt;/strong&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Bitte testen Sie diese neue Funktion und melden Sie etwaige Probleme!&lt;/strong&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="281"/>
