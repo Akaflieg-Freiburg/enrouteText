@@ -1958,11 +1958,21 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
-        <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;p&gt;</source>
+        <source>&lt;p&gt;If you are following a route, the app will now show the remaining distances to the next and the final waypoint, as well as ETE and ETA.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="280"/>
+        <source>&lt;p&gt;&lt;strong&gt;Please test this new feature and report any issues!&lt;/strong&gt;&lt;p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="281"/>
+        <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="284"/>
         <source>&lt;p&gt;The openAIP aviation database has seen a major update, and much of our infrastructure had to be rebuilt. &lt;strong&gt;Please contact us if you spot any inconsistencies and errors!&lt;/strong&gt;&lt;p&gt;</source>
         <translation>&lt;p&gt;Une mise à jour majeure a été appliquée à la base de données aéronautiques openAIP, et une grande partie de nos infrastructures a du être revue en conséquence. &lt;strong&gt;Merci de nous contacter si vous trouvez des erreurs !&lt;/strong&gt;&lt;p&gt;</translation>
     </message>
@@ -2121,7 +2131,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="486"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="496"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the menu button in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
@@ -2130,32 +2140,32 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
 Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ouvrir le menu de gestion des cartes.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="505"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="525"/>
         <source>Airspaces up to %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="537"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="575"/>
         <source>Map Mode: Track Up</source>
         <translation>Mode : Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="540"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="578"/>
         <source>Map Mode: North Up</source>
         <translation>Mode : Nord</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="563"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="601"/>
         <source>Map Mode: Autopan</source>
         <translation>Mode : Auto</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="688"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="726"/>
         <source>Map Data Copyright Info</source>
         <translation>Info copyright sur les données de carte</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="694"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="732"/>
         <source>Map Data Copyright Information</source>
         <translation>Info copyright sur les données de carte</translation>
     </message>
@@ -3797,7 +3807,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="389"/>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="463"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="462"/>
         <source>New flight route: direct to %1.</source>
         <translation>Nouvelle route: directe vers %1</translation>
     </message>
