@@ -1317,7 +1317,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="466"/>
         <source>Direction from</source>
-        <translation type="unfinished"></translation>
+        <translation>Direzione da</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="244"/>
@@ -1955,12 +1955,12 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;If you are following a route, the app will now show the remaining distances to the next and the final waypoint, as well as ETE and ETA.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Se stai seguendo un piano di volo, la app mostrerà la distanza dal prossimo waypoint e dal waypoit finale, così come ETE e ETA&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="280"/>
         <source>&lt;p&gt;&lt;strong&gt;Please test this new feature and report any issues!&lt;/strong&gt;&lt;p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Prova questa nuova funzione e riporta qualsiasi problema!&lt;/strong&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="281"/>
@@ -2788,27 +2788,27 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="167"/>
         <source>Unable to open the file &apos;%1&apos; for reading.</source>
-        <translation type="unfinished">Impossibile aprire il file %1 per la lettura.</translation>
+        <translation>Impossibile aprire il file %1 per la lettura.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="183"/>
         <source>JSON document contains no data.</source>
-        <translation type="unfinished">il documento JSON non contiene alcun dato.</translation>
+        <translation>Il documento JSON non contiene alcun dato.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="187"/>
         <source>JSON document does not describe an aircraft.</source>
-        <translation type="unfinished">il documento JSON non descrive un aereo.</translation>
+        <translation>Il documento JSON non descrive un aereo.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="225"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished">Impossibile aprire il file &apos;%1&apos; in scrittura.</translation>
+        <translation>Impossibile aprire il file &apos;%1&apos; in scrittura.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="231"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished">Impossibile scrivere nel file &apos;%1&apos;.</translation>
+        <translation>Impossibile scrivere nel file &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
