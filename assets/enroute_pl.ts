@@ -1952,18 +1952,26 @@ z danymi konta bankowego.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="280"/>
-        <source>&lt;p&gt;&lt;strong&gt;Please test this new feature and report any issues!&lt;/strong&gt;&lt;p&gt;</source>
+        <source>&lt;p&gt;&lt;strong&gt;Please test this new feature and report any issues!&lt;/strong&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="281"/>
-        <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;p&gt;</source>
-        <translation>&lt;p&gt;Użytkownikcy mogą wybrać główne źródło danych o pozycji. &lt;strong&gt;Jeśli używasz tej aplikacji wspólnie z symulatorem lotu, musisz wybrać &apos;odbiornik ruchu lotniczego&apos; jako podstawowe źródło pozycji.&lt;/strong&gt; Otwórz stronę &apos;Ustawienia&apos; w głównym menu aby dokonać wyboru.&lt;p&gt;</translation>
+        <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="284"/>
+        <source>&lt;p&gt;The openAIP aviation database has seen a major update, and much of our infrastructure had to be rebuilt. &lt;strong&gt;Please contact us if you spot any inconsistencies and errors!&lt;/strong&gt;&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;p&gt;</source>
+        <translation type="vanished">&lt;p&gt;Użytkownikcy mogą wybrać główne źródło danych o pozycji. &lt;strong&gt;Jeśli używasz tej aplikacji wspólnie z symulatorem lotu, musisz wybrać &apos;odbiornik ruchu lotniczego&apos; jako podstawowe źródło pozycji.&lt;/strong&gt; Otwórz stronę &apos;Ustawienia&apos; w głównym menu aby dokonać wyboru.&lt;p&gt;</translation>
+    </message>
+    <message>
         <source>&lt;p&gt;The openAIP aviation database has seen a major update, and much of our infrastructure had to be rebuilt. &lt;strong&gt;Please contact us if you spot any inconsistencies and errors!&lt;/strong&gt;&lt;p&gt;</source>
-        <translation>&lt;p&gt;Lotnicza baza danych openAIP otrzymała znaczną aktualizację, i dużo naszej infrastruktury musiało być przebudowane. &lt;strong&gt;Prosimy o kontakt, jeśli znajdziesz jakieś nieścisłości lub błędy!&lt;/strong&gt;&lt;p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Lotnicza baza danych openAIP otrzymała znaczną aktualizację, i dużo naszej infrastruktury musiało być przebudowane. &lt;strong&gt;Prosimy o kontakt, jeśli znajdziesz jakieś nieścisłości lub błędy!&lt;/strong&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports more units of measurement. Go to the new &apos;Aircraft&apos; entry in the main menu to choose your preferred units.&lt;/p&gt;</source>

@@ -1963,18 +1963,22 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="280"/>
-        <source>&lt;p&gt;&lt;strong&gt;Please test this new feature and report any issues!&lt;/strong&gt;&lt;p&gt;</source>
+        <source>&lt;p&gt;&lt;strong&gt;Please test this new feature and report any issues!&lt;/strong&gt;&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="281"/>
-        <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;p&gt;</source>
+        <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="284"/>
+        <source>&lt;p&gt;The openAIP aviation database has seen a major update, and much of our infrastructure had to be rebuilt. &lt;strong&gt;Please contact us if you spot any inconsistencies and errors!&lt;/strong&gt;&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;The openAIP aviation database has seen a major update, and much of our infrastructure had to be rebuilt. &lt;strong&gt;Please contact us if you spot any inconsistencies and errors!&lt;/strong&gt;&lt;p&gt;</source>
-        <translation>&lt;p&gt;Une mise à jour majeure a été appliquée à la base de données aéronautiques openAIP, et une grande partie de nos infrastructures a du être revue en conséquence. &lt;strong&gt;Merci de nous contacter si vous trouvez des erreurs !&lt;/strong&gt;&lt;p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Une mise à jour majeure a été appliquée à la base de données aéronautiques openAIP, et une grande partie de nos infrastructures a du être revue en conséquence. &lt;strong&gt;Merci de nous contacter si vous trouvez des erreurs !&lt;/strong&gt;&lt;p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports more units of measurement. Go to the new &apos;Aircraft&apos; entry in the main menu to choose your preferred units.&lt;/p&gt;</source>
