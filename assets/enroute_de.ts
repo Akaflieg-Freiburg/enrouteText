@@ -148,62 +148,62 @@
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Kein Lfz. passend zum Filter gefunden.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="162"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="164"/>
         <source>Loading aircraft &lt;strong&gt;%1&lt;/strong&gt;</source>
         <translation>Lade Luftfahrzeug &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="186"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="188"/>
         <source>An error occurred…</source>
         <translation>Es ist ein Fehler aufgetreten ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="231"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="233"/>
         <source>Overwrite current aircraft?</source>
         <translation>Aktuelles Luftfahrzeug überschreiben?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="241"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="243"/>
         <source>Loading the aircraft &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current aircraft. Once overwritten, the current aircraft cannot be restored.</source>
         <translation>Dieses Luftfahrzeug &lt;strong&gt;%1&lt;/strong&gt; laden überschreibt das aktuelle Luftfahrzeug. Es kann danach nicht wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="268"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="270"/>
         <source>Remove from device?</source>
         <translation>Vom Gerät löschen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="278"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="280"/>
         <source>Once the aircraft &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Einmal gelöscht, kann das Luftfahrzeug &lt;strong&gt;%1&lt;/strong&gt; nicht wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="290"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="292"/>
         <source>Aircraft removed from device</source>
         <translation>Luftfahrzeug vom Gerät gelöscht</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="308"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="310"/>
         <source>Rename Aircraft</source>
         <translation>Luftfahrzeug umbenennen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="326"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="328"/>
         <source>Enter new name for the aircraft &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Bitte neuen Namen für das Luftfahrzeug &lt;strong&gt;%1&lt;/strong&gt; eingeben.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="339"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="341"/>
         <source>New Aircraft Name</source>
         <translation>Neuer Lfz.-Name</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="352"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="354"/>
         <source>Rename</source>
         <translation>Umbenennen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="362"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="364"/>
         <source>Aircraft renamed</source>
         <translation>Luftfahrzeug umbenannt</translation>
     </message>
