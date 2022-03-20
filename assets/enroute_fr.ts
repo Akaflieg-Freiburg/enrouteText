@@ -150,7 +150,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="164"/>
         <source>Loading aircraft &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement de l&apos;avion &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="188"/>
@@ -982,7 +982,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/UpdateNotifier.cpp" line="81"/>
         <source>The estimated download size is %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de téléchargement estimée à %1.</translation>
     </message>
 </context>
 <context>
@@ -1325,7 +1325,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="466"/>
         <source>Direction from</source>
-        <translation type="unfinished"></translation>
+        <translation>Direction de</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="490"/>
@@ -1355,10 +1355,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="346"/>
         <source>Flight route reversed</source>
         <translation>Route réordonnée</translation>
-    </message>
-    <message>
-        <source>Direction</source>
-        <translation type="vanished">Direction</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="507"/>
@@ -1491,7 +1487,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="333"/>
         <source>Loading flight route &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Chargement de la route &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="357"/>
@@ -1959,34 +1955,22 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;If you are following a route, the app will now show the remaining distances to the next and the final waypoint, as well as ETE and ETA.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Si vous suivez une route, l&apos;application affichera la distance restante jusqu'au prochain et au dernier points tournants, ainsi que l&apos;ETE et l&apos;ETA.&lt;/p&gt;<translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="280"/>
         <source>&lt;p&gt;&lt;strong&gt;Please test this new feature and report any issues!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Merci de tester cette nouvelle fonctionnalité et de nous signaler le moindre problème !&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="281"/>
         <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;L&apos;utilisateur peut maintenant choisir la source des données de position. &lt;strong&gt;Si vous utilisez un simulateur de vol, vous devez sélectionner &apos;récepteur de données de traffic&apos; comme source.&lt;/strong&gt; Ouvrez la page &apos;Paramètres&apos; dans le menu principal pour entrer votre choix.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="284"/>
         <source>&lt;p&gt;The openAIP aviation database has seen a major update, and much of our infrastructure had to be rebuilt. &lt;strong&gt;Please contact us if you spot any inconsistencies and errors!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Une mise à jour majeure a été appliquée à la base de données aéronautiques openAIP, et une grande partie de nos infrastructures a du être revue en conséquence. &lt;strong&gt;Merci de nous contacter si vous trouvez des erreurs !&lt;/strong&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;The openAIP aviation database has seen a major update, and much of our infrastructure had to be rebuilt. &lt;strong&gt;Please contact us if you spot any inconsistencies and errors!&lt;/strong&gt;&lt;p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Une mise à jour majeure a été appliquée à la base de données aéronautiques openAIP, et une grande partie de nos infrastructures a du être revue en conséquence. &lt;strong&gt;Merci de nous contacter si vous trouvez des erreurs !&lt;/strong&gt;&lt;p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now supports more units of measurement. Go to the new &apos;Aircraft&apos; entry in the main menu to choose your preferred units.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;A la demande de nos utilisateurs, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; supporte maintenant plus d&apos;unités. Allez dans la page &apos;Avion&apos; depuis le menu principal pour choisir vos unités préférées.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; The readers of the German aviation magazine &apos;Aerokurier&apos; have named &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; as one of the top three innovations of the year in the category &apos;Avionics&apos;. Thanks to everybody who made this success possible!&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; Les lecteurs de la revue allemande &apos;Aerokurier&apos; ont nomé &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; comme l&apos;une des trois meilleures innovations dans la catégorie &apos;Avionics&apos;. Merci à tous ceux qui ont rendu ce succès possible !&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Une mise à jour majeure a été appliquée à la base de données aéronautiques openAIP, et une grande partie de nos infrastructures a du être revue en conséquence. &lt;strong&gt;Merci de nous contacter si vous trouvez des erreurs !&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="110"/>
@@ -2146,7 +2130,7 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="525"/>
         <source>Airspaces up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Espaces aériens jusqu&apos;à %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="575"/>
@@ -2247,46 +2231,11 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
     </message>
 </context>
 <context>
-    <name>Navigation::Aircraft</name>
-    <message>
-        <source>Unable to open the file &apos;%1&apos; for reading.</source>
-        <translation type="vanished">Impossible d&apos;ouvrir le fichier &apos;%1&apos;.</translation>
-    </message>
-    <message>
-        <source>JSON document contains no data.</source>
-        <translation type="vanished">Le document JSON est vide.</translation>
-    </message>
-    <message>
-        <source>JSON document does not describe an aircraft.</source>
-        <translation type="vanished">Le document JSON ne décrit pas un avion.</translation>
-    </message>
-    <message>
-        <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="vanished">Ouverture du fichier &apos;%1&apos; pour écriture impossible.</translation>
-    </message>
-    <message>
-        <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="vanished">Ecriture du fichier &apos;%1&apos; impossible.</translation>
-    </message>
-</context>
-<context>
     <name>Navigation::Clock</name>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="59"/>
         <source>just now</source>
         <translation>maintenant</translation>
-    </message>
-    <message>
-        <source>%1h</source>
-        <translation type="vanished">%1h</translation>
-    </message>
-    <message>
-        <source>%1min</source>
-        <translation type="vanished">%1min</translation>
-    </message>
-    <message>
-        <source>%1h and %2min</source>
-        <translation type="vanished">%1h et %2min</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="73"/>
@@ -2350,19 +2299,7 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="138"/>
         <source>Total: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Total: %1 km</source>
-        <translation type="vanished">Total : %1 km</translation>
-    </message>
-    <message>
-        <source>Total: %1 nm</source>
-        <translation type="vanished">Total : %1 nm</translation>
-    </message>
-    <message>
-        <source>Total: %1 mil</source>
-        <translation type="vanished">Total : %1 sm</translation>
+        <translation>Total : %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="150"/>
@@ -2398,21 +2335,6 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="295"/>
         <source>Error interpreting GPX file: no valid route found.</source>
         <translation>Erreur lors de l&apos;interprétation du fichier GPX: pas de route valide.</translation>
-    </message>
-</context>
-<context>
-    <name>Navigation::FlightRoute::Leg</name>
-    <message>
-        <source>%1 km</source>
-        <translation type="vanished">%1 km</translation>
-    </message>
-    <message>
-        <source>%1 nm</source>
-        <translation type="vanished">%1 nm</translation>
-    </message>
-    <message>
-        <source>%1 mil</source>
-        <translation type="vanished">%1 sm</translation>
     </message>
 </context>
 <context>
@@ -2570,13 +2492,9 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Platform::Notifier</name>
     <message>
-        <source>Downloading map data…</source>
-        <translation type="vanished">Téléchargement des cartes…</translation>
-    </message>
-    <message>
         <location filename="../../../src/platform/Notifier.cpp" line="52"/>
         <source>Downloading map and data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement des cartes et des données...</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="54"/>
@@ -2591,11 +2509,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/platform/Notifier.cpp" line="58"/>
         <source>Map and data updates available</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Application</source>
-        <translation type="vanished">Ouvrir l&apos;application</translation>
+        <translation>Mises à jour de cartes et données disponibles</translation>
     </message>
 </context>
 <context>
@@ -2603,7 +2517,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/platform/Notifier_Android.cpp" line="81"/>
         <source>Update</source>
-        <translation type="unfinished">Mettre à jour</translation>
+        <translation>Mettre à jour</translation>
     </message>
 </context>
 <context>
@@ -2611,12 +2525,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="196"/>
         <source>Update</source>
-        <translation type="unfinished">Mettre à jour</translation>
+        <translation>Mettre à jour</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="197"/>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorer</translation>
     </message>
 </context>
 <context>
@@ -2764,27 +2678,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="167"/>
         <source>Unable to open the file &apos;%1&apos; for reading.</source>
-        <translation type="unfinished">Impossible d&apos;ouvrir le fichier &apos;%1&apos;.</translation>
+        <translation>Impossible d&apos;ouvrir le fichier &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="183"/>
         <source>JSON document contains no data.</source>
-        <translation type="unfinished">Le document JSON est vide.</translation>
+        <translation>Le document JSON est vide.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="187"/>
         <source>JSON document does not describe an aircraft.</source>
-        <translation type="unfinished">Le document JSON ne décrit pas un avion.</translation>
+        <translation>Le document JSON ne décrit pas un avion.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="225"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished">Ouverture du fichier &apos;%1&apos; pour écriture impossible.</translation>
+        <translation>Ouverture du fichier &apos;%1&apos; pour écriture impossible.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="231"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished">Ecriture du fichier &apos;%1&apos; impossible.</translation>
+        <translation>Ecriture du fichier &apos;%1&apos; impossible.</translation>
     </message>
 </context>
 <context>
@@ -2800,33 +2714,21 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Carte</translation>
     </message>
     <message>
-        <source>Hide Airspaces ≥ FL100</source>
-        <translation type="vanished">Cacher les espaces aériens ≥ FL100</translation>
-    </message>
-    <message>
-        <source>Upper airspaces hidden</source>
-        <translation type="vanished">Espaces aériens supérieurs cachés</translation>
-    </message>
-    <message>
-        <source>All airspaces shown</source>
-        <translation type="vanished">Espaces aériens tous affichés</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="300"/>
         <source>No limit, all airspaces shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de limite, tous les espaces aériens sont affichés</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
         <source>Showing airspaces up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage des espaces aériens jusqu&apos;à %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="69"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="256"/>
         <source>Airspace Altitude Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Limite d&apos;altitude pour les espaces aériens</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="85"/>
@@ -2834,28 +2736,20 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Cacher les secteurs pour planeurs</translation>
     </message>
     <message>
-        <source>Gliding sectors hidden</source>
-        <translation type="vanished">Secteurs pour planeurs cachés</translation>
-    </message>
-    <message>
-        <source>Gliding sectors shown</source>
-        <translation type="vanished">Secteurs pour planeurs affichés</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="110"/>
         <source>Traffic data receiver</source>
-        <translation type="unfinished">Récepteur de traffic</translation>
+        <translation>Récepteur de traffic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="112"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="367"/>
         <source>Built-in satnav receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Récepteur satellite natif</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="114"/>
         <source>Primary position data source</source>
-        <translation type="unfinished"></translation>
+        <translation>Source des données de positionement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
@@ -2915,37 +2809,37 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="264"/>
         <source>Set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrer une limite d&apos;altitude pour améliorer la lisibilité de la carte. Si une limité est entrée, l&apos;application n&apos;affichera que les espaces aériens sous cette limite.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="272"/>
         <source>Set altitude limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrer une limite d&apos;altitude</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="298"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les espaces aériens jusqu&apos;à %1 ft / %2 m.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="309"/>
         <source>Cannot set reasonable airspaces altitude limit because the present own altitude is too high.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de régler la limite d&apos;altitude car l&apos;altitude propre est trop élevée.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="352"/>
         <source>Position data source</source>
-        <translation type="unfinished"></translation>
+        <translation>Source des données de positionement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="360"/>
         <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez le récepteur de données de traffic si le système de positionement natif de votre appareil ne fonctionne pas ou si vous utilisez un simulateur de vol. Sinon, choissisez le système natif.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="375"/>
         <source>Traffic data reveiver (when available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Récepteur de données de traffic (si disponible)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="99"/>
@@ -3771,25 +3665,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/units/Angle.cpp" line="37"/>
         <source>%1 o&apos;clock</source>
         <translation>%1 h</translation>
-    </message>
-</context>
-<context>
-    <name>UpdateMapDialog</name>
-    <message>
-        <source>Updates available</source>
-        <translation type="vanished">Mises à jour disponibles</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;One or several of your installed maps or databases can be updated. The estimated download size is %1.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Une ou plusieurs des cartes installées peuvent être mises à jour. Taille  estimée du téléchargement : %1.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>Update now</source>
-        <translation type="vanished">Mettre à jour</translation>
-    </message>
-    <message>
-        <source>Later</source>
-        <translation type="vanished">Plus tard</translation>
     </message>
 </context>
 <context>
@@ -7040,17 +6915,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="722"/>
         <source>Now showing airspaces up to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage des espaces aériens jusqu&apos;à %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="724"/>
         <source>Now showing all airspaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage de tous les espaces aériens.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="748"/>
         <source>Starting map update</source>
-        <translation type="unfinished"></translation>
+        <translation>Mise à jour des cartes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="770"/>
