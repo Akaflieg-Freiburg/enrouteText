@@ -1266,7 +1266,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="33"/>
         <source>Route and Wind</source>
-        <translation type="unfinished">Piano di volo e Vento</translation>
+        <translation>Piano di volo e Vento</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="219"/>
