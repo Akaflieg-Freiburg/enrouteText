@@ -1297,7 +1297,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="33"/>
         <source>Route and Wind</source>
-        <translation type="unfinished">Route und Wind</translation>
+        <translation>Route und Wind</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="260"/>
