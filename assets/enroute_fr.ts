@@ -1955,7 +1955,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;If you are following a route, the app will now show the remaining distances to the next and the final waypoint, as well as ETE and ETA.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Si vous suivez une route, l&apos;application affichera la distance restante jusqu'au prochain et au dernier points tournants, ainsi que l&apos;ETE et l&apos;ETA.&lt;/p&gt;<translation>
+        <translation>&lt;p&gt;Si vous suivez une route, l&apos;application affichera la distance restante jusqu'au prochain et au dernier points tournants, ainsi que l&apos;ETE et l&apos;ETA.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="280"/>
