@@ -2801,17 +2801,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="49"/>
         <source>Position unknown.</source>
-        <translation type="unfinished"></translation>
+        <translation>Position unbekannt.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="51"/>
         <source>More than %1 off route.</source>
-        <translation type="unfinished"></translation>
+        <translation>Über %1 abseits der Route.></translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="53"/>
         <source>Near destination.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahe am Ziel.</translation>
     </message>
 </context>
 <context>
