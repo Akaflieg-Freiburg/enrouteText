@@ -2806,7 +2806,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="51"/>
         <source>More than %1 off route.</source>
-        <translation>Über %1 abseits der Route.></translation>
+        <translation>Über %1 abseits der Route.&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="53"/>
