@@ -2809,17 +2809,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="49"/>
         <source>Position unknown.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pozycja nieznana.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="51"/>
         <source>More than %1 off route.</source>
-        <translation type="unfinished"></translation>
+        <translation>Więcej niż %1 poza trasą.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="53"/>
         <source>Near destination.</source>
-        <translation type="unfinished"></translation>
+        <translation>Blisko celu.</translation>
     </message>
 </context>
 <context>
