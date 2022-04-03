@@ -2832,17 +2832,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="50"/>
         <source>Position unknown.</source>
-        <translation type="unfinished"></translation>
+        <translation>Posizione sconosciuta.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="52"/>
         <source>More than %1 off route.</source>
-        <translation type="unfinished"></translation>
+        <translation>Più del %1 fuori rotta.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="54"/>
         <source>Near destination.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vicino alla destinazione.</translation>
     </message>
 </context>
 <context>
