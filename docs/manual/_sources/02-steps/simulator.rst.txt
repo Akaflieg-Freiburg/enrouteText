@@ -31,6 +31,11 @@ flight simulator and the device that runs **Enroute Flight Navigation** are
 connected to a Wi-Fi network deployed by a home router.  Make sure that the
 following conditions are met.
 
+- Open the "Settings" page in the main menu and tap on the entry "Primary
+  position data source" and select the "Traffic data receiver" as the main
+  source. **As long as the built-in satnav receiver is selected, all position
+  information provided by your flight simulator is ignored.**
+
 - The computer that runs the flight simulator and the device that runs **Enroute
   Flight Navigation** are connected to the same Wi-Fi network.  Some routers
   deploy two networks, often called "main network" and a "guest network".
