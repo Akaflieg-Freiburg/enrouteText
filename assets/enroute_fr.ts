@@ -1289,7 +1289,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="33"/>
         <source>Route and Wind</source>
-        <translation type="unfinished">Route et vent</translation>
+        <translation>Route et vent</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="260"/>
@@ -2710,17 +2710,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="50"/>
         <source>Position unknown.</source>
-        <translation type="unfinished"></translation>
+        <translation>Position inconnue.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="52"/>
         <source>More than %1 off route.</source>
-        <translation type="unfinished"></translation>
+        <translation>A plus de %1 de la route.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRoute.qml" line="54"/>
         <source>Near destination.</source>
-        <translation type="unfinished"></translation>
+        <translation>Près de la destination.</translation>
     </message>
 </context>
 <context>
