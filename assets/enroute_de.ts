@@ -1901,7 +1901,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;The style of the basemap has been updated. Aerialways, such as cable cars or gondolas, are now shown very prominently in bright red. Railway lines have become more visible.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Stil der Basiskarte wurde überarbeitet. Luftwege wie Seil- und Gondelbahnen treten nun in Hellrot hervor. Die Sichtbarkeit von Bahnlinien wurde erhöht.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
