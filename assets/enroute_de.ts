@@ -1900,21 +1900,26 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
+        <source>&lt;p&gt;The style of the basemap has been updated. Aerialways, such as cable cars or gondolas, are now shown very prominently in bright red. Railway lines have become more visible.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="279"/>
         <source>&lt;p&gt;If you are following a route, the app will now show the remaining distances to the next and the final waypoint, as well as ETE and ETA.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Wenn Sie einer Route folgen, sehen Sie jetzt die verbleibende Distanz zum nächsten und zum letzten Wegpunkt, außerdem ETE und ETA.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="280"/>
+        <location filename="../../../src/Librarian.cpp" line="281"/>
         <source>&lt;p&gt;&lt;strong&gt;Please test this new feature and report any issues!&lt;/strong&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Bitte testen Sie diese neue Funktion und melden Sie etwaige Probleme!&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="281"/>
+        <location filename="../../../src/Librarian.cpp" line="282"/>
         <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Man kann jetzt die primäre Datenquelle festlegen. &lt;strong&gt;Bei Nutzung der App mit einem Flugsimulator müssen Sie &apos;Verkehrsdatenempfänger&apos; als Primärquelle wählen&lt;/strong&gt;, und zwar im Hauptmenü in den &apos;Einstellungen&apos;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="284"/>
+        <location filename="../../../src/Librarian.cpp" line="285"/>
         <source>&lt;p&gt;The openAIP aviation database has seen a major update, and much of our infrastructure had to be rebuilt. &lt;strong&gt;Please contact us if you spot any inconsistencies and errors!&lt;/strong&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Die openAIP-Luftfahrtdatenbank hat ein größeres Update erfahren, und ein Großteil unserer Infrastruktur musste daher erneuert werden. &lt;strong&gt;Bitte kontaktieren Sie uns, wenn Sie Unstimmigkeiten oder Fehler finden sollten!&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>

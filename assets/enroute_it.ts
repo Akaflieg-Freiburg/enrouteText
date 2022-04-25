@@ -1958,21 +1958,26 @@ con i dati del conto bancario.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
+        <source>&lt;p&gt;The style of the basemap has been updated. Aerialways, such as cable cars or gondolas, are now shown very prominently in bright red. Railway lines have become more visible.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="279"/>
         <source>&lt;p&gt;If you are following a route, the app will now show the remaining distances to the next and the final waypoint, as well as ETE and ETA.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Se stai seguendo un piano di volo, la app mostrerà la distanza dal prossimo waypoint e dal waypoit finale, così come ETE e ETA&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="280"/>
+        <location filename="../../../src/Librarian.cpp" line="281"/>
         <source>&lt;p&gt;&lt;strong&gt;Please test this new feature and report any issues!&lt;/strong&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Prova questa nuova funzione e riporta qualsiasi problema!&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="281"/>
+        <location filename="../../../src/Librarian.cpp" line="282"/>
         <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;/p&gt;</source>
         <translation>&lt;p&gt;L&apos;utente può adesso scegliere la posizione primaria della sorgente dati. &lt;strong&gt;Se usi questa APP con un simulatore di volo, devi selezionare &apos;ricevitore traffico dati&apos; come fonte primaria dati.&lt;/strong&gt; Apri la pagina &apos;Impostazioni&apos; del menu principale per scegliere.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="284"/>
+        <location filename="../../../src/Librarian.cpp" line="285"/>
         <source>&lt;p&gt;The openAIP aviation database has seen a major update, and much of our infrastructure had to be rebuilt. &lt;strong&gt;Please contact us if you spot any inconsistencies and errors!&lt;/strong&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Il database aeronautico openAIP è stato sottoposto ad un aggiornamento maggiore, e buona parte della nostra infrastruttura è stata ricostruita. &lt;strong&gt;Contattaci se trovi incosistenze o errori!&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
