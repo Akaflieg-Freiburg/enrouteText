@@ -1959,7 +1959,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;The style of the basemap has been updated. Aerialways, such as cable cars or gondolas, are now shown very prominently in bright red. Railway lines have become more visible.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Lo stile delle mappe di base è stato aggiornato. Le vie aeree, come le funivie o le gondole, sono ora mostrate in modo molto evidente in rosso brillante. Le linee ferroviarie sono diventate più visibili.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
