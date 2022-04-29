@@ -1952,7 +1952,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;The style of the basemap has been updated. Aerialways, such as cable cars or gondolas, are now shown very prominently in bright red. Railway lines have become more visible.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Styl głównej mapy został zaktualizowany. Przeszkody powietrzne takie jak wagoniki kolejek i gondole są teraz pokazywane w jasnym czerwonym kolorze. Linie kolejowe są teraz bardziej widoczne.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
