@@ -1287,7 +1287,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="613"/>
         <source>One waypoint: direct route from ownship position</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Wegpunkt: Direkte Route ab der eigenen Position</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="692"/>
