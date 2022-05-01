@@ -2431,22 +2431,22 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="308"/>
         <source>Cruise speed not specified.</source>
-        <translation type="unfinished">Reisegeschwindigkeit nicht angegeben.</translation>
+        <translation>Reisegeschwindigkeit nicht angegeben.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="311"/>
         <source>Wind speed not specified.</source>
-        <translation type="unfinished">Windgeschwindigkeit nicht angegeben.</translation>
+        <translation>Windgeschwindigkeit nicht angegeben.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="314"/>
         <source>Wind direction not specified.</source>
-        <translation type="unfinished">Windrichtung nicht angegeben.</translation>
+        <translation>Windrichtung nicht angegeben.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="317"/>
         <source>&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;font color=&apos;red&apos;&gt;Berechnung unvollständig. %1&lt;/font&gt;</translation>
     </message>
 </context>
 <context>
