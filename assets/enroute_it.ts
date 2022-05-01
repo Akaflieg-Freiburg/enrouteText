@@ -1209,27 +1209,27 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="30"/>
         <source>Add Waypoint to Route</source>
-        <translation>Aggiungi destinazione</translation>
+        <translation>Aggiungi waypoint</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="71"/>
         <source>Choose a waypoint from the list below.</source>
-        <translation>Scegli una destinazione dalla lista.</translation>
+        <translation>Scegli un waypoint dalla lista.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="82"/>
         <source>Filter Waypoint Names</source>
-        <translation>Filtra le destinazioni per nome</translation>
+        <translation>Filtra i waypoints per nome</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="117"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Non ci sono destinazioni disponibili. Prego installare una mappa.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Non ci sono waypoints disponibili. Prego installare una mappa.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="118"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessuna destinazione risolve i criteri selezionati.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessun waypoint risolve i criteri selezionati.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1366,7 +1366,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="389"/>
         <source>&lt;h2&gt;Empty Route&lt;/h2&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below.&lt;/p&gt;</source>
-        <translation>&lt;h2&gt;Piano di volo vuoto&lt;/h2&gt;&lt;p&gt;Usare il tasto &lt;strong&gt;Aggiungi destinazione&lt;/strong&gt; qui sotto.&lt;/p&gt;</translation>
+        <translation>&lt;h2&gt;Piano di volo vuoto&lt;/h2&gt;&lt;p&gt;Usare il tasto &lt;strong&gt;Aggiungi waypoint&lt;/strong&gt; qui sotto.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -1386,12 +1386,12 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="613"/>
         <source>One waypoint: direct route from ownship position</source>
-        <translation type="unfinished"></translation>
+        <translation>Un waypoint: rotta diretta dalla posizione di proprietà</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="639"/>
         <source>Add Waypoint</source>
-        <translation>Aggiungi destinazione</translation>
+        <translation>Aggiungi waypoint</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="672"/>
@@ -1969,7 +1969,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
         <source>&lt;p&gt;If you are following a route, the app will now show the remaining distances to the next and the final waypoint, as well as ETE and ETA.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Se stai seguendo un piano di volo, la app mostrerà la distanza dal prossimo waypoint e dal waypoit finale, così come ETE e ETA&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Se stai seguendo un piano di volo, la app mostrerà la distanza dal prossimo waypoint e quello finale, così come ETE e ETA&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="281"/>
@@ -2463,7 +2463,7 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="32"/>
         <source>Nearby Waypoints</source>
-        <translation>Destinazioni nelle vicinanze</translation>
+        <translation>Waypoints nelle vicinanze</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="45"/>
@@ -6953,7 +6953,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="140"/>
         <source>Nearby Waypoints</source>
-        <translation>Destinazioni</translation>
+        <translation>Waypoints vicini</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="155"/>
