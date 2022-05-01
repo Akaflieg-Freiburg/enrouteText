@@ -2463,22 +2463,22 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="308"/>
         <source>Cruise speed not specified.</source>
-        <translation type="unfinished">Velocità di crociera non specificata.</translation>
+        <translation>Velocità di crociera non specificata.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="311"/>
         <source>Wind speed not specified.</source>
-        <translation type="unfinished">Velocità del vento non specificata.</translation>
+        <translation>Velocità del vento non specificata.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="314"/>
         <source>Wind direction not specified.</source>
-        <translation type="unfinished">Direzione del vento non specificata.</translation>
+        <translation>Direzione del vento non specificata.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="317"/>
         <source>&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;font color=&apos;red&apos;&gt;Calcolo incompleto. %1&lt;/font&gt;</translation>
     </message>
 </context>
 <context>
@@ -3027,7 +3027,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="112"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="367"/>
         <source>Built-in satnav receiver</source>
-        <translation>Ricevutore GPS</translation>
+        <translatorcomment>It was just a typo. &quot;ricevUtore&quot; instead of &quot;ricevItore&quot;</translatorcomment>
+        <translation>Ricevitore GPS</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="114"/>
