@@ -2433,6 +2433,29 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     </message>
 </context>
 <context>
+    <name>Navigation::Navigator</name>
+    <message>
+        <location filename="../../../src/navigation/Navigator.cpp" line="308"/>
+        <source>Cruise speed not specified.</source>
+        <translation type="unfinished">Prędkość przelotowa nie jest ustawiona.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/navigation/Navigator.cpp" line="311"/>
+        <source>Wind speed not specified.</source>
+        <translation type="unfinished">Prędkość wiatru nie jest ustawiona.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/navigation/Navigator.cpp" line="314"/>
+        <source>Wind direction not specified.</source>
+        <translation type="unfinished">Kierunek wiatru nie jest ustawiony.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/navigation/Navigator.cpp" line="317"/>
+        <source>&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Nearby</name>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="32"/>
@@ -2817,17 +2840,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>RemainingRoute</name>
     <message>
-        <location filename="../../../src/qml/items/RemainingRoute.qml" line="50"/>
+        <location filename="../../../src/qml/items/RemainingRoute.qml" line="160"/>
         <source>Position unknown.</source>
         <translation>Pozycja nieznana.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/RemainingRoute.qml" line="52"/>
+        <location filename="../../../src/qml/items/RemainingRoute.qml" line="162"/>
         <source>More than %1 off route.</source>
         <translation>Więcej niż %1 poza trasą.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/RemainingRoute.qml" line="54"/>
+        <location filename="../../../src/qml/items/RemainingRoute.qml" line="164"/>
         <source>Near destination.</source>
         <translation>Blisko celu.</translation>
     </message>
