@@ -20,7 +20,7 @@ a typical situation.
 As soon as you are flying and following the route, the moving map will show
 additional items that help you navigate.
 
-- The moving map shows the intended flight as a green line.
+- The moving map shows the intended flight as a mangenta line.
 - The map shows the path from the current position to the next waypoint as a
   thin red line.
 - An infobox shows distance, ETE, and ETA for the flight to the next and the
