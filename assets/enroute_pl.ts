@@ -1299,7 +1299,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="613"/>
         <source>One waypoint: direct route from ownship position</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeden punkt trasy: bezpośrednia trasa z własnej pozycji</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="692"/>
@@ -2437,22 +2437,22 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="321"/>
         <source>Cruise speed not specified.</source>
-        <translation type="unfinished">Prędkość przelotowa nie jest ustawiona.</translation>
+        <translation>Prędkość przelotowa nie jest ustawiona.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="324"/>
         <source>Wind speed not specified.</source>
-        <translation type="unfinished">Prędkość wiatru nie jest ustawiona.</translation>
+        <translation>Prędkość wiatru nie jest ustawiona.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="327"/>
         <source>Wind direction not specified.</source>
-        <translation type="unfinished">Kierunek wiatru nie jest ustawiony.</translation>
+        <translation>Kierunek wiatru nie jest ustawiony.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="330"/>
         <source>&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;font color=&apos;red&apos;&gt;Obliczenia niekompletne. %1&lt;/font&gt;</translation>
     </message>
 </context>
 <context>
