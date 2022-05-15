@@ -1216,10 +1216,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>FlightRouteEditor</name>
     <message>
-        <source>Flight Route</source>
-        <translation type="vanished">Route</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="82"/>
         <source>Move Up</source>
         <translation>Déplacer avant</translation>
@@ -1368,7 +1364,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="613"/>
         <source>One waypoint: direct route from ownship position</source>
-        <translation type="unfinished"></translation>
+        <translation>Un point tournant : route directe depuis la position actuelle</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="639"/>
@@ -1964,7 +1960,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;The style of the basemap has been updated. Aerialways, such as cable cars or gondolas, are now shown very prominently in bright red. Railway lines have become more visible.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Le style du fond de carte a été mis à jour. Les téléphériques sont maintenant indiqués en rouge vif, et les chemins de fer sont également plus visibles.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
@@ -2356,22 +2352,22 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="321"/>
         <source>Cruise speed not specified.</source>
-        <translation type="unfinished">Vitesse de croisière non spécifiée.</translation>
+        <translation>Vitesse de croisière non spécifiée.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="324"/>
         <source>Wind speed not specified.</source>
-        <translation type="unfinished">Vitesse du vent non spécifiée.</translation>
+        <translation>Vitesse du vent non spécifiée.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="327"/>
         <source>Wind direction not specified.</source>
-        <translation type="unfinished">Direction du vent non spécifiée.</translation>
+        <translation>Direction du vent non spécifiée.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="330"/>
         <source>&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;font color=&apos;red&apos;&gt;Calcul non-terminé. %1&lt;/font&gt;</translation>
     </message>
 </context>
 <context>
