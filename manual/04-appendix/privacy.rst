@@ -1,5 +1,5 @@
 
-Privacy Policies
+Privacy policies
 ================
 
 **The app Enroute Flight Navigation has been designed to not send any data to
@@ -10,12 +10,24 @@ following.
   software from MapBox, Inc. While we have checked that no data is collected by
   these components, there is a chance that we overlooked something.
 
-- The app accesses the internet, for instance to download maps and to check for
-  updates. The internet sites where the data resides may not be under our control
-  and may keep access logs.
+
+Internet access
+---------------
+
+The app accesses internet sites that may not be under our control. These sites
+may keep access logs or track their users.
+
+- The downloads maps and data from the server `cplx.vm.uni-freiburg.de
+  <cplx.vm.uni-freiburg.de>`_ at the University of Freiburg. The app will also
+  connect to this server to check for updates. 
+
+- The app downloads METAR/TAF weather data from the `Aviation Weather Center
+  <https://www.aviationweather.gov>`_, a website of the United States
+  government. In order to provide relevant data, the app sends your location and
+  your current route to the Aviation Weather Center at regular intervals.
 
 
-Privileges of the Android App
+Privileges of the Android app
 -----------------------------
 
 The Android app requires the following privileges.
