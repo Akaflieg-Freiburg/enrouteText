@@ -55,6 +55,13 @@ and frequencies.
    02-steps/weather
    02-steps/simulator
    02-steps/donate
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Advanced Use
+   :name: sec-advanced
+
+   02-advanced/customMaps
    
 .. raw:: latex
    \part{Reference manual}
