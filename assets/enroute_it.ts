@@ -773,12 +773,12 @@ la nostra App.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="208"/>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="218"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="219"/>
         <source>Unable to copy map file to data directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="276"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="277"/>
         <source>Manually Imported</source>
         <translation type="unfinished"></translation>
     </message>
