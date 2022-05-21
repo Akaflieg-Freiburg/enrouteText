@@ -64,6 +64,7 @@ and frequencies.
    :caption: Reference manual
    :name: sec-reference
     
+   03-reference/settings
    03-reference/mapData
    03-reference/platform
    03-reference/Airspace
