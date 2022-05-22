@@ -764,23 +764,23 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="191"/>
         <source>Unable to recognize map file format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile riconoscere il formato file della mappa.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="196"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile creae la cartella &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="208"/>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="219"/>
         <source>Unable to copy map file to data directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile copiare il file mappa nella cartella.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="277"/>
         <source>Manually Imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Importata manualmente</translation>
     </message>
     <message>
         <source>Internal Map Data</source>
@@ -811,7 +811,7 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable.cpp" line="72"/>
         <source>manually imported</source>
-        <translation type="unfinished"></translation>
+        <translation>importata manualmente</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable.cpp" line="75"/>
@@ -1130,17 +1130,17 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="690"/>
         <source>Uninstall Raster Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Disistalla mappe Raster</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="694"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled before new vector maps are downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per evitare conflitti tra raster e mappe vettoriali, tutte le mappe raster saranno disinstallate e le nuove vettoriali scaricate.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="707"/>
         <source>Raster maps uninstalled</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe raster disinstallate</translation>
     </message>
 </context>
 <context>
@@ -1664,12 +1664,12 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="65"/>
         <source>Aviation maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe aeronautiche</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="72"/>
         <source>Basemap</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe base</translation>
     </message>
 </context>
 <context>
@@ -1681,55 +1681,55 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="61"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il tipo file &lt;strong&gt;%1&lt;/strong&gt; non riconosciuto.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="81"/>
         <source>Import Raster Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa mappe raster</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="89"/>
         <location filename="../../../src/qml/items/ImportManager.qml" line="171"/>
         <source>Enter a name for this map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserisci il nome della mappa.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="99"/>
         <location filename="../../../src/qml/items/ImportManager.qml" line="181"/>
         <source>Map Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome mappa</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="113"/>
         <location filename="../../../src/qml/items/ImportManager.qml" line="195"/>
         <source>Remove file after import</source>
-        <translation type="unfinished"></translation>
+        <translation>Rimuovi il file dopo l&apos;importazione</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="119"/>
         <source>To avoid conflicts between raster and vector maps, all vector maps will be uninstalled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per evitare il conflitto tra mappe raster e vettoriali, tutte le mappe vettoriali saranno disinstallate.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="144"/>
         <source>Raster map imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe raster importate</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="163"/>
         <source>Import Vector Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa mappe vettoriali</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="201"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per evitare il conflitto tra mappe raster e vettoriali, tutte le mappe raster saranno disinstallate.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="226"/>
         <source>Vector map imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapper vettoriali importate</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="245"/>
@@ -1749,7 +1749,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="301"/>
         <source>Data import error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore nei dati importati</translation>
     </message>
     <message>
         <source>Error importing flight route</source>
@@ -2072,7 +2072,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;You can now import raster or vector maps into this app. Typically, this could be an official ICAO map of your country or a high-detail map for a particular region. If you are interested, look at the section &apos;Advanced Use&apos; of the manual.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;In questa app ora puoi importare mappe raster o vettoriali. In genere, questa potrebbe essere una mappa ICAO ufficiale del tuo paese o una mappa dettagliata per una particolare regione. Se sei interessato, consulta la sezione &apos;Utilizzo Avanzato&apos; del manuale.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;The style of the basemap has been updated. Aerialways, such as cable cars or gondolas, are now shown very prominently in bright red. Railway lines have become more visible.&lt;/p&gt;</source>
@@ -2586,7 +2586,7 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="330"/>
         <source>Computation incomplete. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Calcolo incompleto. %1</translation>
     </message>
     <message>
         <source>&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;</source>
@@ -2975,7 +2975,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/geomaps/MBTILES.cpp" line="110"/>
         <source>Internal Map Data</source>
         <comment>GeoMaps::MBTILES</comment>
-        <translation type="unfinished">Dati interni mappa</translation>
+        <translation>Dati interni mappa</translation>
     </message>
 </context>
 <context>
