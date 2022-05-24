@@ -16,8 +16,8 @@ complete with frequencies, codes, elevations and runway information.
 
 The free aeronautical maps can be downloaded for offline use. In addition to
 airspaces, airfields and navaids, selected maps also show traffic circuits as
-well as flight procedures for control zones. The maps receive near-weekly
-updates and cover large parts of the world.
+well as flight procedures for control zones. The maps receive daily updates and
+cover large parts of the world.
 
 **Enroute Flight Navigation** includes flight weather data downloaded from the
 `NOAA - Aviation Weather Center <https://www.aviationweather.gov/>`_.
@@ -28,6 +28,16 @@ courses and headings, and gives you an estimate for flight time and fuel
 consumption. If the weather turns bad, the app will show you the closest
 airfields for landing, complete with distances, directions, runway information
 and frequencies.
+
+
+Program version
+---------------
+
+This manual describes program version 2.17.0.
+
+
+Table of contents
+-----------------
 
 .. raw:: latex
    \part{Getting started}
