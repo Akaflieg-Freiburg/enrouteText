@@ -11,13 +11,13 @@ where a user would like to use their own base maps.
 - Some users might prefer to install high-detail vector maps for particular
   regions of interest.
 
-Starting with the beta version 2.16.90, **Enroute Flight Navigation** is able to
-import MBTILES file containing raster or vector data.  Vector data must follow
-the standard `OpenMapTiles <https://github.com/openmaptiles/openmaptiles>`_
-schema.  Vector maps are rendered in the same style that **Enroute Flight
-Navigation** uses for its own maps.  It is possible to install vector maps along
-with the maps provided by **Enroute Flight Navigation**, in order to provide
-higher detail for particular regions of interest.
+**Enroute Flight Navigation** is able to import MBTILES file containing raster
+or vector data.  Vector data must follow the standard `OpenMapTiles
+<https://github.com/openmaptiles/openmaptiles>`_ schema.  Vector maps are
+rendered in the same style that **Enroute Flight Navigation** uses for its own
+maps.  It is possible to install vector maps along with the maps provided by
+**Enroute Flight Navigation**, in order to provide higher detail for particular
+regions of interest.
 
 
 Import Maps
@@ -43,7 +43,6 @@ Import Maps on Linux Desktop
 
 If you are running **Enroute Flight Navigation** on a Linux Desktop machine, use
 the file manager to drag-and-drop the file into the main window of the app.
-
 
 .. note::  MBTILES files are often extremely large. It is possible that your
   device becomes unresponsive for a few seconds while copying the file.  Also, 
@@ -74,19 +73,22 @@ GeoTIFF sources
 ^^^^^^^^^^^^^^^
 
 We are aware of websites that offer raster maps in GeoTIFF format. At present,
-**Enroute Flight Navigation** cannot handle GeoTIFF file, but there are web
-services and command line tools that 
+**Enroute Flight Navigation** cannot handle GeoTIFF files, but there are tools
+that convert GeoTIFF to MBTILES.
 
-- Official ICAO maps for Denmark are available `here
+- Official ICAO maps for Denmark are available from the danish `AIM Naviair
   <https://aim.naviair.dk/en/charts/>`_
 
-- Official ICAO maps for Switzerland are available `here
+- Official ICAO maps for Switzerland are available from the swiss `Federal
+  Office of Topography swisstopo
   <https://www.swisstopo.admin.ch/en/geodata/aero/icao.html>`_
 
-- The commercial web service `MyGeodata
-  <https://mygeodata.cloud/converter/geotiff-to-mbtiles>`_ converts GeoTIFF to
-  MBTILES.
+- Official VFR raster charts are available from the `United States Federal
+  Aviation Administration
+  <https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/vfr/>`_
 
-- The command line tool `gdal2mbtiles
-  <https://github.com/ecometrica/gdal2mbtiles>`_ is able to convert GeoTIFF to
-  MBTILES.
+Users have used the free tool `QGIS <https://qgis.org/en/site>`_ to convert
+GeoTIFF files to MBTILES, which can then be used with **Enroute Flight
+Navigation**. The website `MyGeodata
+<https://mygeodata.cloud/converter/geotiff-to-mbtiles>`_ offers commercial data
+conversion services.
