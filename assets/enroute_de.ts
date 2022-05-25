@@ -7182,7 +7182,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="416"/>
         <source>Download as ebook</source>
-        <translation>Ale eBook herunterladen</translation>
+        <translation>Als eBook herunterladen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="430"/>
