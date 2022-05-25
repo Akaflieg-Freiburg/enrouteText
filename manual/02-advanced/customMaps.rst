@@ -87,8 +87,46 @@ that convert GeoTIFF to MBTILES.
   Aviation Administration
   <https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/vfr/>`_
 
-Users have used the free tool `QGIS <https://qgis.org/en/site>`_ to convert
-GeoTIFF files to MBTILES, which can then be used with **Enroute Flight
-Navigation**. The website `MyGeodata
-<https://mygeodata.cloud/converter/geotiff-to-mbtiles>`_ offers commercial data
-conversion services.
+Users have successfully used the free tool `QGIS <https://qgis.org/en/site>`_ to
+convert GeoTIFF files to MBTILES, which can then be used with **Enroute Flight
+Navigation**. Since QGIS is a powerful tool that is not always easy to use, one
+user has kindly provided the following short tutorial.
+
+- Install QGIS on your desktop computer. On Fedora Linux, we found that the
+  packages provided by the default software repository were outdated and lacked
+  the necessary functionality.  We followed the installations instructions on
+  the `QGIS website <https://qgis.org/en/site/forusers/download.html>`_ to
+  install a current and full-featured version of the program.
+
+- Open QGIS.
+  
+- Create a new empty project (EPSG:3857).
+  
+- Open the GeoTIFF file in QGIS (via Layer->Add Layer, or simply drag and drop
+  the file into the Layers section).
+  
+- You should see the layer of the GeoTIFF on the left side ("Layers") (see
+  att.1) and the content of the GeoTIFF should also be visible.
+
+- Select the layer of your file and on the right side of the window open the
+  "Layer Styling" section and set "Resampling" to "Bilinear" for better image
+  render quality (see att.2).
+
+- Switch to the "Processing Toolbox" and double click "Raster Tools->Generate
+  XYZ Tiles (MBTiles)" (see att.3).
+
+- Fill the values (see att.4 for example values) Pay attention to the maximum
+  zoom level, as the time and file size increase significantly after zoom level
+  12.
+
+- Click on "Run".
+
+- The output should look like this (see att.5) there should not be any error
+  displayed.
+
+- Depending on the size of your GeoTIFF and on how many zoom levels you use,
+  generating the file may take a while.
+
+- Move the generated MBTiles file to your device and open it with Enroute.
+
+
