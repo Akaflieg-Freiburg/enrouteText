@@ -51,8 +51,8 @@ the file manager to drag-and-drop the file into the main window of the app.
   once it has been imported.
 
 
-Map data sources
-----------------
+MBTILES Map Data Sources
+------------------------
 
 We are aware of a few websites that offer vector or raster maps that can be used
 with **Enroute Flight Navigation**.  Please let us know if you know of other map
@@ -69,8 +69,8 @@ data sources!
   as well as South Africa and Namibia.
 
 
-GeoTIFF sources
-^^^^^^^^^^^^^^^
+Raster Maps in GeoTIFF format
+-----------------------------
 
 We are aware of websites that offer raster maps in GeoTIFF format. At present,
 **Enroute Flight Navigation** cannot handle GeoTIFF files, but there are tools
@@ -89,8 +89,17 @@ that convert GeoTIFF to MBTILES.
 
 Users have successfully used the free tool `QGIS <https://qgis.org/en/site>`_ to
 convert GeoTIFF files to MBTILES, which can then be used with **Enroute Flight
-Navigation**. Since QGIS is a powerful tool that is not always easy to use, one
-user has kindly provided the following short tutorial.
+Navigation**. 
+
+.. _QGIS-img:
+.. figure:: QGIS-MainWindow.png
+   :scale: 40 %
+   :align: center
+
+   QGIS Main Window
+
+Since QGIS is a powerful tool that is not always easy to use, one user has
+kindly provided the following short tutorial.
 
 - Install QGIS on your desktop computer. On Fedora Linux, we found that the
   packages provided by the default software repository were outdated and lacked
@@ -98,35 +107,34 @@ user has kindly provided the following short tutorial.
   the `QGIS website <https://qgis.org/en/site/forusers/download.html>`_ to
   install a current and full-featured version of the program.
 
-- Open QGIS.
-  
-- Create a new empty project (EPSG:3857).
-  
-- Open the GeoTIFF file in QGIS (via Layer->Add Layer, or simply drag and drop
-  the file into the Layers section).
-  
-- You should see the layer of the GeoTIFF on the left side ("Layers") (see
-  att.1) and the content of the GeoTIFF should also be visible.
+- Open QGIS. Create a new project and open the GeoTIFF file in QGIS by
+  dragging-and-dropping the GeoTIFF file into the QGIS window. The content of
+  the GeoTIFF file should become visible.
 
-- Select the layer of your file and on the right side of the window open the
-  "Layer Styling" section and set "Resampling" to "Bilinear" for better image
-  render quality (see att.2).
+- Choose the menu item "Project/Properties…" to open the dialog window "Project
+  Properties". There, set the coordinate reference system to EPSG:3857. To
+  locate the reference system, use the text field "Filter" and search for
+  EPSG:3857.
 
-- Switch to the "Processing Toolbox" and double click "Raster Tools->Generate
-  XYZ Tiles (MBTiles)" (see att.3).
+- Use the menu items under "View/Panels/…" to ensure that the panels "Layer" and
+  "Layer Styling" are visible. Select the layer of your GeoTIFF file and in the
+  "Layer" panel.  Then, go to the "Layer Styling" panel and set "Resampling" to
+  "Bilinear" for better image render quality.
 
-- Fill the values (see att.4 for example values) Pay attention to the maximum
-  zoom level, as the time and file size increase significantly after zoom level
-  12.
-
-- Click on "Run".
-
-- The output should look like this (see att.5) there should not be any error
-  displayed.
-
-- Depending on the size of your GeoTIFF and on how many zoom levels you use,
-  generating the file may take a while.
-
-- Move the generated MBTiles file to your device and open it with Enroute.
+- Use the menu items under "View/Panels/…" to ensure that the panel "Processing
+  Toolbox" is visible. Inside the "Processing Toolbox", double click on "Raster
+  Tools->Generate XYZ Tiles (MBTiles)".  The dialog "Generate XYZ Tiles
+  (MBTiles)" will open. Fill the necessary parameters, as seen in the image
+  below. We found the function "Draw on Map Canvas" useful to specify the map
+  extent. Pay attention to the maximum zoom level, as the time and file size
+  increase significantly after zoom level 12. Depending on the size of your
+  GeoTIFF and on the number of zoom levels you use, it may take a while to
+  generate the MBTILES file.
 
 
+.. _QGIS-Gen-img:
+.. figure:: QGIS-GenerateMBTILES.png
+   :scale: 40 %
+   :align: center
+
+   QGIS Generate Tiles Dialog
