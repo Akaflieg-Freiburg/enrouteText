@@ -1105,7 +1105,7 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="562"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;La lista delle mappe disponibili non è stata ancora scaricata dal server. Puoi riavviare il download manualmente usando il pulsante qui in basso.&lt;/p&gt;!</translation>
+        <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;La lista delle mappe disponibili non è stata ancora scaricata dal server. Puoi riavviare il download manualmente usando il pulsante qui in basso.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="590"/>
