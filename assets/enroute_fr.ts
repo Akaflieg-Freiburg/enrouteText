@@ -748,27 +748,23 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="191"/>
         <source>Unable to recognize map file format.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de reconnaitre le format du fichier de carte.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="196"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de créer le dossier &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="208"/>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="219"/>
         <source>Unable to copy map file to data directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de copier le fichier de carte vers le dossier de données.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="277"/>
         <source>Manually Imported</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Internal Map Data</source>
-        <translation type="vanished">Données de carte internes</translation>
+        <translation>Importé manuellement</translation>
     </message>
 </context>
 <context>
@@ -789,13 +785,9 @@ données de manière publique et gratuite.&lt;/p&gt;
         <translation>mise à jour disponible</translation>
     </message>
     <message>
-        <source>no longer supported</source>
-        <translation type="vanished">plus supportée</translation>
-    </message>
-    <message>
         <location filename="../../../src/dataManagement/Downloadable.cpp" line="72"/>
         <source>manually imported</source>
-        <translation type="unfinished"></translation>
+        <translation>importée manuellement</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable.cpp" line="75"/>
@@ -1114,17 +1106,17 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="690"/>
         <source>Uninstall Raster Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Désinstaller les cartes matricielles</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="694"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled before new vector maps are downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour éviter les conflits entre les cartes matricielles et vectorielles, toutes les cartes matricielles seront désinstallées avant que les nouvelles cartes vectorielles ne soient téléchargées.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="707"/>
         <source>Raster maps uninstalled</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartes matricielles désinstallées</translation>
     </message>
 </context>
 <context>
@@ -1637,72 +1629,68 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="65"/>
         <source>Aviation maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Carte aéronautique</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="72"/>
         <source>Basemap</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonds de carte</translation>
     </message>
 </context>
 <context>
     <name>ImportManager</name>
     <message>
-        <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; could not be recognized.</source>
-        <translation type="vanished">Le type du fichier &lt;strong&gt;%1&lt;/strong&gt; n&apos;est pas reconnu.</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="61"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le type du fichier &lt;strong&gt;%1&lt;/strong&gt; n&apos;a pas pu être reconnu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="81"/>
         <source>Import Raster Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer les cartes matricielles</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="89"/>
         <location filename="../../../src/qml/items/ImportManager.qml" line="171"/>
         <source>Enter a name for this map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez un nom pour cette carte.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="99"/>
         <location filename="../../../src/qml/items/ImportManager.qml" line="181"/>
         <source>Map Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de la carte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="113"/>
         <location filename="../../../src/qml/items/ImportManager.qml" line="195"/>
         <source>Remove file after import</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer le fichier après l&apos;importation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="119"/>
         <source>To avoid conflicts between raster and vector maps, all vector maps will be uninstalled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour éviter tout conflit entre les cartes matricielles et vectorielles, les cartes matricielles seront désinstallées.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="144"/>
         <source>Raster map imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartes matricielles importées</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="163"/>
         <source>Import Vector Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer les cartes vectorielles</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="201"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour éviter tout conflit entre les cartes matricielles et vectorielles, les cartes matricielles seront désinstallées.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="226"/>
         <source>Vector map imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartes vectorielles importées</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="245"/>
@@ -1722,11 +1710,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="301"/>
         <source>Data import error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Error importing flight route</source>
-        <translation type="vanished">Erreur lors de l&apos;importation de la route</translation>
+        <translation>Erreur lors de l&apos;importation des données</translation>
     </message>
 </context>
 <context>
@@ -2068,27 +2052,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;You can now import raster or vector maps into this app. Typically, this could be an official ICAO map of your country or a high-detail map for a particular region. If you are interested, look at the section &apos;Advanced Use&apos; of the manual.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;The style of the basemap has been updated. Aerialways, such as cable cars or gondolas, are now shown very prominently in bright red. Railway lines have become more visible.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Le style du fond de carte a été mis à jour. Les téléphériques sont maintenant indiqués en rouge vif, et les chemins de fer sont également plus visibles.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;If you are following a route, the app will now show the remaining distances to the next and the final waypoint, as well as ETE and ETA.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Si vous suivez une route, l&apos;application affichera la distance restante jusqu&apos;au prochain et au dernier points tournants, ainsi que l&apos;ETE et l&apos;ETA.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;&lt;strong&gt;Please test this new feature and report any issues!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Merci de tester cette nouvelle fonctionnalité et de nous signaler le moindre problème !&lt;/strong&gt;&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Users can now choose the primary position data source. &lt;strong&gt;If you use this app together with a flight simulator, you must select the &apos;traffic data receiver&apos; as the primary position data source.&lt;/strong&gt; Open the &apos;Settings&apos; page in the main menu to make the choice.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;L&apos;utilisateur peut maintenant choisir la source des données de position. &lt;strong&gt;Si vous utilisez un simulateur de vol, vous devez sélectionner &apos;récepteur de données de traffic&apos; comme source.&lt;/strong&gt; Ouvrez la page &apos;Paramètres&apos; dans le menu principal pour entrer votre choix.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;The openAIP aviation database has seen a major update, and much of our infrastructure had to be rebuilt. &lt;strong&gt;Please contact us if you spot any inconsistencies and errors!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Une mise à jour majeure a été appliquée à la base de données aéronautiques openAIP, et une grande partie de nos infrastructures a du être revue en conséquence. &lt;strong&gt;Merci de nous contacter si vous trouvez des erreurs !&lt;/strong&gt;&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Vous pouvez maintenant importer vos propres cartes au format matriciel ou vectoriel. Typiquemment, elles peuvent être utilisées pour détailler une région spécifique ou un pays non disponible. Si vous êtes intéressés, jettez un coup d'oeil à la section &apos;Utilisation avancée&apos; du manuel.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="110"/>
@@ -2475,11 +2439,7 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="330"/>
         <source>Computation incomplete. %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;</source>
-        <translation type="vanished">&lt;font color=&apos;red&apos;&gt;Calcul non-terminé. %1&lt;/font&gt;</translation>
+        <translation>Calcul non-terminé. %1</translation>
     </message>
 </context>
 <context>
@@ -2849,7 +2809,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/geomaps/MBTILES.cpp" line="110"/>
         <source>Internal Map Data</source>
         <comment>GeoMaps::MBTILES</comment>
-        <translation type="unfinished">Données de carte internes</translation>
+        <translation>Données de carte internes</translation>
     </message>
 </context>
 <context>
