@@ -1357,12 +1357,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="117"/>
         <source>Add to waypoint library</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj do biblioteki punktów</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="128"/>
         <source>Added %1 to waypoint library.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodano %1 do biblioteki punktów.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="308"/>
@@ -4000,7 +4000,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="377"/>
         <source>Route</source>
-        <translation type="unfinished">Trasa</translation>
+        <translation>Trasa</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="399"/>
@@ -4011,7 +4011,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="413"/>
         <source>Append to route</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj do trasy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="426"/>
@@ -4021,7 +4021,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="431"/>
         <source>Remove from route</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń z trasy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="447"/>
@@ -4031,17 +4031,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="559"/>
         <source>Modified entry %1 in library.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmodyfikowano wpis %1 w bibliotece.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="566"/>
         <source>Add waypoint to library</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj punkt trasy do biblioteki</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="573"/>
         <source>Added %1 to waypoint library.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodano %1 do biblioteki punktów.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="388"/>
@@ -4051,27 +4051,27 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="455"/>
         <source>Library</source>
-        <translation type="unfinished">Biblioteka</translation>
+        <translation>Biblioteka</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="467"/>
         <source>Add to library</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj do biblioteki</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="479"/>
         <source>Edit in library</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj w bibliotece</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="491"/>
         <source>Remove from library</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń z biblioteki</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="498"/>
         <source>Removed %1 from library.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usunięto %1 z biblioteki.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="514"/>
@@ -4137,52 +4137,52 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="34"/>
         <source>Waypoint Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteka punktów orientacyjnych</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="48"/>
         <source>Filter Waypoint Names</source>
-        <translation type="unfinished">Filtruj po nazwach Punktów Orientacyjnych</translation>
+        <translation>Filtruj po nazwach Punktów Orientacyjnych</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="95"/>
         <source>Edit …</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="106"/>
         <source>Remove …</source>
-        <translation type="unfinished">Usuń ...</translation>
+        <translation>Usuń ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="148"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Nie ma takiego punktu. Aby dodać tutaj punkt orientacyjny, podwójnie kliknij na punkcie na mapie.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="149"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Przepraszam!&lt;/h3&gt;&lt;p&gt;Żadne punkty orientacyjne nie pasują do Twoich filtrów.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Żadne punkty orientacyjne nie pasują do Twoich filtrów.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="173"/>
         <source>Remove from device?</source>
-        <translation type="unfinished">Usunąć z urządzenia?</translation>
+        <translation>Usunąć z urządzenia?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="183"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Po usunięciu punktu &lt;strong&gt;%1&lt;/strong&gt;, nie może być już odtworzony.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="195"/>
         <source>Waypoint removed from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkt orientacyjny usunięty z urządzenia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="214"/>
         <source>Waypoint modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkt orientacyjny zmodyfikowany</translation>
     </message>
 </context>
 <context>
@@ -7275,7 +7275,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="228"/>
         <source>Waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Punkty orientacyjne</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="305"/>
