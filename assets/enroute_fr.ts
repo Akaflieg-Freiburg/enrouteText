@@ -3872,8 +3872,18 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="498"/>
-        <source>Removed %1 from library.</source>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="589"/>
+        <source>Remove from device?</source>
+        <translation type="unfinished">Effacer de l&apos;appareil ?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="599"/>
+        <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="611"/>
+        <source>Waypoint removed from device</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3963,42 +3973,37 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation type="unfinished">Filtrer les points tournants</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="95"/>
-        <source>Edit …</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="106"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="108"/>
         <source>Remove …</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="148"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="155"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="149"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="156"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation type="unfinished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="173"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="180"/>
         <source>Remove from device?</source>
         <translation type="unfinished">Effacer de l&apos;appareil ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="183"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="190"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="195"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="202"/>
         <source>Waypoint removed from device</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="214"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="221"/>
         <source>Waypoint modified</source>
         <translation type="unfinished"></translation>
     </message>

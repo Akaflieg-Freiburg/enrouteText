@@ -4073,6 +4073,21 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="589"/>
+        <source>Remove from device?</source>
+        <translation type="unfinished">Rimuovere dal dispositivo?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="599"/>
+        <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="611"/>
+        <source>Waypoint removed from device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="388"/>
         <source>Direct</source>
         <translation>Diretto</translation>
@@ -4095,11 +4110,6 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="491"/>
         <source>Remove from library</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="498"/>
-        <source>Removed %1 from library.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4174,42 +4184,37 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="unfinished">Filtra i waypoints per nome</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="95"/>
-        <source>Edit …</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="106"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="108"/>
         <source>Remove …</source>
         <translation type="unfinished">Rimuovi…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="148"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="155"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="149"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="156"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation type="unfinished">&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessun waypoint risolve i criteri selezionati.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="173"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="180"/>
         <source>Remove from device?</source>
         <translation type="unfinished">Rimuovere dal dispositivo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="183"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="190"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="195"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="202"/>
         <source>Waypoint removed from device</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="214"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="221"/>
         <source>Waypoint modified</source>
         <translation type="unfinished"></translation>
     </message>
