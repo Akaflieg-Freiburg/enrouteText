@@ -1682,6 +1682,39 @@ con i dati del conto bancario.
     </message>
 </context>
 <context>
+    <name>GeoMaps::WaypointLibrary</name>
+    <message>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="92"/>
+        <source>Cannot open file &apos;%1&apos; for reading.</source>
+        <translation type="unfinished">Impossibile aprire il file &apos;%1&apos; in lettura.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="97"/>
+        <source>Cannot read data from file &apos;%1&apos;.</source>
+        <translation type="unfinished">Impossibile leggere il file &apos;%1&apos;.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="105"/>
+        <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
+        <translation type="unfinished">Impossibile analizzare il file &apos;%1&apos;. Motivo: %2.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="114"/>
+        <source>Cannot parse content of file &apos;%1&apos;.</source>
+        <translation type="unfinished">Impossibile analizzare il contenuto del file &apos;%1&apos;.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="164"/>
+        <source>Unable to open the file &apos;%1&apos; for writing.</source>
+        <translation type="unfinished">Impossibile aprire il file &apos;%1&apos; in scrittura.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="171"/>
+        <source>Unable to write to file &apos;%1&apos;.</source>
+        <translation type="unfinished">Impossibile scrivere nel file &apos;%1&apos;.</translation>
+    </message>
+</context>
+<context>
     <name>ImportManager</name>
     <message>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; could not be recognized.</source>
@@ -2078,8 +2111,17 @@ con i dati del conto bancario.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
+        <source>&lt;p&gt;As requested by many users, it is now possible to save waypoints and to build a small waypoint library.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="279"/>
+        <source>&lt;p&gt;We could need help with French translations. If you would like to help, if speak French and know how to use the GIT version control system, please let us know.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;You can now import raster or vector maps into this app. Typically, this could be an official ICAO map of your country or a high-detail map for a particular region. If you are interested, look at the section &apos;Advanced Use&apos; of the manual.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;In questa app ora puoi importare mappe raster o vettoriali. In genere, questa potrebbe essere una mappa ICAO ufficiale del tuo paese o una mappa dettagliata per una particolare regione. Se sei interessato, consulta la sezione &apos;Utilizzo Avanzato&apos; del manuale.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;In questa app ora puoi importare mappe raster o vettoriali. In genere, questa potrebbe essere una mappa ICAO ufficiale del tuo paese o una mappa dettagliata per una particolare regione. Se sei interessato, consulta la sezione &apos;Utilizzo Avanzato&apos; del manuale.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;The style of the basemap has been updated. Aerialways, such as cable cars or gondolas, are now shown very prominently in bright red. Railway lines have become more visible.&lt;/p&gt;</source>
