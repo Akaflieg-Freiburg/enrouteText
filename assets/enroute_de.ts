@@ -2059,7 +2059,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
         <source>&lt;p&gt;We could need help with French translations. If you would like to help, if speak French and know how to use the GIT version control system, please let us know.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Wir könnten Hilfe bei der Übersetzung ins Französische gebrauchen. Wenn Sie gern helfen würden, Französisch sprechen und mit dem GIT Versionierungssystem umgehen können, hören wir gern von Ihnen.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Wir könnten Hilfe bei der Übersetzung ins Französische gebrauchen. Wenn Sie gern helfen würden, Französisch sprechen und mit dem GIT-Versionierungssystem umgehen können, hören wir gern von Ihnen.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;You can now import raster or vector maps into this app. Typically, this could be an official ICAO map of your country or a high-detail map for a particular region. If you are interested, look at the section &apos;Advanced Use&apos; of the manual.&lt;/p&gt;</source>
