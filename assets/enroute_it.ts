@@ -1230,6 +1230,15 @@ con i dati del conto bancario.
     </message>
 </context>
 <context>
+    <name>ElevationInput</name>
+    <message>
+        <location filename="../../../src/qml/items/ElevationInput.qml" line="57"/>
+        <location filename="../../../src/qml/items/ElevationInput.qml" line="84"/>
+        <source>undefined</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>FirstRunDialog</name>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="32"/>
@@ -1684,32 +1693,33 @@ con i dati del conto bancario.
 <context>
     <name>GeoMaps::WaypointLibrary</name>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="92"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="180"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="212"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
         <translation>Impossibile aprire il file &apos;%1&apos; in lettura.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="97"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="217"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
         <translation>Impossibile leggere il file &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="105"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="225"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
         <translation>Impossibile analizzare il file &apos;%1&apos;. Motivo: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="114"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="234"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation>Impossibile analizzare il contenuto del file &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="164"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="284"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Impossibile aprire il file &apos;%1&apos; in scrittura.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="171"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="291"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Impossibile scrivere nel file &apos;%1&apos;.</translation>
     </message>
@@ -4081,9 +4091,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Nuovo piano di volo: diretto a %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="413"/>
         <source>Append to route</source>
-        <translation>Aggiungi al piano di volo</translation>
+        <translation type="vanished">Aggiungi al piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="426"/>
@@ -4091,14 +4100,28 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Aggiunto %1 al piano di volo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="431"/>
         <source>Remove from route</source>
-        <translation>Rimuovi dal piano di volo</translation>
+        <translation type="vanished">Rimuovi dal piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="447"/>
         <source>Removed %1 from route.</source>
         <translation>Rimosso %1 dal piano di volo.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="467"/>
+        <source>Add…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="479"/>
+        <source>Edit…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="491"/>
+        <source>Remove…</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="559"/>
@@ -4116,17 +4139,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>%1 aggiunto all&apos;archivio dei waypoints.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="589"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="588"/>
         <source>Remove from device?</source>
         <translation>Rimuovere dal dispositivo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="599"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="598"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Una volta che il waypoint &lt;strong&gt;%1&lt;/strong&gt; è rimosso, non può essere ripristinato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="611"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="609"/>
         <source>Waypoint removed from device</source>
         <translation>Waypoint rimosso dal dispositivo</translation>
     </message>
@@ -4136,24 +4159,31 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Diretto</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="413"/>
+        <source>Append</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="431"/>
+        <source>Remove</source>
+        <translation type="unfinished">Elimina</translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="455"/>
         <source>Library</source>
         <translation>Archivio</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="467"/>
         <source>Add to library</source>
-        <translation>Aggiungi all&apos;archivio</translation>
+        <translation type="vanished">Aggiungi all&apos;archivio</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="479"/>
         <source>Edit in library</source>
-        <translation>Modifica nell&apos;archivio</translation>
+        <translation type="vanished">Modifica nell&apos;archivio</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="491"/>
         <source>Remove from library</source>
-        <translation>Rimuovi dall&apos;archivio</translation>
+        <translation type="vanished">Rimuovi dall&apos;archivio</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="514"/>
@@ -4169,47 +4199,67 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>WaypointEditor</name>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="58"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="59"/>
         <source>Edit waypoint</source>
         <translation>Modifica waypoint</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="69"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="70"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="82"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="83"/>
         <source>undefined</source>
         <translation>non specificato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="87"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="126"/>
         <source>Format</source>
         <translation>Formato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="94"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="133"/>
         <source>Degrees</source>
         <translation>Gradi</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="94"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="133"/>
         <source>Degrees and Minutes</source>
         <translation>Gradi e Minuti</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="94"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="133"/>
         <source>Degrees, Minutes and Seconds</source>
         <translation>Gradi, Minuti e Secondi</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="99"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="143"/>
+        <source>Elevation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="155"/>
+        <source>Unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="162"/>
+        <source>Feet</source>
+        <translation type="unfinished">Piedi</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="162"/>
+        <source>Meter</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="93"/>
         <source>Latitude</source>
         <translation>Latitudine</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="115"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="109"/>
         <source>Longitude</source>
         <translation>Longitudine</translation>
     </message>
@@ -4218,47 +4268,133 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <name>WaypointLibrary</name>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="34"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="111"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="135"/>
         <source>Waypoint Library</source>
         <translation>Archivio di waypoints</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="48"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="89"/>
+        <source>Import …</source>
+        <translation type="unfinished">Importa…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="101"/>
+        <source>Share …</source>
+        <translation type="unfinished">Condividi…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="101"/>
+        <source>Export …</source>
+        <translation type="unfinished">Esporta…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="105"/>
+        <source>… to GeoJSON file</source>
+        <translation type="unfinished">… come file GeoJSON</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="113"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="137"/>
+        <source>Aborted</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="122"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="146"/>
+        <source>Waypoint library shared</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="124"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="148"/>
+        <source>Waypoint library exported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="129"/>
+        <source>… to GPX file</source>
+        <translation type="unfinished">… come file GPX</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="154"/>
+        <source>Open in other app …</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="158"/>
+        <source>… in GeoJSON format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="170"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="187"/>
+        <source>Waypoint library opened in other app</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="175"/>
+        <source>… in GPX format</source>
+        <translation type="unfinished">… in formato GPX</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="196"/>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="219"/>
         <source>Filter Waypoint Names</source>
         <translation>Filtra i waypoints per nome</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="108"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="279"/>
         <source>Remove …</source>
         <translation>Rimuovi …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="155"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="326"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
         <translatorcomment>I would add &quot;double tap or keep pressed&quot;.</translatorcomment>
         <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Non ci sono waypoints disponibili. Per aggiungere un waypoint qui, tocca due volte su un punto della mappa.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="156"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="327"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessun waypoint corrisponde ai criteri selezionati.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="180"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="351"/>
         <source>Remove from device?</source>
         <translation>Rimuovere dal dispositivo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="190"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="361"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Una volta che il waypoint &lt;strong&gt;%1&lt;/strong&gt; è rimosso, non può essere ripristinato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="202"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="373"/>
         <source>Waypoint removed from device</source>
         <translation>Waypoint rimosso dal dispositivo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="221"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="392"/>
+        <source>Clear waypoint library?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="402"/>
+        <source>Once cleared, the library cannot be restored.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="414"/>
+        <source>Waypoint library cleared</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="426"/>
         <source>Waypoint modified</source>
         <translation>Waypoint modificato</translation>
     </message>
