@@ -1236,7 +1236,7 @@ z danymi konta bankowego.
         <location filename="../../../src/qml/items/ElevationInput.qml" line="57"/>
         <location filename="../../../src/qml/items/ElevationInput.qml" line="84"/>
         <source>undefined</source>
-        <translation type="unfinished">niezdefiniowano</translation>
+        <translation>niezdefiniowano</translation>
     </message>
 </context>
 <context>
@@ -4081,17 +4081,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="467"/>
         <source>Add…</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="479"/>
         <source>Edit…</source>
-        <translation type="unfinished"></translation>
+        <translation>Edytuj...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="491"/>
         <source>Remove…</source>
-        <translation type="unfinished"></translation>
+        <translation>Usuń...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="559"/>
@@ -4131,12 +4131,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="413"/>
         <source>Append</source>
-        <translation type="unfinished"></translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="431"/>
         <source>Remove</source>
-        <translation type="unfinished">Usuń</translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="455"/>
@@ -4210,22 +4210,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="143"/>
         <source>Elevation</source>
-        <translation type="unfinished"></translation>
+        <translation>Wznoszenie</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="155"/>
         <source>Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednostka</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="162"/>
         <source>Feet</source>
-        <translation type="unfinished">Stopy</translation>
+        <translation>StopyStopy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="162"/>
         <source>Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>Metry</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="93"/>
@@ -4250,71 +4250,71 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="89"/>
         <source>Import …</source>
-        <translation type="unfinished">Import ...</translation>
+        <translation>Import ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="101"/>
         <source>Share …</source>
-        <translation type="unfinished">Udostępnij ...</translation>
+        <translation>Udostępnij ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="101"/>
         <source>Export …</source>
-        <translation type="unfinished">Export ...</translation>
+        <translation>Export ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="105"/>
         <source>… to GeoJSON file</source>
-        <translation type="unfinished">... do pliku GeoJSON</translation>
+        <translation>... do pliku GeoJSON</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="113"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="137"/>
         <source>Aborted</source>
-        <translation type="unfinished">Przerwane</translation>
+        <translation>Przerwane</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="122"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="146"/>
         <source>Waypoint library shared</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteka punktów podzielona</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="124"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="148"/>
         <source>Waypoint library exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteka punktów wyeksportowana</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="129"/>
         <source>… to GPX file</source>
-        <translation type="unfinished">... do pliku GPX</translation>
+        <translation>... do pliku GPX</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="154"/>
         <source>Open in other app …</source>
-        <translation type="unfinished">Otwórz w innej aplikacji ...</translation>
+        <translation>Otwórz w innej aplikacji ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="158"/>
         <source>… in GeoJSON format</source>
-        <translation type="unfinished">... w formacie GeoJSON</translation>
+        <translation>... w formacie GeoJSON</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="170"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="187"/>
         <source>Waypoint library opened in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteka punktów otwarta w innej aplikacji</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="175"/>
         <source>… in GPX format</source>
-        <translation type="unfinished">... w formacie GPX</translation>
+        <translation>... w formacie GPX</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="196"/>
         <source>Clear</source>
-        <translation type="unfinished">Wyczyść</translation>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="219"/>
@@ -4358,17 +4358,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="392"/>
         <source>Clear waypoint library?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyścić bibliotekę punktów?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="402"/>
         <source>Once cleared, the library cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Po usunięciu, biblioteka nie może być odtworzona.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="414"/>
         <source>Waypoint library cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteka punktów wyczyszczona</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="426"/>
