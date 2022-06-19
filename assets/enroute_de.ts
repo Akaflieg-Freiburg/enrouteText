@@ -1704,7 +1704,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="143"/>
         <source>Error reading waypoints from file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Lesen der Wegpunkte aus der Datei &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="216"/>
@@ -1777,17 +1777,17 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="235"/>
         <source>Import waypoint library</source>
-        <translation type="unfinished"></translation>
+        <translation>Wegpunktbibliothek importieren</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="244"/>
         <source>Skip over waypoint that already exist in the library</source>
-        <translation type="unfinished"></translation>
+        <translation>Bereits bestehende Wegpunkte überspringen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="261"/>
         <source>Waypoints imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Wegpunkte importiert</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="280"/>
