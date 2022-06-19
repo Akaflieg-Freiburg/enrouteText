@@ -1693,33 +1693,37 @@ con i dati del conto bancario.
 <context>
     <name>GeoMaps::WaypointLibrary</name>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="180"/>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="212"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="105"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
         <translation>Impossibile aprire il file &apos;%1&apos; in lettura.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="217"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="110"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
         <translation>Impossibile leggere il file &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="225"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="118"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
         <translation>Impossibile analizzare il file &apos;%1&apos;. Motivo: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="234"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="127"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation>Impossibile analizzare il contenuto del file &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="284"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="143"/>
+        <source>Error reading waypoints from file &apos;%1&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="216"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Impossibile aprire il file &apos;%1&apos; in scrittura.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="291"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="223"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Impossibile scrivere nel file &apos;%1&apos;.</translation>
     </message>
@@ -1731,24 +1735,24 @@ con i dati del conto bancario.
         <translation type="vanished">Il file &lt;strong&gt;%1&lt;/strong&gt; è di un tipo non riconosciuto.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="61"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="65"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; cannot be recognized.</source>
         <translation>Il tipo file &lt;strong&gt;%1&lt;/strong&gt; non riconosciuto.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="81"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="85"/>
         <source>Import Raster Map</source>
         <translation>Importa mappe raster</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="89"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="164"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="93"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="168"/>
         <source>Enter a name for this map.</source>
         <translation>Inserisci il nome della mappa.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="99"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="174"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="103"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="178"/>
         <source>Map Name</source>
         <translation>Nome mappa</translation>
     </message>
@@ -1757,47 +1761,62 @@ con i dati del conto bancario.
         <translation type="vanished">Rimuovi il file dopo l&apos;importazione</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="113"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="117"/>
         <source>To avoid conflicts between raster and vector maps, all vector maps will be uninstalled.</source>
         <translation>Per evitare il conflitto tra mappe raster e vettoriali, tutte le mappe vettoriali saranno disinstallate.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="137"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="141"/>
         <source>Raster map imported</source>
         <translation>Mappe raster importate</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="156"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="160"/>
         <source>Import Vector Map</source>
         <translation>Importa mappe vettoriali</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="188"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="192"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
         <translation>Per evitare il conflitto tra mappe raster e vettoriali, tutte le mappe raster saranno disinstallate.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="212"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="216"/>
         <source>Vector map imported</source>
         <translation>Mapper vettoriali importate</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="231"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="235"/>
+        <source>Import waypoint library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="244"/>
+        <source>Skip over waypoint that already exist in the library</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="261"/>
+        <source>Waypoints imported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="280"/>
         <source>Import Flight Route?</source>
         <translation>Importare il piano di volo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="238"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="287"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>State per sovrascrivere il piano di volo. Una volta sovrascritto non potrà essere ripristinato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="266"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="315"/>
         <source>Flight route imported</source>
         <translation>Piano di volo importato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="287"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="336"/>
         <source>Data import error</source>
         <translation>Errore nei dati importati</translation>
     </message>
@@ -2412,47 +2431,47 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
 <context>
     <name>MobileAdaptor</name>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="50"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="53"/>
         <source>Import data</source>
         <translation>Importa i dati</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="52"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="55"/>
         <source>All files (*)</source>
         <translation>Tutti i file (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="78"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="82"/>
         <source>No suitable file sharing app could be found.</source>
         <translation>Nessuna app trovata per la condivisione del file.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="81"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="85"/>
         <source>Export flight route</source>
         <translation>Esporta il piano di volo</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="83"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="87"/>
         <source>%1 (*.%2);;All files (*)</source>
         <translation>%1 (*.%2);;tutti i files (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="90"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="94"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Impossibile aprire il file &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="94"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="98"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Impossibile scrivere il file &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="114"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="118"/>
         <source>No suitable app for viewing this data could be found.</source>
         <translation>Nessuna app trovata per la visualizzazione di questi dati.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="120"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="124"/>
         <source>Unable to open data in other app.</source>
         <translation>Impossibile aprire i dati in un&apos;altra app.</translation>
     </message>
@@ -4348,53 +4367,53 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Filtra i waypoints per nome</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="279"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="277"/>
         <source>Remove …</source>
         <translation>Rimuovi …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="326"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="324"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
         <translatorcomment>I would add &quot;double tap or keep pressed&quot;.</translatorcomment>
         <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Non ci sono waypoints disponibili. Per aggiungere un waypoint qui, tocca due volte su un punto della mappa.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="327"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="325"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessun waypoint corrisponde ai criteri selezionati.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="351"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="349"/>
         <source>Remove from device?</source>
         <translation>Rimuovere dal dispositivo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="361"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="359"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Una volta che il waypoint &lt;strong&gt;%1&lt;/strong&gt; è rimosso, non può essere ripristinato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="373"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="371"/>
         <source>Waypoint removed from device</source>
         <translation>Waypoint rimosso dal dispositivo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="392"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="390"/>
         <source>Clear waypoint library?</source>
         <translation>Cancellare l&apos;archivio waypoint?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="402"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="400"/>
         <source>Once cleared, the library cannot be restored.</source>
         <translation>Se cancellato, l&apos;archivio waypoint non può essere ripristinato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="414"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="412"/>
         <source>Waypoint library cleared</source>
         <translation>Archivio waypoint cancellato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="426"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="424"/>
         <source>Waypoint modified</source>
         <translation>Waypoint modificato</translation>
     </message>
