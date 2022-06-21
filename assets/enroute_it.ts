@@ -1376,6 +1376,11 @@ con i dati del conto bancario.
         <translation>Inverti</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="412"/>
+        <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below.&lt;/p&gt;</source>
+        <translation>&lt;h3&gt;Piano di volo vuoto&lt;/h3&gt;&lt;p&gt;Usare il tasto &lt;strong&gt;Aggiungi waypoint&lt;/strong&gt; qui sotto.&lt;/p&gt;</translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="489"/>
         <source>Direction from</source>
         <translation>Direzione da</translation>
@@ -1421,9 +1426,8 @@ con i dati del conto bancario.
         <translation>Vento</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="412"/>
         <source>&lt;h2&gt;Empty Route&lt;/h2&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below.&lt;/p&gt;</source>
-        <translation>&lt;h2&gt;Piano di volo vuoto&lt;/h2&gt;&lt;p&gt;Usare il tasto &lt;strong&gt;Aggiungi waypoint&lt;/strong&gt; qui sotto.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h2&gt;Piano di volo vuoto&lt;/h2&gt;&lt;p&gt;Usare il tasto &lt;strong&gt;Aggiungi waypoint&lt;/strong&gt; qui sotto.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Direction</source>
@@ -1693,37 +1697,37 @@ con i dati del conto bancario.
 <context>
     <name>GeoMaps::WaypointLibrary</name>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="106"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="107"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
         <translation>Impossibile aprire il file &apos;%1&apos; in lettura.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="111"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="112"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
         <translation>Impossibile leggere il file &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="119"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="120"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
         <translation>Impossibile analizzare il file &apos;%1&apos;. Motivo: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="128"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="129"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation>Impossibile analizzare il contenuto del file &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="148"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="153"/>
         <source>Error reading waypoints from file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="221"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="226"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Impossibile aprire il file &apos;%1&apos; in scrittura.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="228"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="233"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Impossibile scrivere nel file &apos;%1&apos;.</translation>
     </message>
@@ -1755,24 +1759,24 @@ con i dati del conto bancario.
         <translation type="unfinished">Rotta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="117"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="118"/>
         <source>Library</source>
         <translation type="unfinished">Archivio</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="147"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="149"/>
         <source>Import Raster Map</source>
         <translation>Importa mappe raster</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="155"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="229"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="157"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="231"/>
         <source>Enter a name for this map.</source>
         <translation>Inserisci il nome della mappa.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="165"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="239"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="167"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="241"/>
         <source>Map Name</source>
         <translation>Nome mappa</translation>
     </message>
@@ -1781,62 +1785,62 @@ con i dati del conto bancario.
         <translation type="vanished">Rimuovi il file dopo l&apos;importazione</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="179"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="181"/>
         <source>To avoid conflicts between raster and vector maps, all vector maps will be uninstalled.</source>
         <translation>Per evitare il conflitto tra mappe raster e vettoriali, tutte le mappe vettoriali saranno disinstallate.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="203"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="205"/>
         <source>Raster map imported</source>
         <translation>Mappe raster importate</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="221"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="223"/>
         <source>Import Vector Map</source>
         <translation>Importa mappe vettoriali</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="253"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="255"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
         <translation>Per evitare il conflitto tra mappe raster e vettoriali, tutte le mappe raster saranno disinstallate.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="277"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="279"/>
         <source>Vector map imported</source>
         <translation>Mapper vettoriali importate</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="295"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="297"/>
         <source>Import waypoint library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="304"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="306"/>
         <source>Skip over waypoint that already exist in the library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="326"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="328"/>
         <source>Waypoints imported</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="344"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="346"/>
         <source>Import Flight Route?</source>
         <translation>Importare il piano di volo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="351"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="353"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>State per sovrascrivere il piano di volo. Una volta sovrascritto non potrà essere ripristinato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="376"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="378"/>
         <source>Flight route imported</source>
         <translation>Piano di volo importato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="397"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="399"/>
         <source>Data import error</source>
         <translation>Errore nei dati importati</translation>
     </message>
