@@ -1694,37 +1694,37 @@ z danymi konta bankowego.
 <context>
     <name>GeoMaps::WaypointLibrary</name>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="105"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="106"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
         <translation>Nie można otworzyć pliku &apos;%1&apos; do odczytu.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="110"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="111"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
         <translation>Nie można odczytać danych z pliku &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="118"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="119"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
         <translation>Nie można prawidłowo odczytać pliku &apos;%1&apos;. Powód: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="127"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="128"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation>Nie można prawidłowo odczytać pliku &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="143"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="148"/>
         <source>Error reading waypoints from file &apos;%1&apos;.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="216"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="221"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Nie można otworzyć pliku &apos;%1&apos; do zapisu.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="223"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="228"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Brak możliwości zapisu do pliku `%1`.</translation>
     </message>
@@ -1736,24 +1736,44 @@ z danymi konta bankowego.
         <translation type="vanished">Typ pliku &lt;strong&gt;%1&lt;/strong&gt; nie może zostać rozpoznany.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="65"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="70"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; cannot be recognized.</source>
         <translation>Typ pliku &lt;strong&gt;%1&lt;/strong&gt; nie może zostać rozpoznany.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="85"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="89"/>
+        <source>Import Waypoint Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="97"/>
+        <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="107"/>
+        <source>Route</source>
+        <translation type="unfinished">Trasa</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="117"/>
+        <source>Library</source>
+        <translation type="unfinished">Biblioteka</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="147"/>
         <source>Import Raster Map</source>
         <translation>Importuj mapę rastrową</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="93"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="168"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="155"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="229"/>
         <source>Enter a name for this map.</source>
         <translation>Wprowadź nazwę dla tej mapy.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="103"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="178"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="165"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="239"/>
         <source>Map Name</source>
         <translation>Nazwa mapy</translation>
     </message>
@@ -1762,62 +1782,62 @@ z danymi konta bankowego.
         <translation type="vanished">Usuń plik po imporcie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="117"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="179"/>
         <source>To avoid conflicts between raster and vector maps, all vector maps will be uninstalled.</source>
         <translation>Aby uniknąć konfliktów pomiędzy mapami rastrowymi i wektorowymi, wszystkie mapy wektorowe zostaną odinstalowane.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="141"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="203"/>
         <source>Raster map imported</source>
         <translation>Mapa rastrowa została zaimportowana</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="160"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="221"/>
         <source>Import Vector Map</source>
         <translation>Importuj mapę wektorową</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="192"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="253"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
         <translation>Aby uniknąć konfliktów pomiędzy mapami rastrowymi i wektorowymi, wszystkie mapy rastrowe zostaną odinstalowane.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="216"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="277"/>
         <source>Vector map imported</source>
         <translation>Mapa wektorowa została zaimportowana</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="235"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="295"/>
         <source>Import waypoint library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="244"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="304"/>
         <source>Skip over waypoint that already exist in the library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="261"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="326"/>
         <source>Waypoints imported</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="280"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="344"/>
         <source>Import Flight Route?</source>
         <translation>Zaimportować plan lotu?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="287"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="351"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>To nadpisze obecną trasę. Raz nadpisana obecna trasa lotu nie może zostać odzyskana.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="315"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="376"/>
         <source>Flight route imported</source>
         <translation>Plan lotu zaimportowany</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="336"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="397"/>
         <source>Data import error</source>
         <translation>Błąd importu danych</translation>
     </message>
@@ -2404,47 +2424,47 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
 <context>
     <name>MobileAdaptor</name>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="53"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="54"/>
         <source>Import data</source>
         <translation>Import danych</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="55"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="56"/>
         <source>All files (*)</source>
         <translation>Wszystkie pliki (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="82"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="83"/>
         <source>No suitable file sharing app could be found.</source>
         <translation>Nie można znaleźć odpowiedniej aplikacji udostępniającej pliki.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="85"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="86"/>
         <source>Export flight route</source>
         <translation>Wyeksportuj trasę lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="87"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="88"/>
         <source>%1 (*.%2);;All files (*)</source>
         <translation>%1 (*.%2);;Wszystkie pliki (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="94"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="95"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Nie można otworzyć pliku &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="98"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="99"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Nie można zapisać do pliku &lt;strong%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="118"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="119"/>
         <source>No suitable app for viewing this data could be found.</source>
         <translation>Nie można znaleźć odpowiedniej aplikacji do przeglądania tych danych.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="124"/>
+        <location filename="../../../src/MobileAdaptor_share.cpp" line="125"/>
         <source>Unable to open data in other app.</source>
         <translation>Nie można otworzyć danych w innej aplikacji.</translation>
     </message>
@@ -2515,43 +2535,39 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
 <context>
     <name>Navigation::FlightRoute</name>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="256"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
-        <translation>Nie można otworzyć pliku &apos;%1&apos; do odczytu.</translation>
+        <translation type="vanished">Nie można otworzyć pliku &apos;%1&apos; do odczytu.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="260"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
-        <translation>Nie można odczytać danych z pliku &apos;%1&apos;.</translation>
+        <translation type="vanished">Nie można odczytać danych z pliku &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="267"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
-        <translation>Nie można prawidłowo odczytać pliku &apos;%1&apos;. Powód: %2.</translation>
+        <translation type="vanished">Nie można prawidłowo odczytać pliku &apos;%1&apos;. Powód: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="274"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
-        <translation>Nie można prawidłowo odczytać pliku &apos;%1&apos;.</translation>
+        <translation type="vanished">Nie można prawidłowo odczytać pliku &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="384"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="345"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Nie można otworzyć pliku &apos;%1&apos; do zapisu.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="390"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="351"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Nie można zapisać danych do pliku &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="400"/>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="449"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="361"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="410"/>
         <source>Flight Route</source>
         <translation>Trasa lotnicza</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="133"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="135"/>
         <source>Total: %1</source>
         <translation>Suma: %1</translation>
     </message>
@@ -2568,39 +2584,42 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
         <translation type="vanished">Suma: %1 mil</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="145"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="147"/>
         <source>Cruise speed not specified.</source>
         <translation>Prędkość przelotowa nie jest ustawiona.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="148"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="150"/>
         <source>Fuel consumption not specified.</source>
         <translation>Spalanie paliwa nie jest ustawione.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="151"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="153"/>
         <source>Wind speed not specified.</source>
         <translation>Prędkość wiatru nie jest ustawiona.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="154"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="156"/>
         <source>Wind direction not specified.</source>
         <translation>Kierunek wiatru nie jest ustawiony.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="158"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="160"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Obliczenia skończone. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="149"/>
         <source>Error opening file &apos;%1&apos;</source>
-        <translation>Błąd przy otwieraniu pliku &apos;%1&apos;</translation>
+        <translation type="vanished">Błąd przy otwieraniu pliku &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="295"/>
         <source>Error interpreting GPX file: no valid route found.</source>
-        <translation>Błąd przy odczycie pliku GPX: nie znaleziono prawidłowej trasy.</translation>
+        <translation type="vanished">Błąd przy odczycie pliku GPX: nie znaleziono prawidłowej trasy.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="153"/>
+        <source>Error reading file &apos;%1&apos;</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
