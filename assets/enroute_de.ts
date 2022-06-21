@@ -4086,7 +4086,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="399"/>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="537"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="557"/>
         <source>New flight route: direct to %1.</source>
         <translation>Neue Route: direkt zu %1.</translation>
     </message>
@@ -4096,6 +4096,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="426"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="446"/>
         <source>Added %1 to route.</source>
         <translation>%1 zur Route hinzugefügt.</translation>
     </message>
@@ -4104,52 +4105,52 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Aus der Route entfernen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="447"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="467"/>
         <source>Removed %1 from route.</source>
         <translation>%1 aus der Route entfernt.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="467"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="487"/>
         <source>Add…</source>
         <translation>Hinzufügen ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="479"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="499"/>
         <source>Edit…</source>
         <translation>Bearbeiten ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="491"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="511"/>
         <source>Remove…</source>
         <translation>Entfernen ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="559"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="579"/>
         <source>Modified entry %1 in library.</source>
         <translation>Bibliothekseintrag %1 geändert.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="566"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="586"/>
         <source>Add waypoint to library</source>
         <translation>Wegpunkt zur Bibliothek hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="573"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="593"/>
         <source>Added %1 to waypoint library.</source>
         <translation>%1 zur Wegpunktbibliothek hinzugefügt.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="588"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="608"/>
         <source>Remove from device?</source>
         <translation>Vom Gerät löschen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="598"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="618"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Das Löschen des Wegpunkts &lt;strong&gt;%1&lt;/strong&gt; kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="609"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="629"/>
         <source>Waypoint removed from device</source>
         <translation>Wegpunkt gelöscht.</translation>
     </message>
@@ -4165,11 +4166,16 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="431"/>
+        <source>Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="451"/>
         <source>Remove</source>
         <translation>Entfernen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="455"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="475"/>
         <source>Library</source>
         <translation>Bibliothek</translation>
     </message>
@@ -4186,12 +4192,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Aus der Bibliothek löschen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="514"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="534"/>
         <source>Overwrite current flight route?</source>
         <translation>Aktuelle Route überschreiben?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="524"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="544"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation>Die aktuelle Route kann nach dem Überschreiben nicht wiederhergestellt werden.</translation>
     </message>

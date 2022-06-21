@@ -4124,7 +4124,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="399"/>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="537"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="557"/>
         <source>New flight route: direct to %1.</source>
         <translation>Nuovo piano di volo: diretto a %1.</translation>
     </message>
@@ -4134,6 +4134,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="426"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="446"/>
         <source>Added %1 to route.</source>
         <translation>Aggiunto %1 al piano di volo.</translation>
     </message>
@@ -4142,52 +4143,52 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Rimuovi dal piano di volo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="447"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="467"/>
         <source>Removed %1 from route.</source>
         <translation>Rimosso %1 dal piano di volo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="467"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="487"/>
         <source>Add…</source>
         <translation>Aggiungi...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="479"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="499"/>
         <source>Edit…</source>
         <translation>Modifica...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="491"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="511"/>
         <source>Remove…</source>
         <translation>Elimina...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="559"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="579"/>
         <source>Modified entry %1 in library.</source>
         <translation>Modifica %1 nell&apos;archivio.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="566"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="586"/>
         <source>Add waypoint to library</source>
         <translation>Aggiungi waypoint all&apos;archivio</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="573"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="593"/>
         <source>Added %1 to waypoint library.</source>
         <translation>%1 aggiunto all&apos;archivio dei waypoints.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="588"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="608"/>
         <source>Remove from device?</source>
         <translation>Rimuovere dal dispositivo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="598"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="618"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Una volta che il waypoint &lt;strong&gt;%1&lt;/strong&gt; è rimosso, non può essere ripristinato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="609"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="629"/>
         <source>Waypoint removed from device</source>
         <translation>Waypoint rimosso dal dispositivo</translation>
     </message>
@@ -4203,11 +4204,16 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="431"/>
+        <source>Insert</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="451"/>
         <source>Remove</source>
         <translation>Elimina</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="455"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="475"/>
         <source>Library</source>
         <translation>Archivio</translation>
     </message>
@@ -4224,12 +4230,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Rimuovi dall&apos;archivio</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="514"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="534"/>
         <source>Overwrite current flight route?</source>
         <translation>Sovrascrivere il piano di volo corrente?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="524"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="544"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation>Una volta sovrascritto, il piano di volo non potrà essere ripristinato.</translation>
     </message>
