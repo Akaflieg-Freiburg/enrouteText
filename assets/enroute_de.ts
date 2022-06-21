@@ -1731,22 +1731,22 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="89"/>
         <source>Import Waypoint Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Wegpunktdaten importieren</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="97"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei enthält mehrere Wegpunkte. Als Route oder in die Wegpunktbibliothek importieren?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="107"/>
         <source>Route</source>
-        <translation type="unfinished">Route</translation>
+        <translation>Route</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="117"/>
         <source>Library</source>
-        <translation type="unfinished">Bibliothek</translation>
+        <translation>Bibliothek</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="147"/>
@@ -2613,7 +2613,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="153"/>
         <source>Error reading file &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Lesen der Datei &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4167,7 +4167,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="431"/>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Einfügen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="451"/>
