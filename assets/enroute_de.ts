@@ -4130,7 +4130,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="444"/>
         <source>Inserted %1 into route.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 in Route eingefügt.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="583"/>
