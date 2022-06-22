@@ -34,7 +34,16 @@ zoom and pan the map to your liking.  The figures :ref:`movingMapGround` and
 Initially, your own position is shown as a blue circle (or gray if the system
 has not yet acquired a valid position).  Once you are moving, your own position
 is shown as a blue arrow shape.  The flight path vector shows the projected
-track for the next five minutes.
+track for the next five minutes, sized so that each of the black and white
+segments corresponds to one minute.
+
+.. _flightVector:
+.. figure:: ./flightVector.png
+   :scale: 30 %
+   :align: center
+   :alt: Projected flight path for the next five minutes
+
+   Projected flight path for the next five minutes
 
 .. note:: When you start the app for the first time, you will probably see a
    bright red aircraft symbol in the lower left corner of the map. This symbol
