@@ -97,5 +97,5 @@ Done.
 -----
 
 You are now ready to go.  There are many things that you could set up at this
-stage, but we recommend that you simply look around any play with the app.
+stage, but we recommend that you simply look around and play with the app.
 Continue with the next section and take it for your first flight.
