@@ -25,6 +25,12 @@ waypoint description dialog opens.  In that dialog, click on "Library/Add…"
 Before saving, it is possible to assign a name and to edit the coordinates of
 the waypoint.
 
+.. note:: 
+  To avoid data duplication, it is not possible to add airfields, navaids or 
+  reporting points to the waypoint library. If you tap-and-hold onto an 
+  airfield, you will find that the Item "Library" is disabled in the waypoint
+  description dialog.
+
 
 View the waypoint library
 -------------------------
