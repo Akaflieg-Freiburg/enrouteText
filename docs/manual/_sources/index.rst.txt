@@ -60,9 +60,10 @@ Table of contents
    :name: sec-steps
 
    02-steps/traffic
-   02-steps/plan
    02-steps/nearby
    02-steps/weather
+   02-steps/plan
+   02-steps/waypointLibrary
    02-steps/simulator
    02-steps/donate
 
