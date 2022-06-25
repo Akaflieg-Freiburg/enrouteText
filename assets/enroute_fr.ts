@@ -4183,37 +4183,42 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation type="unfinished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="349"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="343"/>
+        <source>Error exporting data…</source>
+        <translation type="unfinished">Erreur lors de l&apos;exportation des données…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="369"/>
         <source>Remove from device?</source>
         <translation type="unfinished">Effacer de l&apos;appareil ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="359"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="379"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="371"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="391"/>
         <source>Waypoint removed from device</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="390"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="410"/>
         <source>Clear waypoint library?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="400"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="420"/>
         <source>Once cleared, the library cannot be restored.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="412"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="432"/>
         <source>Waypoint library cleared</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="424"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="444"/>
         <source>Waypoint modified</source>
         <translation type="unfinished"></translation>
     </message>

@@ -4393,37 +4393,42 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Żadne punkty orientacyjne nie pasują do Twoich filtrów.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="349"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="343"/>
+        <source>Error exporting data…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="369"/>
         <source>Remove from device?</source>
         <translation>Usunąć z urządzenia?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="359"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="379"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Po usunięciu punktu &lt;strong&gt;%1&lt;/strong&gt;, nie może być już odtworzony.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="371"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="391"/>
         <source>Waypoint removed from device</source>
         <translation>Punkt orientacyjny usunięty z urządzenia</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="390"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="410"/>
         <source>Clear waypoint library?</source>
         <translation>Wyczyścić bibliotekę punktów?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="400"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="420"/>
         <source>Once cleared, the library cannot be restored.</source>
         <translation>Po usunięciu, biblioteka nie może być odtworzona.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="412"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="432"/>
         <source>Waypoint library cleared</source>
         <translation>Biblioteka punktów wyczyszczona</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="424"/>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="444"/>
         <source>Waypoint modified</source>
         <translation>Punkt orientacyjny zmodyfikowany</translation>
     </message>
