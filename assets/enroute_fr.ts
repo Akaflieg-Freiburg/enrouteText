@@ -1208,7 +1208,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <location filename="../../../src/qml/items/ElevationInput.qml" line="57"/>
         <location filename="../../../src/qml/items/ElevationInput.qml" line="84"/>
         <source>undefined</source>
-        <translation type="unfinished">non défini</translation>
+        <translation>non défini</translation>
     </message>
 </context>
 <context>
@@ -1329,12 +1329,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="117"/>
         <source>Add to waypoint library</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter à la bibiothèque des points tournants</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="128"/>
         <source>Added %1 to waypoint library.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ajouté à la bibiothèque des points tournants</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="283"/>
@@ -1365,10 +1365,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="385"/>
         <source>Route</source>
         <translation>Route</translation>
-    </message>
-    <message>
-        <source>&lt;h2&gt;Empty Route&lt;/h2&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h2&gt;Route vide&lt;/h2&gt;&lt;p&gt;Utilisez le bouton &apos;Ajouter un point tournant&apos; ci-dessous.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="489"/>
@@ -1664,37 +1660,37 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="107"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
-        <translation type="unfinished">Ouverture du fichier &apos;%1&apos; pour lecture impossible.</translation>
+        <translation>Ouverture du fichier &apos;%1&apos; pour lecture impossible.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="112"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
-        <translation type="unfinished">Lecture du fichier &apos;%1&apos; impossible.</translation>
+        <translation>Lecture du fichier &apos;%1&apos; impossible.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="120"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
-        <translation type="unfinished">Analyse du fichier &apos;%1&apos; impossible. Cause: %2.</translation>
+        <translation>Analyse du fichier &apos;%1&apos; impossible. Cause: %2.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="129"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
-        <translation type="unfinished">Analyse du contenu du fichier &apos;%1&apos; impossible.</translation>
+        <translation>Analyse du contenu du fichier &apos;%1&apos; impossible.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="153"/>
         <source>Error reading waypoints from file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de la lecture des points tournants depuis le fichier &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="226"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished">Ouverture du fichier &apos;%1&apos; pour écriture impossible.</translation>
+        <translation>Ouverture du fichier &apos;%1&apos; pour écriture impossible.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="233"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished">Ecriture du fichier &apos;%1&apos; impossible.</translation>
+        <translation>Ecriture du fichier &apos;%1&apos; impossible.</translation>
     </message>
 </context>
 <context>
@@ -1707,22 +1703,22 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="89"/>
         <source>Import Waypoint Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer des points tournants</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="97"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier contient une liste de points tournants. Importer en tant que route, ou ajouter à la bibiothèque des points tournants ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="107"/>
         <source>Route</source>
-        <translation type="unfinished">Route</translation>
+        <translation>Route</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="118"/>
         <source>Library</source>
-        <translation type="unfinished">Bibliothèque</translation>
+        <translation>Bibliothèque</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="149"/>
@@ -1740,10 +1736,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <location filename="../../../src/qml/items/ImportManager.qml" line="241"/>
         <source>Map Name</source>
         <translation>Nom de la carte</translation>
-    </message>
-    <message>
-        <source>Remove file after import</source>
-        <translation type="vanished">Effacer le fichier après l&apos;importation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="181"/>
@@ -1773,17 +1765,17 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="297"/>
         <source>Import waypoint library</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer une bibiothèque de points tournants</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="306"/>
         <source>Skip over waypoint that already exist in the library</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorer les points tournants qui existent déjà dans la bibiothèque</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="328"/>
         <source>Waypoints imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Points tournants importés</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="346"/>
@@ -2145,16 +2137,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;As requested by many users, it is now possible to save waypoints and to build a small waypoint library.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Comme demandé par beaucoup d&apos;utilisateurs, il est maintenant possible d&apos;importer des points tournants.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
         <source>&lt;p&gt;We could need help with French translations. If you would like to help, if speak French and know how to use the GIT version control system, please let us know.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;You can now import raster or vector maps into this app. Typically, this could be an official ICAO map of your country or a high-detail map for a particular region. If you are interested, look at the section &apos;Advanced Use&apos; of the manual.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Vous pouvez maintenant importer vos propres cartes au format matriciel ou vectoriel. Typiquemment, elles peuvent être utilisées pour détailler une région spécifique ou un pays non disponible. Si vous êtes intéressés, jettez un coup d&apos;oeil à la section &apos;Utilisation avancée&apos; du manuel.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Nous aurions besoin d&apos;un peu d&apos;aide pour maintenir la traduction de l&apos;application en français. Si vous voulez nous aider et que vous êtes capables d&apos;utiliser GIT, n&apos;hésitez pas à nous contacter.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="110"/>
@@ -2445,22 +2433,6 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
 <context>
     <name>Navigation::FlightRoute</name>
     <message>
-        <source>Cannot open file &apos;%1&apos; for reading.</source>
-        <translation type="vanished">Ouverture du fichier &apos;%1&apos; pour lecture impossible.</translation>
-    </message>
-    <message>
-        <source>Cannot read data from file &apos;%1&apos;.</source>
-        <translation type="vanished">Lecture du fichier &apos;%1&apos; impossible.</translation>
-    </message>
-    <message>
-        <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
-        <translation type="vanished">Analyse du fichier &apos;%1&apos; impossible. Cause: %2.</translation>
-    </message>
-    <message>
-        <source>Cannot parse content of file &apos;%1&apos;.</source>
-        <translation type="vanished">Analyse du contenu du fichier &apos;%1&apos; impossible.</translation>
-    </message>
-    <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="383"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Ouverture du fichier &apos;%1&apos; pour écriture impossible.</translation>
@@ -2507,17 +2479,9 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
         <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Calcul impossible. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Error opening file &apos;%1&apos;</source>
-        <translation type="vanished">Erreur lors du l&apos;ouverture du fichier &apos;%1&apos;</translation>
-    </message>
-    <message>
-        <source>Error interpreting GPX file: no valid route found.</source>
-        <translation type="vanished">Erreur lors de l&apos;interprétation du fichier GPX: pas de route valide.</translation>
-    </message>
-    <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="153"/>
         <source>Error reading file &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de la lecture du fichier &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -3912,7 +3876,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="377"/>
         <source>Route</source>
-        <translation type="unfinished">Route</translation>
+        <translation>Route</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="388"/>
@@ -3933,12 +3897,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="431"/>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Insérer</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="444"/>
         <source>Inserted %1 into route.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 inséré dans la route.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="465"/>
@@ -3948,22 +3912,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="473"/>
         <source>Library</source>
-        <translation type="unfinished">Bibliothèque</translation>
+        <translation>Bibliothèque</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="612"/>
         <source>Remove from device?</source>
-        <translation type="unfinished">Effacer de l&apos;appareil ?</translation>
+        <translation>Effacer de l&apos;appareil ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="622"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une fois le point tournant &lt;strong&gt;%1&lt;/strong&gt; effacé, il ne peut pas être restauré.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="633"/>
         <source>Waypoint removed from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Point tournant effacé de l&apos;appareil</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="538"/>
@@ -3973,27 +3937,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="413"/>
         <source>Append</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="449"/>
         <source>Remove</source>
-        <translation type="unfinished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="485"/>
         <source>Add…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="515"/>
         <source>Edit…</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="497"/>
         <source>Remove…</source>
-        <translation type="unfinished"></translation>
+        <translation>Supprimer…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="548"/>
@@ -4003,17 +3967,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="583"/>
         <source>Modified entry %1 in library.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrée %1 de la bibiothèque modifiée.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="590"/>
         <source>Add waypoint to library</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter le point tournant à la bibiothèque</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="597"/>
         <source>Added %1 to waypoint library.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ajouté à la bibiothèque des points tournants.</translation>
     </message>
 </context>
 <context>
@@ -4056,22 +4020,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="143"/>
         <source>Elevation</source>
-        <translation type="unfinished"></translation>
+        <translation>Elévation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="155"/>
         <source>Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Unité</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="162"/>
         <source>Feet</source>
-        <translation type="unfinished">Pieds</translation>
+        <translation>Pieds</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="162"/>
         <source>Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>Mètres</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="93"/>
@@ -4091,136 +4055,136 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="111"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="135"/>
         <source>Waypoint Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliothèque des points tournants</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="89"/>
         <source>Import …</source>
-        <translation type="unfinished">Importer …</translation>
+        <translation>Importer …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="101"/>
         <source>Share …</source>
-        <translation type="unfinished">Partager …</translation>
+        <translation>Partager …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="101"/>
         <source>Export …</source>
-        <translation type="unfinished">Exporter …</translation>
+        <translation>Exporter …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="105"/>
         <source>… to GeoJSON file</source>
-        <translation type="unfinished"></translation>
+        <translation>… vers fichier GeoJSON</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="113"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="137"/>
         <source>Aborted</source>
-        <translation type="unfinished">Annulé</translation>
+        <translation>Annulé</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="122"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="146"/>
         <source>Waypoint library shared</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliothèque des points tournants partagée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="124"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="148"/>
         <source>Waypoint library exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliothèque des points tournants exportée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="129"/>
         <source>… to GPX file</source>
-        <translation type="unfinished">… en GPX</translation>
+        <translation>… en GPX</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="154"/>
         <source>Open in other app …</source>
-        <translation type="unfinished">Ouvrir dans une autre app …</translation>
+        <translation>Ouvrir dans une autre app …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="158"/>
         <source>… in GeoJSON format</source>
-        <translation type="unfinished"></translation>
+        <translation>… au format GeoJSON</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="170"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="187"/>
         <source>Waypoint library opened in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliothèque des points tournants ouverte dans une autre application</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="175"/>
         <source>… in GPX format</source>
-        <translation type="unfinished">… au format GPX</translation>
+        <translation>… au format GPX</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="196"/>
         <source>Clear</source>
-        <translation type="unfinished">Effacer</translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="219"/>
         <source>Filter Waypoint Names</source>
-        <translation type="unfinished">Filtrer les points tournants</translation>
+        <translation>Filtrer les points tournants</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="277"/>
         <source>Remove …</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="324"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant disponible. Pour ajouter un point tournant, tapper sur la carte.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="325"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="343"/>
         <source>Error exporting data…</source>
-        <translation type="unfinished">Erreur lors de l&apos;exportation des données…</translation>
+        <translation>Erreur lors de l&apos;exportation des données…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="369"/>
         <source>Remove from device?</source>
-        <translation type="unfinished">Effacer de l&apos;appareil ?</translation>
+        <translation>Effacer de l&apos;appareil ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="379"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une fois le point tournant &lt;strong&gt;%1&lt;/strong&gt; effacé, il ne peut pas être restauré</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="391"/>
         <source>Waypoint removed from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Point tournant effacé de l&apos;appareil</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="410"/>
         <source>Clear waypoint library?</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer la bibiothèque des points tournants ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="420"/>
         <source>Once cleared, the library cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une fois effacée, la bibiothèque ne peut pas être restaurée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="432"/>
         <source>Waypoint library cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliothèque des points tournants effacée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="444"/>
         <source>Waypoint modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Point tournant modifié</translation>
     </message>
 </context>
 <context>
@@ -7313,7 +7277,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="228"/>
         <source>Waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Points tournants</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="280"/>
