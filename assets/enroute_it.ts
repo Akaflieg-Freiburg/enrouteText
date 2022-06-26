@@ -1719,7 +1719,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="153"/>
         <source>Error reading waypoints from file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore di lettura waypoint dal file &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="226"/>
@@ -1746,22 +1746,22 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="89"/>
         <source>Import Waypoint Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa Dati Waypoint</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="97"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file contiene una lista di waypoints. Importare come piano di volo o aggiungere all&apos;archivio waypoints?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="107"/>
         <source>Route</source>
-        <translation type="unfinished">Rotta</translation>
+        <translation>Rotta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="118"/>
         <source>Library</source>
-        <translation type="unfinished">Archivio</translation>
+        <translation>Archivio</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="149"/>
@@ -1812,17 +1812,17 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="297"/>
         <source>Import waypoint library</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa archivio waypoint</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="306"/>
         <source>Skip over waypoint that already exist in the library</source>
-        <translation type="unfinished"></translation>
+        <translation>Salta i waypoints già esistenti in archivio</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="328"/>
         <source>Waypoints imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Waypoints importati</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="346"/>
@@ -2650,7 +2650,7 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="153"/>
         <source>Error reading file &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore di lettura del file &apos;%1&apos;</translation>
     </message>
 </context>
 <context>
@@ -4148,7 +4148,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="465"/>
         <source>Removed %1 from route.</source>
-        <translation>Rimosso %1 dal piano di volo.</translation>
+        <translation>%1 rimosso dal piano di volo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="485"/>
@@ -4168,7 +4168,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="444"/>
         <source>Inserted %1 into route.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 inserito nel piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="583"/>
@@ -4213,7 +4213,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="431"/>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Inserire</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="449"/>
@@ -4418,7 +4418,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="343"/>
         <source>Error exporting data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore esportando i dati...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="369"/>
