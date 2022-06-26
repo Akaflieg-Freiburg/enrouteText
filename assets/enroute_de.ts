@@ -4379,7 +4379,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="343"/>
         <source>Error exporting data…</source>
-        <translation type="unfinished">Fehler beim Exportieren der Daten…</translation>
+        <translation>Fehler beim Datenexport…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="369"/>
