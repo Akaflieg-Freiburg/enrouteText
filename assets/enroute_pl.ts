@@ -1093,22 +1093,22 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="516"/>
         <source>Update list of maps and data</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaktualizuj listę map i danych</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="552"/>
         <source>Aviation maps</source>
-        <translation type="unfinished">Mapy lotnicze</translation>
+        <translation>Mapy lotnicze</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="555"/>
         <source>Base maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapy bazowe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="558"/>
         <source>Terrain</source>
-        <translation type="unfinished"></translation>
+        <translation>Teren</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="561"/>
@@ -2181,7 +2181,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;The app can now show a shaded terrain relief. To download terrain data for your region, open the main menu and go to &apos;Library/Maps and Data&apos;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Aplikacja może od teraz pokazywać cieniowanie terenu. Aby pobrać dane terenu dla Twojego regionu, otwórz główne menu i idź do &apos;Biblioteka/Mapy i dane&apos;.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;As requested by many users, it is now possible to save waypoints and to build a small waypoint library.&lt;/p&gt;</source>
