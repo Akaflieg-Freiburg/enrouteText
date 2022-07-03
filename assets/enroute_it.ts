@@ -6,7 +6,7 @@
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="33"/>
         <source>Aircraft</source>
-        <translation>Aereo</translation>
+        <translation>Velivolo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="90"/>
@@ -1092,22 +1092,22 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="516"/>
         <source>Update list of maps and data</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna lista mappe e dati</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="552"/>
         <source>Aviation maps</source>
-        <translation type="unfinished">Mappe aeronautiche</translation>
+        <translation>Mappe aeronautiche</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="555"/>
         <source>Base maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mappe base</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="558"/>
         <source>Terrain</source>
-        <translation type="unfinished"></translation>
+        <translation>Terreno</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="561"/>
@@ -2188,7 +2188,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;The app can now show a shaded terrain relief. To download terrain data for your region, open the main menu and go to &apos;Library/Maps and Data&apos;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;La app può mostrare l&apos;ombra dei rilievi. Per scaricare i dati del terreno per la tua regione, apri il menu principale e vai a &apos;Archivio/Mappe e Dati&apos;.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;As requested by many users, it is now possible to save waypoints and to build a small waypoint library.&lt;/p&gt;</source>
