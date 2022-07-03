@@ -1089,22 +1089,22 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="516"/>
         <source>Update list of maps and data</source>
-        <translation type="unfinished"></translation>
+        <translation>Karten- und Datenliste aktualisieren</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="552"/>
         <source>Aviation maps</source>
-        <translation type="unfinished">Luftfahrtkarten</translation>
+        <translation>Luftfahrtkarten</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="555"/>
         <source>Base maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Basiskarten</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="558"/>
         <source>Terrain</source>
-        <translation type="unfinished"></translation>
+        <translation>Terrain</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="561"/>
@@ -2130,7 +2130,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;The app can now show a shaded terrain relief. To download terrain data for your region, open the main menu and go to &apos;Library/Maps and Data&apos;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Die App kann jetzt Terrain auch schattiert anzeigen. Terraindaten Ihrer Region erhalten Sie über &apos;Bibliothek/Karten und Daten&apos; im Hauptmenü.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;As requested by many users, it is now possible to save waypoints and to build a small waypoint library.&lt;/p&gt;</source>
