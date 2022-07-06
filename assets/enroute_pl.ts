@@ -743,42 +743,42 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
 <context>
     <name>DataManagement::DataManager</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="118"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="119"/>
         <source>No information available.</source>
         <translation>Brak dostępnych informacji.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="121"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="122"/>
         <source>Installed</source>
         <translation>Zainstalowana</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="123"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="124"/>
         <source>File Size</source>
         <translation>Rozmiar pliku</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="139"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="140"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>Dane mapy zostały skompilowane z następujących źródeł.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="192"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="193"/>
         <source>Unable to recognize map file format.</source>
         <translation>Nie rozpoznany format pliku mapy.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="197"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="198"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>Brak możliwości utworzenia katalogu &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="204"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="205"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Brak możliwości skopiowania pliku mapy do katalogu z danymi.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="261"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="265"/>
         <source>Manually Imported</source>
         <translation>Ręcznie zaimportowany</translation>
     </message>
@@ -1029,11 +1029,13 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <name>DataManager</name>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="61"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="210"/>
         <source>aviation maps</source>
         <translation>mapy lotnicze</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="64"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="213"/>
         <source>base maps</source>
         <translation>mapy podstawowe</translation>
     </message>
@@ -1044,117 +1046,122 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="157"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="275"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="301"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="419"/>
         <source>Info</source>
         <translation>Informacja</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="169"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="287"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="313"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="431"/>
         <source>Uninstall</source>
         <translation>Odinstaluj</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="185"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="303"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="661"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="329"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="447"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="832"/>
         <source>Download Error</source>
         <translation>Błąd pobierania</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="186"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="304"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="330"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="448"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Błąd przy pobieraniu &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Powód: %2.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="372"/>
         <source>Update list of maps</source>
-        <translation>Zaktualizuj listę map</translation>
+        <translation type="vanished">Zaktualizuj listę map</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="384"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="528"/>
         <source>Download all updates…</source>
         <translation>Pobierz wszystkie aktualizacje...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="408"/>
         <source>Aviation Maps</source>
-        <translation>Mapy Lotnicze</translation>
+        <translation type="vanished">Mapy Lotnicze</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="411"/>
         <source>Base Maps</source>
-        <translation>Mapy podstawowe</translation>
+        <translation type="vanished">Mapy podstawowe</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="516"/>
         <source>Update list of maps and data</source>
-        <translation type="vanished">Zaktualizuj listę map i danych</translation>
+        <translation>Zaktualizuj listę map i danych</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="552"/>
         <source>Aviation maps</source>
-        <translation type="vanished">Mapy lotnicze</translation>
+        <translation>Mapy lotnicze</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="555"/>
         <source>Base maps</source>
-        <translation type="vanished">Mapy bazowe</translation>
+        <translation>Mapy bazowe</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="558"/>
         <source>Terrain</source>
-        <translation type="vanished">Teren</translation>
+        <translation>Teren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="414"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="561"/>
         <source>Data</source>
         <translation>Dane</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="455"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="602"/>
         <source>How to request additional aviation maps…</source>
         <translation>Jak zażądać dodatkowych map nawigacyjnych...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="462"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="609"/>
         <source>Request additional aviation maps</source>
         <translation>Zażądaj dodatkowych map nawigacyjnych</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="562"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="733"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Lista dostępnych map nie została jeszcze pobrana z serwera. Możesz ponowić pobieranie ręcznie używając przycisku poniżej.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="590"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="761"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Pobieranie w toku...&lt;/h3&gt;&lt;p&gt;Proszę poczekaj, gdy aplikacja pobierze z serwera listę dostępnych map...&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="632"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="803"/>
         <source>Download list of maps…</source>
         <translation>Pobierz listę map...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="646"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="817"/>
         <source>Update</source>
         <translation>Aktualizacja</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="662"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="833"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Nie udało się pobrać listy map lotniczych.&lt;/p&gt;&lt;p&gt;Powód: %1.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="690"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="861"/>
         <source>Uninstall Raster Maps</source>
         <translation>Odinstaluj mapy rastrowe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="694"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="865"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled before new vector maps are downloaded.</source>
         <translation>Aby uniknąć konfliktu pomiędzy mapami rastrowymi i wektorowymi, wszystkie mapy rastrowe zostaną odinstalowane przed pobraniem nowych map wektorowych.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="707"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="878"/>
         <source>Raster maps uninstalled</source>
         <translation>Mapy rastrowe odinstalowane</translation>
     </message>
@@ -1701,12 +1708,12 @@ z danymi konta bankowego.
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="66"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="68"/>
         <source>Aviation maps</source>
         <translation>Mapy lotnicze</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="73"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="75"/>
         <source>Basemap</source>
         <translation>Mapy bazowe</translation>
     </message>
@@ -2172,13 +2179,13 @@ z danymi konta bankowego.
         <translation></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;The app can now show a shaded terrain relief. To download terrain data for your region, open the main menu and go to &apos;Library/Maps and Data&apos;.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Aplikacja może od teraz pokazywać cieniowanie terenu. Aby pobrać dane terenu dla Twojego regionu, otwórz główne menu i idź do &apos;Biblioteka/Mapy i dane&apos;.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Aplikacja może od teraz pokazywać cieniowanie terenu. Aby pobrać dane terenu dla Twojego regionu, otwórz główne menu i idź do &apos;Biblioteka/Mapy i dane&apos;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;As requested by many users, it is now possible to save waypoints and to build a small waypoint library.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Zgodnie z oczekiwaniami wielu użytkowników, od teraz można zapisywać punkty orientacyjne i budować z nich małe biblioteki punktów.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Zgodnie z oczekiwaniami wielu użytkowników, od teraz można zapisywać punkty orientacyjne i budować z nich małe biblioteki punktów.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
@@ -2664,22 +2671,22 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
 <context>
     <name>Navigation::Navigator</name>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="321"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="338"/>
         <source>Cruise speed not specified.</source>
         <translation>Prędkość przelotowa nie jest ustawiona.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="324"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="342"/>
         <source>Wind speed not specified.</source>
         <translation>Prędkość wiatru nie jest ustawiona.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="327"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="346"/>
         <source>Wind direction not specified.</source>
         <translation>Kierunek wiatru nie jest ustawiony.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="330"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="350"/>
         <source>Computation incomplete. %1</source>
         <translation>Obliczenia niekompletne. %1</translation>
     </message>
