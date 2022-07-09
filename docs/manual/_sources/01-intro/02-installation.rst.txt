@@ -12,7 +12,8 @@ Installation on Android devices
   An unofficial version of the app is also available at `F-Droid
   <https://f-droid.org/de/packages/de.akaflieg_freiburg.enroute/>`_.  While the
   author of **Enroute Flight Navigation** endorses publication at F-Droid, he
-  has not tested this unofficial app for quality.
+  has not tested this unofficial app for quality. The app version on F-Droid
+  might be outdated.
 
 
 Installation on Linux desktop machines
@@ -30,14 +31,17 @@ conditions.
 Map download
 ------------
 
-**Enroute Flight Navigation** cannot be used without geographic maps.  Two types
-of maps need to be installed for every region where you fly.
+**Enroute Flight Navigation** cannot be used without geographic maps.  Three
+types of maps need to be installed for every region where you fly.
 
 - Aeronautical maps.  These contain airspaces, airfields and navaids.  Some maps
   also contain reporting points, airfield traffic circuits and control zone
   entry/exit routes.
 - Base maps.  These contain geographic data, such as rivers, roads, railroads
   and land use.
+- Terrain maps, which contain elevation data. At present, terrain maps are used
+  to show a shaded terrain relief. We expect that future versions of the app
+  will use terrain elevation also for navigational purposes.
 
 Follow these steps to install the maps that you need.
 
@@ -54,10 +58,10 @@ Freiburg, under the assumption that the cost stays within reasonable limits.
 You will also find that the app performs much better if it does not have to
 process many megabytes of map data.
   
-.. note:: Do not forget that you need aeronautical maps **and** base maps for
-    the desired area of flight.  The base maps are large.  Make sure that you
-    have a good internet connection before you download maps.  It might be
-    inadvisable to download base maps via the mobile phone network.
+.. note:: Do not forget that you need aeronautical maps, base maps **and** 
+    terrain maps for the desired area of flight.  The base maps are large.  Make 
+    sure that you have a good internet connection before you download maps.  It 
+    might be inadvisable to download base maps via the mobile phone network.
 
 Once the map download has finished, **Enroute Flight Navigation** will process
 the map data and update the map display after a minute or so.  Tap or click on
