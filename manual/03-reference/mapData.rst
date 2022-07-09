@@ -13,13 +13,85 @@ Technologies <https://www.klokantech.com/>`_ through the `OpenMapTiles
 <https://openmaptiles.org>`_ project.
 
 
+Terrain maps
+------------
+
+Our terrain maps are derived from the `Terrain Tiles Open Dataset on Amazon AWS
+<https://registry.opendata.aws/terrain-tiles/>`_. The underlying data sources
+are a mix of:
+
+- 3DEP (formerly NED and NED Topobathy) in the United States, 10 meters outside
+  of Alaska, 3 meter in select land and territorial water areas
+- ArcticDEM strips of 5 meter mosaics across all of the land north of 60°
+  latitude, including Alaska, Canada, Greenland, Iceland, Norway, Russia, and
+  Sweden
+- CDEM (Canadian Digital Elevation Model) in Canada, with variable spatial
+  resolution (from 20-400 meters) depending on the latitude.
+- data.gov.uk, 2 meters over most of the United Kingdom
+- data.gv.at, 10 meters over Austria
+- ETOPO1 for ocean bathymetry, 1 arc-minute resolution globally
+- EUDEM in most of Europe at 30 meter resolution, including Albania, Austria,
+  Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark,
+  Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy,
+  Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta,
+  Montenegro, Netherlands, Norway, Poland, Portugal, Romania, Serbia, Slovakia,
+  Slovenia, Spain, Sweden, Switzerland, and United Kingdom
+- Geoscience Australia's DEM of Australia, 5 meters around coastal regions in
+  South Australia, Victoria, and Northern Territory
+- GMTED globally, coarser resolutions at 7.5", 15", and 30" in land areas
+- INEGI's continental relief in Mexico
+- Kartverket's Digital Terrain Model, 10 meters over Norway
+- LINZ, 8 meters over New Zealand
+- SRTM globally except high latitudes, 30 meters (90 meters nominal quality) in
+  land areas
+
+Attributions
+^^^^^^^^^^^^
+
+* ArcticDEM terrain data DEM(s) were created from DigitalGlobe, Inc., imagery
+  and funded under National Science Foundation awards 1043681, 1559691, and
+  1542736;
+* Australia terrain data © Commonwealth of Australia (Geoscience Australia)
+  2017;
+* Austria terrain data © offene Daten Österreichs – Digitales Geländemodell
+  (DGM) Österreich;
+* Canada terrain data contains information licensed under the Open Government
+  Licence – Canada;
+* Europe terrain data produced using Copernicus data and information funded by
+  the European Union - EU-DEM layers;
+* Global ETOPO1 terrain data U.S. National Oceanic and Atmospheric
+  Administration
+* Mexico terrain data source: INEGI, Continental relief, 2016;
+* New Zealand terrain data Copyright 2011 Crown copyright (c) Land Information
+  New Zealand and the New Zealand Government (All rights reserved);
+* Norway terrain data © Kartverket;
+* United Kingdom terrain data © Environment Agency copyright and/or database
+  right 2015. All rights reserved;
+* United States 3DEP (formerly NED) and global GMTED2010 and SRTM terrain data
+  courtesy of the U.S. Geological Survey.
+
+
+Base maps
+---------
+
+Our base maps are edited versions of maps kindly provided by `Klokan
+Technologies <https://www.klokantech.com/>`_ through the `OpenMapTiles
+<https://openmaptiles.org>`_ project.
+
+
+Our base maps are edited versions of maps kindly provided by `Klokan
+Technologies <https://www.klokantech.com/>`_ through the `OpenMapTiles
+<https://openmaptiles.org>`_ project.
+
+
 Aeronautical maps
 -----------------
 
 Update policy
 ^^^^^^^^^^^^^
 
-Our aeronautical maps are updated once a week.
+Our aeronautical maps are updated once per day, provided that new data is
+available. Note, however, that we do not **guarantee** regular updates.
 
 
 Data origin
