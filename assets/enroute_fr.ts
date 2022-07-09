@@ -1073,7 +1073,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="552"/>
         <source>Aviation maps</source>
-        <translation type="unfinished">Carte aéronautique</translation>
+        <translation>Carte aéronautique</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="555"/>
