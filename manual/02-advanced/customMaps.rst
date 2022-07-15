@@ -79,6 +79,10 @@ that convert GeoTIFF to MBTILES.
 - Official ICAO maps for Denmark are available from the danish `AIM Naviair
   <https://aim.naviair.dk/en/charts/>`_
 
+- Official ICAO maps for Spain are available from the spanish `Insignia Servicio
+  de Información Aeronáutica
+  <https://aip.enaire.es/AIP/CartasInsigniaImpresas-es.html>`_
+
 - Official ICAO maps for Switzerland are available from the swiss `Federal
   Office of Topography swisstopo
   <https://www.swisstopo.admin.ch/en/geodata/aero/icao.html>`_
