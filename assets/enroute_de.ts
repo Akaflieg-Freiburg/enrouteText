@@ -3142,12 +3142,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="100"/>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="108"/>
         <source>Show altitude AGL</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Höhe über Grund</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="133"/>
