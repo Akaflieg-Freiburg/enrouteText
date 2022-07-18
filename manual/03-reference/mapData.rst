@@ -134,6 +134,7 @@ Below is a complete list of the maps that we offer.
 =================== ============== ========================
 Continent           Country        Class
 =================== ============== ========================
+Africa              Madagascar     Class 2
 Africa              Namibia        Class 1
 Africa              South Africa   Class 1
 Asia                Japan          Class 2
