@@ -1049,26 +1049,14 @@ données de manière publique et gratuite.&lt;/p&gt;
         <translation>&lt;p&gt;Echec du téléchargement de &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Cause: %2.&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Update list of maps</source>
-        <translation type="vanished">Mettre à jour la liste des cartes</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="528"/>
         <source>Download all updates…</source>
         <translation>Télécharger toutes les mises à jour…</translation>
     </message>
     <message>
-        <source>Aviation Maps</source>
-        <translation type="vanished">Cartes aéronautiques</translation>
-    </message>
-    <message>
-        <source>Base Maps</source>
-        <translation type="vanished">Fonds de carte</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="516"/>
         <source>Update list of maps and data</source>
-        <translation type="unfinished"></translation>
+        <translation>Mettre à jour la liste des cartes et des données</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="552"/>
@@ -1078,12 +1066,12 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="555"/>
         <source>Base maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonds de carte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="558"/>
         <source>Terrain</source>
-        <translation type="unfinished"></translation>
+        <translation>Terrain</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="561"/>
@@ -2160,16 +2148,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;p&gt;The altimeter can now show your altitude above ground level. To try this new feature, open the main menu and go to &apos;Settings&apos;. Make sure that terrain data is installed.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;L&apos;altimètre peut maintenant afficher l&apos;altitude par rapport au sol. Rendez-vous sur la page &apos;Paramètres&apos; pour activer cette fonctionnalité. Assurez-vous d'avoir téléchargé les données de terrain.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
         <source>&lt;p&gt;The app can now show a shaded terrain relief. To download terrain data for your region, open the main menu and go to &apos;Library/Maps and Data&apos;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;As requested by many users, it is now possible to save waypoints and to build a small waypoint library.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Comme demandé par beaucoup d&apos;utilisateurs, il est maintenant possible d&apos;importer des points tournants.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;L&apos;app Peut maintenant afficher le relief. Pour télécharger les données de terrain, rendez-vous sur la page &apos;Bibliothèque/Carte et Données&apos;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="280"/>
