@@ -1452,7 +1452,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="219"/>
         <source>View Library…</source>
-        <translation>Bibliothek sichten…</translation>
+        <translation>Bibliothek ansehen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="228"/>
