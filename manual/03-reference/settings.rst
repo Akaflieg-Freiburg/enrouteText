@@ -46,6 +46,21 @@ flying a glider, the gliding sectors are probably not relevant. Hiding the
 gliding sectors might improve the readability of the moving map.
 
 
+Navigation
+----------
+
+Show altitude AGL
+^^^^^^^^^^^^^^^^^
+
+If set, then the navigation bar at the bottom of the moving map scree will show
+the aircraft elevation above ground level, instead of sea level.  This feature
+works only if terrain maps for your region are installed. If terrain data is not
+available, the altimeter field of the navigation bar will display "--".
+
+If you are unsure if terrain data is available, open the main menu and go to
+"Library/Maps and Data" to check which maps are installed in your device.
+
+
 System
 ------
 
