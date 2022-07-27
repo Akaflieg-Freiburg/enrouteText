@@ -3374,12 +3374,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="88"/>
         <source>Currently showing gliding sectors</source>
-        <translation>Zeige Segelflugsektoren an</translation>
+        <translation>Momentan: zeige Segelflugsektoren an</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="90"/>
         <source>Currently hiding gliding sectors</source>
-        <translation>Zeige Segelflugsektoren nicht an</translation>
+        <translation>Momentan: zeige Segelflugsektoren nicht an</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
@@ -3389,7 +3389,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="117"/>
         <source>Currently showing altitude AMSL</source>
-        <translation>Zeige Höhe über Grund</translation>
+        <translation>Momentan: zeige Höhe über Meer</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
