@@ -3354,6 +3354,16 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Cancella</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
+        <source>Currently showing all airspaces</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
+        <source>Currently showing airspaces up to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="88"/>
         <source>Currently showing gliding sectors</source>
         <translation>Settori per parapendio mostrati</translation>
@@ -3374,14 +3384,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Altitudine AMSL mostrata</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
         <source>Traffic Data Receiver</source>
-        <translation>Ricevitore dati del traffico</translation>
+        <translation type="vanished">Ricevitore dati del traffico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="154"/>
         <source>Built-in Satnav Receiver</source>
-        <translation>Ricevitore GPS incorporato</translation>
+        <translation type="vanished">Ricevitore GPS incorporato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="171"/>
@@ -3469,15 +3477,23 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Come connettere un simulatore di volo...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
+        <source>Currently using traffic data receiver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="154"/>
+        <source>Currently using built-in satnav receiver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="373"/>
         <source>No limit, all airspaces shown</source>
         <translation>Nessun limite, tutti gli spazi aerei sono mostrati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
         <source>Showing airspaces up to %1</source>
-        <translation>Spazi aerei mostrati fino a %1</translation>
+        <translation type="vanished">Spazi aerei mostrati fino a %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="69"/>

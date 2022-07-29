@@ -3068,14 +3068,32 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
+        <source>Currently showing all airspaces</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
+        <source>Currently showing airspaces up to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
+        <source>Currently using traffic data receiver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="154"/>
+        <source>Currently using built-in satnav receiver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="373"/>
         <source>No limit, all airspaces shown</source>
         <translation>Pas de limite, tous les espaces aériens sont affichés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
         <source>Showing airspaces up to %1</source>
-        <translation>Affichage des espaces aériens jusqu&apos;à %1</translation>
+        <translation type="vanished">Affichage des espaces aériens jusqu&apos;à %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="69"/>
@@ -3190,14 +3208,8 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
         <source>Traffic Data Receiver</source>
-        <translation type="unfinished">Récepteur de données de traffic</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="154"/>
-        <source>Built-in Satnav Receiver</source>
-        <translation type="unfinished"></translation>
+        <translation type="obsolete">Récepteur de données de traffic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="171"/>

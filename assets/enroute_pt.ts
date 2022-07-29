@@ -2565,14 +2565,8 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="373"/>
         <source>No limit, all airspaces shown</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
-        <source>Showing airspaces up to %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2614,6 +2608,26 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="156"/>
         <source>Primary position data source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
+        <source>Currently showing all airspaces</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
+        <source>Currently showing airspaces up to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
+        <source>Currently using traffic data receiver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="154"/>
+        <source>Currently using built-in satnav receiver</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2670,16 +2684,6 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="117"/>
         <source>Currently showing altitude AMSL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
-        <source>Traffic Data Receiver</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="154"/>
-        <source>Built-in Satnav Receiver</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

@@ -3262,15 +3262,13 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Lufträume ≥ FL 100 ausblenden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="373"/>
         <source>No limit, all airspaces shown</source>
         <translation>Keine Grenzen, alle Lufträume werden angezeigt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
         <source>Showing airspaces up to %1</source>
-        <translation>Zeige Lufträume bis %1 an</translation>
+        <translation type="vanished">Zeige Lufträume bis %1 an</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="69"/>
@@ -3372,6 +3370,16 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Abbrechen</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
+        <source>Currently showing all airspaces</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
+        <source>Currently showing airspaces up to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="88"/>
         <source>Currently showing gliding sectors</source>
         <translation>Momentan: zeige Segelflugsektoren an</translation>
@@ -3392,14 +3400,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Momentan: zeige Höhe über Meer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
         <source>Traffic Data Receiver</source>
-        <translation>Verkehrsdatenempfänger</translation>
+        <translation type="vanished">Verkehrsdatenempfänger</translation>
+    </message>
+    <message>
+        <source>Built-in Satnav Receiver</source>
+        <translation type="vanished">Eingebauter GPS-Empfänger</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
+        <source>Currently using traffic data receiver</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="154"/>
-        <source>Built-in Satnav Receiver</source>
-        <translation>Eingebauter GPS-Empfänger</translation>
+        <source>Currently using built-in satnav receiver</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="171"/>
