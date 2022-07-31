@@ -3356,17 +3356,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
         <source>Currently showing all airspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Tutti gli spazi aerei visibili</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
         <source>Currently showing airspaces up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Spazi aerei fino a %1 visibili</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="88"/>
         <source>Currently showing gliding sectors</source>
-        <translation>Settori per parapendio mostrati</translation>
+        <translation>Settori per parapendio visibili</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="90"/>
@@ -3381,7 +3381,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="117"/>
         <source>Currently showing altitude AMSL</source>
-        <translation>Altitudine AMSL mostrata</translation>
+        <translation>Altitudine AMSL visbile</translation>
     </message>
     <message>
         <source>Traffic Data Receiver</source>
@@ -3479,12 +3479,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
         <source>Currently using traffic data receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricevitore di traffico in uso</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="154"/>
         <source>Currently using built-in satnav receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Ricevitore satnav integrato utilizzato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="373"/>
