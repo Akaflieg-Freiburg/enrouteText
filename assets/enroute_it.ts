@@ -402,7 +402,7 @@ below.&lt;/p&gt;
 
 &lt;p&gt;Se vuoi riportare problemi con altri dati di aviazione
 (es. frequenze errate, circuiti obsoleti, radioaiuti 
-mancanti,…), usa il bottone qui in basso.&lt;/p&gt;</translation>
+mancanti,…), usa i bottoni qui in basso.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="191"/>
@@ -2172,7 +2172,7 @@ con i dati del conto bancario.
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translation>&lt;li&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella e Antonio Fardella. Antonio è un aviatore navale con la passione per tutto ciò che è entusiasmante.&lt;/li&gt;</translation>
+        <translation>&lt;li&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella e Antonio Fardella.  Antonio è un aviatore navale con la passione per tutto ciò che è entusiasmante.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="86"/>
@@ -4433,7 +4433,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="444"/>
         <source>Inserted %1 into route.</source>
-        <translation>%1 inserito nel piano di volo</translation>
+        <translation>%1 inserito nel piano di volo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="538"/>
