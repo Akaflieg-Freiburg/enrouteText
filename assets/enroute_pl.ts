@@ -3367,12 +3367,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
         <source>Currently showing all airspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualnie pokazywane wszystkie przestrzenie powietrzne</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
         <source>Currently showing airspaces up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualnie pokazywane przestrzenie powietrzne do %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="88"/>
@@ -3474,12 +3474,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
         <source>Currently using traffic data receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualnie wykorzystywany odbiornik ruchu lotniczego</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="154"/>
         <source>Currently using built-in satnav receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualnie używany wbudowany odbiornik nawigacji satelitarnej</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="373"/>
