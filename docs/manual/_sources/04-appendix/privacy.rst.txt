@@ -38,7 +38,11 @@ The Android app requires the following privileges.
 - ACCESS_NETWORK_STATE and ACCESS_WIFI_STATE – Required to automatically connect
   to traffic receivers.
 
-- INTERNET – This priviege is required to download and update map data and
+- CHANGE_WIFI_MULTICAST_STATE – The app receives traffic and position
+  information from traffic data receivers and flight simulators via UDP network
+  broadcasts. This privilege is required to receive the relevant data packages. 
+
+- INTERNET – This privilege is required to download and update map, data and
   METAR/TAF reports.
 
 - VIBRATE – The app vibrates your device, for instance to give haptic feedback
