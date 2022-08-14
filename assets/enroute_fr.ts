@@ -9,22 +9,14 @@
         <translation>Avion</translation>
     </message>
     <message>
-        <source>View Library …</source>
-        <translation type="vanished">Voir la bibliothèque…</translation>
-    </message>
-    <message>
-        <source>Save to library …</source>
-        <translation type="vanished">Sauvegarder dans la bibliothèque…</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="90"/>
         <source>View Library…</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir la bibliothèque…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="99"/>
         <source>Save to library…</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarder dans la bibliothèque…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="136"/>
@@ -136,14 +128,6 @@
         <translation>Filter les avions par nom</translation>
     </message>
     <message>
-        <source>Rename …</source>
-        <translation type="vanished">Renommer…</translation>
-    </message>
-    <message>
-        <source>Remove …</source>
-        <translation type="vanished">Supprimer…</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="153"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft available. To add a route here, chose &apos;Aircraft&apos; from the main menu, and save the current aircraft to the library.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun avion disponible. Pour ajouter une route, choisissez &apos;Avion&apos; depuis le menu principal, et sauvegardez l&apos;avion actuel dans la bibiothèque.&lt;/p&gt;</translation>
@@ -159,46 +143,34 @@
         <translation>Chargement de l&apos;avion &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
-        <source>An error occurred…</source>
-        <translation type="vanished">Une erreur s&apos;est produite…</translation>
-    </message>
-    <message>
-        <source>Overwrite current aircraft?</source>
-        <translation type="vanished">Ecraser l&apos;avion acutel ?</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="249"/>
         <source>Loading the aircraft &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current aircraft. Once overwritten, the current aircraft cannot be restored.</source>
         <translation>Le chargement de l&apos;avion &lt;strong&gt;%1&lt;/strong&gt; écrasera l&apos;avion actuel. Il sera alors impossible de récupérer cet avion.</translation>
     </message>
     <message>
-        <source>Remove from device?</source>
-        <translation type="vanished">Effacer de l&apos;appareil ?</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="99"/>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>Renommer…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="111"/>
         <source>Remove…</source>
-        <translation type="unfinished">Supprimer…</translation>
+        <translation>Supprimer…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="194"/>
         <source>An Error Occurred…</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur s&apos;est produite…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="239"/>
         <source>Overwrite Current Aircraft?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecraser l&apos;avion acutel ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="276"/>
         <source>Remove from Device?</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer de l&apos;appareil ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="286"/>
@@ -261,20 +233,12 @@
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="160"/>
         <source>An Error Occurred…</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur s&apos;est produite…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="198"/>
         <source>Overwrite Aircraft?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>An error occurred…</source>
-        <translation type="vanished">Une erreur s&apos;est produite…</translation>
-    </message>
-    <message>
-        <source>Overwrite aircraft?</source>
-        <translation type="vanished">Ecraser l&apos;avion ?</translation>
+        <translation>Ecraser l&apos;avion ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="205"/>
@@ -362,22 +326,6 @@ espaces aériens (espaces manquants ou erronés, limites verticales erronées…
         <translation>Autres types d&apos;espace</translation>
     </message>
     <message>
-        <source>
-&lt;h4&gt;Aviation Data&lt;/h4&gt;
-
-&lt;p&gt;If you would like to report problems with other aviation
-data (such as wrong airfield frequencies, outdated traffic
-patterns, missing navaids, …), then please use the buttons
-below.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;h4&gt;Données aéronautiques&lt;/h4&gt;
-
-&lt;p&gt;Utilisez le bouton ci-dessous pour signaler un problème concernant les
-données aéronautiques (fréquences erronées, aides à la navigation manquantes…).&lt;/p&gt;
-</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="167"/>
         <source>
 &lt;h4&gt;Aviation Data&lt;/h4&gt;
@@ -387,7 +335,10 @@ data (such as wrong airfield frequencies, outdated traffic
 patterns, missing navaids,…), then please use the buttons
 below.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h4&gt;Données aéronautiques&lt;/h4&gt;
+
+&lt;p&gt;Utilisez le bouton ci-dessous pour signaler un problème concernant les
+données aéronautiques (fréquences erronées, aides à la navigation manquantes…).&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="182"/>
@@ -1131,13 +1082,9 @@ données de manière publique et gratuite.&lt;/p&gt;
         <translation>Comment demander une nouvelle carte aéronautique…</translation>
     </message>
     <message>
-        <source>Request additional aviation maps</source>
-        <translation type="vanished">Demander une nouvelle carte aéronautique</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="609"/>
         <source>Request Additional Aviation Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Demander une nouvelle carte aéronautique</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="733"/>
@@ -1332,26 +1279,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Supprimer</translation>
     </message>
     <message>
-        <source>Save to library …</source>
-        <translation type="vanished">Sauvegarder dans la bibliothèque …</translation>
-    </message>
-    <message>
-        <source>View Library …</source>
-        <translation type="vanished">Voir la bibliothèque …</translation>
-    </message>
-    <message>
-        <source>Import …</source>
-        <translation type="vanished">Importer …</translation>
-    </message>
-    <message>
-        <source>Export …</source>
-        <translation type="vanished">Exporter …</translation>
-    </message>
-    <message>
-        <source>Share …</source>
-        <translation type="vanished">Partager …</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="259"/>
         <source>… to GeoJSON file</source>
         <translation>… en GeoJson</translation>
@@ -1371,7 +1298,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="695"/>
         <source>Clear Route?</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer la route ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="715"/>
@@ -1402,10 +1329,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="283"/>
         <source>… to GPX file</source>
         <translation>… en GPX</translation>
-    </message>
-    <message>
-        <source>Open in other app …</source>
-        <translation type="vanished">Ouvrir dans une autre app …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="329"/>
@@ -1447,27 +1370,27 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="219"/>
         <source>View Library…</source>
-        <translation type="unfinished"></translation>
+        <translation>Voir la bibiothèque...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="228"/>
         <source>Save to library…</source>
-        <translation type="unfinished"></translation>
+        <translation>Sauvegarder dans la bibliothèque...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="242"/>
         <source>Import…</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="255"/>
         <source>Share…</source>
-        <translation type="unfinished"></translation>
+        <translation>Partager...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="255"/>
         <source>Export…</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="278"/>
@@ -1478,7 +1401,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="308"/>
         <source>Open in Other App…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir dans une autre app...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="324"/>
@@ -1514,20 +1437,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="744"/>
         <source>Error Exporting Data…</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear route?</source>
-        <translation type="vanished">Effacer la route ?</translation>
+        <translation>Erreur lors de l&apos;exportation des données...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="707"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>La route ne pourra pas être rétablie si elle est effacée.</translation>
-    </message>
-    <message>
-        <source>Error exporting data…</source>
-        <translation type="vanished">Erreur lors de l&apos;exportation des données…</translation>
     </message>
 </context>
 <context>
@@ -1539,25 +1454,9 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Bibliothèque des routes</translation>
     </message>
     <message>
-        <source>Info …</source>
-        <translation type="vanished">Info …</translation>
-    </message>
-    <message>
-        <source>Import …</source>
-        <translation type="vanished">Importer …</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="123"/>
         <source>Filter Flight Route Names</source>
         <translation>Filtrer les routes</translation>
-    </message>
-    <message>
-        <source>Export …</source>
-        <translation type="vanished">Exporter …</translation>
-    </message>
-    <message>
-        <source>Share …</source>
-        <translation type="vanished">Partager …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="177"/>
@@ -1568,10 +1467,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="202"/>
         <source>… to GPX file</source>
         <translation>… en GPX</translation>
-    </message>
-    <message>
-        <source>Open in other app …</source>
-        <translation type="vanished">Ouvrir dans une autre app …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="231"/>
@@ -1587,22 +1482,22 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="88"/>
         <source>Info…</source>
-        <translation type="unfinished"></translation>
+        <translation>Info...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="97"/>
         <source>Import…</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="174"/>
         <source>Share…</source>
-        <translation type="unfinished"></translation>
+        <translation>Partager...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="174"/>
         <source>Export…</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="186"/>
@@ -1619,7 +1514,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="228"/>
         <source>Open in Other App…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir dans une autre app...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="243"/>
@@ -1635,15 +1530,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="568"/>
         <source>Error Exporting Data…</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rename …</source>
-        <translation type="vanished">Renommer …</translation>
-    </message>
-    <message>
-        <source>Remove …</source>
-        <translation type="vanished">Supprimer …</translation>
+        <translation>Erreur lors de l&apos;exportation des données...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="324"/>
@@ -1661,21 +1548,9 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Chargement de la route &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
-        <source>An error occurred…</source>
-        <translation type="vanished">Une erreur s&apos;est produite…</translation>
-    </message>
-    <message>
-        <source>Overwrite current flight route?</source>
-        <translation type="vanished">Ecraser la route actuelle ?</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="426"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Charger la route &lt;strong&gt;%1&lt;/strong&gt; écrasera la route actuelle. Une fois écrasée, la route actuelle ne pourra plus être restaurée.</translation>
-    </message>
-    <message>
-        <source>Remove from device?</source>
-        <translation type="vanished">Effacer de l&apos;appareil ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="464"/>
@@ -1705,27 +1580,27 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="270"/>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>Renommer...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="282"/>
         <source>Remove…</source>
-        <translation type="unfinished">Supprimer…</translation>
+        <translation>Supprimer...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="363"/>
         <source>An Error Occurred…</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur s&apos;est produite...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="416"/>
         <source>Overwrite Current Flight Route?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecraser la route actuelle ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="454"/>
         <source>Remove from Device?</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer de l&apos;appareil ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="513"/>
@@ -1739,7 +1614,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     </message>
     <message>
         <source>Error exporting data…</source>
-        <translation type="vanished">Erreur lors de l&apos;exportation des données…</translation>
+        <translation>Erreur lors de l&apos;exportation des données...</translation>
     </message>
 </context>
 <context>
@@ -1767,25 +1642,17 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="160"/>
         <source>An Error Occurred…</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur s&apos;est produite...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="198"/>
         <source>Overwrite Flight Route?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Overwrite flight route?</source>
-        <translation type="vanished">Ecraser la route</translation>
+        <translation>Ecraser la route ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="205"/>
         <source>The route &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
         <translation>La route &lt;strong&gt;%1&lt;/strong&gt; existe déjà. Voulez-vous l&apos;écraser ?</translation>
-    </message>
-    <message>
-        <source>An error occurred…</source>
-        <translation type="vanished">Une erreur s&apos;est produite…</translation>
     </message>
 </context>
 <context>
@@ -1911,16 +1778,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="297"/>
         <source>Import Waypoint Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer une bibiothèque de points tournants</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="399"/>
         <source>Data Import Error</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Import waypoint library</source>
-        <translation type="vanished">Importer une bibiothèque de points tournants</translation>
+        <translation>Erreur lors de l&apos;importation des données</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="306"/>
@@ -1946,10 +1809,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <location filename="../../../src/qml/items/ImportManager.qml" line="378"/>
         <source>Flight route imported</source>
         <translation>Route importée</translation>
-    </message>
-    <message>
-        <source>Data import error</source>
-        <translation type="vanished">Erreur lors de l&apos;importation des données</translation>
     </message>
 </context>
 <context>
@@ -3069,31 +2928,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
         <source>Currently showing all airspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage de tous les espaces aériens</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
         <source>Currently showing airspaces up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage des espaces aériens jusqu&apos;à %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
         <source>Currently using traffic data receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisation du récepteur de données de traffic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="154"/>
         <source>Currently using built-in satnav receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisation du système de positionnement embarqué</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="373"/>
         <source>No limit, all airspaces shown</source>
         <translation>Pas de limite, tous les espaces aériens sont affichés</translation>
-    </message>
-    <message>
-        <source>Showing airspaces up to %1</source>
-        <translation type="vanished">Affichage des espaces aériens jusqu&apos;à %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="69"/>
@@ -3109,21 +2964,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="88"/>
         <source>Currently showing gliding sectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage de tous les secteurs pour planeurs</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="90"/>
         <source>Currently hiding gliding sectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Tous les secteurs pour planeurs cachés</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="106"/>
         <source>Navigation</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Traffic data receiver</source>
-        <translation type="vanished">Récepteur de traffic</translation>
+        <translation>Navigation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="439"/>
@@ -3134,18 +2985,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="156"/>
         <source>Primary position data source</source>
         <translation>Source des données de positionement</translation>
-    </message>
-    <message>
-        <source>Night mode</source>
-        <translation type="vanished">Mode nuit</translation>
-    </message>
-    <message>
-        <source>Ignore network security errors</source>
-        <translation type="vanished">Ignorer les erreurs de sécurité réseau</translation>
-    </message>
-    <message>
-        <source>Clear password storage</source>
-        <translation type="vanished">Effacer les mots de passe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="208"/>
@@ -3165,21 +3004,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="238"/>
         <source>Terrain Data Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Données de terrain manquantes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="239"/>
         <source>The height above ground level cannot be computed for your current position, because the relevant terrain maps for your region have not been installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La hauteur au dessu du sol ne peut être calculée car les données de terrain sont manquantes.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="243"/>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Clear password storage?</source>
-        <translation type="vanished">Effacer les mots de passe ?</translation>
+        <translation>Installer maintenant</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="288"/>
@@ -3200,36 +3035,32 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
         <source>Show Altitude AGL</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher l&apos;altitude AGL</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="117"/>
         <source>Currently showing altitude AMSL</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Traffic Data Receiver</source>
-        <translation type="obsolete">Récepteur de données de traffic</translation>
+        <translation>Affichage de l&apos;altitude AMSL</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="171"/>
         <source>Night Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode nuit</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="185"/>
         <source>Ignore Network Security Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorer les erreurs de sécurité réseau</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="201"/>
         <source>Clear Password Storage</source>
-        <translation type="unfinished"></translation>
+        <translatio>Effacer les mots de passe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="283"/>
         <source>Clear Password Storage?</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer les mots de passe ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="307"/>
@@ -3259,11 +3090,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="424"/>
         <source>Position Data Source</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Position data source</source>
-        <translation type="vanished">Source des données de positionement</translation>
+        <translation>Source des données de positionement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="432"/>
@@ -4157,16 +3984,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="590"/>
         <source>Add Waypoint to Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter un point tournant à la bibliothèque</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="612"/>
         <source>Remove from Device?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Remove from device?</source>
-        <translation type="vanished">Effacer de l&apos;appareil ?</translation>
+        <translation>Effacer de l&apos;appareil ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="622"/>
@@ -4177,10 +4000,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="633"/>
         <source>Waypoint removed from device</source>
         <translation>Point tournant effacé de l&apos;appareil</translation>
-    </message>
-    <message>
-        <source>Overwrite current flight route?</source>
-        <translation type="vanished">Ecraser la route actuelle ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="413"/>
@@ -4210,7 +4029,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="538"/>
         <source>Overwrite Current Flight Route?</source>
-        <translation type="unfinished"></translation>
+        <translation>Ecraser la route acutelle ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="548"/>
@@ -4223,10 +4042,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Entrée %1 de la bibiothèque modifiée.</translation>
     </message>
     <message>
-        <source>Add waypoint to library</source>
-        <translation type="vanished">Ajouter le point tournant à la bibiothèque</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="597"/>
         <source>Added %1 to waypoint library.</source>
         <translation>%1 ajouté à la bibiothèque des points tournants.</translation>
@@ -4234,10 +4049,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 </context>
 <context>
     <name>WaypointEditor</name>
-    <message>
-        <source>Edit waypoint</source>
-        <translation type="vanished">Modifier le point tournant</translation>
-    </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="70"/>
         <source>Name</source>
@@ -4296,7 +4107,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="59"/>
         <source>Edit Waypoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Modifier le point tournant</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="109"/>
@@ -4314,31 +4125,19 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Bibliothèque des points tournants</translation>
     </message>
     <message>
-        <source>Import …</source>
-        <translation type="vanished">Importer …</translation>
-    </message>
-    <message>
-        <source>Share …</source>
-        <translation type="vanished">Partager …</translation>
-    </message>
-    <message>
-        <source>Export …</source>
-        <translation type="vanished">Exporter …</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="89"/>
         <source>Import…</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="101"/>
         <source>Share…</source>
-        <translation type="unfinished"></translation>
+        <translation>Partager...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="101"/>
         <source>Export…</source>
-        <translation type="unfinished"></translation>
+        <translation>Exporter...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="105"/>
@@ -4371,31 +4170,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="154"/>
         <source>Open in Other App…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrir dans une autre app...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="277"/>
         <source>Remove…</source>
-        <translation type="unfinished">Supprimer…</translation>
+        <translation>Supprimer...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="343"/>
         <source>Error Exporting Data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de l&apos;exportation des données...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="369"/>
         <source>Remove from Device?</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer de l&apos;appareil ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="410"/>
         <source>Clear Waypoint Library?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open in other app …</source>
-        <translation type="vanished">Ouvrir dans une autre app …</translation>
+        <translation>Effacer le point tournant de la bibiothèque ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="158"/>
@@ -4424,10 +4219,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Filtrer les points tournants</translation>
     </message>
     <message>
-        <source>Remove …</source>
-        <translation type="vanished">Effacer …</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="324"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant disponible. Pour ajouter un point tournant, tapper sur la carte.&lt;/p&gt;</translation>
@@ -4438,14 +4229,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
     </message>
     <message>
-        <source>Error exporting data…</source>
-        <translation type="vanished">Erreur lors de l&apos;exportation des données…</translation>
-    </message>
-    <message>
-        <source>Remove from device?</source>
-        <translation type="vanished">Effacer de l&apos;appareil ?</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="379"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Une fois le point tournant &lt;strong&gt;%1&lt;/strong&gt; effacé, il ne peut pas être restauré</translation>
@@ -4454,10 +4237,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="391"/>
         <source>Waypoint removed from device</source>
         <translation>Point tournant effacé de l&apos;appareil</translation>
-    </message>
-    <message>
-        <source>Clear waypoint library?</source>
-        <translation type="vanished">Effacer la bibiothèque des points tournants ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="420"/>
@@ -7631,11 +7410,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/main.qml" line="687"/>
         <location filename="../../../src/qml/main.qml" line="696"/>
         <source>What&apos;s new…?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>What&apos;s new …?</source>
-        <translation type="vanished">Nouveautés</translation>
+        <translation>Nouveautés</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="734"/>
