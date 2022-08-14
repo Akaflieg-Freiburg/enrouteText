@@ -3055,7 +3055,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="201"/>
         <source>Clear Password Storage</source>
-        <translatio>Effacer les mots de passe</translation>
+        <translation>Effacer les mots de passe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="283"/>
