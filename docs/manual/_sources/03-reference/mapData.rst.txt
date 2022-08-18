@@ -71,19 +71,6 @@ Attributions
   courtesy of the U.S. Geological Survey.
 
 
-Base maps
----------
-
-Our base maps are edited versions of maps kindly provided by `Klokan
-Technologies <https://www.klokantech.com/>`_ through the `OpenMapTiles
-<https://openmaptiles.org>`_ project.
-
-
-Our base maps are edited versions of maps kindly provided by `Klokan
-Technologies <https://www.klokantech.com/>`_ through the `OpenMapTiles
-<https://openmaptiles.org>`_ project.
-
-
 Aeronautical maps
 -----------------
 
