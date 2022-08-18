@@ -8,9 +8,8 @@ internet connection in flight.
 Base maps
 ---------
 
-Our base maps are edited versions of maps kindly provided by `Klokan
-Technologies <https://www.klokantech.com/>`_ through the `OpenMapTiles
-<https://openmaptiles.org>`_ project.
+Our base maps are generated from `Open Streetmap
+<https://www.openstreetmap.org>`_ data.
 
 
 Terrain maps
