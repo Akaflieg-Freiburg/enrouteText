@@ -2810,7 +2810,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="157"/>
         <source>The file &apos;%1&apos; contains too many waypoints. Flight routes with more than 100 waypoints are not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik &apos;%1&apos; zawiera za dużo punktów trasy. Trasy z ilością punktów większą niż 100 nie są wspierane.</translation>
     </message>
 </context>
 <context>
