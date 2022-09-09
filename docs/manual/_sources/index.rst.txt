@@ -33,7 +33,7 @@ and frequencies.
 Program version
 ---------------
 
-This manual describes program version 2.17.0.
+This manual describes program version 2.21.1.
 
 
 Table of contents
