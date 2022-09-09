@@ -2801,7 +2801,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="157"/>
         <source>The file &apos;%1&apos; contains too many waypoints. Flight routes with more than 100 waypoints are not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Datei &apos;%1&apos; enthält zu viele Wegpunkte. Routen mit mehr als 100 Wegpunkten werden nicht verarbeitet.</translation>
     </message>
 </context>
 <context>
