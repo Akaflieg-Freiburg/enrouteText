@@ -2835,7 +2835,7 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="157"/>
         <source>The file &apos;%1&apos; contains too many waypoints. Flight routes with more than 100 waypoints are not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il file &apos;%1&apos; contiene troppi waypoints. Non sono supportati piani di volo con più di 100 waypoints.</translation>
     </message>
 </context>
 <context>
