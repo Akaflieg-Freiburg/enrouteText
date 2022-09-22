@@ -101,5 +101,6 @@ Table of contents
    04-appendix/license_enroute
    04-appendix/license_3rdParty
    04-appendix/technical
+   04-appendix/tips
    04-appendix/privacy
 
