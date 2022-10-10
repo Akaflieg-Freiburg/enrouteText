@@ -580,9 +580,17 @@ no better news.&lt;/p&gt;
     </message>
 </context>
 <context>
+    <name>DataManagement</name>
+    <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="214"/>
+        <source>Manually Imported</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>DataManagement::DataManager</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="133"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="134"/>
         <source>Unable to recognize map file format.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -596,47 +604,42 @@ no better news.&lt;/p&gt;
         <source>Unable to copy map file to data directory.</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="213"/>
-        <source>Manually Imported</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>DataManagement::Downloadable_MultiFile</name>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="47"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="85"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="48"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="86"/>
         <source>Aviation Map</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="50"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="91"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="51"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="92"/>
         <source>Base Map</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="53"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="88"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="54"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="89"/>
         <source>Raster Map</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="56"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="94"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="57"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="95"/>
         <source>Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="59"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="100"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="60"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="101"/>
         <source>Terrain Map</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="62"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="97"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="63"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="98"/>
         <source>Map Set</source>
         <translation type="unfinished"></translation>
     </message>
@@ -903,78 +906,68 @@ no better news.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="62"/>
-        <source>aviation maps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="65"/>
-        <source>base maps</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="161"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="149"/>
         <source>Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="173"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="161"/>
         <source>Uninstall</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="189"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="483"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="177"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="479"/>
         <source>Download Error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="190"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="178"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="269"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="257"/>
         <source>Download all updates…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="293"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="281"/>
         <source>Maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="257"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="245"/>
         <source>Update list of maps and data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="296"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="284"/>
         <source>Data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="380"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="372"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="407"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="403"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="454"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="450"/>
         <source>Download list of maps…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="468"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="464"/>
         <source>Update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="484"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="480"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1221,58 +1214,58 @@ with the bank account data.
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="387"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="481"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="486"/>
         <source>Wind</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="490"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="495"/>
         <source>Direction from</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="514"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="594"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="519"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="599"/>
         <source>undefined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="531"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="536"/>
         <source>Speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="638"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="643"/>
         <source>One waypoint: direct route from ownship position</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="664"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="669"/>
         <source>Add Waypoint</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="697"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="702"/>
         <source>Clear Route?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="746"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="751"/>
         <source>Error Exporting Data…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="709"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="714"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="413"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="418"/>
         <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below or double click on any point in the moving map.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="717"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="722"/>
         <source>Flight route cleared</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1486,12 +1479,12 @@ with the bank account data.
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="73"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="71"/>
         <source>Aviation maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="93"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="91"/>
         <source>Basemap</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1929,13 +1922,13 @@ with the bank account data.
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
 
-&lt;p&gt;However, we&apos;d like to ask you &lt;strong&gt;to limit yourself to 8 %1.&lt;/strong&gt;
+&lt;p&gt;However, we&apos;d like to ask you &lt;strong&gt;to download only the maps that you really need.&lt;/strong&gt;
 
 &lt;p&gt;On the one hand, the bandwidth for map downloads is kindly sponsored by the University of Freiburg, under the assumption that &lt;strong&gt;the costs stays within reasonable limits.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
 
-&lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that. You already have &lt;strong&gt;%2 maps&lt;/strong&gt;.&lt;/p&gt;</source>
+&lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7070,18 +7063,18 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="155"/>
+        <location filename="../../../src/main.cpp" line="152"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="158"/>
+        <location filename="../../../src/main.cpp" line="155"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="160"/>
+        <location filename="../../../src/main.cpp" line="157"/>
         <source>File to import.</source>
         <translation type="unfinished"></translation>
     </message>
