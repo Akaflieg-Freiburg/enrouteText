@@ -790,7 +790,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="214"/>
         <source>Manually Imported</source>
-        <translation type="unfinished">Manuell importiert</translation>
+        <translation>Manuell importiert</translation>
     </message>
 </context>
 <context>
@@ -2501,7 +2501,17 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
 
 &lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Zu viele Karten&lt;/h3&gt;
+
+&lt;p&gt;Danke für die Benutzung von Enroute Flight Navigation, wir wissen Ihr Engagement sehr zu schätzen.&lt;/p&gt;
+
+&lt;p&gt;Allerdings müssen wir Sie leider darum bitten, &lt;strong&gt;nur wirklich benötigte Karten herunterzuladen.&lt;/strong&gt;
+
+&lt;p&gt;Zum einen wird die Bandbreite für die Kartendownloads freundlicherweise von der Universität Freiburg gesponsort, davon ausgehend, dass &lt;strong&gt;die Kosten dafür in vernünftigen Grenzen bleiben.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zum anderen läuft die App einfach besser, wenn sie nicht so viele Megabytes an Kartendaten verarbeiten muss.&lt;/p&gt;
+
+&lt;p&gt;Wenn irgend möglich, würden wir eine harte Begrenzung der Kartenanzahl auch zukünftig gern vermeiden. Bitte helfen Sie dabei mit.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
