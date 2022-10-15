@@ -796,7 +796,7 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="214"/>
         <source>Manually Imported</source>
-        <translation type="unfinished">Importata manualmente</translation>
+        <translation>Importata manualmente</translation>
     </message>
 </context>
 <context>
@@ -2559,7 +2559,17 @@ con i dati del conto bancario.
 &lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
 
 &lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;h3&gt;Troppe mappe.&lt;/h3&gt;
+
+&lt;p&gt;Grazie per usare Enroute Flight Navigation, vi siamo molto grati per la vostra dedizione.&lt;/p&gt;
+
+&lt;p&gt;Comunque, vorremmo chiedervi di &lt;strong&gt;scaricare solo le mappe che usate realmente.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;D&apos;altro canto, la banda per scaricare le mappe è gentilmente offerta dall&apos;Università di Freiburg, a condizione che &lt;strong&gt;i costi rimangano entro limiti ragionevoli.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Inoltre l&apos;app funziona molto meglio se non deve elaborare molti mega di dati di mappa.&lt;/p&gt;
+
+&lt;p&gt;Ce la stiamo mettendo tutta per evitare di introdurre un limite nel numero di mappe scaricabili per il futuro. Per favore aiutateci in questo.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
