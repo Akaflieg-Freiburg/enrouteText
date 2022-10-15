@@ -726,7 +726,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="214"/>
         <source>Manually Imported</source>
-        <translation type="unfinished">Importé manuellement</translation>
+        <translation>Importé manuellement</translation>
     </message>
 </context>
 <context>
@@ -745,10 +745,6 @@ données de manière publique et gratuite.&lt;/p&gt;
         <location filename="../../../src/dataManagement/DataManager.cpp" line="146"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Impossible de copier le fichier de carte vers le dossier de données.</translation>
-    </message>
-    <message>
-        <source>Manually Imported</source>
-        <translation type="vanished">Importé manuellement</translation>
     </message>
 </context>
 <context>
@@ -1046,14 +1042,6 @@ données de manière publique et gratuite.&lt;/p&gt;
 </context>
 <context>
     <name>DataManager</name>
-    <message>
-        <source>aviation maps</source>
-        <translation type="vanished">cartes aéronautiques</translation>
-    </message>
-    <message>
-        <source>base maps</source>
-        <translation type="vanished">fonds de carte</translation>
-    </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="34"/>
         <source>Map and Data Library</source>
@@ -1873,32 +1861,6 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         </translation>
     </message>
     <message>
-        <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
-
-&lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
-
-&lt;p&gt;However, we&apos;d like to ask you &lt;strong&gt;to limit yourself to 8 %1.&lt;/strong&gt;
-
-&lt;p&gt;On the one hand, the bandwidth for map downloads is kindly sponsored by the University of Freiburg, under the assumption that &lt;strong&gt;the costs stays within reasonable limits.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
-
-&lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that. You already have &lt;strong&gt;%2 maps&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="vanished">
-&lt;h3&gt;Trop de cartes&lt;/h3&gt;
-
-&lt;p&gt;Merci d&apos;utiliser Enroute Flight Navigation, votre engouement nous touche beaucoup.&lt;/p&gt;
-
-&lt;p&gt;Cependant, nous vous demandons de bien vouloir &lt;strong&gt;vous limiter à 8 %1.&lt;/strong&gt;
-
-&lt;p&gt;La bande passante requise pour télécharger les cartes est fournie par l&apos;Université de Freiburg, à la condition que &lt;strong&gt;les coups restent raisonnables.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;D&apos;autre part, l&apos;application sera plus performante si elle ne doit pas traiter des tonnes de données d&apos;un seul coup.&lt;/p&gt;
-
-&lt;p&gt;Nous faisons notre possible pour éviter d&apos;imposer une limite sur le nombre de cartes. Merci d&apos;être compréhensifs et de nous y aider. Vous avez déjà &lt;strong&gt;%2 cartes&lt;/strong&gt;.
-</translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="135"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
@@ -2135,7 +2097,17 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 &lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
 
 &lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Trop de cartes&lt;/h3&gt;
+
+&lt;p&gt;Merci d&apos;utiliser Enroute Flight Navigation, votre engouement nous touche beaucoup.&lt;/p&gt;
+
+&lt;p&gt;Cependant, nous vous demandons de bien vouloir &lt;strong&gt;télécharger uniquement les cartes dont vous avez besoin.&lt;/strong&gt;
+
+&lt;p&gt;D&apos;une part, la bande passante requise pour télécharger les cartes est fournie par l&apos;Université de Freiburg, à la condition que &lt;strong&gt;les coups restent raisonnables.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;D&apos;autre part, l&apos;application sera plus performante si elle ne doit pas traiter des tonnes de données d&apos;un seul coup.&lt;/p&gt;
+
+&lt;p&gt;Nous faisons notre possible pour éviter d&apos;imposer une limite sur le nombre de cartes. Merci d&apos;être compréhensifs et de nous y aider.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="268"/>
