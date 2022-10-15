@@ -2559,7 +2559,7 @@ con i dati del conto bancario.
 &lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
 
 &lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Troppe mappe.&lt;/h3&gt;
+        <translation>&lt;h3&gt;Troppe mappe.&lt;/h3&gt;
 
 &lt;p&gt;Grazie per usare Enroute Flight Navigation, vi siamo molto grati per la vostra dedizione.&lt;/p&gt;
 
