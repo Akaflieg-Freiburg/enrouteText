@@ -788,7 +788,7 @@ anderes dazu sagen können.&lt;/p&gt;
 <context>
     <name>DataManagement</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="214"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="225"/>
         <source>Manually Imported</source>
         <translation>Manuell importiert</translation>
     </message>
@@ -812,17 +812,17 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation type="vanished">Die Kartendaten stammen aus folgenden Quellen:</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="134"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="145"/>
         <source>Unable to recognize map file format.</source>
         <translation>Erkenne Dateiformat der Karte nicht.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="139"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="150"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>Kann Verzeichnis &apos;%1&apos; nicht anlegen.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="146"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="157"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Kann Kartendatei nicht ins Datenverzeichnis kopieren.</translation>
     </message>
@@ -2519,6 +2519,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>&lt;p&gt;Die Seite &apos;Karten- und Datenbiliothek&apos; wurde zur leichteren Bedienung neu gestaltet.&lt;/p&gt;</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="279"/>
+        <source>&lt;p&gt;The boundaries of our aviation maps have been adjusted to match the base maps. &lt;strong&gt;Users in Canada, Slovenia, the UK and the USA: please re-install your aviation maps if necessary.&lt;/strong&gt; We apologize for the inconvenience.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;The altimeter can now show your altitude above ground level. To try this new feature, open the main menu and go to &apos;Settings&apos;. Make sure that terrain data is installed.&lt;/p&gt;</source>
         <translation type="vanished">&lt;p&gt;Die Höhenanzeige kann nun auch Höhen über Grund anzeigen. Sie erreichen diese neue Funktion über die Einstellungen im Hauptmenü. Dafür müssen Terrain-Daten installiert sein.&lt;/p&gt;</translation>
     </message>
@@ -2531,7 +2536,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">&lt;p&gt;Wie vielfach gewünscht, lassen sich jetzt Wegpunkte in einer kleinen Bibliothek speichern.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="279"/>
+        <location filename="../../../src/Librarian.cpp" line="280"/>
         <source>&lt;p&gt;We could need help with French translations. If you would like to help, if speak French and know how to use the GIT version control system, please let us know.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Wir könnten Hilfe bei der Übersetzung ins Französische gebrauchen. Wenn Sie gern helfen würden, Französisch sprechen und mit dem GIT-Versionierungssystem umgehen können, hören wir gern von Ihnen.&lt;/p&gt;</translation>
     </message>

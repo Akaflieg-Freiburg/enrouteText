@@ -797,7 +797,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
 <context>
     <name>DataManagement</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="214"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="225"/>
         <source>Manually Imported</source>
         <translation type="unfinished">Ręcznie zaimportowany</translation>
     </message>
@@ -821,17 +821,17 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
         <translation type="vanished">Dane mapy zostały skompilowane z następujących źródeł.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="134"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="145"/>
         <source>Unable to recognize map file format.</source>
         <translation>Nie rozpoznany format pliku mapy.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="139"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="150"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>Brak możliwości utworzenia katalogu &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="146"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="157"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Brak możliwości skopiowania pliku mapy do katalogu z danymi.</translation>
     </message>
@@ -2588,6 +2588,11 @@ z danymi konta bankowego.
         <translation>&lt;p&gt;Strona &apos;Biblioteka map i danych&apos; została przeprojektowania w celu ułatwienia obsługi.&lt;/p&gt;</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="279"/>
+        <source>&lt;p&gt;The boundaries of our aviation maps have been adjusted to match the base maps. &lt;strong&gt;Users in Canada, Slovenia, the UK and the USA: please re-install your aviation maps if necessary.&lt;/strong&gt; We apologize for the inconvenience.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;The altimeter can now show your altitude above ground level. To try this new feature, open the main menu and go to &apos;Settings&apos;. Make sure that terrain data is installed.&lt;/p&gt;</source>
         <translation type="vanished">&lt;p&gt;Wysokościomierz może teraz pokazywać wysokość ponad poziomem ziemi. Aby spróbować tej funkcji, otwórz główne menu, idź do &apos;Ustawień&apos;. Upewnij się, że dane terenu są zainstalowane.&lt;/p&gt;</translation>
     </message>
@@ -2600,7 +2605,7 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;p&gt;Zgodnie z oczekiwaniami wielu użytkowników, od teraz można zapisywać punkty orientacyjne i budować z nich małe biblioteki punktów.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="279"/>
+        <location filename="../../../src/Librarian.cpp" line="280"/>
         <source>&lt;p&gt;We could need help with French translations. If you would like to help, if speak French and know how to use the GIT version control system, please let us know.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Potrzebowalibyśmy pomocy z tłumaczeniem na język francuski. Jeśli chcesz pomóc, mówisz po francusku i wiesz jak używać systemu kontroli wersji GIT, proszę daj nam znać.&lt;/p&gt;</translation>
     </message>

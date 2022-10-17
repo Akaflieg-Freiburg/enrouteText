@@ -794,7 +794,7 @@ la nostra App.&lt;/p&gt;
 <context>
     <name>DataManagement</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="214"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="225"/>
         <source>Manually Imported</source>
         <translation>Importata manualmente</translation>
     </message>
@@ -818,17 +818,17 @@ la nostra App.&lt;/p&gt;
         <translation type="vanished">I dati della mappa sono stati compilati dalle seguenti fonti.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="134"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="145"/>
         <source>Unable to recognize map file format.</source>
         <translation>Impossibile riconoscere il formato file della mappa.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="139"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="150"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>Impossibile creae la cartella &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="146"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="157"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Impossibile copiare il file mappa nella cartella.</translation>
     </message>
@@ -2577,6 +2577,11 @@ con i dati del conto bancario.
         <translation>&lt;p&gt;La pagina &apos;Mappa e Dati Libreria&apos; è stata ridisegnata per semplicità d&apos;uso.&lt;/p&gt;</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="279"/>
+        <source>&lt;p&gt;The boundaries of our aviation maps have been adjusted to match the base maps. &lt;strong&gt;Users in Canada, Slovenia, the UK and the USA: please re-install your aviation maps if necessary.&lt;/strong&gt; We apologize for the inconvenience.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;The altimeter can now show your altitude above ground level. To try this new feature, open the main menu and go to &apos;Settings&apos;. Make sure that terrain data is installed.&lt;/p&gt;</source>
         <translation type="vanished">&lt;p&gt;L&apos;altimetro può adesso mostrare la tua altezza dal terreno. Prova questa nuova funzione, dal menù seleziona &apos;Impostazioni&apos;. Assicurati che i dati sul terreno siano installati.&lt;/p&gt;</translation>
     </message>
@@ -2589,7 +2594,7 @@ con i dati del conto bancario.
         <translation type="vanished">&lt;p&gt;Come richiesto da molti utenti, è adesso possibile salvare i waypoints e costruire un archivio di waypoints.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="279"/>
+        <location filename="../../../src/Librarian.cpp" line="280"/>
         <source>&lt;p&gt;We could need help with French translations. If you would like to help, if speak French and know how to use the GIT version control system, please let us know.&lt;/p&gt;</source>
         <translatorcomment>I believe the &quot;how to use GIT version control system&quot; is not needed. I didn&apos;t know how to use it and learned in few minutes.</translatorcomment>
         <translation>&lt;p&gt;Abbiamo bisogno di aiuto nella traduzione in francese. Se vorrai aiutarci, se parli francese e sai come usare il sistema di controllo GIT, contattaci.&lt;/p&gt;</translation>
