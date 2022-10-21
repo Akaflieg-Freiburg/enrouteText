@@ -2579,7 +2579,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
         <source>&lt;p&gt;The boundaries of our aviation maps have been adjusted to match the base maps. &lt;strong&gt;Users in Canada, Slovenia, the UK and the USA: please re-install your aviation maps if necessary.&lt;/strong&gt; We apologize for the inconvenience.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;I confini delle nostre mappe aeronautiche sono stati sistemati secondo le mappe base. &lt;strong&gt;Per gli utenti in Canada, Slovenia, UK e USA: reinstallate le vostre mappe aeronautiche se necessario.&lt;/strong&gt; Ci scusiamo per l&apos;inconveniente.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;The altimeter can now show your altitude above ground level. To try this new feature, open the main menu and go to &apos;Settings&apos;. Make sure that terrain data is installed.&lt;/p&gt;</source>
