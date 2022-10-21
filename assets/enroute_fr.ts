@@ -2136,7 +2136,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
         <source>&lt;p&gt;The boundaries of our aviation maps have been adjusted to match the base maps. &lt;strong&gt;Users in Canada, Slovenia, the UK and the USA: please re-install your aviation maps if necessary.&lt;/strong&gt; We apologize for the inconvenience.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Les frontières de nos cartes aéronautiques ont été ajustée pour correspondre aux fonds de cartes. &lt;strong&gt;Pour les utilisateurs des cartes du Canada, Slovénie, UK et USA: veuillez réinstaller vos cartes si nécessaire.&lt;/strong&gt; We apologize for the inconvenience.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="280"/>
