@@ -1341,7 +1341,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="371"/>
         <source>&lt;h3&gt;Update required!&lt;/h3&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Update erforderlich!&lt;/h3&gt;</translation>
     </message>
     <message>
         <source>Update list of maps</source>
@@ -2311,7 +2311,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="51"/>
         <source>&lt;p&gt;This version of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is outdated and will no longer receive map updates. &lt;strong&gt;Please update this app at your earliest convencience.&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Diese Version von &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ist veraltet und erhält keine Updates mehr. &lt;strong&gt;Bitte aktualisieren Sie die App bei nächster Gelegenheit.&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="77"/>
@@ -8133,7 +8133,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="539"/>
         <source>Update required!</source>
-        <translation type="unfinished"></translation>
+        <translation>Update erforderlich!</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="654"/>
