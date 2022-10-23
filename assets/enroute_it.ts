@@ -5070,7 +5070,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="425"/>
         <source>[unable to convert temperature to °C]</source>
-        <translation>[impossibile convertire la temperatura in C°]</translation>
+        <translation>[impossibile convertire la temperatura in °C]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="433"/>
@@ -5556,7 +5556,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="875"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1964"/>
         <source>mist</source>
-        <translation>misto</translation>
+        <translatorcomment>&quot;Haze&quot; and &quot;mist&quot; in Italian are Synonyms</translatorcomment>
+        <translation>foschia</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="872"/>
@@ -5591,6 +5592,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="878"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1982"/>
         <source>haze</source>
+        <translatorcomment>&quot;Haze&quot; and &quot;mist&quot; in Italian are Synonyms</translatorcomment>
         <translation>foschia</translation>
     </message>
     <message>
@@ -6085,7 +6087,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="950"/>
         <source>statute miles</source>
-        <translation>miglia di statuto</translation>
+        <translation>miglia statutarie</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="962"/>
@@ -6155,7 +6157,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1001"/>
         <source>Frequent moderate turbulence in clear air</source>
-        <translation>frequenti moderata turbolenza in aria limpida</translation>
+        <translation>Frequente moderata turbolenza in aria limpida</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1004"/>
@@ -6170,22 +6172,22 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1010"/>
         <source>Occasional severe turbulence in clear air</source>
-        <translation>Occasionali forti turbolenze in aria limpida</translation>
+        <translation>Occasionale forte turbolenza in aria limpida</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1013"/>
         <source>Frequent severe turbulence in clear air</source>
-        <translation>Frequenti forti turbolenze in aria limpida</translation>
+        <translation>Frequente forte turbolenze in aria limpida</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1016"/>
         <source>Occasional severe turbulence in cloud</source>
-        <translation>Occasionali forti turbolenze in nuvole</translation>
+        <translation>Occasionale forte turbolenza in nuvole</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1019"/>
         <source>Frequent severe turbulence in cloud</source>
-        <translation>Frequenti forti turbolenze in nuvole</translation>
+        <translation>Frequentieforte turbolenza in nuvole</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1022"/>
@@ -6225,7 +6227,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1058"/>
         <source>increasing more slowly</source>
-        <translation>aumenta molto lentamente</translation>
+        <translation>aumenta più lentamente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1061"/>
@@ -6875,7 +6877,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1844"/>
         <source>phenomenal, wave height &gt;14 meters</source>
-        <translation>burrascoso, altezza delle onde&gt; 14 metri</translation>
+        <translation>burrascoso, altezza delle onde &gt;14 metri</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1860"/>
@@ -7039,7 +7041,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2147"/>
         <source>Correctional report</source>
-        <translation>Repilogo di correzione</translation>
+        <translation>Riepilogo di correzione</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2150"/>
@@ -7105,7 +7107,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2214"/>
         <source>Less than 1 strike per minute.</source>
-        <translation>Menu di 1 fulmini al minuto.</translation>
+        <translation>Menu di 1 fulmine al minuto.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2218"/>
@@ -7211,42 +7213,42 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2349"/>
         <source>Colour code BLUE: visibility &gt;8000 m and lowest cloud base height &gt;2500 ft</source>
-        <translation>Codice colore BLU: visibilità&gt; 8000 m e altezza minima della base delle nuvole &gt; 2500 ft</translation>
+        <translation>Codice colore BLU: visibilità &gt;8000 m e altezza minima della base delle nuvole &gt;2500 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2358"/>
         <source>Colour code BLUE+: visibility &gt;8000 m or lowest cloud base height &gt;2000 ft</source>
-        <translation>Codice colore BLU+: visibilità&gt; 8000 m e altezza minima della base delle nuvole &gt; 2000 ft</translation>
+        <translation>Codice colore BLU+: visibilità &gt;8000 m e altezza minima della base delle nuvole &gt;2000 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2367"/>
         <source>Colour code YELLOW: visibility 1600-3700 m or lowest cloud base height 300-700 ft</source>
-        <translation>Codice colore GIALLO: visibilità&gt; 1600-3700 m e altezza minima della base delle nuvole 300-700 ft</translation>
+        <translation>Codice colore GIALLO: visibilità 1600-3700 m e altezza minima della base delle nuvole 300-700 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2376"/>
         <source>Colour code WHITE: visibility &gt;5000 m and lowest cloud base height &gt;1500 ft</source>
-        <translation>Codice colore BIANCO: visibilità&gt; 5000 m e altezza minima della base delle nuvole &gt; 1500 ft</translation>
+        <translation>Codice colore BIANCO: visibilità &gt;5000 m e altezza minima della base delle nuvole &gt;1500 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2385"/>
         <source>Colour code GREEN: visibility &gt;3700 m and lowest cloud base height &gt;700 ft</source>
-        <translation>Codice colore VERDE: visibilità&gt; 3700 m e altezza minima della base delle nuvole &gt; 700 ft</translation>
+        <translation>Codice colore VERDE: visibilità &gt;3700 m e altezza minima della base delle nuvole &gt;700 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2394"/>
         <source>Colour code YELLOW 1: visibility &gt;2500 m and lowest cloud base height &gt;500 ft</source>
-        <translation>Codice colore GIALLO 1: visibilità&gt; 2500 m e altezza minima della base delle nuvole &gt; 500 ft</translation>
+        <translation>Codice colore GIALLO 1: visibilità &gt;2500 m e altezza minima della base delle nuvole &gt;500 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2403"/>
         <source>Colour code YELLOW 2: visibility &gt;1600 m and lowest cloud base height &gt;300 ft</source>
-        <translation>Codice colore GIALLO 2: visibilità&gt; 1600 m e altezza minima della base delle nuvole &gt; 300 ft</translation>
+        <translation>Codice colore GIALLO 2: visibilità &gt;1600 m e altezza minima della base delle nuvole &gt;300 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2412"/>
         <source>Colour code AMBER: visibility &gt;800 m and lowest cloud base height &gt;200 ft</source>
-        <translation>Codice colore AMBRA: visibilità&gt; 800 m e altezza minima della base delle nuvole &gt; 200 ft</translation>
+        <translation>Codice colore AMBRA: visibilità &gt;800 m e altezza minima della base delle nuvole &gt;200 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2425"/>
@@ -7266,7 +7268,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2444"/>
         <source>Total precipitation for the past hour: %1.</source>
-        <translation>Totali precipitazioni nelle ultime ore: %1.</translation>
+        <translation>Totale precipitazioni nelle ultime ore: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2448"/>
@@ -7276,47 +7278,47 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2452"/>
         <source>Water equivalent of frozen precipitation for the last 3 or 6 hours: %1.</source>
-        <translation>Equivalente in acqua della precipitazione gelata nelle ultime 3 o 6 ore:%1.</translation>
+        <translation>Equivalente in acqua della precipitazione gelata nelle ultime 3 o 6 ore: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2456"/>
         <source>Water equivalent of frozen precipitation for the last 3 hours: %1.</source>
-        <translation>Equivalente in acqua della precipitazione gelata nelle ultime 3 ore:%1.</translation>
+        <translation>Equivalente in acqua della precipitazione gelata nelle ultime 3 ore: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2460"/>
         <source>Water equivalent of frozen precipitation for the last 6 hours: %1.</source>
-        <translation>Equivalente in acqua della precipitazione congelata nelle ultime 6 ore:%1.</translation>
+        <translation>Equivalente in acqua della precipitazione congelata nelle ultime 6 ore: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2464"/>
         <source>Water equivalent of frozen precipitation for the last 24 hours: %1.</source>
-        <translation>Equivalente in acqua della precipitazione congelata nelle ultime 24 ore:%1.</translation>
+        <translation>Equivalente in acqua della precipitazione congelata nelle ultime 24 ore: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2468"/>
         <source>Snowfall for the last 6 hours: %1.</source>
-        <translation>Nevicate nelle ultime ore: %1.</translation>
+        <translation>Nevicate nelle ultime 6 ore: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2472"/>
         <source>Water equivalent of snow on ground: %1.</source>
-        <translation>Equivalente in acqua della neve al suolo:%1.</translation>
+        <translation>Equivalente in acqua della neve al suolo: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2476"/>
         <source>Ice accretion for the last hour: %1.</source>
-        <translation>Accrescimento di ghiaccio nell&apos;ultima ora:%1.</translation>
+        <translation>Accrescimento di ghiaccio nell&apos;ultima ora: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2480"/>
         <source>Ice accretion for the last 3 hours: %1.</source>
-        <translation>Accrescimento di ghiaccio nelle ultime 3 ore:%1.</translation>
+        <translation>Accrescimento di ghiaccio nelle ultime 3 ore: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2484"/>
         <source>Ice accretion for the last 6 hours: %1.</source>
-        <translation>Accrescimento di ghiaccio nelle ultime 6 ore:%1.</translation>
+        <translation>Accrescimento di ghiaccio nelle ultime 6 ore: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2488"/>
@@ -7331,12 +7333,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2497"/>
         <source>Rainfall for the last 10 minutes before report release time: %1. Rainfall since 9:00 local time: %2.</source>
-        <translation>Precipitazioni negli ultimi 10 minuti precedenti all&apos;emissione del rapporto delle %1. Precipitazioni dalle 9:00 ora locale:%2.</translation>
+        <translation>Precipitazioni negli ultimi 10 minuti precedenti all&apos;emissione del rapporto delle %1. Precipitazioni dalle 9:00 ora locale: %2.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2502"/>
         <source>Tipping bucket rain gauge INOP.</source>
-        <translation>Pluvimentro INOP.</translation>
+        <translation>Pluviomentro INOP.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2505"/>
@@ -7418,6 +7420,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2607"/>
         <source>runway closed due to snow accumulation</source>
+        <translatorcomment>Pls review the first letter (Capital letter or else). Is this a statement per se or is part of a bigger statement?</translatorcomment>
         <translation>Pista chiusa per accumulo neve</translation>
     </message>
     <message>
@@ -7428,6 +7431,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2614"/>
         <source>runway is not operational</source>
+        <translatorcomment>Pls review the first letter (Capital letter or else). Is this a statement per se or is part of a bigger statement?</translatorcomment>
         <translation>La pista non è operativa</translation>
     </message>
     <message>
@@ -7632,7 +7636,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2863"/>
         <source>Visibility is %1. Station cannot differentiate the directional variation of visibility</source>
-        <translation>La visibilità è%1. La stazione non può differenziare la variazione direzionale della visibilità</translation>
+        <translation>La visibilità è %1. La stazione non può differenziare la variazione direzionale della visibilità</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2867"/>
@@ -7697,7 +7701,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2934"/>
         <source>Sector visibility is variable from %1 to %2 in the following directions: %3</source>
-        <translation>La visibilità del settore è variabile da%1 a%2 nelle seguenti direzioni:%3</translation>
+        <translation>La visibilità del settore è variabile da %1 a %2 nelle seguenti direzioni: %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2940"/>
@@ -7872,7 +7876,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2275"/>
         <source>Low cloud layer: %1 • Mid cloud layer: %2 • High cloud layer: %3</source>
-        <translation>Strato basso nuvole: %1 Strato medio nuvole: %2 Strato alto nuvole: %3 {1 ?} {2 ?}</translation>
+        <translation>Strato basso nuvole: %1 • Strato medio nuvole: %2 • Strato alto nuvole: %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2421"/>
