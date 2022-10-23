@@ -799,7 +799,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="225"/>
         <source>Manually Imported</source>
-        <translation type="unfinished">Ręcznie zaimportowany</translation>
+        <translation>Ręcznie zaimportowany</translation>
     </message>
 </context>
 <context>
@@ -1348,7 +1348,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="371"/>
         <source>&lt;h3&gt;Update required!&lt;/h3&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Wymagana aktualizacja!&lt;/h3&gt;</translation>
     </message>
     <message>
         <source>Update list of maps</source>
@@ -2366,7 +2366,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="51"/>
         <source>&lt;p&gt;This version of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is outdated and will no longer receive map updates. &lt;strong&gt;Please update this app at your earliest convencience.&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Ta wersja &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; jest nieaktualna i nie będzie otrzymywała aktualizacji map. &lt;strong&gt;Proszę zaktualizować tą aplikację przy najbliższej okazji.&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="77"/>
@@ -2590,7 +2590,17 @@ z danymi konta bankowego.
 &lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
 
 &lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Za dużo map&lt;/h3&gt;
+
+&lt;p&gt;Dziękujemy za używanie Enroute Flight Navigation, bardzo doceniamy twoje zaangażowanie.&lt;/p&gt;
+
+&lt;p&gt;Jednakże, chcielibyśmy cię prosić &lt;strong&gt;aby pobierać tylko te mapy, które rzeczywiście potrzebujesz.&lt;/strong&gt;
+
+&lt;p&gt;Z jednej strony, magazyn map jest sponsorowany przez Universytet we Freiburgu, przy założeniach, że &lt;strong&gt;koszty pozostaną w rozsądnych limitach.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Z drugiej striny, aplikacja będzie działała sprawniej, jeśli nie będzie musiała przetwarzać wielu megabajtów danych map.&lt;/p&gt;
+
+&lt;p&gt;Staramy się bardzo, aby uniknąć twardego limitu na liczbę map w przyszłości. Proszę pomóż nam w tym.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
@@ -2600,7 +2610,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="284"/>
         <source>&lt;p&gt;The boundaries of our aviation maps have been adjusted to match the base maps. &lt;strong&gt;Users in Canada, Slovenia, the UK and the USA: please re-install your aviation maps if necessary.&lt;/strong&gt; We apologize for the inconvenience.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Granice map lotniczych zostały dostosowane do map bazowych. &lt;strong&gt;Użytkownicy w Kanadzie, Słowenii, Wielkiej Brytanii oraz w USA: prosimy przeinstalować mapy lotnicze w razie potrzeby.&lt;/strong&gt; Przepraszamy za niedogodności.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;The altimeter can now show your altitude above ground level. To try this new feature, open the main menu and go to &apos;Settings&apos;. Make sure that terrain data is installed.&lt;/p&gt;</source>
@@ -8159,7 +8169,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="539"/>
         <source>Update required!</source>
-        <translation type="unfinished"></translation>
+        <translation>Wymagana aktualizacja!</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="654"/>
