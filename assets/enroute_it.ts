@@ -1345,7 +1345,7 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="371"/>
         <source>&lt;h3&gt;Update required!&lt;/h3&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Aggiornamento richiesto!&lt;/h3&gt;</translation>
     </message>
     <message>
         <source>Update list of maps</source>
@@ -2802,7 +2802,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="51"/>
         <source>&lt;p&gt;This version of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is outdated and will no longer receive map updates. &lt;strong&gt;Please update this app at your earliest convencience.&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Questa versione di &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è obsoleta e non riceverà più aggiornamenti delle mappe. &lt;strong&gt;Aggiorna questa app il prima possibile.&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="273"/>
@@ -8166,7 +8166,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="539"/>
         <source>Update required!</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiornamento richiesto!</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="654"/>
