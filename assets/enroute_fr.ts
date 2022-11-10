@@ -1697,104 +1697,104 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>ImportManager</name>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="70"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="71"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; cannot be recognized.</source>
         <translation>Le type du fichier &lt;strong&gt;%1&lt;/strong&gt; n&apos;a pas pu être reconnu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="89"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="90"/>
         <source>Import Waypoint Data</source>
         <translation>Importer des points tournants</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="97"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="98"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
         <translation>Le fichier contient une liste de points tournants. Importer en tant que route, ou ajouter à la bibiothèque des points tournants ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="107"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="108"/>
         <source>Route</source>
         <translation>Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="121"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="122"/>
         <source>Library</source>
         <translation>Bibliothèque</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="152"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="153"/>
         <source>Import Raster Map</source>
         <translation>Importer les cartes matricielles</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="160"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="234"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="161"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="235"/>
         <source>Enter a name for this map.</source>
         <translation>Entrez un nom pour cette carte.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="170"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="244"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="171"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="245"/>
         <source>Map Name</source>
         <translation>Nom de la carte</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="184"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="185"/>
         <source>To avoid conflicts between raster and vector maps, all vector maps will be uninstalled.</source>
         <translation>Pour éviter tout conflit entre les cartes matricielles et vectorielles, les cartes matricielles seront désinstallées.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="208"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="209"/>
         <source>Raster map imported</source>
         <translation>Cartes matricielles importées</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="226"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="227"/>
         <source>Import Vector Map</source>
         <translation>Importer les cartes vectorielles</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="258"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="259"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
         <translation>Pour éviter tout conflit entre les cartes matricielles et vectorielles, les cartes matricielles seront désinstallées.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="282"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="283"/>
         <source>Vector map imported</source>
         <translation>Cartes vectorielles importées</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="300"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="301"/>
         <source>Import Waypoint Library</source>
         <translation>Importer une bibiothèque de points tournants</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="402"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="403"/>
         <source>Data Import Error</source>
         <translation>Erreur lors de l&apos;importation des données</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="309"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="310"/>
         <source>Skip over waypoint that already exist in the library</source>
         <translation>Ignorer les points tournants qui existent déjà dans la bibiothèque</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="331"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="332"/>
         <source>Waypoints imported</source>
         <translation>Points tournants importés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="349"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="350"/>
         <source>Import Flight Route?</source>
         <translation>Importer la route ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="356"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="357"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Cela écrasera la route actuelle. Après écrasement, la route actuelle ne pourra pas être restaurée.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="381"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="382"/>
         <source>Flight route imported</source>
         <translation>Route importée</translation>
     </message>
@@ -2366,49 +2366,40 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
 <context>
     <name>MobileAdaptor</name>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="54"/>
         <source>Import data</source>
-        <translation>Importer les données</translation>
+        <translation type="vanished">Importer les données</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="56"/>
         <source>All files (*)</source>
-        <translation>Tous les fichiers (*)</translation>
+        <translation type="vanished">Tous les fichiers (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="83"/>
         <source>No suitable file sharing app could be found.</source>
-        <translation>Aucun fichier de partage d&apos;application n&apos;a pu être trouvé</translation>
+        <translation type="vanished">Aucun fichier de partage d&apos;application n&apos;a pu être trouvé</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="86"/>
         <source>Export flight route</source>
-        <translation>Exporter la route</translation>
+        <translation type="vanished">Exporter la route</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="88"/>
         <source>%1 (*.%2);;All files (*)</source>
-        <translation>%1 (*.%2);;Tous les fichiers (*)</translation>
+        <translation type="vanished">%1 (*.%2);;Tous les fichiers (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="95"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation>Impossible d&apos;ouvrir le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
+        <translation type="vanished">Impossible d&apos;ouvrir le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="99"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation>Impossible d&apos;écrire dans le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
+        <translation type="vanished">Impossible d&apos;écrire dans le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="119"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation>Aucune application permettant de visualiser ces données n&apos;a été trouvée.</translation>
+        <translation type="vanished">Aucune application permettant de visualiser ces données n&apos;a été trouvée.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="125"/>
         <source>Unable to open data in other app.</source>
-        <translation>Impossible d&apos;ouvrir les données dans une autre application.</translation>
+        <translation type="vanished">Impossible d&apos;ouvrir les données dans une autre application.</translation>
     </message>
 </context>
 <context>
@@ -2674,47 +2665,135 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     </message>
 </context>
 <context>
+    <name>Platform::FileExchange</name>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="110"/>
+        <source>No suitable file sharing app could be found.</source>
+        <translation type="unfinished">Aucun fichier de partage d&apos;application n&apos;a pu être trouvé</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="125"/>
+        <source>No suitable app for viewing this data could be found.</source>
+        <translation type="unfinished">Aucune application permettant de visualiser ces données n&apos;a été trouvée.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
+        <source>Import data</source>
+        <translation type="unfinished">Importer les données</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
+        <source>All files (*)</source>
+        <translation type="unfinished">Tous les fichiers (*)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
+        <source>Export flight route</source>
+        <translation type="unfinished">Exporter la route</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
+        <source>%1 (*.%2);;All files (*)</source>
+        <translation type="unfinished">%1 (*.%2);;Tous les fichiers (*)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="65"/>
+        <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
+        <translation type="unfinished">Impossible d&apos;ouvrir le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="70"/>
+        <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
+        <translation type="unfinished">Impossible d&apos;écrire dans le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="82"/>
+        <source>Unable to open temporary file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="92"/>
+        <source>Unable to open data in other app.</source>
+        <translation type="unfinished">Impossible d&apos;ouvrir les données dans une autre application.</translation>
+    </message>
+</context>
+<context>
     <name>Platform::Notifier</name>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="52"/>
         <source>Downloading map and data…</source>
-        <translation>Téléchargement des cartes et des données...</translation>
+        <translation type="vanished">Téléchargement des cartes et des données...</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="54"/>
         <source>Traffic data receiver problem</source>
-        <translation>Problème du récepteur de données de traffic</translation>
+        <translation type="vanished">Problème du récepteur de données de traffic</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="56"/>
         <source>Traffic data receiver self test error</source>
-        <translation>Erreur de l&apos;auto-test du récepteur de données de traffic</translation>
+        <translation type="vanished">Erreur de l&apos;auto-test du récepteur de données de traffic</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="58"/>
         <source>Map and data updates available</source>
-        <translation>Mises à jour de cartes et données disponibles</translation>
+        <translation type="vanished">Mises à jour de cartes et données disponibles</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier_Android.cpp" line="81"/>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="194"/>
+        <source>Update</source>
+        <translation type="unfinished">Mettre à jour</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="195"/>
+        <source>Dismiss</source>
+        <translation type="unfinished">Ignorer</translation>
+    </message>
+</context>
+<context>
+    <name>Platform::Notifier_Abstract</name>
+    <message>
+        <location filename="../../../src/platform/Notifier_Abstract.cpp" line="55"/>
+        <source>Downloading map and data…</source>
+        <translation type="unfinished">Téléchargement des cartes et des données...</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier_Abstract.cpp" line="57"/>
+        <source>Traffic data receiver problem</source>
+        <translation type="unfinished">Problème du récepteur de données de traffic</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier_Abstract.cpp" line="59"/>
+        <source>Traffic data receiver self test error</source>
+        <translation type="unfinished">Erreur de l&apos;auto-test du récepteur de données de traffic</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier_Abstract.cpp" line="61"/>
+        <source>Map and data updates available</source>
+        <translation type="unfinished">Mises à jour de cartes et données disponibles</translation>
     </message>
 </context>
 <context>
     <name>Platform::Notifier_Android</name>
     <message>
-        <location filename="../../../src/platform/Notifier_Android.cpp" line="81"/>
         <source>Update</source>
-        <translation>Mettre à jour</translation>
+        <translation type="vanished">Mettre à jour</translation>
     </message>
 </context>
 <context>
     <name>Platform::Notifier_Linux</name>
     <message>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="196"/>
         <source>Update</source>
-        <translation>Mettre à jour</translation>
+        <translation type="vanished">Mettre à jour</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="197"/>
         <source>Dismiss</source>
-        <translation>Ignorer</translation>
+        <translation type="vanished">Ignorer</translation>
+    </message>
+</context>
+<context>
+    <name>Platform::PlatformAdaptor</name>
+    <message>
+        <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="45"/>
+        <source>unknown network name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2746,46 +2825,47 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="134"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="137"/>
         <source>True Altitude</source>
         <translation>Altitude vraie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="137"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="140"/>
         <source>Error (horizontal)</source>
         <translation>Erreur (horizontale)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="145"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="148"/>
         <source>Error (vertical)</source>
         <translation>Erreur (verticale)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="148"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="151"/>
         <source>Magnetic Variation</source>
         <translation>Variation magnétique</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="155"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="158"/>
         <source>Ground Speed</source>
         <translation>Vitesse sol</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="158"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="161"/>
         <source>True Track</source>
         <translation>Route vraie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="166"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="169"/>
         <source>Vertical Speed</source>
         <translation>Vitesse verticale</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="169"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="172"/>
         <source>Pressure Altitude</source>
         <translation>Altitude pression</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="172"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="175"/>
         <source>Timestamp</source>
         <translation>Horodatage</translation>
     </message>
@@ -3123,27 +3203,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Traffic::TrafficDataProvider</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="50"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="49"/>
         <source>Traffic data receiver</source>
         <translation>Récepteur de traffic</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="397"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="396"/>
         <source>Receiving heartbeat.</source>
         <translation>Réception.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="399"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="398"/>
         <source>Receiving position info.</source>
         <translation>Réception des information sur la position.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="402"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="401"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Réception de l&apos;altitude baramétrique.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="409"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="408"/>
         <source>Not receiving heartbeat.</source>
         <translation>Aucune réception.</translation>
     </message>
@@ -3396,152 +3476,152 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Traffic::TrafficDataSource_AbstractSocket</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="40"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="41"/>
         <source>The connection was refused by the peer (or timed out).</source>
         <translation>Connection refusée ou délai dépassé.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="43"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="44"/>
         <source>The remote host closed the connection.</source>
         <translation>Le serveur a interrompu la connexion.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="46"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="47"/>
         <source>The host address was not found.</source>
         <translation>L&apos;adresse du serveur n&apos;a pas été trouvée.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="49"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="50"/>
         <source>The socket operation failed because the application lacked the required privileges.</source>
         <translation>Echec de l&apos;opération car l&apos;application n&apos;a pas les autorisations.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="52"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="53"/>
         <source>The local system ran out of resources.</source>
         <translation>Le système local n&apos; plus de ressources.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="55"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="56"/>
         <source>The socket operation timed out.</source>
         <translation>Delai d&apos;attente de l&apos;opération dépassé.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="58"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="59"/>
         <source>The datagram was larger than the operating system&apos;s limit.</source>
         <translation>Le datagramme est plus grand que la limite de l&apos;OS.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="61"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="62"/>
         <source>An error occurred with the network.</source>
         <translation>Erreur réseau.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="64"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="65"/>
         <source>The address specified to QAbstractSocket::bind() is already in use and was set to be exclusive.</source>
         <translation>L&apos;adresse donnée à QAbstractSocket::bind() est déjà utilisée mais est censée être unique.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="67"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="68"/>
         <source>The address specified to QAbstractSocket::bind() does not belong to the host.</source>
         <translation>L&apos;adresse donnée à QAbstractSocket::bind() n&apos;appartient pas à l&apos;hote.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="70"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="71"/>
         <source>The requested socket operation is not supported by the local operating system.</source>
         <translation>Opération non supportée par l&apos;OS local.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="73"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="74"/>
         <source>The socket is using a proxy, and the proxy requires authentication.</source>
         <translation>Le proxy du connecteur requiert une authentification.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="76"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="77"/>
         <source>The SSL/TLS handshake failed, so the connection was closed.</source>
         <translation>Connexion terminée à cause de l&apos;échec de la transaction SSL/TLS.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="79"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="80"/>
         <source>The last operation attempted has not finished yet (still in progress in the background).</source>
         <translation>La dernière opération n&apos;est pas encore terminée (encore active en arrière-plan).</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="82"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="83"/>
         <source>Could not contact the proxy server because the connection to that server was denied.</source>
         <translation>Refus de la connexion au serveur proxy.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="85"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="86"/>
         <source>The connection to the proxy server was closed unexpectedly (before the connection to the final peer was established).</source>
         <translation>La connexion au serveur proxy s&apos;est terminée prématurement.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="88"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="89"/>
         <source>The connection to the proxy server timed out or the proxy server stopped responding in the authentication phase.</source>
         <translation>Délai d&apos;attente dépassé lors de la connexion au serveur proxy.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="91"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="92"/>
         <source>The proxy address set with setProxy() (or the application proxy) was not found.</source>
         <translation>L&apos;adresse du proxy n&apos;a pas été trouvée.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="94"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="95"/>
         <source>The connection negotiation with the proxy server failed, because the response from the proxy server could not be understood.</source>
         <translation>Echec de la négociation de la connexion au serveur proxy. Réponse non conforme.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="97"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="98"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
         <translation>Tentative d&apos;opération alors que le connecteur n&apos;était pas dans un état adéquat.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="100"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="101"/>
         <source>The SSL library being used reported an internal error. This is probably the result of a bad installation or misconfiguration of the library.</source>
         <translation>Erreur interne à la bibiothèsque SSL, probablement à cause d&apos;une erreur d&apos;installation ou de configuration.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="103"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="104"/>
         <source>Invalid data (certificate, key, cypher, etc.) was provided and its use resulted in an error in the SSL library.</source>
         <translation>Données invalides (certificat, clé, etc.) fournie à la bibliothèque SSL.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="106"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="107"/>
         <source>A temporary error occurred (e.g., operation would block and socket is non-blocking).</source>
         <translation>Erreur temporaire.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="109"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="110"/>
         <source>An unidentified error occurred.</source>
         <translation>Erreur non-identifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="129"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="130"/>
         <source>Performing host name lookup.</source>
         <translation>Recherche du nom de l&apos;hote.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="132"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="133"/>
         <source>Trying to establish a connection.</source>
         <translation>Tentative d&apos;établissement de la connexion</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="135"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="136"/>
         <source>Connected.</source>
         <translation>Connecté.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="138"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="139"/>
         <source>Bound to an address and port, but not connected yet.</source>
         <translation>Lié à une adresse et un port, mais pas encore connecté.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="141"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="142"/>
         <source>Closing.</source>
         <translation>Interruption.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="144"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="145"/>
         <source>Not connected.</source>
         <translation>Non connecté.</translation>
     </message>
@@ -7377,79 +7457,79 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Quitter</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="539"/>
+        <location filename="../../../src/qml/main.qml" line="538"/>
         <source>Update required!</source>
         <translation>Mise à jour requise !</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="654"/>
+        <location filename="../../../src/qml/main.qml" line="653"/>
         <source>Connected to traffic receiver.</source>
         <translation>Connecté au récepteur de traffic.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="656"/>
+        <location filename="../../../src/qml/main.qml" line="655"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Connexion au récepteur de traffic perdue.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="689"/>
+        <location filename="../../../src/qml/main.qml" line="688"/>
         <source>Exit…?</source>
         <translation>Quitter ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="690"/>
+        <location filename="../../../src/qml/main.qml" line="689"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Voulez-vous vraiment quitter &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="700"/>
-        <location filename="../../../src/qml/main.qml" line="709"/>
+        <location filename="../../../src/qml/main.qml" line="699"/>
+        <location filename="../../../src/qml/main.qml" line="708"/>
         <source>What&apos;s new…?</source>
         <translation>Nouveautés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="747"/>
+        <location filename="../../../src/qml/main.qml" line="746"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Affichage des espaces aériens jusqu&apos;à %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="749"/>
+        <location filename="../../../src/qml/main.qml" line="748"/>
         <source>Now showing all airspaces.</source>
         <translation>Affichage de tous les espaces aériens.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="773"/>
+        <location filename="../../../src/qml/main.qml" line="772"/>
         <source>Starting map update</source>
         <translation>Mise à jour des cartes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="795"/>
+        <location filename="../../../src/qml/main.qml" line="794"/>
         <source>Network security error</source>
         <translation>Erreur de sécurité réseau</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="807"/>
+        <location filename="../../../src/qml/main.qml" line="806"/>
         <source>Network security settings</source>
         <translation>Paramètres de sécurité réseau</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="808"/>
+        <location filename="../../../src/qml/main.qml" line="807"/>
         <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Vous avez choisi d&apos;ignorer les erreurs de sécurité réseau. **Ceci constitue un risque**. Allez sur la page&apos;Paramètres&apos; si vous souhaitez restorer le comportement original et sécurisé de l&apos;application.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="152"/>
+        <location filename="../../../src/main.cpp" line="157"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="155"/>
+        <location filename="../../../src/main.cpp" line="160"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation>Lancer le simulateur et générer des captures d&apos;écran pour le manuel</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="157"/>
+        <location filename="../../../src/main.cpp" line="162"/>
         <source>File to import.</source>
         <translation>Fichier à importer</translation>
     </message>
