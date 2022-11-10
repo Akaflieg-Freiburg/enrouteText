@@ -3253,52 +3253,52 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/FileExchange_Android.cpp" line="110"/>
         <source>No suitable file sharing app could be found.</source>
-        <translation type="unfinished">Keine geeignete App gefunden, um die Daten zu teilen.</translation>
+        <translation>Keine geeignete App gefunden, um die Daten zu teilen.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Android.cpp" line="125"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation type="unfinished">Keine geeignete App gefunden, um diese Daten anzuzeigen.</translation>
+        <translation>Keine geeignete App gefunden, um diese Daten anzuzeigen.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
         <source>Import data</source>
-        <translation type="unfinished">Daten importieren</translation>
+        <translation>Daten importieren</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
         <source>All files (*)</source>
-        <translation type="unfinished">Alle Dateien (*)</translation>
+        <translation>Alle Dateien (*)</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
         <source>Export flight route</source>
-        <translation type="unfinished">Exportiere Route</translation>
+        <translation>Exportiere Route</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
         <source>%1 (*.%2);;All files (*)</source>
-        <translation type="unfinished">%1 (*.%2);;Alle Dateien (*)</translation>
+        <translation>%1 (*.%2);;Alle Dateien (*)</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="65"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished">Kann Datei &lt;strong&gt;%1&lt;/strong&gt; nicht öffnen.</translation>
+        <translation>Kann Datei &lt;strong&gt;%1&lt;/strong&gt; nicht öffnen.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="70"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished">Kann nicht in Datei &lt;strong&gt;%1&lt;/strong&gt; schreiben.</translation>
+        <translation>Kann nicht in Datei &lt;strong&gt;%1&lt;/strong&gt; schreiben.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="82"/>
         <source>Unable to open temporary file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann temporäre Datei nicht öffnen.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="92"/>
         <source>Unable to open data in other app.</source>
-        <translation type="unfinished">Kann die Daten nicht in anderer App öffnen.</translation>
+        <translation>Kann die Daten nicht in anderer App öffnen.</translation>
     </message>
 </context>
 <context>
@@ -3335,12 +3335,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/platform/Notifier_Android.cpp" line="81"/>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="194"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="195"/>
         <source>Dismiss</source>
-        <translation type="unfinished">Ablehnen</translation>
+        <translation>Ablehnen</translation>
     </message>
 </context>
 <context>
@@ -3348,22 +3348,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="55"/>
         <source>Downloading map and data…</source>
-        <translation type="unfinished">Lade Karte und Daten herunter…</translation>
+        <translation>Lade Karte und Daten herunter…</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="57"/>
         <source>Traffic data receiver problem</source>
-        <translation type="unfinished">Problem mit dem Verkehrsdatenempfänger</translation>
+        <translation>Problem mit dem Verkehrsdatenempfänger</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="59"/>
         <source>Traffic data receiver self test error</source>
-        <translation type="unfinished">Fehler beim Selbsttest des Verkehrsdatenempfängers</translation>
+        <translation>Fehler beim Selbsttest des Verkehrsdatenempfängers</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="61"/>
         <source>Map and data updates available</source>
-        <translation type="unfinished">Es gibt Karten- und Datenupdates</translation>
+        <translation>Es gibt Karten- und Datenupdates</translation>
     </message>
 </context>
 <context>
@@ -3389,7 +3389,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="45"/>
         <source>unknown network name</source>
-        <translation type="unfinished"></translation>
+        <translation>Netzwerkname unbekannt</translation>
     </message>
 </context>
 <context>
