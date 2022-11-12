@@ -3291,52 +3291,52 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/platform/FileExchange_Android.cpp" line="110"/>
         <source>No suitable file sharing app could be found.</source>
-        <translation type="unfinished">Nie można znaleźć odpowiedniej aplikacji udostępniającej pliki.</translation>
+        <translation>Nie można znaleźć odpowiedniej aplikacji udostępniającej pliki.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Android.cpp" line="125"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation type="unfinished">Nie można znaleźć odpowiedniej aplikacji do przeglądania tych danych.</translation>
+        <translation>Nie można znaleźć odpowiedniej aplikacji do przeglądania tych danych.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
         <source>Import data</source>
-        <translation type="unfinished">Import danych</translation>
+        <translation>Import danych</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
         <source>All files (*)</source>
-        <translation type="unfinished">Wszystkie pliki (*)</translation>
+        <translation>Wszystkie pliki (*)</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
         <source>Export flight route</source>
-        <translation type="unfinished">Wyeksportuj trasę lotu</translation>
+        <translation>Wyeksportuj trasę lotu</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
         <source>%1 (*.%2);;All files (*)</source>
-        <translation type="unfinished">%1 (*.%2);;Wszystkie pliki (*)</translation>
+        <translation>%1 (*.%2);;Wszystkie pliki (*)</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="65"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished">Nie można otworzyć pliku &lt;strong&gt;%1&lt;/strong&gt;.</translation>
+        <translation>Nie można otworzyć pliku &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="70"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished">Nie można zapisać do pliku &lt;strong%1&lt;/strong&gt;.</translation>
+        <translation>Nie można zapisać do pliku &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="82"/>
         <source>Unable to open temporary file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć pliku tymczasowego.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="92"/>
         <source>Unable to open data in other app.</source>
-        <translation type="unfinished">Nie można otworzyć danych w innej aplikacji.</translation>
+        <translation>Nie można otworzyć danych w innej aplikacji.</translation>
     </message>
 </context>
 <context>
@@ -3373,12 +3373,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/platform/Notifier_Android.cpp" line="81"/>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="194"/>
         <source>Update</source>
-        <translation type="unfinished">Aktualizacja</translation>
+        <translation>Aktualizuj</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="195"/>
         <source>Dismiss</source>
-        <translation type="unfinished">Odrzuć</translation>
+        <translation>Odrzuć</translation>
     </message>
 </context>
 <context>
@@ -3386,22 +3386,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="55"/>
         <source>Downloading map and data…</source>
-        <translation type="unfinished">Pobieranie map i danych...</translation>
+        <translation>Pobieranie map i danych...</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="57"/>
         <source>Traffic data receiver problem</source>
-        <translation type="unfinished">Problem z odbiornikiem danych ruchu lotniczego</translation>
+        <translation>Problem z odbiornikiem danych ruchu lotniczego</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="59"/>
         <source>Traffic data receiver self test error</source>
-        <translation type="unfinished">Błąd self-testu odbiornika ruchu lotniczego</translation>
+        <translation>Błąd testu wewnętrznego odbiornika ruchu lotniczego</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="61"/>
         <source>Map and data updates available</source>
-        <translation type="unfinished">Dostępne aktualizacje map i danych</translation>
+        <translation>Dostępne aktualizacje map i danych</translation>
     </message>
 </context>
 <context>
@@ -3427,7 +3427,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="45"/>
         <source>unknown network name</source>
-        <translation type="unfinished"></translation>
+        <translation>nieznana nazwa sieci</translation>
     </message>
 </context>
 <context>
