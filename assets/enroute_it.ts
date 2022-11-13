@@ -3287,52 +3287,52 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/FileExchange_Android.cpp" line="110"/>
         <source>No suitable file sharing app could be found.</source>
-        <translation type="unfinished">Nessuna app trovata per la condivisione del file.</translation>
+        <translation>Nessuna app trovata per la condivisione del file.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Android.cpp" line="125"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation type="unfinished">Nessuna app trovata per la visualizzazione di questi dati.</translation>
+        <translation>Nessuna app trovata per la visualizzazione di questi dati.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
         <source>Import data</source>
-        <translation type="unfinished">Importa i dati</translation>
+        <translation>Importa i dati</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
         <source>All files (*)</source>
-        <translation type="unfinished">Tutti i file (*)</translation>
+        <translation>Tutti i file (*)</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
         <source>Export flight route</source>
-        <translation type="unfinished">Esporta il piano di volo</translation>
+        <translation>Esporta il piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
         <source>%1 (*.%2);;All files (*)</source>
-        <translation type="unfinished">%1 (*.%2);;tutti i files (*)</translation>
+        <translation>%1 (*.%2);;tutti i files (*)</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="65"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished">Impossibile aprire il file &lt;strong&gt;%1&lt;/strong&gt;.</translation>
+        <translation>Impossibile aprire il file &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="70"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished">Impossibile scrivere il file &lt;strong&gt;%1&lt;/strong&gt;.</translation>
+        <translation>Impossibile scrivere il file &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="82"/>
         <source>Unable to open temporary file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aprire temporaneamente il file.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="92"/>
         <source>Unable to open data in other app.</source>
-        <translation type="unfinished">Impossibile aprire i dati in un&apos;altra app.</translation>
+        <translation>Impossibile aprire i dati in un&apos;altra app.</translation>
     </message>
 </context>
 <context>
@@ -3369,12 +3369,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/platform/Notifier_Android.cpp" line="81"/>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="194"/>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Aggiorna</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="195"/>
         <source>Dismiss</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla</translation>
     </message>
 </context>
 <context>
@@ -3382,22 +3382,22 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="55"/>
         <source>Downloading map and data…</source>
-        <translation type="unfinished">Download mappa e dati...</translation>
+        <translation>Download mappa e dati...</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="57"/>
         <source>Traffic data receiver problem</source>
-        <translation type="unfinished">Problema con il ricevitore di traffico</translation>
+        <translation>Problema con il ricevitore di traffico</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="59"/>
         <source>Traffic data receiver self test error</source>
-        <translation type="unfinished">Errore auto-test del ricevitore di traffico</translation>
+        <translation>Errore nell&apos;auto-test del ricevitore di traffico</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="61"/>
         <source>Map and data updates available</source>
-        <translation type="unfinished">Aggiornamenti disponibili di mappa e dati</translation>
+        <translation>Aggiornamenti disponibili di mappa e dati</translation>
     </message>
 </context>
 <context>
@@ -3423,7 +3423,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="45"/>
         <source>unknown network name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome rete sconosciuto</translation>
     </message>
 </context>
 <context>
