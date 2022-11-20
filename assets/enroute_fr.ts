@@ -2669,37 +2669,37 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/platform/FileExchange_Android.cpp" line="110"/>
         <source>No suitable file sharing app could be found.</source>
-        <translation type="unfinished">Aucun fichier de partage d&apos;application n&apos;a pu être trouvé</translation>
+        <translation>Aucun fichier de partage d&apos;application n&apos;a pu être trouvé</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Android.cpp" line="125"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation type="unfinished">Aucune application permettant de visualiser ces données n&apos;a été trouvée.</translation>
+        <translation>Aucune application permettant de visualiser ces données n&apos;a été trouvée.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
         <source>Import data</source>
-        <translation type="unfinished">Importer les données</translation>
+        <translation>Importer les données</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
         <source>All files (*)</source>
-        <translation type="unfinished">Tous les fichiers (*)</translation>
+        <translation>Tous les fichiers (*)</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
         <source>Export flight route</source>
-        <translation type="unfinished">Exporter la route</translation>
+        <translation>Exporter la route</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
         <source>%1 (*.%2);;All files (*)</source>
-        <translation type="unfinished">%1 (*.%2);;Tous les fichiers (*)</translation>
+        <translation>%1 (*.%2);;Tous les fichiers (*)</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="65"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished">Impossible d&apos;ouvrir le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
+        <translation>Impossible d&apos;ouvrir le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="70"/>
@@ -2709,42 +2709,26 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="82"/>
         <source>Unable to open temporary file.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="92"/>
         <source>Unable to open data in other app.</source>
-        <translation type="unfinished">Impossible d&apos;ouvrir les données dans une autre application.</translation>
+        <translation>Impossible d&apos;ouvrir les données dans une autre application.</translation>
     </message>
 </context>
 <context>
     <name>Platform::Notifier</name>
     <message>
-        <source>Downloading map and data…</source>
-        <translation type="vanished">Téléchargement des cartes et des données...</translation>
-    </message>
-    <message>
-        <source>Traffic data receiver problem</source>
-        <translation type="vanished">Problème du récepteur de données de traffic</translation>
-    </message>
-    <message>
-        <source>Traffic data receiver self test error</source>
-        <translation type="vanished">Erreur de l&apos;auto-test du récepteur de données de traffic</translation>
-    </message>
-    <message>
-        <source>Map and data updates available</source>
-        <translation type="vanished">Mises à jour de cartes et données disponibles</translation>
-    </message>
-    <message>
         <location filename="../../../src/platform/Notifier_Android.cpp" line="81"/>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="194"/>
         <source>Update</source>
-        <translation type="unfinished">Mettre à jour</translation>
+        <translation>Mettre à jour</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="195"/>
         <source>Dismiss</source>
-        <translation type="unfinished">Ignorer</translation>
+        <translation>Ignorer</translation>
     </message>
 </context>
 <context>
@@ -2752,40 +2736,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="55"/>
         <source>Downloading map and data…</source>
-        <translation type="unfinished">Téléchargement des cartes et des données...</translation>
+        <translation>Téléchargement des cartes et des données...</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="57"/>
         <source>Traffic data receiver problem</source>
-        <translation type="unfinished">Problème du récepteur de données de traffic</translation>
+        <translation>Problème du récepteur de données de traffic</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="59"/>
         <source>Traffic data receiver self test error</source>
-        <translation type="unfinished">Erreur de l&apos;auto-test du récepteur de données de traffic</translation>
+        <translation>Erreur de l&apos;auto-test du récepteur de données de traffic</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="61"/>
         <source>Map and data updates available</source>
-        <translation type="unfinished">Mises à jour de cartes et données disponibles</translation>
-    </message>
-</context>
-<context>
-    <name>Platform::Notifier_Android</name>
-    <message>
-        <source>Update</source>
-        <translation type="vanished">Mettre à jour</translation>
-    </message>
-</context>
-<context>
-    <name>Platform::Notifier_Linux</name>
-    <message>
-        <source>Update</source>
-        <translation type="vanished">Mettre à jour</translation>
-    </message>
-    <message>
-        <source>Dismiss</source>
-        <translation type="vanished">Ignorer</translation>
+        <translation>Mises à jour de cartes et données disponibles</translation>
     </message>
 </context>
 <context>
@@ -2793,7 +2759,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="45"/>
         <source>unknown network name</source>
-        <translation type="unfinished"></translation>
+        <translation>nom de réseau inconnu</translation>
     </message>
 </context>
 <context>
