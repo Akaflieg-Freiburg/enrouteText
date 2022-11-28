@@ -8,13 +8,14 @@ simulator via WiFi to the device that runs **Enroute Flight Navigation**.
 The author has tested **Enroute Flight Navigation** with the following flight
 simulator programs.
 
+- `FlightGear`_
 - `X-Plane 11`_
 
 Users have reported success with the following programs.
 
-- `FlightGear`_
+- `Aerofly FS`_
 - `MS Flight Simulator`_
-- `X-Plane 10`_
+- X-Plane 10 and 12
 
 Please contact us if you are aware of other programs that also work.
 
@@ -54,6 +55,21 @@ setup required.  As soon as the flight simulator starts to broadcast information
 over the Wi-Fi network, the moving map of **Enroute Flight Navigation** will
 adjust accordingly.  To end the connection to the flight simulator, simply leave
 the flight simulator's Wi-Fi network.
+
+
+Aerofly FS
+^^^^^^^^^^
+
+Aerofly works well with **Enroute Flight Navigation** if the program is set
+to broadcast flight information via the network.  The figure :ref:`AeroflyImg` shows the
+settings that work for one of our users.
+
+.. _AeroflyImg:
+.. figure:: Aerofly.jpg
+   :scale: 50 %
+   :align: center
+
+   Aerofly settings
 
 
 FlightGear
@@ -154,19 +170,6 @@ group "This machine's role" on the right-hand side of the tab. Open the section
 apps on the network" under the headline "OTHER MAPPING APPS".
 
 .. image:: X-Plane-11.png
-
-
-X-Plane 10
-^^^^^^^^^^
-
-Follow the explanation on `this page
-<https://www.x-plane.com/2012/08/foreflight-charts-supported-in-x-plane-10-10-beta-9/>`_,
-which explains how to connect X-Plane 10 to the commercial app ForeFlight.  In
-short: Open the "Settings" window and click "Internet Options". There, go to the
-"iPhone/iPod" tab and turn on the "ForeFlight" option.  Please be sure to
-disable output of data on tab "Data".
-
-.. image:: X-Plane-10.png
 
 
 Other programs
