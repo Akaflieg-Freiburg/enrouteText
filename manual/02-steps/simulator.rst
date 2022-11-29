@@ -9,13 +9,13 @@ The author has tested **Enroute Flight Navigation** with the following flight
 simulator programs.
 
 - `FlightGear`_
-- `X-Plane 11`_
+- `X-Plane 11`_  for desktop computers
 
 Users have reported success with the following programs.
 
-- `Aerofly FS`_
+- `Aerofly FS`_, Version 2 and 4 for desktop computers
 - `MS Flight Simulator`_
-- X-Plane 10 and 12
+- X-Plane, Versions 10, 11 and 12 for desktop computers
 
 Please contact us if you are aware of other programs that also work.
 
@@ -60,16 +60,25 @@ the flight simulator's Wi-Fi network.
 Aerofly FS
 ^^^^^^^^^^
 
-Aerofly works well with **Enroute Flight Navigation** if the program is set
-to broadcast flight information via the network.  The figure :ref:`AeroflyImg` shows the
+Aerofly works well with **Enroute Flight Navigation** if the program is set to
+broadcast flight information via the network.  Open the menu "Miscellaneous
+settings", activate the option "Broadcast flight info to IP address" and enter
+the correct „Broadcast IP address“.  The figure :ref:`AeroflyImg2` and shows the
 settings that work for one of our users.
 
-.. _AeroflyImg:
-.. figure:: Aerofly.jpg
+.. _AeroflyImg1:
+.. figure:: Aerofly-1.png
    :scale: 50 %
    :align: center
 
    Aerofly settings
+
+.. _AeroflyImg2:
+.. figure:: Aerofly-2.png
+   :scale: 50 %
+   :align: center
+
+   Aerofly Miscellaneous settings
 
 
 FlightGear
