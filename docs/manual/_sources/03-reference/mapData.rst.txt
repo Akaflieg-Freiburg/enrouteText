@@ -8,9 +8,8 @@ internet connection in flight.
 Base maps
 ---------
 
-Our base maps are edited versions of maps kindly provided by `Klokan
-Technologies <https://www.klokantech.com/>`_ through the `OpenMapTiles
-<https://openmaptiles.org>`_ project.
+Our base maps are generated from `Open Streetmap
+<https://www.openstreetmap.org>`_ data.
 
 
 Terrain maps
@@ -69,19 +68,6 @@ Attributions
   right 2015. All rights reserved;
 * United States 3DEP (formerly NED) and global GMTED2010 and SRTM terrain data
   courtesy of the U.S. Geological Survey.
-
-
-Base maps
----------
-
-Our base maps are edited versions of maps kindly provided by `Klokan
-Technologies <https://www.klokantech.com/>`_ through the `OpenMapTiles
-<https://openmaptiles.org>`_ project.
-
-
-Our base maps are edited versions of maps kindly provided by `Klokan
-Technologies <https://www.klokantech.com/>`_ through the `OpenMapTiles
-<https://openmaptiles.org>`_ project.
 
 
 Aeronautical maps

@@ -9,14 +9,22 @@
         <translation>Luftfahrzeug</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="90"/>
         <source>View Library …</source>
-        <translation>Bibliothek betrachten …</translation>
+        <translation type="vanished">Bibliothek betrachten …</translation>
+    </message>
+    <message>
+        <source>Save to library …</source>
+        <translation type="vanished">In Bibliothek speichern …</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Aircraft.qml" line="90"/>
+        <source>View Library…</source>
+        <translation>Bibliothek ansehen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="99"/>
-        <source>Save to library …</source>
-        <translation>In Bibliothek speichern …</translation>
+        <source>Save to library…</source>
+        <translation>In Bibliothek speichern…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Aircraft.qml" line="136"/>
@@ -128,14 +136,12 @@
         <translation>Filter Lfz-Namen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="99"/>
         <source>Rename …</source>
-        <translation>Umbenennen …</translation>
+        <translation type="vanished">Umbenennen …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="111"/>
         <source>Remove …</source>
-        <translation>Löschen …</translation>
+        <translation type="vanished">Löschen …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="153"/>
@@ -153,14 +159,12 @@
         <translation>Lade Luftfahrzeug &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="194"/>
         <source>An error occurred…</source>
-        <translation>Es ist ein Fehler aufgetreten ...</translation>
+        <translation type="vanished">Es ist ein Fehler aufgetreten ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="239"/>
         <source>Overwrite current aircraft?</source>
-        <translation>Aktuelles Luftfahrzeug überschreiben?</translation>
+        <translation type="vanished">Aktuelles Luftfahrzeug überschreiben?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="249"/>
@@ -168,9 +172,33 @@
         <translation>Dieses Luftfahrzeug &lt;strong&gt;%1&lt;/strong&gt; laden überschreibt das aktuelle Luftfahrzeug. Es kann danach nicht wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="276"/>
         <source>Remove from device?</source>
-        <translation>Vom Gerät löschen?</translation>
+        <translation type="vanished">Vom Gerät löschen?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="99"/>
+        <source>Rename…</source>
+        <translation>Umbenennen…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="111"/>
+        <source>Remove…</source>
+        <translation>Entfernen ...</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="194"/>
+        <source>An Error Occurred…</source>
+        <translation>Fehler aufgetreten…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="239"/>
+        <source>Overwrite Current Aircraft?</source>
+        <translation>Aktuelles Lfz. überschreiben?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="276"/>
+        <source>Remove from Device?</source>
+        <translation>Löschen?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="286"/>
@@ -232,13 +260,21 @@
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="160"/>
-        <source>An error occurred…</source>
-        <translation>Es ist ein Fehler aufgetreten ...</translation>
+        <source>An Error Occurred…</source>
+        <translation>Fehler aufgetreten…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="198"/>
+        <source>Overwrite Aircraft?</source>
+        <translation>Lfz. überschreiben?</translation>
+    </message>
+    <message>
+        <source>An error occurred…</source>
+        <translation type="vanished">Es ist ein Fehler aufgetreten ...</translation>
+    </message>
+    <message>
         <source>Overwrite aircraft?</source>
-        <translation>Luftfahrzeug überschreiben?</translation>
+        <translation type="vanished">Luftfahrzeug überschreiben?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="205"/>
@@ -323,7 +359,6 @@ application.&lt;/p&gt;
         <translation>Alle anderen Lufträume</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="167"/>
         <source>
 &lt;h4&gt;Aviation Data&lt;/h4&gt;
 
@@ -332,7 +367,7 @@ data (such as wrong airfield frequencies, outdated traffic
 patterns, missing navaids, …), then please use the buttons
 below.&lt;/p&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h4&gt;Luftfahrtdaten&lt;/h4&gt;
 
 &lt;p&gt;Zur Meldung von Problemen mit anderen Luftfahrtdaten (z.B. falsche Flugplatzfrequenzen, veraltete Platzrunden, fehlende Navigationshilfen, …) nutzen Sie bitte die Knöpfe unten.&lt;/p&gt;
@@ -347,6 +382,22 @@ below.&lt;/p&gt;
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="49"/>
         <source>Go back in bug report</source>
         <translation>Zurück zur Fehlermeldung</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="167"/>
+        <source>
+&lt;h4&gt;Aviation Data&lt;/h4&gt;
+
+&lt;p&gt;If you would like to report problems with other aviation
+data (such as wrong airfield frequencies, outdated traffic
+patterns, missing navaids,…), then please use the buttons
+below.&lt;/p&gt;
+</source>
+        <translation>
+&lt;h4&gt;Luftfahrtdaten&lt;/h4&gt;
+
+&lt;p&gt;Um Probleme mit anderen Luftfahrtdaten zu melden (z.B. falsche Frequenzen, überholte Platzrunden, fehlende Navigationshilfen,…), benutzen Sie bitte die Knöpfe unten.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="191"/>
@@ -735,46 +786,49 @@ anderes dazu sagen können.&lt;/p&gt;
     </message>
 </context>
 <context>
+    <name>DataManagement</name>
+    <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="225"/>
+        <source>Manually Imported</source>
+        <translation>Manuell importiert</translation>
+    </message>
+</context>
+<context>
     <name>DataManagement::DataManager</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="119"/>
         <source>No information available.</source>
-        <translation>Keine Information verfügbar.</translation>
+        <translation type="vanished">Keine Information verfügbar.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="122"/>
         <source>Installed</source>
-        <translation>Installiert</translation>
+        <translation type="vanished">Installiert</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="124"/>
         <source>File Size</source>
-        <translation>Dateigröße</translation>
+        <translation type="vanished">Dateigröße</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="140"/>
         <source>The map data was compiled from the following sources.</source>
-        <translation>Die Kartendaten stammen aus folgenden Quellen:</translation>
+        <translation type="vanished">Die Kartendaten stammen aus folgenden Quellen:</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="198"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="145"/>
         <source>Unable to recognize map file format.</source>
         <translation>Erkenne Dateiformat der Karte nicht.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="203"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="150"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>Kann Verzeichnis &apos;%1&apos; nicht anlegen.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="210"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="157"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Kann Kartendatei nicht ins Datenverzeichnis kopieren.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="270"/>
         <source>Manually Imported</source>
-        <translation>Manuell importiert</translation>
+        <translation type="vanished">Manuell importiert</translation>
     </message>
     <message>
         <source>Internal Map Data</source>
@@ -784,208 +838,430 @@ anderes dazu sagen können.&lt;/p&gt;
 <context>
     <name>DataManagement::Downloadable</name>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="58"/>
         <source>downloading … %1% complete</source>
-        <translation>Download … %1% abgeschlossen</translation>
+        <translation type="vanished">Download … %1% abgeschlossen</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="64"/>
         <source>installed • %1</source>
-        <translation>installiert • %1</translation>
+        <translation type="vanished">installiert • %1</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="69"/>
         <source>update available</source>
-        <translation>Update verfügbar</translation>
+        <translation type="vanished">Update verfügbar</translation>
     </message>
     <message>
         <source>no longer supported</source>
         <translation type="vanished">nicht mehr unterstützt</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="72"/>
+        <source>manually imported</source>
+        <translation type="vanished">manuell importiert</translation>
+    </message>
+    <message>
+        <source>not installed</source>
+        <translation type="vanished">nicht installiert</translation>
+    </message>
+    <message>
+        <source>file size unknown</source>
+        <translation type="vanished">Dateigröße unbekannt</translation>
+    </message>
+    <message>
+        <source>the remote server refused the connection (the server is not accepting requests)</source>
+        <translation type="vanished">Der Remote-Server verweigert die Verbindung (beantwortet keine Anfragen)</translation>
+    </message>
+    <message>
+        <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
+        <translation type="vanished">Der Remote-Server schloss die Verbindung, bevor die ganze Antwort empfangen und verarbeitet werden konnte</translation>
+    </message>
+    <message>
+        <source>the remote host name was not found (invalid hostname)</source>
+        <translation type="vanished">Name des Remote-Host nicht gefunden (ungültiger Name)</translation>
+    </message>
+    <message>
+        <source>the connection to the remote server timed out</source>
+        <translation type="vanished">Time-out bei der Verbindung zum Remote-Server</translation>
+    </message>
+    <message>
+        <source>the operation was canceled via calls to abort() or close() before it was finished</source>
+        <translation type="vanished">Die Operation wurde durch Aufrufe oder via abort() oder close() vorzeitig abgebrochen</translation>
+    </message>
+    <message>
+        <source>the SSL/TLS handshake failed and the encrypted channel could not be established.</source>
+        <translation type="vanished">der SSL/TLS-Handshake schlug fehl; es konnte kein verschlüsselter Kanal eröffnet werden.</translation>
+    </message>
+    <message>
+        <source>the connection was broken due to disconnection from the network</source>
+        <translatorcomment>eigentlich nur Netz, aber jeder sagt heute anglifiziert Netzwerk</translatorcomment>
+        <translation type="vanished">Verbindung unterbrochen wegen Trennung vom Netzwerk</translation>
+    </message>
+    <message>
+        <source>the connection was broken due to disconnection from the network or failure to start the network</source>
+        <translatorcomment>Netzwerk/Netz sh. zuvor (und an x anderen Stellen)</translatorcomment>
+        <translation type="vanished">Verbindung unterbrochen wegen Trennung vom Netzwerk oder Fehler beim Start des Netzwerks</translation>
+    </message>
+    <message>
+        <source>the background request is not currently allowed due to platform policy</source>
+        <translation type="vanished">Die Hintergrundanfrage ist zzt. wegen der Plattform-Policy nicht zulässig</translation>
+    </message>
+    <message>
+        <source>while following redirects, the maximum limit was reached</source>
+        <translation type="vanished">Die maximale Zahl an Weiterleitungen wurde überschritten</translation>
+    </message>
+    <message>
+        <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
+        <translation type="vanished">Die Network-Access-API stellte eine Weiterleitung von https (verschlüsselt) zu http (unverschlüsselt) fest</translation>
+    </message>
+    <message>
+        <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
+        <translation type="vanished">Verbindung zum Proxy wurde abgelehnt (Proxy akzeptiert keine Anfragen)</translation>
+    </message>
+    <message>
+        <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
+        <translation type="vanished">Der Proxy schloss die Verbindung, bevor die ganze Antwort empfangen und verarbeitet werden konnte</translation>
+    </message>
+    <message>
+        <source>the proxy host name was not found (invalid proxy hostname)</source>
+        <translation type="vanished">Proxy-Hostname nicht gefunden (ungültiger Name)</translation>
+    </message>
+    <message>
+        <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
+        <translation type="vanished">Time-out bei Verbindung zum Proxy oder Proxy antwortete nicht rechtzeitig auf die Anfrage</translation>
+    </message>
+    <message>
+        <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
+        <translation type="vanished">Proxy fordert Authentifizierung. Die übermittelten Anmeldedaten wurden nicht akzeptiert oder fehlten ganz</translation>
+    </message>
+    <message>
+        <source>the access to the remote content was denied (similar to HTTP error 403)</source>
+        <translation type="vanished">Zugriff auf Remote-Content wurde verweigert (ähnlich HTTP-Fehler 403)</translation>
+    </message>
+    <message>
+        <source>the operation requested on the remote content is not permitted</source>
+        <translation type="vanished">Angefragte Operation auf Remote-Content nicht zulässig</translation>
+    </message>
+    <message>
+        <source>the remote content was not found at the server (similar to HTTP error 404)</source>
+        <translation type="vanished">Remote-Content nicht auf dem Server gefunden (ähnlich HTTP-Fehler 404)</translation>
+    </message>
+    <message>
+        <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
+        <translation type="vanished">Der Remote-Server fordert Authentifizierung. Die übermittelten Anmeldedaten wurden nicht akzeptiert oder fehlten ganz</translation>
+    </message>
+    <message>
+        <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
+        <translation type="vanished">Die Anfrage musste wiederholt werden, was fehlschlug, da z.B. die Upload-Daten kein zweites Mal gelesen werden konnten</translation>
+    </message>
+    <message>
+        <source>the request could not be completed due to a conflict with the current state of the resource</source>
+        <translation type="vanished">Die Anfrage konnte nicht abgeschlossen werden: Konflikt mit dem aktuellen Status der Ressource</translation>
+    </message>
+    <message>
+        <source>the requested resource is no longer available at the server</source>
+        <translation type="vanished">Die angefragte Ressource ist auf dem Server nicht mehr verfügbar</translation>
+    </message>
+    <message>
+        <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
+        <translation type="vanished">Eine unerwartete Bedingung auf dem Server hinderte ihn an der Ausführung der Anfrage</translation>
+    </message>
+    <message>
+        <source>the server does not support the functionality required to fulfill the request</source>
+        <translation type="vanished">Der Server bietet nicht die nötige Funktion zur Ausführung der Anfrage</translation>
+    </message>
+    <message>
+        <source>the server is unable to handle the request at this time</source>
+        <translation type="vanished">Der Server kann die Anfrage zur Zeit nicht bearbeiten</translation>
+    </message>
+    <message>
+        <source>the Network Access API cannot honor the request because the protocol is not known</source>
+        <translation type="vanished">Das API des Netzwerkzugangs akzeptiert die Anfrage nicht: unbekanntes Protokoll</translation>
+    </message>
+    <message>
+        <source>the requested operation is invalid for this protocol</source>
+        <translation type="vanished">Die angefragte Operation ist über dieses Protokoll nicht zulässig</translation>
+    </message>
+    <message>
+        <source>an unknown network-related error was detected</source>
+        <translation type="vanished">Ein unbekannter Netzwerkfehler ist aufgetreten</translation>
+    </message>
+    <message>
+        <source>an unknown proxy-related error was detected</source>
+        <translation type="vanished">Ein unbekannter Fehler am Proxy ist aufgetreten</translation>
+    </message>
+    <message>
+        <source>an unknown error related to the remote content was detected</source>
+        <translation type="vanished">Ein unbekannter Fehler beim Remote-Content ist aufgetreten</translation>
+    </message>
+    <message>
+        <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
+        <translation type="vanished">Störung beim Protokoll (Parser-Fehler, ungültige oder unerwartete Antworten usw.)</translation>
+    </message>
+    <message>
+        <source>an unknown error related to the server response was detected</source>
+        <translation type="vanished">Ein unbekannter Fehler bei der Server-Antwort ist aufgetreten</translation>
+    </message>
+    <message>
+        <source>unknown</source>
+        <translation type="vanished">unbekannt</translation>
+    </message>
+</context>
+<context>
+    <name>DataManagement::Downloadable_MultiFile</name>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="48"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="86"/>
+        <source>Aviation Map</source>
+        <translation>Luftfahrtkarte</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="51"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="92"/>
+        <source>Base Map</source>
+        <translation>Basiskarte</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="54"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="89"/>
+        <source>Raster Map</source>
+        <translation>Rasterkarte</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="57"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="95"/>
+        <source>Data</source>
+        <translation>Daten</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="60"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="101"/>
+        <source>Terrain Map</source>
+        <translation>Terrainkarte</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="63"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="98"/>
+        <source>Map Set</source>
+        <translation>Kartenset</translation>
+    </message>
+</context>
+<context>
+    <name>DataManagement::Downloadable_SingleFile</name>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="100"/>
+        <source>No information available.</source>
+        <translation>Keine Information verfügbar.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="103"/>
+        <source>Installed</source>
+        <translation>Installiert</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="105"/>
+        <source>File Size</source>
+        <translation>Dateigröße</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="121"/>
+        <source>The map data was compiled from the following sources.</source>
+        <translation>Die Kartendaten stammen aus folgenden Quellen:</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="186"/>
+        <source>downloading … %1% complete</source>
+        <translation>Download … %1% abgeschlossen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="193"/>
+        <source>installed • %1</source>
+        <translation>installiert • %1</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="199"/>
+        <source>update available</source>
+        <translation>Update verfügbar</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="203"/>
         <source>manually imported</source>
         <translation>manuell importiert</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="75"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="208"/>
         <source>not installed</source>
         <translation>nicht installiert</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="80"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="216"/>
         <source>file size unknown</source>
         <translation>Dateigröße unbekannt</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="306"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="465"/>
         <source>the remote server refused the connection (the server is not accepting requests)</source>
         <translation>Der Remote-Server verweigert die Verbindung (beantwortet keine Anfragen)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="310"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="469"/>
         <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>Der Remote-Server schloss die Verbindung, bevor die ganze Antwort empfangen und verarbeitet werden konnte</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="315"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="474"/>
         <source>the remote host name was not found (invalid hostname)</source>
         <translation>Name des Remote-Host nicht gefunden (ungültiger Name)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="319"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="478"/>
         <source>the connection to the remote server timed out</source>
         <translation>Time-out bei der Verbindung zum Remote-Server</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="324"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="483"/>
         <source>the operation was canceled via calls to abort() or close() before it was finished</source>
         <translation>Die Operation wurde durch Aufrufe oder via abort() oder close() vorzeitig abgebrochen</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="328"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="487"/>
         <source>the SSL/TLS handshake failed and the encrypted channel could not be established.</source>
         <translation>der SSL/TLS-Handshake schlug fehl; es konnte kein verschlüsselter Kanal eröffnet werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="332"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="491"/>
         <source>the connection was broken due to disconnection from the network</source>
-        <translatorcomment>eigentlich nur Netz, aber jeder sagt heute anglifiziert Netzwerk</translatorcomment>
         <translation>Verbindung unterbrochen wegen Trennung vom Netzwerk</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="336"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="495"/>
         <source>the connection was broken due to disconnection from the network or failure to start the network</source>
-        <translatorcomment>Netzwerk/Netz sh. zuvor (und an x anderen Stellen)</translatorcomment>
         <translation>Verbindung unterbrochen wegen Trennung vom Netzwerk oder Fehler beim Start des Netzwerks</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="341"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="500"/>
         <source>the background request is not currently allowed due to platform policy</source>
         <translation>Die Hintergrundanfrage ist zzt. wegen der Plattform-Policy nicht zulässig</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="345"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="504"/>
         <source>while following redirects, the maximum limit was reached</source>
         <translation>Die maximale Zahl an Weiterleitungen wurde überschritten</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="349"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="508"/>
         <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
         <translation>Die Network-Access-API stellte eine Weiterleitung von https (verschlüsselt) zu http (unverschlüsselt) fest</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="354"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="513"/>
         <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
         <translation>Verbindung zum Proxy wurde abgelehnt (Proxy akzeptiert keine Anfragen)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="359"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="518"/>
         <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>Der Proxy schloss die Verbindung, bevor die ganze Antwort empfangen und verarbeitet werden konnte</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="364"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="523"/>
         <source>the proxy host name was not found (invalid proxy hostname)</source>
         <translation>Proxy-Hostname nicht gefunden (ungültiger Name)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="368"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="527"/>
         <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
         <translation>Time-out bei Verbindung zum Proxy oder Proxy antwortete nicht rechtzeitig auf die Anfrage</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="373"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="532"/>
         <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
         <translation>Proxy fordert Authentifizierung. Die übermittelten Anmeldedaten wurden nicht akzeptiert oder fehlten ganz</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="378"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="537"/>
         <source>the access to the remote content was denied (similar to HTTP error 403)</source>
         <translation>Zugriff auf Remote-Content wurde verweigert (ähnlich HTTP-Fehler 403)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="382"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="541"/>
         <source>the operation requested on the remote content is not permitted</source>
         <translation>Angefragte Operation auf Remote-Content nicht zulässig</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="386"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="545"/>
         <source>the remote content was not found at the server (similar to HTTP error 404)</source>
         <translation>Remote-Content nicht auf dem Server gefunden (ähnlich HTTP-Fehler 404)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="390"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="549"/>
         <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
         <translation>Der Remote-Server fordert Authentifizierung. Die übermittelten Anmeldedaten wurden nicht akzeptiert oder fehlten ganz</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="395"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="554"/>
         <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
-        <translation>Die Anfrage musste wiederholt werden, was fehlschlug, da z.B. die Upload-Daten kein zweites Mal gelesen werden konnten</translation>
+        <translation>Die Anfrage musste wiederholt werden, was fehlschlug, z.B. da die Upload-Daten kein zweites Mal gelesen werden konnten</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="400"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="559"/>
         <source>the request could not be completed due to a conflict with the current state of the resource</source>
         <translation>Die Anfrage konnte nicht abgeschlossen werden: Konflikt mit dem aktuellen Status der Ressource</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="405"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="564"/>
         <source>the requested resource is no longer available at the server</source>
         <translation>Die angefragte Ressource ist auf dem Server nicht mehr verfügbar</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="409"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="568"/>
         <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
         <translation>Eine unerwartete Bedingung auf dem Server hinderte ihn an der Ausführung der Anfrage</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="415"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="574"/>
         <source>the server does not support the functionality required to fulfill the request</source>
         <translation>Der Server bietet nicht die nötige Funktion zur Ausführung der Anfrage</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="419"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="578"/>
         <source>the server is unable to handle the request at this time</source>
         <translation>Der Server kann die Anfrage zur Zeit nicht bearbeiten</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="424"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="583"/>
         <source>the Network Access API cannot honor the request because the protocol is not known</source>
         <translation>Das API des Netzwerkzugangs akzeptiert die Anfrage nicht: unbekanntes Protokoll</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="428"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="587"/>
         <source>the requested operation is invalid for this protocol</source>
         <translation>Die angefragte Operation ist über dieses Protokoll nicht zulässig</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="432"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="591"/>
         <source>an unknown network-related error was detected</source>
         <translation>Ein unbekannter Netzwerkfehler ist aufgetreten</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="436"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="595"/>
         <source>an unknown proxy-related error was detected</source>
         <translation>Ein unbekannter Fehler am Proxy ist aufgetreten</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="440"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="599"/>
         <source>an unknown error related to the remote content was detected</source>
         <translation>Ein unbekannter Fehler beim Remote-Content ist aufgetreten</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="444"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="603"/>
         <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
         <translation>Störung beim Protokoll (Parser-Fehler, ungültige oder unerwartete Antworten usw.)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="449"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="608"/>
         <source>an unknown error related to the server response was detected</source>
         <translation>Ein unbekannter Fehler bei der Server-Antwort ist aufgetreten</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable.cpp" line="453"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="612"/>
         <source>unknown</source>
         <translation>unbekannt</translation>
     </message>
@@ -1016,7 +1292,7 @@ anderes dazu sagen können.&lt;/p&gt;
 <context>
     <name>DataManagement::UpdateNotifier</name>
     <message>
-        <location filename="../../../src/dataManagement/UpdateNotifier.cpp" line="84"/>
+        <location filename="../../../src/dataManagement/UpdateNotifier.cpp" line="76"/>
         <source>The estimated download size is %1.</source>
         <translation>Die geschätzte Downloadgröße ist %1.</translation>
     </message>
@@ -1024,57 +1300,55 @@ anderes dazu sagen können.&lt;/p&gt;
 <context>
     <name>DataManager</name>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="61"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="210"/>
         <source>aviation maps</source>
-        <translation>Luftfahrtkarten</translation>
+        <translation type="vanished">Luftfahrtkarten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="64"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="213"/>
         <source>base maps</source>
-        <translation>Basiskarten</translation>
+        <translation type="vanished">Basiskarten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="33"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="34"/>
         <source>Map and Data Library</source>
         <translation>Karten- und Datenbibliothek</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="157"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="301"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="419"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="149"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="169"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="313"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="431"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="161"/>
         <source>Uninstall</source>
         <translation>Deinstallieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="185"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="329"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="447"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="832"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="177"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="500"/>
         <source>Download Error</source>
         <translation>Fehler beim Download</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="186"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="330"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="448"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="178"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Download fehlgeschlagen: &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Grund: %2.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="281"/>
+        <source>Maps</source>
+        <translation>Karten</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="371"/>
+        <source>&lt;h3&gt;Update required!&lt;/h3&gt;</source>
+        <translation>&lt;h3&gt;Update erforderlich!&lt;/h3&gt;</translation>
     </message>
     <message>
         <source>Update list of maps</source>
         <translation type="vanished">Liste der Karten aktualisieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="528"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="257"/>
         <source>Download all updates…</source>
         <translation>Alle Aktualisierungen herunterladen …</translation>
     </message>
@@ -1087,90 +1361,86 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation type="vanished">Basiskarten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="516"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="245"/>
         <source>Update list of maps and data</source>
         <translation>Karten- und Datenliste aktualisieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="552"/>
         <source>Aviation maps</source>
-        <translation>Luftfahrtkarten</translation>
+        <translation type="vanished">Luftfahrtkarten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="555"/>
         <source>Base maps</source>
-        <translation>Basiskarten</translation>
+        <translation type="vanished">Basiskarten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="558"/>
         <source>Terrain</source>
-        <translation>Terrain</translation>
+        <translation type="vanished">Terrain</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="561"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="284"/>
         <source>Data</source>
         <translation>Daten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="602"/>
         <source>How to request additional aviation maps…</source>
-        <translation>Wie man zusätzliche Luftfahrtkarten anfordert ...</translation>
+        <translation type="vanished">Wie man zusätzliche Luftfahrtkarten anfordert ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="609"/>
         <source>Request additional aviation maps</source>
-        <translation>Zusätzliche Luftfahrtkarten anfordern</translation>
+        <translation type="vanished">Zusätzliche Luftfahrtkarten anfordern</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="733"/>
+        <source>Request Additional Aviation Maps</source>
+        <translation type="vanished">Zusätzliche Luftfahrtkarten anfordern</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="392"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste verfügbarer Karten wurde noch nicht heruntergeladen. Sie können das manuell mit dem Knopf unten neu anstoßen.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="761"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="424"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Download läuft …&lt;/h3&gt;&lt;p&gt;Bitte einen Moment Geduld, während wir die Liste der verfügbaren Karten herunterladen…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="803"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="471"/>
         <source>Download list of maps…</source>
         <translation>Liste der Karten herunterladen…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="817"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="485"/>
         <source>Update</source>
         <translation>Update</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="833"/>
+        <location filename="../../../src/qml/pages/DataManager.qml" line="501"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Download der Liste der Luftfahrtkarten fehlgeschlagen.&lt;/p&gt;&lt;p&gt;Grund: %1.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="861"/>
         <source>Uninstall Raster Maps</source>
-        <translation>Rasterkarten deinstallieren</translation>
+        <translation type="vanished">Rasterkarten deinstallieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="865"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled before new vector maps are downloaded.</source>
-        <translation>Alle Rasterkarten werden vor dem Download neuer Vektorkarten deinstalliert, um Konflikte der Kartentypen zu vermeiden.</translation>
+        <translation type="vanished">Alle Rasterkarten werden vor dem Download neuer Vektorkarten deinstalliert, um Konflikte der Kartentypen zu vermeiden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="878"/>
         <source>Raster maps uninstalled</source>
-        <translation>Rasterkarten wurden deinstalliert</translation>
+        <translation type="vanished">Rasterkarten wurden deinstalliert</translation>
     </message>
 </context>
 <context>
     <name>DegreeInput</name>
     <message>
         <location filename="../../../src/qml/items/DegreeInput.qml" line="79"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="116"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="135"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="175"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="193"/>
-        <location filename="../../../src/qml/items/DegreeInput.qml" line="211"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="117"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="137"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="178"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="197"/>
+        <location filename="../../../src/qml/items/DegreeInput.qml" line="216"/>
         <source>undefined</source>
         <translation>unbestimmt</translation>
     </message>
@@ -1245,7 +1515,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <name>ElevationInput</name>
     <message>
         <location filename="../../../src/qml/items/ElevationInput.qml" line="57"/>
-        <location filename="../../../src/qml/items/ElevationInput.qml" line="84"/>
+        <location filename="../../../src/qml/items/ElevationInput.qml" line="85"/>
         <source>undefined</source>
         <translation>unbestimmt</translation>
     </message>
@@ -1313,29 +1583,24 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Entfernen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="228"/>
         <source>Save to library …</source>
-        <translation>In Bibliothek speichern …</translation>
+        <translation type="vanished">In Bibliothek speichern …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="219"/>
         <source>View Library …</source>
-        <translation>Bibliothek betrachten …</translation>
+        <translation type="vanished">Bibliothek betrachten …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="242"/>
         <source>Import …</source>
-        <translation>Importieren …</translation>
+        <translation type="vanished">Importieren …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="255"/>
         <source>Export …</source>
-        <translation>Exportieren …</translation>
+        <translation type="vanished">Exportieren …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="255"/>
         <source>Share …</source>
-        <translation>Teilen …</translation>
+        <translation type="vanished">Teilen …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="259"/>
@@ -1355,17 +1620,26 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Route geteilt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="412"/>
-        <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Keine Route definiert&lt;/h3&gt;&lt;p&gt;Drücken Sie unten &lt;strong&gt;Wegpunkt hinzufügen&lt;/strong&gt;.&lt;/p&gt;</translation>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="308"/>
+        <source>Open in Other App…</source>
+        <translation>In anderer App öffnen…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="636"/>
+        <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;h3&gt;Keine Route definiert&lt;/h3&gt;&lt;p&gt;Drücken Sie unten &lt;strong&gt;Wegpunkt hinzufügen&lt;/strong&gt;.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="643"/>
         <source>One waypoint: direct route from ownship position</source>
         <translation>Ein Wegpunkt: Direkte Route ab der eigenen Position</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="715"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="702"/>
+        <source>Clear Route?</source>
+        <translation>Route löschen?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="722"/>
         <source>Flight route cleared</source>
         <translation>Route gelöscht</translation>
     </message>
@@ -1390,14 +1664,48 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>%1 zur Wegpunktbibliothek hinzugefügt.</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="219"/>
+        <source>View Library…</source>
+        <translation>Bibliothek ansehen…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="228"/>
+        <source>Save to library…</source>
+        <translation>In Bibliothek speichern…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="242"/>
+        <source>Import…</source>
+        <translation>Importieren…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="255"/>
+        <source>Share…</source>
+        <translation>Teilen…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="255"/>
+        <source>Export…</source>
+        <translation>Exportieren…</translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="283"/>
         <source>… to GPX file</source>
         <translation>… als GPX-Datei</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="308"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="418"/>
+        <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below or double click on any point in the moving map.&lt;/p&gt;</source>
+        <translation>&lt;h3&gt;Leere Route&lt;/h3&gt;&lt;p&gt;Klicken Sie &lt;strong&gt;Wegpunkt hinzufügen&lt;/strong&gt; an oder doppelklicken Sie auf einen beliebigen Punkt in der Karte.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="751"/>
+        <source>Error Exporting Data…</source>
+        <translation>Fehler beim Datenexport…</translation>
+    </message>
+    <message>
         <source>Open in other app …</source>
-        <translation>In anderer App öffnen …</translation>
+        <translation type="vanished">In anderer App öffnen …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="329"/>
@@ -1415,7 +1723,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Umkehren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="385"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="386"/>
         <source>Route</source>
         <translation>Route</translation>
     </message>
@@ -1424,19 +1732,19 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">&lt;h2&gt;Keine Route definiert&lt;/h2&gt;&lt;p&gt;Drücken Sie unten &lt;strong&gt;Wegpunkt hinzufügen&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="489"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="495"/>
         <source>Direction from</source>
         <translation>Aus Richtung</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="513"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="593"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="519"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="599"/>
         <source>undefined</source>
         <translation>unbestimmt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="386"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="480"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="387"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="486"/>
         <source>Wind</source>
         <translation>Wind</translation>
     </message>
@@ -1462,29 +1770,27 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Richtung</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="530"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="536"/>
         <source>Speed</source>
         <translation>Geschwindigkeit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="662"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="669"/>
         <source>Add Waypoint</source>
         <translation>Wegpunkt hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="695"/>
         <source>Clear route?</source>
-        <translation>Route löschen?</translation>
+        <translation type="vanished">Route löschen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="707"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="714"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>Die aktuelle Route kann nach dem Löschen nicht wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="744"/>
         <source>Error exporting data…</source>
-        <translation>Fehler beim Exportieren der Daten…</translation>
+        <translation type="vanished">Fehler beim Exportieren der Daten…</translation>
     </message>
 </context>
 <context>
@@ -1496,14 +1802,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Routen-Bibliothek</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="88"/>
         <source>Info …</source>
-        <translation>Info …</translation>
+        <translation type="vanished">Info …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="97"/>
         <source>Import …</source>
-        <translation>Importieren …</translation>
+        <translation type="vanished">Importieren …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="123"/>
@@ -1511,14 +1815,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Routen nach Namen filtern</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="174"/>
         <source>Export …</source>
-        <translation>Exportieren …</translation>
+        <translation type="vanished">Exportieren …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="174"/>
         <source>Share …</source>
-        <translation>Teilen …</translation>
+        <translation type="vanished">Teilen …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="177"/>
@@ -1531,9 +1833,8 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>… als GPX-Datei</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="228"/>
         <source>Open in other app …</source>
-        <translation>In anderer App öffnen …</translation>
+        <translation type="vanished">In anderer App öffnen …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="231"/>
@@ -1545,6 +1846,26 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="211"/>
         <source>Aborted</source>
         <translation>Abgebrochen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="88"/>
+        <source>Info…</source>
+        <translation>Info…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="97"/>
+        <source>Import…</source>
+        <translation>Importieren…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="174"/>
+        <source>Share…</source>
+        <translation>Teilen…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="174"/>
+        <source>Export…</source>
+        <translation>Exportieren…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="195"/>
@@ -1559,6 +1880,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Route exportiert</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="228"/>
+        <source>Open in Other App…</source>
+        <translation>In anderer App öffnen…</translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="243"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="260"/>
         <source>Flight route opened in other app</source>
@@ -1570,14 +1896,17 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>… im GPX-Format</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="270"/>
-        <source>Rename …</source>
-        <translation>Umbenennen …</translation>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="568"/>
+        <source>Error Exporting Data…</source>
+        <translation>Fehler beim Datenexport…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="282"/>
+        <source>Rename …</source>
+        <translation type="vanished">Umbenennen …</translation>
+    </message>
+    <message>
         <source>Remove …</source>
-        <translation>Löschen …</translation>
+        <translation type="vanished">Löschen …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="324"/>
@@ -1595,14 +1924,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Lade Flugroute &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="363"/>
         <source>An error occurred…</source>
-        <translation>Fehler aufgetreten …</translation>
+        <translation type="vanished">Fehler aufgetreten …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="416"/>
         <source>Overwrite current flight route?</source>
-        <translation>Aktuelle Route überschreiben?</translation>
+        <translation type="vanished">Aktuelle Route überschreiben?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="426"/>
@@ -1610,9 +1937,8 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Die Route &lt;strong&gt;%1&lt;/strong&gt; überschreibt beim Laden die aktuelle Route. Diese kann dann nicht mehr wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="454"/>
         <source>Remove from device?</source>
-        <translation>Vom Gerät löschen?</translation>
+        <translation type="vanished">Vom Gerät löschen?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="464"/>
@@ -1640,6 +1966,31 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Route umbenennen</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="270"/>
+        <source>Rename…</source>
+        <translation>Umbenennen…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="282"/>
+        <source>Remove…</source>
+        <translation>Löschen…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="363"/>
+        <source>An Error Occurred…</source>
+        <translation>Fehler aufgetreten…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="416"/>
+        <source>Overwrite Current Flight Route?</source>
+        <translation>Aktuelle Route überschreiben?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="454"/>
+        <source>Remove from Device?</source>
+        <translation>Löschen?</translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="513"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Geben Sie für die Route &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translation>
@@ -1650,9 +2001,8 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Umbenennen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="568"/>
         <source>Error exporting data…</source>
-        <translation>Fehler beim Exportieren der Daten…</translation>
+        <translation type="vanished">Fehler beim Exportieren der Daten…</translation>
     </message>
 </context>
 <context>
@@ -1678,9 +2028,18 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Route %1 gespeichert</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="160"/>
+        <source>An Error Occurred…</source>
+        <translation>Fehler aufgetreten…</translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="198"/>
-        <source>Overwrite flight route?</source>
+        <source>Overwrite Flight Route?</source>
         <translation>Route überschreiben?</translation>
+    </message>
+    <message>
+        <source>Overwrite flight route?</source>
+        <translation type="vanished">Route überschreiben?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="205"/>
@@ -1688,20 +2047,19 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Die Route &lt;strong&gt;%1&lt;/strong&gt; besteht schon in der Bibliothek. Überschreiben?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="160"/>
         <source>An error occurred…</source>
-        <translation>Es ist ein Fehler aufgetreten …</translation>
+        <translation type="vanished">Es ist ein Fehler aufgetreten …</translation>
     </message>
 </context>
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="69"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="71"/>
         <source>Aviation maps</source>
         <translation>Luftfahrtkarten</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="78"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="91"/>
         <source>Basemap</source>
         <translation>Basiskarte</translation>
     </message>
@@ -1751,110 +2109,118 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Datei &lt;strong&gt;%1&lt;/strong&gt;: Unbekannter Dateityp.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="70"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="71"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; cannot be recognized.</source>
         <translation>Der Typ der Datei &lt;strong&gt;%1&lt;/strong&gt; wird nicht erkannt.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="89"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="90"/>
         <source>Import Waypoint Data</source>
         <translation>Wegpunktdaten importieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="97"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="98"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
         <translation>Die Datei enthält mehrere Wegpunkte. Als Route oder in die Wegpunktbibliothek importieren?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="107"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="108"/>
         <source>Route</source>
         <translation>Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="118"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="122"/>
         <source>Library</source>
         <translation>Bibliothek</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="149"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="153"/>
         <source>Import Raster Map</source>
         <translation>Rasterkarten importieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="157"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="231"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="161"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="235"/>
         <source>Enter a name for this map.</source>
         <translation>Geben Sie einen Namen für diese Karte ein.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="167"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="241"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="171"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="245"/>
         <source>Map Name</source>
         <translation>Name der Karte</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="301"/>
+        <source>Import Waypoint Library</source>
+        <translation>Wegpunktbibliothek importieren</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="403"/>
+        <source>Data Import Error</source>
+        <translation>Fehler beim Datenimport</translation>
     </message>
     <message>
         <source>Remove file after import</source>
         <translation type="vanished">Datei nach dem Import löschen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="181"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="185"/>
         <source>To avoid conflicts between raster and vector maps, all vector maps will be uninstalled.</source>
         <translation>Alle Vektorkarten werden deinstalliert, um Konflikte der Kartentypen Raster und Vektor zu vermeiden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="205"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="209"/>
         <source>Raster map imported</source>
         <translation>Rasterkarte importiert</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="223"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="227"/>
         <source>Import Vector Map</source>
         <translation>Vektorkarte importieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="255"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="259"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
         <translation>Alle Rasterkarten werden deinstalliert, um Konflikte der Kartentypen Raster und Vektor zu vermeiden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="279"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="283"/>
         <source>Vector map imported</source>
         <translation>Vektorkarte importiert</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="297"/>
         <source>Import waypoint library</source>
-        <translation>Wegpunktbibliothek importieren</translation>
+        <translation type="vanished">Wegpunktbibliothek importieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="306"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="310"/>
         <source>Skip over waypoint that already exist in the library</source>
         <translation>Bereits bestehende Wegpunkte überspringen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="328"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="332"/>
         <source>Waypoints imported</source>
         <translation>Wegpunkte importiert</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="346"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="350"/>
         <source>Import Flight Route?</source>
         <translation>Route importieren?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="353"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="357"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Dies überschreibt die aktuelle Route. Sie kann danach nicht wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="378"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="382"/>
         <source>Flight route imported</source>
         <translation>Route importiert</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="399"/>
         <source>Data import error</source>
-        <translation>Fehler beim Datenimport</translation>
+        <translation type="vanished">Fehler beim Datenimport</translation>
     </message>
     <message>
         <source>Error importing flight route</source>
@@ -1882,7 +2248,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 <context>
     <name>Librarian</name>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="110"/>
+        <location filename="../../../src/Librarian.cpp" line="115"/>
         <source>
 &lt;p&gt;We receive our aviation data from &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. This is a not-for-profit organisation where volunteers compile aviation data for many countries. If openAIP covers your country, we might be able to generate maps for it. First, however, we need to be reasonably sure that the openAIP data is accurate and complete. Please have a look at the &lt;a href=&quot;http://maps.openaip.net&quot;&gt;openAIP maps&lt;/a&gt; and compare the display with an official aviation map of your country. Are the airfields there? Are runway lengths/orientations and frequencies correct? Are NavAids correctly displayed, with correct codes and frequencies? And what about airspaces?&lt;/p&gt;
 
@@ -1897,7 +2263,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;Notabene: Wir programmieren diese kostenlose App in unserer Freizeit, als Dienst an der Gemeinschaft. Ich muss leider darauf hinweisen: Unhöfliche Anforderungen werden kaum zum Ziel führen.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="51"/>
+        <location filename="../../../src/Librarian.cpp" line="56"/>
         <source>&lt;h3&gt;Authors&lt;/h3&gt;
 
 &lt;br&gt;
@@ -1943,7 +2309,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;/table&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="72"/>
+        <location filename="../../../src/Librarian.cpp" line="51"/>
+        <source>&lt;p&gt;This version of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is outdated and will no longer receive map updates. &lt;strong&gt;Please update this app at your earliest convencience.&lt;/strong&gt;&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Diese Version von &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ist veraltet und erhält keine Kartenupdates mehr. &lt;strong&gt;Bitte aktualisieren Sie die App bei nächster Gelegenheit.&lt;/strong&gt;&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="77"/>
         <source>
 &lt;h3&gt;Manual&lt;/h3&gt;
 
@@ -1955,7 +2326,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="76"/>
+        <location filename="../../../src/Librarian.cpp" line="81"/>
         <source>
 &lt;h3&gt;Translations&lt;/h3&gt;
 </source>
@@ -1964,7 +2335,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="80"/>
+        <location filename="../../../src/Librarian.cpp" line="85"/>
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato. Adrien is a private pilot and aerospace engineer.&lt;/li&gt;
 </source>
@@ -1973,7 +2344,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="82"/>
+        <location filename="../../../src/Librarian.cpp" line="87"/>
         <source>
 &lt;li&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/li&gt;
 </source>
@@ -1982,14 +2353,14 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="84"/>
+        <location filename="../../../src/Librarian.cpp" line="89"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
         <translation>&lt;li&gt;&lt;strong&gt;Italienisch:&lt;/strong&gt; Ivan Battistella und Antonio Fardella. Antonio ist Marineflieger mit einer Leidenschaft für Herausforderungen.&lt;/li&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="86"/>
+        <location filename="../../../src/Librarian.cpp" line="91"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/li&gt;
 </source>
@@ -1998,7 +2369,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="90"/>
+        <location filename="../../../src/Librarian.cpp" line="95"/>
         <source>
 &lt;h3&gt;Alumni&lt;/h3&gt;
 </source>
@@ -2007,7 +2378,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="94"/>
+        <location filename="../../../src/Librarian.cpp" line="99"/>
         <source>
 &lt;li&gt;Luca Bertoncello (Italian translation)&lt;/li&gt;
 </source>
@@ -2016,7 +2387,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="96"/>
+        <location filename="../../../src/Librarian.cpp" line="101"/>
         <source>
 &lt;li&gt;Adrien Crovato (Integration of weather information)&lt;/li&gt;
 </source>
@@ -2025,7 +2396,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="98"/>
+        <location filename="../../../src/Librarian.cpp" line="103"/>
         <source>
 &lt;li&gt;Szymon Kocur (Polish translation)&lt;/li&gt;
 </source>
@@ -2034,7 +2405,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="100"/>
+        <location filename="../../../src/Librarian.cpp" line="105"/>
         <source>
 &lt;li&gt;Heiner Tholen (User interface)&lt;/li&gt;
 </source>
@@ -2043,7 +2414,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="102"/>
+        <location filename="../../../src/Librarian.cpp" line="107"/>
         <source>
 &lt;li&gt;Johannes Zellner (Geoid correction for altitude)&lt;/li&gt;
 </source>
@@ -2052,7 +2423,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="147"/>
+        <location filename="../../../src/Librarian.cpp" line="152"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -2104,7 +2475,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;Freundlicherweise zur Verfügung gestellt werden uns die Luftfahrtdaten von den Projekten &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; und &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; sowie die Basiskarten von &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Details dazu finden Sie in der Dokumentation.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="179"/>
+        <location filename="../../../src/Librarian.cpp" line="184"/>
         <source>
 &lt;h3&gt;License&lt;/h3&gt;
 
@@ -2128,21 +2499,54 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="278"/>
-        <source>&lt;p&gt;The altimeter can now show your altitude above ground level. To try this new feature, open the main menu and go to &apos;Settings&apos;. Make sure that terrain data is installed.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Die Höhenanzeige kann nun auch Höhen über Grund anzeigen. Sie erreichen diese neue Funktion über die Einstellungen im Hauptmenü. Dafür müssen Terrain-Daten installiert sein.&lt;/p&gt;</translation>
+        <location filename="../../../src/Librarian.cpp" line="259"/>
+        <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
+
+&lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
+
+&lt;p&gt;However, we&apos;d like to ask you &lt;strong&gt;to download only the maps that you really need.&lt;/strong&gt;
+
+&lt;p&gt;On the one hand, the bandwidth for map downloads is kindly sponsored by the University of Freiburg, under the assumption that &lt;strong&gt;the costs stays within reasonable limits.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
+
+&lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that.&lt;/p&gt;</source>
+        <translation>&lt;h3&gt;Zu viele Karten&lt;/h3&gt;
+
+&lt;p&gt;Danke für die Benutzung von Enroute Flight Navigation, wir wissen Ihr Engagement sehr zu schätzen.&lt;/p&gt;
+
+&lt;p&gt;Allerdings müssen wir Sie leider darum bitten, &lt;strong&gt;nur wirklich benötigte Karten herunterzuladen.&lt;/strong&gt;
+
+&lt;p&gt;Zum einen wird die Bandbreite für die Kartendownloads freundlicherweise von der Universität Freiburg gesponsort, davon ausgehend, dass &lt;strong&gt;die Kosten dafür in vernünftigen Grenzen bleiben.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zum anderen läuft die App einfach besser, wenn sie nicht so viele Megabytes an Kartendaten verarbeiten muss.&lt;/p&gt;
+
+&lt;p&gt;Wenn irgend möglich, würden wir eine harte Begrenzung der Kartenanzahl auch zukünftig gern vermeiden. Bitte helfen Sie dabei mit.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="279"/>
+        <location filename="../../../src/Librarian.cpp" line="283"/>
+        <source>&lt;p&gt;The page &apos;Map and Data Library&apos; has been redesigned for simplicity of use.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Die Seite &apos;Karten- und Datenbiliothek&apos; wurde zur leichteren Bedienung neu gestaltet.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="284"/>
+        <source>&lt;p&gt;The boundaries of our aviation maps have been adjusted to match the base maps. &lt;strong&gt;Users in Canada, Slovenia, the UK and the USA: please re-install your aviation maps if necessary.&lt;/strong&gt; We apologize for the inconvenience.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Die Grenzen unserer Luftfahrtkarten wurden an die Basiskarten angepasst. &lt;strong&gt;Anwender in Canada, Slowenien, UK und USA: bitte installieren Sie Ihre Luftfahrtkarten ggf. neu.&lt;/strong&gt; Für die Umstände bitten wir um Verständnis.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>&lt;p&gt;The altimeter can now show your altitude above ground level. To try this new feature, open the main menu and go to &apos;Settings&apos;. Make sure that terrain data is installed.&lt;/p&gt;</source>
+        <translation type="vanished">&lt;p&gt;Die Höhenanzeige kann nun auch Höhen über Grund anzeigen. Sie erreichen diese neue Funktion über die Einstellungen im Hauptmenü. Dafür müssen Terrain-Daten installiert sein.&lt;/p&gt;</translation>
+    </message>
+    <message>
         <source>&lt;p&gt;The app can now show a shaded terrain relief. To download terrain data for your region, open the main menu and go to &apos;Library/Maps and Data&apos;.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Die App kann jetzt Terrain auch schattiert anzeigen. Terraindaten Ihrer Region erhalten Sie über &apos;Bibliothek/Karten und Daten&apos; im Hauptmenü.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Die App kann jetzt Terrain auch schattiert anzeigen. Terraindaten Ihrer Region erhalten Sie über &apos;Bibliothek/Karten und Daten&apos; im Hauptmenü.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;As requested by many users, it is now possible to save waypoints and to build a small waypoint library.&lt;/p&gt;</source>
         <translation type="vanished">&lt;p&gt;Wie vielfach gewünscht, lassen sich jetzt Wegpunkte in einer kleinen Bibliothek speichern.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="280"/>
+        <location filename="../../../src/Librarian.cpp" line="285"/>
         <source>&lt;p&gt;We could need help with French translations. If you would like to help, if speak French and know how to use the GIT version control system, please let us know.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Wir könnten Hilfe bei der Übersetzung ins Französische gebrauchen. Wenn Sie gern helfen würden, Französisch sprechen und mit dem GIT-Versionierungssystem umgehen können, hören wir gern von Ihnen.&lt;/p&gt;</translation>
     </message>
@@ -2191,7 +2595,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; Die Leser der deutschen Luftfahrtzeitschrift &apos;Aerokurier&apos; haben &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; als eine der drei Top-Innovationen des Jahres in der Kategorie &apos;Avionics&apos; gewählt. Danke an alle, die diesen Erfolg ermöglicht haben!&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="189"/>
+        <location filename="../../../src/Librarian.cpp" line="194"/>
         <source>
 &lt;h4&gt;Geographic maps&lt;/h4&gt;
 
@@ -2253,7 +2657,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="226"/>
+        <location filename="../../../src/Librarian.cpp" line="231"/>
         <source>
 &lt;h4&gt;Software and data included in the program&lt;/h4&gt;
 
@@ -2281,7 +2685,6 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="254"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -2293,7 +2696,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
 
 &lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that. You already have &lt;strong&gt;%2 maps&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Zu viele Karten&lt;/h3&gt;
+        <translation type="vanished">&lt;h3&gt;Zu viele Karten&lt;/h3&gt;
 
 &lt;p&gt;Vielen Dank dafür, dass Sie Enroute benutzen. Wir freuen uns sehr über Ihre Begeisterung.&lt;/p&gt;
 
@@ -2306,7 +2709,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;Wir geben unser Bestes, um eine Begrenzung der Kartenzahl in der Zukunft zu vermeiden. Bitte helfen Sie uns dabei. Sie haben nun schon &lt;strong&gt;%2 Karten&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="135"/>
+        <location filename="../../../src/Librarian.cpp" line="140"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -2319,7 +2722,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;Auf die Routen kann aus anderen Programmen wie etwa Backup-Software oder Datei-Synchronisierung zugegriffen werden. Dadurch kann die Routenbibliothek mit anderen Geräten geteilt werden.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="268"/>
+        <location filename="../../../src/Librarian.cpp" line="273"/>
         <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
       
 &lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
@@ -2336,7 +2739,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;&lt;strong&gt;Wir haben keinen Einfluss auf die Daten des Aviation Weather Center. Wir garantieren die Richtigkeit der Wetterinformationen in keiner Weise!&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="119"/>
+        <location filename="../../../src/Librarian.cpp" line="124"/>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
@@ -2365,7 +2768,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="242"/>
+        <location filename="../../../src/Librarian.cpp" line="247"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -2454,49 +2857,40 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
 <context>
     <name>MobileAdaptor</name>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="54"/>
         <source>Import data</source>
-        <translation>Daten importieren</translation>
+        <translation type="vanished">Daten importieren</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="56"/>
         <source>All files (*)</source>
-        <translation>Alle Dateien (*)</translation>
+        <translation type="vanished">Alle Dateien (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="83"/>
         <source>No suitable file sharing app could be found.</source>
-        <translation>Keine geeignete App gefunden, um die Daten zu teilen.</translation>
+        <translation type="vanished">Keine geeignete App gefunden, um die Daten zu teilen.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="86"/>
         <source>Export flight route</source>
-        <translation>Exportiere Route</translation>
+        <translation type="vanished">Exportiere Route</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="88"/>
         <source>%1 (*.%2);;All files (*)</source>
-        <translation>%1 (*.%2);;Alle Dateien (*)</translation>
+        <translation type="vanished">%1 (*.%2);;Alle Dateien (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="95"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation>Kann Datei &lt;strong&gt;%1&lt;/strong&gt; nicht öffnen.</translation>
+        <translation type="vanished">Kann Datei &lt;strong&gt;%1&lt;/strong&gt; nicht öffnen.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="99"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation>Kann nicht in Datei &lt;strong&gt;%1&lt;/strong&gt; schreiben.</translation>
+        <translation type="vanished">Kann nicht in Datei &lt;strong&gt;%1&lt;/strong&gt; schreiben.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="119"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation>Keine geeignete App gefunden, um diese Daten anzuzeigen.</translation>
+        <translation type="vanished">Keine geeignete App gefunden, um diese Daten anzuzeigen.</translation>
     </message>
     <message>
-        <location filename="../../../src/MobileAdaptor_share.cpp" line="125"/>
         <source>Unable to open data in other app.</source>
-        <translation>Kann die Daten nicht in anderer App öffnen.</translation>
+        <translation type="vanished">Kann die Daten nicht in anderer App öffnen.</translation>
     </message>
 </context>
 <context>
@@ -2650,6 +3044,11 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="153"/>
         <source>Error reading file &apos;%1&apos;</source>
         <translation>Fehler beim Lesen der Datei &apos;%1&apos;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="157"/>
+        <source>The file &apos;%1&apos; contains too many waypoints. Flight routes with more than 100 waypoints are not supported.</source>
+        <translation>Die Datei &apos;%1&apos; enthält zu viele Wegpunkte. Routen mit mehr als 100 Wegpunkten werden nicht verarbeitet.</translation>
     </message>
 </context>
 <context>
@@ -2850,30 +3249,79 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
 </context>
 <context>
+    <name>Platform::FileExchange</name>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="110"/>
+        <source>No suitable file sharing app could be found.</source>
+        <translation>Keine geeignete App gefunden, um die Daten zu teilen.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="125"/>
+        <source>No suitable app for viewing this data could be found.</source>
+        <translation>Keine geeignete App gefunden, um diese Daten anzuzeigen.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
+        <source>Import data</source>
+        <translation>Daten importieren</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
+        <source>All files (*)</source>
+        <translation>Alle Dateien (*)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
+        <source>Export flight route</source>
+        <translation>Exportiere Route</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
+        <source>%1 (*.%2);;All files (*)</source>
+        <translation>%1 (*.%2);;Alle Dateien (*)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="65"/>
+        <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
+        <translation>Kann Datei &lt;strong&gt;%1&lt;/strong&gt; nicht öffnen.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="70"/>
+        <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
+        <translation>Kann nicht in Datei &lt;strong&gt;%1&lt;/strong&gt; schreiben.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="82"/>
+        <source>Unable to open temporary file.</source>
+        <translation>Kann temporäre Datei nicht öffnen.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="92"/>
+        <source>Unable to open data in other app.</source>
+        <translation>Kann die Daten nicht in anderer App öffnen.</translation>
+    </message>
+</context>
+<context>
     <name>Platform::Notifier</name>
     <message>
         <source>Downloading map data…</source>
         <translation type="vanished">Kartendaten werden heruntergeladen …</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="52"/>
         <source>Downloading map and data…</source>
-        <translation>Lade Karte und Daten herunter…</translation>
+        <translation type="vanished">Lade Karte und Daten herunter…</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="54"/>
         <source>Traffic data receiver problem</source>
-        <translation>Problem mit dem Verkehrsdatenempfänger</translation>
+        <translation type="vanished">Problem mit dem Verkehrsdatenempfänger</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="56"/>
         <source>Traffic data receiver self test error</source>
-        <translation>Fehler beim Selbsttest des Verkehrsdatenempfängers</translation>
+        <translation type="vanished">Fehler beim Selbsttest des Verkehrsdatenempfängers</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier.cpp" line="58"/>
         <source>Map and data updates available</source>
-        <translation>Es gibt Karten- und Datenupdates</translation>
+        <translation type="vanished">Es gibt Karten- und Datenupdates</translation>
     </message>
     <message>
         <source>Map updates available</source>
@@ -2883,26 +3331,65 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <source>Open Application</source>
         <translation type="vanished">Anwendung öffnen</translation>
     </message>
+    <message>
+        <location filename="../../../src/platform/Notifier_Android.cpp" line="81"/>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="194"/>
+        <source>Update</source>
+        <translation>Update</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="195"/>
+        <source>Dismiss</source>
+        <translation>Ablehnen</translation>
+    </message>
+</context>
+<context>
+    <name>Platform::Notifier_Abstract</name>
+    <message>
+        <location filename="../../../src/platform/Notifier_Abstract.cpp" line="55"/>
+        <source>Downloading map and data…</source>
+        <translation>Lade Karte und Daten herunter…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier_Abstract.cpp" line="57"/>
+        <source>Traffic data receiver problem</source>
+        <translation>Problem mit dem Verkehrsdatenempfänger</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier_Abstract.cpp" line="59"/>
+        <source>Traffic data receiver self test error</source>
+        <translation>Fehler beim Selbsttest des Verkehrsdatenempfängers</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/Notifier_Abstract.cpp" line="61"/>
+        <source>Map and data updates available</source>
+        <translation>Es gibt Karten- und Datenupdates</translation>
+    </message>
 </context>
 <context>
     <name>Platform::Notifier_Android</name>
     <message>
-        <location filename="../../../src/platform/Notifier_Android.cpp" line="81"/>
         <source>Update</source>
-        <translation>Update</translation>
+        <translation type="vanished">Update</translation>
     </message>
 </context>
 <context>
     <name>Platform::Notifier_Linux</name>
     <message>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="196"/>
         <source>Update</source>
-        <translation>Update</translation>
+        <translation type="vanished">Update</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="197"/>
         <source>Dismiss</source>
-        <translation>Ablehnen</translation>
+        <translation type="vanished">Ablehnen</translation>
+    </message>
+</context>
+<context>
+    <name>Platform::PlatformAdaptor</name>
+    <message>
+        <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="45"/>
+        <source>unknown network name</source>
+        <translation>Netzwerkname unbekannt</translation>
     </message>
 </context>
 <context>
@@ -2935,46 +3422,47 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="134"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="137"/>
         <source>True Altitude</source>
         <translation>Wahre Höhe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="137"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="140"/>
         <source>Error (horizontal)</source>
         <translation>Fehler (horizontal)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="145"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="148"/>
         <source>Error (vertical)</source>
         <translation>Fehler (vertikal)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="148"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="151"/>
         <source>Magnetic Variation</source>
         <translation>Magnetische Variation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="155"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="158"/>
         <source>Ground Speed</source>
         <translation>Fahrt über Grund</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="158"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="161"/>
         <source>True Track</source>
         <translation>Wahrer Kurs</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="166"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="169"/>
         <source>Vertical Speed</source>
         <translation>Vertikalgeschwindigkeit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="169"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="172"/>
         <source>Pressure Altitude</source>
         <translation>Druckhöhe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="172"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="175"/>
         <source>Timestamp</source>
         <translation>Zeitstempel</translation>
     </message>
@@ -3074,10 +3562,9 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Kann nicht in Datei &apos;%1&apos; schreiben.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/MBTILES.cpp" line="112"/>
         <source>Internal Map Data</source>
         <comment>GeoMaps::MBTILES</comment>
-        <translation>Interne Kartendaten</translation>
+        <translation type="vanished">Interne Kartendaten</translation>
     </message>
 </context>
 <context>
@@ -3115,24 +3602,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Lufträume ≥ FL 100 ausblenden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="360"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="373"/>
         <source>No limit, all airspaces shown</source>
         <translation>Keine Grenzen, alle Lufträume werden angezeigt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
         <source>Showing airspaces up to %1</source>
-        <translation>Zeige Lufträume bis %1 an</translation>
+        <translation type="vanished">Zeige Lufträume bis %1 an</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="69"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="316"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="329"/>
         <source>Airspace Altitude Limit</source>
         <translation>Luftraumobergrenze</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="85"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
         <source>Hide Gliding Sectors</source>
         <translation>Segelflugsektoren ausblenden</translation>
     </message>
@@ -3145,134 +3630,199 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Segelflugsektoren werden angezeigt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="100"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="106"/>
         <source>Navigation</source>
         <translation>Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="108"/>
         <source>Show altitude AGL</source>
-        <translation>Zeige Höhe über Grund</translation>
+        <translation type="vanished">Zeige Höhe über Grund</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="139"/>
         <source>Traffic data receiver</source>
-        <translation>Verkehrsdatenempfänger</translation>
+        <translation type="vanished">Verkehrsdatenempfänger</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="426"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="439"/>
         <source>Built-in satnav receiver</source>
         <translation>Eingebauter GPS-Empfänger</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="143"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="156"/>
         <source>Primary position data source</source>
         <translation>Primäre Positionsdatenquelle</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="158"/>
         <source>Night mode</source>
-        <translation>Nacht-Modus</translation>
+        <translation type="vanished">Nacht-Modus</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="172"/>
         <source>Ignore network security errors</source>
-        <translation>Netzwerksicherheits-Fehler ignorieren</translation>
+        <translation type="vanished">Netzwerksicherheits-Fehler ignorieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="188"/>
         <source>Clear password storage</source>
-        <translation>Passwortspeicher löschen</translation>
+        <translation type="vanished">Passwortspeicher löschen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="195"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="208"/>
         <source>Help</source>
         <translation>Hilfe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="204"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="217"/>
         <source>How to connect your traffic receiver…</source>
         <translation>Wie man sich mit dem Verkehrsdatenempfänger verbindet ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="225"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="238"/>
         <source>Terrain Data Missing</source>
         <translation>Kein Terrain-Daten vorhanden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="226"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="239"/>
         <source>The height above ground level cannot be computed for your current position, because the relevant terrain maps for your region have not been installed.</source>
         <translation>Die Höhe über Grund kann für die aktuelle Position nicht berechnet werden, da die Terrain-Karte für Ihre Region nicht installiert ist.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="230"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="243"/>
         <source>Install now</source>
         <translation>Jetzt installieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="270"/>
         <source>Clear password storage?</source>
-        <translation>Passwortspeicher löschen?</translation>
+        <translation type="vanished">Passwortspeicher löschen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="275"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="288"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
         <translation>Die Passwörter können nach dem Löschen NICHT wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="281"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="294"/>
         <source>Clear</source>
         <translation>Löschen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="234"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="285"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="247"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="298"/>
         <source>Cancel</source>
         <translation>Abbrechen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="294"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="60"/>
+        <source>Currently showing all airspaces</source>
+        <translation>Zeige jetzt alle Lufträume an</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="67"/>
+        <source>Currently showing airspaces up to %1</source>
+        <translation>Zeige jetzt Lufträume bis %1 an</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="88"/>
+        <source>Currently showing gliding sectors</source>
+        <translation>Momentan: zeige Segelflugsektoren an</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="90"/>
+        <source>Currently hiding gliding sectors</source>
+        <translation>Momentan: zeige Segelflugsektoren nicht an</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
+        <source>Show Altitude AGL</source>
+        <translation>Zeige Höhe über Grund</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="117"/>
+        <source>Currently showing altitude AMSL</source>
+        <translation>Momentan: zeige Höhe über Meer</translation>
+    </message>
+    <message>
+        <source>Traffic Data Receiver</source>
+        <translation type="vanished">Verkehrsdatenempfänger</translation>
+    </message>
+    <message>
+        <source>Built-in Satnav Receiver</source>
+        <translation type="vanished">Eingebauter GPS-Empfänger</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="152"/>
+        <source>Currently using traffic data receiver</source>
+        <translation>Benutze Verkehrsdatenempfänger</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="154"/>
+        <source>Currently using built-in satnav receiver</source>
+        <translation>Benutze eingebauten GPS-Empfänger</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="171"/>
+        <source>Night Mode</source>
+        <translation>Nachtmodus</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="185"/>
+        <source>Ignore Network Security Errors</source>
+        <translation>Fehler der Netzwerksicherheit ignorieren</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="201"/>
+        <source>Clear Password Storage</source>
+        <translation>Passwortspeicher leeren</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="283"/>
+        <source>Clear Password Storage?</source>
+        <translation>Passwortspeicher leeren?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="307"/>
         <source>Password storage cleared</source>
         <translation>Passwortspeicher gelöscht</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="324"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="337"/>
         <source>Set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit.</source>
         <translation>Legen Sie zur besseren Lesbarkeit der Moving Map ein Höhenlimit fest. Danach zeigt die Karte nur noch Lufträume unterhalb dieser Grenze an.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="332"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="345"/>
         <source>Set altitude limit</source>
         <translation>Höhenlimit festlegen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="358"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="371"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
         <translation>Zeige Lufträume bis %1 ft / %2 m an.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="369"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="382"/>
         <source>Cannot set reasonable airspaces altitude limit because the present own altitude is too high.</source>
         <translation>Anzeige einer sinnvollen Luftraumobergrenze unmöglich, aktuelle Flughöhe ist zu groß.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="411"/>
-        <source>Position data source</source>
-        <translation>Positionsdatenquelle</translation>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="424"/>
+        <source>Position Data Source</source>
+        <translation>Quelle für Positionsdaten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="419"/>
+        <source>Position data source</source>
+        <translation type="vanished">Positionsdatenquelle</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="432"/>
         <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
         <translation>Die meisten Anwender werden den eingebauten GPS-Empfänger wählen. Wählen Sie den Verkehrsdatenempfänger bei Empfangsproblemen Ihres GPS-Empfängers und bei Nutzung der App mit einem Flugsimulator.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="434"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="447"/>
         <source>Traffic data reveiver (when available)</source>
         <translation>Verkehrsdatenempfänger (wenn verfügbar)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="211"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="224"/>
         <source>How to connect your flight simulator…</source>
         <translation>Mit Ihrem Flugsimulator verbinden ...</translation>
     </message>
@@ -3285,7 +3835,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Alle Lufträume werden angezeigt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="128"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
         <source>System</source>
         <translation>System</translation>
     </message>
@@ -3306,8 +3856,8 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Traffic::FlarmnetDB</name>
     <message>
-        <location filename="../../../src/traffic/FlarmnetDB.cpp" line="81"/>
-        <location filename="../../../src/traffic/FlarmnetDB.cpp" line="122"/>
+        <location filename="../../../src/traffic/FlarmnetDB.cpp" line="87"/>
+        <location filename="../../../src/traffic/FlarmnetDB.cpp" line="128"/>
         <source>Placeholder file.</source>
         <translation>Platzhalter-Datei</translation>
     </message>
@@ -3315,27 +3865,27 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataProvider</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="50"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="49"/>
         <source>Traffic data receiver</source>
         <translation>Verkehrsdatenempfänger</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="397"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="396"/>
         <source>Receiving heartbeat.</source>
         <translation>Empfange Heartbeat</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="399"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="398"/>
         <source>Receiving position info.</source>
         <translation>Empfange Positionsdaten.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="402"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="401"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Empfange barometrische Höhe.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="409"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="408"/>
         <source>Not receiving heartbeat.</source>
         <translation>Empfange keinen Heartbeat</translation>
     </message>
@@ -3863,72 +4413,72 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficFactor_Abstract</name>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="109"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="108"/>
         <source>Aircraft</source>
         <translation>Luftfahrzeug</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="112"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="111"/>
         <source>Airship</source>
         <translation>Luftschiff</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="115"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="114"/>
         <source>Balloon</source>
         <translation>Ballon</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="118"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="117"/>
         <source>Copter</source>
         <translation>Hubschrauber</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="121"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="120"/>
         <source>Drone</source>
         <translation>Drohne</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="124"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="123"/>
         <source>Glider</source>
         <translation>Segelflugzeug</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="127"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="126"/>
         <source>Hang glider</source>
         <translation>Hängegleiter</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="130"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="129"/>
         <source>Jet</source>
         <translation>Jet</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="133"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="132"/>
         <source>Paraglider</source>
         <translation>Gleitschirm</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="136"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="135"/>
         <source>Skydiver</source>
         <translation>Fallschirmspringer</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="139"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="138"/>
         <source>Static Obstacle</source>
         <translation>Stehendes Hindernis</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="142"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="141"/>
         <source>Tow Plane</source>
         <translation>Schleppflugzeug</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="145"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="144"/>
         <source>Traffic</source>
         <translation>Verkehr</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="150"/>
+        <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="149"/>
         <source>Position unknown</source>
         <translation>Position unbekannt</translation>
     </message>
@@ -4142,13 +4692,13 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>TAF lesen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="377"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="389"/>
         <source>Route</source>
         <translation>Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="399"/>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="561"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="411"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="573"/>
         <source>New flight route: direct to %1.</source>
         <translation>Neue Route: direkt zu %1.</translation>
     </message>
@@ -4157,7 +4707,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">An Route anhängen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="426"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="438"/>
         <source>Added %1 to route.</source>
         <translation>%1 zur Route hinzugefügt.</translation>
     </message>
@@ -4166,84 +4716,97 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Aus der Route entfernen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="465"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="477"/>
         <source>Removed %1 from route.</source>
         <translation>%1 aus der Route entfernt.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="485"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="497"/>
         <source>Add…</source>
         <translation>Hinzufügen ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="515"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="527"/>
         <source>Edit…</source>
         <translation>Bearbeiten ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="497"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="509"/>
         <source>Remove…</source>
         <translation>Entfernen ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="444"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="456"/>
         <source>Inserted %1 into route.</source>
         <translation>%1 in Route eingefügt.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="583"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="550"/>
+        <source>Overwrite Current Flight Route?</source>
+        <translation>Aktuelle Route überschreiben?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="595"/>
         <source>Modified entry %1 in library.</source>
         <translation>Bibliothekseintrag %1 geändert.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="590"/>
         <source>Add waypoint to library</source>
-        <translation>Wegpunkt zur Bibliothek hinzufügen</translation>
+        <translation type="vanished">Wegpunkt zur Bibliothek hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="597"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="609"/>
         <source>Added %1 to waypoint library.</source>
         <translation>%1 zur Wegpunktbibliothek hinzugefügt.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="612"/>
         <source>Remove from device?</source>
-        <translation>Vom Gerät löschen?</translation>
+        <translation type="vanished">Vom Gerät löschen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="622"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="634"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Das Löschen des Wegpunkts &lt;strong&gt;%1&lt;/strong&gt; kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="633"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="645"/>
         <source>Waypoint removed from device</source>
         <translation>Wegpunkt gelöscht.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="388"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="400"/>
         <source>Direct</source>
         <translation>Direkt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="413"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="425"/>
         <source>Append</source>
         <translation>Anhängen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="431"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="443"/>
         <source>Insert</source>
         <translation>Einfügen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="449"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="461"/>
         <source>Remove</source>
         <translation>Entfernen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="473"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="485"/>
         <source>Library</source>
         <translation>Bibliothek</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="602"/>
+        <source>Add Waypoint to Library</source>
+        <translation>Wegpunkt zu Bibliothek hinzufügen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="624"/>
+        <source>Remove from Device?</source>
+        <translation>Löschen?</translation>
     </message>
     <message>
         <source>Add to library</source>
@@ -4258,12 +4821,11 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Aus der Bibliothek löschen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="538"/>
         <source>Overwrite current flight route?</source>
-        <translation>Aktuelle Route überschreiben?</translation>
+        <translation type="vanished">Aktuelle Route überschreiben?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="548"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="560"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation>Die aktuelle Route kann nach dem Überschreiben nicht wiederhergestellt werden.</translation>
     </message>
@@ -4271,9 +4833,8 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>WaypointEditor</name>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="59"/>
         <source>Edit waypoint</source>
-        <translation>Wegpunkt bearbeiten</translation>
+        <translation type="vanished">Wegpunkt bearbeiten</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="70"/>
@@ -4286,42 +4847,42 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>unbestimmt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="126"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="127"/>
         <source>Format</source>
         <translation>Format</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="133"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="135"/>
         <source>Degrees</source>
         <translation>Grad</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="133"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="135"/>
         <source>Degrees and Minutes</source>
         <translation>Grad und Minuten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="133"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="135"/>
         <source>Degrees, Minutes and Seconds</source>
         <translation>Grad, Minuten und Sekunden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="143"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="145"/>
         <source>Elevation</source>
         <translation>Höhe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="155"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="158"/>
         <source>Unit</source>
         <translation>Einheit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="162"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="166"/>
         <source>Feet</source>
         <translation>Fuß</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="162"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="166"/>
         <source>Meter</source>
         <translation>Meter</translation>
     </message>
@@ -4331,7 +4892,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Breite</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="109"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="59"/>
+        <source>Edit Waypoint</source>
+        <translation>Wegpunkt bearbeiten</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="110"/>
         <source>Longitude</source>
         <translation>Länge</translation>
     </message>
@@ -4346,19 +4912,31 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Wegpunktbibliothek</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="89"/>
         <source>Import …</source>
-        <translation>Importieren …</translation>
+        <translation type="vanished">Importieren …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="101"/>
         <source>Share …</source>
-        <translation>Teilen …</translation>
+        <translation type="vanished">Teilen …</translation>
+    </message>
+    <message>
+        <source>Export …</source>
+        <translation type="vanished">Exportieren …</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="89"/>
+        <source>Import…</source>
+        <translation>Importieren…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="101"/>
-        <source>Export …</source>
-        <translation>Exportieren …</translation>
+        <source>Share…</source>
+        <translation>Teilen…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="101"/>
+        <source>Export…</source>
+        <translation>Exportieren…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="105"/>
@@ -4390,8 +4968,32 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="154"/>
+        <source>Open in Other App…</source>
+        <translation>In anderer App öffnen…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="277"/>
+        <source>Remove…</source>
+        <translation>Löschen…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="343"/>
+        <source>Error Exporting Data…</source>
+        <translation>Fehler beim Datenexport…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="369"/>
+        <source>Remove from Device?</source>
+        <translation>Löschen?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="410"/>
+        <source>Clear Waypoint Library?</source>
+        <translation>Wegpunktbibliothek leeren?</translation>
+    </message>
+    <message>
         <source>Open in other app …</source>
-        <translation>In anderer App öffnen …</translation>
+        <translation type="vanished">In anderer App öffnen …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="158"/>
@@ -4420,9 +5022,8 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Wegpunktnamen filtern</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="277"/>
         <source>Remove …</source>
-        <translation>Löschen …</translation>
+        <translation type="vanished">Löschen …</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="324"/>
@@ -4435,14 +5036,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine passenden Wegpunkte gefunden.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="343"/>
         <source>Error exporting data…</source>
-        <translation>Fehler beim Datenexport…</translation>
+        <translation type="vanished">Fehler beim Datenexport…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="369"/>
         <source>Remove from device?</source>
-        <translation>Vom Gerät löschen?</translation>
+        <translation type="vanished">Vom Gerät löschen?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="379"/>
@@ -4455,9 +5054,8 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Wegpunkt gelöscht</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="410"/>
         <source>Clear waypoint library?</source>
-        <translation>Wegpunktbibliothek löschen?</translation>
+        <translation type="vanished">Wegpunktbibliothek löschen?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="420"/>
@@ -7613,75 +8211,84 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="641"/>
+        <location filename="../../../src/qml/main.qml" line="538"/>
+        <source>Update required!</source>
+        <translation>Update erforderlich!</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="653"/>
         <source>Connected to traffic receiver.</source>
         <translation>Mit dem Verkehrsdatenempfänger verbunden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="643"/>
+        <location filename="../../../src/qml/main.qml" line="655"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Verbindung zum Verkehrsdatenempfänger verloren.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="676"/>
+        <location filename="../../../src/qml/main.qml" line="688"/>
         <source>Exit…?</source>
         <translation>Beenden…?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="677"/>
+        <location filename="../../../src/qml/main.qml" line="689"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; tatsächlich beenden?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="687"/>
-        <location filename="../../../src/qml/main.qml" line="696"/>
-        <source>What&apos;s new …?</source>
-        <translation>Was ist neu …?</translation>
+        <location filename="../../../src/qml/main.qml" line="699"/>
+        <location filename="../../../src/qml/main.qml" line="708"/>
+        <source>What&apos;s new…?</source>
+        <translation>Was ist neu ...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="734"/>
+        <source>What&apos;s new …?</source>
+        <translation type="vanished">Was ist neu …?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="746"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Zeige jetzt Lufträume bis %1 an.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="736"/>
+        <location filename="../../../src/qml/main.qml" line="748"/>
         <source>Now showing all airspaces.</source>
         <translation>Zeige jetzt alle Lufträume an.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="760"/>
+        <location filename="../../../src/qml/main.qml" line="772"/>
         <source>Starting map update</source>
         <translation>Beginne Kartenupdate</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="782"/>
+        <location filename="../../../src/qml/main.qml" line="794"/>
         <source>Network security error</source>
         <translation>Netzwerksicherheits-Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="794"/>
+        <location filename="../../../src/qml/main.qml" line="806"/>
         <source>Network security settings</source>
         <translation>Einstellungen zur Netzwerksicherheit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="795"/>
+        <location filename="../../../src/qml/main.qml" line="807"/>
         <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Sie haben entschieden, Netzwerksicherheits-Fehler zukünftig zu ignorieren. **Dies stellt ein Sicherheitsrisiko dar.** In den Einstellungen können Sie auf Wunsch das ursprüngliche, sichere Verhalten der App wiederherstellen.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="153"/>
+        <location filename="../../../src/main.cpp" line="157"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation ist eine kostenlose Navigations-App für VFR-Piloten,
 entwickelt als Projekt der Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="156"/>
+        <location filename="../../../src/main.cpp" line="160"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation>Simulator starten und Screenshots für das Handbuch erzeugen</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="158"/>
+        <location filename="../../../src/main.cpp" line="162"/>
         <source>File to import.</source>
         <translation>Datei zum Importieren.</translation>
     </message>

@@ -41,11 +41,10 @@ The following image shows a typical situation.
   nautical miles from your destination.
 
 
-Set up and use a route
-----------------------
+Set up a route
+--------------
 
-This chapter will take you through the necessary steps to set up and use a
-route.
+This chapter will take you through the necessary steps to set up a route.
 
 
 Step 1: Set aircraft characteristics
@@ -153,22 +152,20 @@ e-mail, or any other communication channel).
 
 
 Step 4: Edit the route if necessary
------------------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 It might be necessary to edit the route. If you are not on the "Route and Wind"
 page, open the main menu and choose the item "Route and Wind." On the page,
 select the "Route" tab.
 
 
-Global functions
-^^^^^^^^^^^^^^^^
+**Global functions**
 
 The three-dot-menu in the upper right corner of the screen allows reversing the
 route or deleting it entirely.
 
 
-Waypoint-specific functions
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Waypoint-specific functions**
 
 The three-dot-menu to the right of each waypoint allows one to delete a specific
 waypoint or move it up and down in the list. You can edit waypoints that do not
@@ -176,10 +173,36 @@ refer to pre-set airfields, navaids, or reporting points. Tap on the pencil
 symbol to open a dialog that allows you to set a name and edit the coordinates.
 
 
-Step 5: Save route for future use
----------------------------------
+Optional: Save route for future use
+-----------------------------------
 
 Once you are happy with the route, you might want to save it for future use. If
 you are not on the "Route and Wind" page, open the main menu and choose the item
 "Route and Wind." On the page, select the "Route" tab. The three-dot-menu in the
 upper right corner of the screen allows saving the route to the library.
+
+
+Optional: Export and share the route
+------------------------------------
+
+**Enroute Flight Navigation** is can write the route to a file, which can then
+be transferred to other devices, or opened with other apps. **Enroute Flight
+Navigation** is able to write files in GeoJSON and GPX format. While GPX is
+understood by most programs, GeoJSON is the preferred format for sharing data
+between several instances of **Enroute Flight Navigation**.
+
+- On Android devices, choose the item "Share…" from the three-dot menu at the
+  top right of the screen, and choose the appropriate file type from the
+  submenu.
+
+- On the Linux desktop, choose the item "Export…" from the three-dot menu at the
+  top right of the screen, and choose the appropriate file type from the
+  submenu.
+
+
+Optional: Open the route in another app
+---------------------------------------
+
+It is possible to open the route in another app. Choose the item "Open in other
+app…" from the three-dot menu at the top right of the screen, and choose the
+appropriate file type from the submenu.
