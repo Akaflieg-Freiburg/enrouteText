@@ -2704,7 +2704,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="70"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished">Impossible d&apos;écrire dans le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
+        <translation>Impossible d&apos;écrire dans le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="82"/>
