@@ -36,14 +36,23 @@ approaches the altitude limit from below.
     safety margin when setting an airspace altitude limit.**
     
 
-Hide Gliding Sectors
-^^^^^^^^^^^^^^^^^^^^
+Map feature: Gliding Sectors
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In regions with high glider traffic, local regulations often allow gliders to
 fly in airspaces that are otherwise difficult to access, such as control zones.
 The moving map displays these “Gliding Sectors” in bright yellow. If you are not
 flying a glider, the gliding sectors are probably not relevant. Hiding the
 gliding sectors might improve the readability of the moving map.
+    
+
+Map feature: Hillshading
+^^^^^^^^^^^^^^^^^^^^^^^^
+
+We have received reports from a small number of users, who complained about
+issues with the hillshading graphics on very old devices, potentially because of
+buggy system libraries. If you experience problems, use this switch to disable
+the hillshading feature.
 
 
 Navigation
