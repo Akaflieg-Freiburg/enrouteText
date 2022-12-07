@@ -3747,17 +3747,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="86"/>
         <source>Map Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Kartenmerkmale</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="93"/>
         <source>Gliding Sectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Segelflugsektoren</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="107"/>
         <source>Hillshading</source>
-        <translation type="unfinished"></translation>
+        <translation>Schummerung</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="168"/>
