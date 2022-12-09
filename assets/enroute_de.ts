@@ -2526,7 +2526,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
         <source>&lt;p&gt;To better support older devices, the hillshading feature is now optional. The page &apos;Settings&apos; has been redesigned for clarity and simplicity.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Um älteren Geräten entgegenzukommen, ist die Schummerung jetzt abschaltbar. Die Einstellungs-Seite wurde klarer und einfacher gestaltet.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;The page &apos;Map and Data Library&apos; has been redesigned for simplicity of use.&lt;/p&gt;</source>
@@ -3762,18 +3762,18 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="170"/>
         <source>Navigation Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Navigationsleiste</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="179"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="529"/>
         <source>Altimeter Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Höhenmesser-Modus</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="180"/>
         <source>Currently showing altitude AGL</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige im Moment Höhe über Grund (AGL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="202"/>
@@ -3788,7 +3788,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="206"/>
         <source>Primary Position Data Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Primäre Positionsdatenquelle</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="221"/>
@@ -3843,17 +3843,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="537"/>
         <source>This setting applies to the altimeter in the Navigation Bar, at the bottom of the moving map screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Einstellung wirkt auf die Höhenanzeige der Navigationsleiste unten auf der Moving Map.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="544"/>
         <source>Height above ground level (AGL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Höhe über Grund (AGL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="552"/>
         <source>Height above main sea level (AMSL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Höhe über dem Meer (AMSL)</translation>
     </message>
     <message>
         <source>Position data source</source>
