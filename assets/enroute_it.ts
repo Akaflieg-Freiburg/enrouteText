@@ -2579,7 +2579,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
         <source>&lt;p&gt;To better support older devices, the hillshading feature is now optional. The page &apos;Settings&apos; has been redesigned for clarity and simplicity.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Per supportare meglio i dispositivi meno recenti, la funzione di ombreggiatura è ora facoltativa. La pagina &apos;Impostazioni&apos; è stata ridisegnata per chiarezza e semplicità.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;The page &apos;Map and Data Library&apos; has been redesigned for simplicity of use.&lt;/p&gt;</source>
@@ -3798,17 +3798,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="537"/>
         <source>This setting applies to the altimeter in the Navigation Bar, at the bottom of the moving map screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa impostazione applica l&apos;altimetro nella Barra di Navigazione nella parte bassa della mappa in movimento.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="544"/>
         <source>Height above ground level (AGL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altezza dal livello del suolo (AGL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="552"/>
         <source>Height above main sea level (AMSL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altezza da livello del mare (AMSL)</translation>
     </message>
     <message>
         <source>Position data source</source>
@@ -3833,33 +3833,33 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="134"/>
         <source>Map Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Caratteristiche mappa</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
         <source>Gliding Sectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Settori volo a vela</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="155"/>
         <source>Hillshading</source>
-        <translation type="unfinished"></translation>
+        <translation>Ombreggiatura</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="170"/>
         <source>Navigation Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra di Navigazione</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="179"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="529"/>
         <source>Altimeter Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità altimetro</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="180"/>
         <source>Currently showing altitude AGL</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitudine AGL impostata</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="202"/>
@@ -3874,7 +3874,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="206"/>
         <source>Primary Position Data Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Sorgente primaria dati</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="423"/>
