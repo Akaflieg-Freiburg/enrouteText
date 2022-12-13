@@ -20,7 +20,7 @@ a typical situation.
 As soon as you are flying and following the route, the moving map will show
 additional items that help you navigate.
 
-- The moving map shows the intended flight as a mangenta line.
+- The moving map shows the intended flight as a magenta line.
 - The map shows the path from the current position to the next waypoint as a
   thin red line.
 - An infobox shows distance, ETE, and ETA for the flight to the next and the
@@ -126,7 +126,7 @@ will open.
 
 **Option 3: Import a route from the library**
 
-Section `Step 5: Save Route for Future Use`_ will show how to save a route to
+Section `Optional: Save route for future use`_ will show how to save a route to
 the library for future use. If you have already saved a route to the library, go
 to the open the main menu and choose the item "Library/Routes." The route
 library page will open. Choose a route by tapping on the respective item in the
