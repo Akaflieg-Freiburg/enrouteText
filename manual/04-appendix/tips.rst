@@ -3,7 +3,7 @@ Tips & Tricks
 =============
 
 Display of recorded satnav tracks
-------------------------------
+---------------------------------
 
 We have been approached by users who recorded a flight and wished to show the
 recorded flight track in **Enroute Flight Navigation**, perhaps in order to
