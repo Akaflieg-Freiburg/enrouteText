@@ -49,31 +49,36 @@ gliding sectors might improve the readability of the moving map.
 Map feature: Hillshading
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-We have received reports from a small number of users, who complained about
-issues with the hillshading graphics on very old devices, potentially because of
-buggy system libraries. If you experience problems, use this switch to disable
-the hillshading feature.
+We have received a report from a user, who experienced issues with the
+hillshading graphics on a very old device, potentially because of buggy system
+libraries. If you experience problems, use this switch to disable the
+hillshading feature.
 
 
-Navigation
-----------
+Navigation Bar
+--------------
 
-Show altitude AGL
-^^^^^^^^^^^^^^^^^
+These settings apply to the Navigation Bar, shown at the bottom of the moving
+map screen.
 
-If set, then the navigation bar at the bottom of the moving map scree will show
-the aircraft elevation above ground level, instead of sea level.  This feature
-works only if terrain maps for your region are installed. If terrain data is not
-available, the altimeter field of the navigation bar will display "--".
 
-If you are unsure if terrain data is available, open the main menu and go to
-"Library/Maps and Data" to check which maps are installed in your device.
+Altimeter Mode
+^^^^^^^^^^^^^^
+
+Use this settings item to chose if the altimeter shows height above ground level
+(AGL) or height above main sea level (AMSL). 
+
+.. note:: In order to compute height above ground, if terrain maps for your 
+  region must be installed. If terrain data is not available, the altimeter 
+  field of the navigation bar will display "--".  If you are unsure if terrain 
+  data is available, open the main menu and go to "Library/Maps and Data" to 
+  check which maps are installed in your device.
 
 
 System
 ------
 
-Primary position data source
+Primary Position Data Source
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 **Enroute Flight Navigation** can either use the built-in satnav receiver of
