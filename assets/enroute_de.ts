@@ -3748,12 +3748,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
         <source>If you never fly higher than 5.000ft, you will probably not be interested in airspaces that begin above FL100. Enroute Flight Navigation allows you to set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit. Tap on the entry “Airspace Altitude Limit” to set or unset the altitude limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fliegen Sie nie höher als 5.000 ft, interessieren Sie die Lufträume über FL100 wahrscheinlich nicht. Enroute Flight Navigation erlaubt die Festsetzung eines Höhenlimits, um die Lesbarkeit der Karte zu verbessern. So eingestellt zeigt die App nur Lufträume unterhalb dieses Limits an. Sie setzen oder lsöchen dieses Limit über den Menüpunkt “Luftraum-Höhenlimit”.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="142"/>
         <source>Once you set an altitude limit, the moving map will display a little warning (“Airspaces up to 9,500 ft”) to remind you that the moving map does not show all airspaces. The app will automatically increase the limit when your aircraft approaches the altitude limit from below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bei eingestelltem Höhenlimit erinnert Sie die Karte mit einer kleinen Warnung (“Lufträume bis zu 9.500 ft”) daran, dass sie nicht alle Lufträume anzeigt. Die App erhöht dieses Limit automatisch, wenn Sie sich ihm von unten annähern.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="151"/>
@@ -3769,7 +3769,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="174"/>
         <source>In regions with high glider traffic, local regulations often allow gliders to fly in airspaces that are otherwise difficult to access, such as control zones. The moving map displays these “Gliding Sectors” in bright yellow. If you are not flying a glider, the gliding sectors are probably not relevant. Hiding the gliding sectors might improve the readability of the moving map.</source>
-        <translation type="unfinished"></translation>
+        <translation>In Regionen mit hohem Segelflugverkehr eröffnen örtliche Regelungen den Segelfliegern oft Lufträume, in die sonst schwer einzufliegen ist, z.B. Kontrollzonen. Die Karte zeigt diese “Segelflugsektoren” hellgelb an. Für Nicht-Segelflieger sind diese Sektoren vermutlich nicht relevant. Sie auszublenden wird meistens die Lesbarkeit der Karte erhöhen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="181"/>
@@ -3780,7 +3780,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="197"/>
         <source>We have received a report from one user, who complained about issues with the hillshading graphics on very old devices, potentially because of buggy system libraries. If you experience problems, use this switch to disable the hillshading feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Nutzer beklagte die Darstellung der Schummerung auf sehr alter Hardware, evtl. wegen fehlerhafter Systembibliotheken. Sollten auch Sie dieses Problem haben, schaltet dieser Schalter die Schummerung aus.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="206"/>
@@ -3802,7 +3802,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="229"/>
         <source>Use this settings item to chose if the altimeter shows height above ground level (AGL) or height above main sea level (AMSL).</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieses Einstellelement schaltet die Höhenmesseranzeige um zwischen der Höhe über Grund (AGL) und der über dem Meeresspiegel (AMSL).</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="248"/>
@@ -3825,19 +3825,19 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="269"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="294"/>
         <source>Enroute Flight Navigation can either use the built-in satnav receiver of your device or a connected traffic receiver as a primary position data source. This setting is essential if your device has reception problems or if you use Enroute Flight Navigation together with a flight simulator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation kann seine Positionsdaten vom internen GPS-Empfänger Ihres Geräts oder einem verbundenen externen Empfänger beziehen. Diese Einstellung ist wichtig bei Empfangsproblemen Ihres Geräts oder bei Verwendung der App mit einem Flugsimulator.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="270"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="295"/>
         <source>You will most likely prefer the built-in satnav receiver for actual flight. The built-in receiver provides one position update per second on a typical Android system, while traffic receivers do not always provide timely position updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Auf echten Flügen sind Sie höchstwahrscheinlich mit dem internen GPS-Empfänger besser bedient. Er liefert unter Android typischerweise jede Sekunde einen Datensatz. Externe Empfänger leisten das nicht immer.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="271"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="296"/>
         <source>If you use Enroute Flight Navigation together with a flight simulator, you must choose the traffic receiver as a primary position data source. As long as the built-in satnav receiver is selected, all position information provided by your flight simulator is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bei Nutzung von Enroute Flight Navigation mit einem Flugsimulator wählen Sie bitte den Verkehrsdatenempfänger als primäre Positionsdatenquelle. Solange der interne GPS-Empfänger ausgewählt ist, werden alle Positionsdaten ignoriert, die Ihr Flugsimulator liefert.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="278"/>
@@ -3853,7 +3853,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="321"/>
         <source>The “Night Mode” of Enroute Flight Navigation is similar to the “Dark Mode” found in many other apps. We designed the night mode for pilots performing VFR flights by night, whose eyes have adapted to the darkness. Compared with other apps, you will find that the display is quite dark indeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der “Nachtmodus” von Enroute Flight Navigation ähnelt dem “Dark Mode” vieler anderer Apps. Wir haben ihn für Piloten auf VFR-Flügen bei Nacht gestaltet, deren Augen sich auf die Dunkelheit eingestellt haben. Im Vergleich zu anderen Apps wird Ihnen das evtl. recht dunkel vorkommen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="329"/>
@@ -3864,7 +3864,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="339"/>
         <source>This entry is visible if you have connected to a traffic data receiver that requires a password in addition to the Wi-Fi password and if you have asked the app to remember the password. Tap on this entry to clear the password storage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieser Eintrag ist sichtbar, wenn Sie mit einem Verkehrsdatenempfänger verbunden sind, der zusätzlich zum WLAN-Passwort ein weiteres Passwort benötigt, das sich die App merken sollte. Tippen auf diesen Eintrag löscht den Passwortspeicher.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="445"/>
