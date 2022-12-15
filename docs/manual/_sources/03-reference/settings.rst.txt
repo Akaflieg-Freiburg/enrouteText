@@ -92,9 +92,11 @@ This setting is essential if your device has reception problems or if you use
   updates.
 
 - If you use **Enroute Flight Navigation** together with a flight simulator, you
-  **must** choose the traffic receiver as a primary position data source. As long
-  as the built-in satnav receiver is selected, all position information provided 
-  by your flight simulator is ignored.
+  **must** choose the traffic receiver as a primary position data source. Flight
+  simulators broadcast position information of simulated aircraft via Wi-Fi,
+  using the same protocol that a traffic data receiver would use in a real
+  plane. As long as the built-in satnav receiver is selected, all position
+  information provided by your flight simulator is ignored.
 
 .. note:: Setting a traffic receiver as a primary position data source is safe 
     even when the app is not connected to a traffic receiver. When no traffic 
