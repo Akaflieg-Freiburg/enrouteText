@@ -2605,7 +2605,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
         <source>&lt;p&gt;To better support older devices, the hillshading feature is now optional. The page &apos;Settings&apos; has been redesigned for clarity and simplicity.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Aby lepiej obsługiwać starsze urządzenia, funkcja cieniowania stoków jest teraz opcjonalna. Strona &apos;Ustawienia&apos; została przeprojektowana dla większej przejrzystości.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;The page &apos;Map and Data Library&apos; has been redesigned for simplicity of use.&lt;/p&gt;</source>
@@ -3781,7 +3781,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="319"/>
         <source>This entry is visible if you have asked the app to download data via insecure internet connections after a secure connection attempt failed. Uncheck this item to revert to the standard policy, which enforces secure connections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten wpis jest widoczny tylko, gdy zażądałeś od aplikacji aby pobrała dane przez niezabezpieczone połączenie internetowe po nieudanej próbie połączenia szyfrowanego. Odznacz ten element aby powrócić do standardowej reguły, która wymusza bezpieczne połączenia.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="327"/>
@@ -3846,61 +3846,61 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
         <source>If you never fly higher than 5.000ft, you will probably not be interested in airspaces that begin above FL100. Enroute Flight Navigation allows you to set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit. Tap on the entry “Airspace Altitude Limit” to set or unset the altitude limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli nigdy nie latasz wyżej niż 5 000 stóp, prawdopodobnie nie będziesz zainteresowany przestrzeniami powietrznymi, które zaczynają się powyżej FL100. Enroute Flight Navigation pozwala ustawić limit wysokości, aby poprawić czytelność ruchomej mapy. Po ustawieniu, aplikacja będzie pokazywać tylko przestrzenie powietrzne poniżej tego limitu. Naciśnij na pozycję &quot;Limit wysokości przestrzeni powietrznej&quot;, aby ustawić lub wyłączyć limit wysokości.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="142"/>
         <source>Once you set an altitude limit, the moving map will display a little warning (“Airspaces up to 9,500 ft”) to remind you that the moving map does not show all airspaces. The app will automatically increase the limit when your aircraft approaches the altitude limit from below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Po ustawieniu limitu wysokości, na ruchomej mapie pojawi się małe ostrzeżenie (&quot;Przestrzenie powietrzne do 9 500 stóp&quot;), aby przypomnieć, że ruchoma mapa nie pokazuje wszystkich przestrzeni powietrznych. Aplikacja automatycznie zwiększy limit, gdy Twój samolot zbliży się do limitu wysokości od dołu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="151"/>
         <source>Map Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Funkcje map</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="158"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="173"/>
         <source>Gliding Sectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Sektory szybowcowe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="174"/>
         <source>In regions with high glider traffic, local regulations often allow gliders to fly in airspaces that are otherwise difficult to access, such as control zones. The moving map displays these “Gliding Sectors” in bright yellow. If you are not flying a glider, the gliding sectors are probably not relevant. Hiding the gliding sectors might improve the readability of the moving map.</source>
-        <translation type="unfinished"></translation>
+        <translation>W regionach o dużym natężeniu ruchu szybowcowego, lokalne przepisy często zezwalają szybowcom na loty w trudno dostępnych przestrzeniach powietrznych, takich jak strefy kontroli. Na ruchomej mapie te &quot;sektory szybowcowe&quot; są zaznaczone na żółto. Jeśli nie latasz szybowcem, sektory szybowcowe są prawdopodobnie nieistotne. Ukrycie sektorów szybowcowych może poprawić czytelność ruchomej mapy.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="181"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="196"/>
         <source>Hillshading</source>
-        <translation type="unfinished"></translation>
+        <translation>Cieniowanie stoków</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="197"/>
         <source>We have received a report from one user, who complained about issues with the hillshading graphics on very old devices, potentially because of buggy system libraries. If you experience problems, use this switch to disable the hillshading feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otrzymaliśmy zgłoszenie od jednego z użytkowników, który skarżył się na problemy z grafiką cieniowania stoków na bardzo starych urządzeniach, co mogło być spowodowane błędami w bibliotekach systemowych. Jeśli doświadczasz problemów, użyj tego przełącznika, aby wyłączyć funkcję cieniowania stoków.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="206"/>
         <source>Navigation Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Pasek nawigacyjny</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="215"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="228"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="639"/>
         <source>Altimeter Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb wysokości</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="216"/>
         <source>Currently showing altitude AGL</source>
-        <translation type="unfinished"></translation>
+        <translation>Obecnie pokazuje wysokość AGL</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="229"/>
         <source>Use this settings item to chose if the altimeter shows height above ground level (AGL) or height above main sea level (AMSL).</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj tej pozycji ustawień, aby wybrać, czy wysokościomierz pokazuje wysokość nad poziomem gruntu (AGL) czy wysokość nad poziomem morza (AMSL).</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="248"/>
@@ -3916,32 +3916,32 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="252"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="268"/>
         <source>Primary Position Data Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Główne źródło danych o pozycji</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="269"/>
         <source>Enroute Flight Navigation can either use the built-in satnav receiver of your device or a connected traffic receiver as a primary position data source. This setting is essential if your device has reception problems or if you use Enroute Flight Navigation together with a flight simulator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation może używać wbudowanego odbiornika satelitarnego urządzenia lub podłączonego odbiornika komunikatów lotu jako głównego źródła danych o położeniu. To ustawienie jest istotne, jeśli Twoje urządzenie ma problemy z odbiorem lub jeśli używasz Enroute Flight Navigation razem z symulatorem lotu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="270"/>
         <source>You will most likely prefer the built-in satnav receiver for actual flight. The built-in receiver provides one position update per second on a typical Android system, while traffic receivers do not always provide timely position updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Najprawdopodobniej będziesz wolał wbudowany odbiornik nawigacji satelitarnej do rzeczywistego lotu. Wbudowany odbiornik zapewnia jedną aktualizację pozycji na sekundę w typowym systemie Android, podczas gdy odbiorniki ruchu lotniczego nie zawsze zapewniają terminowe aktualizacje pozycji.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="271"/>
         <source>If you use Enroute Flight Navigation together with a flight simulator, you must choose the traffic receiver as a primary position data source. Flight simulators broadcast position information of simulated aircraft via Wi-Fi, using the same protocol that a traffic data receiver would use in a real plane. As long as the built-in satnav receiver is selected, all position information provided by your flight simulator is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli używasz Enroute Flight Navigation wraz z symulatorem lotu, musisz wybrać odbiornik danych o ruchu drogowym jako podstawowe źródło danych o pozycji. Symulatory lotu przesyłają informacje o pozycji symulowanego samolotu przez Wi-Fi, używając tego samego protokołu, którego używałby odbiornik danych o ruchu lotniczym w prawdziwym samolocie. Dopóki wybrany jest wbudowany odbiornik nawigacji satelitarnej, wszystkie informacje o położeniu dostarczane przez symulator lotu są ignorowane.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="294"/>
         <source>The “Night Mode” of Enroute Flight Navigation is similar to the “Dark Mode” found in many other apps. We designed the night mode for pilots performing VFR flights by night, whose eyes have adapted to the darkness. Compared with other apps, you will find that the display is quite dark indeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>&quot;Tryb nocny&quot; Enroute Flight Navigation jest podobny do &quot;trybu ciemnego&quot; występującego w wielu innych aplikacjach. Tryb nocny został zaprojektowany dla pilotów wykonujących loty VFR w nocy, których oczy przyzwyczaiły się do ciemności. W porównaniu z innymi aplikacjami, zauważysz, że wyświetlacz jest rzeczywiście dość ciemny.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="337"/>
         <source>This entry is visible if you have connected to a traffic data receiver that requires a password in addition to the Wi-Fi password and if you have asked the app to remember the password. Tap on this entry to clear the password storage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten wpis jest widoczny, jeśli połączyłeś się z odbiornikiem danych o ruchu lotniczym, który wymaga hasła oprócz hasła Wi-Fi i jeśli poprosiłeś aplikację o zapamiętanie hasła. Stuknij w ten wpis, aby wyczyścić pamięć hasła.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="533"/>
@@ -3951,17 +3951,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="647"/>
         <source>This setting applies to the altimeter in the Navigation Bar, at the bottom of the moving map screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>To ustawienie dotyczy wysokościomierza na pasku nawigacji, na dole ekranu ruchomej mapy.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="654"/>
         <source>Height above ground level (AGL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość nad poziomem gruntu (AGL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="662"/>
         <source>Height above main sea level (AMSL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość nad poziomem morza (AMSL)</translation>
     </message>
     <message>
         <source>Showing airspaces up to %1</source>
