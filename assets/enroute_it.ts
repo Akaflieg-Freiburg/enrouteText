@@ -3745,7 +3745,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="319"/>
         <source>This entry is visible if you have asked the app to download data via insecure internet connections after a secure connection attempt failed. Uncheck this item to revert to the standard policy, which enforces secure connections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa opzione è visibile se hai chiesto alla app di scaricare dati attraverso una connessione non sicura dopo un tentativo fallito di connessione sicura. Deseleziona questo elemento per tornare alla policy standard, che obbliga a connessioni sicure.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="327"/>
@@ -3841,12 +3841,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
         <source>If you never fly higher than 5.000ft, you will probably not be interested in airspaces that begin above FL100. Enroute Flight Navigation allows you to set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit. Tap on the entry “Airspace Altitude Limit” to set or unset the altitude limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se non voli mai oltre i 5000 piedi, probabilmente non sei interessato a spazi aereo oltre FL100. Enroute Flight Navigation ti permette di impostare una quota limite per aumentare la leggibilità della mappa. Una volta impostata, la app mostrerà solo spazi aerei sotto quel limite. Tocca l&apos;opzione &quot;Limite quota Spazi Aerei&quot; per impostare o meno il limite di quota.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="142"/>
         <source>Once you set an altitude limit, the moving map will display a little warning (“Airspaces up to 9,500 ft”) to remind you that the moving map does not show all airspaces. The app will automatically increase the limit when your aircraft approaches the altitude limit from below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una volta impostata la quota limite, la mappa mostrerà un avviso (&quot;Spazi aerei fino a 9.500 piedi&quot;) per ricordarti che la mappa non mostra tutti gli spazi aerei. La app aumenterà automaticamente il limite quando il tuo aereo si approssima alla quota limite impostata dal di sotto.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="151"/>
@@ -3862,7 +3862,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="174"/>
         <source>In regions with high glider traffic, local regulations often allow gliders to fly in airspaces that are otherwise difficult to access, such as control zones. The moving map displays these “Gliding Sectors” in bright yellow. If you are not flying a glider, the gliding sectors are probably not relevant. Hiding the gliding sectors might improve the readability of the moving map.</source>
-        <translation type="unfinished"></translation>
+        <translation>In regioni con alto traffico di alianti, regole locali spesso permettono agli alianti di volare in spazi aerei altrimenti difficili da accede, come zone controllate. La mappa mostra questi &quot;Settori Alianti&quot; in giallo brillante. Se non voli in aliante, i settori alianti non sono probabilmente rilevanti. Nascondere i settori alianti può migliorare la leggibilità della mappa.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="181"/>
@@ -3873,7 +3873,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="197"/>
         <source>We have received a report from one user, who complained about issues with the hillshading graphics on very old devices, potentially because of buggy system libraries. If you experience problems, use this switch to disable the hillshading feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>Abbiamo ricevuto un feedback da un utente che si è lamentato di un problema con l&apos;ombreggiatura delle alture su dispositivi vecchi, potenzialmente dovuta a un problema delle librerie di sistema. Se sei affetto da questo problema, usa questo switch per disabilitare l&apos;opzione di visualizzazione delle ombreggiature.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="206"/>
@@ -3895,7 +3895,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="229"/>
         <source>Use this settings item to chose if the altimeter shows height above ground level (AGL) or height above main sea level (AMSL).</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa queste impostazioni per scegliere se mostrare l&apos;altezza dal terreno (AGL) o l&apos;altitudine dal livello medio del mare (AMSL).</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="248"/>
@@ -3916,27 +3916,27 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="269"/>
         <source>Enroute Flight Navigation can either use the built-in satnav receiver of your device or a connected traffic receiver as a primary position data source. This setting is essential if your device has reception problems or if you use Enroute Flight Navigation together with a flight simulator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation può usare o il sistema integrato di ricezione segnale satellitare del tuo dispositivo, o da un ricevitore di traffico connesso, come fonte primaria di dati di posizione. Questa impostazione è essenziale se il tuo dispositivo ha problemi di ricezione o se usi Enroute Flight Navigation con un simulatore di volo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="270"/>
         <source>You will most likely prefer the built-in satnav receiver for actual flight. The built-in receiver provides one position update per second on a typical Android system, while traffic receivers do not always provide timely position updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Preferirai probabilmente il sistema integrato di ricezione segnale satellitare per un volo reale. Il sistema integrato fornisce l&apos;aggiornamento della posizione ogni secondo su un sistema tipico Android, mentre il ricevitore di traffico non fornisce sempre l&apos;aggiornamento della posizione regolarmente.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="271"/>
         <source>If you use Enroute Flight Navigation together with a flight simulator, you must choose the traffic receiver as a primary position data source. Flight simulators broadcast position information of simulated aircraft via Wi-Fi, using the same protocol that a traffic data receiver would use in a real plane. As long as the built-in satnav receiver is selected, all position information provided by your flight simulator is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se usi Enroute Flight Navigation con un simulatore di volo, devi scegliere il ricevitore di traffico come fonte primaria di dati di posizione. I simulatori di volo rendono disponibile le informazioni della posizione sulla rete Wi.Fi, usando lo stesso protocollo che un ricevitore di traffico userebbe su un aereo reale. Se è selezionato il ricevitore di traffico integrato, tutte le informazioni di posizione fornite dal simulatore di volo saranno ignorate.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="294"/>
         <source>The “Night Mode” of Enroute Flight Navigation is similar to the “Dark Mode” found in many other apps. We designed the night mode for pilots performing VFR flights by night, whose eyes have adapted to the darkness. Compared with other apps, you will find that the display is quite dark indeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La &quot;Modalità Notturna&quot; di Enroute Flight Navigation è simile alla &quot;modalità Scura&quot; trovata in tante altre app. Abbiamo progettato la modalità notturna per piloti che volano VFR di notte, i cui occhi si devono adattare all&apos;oscurità. Paragonata con altre app, troverai che il display è infatti molto scuro.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="337"/>
         <source>This entry is visible if you have connected to a traffic data receiver that requires a password in addition to the Wi-Fi password and if you have asked the app to remember the password. Tap on this entry to clear the password storage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa opzione è visibile se hai un ricevutore di traffico che richiede una password in aggiunta alla passoword della rete Wi.Fi e se hai chiesto alla app di ricordare la password. Tocca questa opzione per cancellare le password memorizzate.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="533"/>
