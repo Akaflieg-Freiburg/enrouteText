@@ -2578,8 +2578,12 @@ con i dati del conto bancario.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
+        <source>&lt;p&gt;If your device runs Android 5 or earlier, then &lt;strong&gt;this is the last update of Enroute Flight Navigation that your device will receive&lt;/strong&gt; and we would like to urge you to move to a newer system. Support for Android 5 has long ended and security updates are no longer available. A good refurbished device costs less than one hour flight time in a typical SEP aircraft!&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;To better support older devices, the hillshading feature is now optional. The page &apos;Settings&apos; has been redesigned for clarity and simplicity.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Per supportare meglio i dispositivi meno recenti, la funzione di ombreggiatura è ora facoltativa. La pagina &apos;Impostazioni&apos; è stata ridisegnata per chiarezza e semplicità.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Per supportare meglio i dispositivi meno recenti, la funzione di ombreggiatura è ora facoltativa. La pagina &apos;Impostazioni&apos; è stata ridisegnata per chiarezza e semplicità.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;The page &apos;Map and Data Library&apos; has been redesigned for simplicity of use.&lt;/p&gt;</source>
@@ -2602,7 +2606,7 @@ con i dati del conto bancario.
         <translation type="vanished">&lt;p&gt;Come richiesto da molti utenti, è adesso possibile salvare i waypoints e costruire un archivio di waypoints.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="284"/>
+        <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>&lt;p&gt;We could need help with French translations. If you would like to help, if speak French and know how to use the GIT version control system, please let us know.&lt;/p&gt;</source>
         <translatorcomment>I believe the &quot;how to use GIT version control system&quot; is not needed. I didn&apos;t know how to use it and learned in few minutes.</translatorcomment>
         <translation>&lt;p&gt;Abbiamo bisogno di aiuto nella traduzione in francese. Se vorrai aiutarci, se parli francese e sai come usare il sistema di controllo GIT, contattaci.&lt;/p&gt;</translation>
