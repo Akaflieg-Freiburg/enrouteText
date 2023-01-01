@@ -2930,12 +2930,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="141"/>
         <source>If you never fly higher than 5.000ft, you will probably not be interested in airspaces that begin above FL100. Enroute Flight Navigation allows you to set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit. Tap on the entry “Airspace Altitude Limit” to set or unset the altitude limit.</source>
-        <translation>Enroute Flight Navigation vous permet d&apos;entrer une limite d&apos;altitude pour améliorer la lisibilité de la carte. Une fois entrée, la carte n&apos;affichera que les espaces aériens situés sous cette limite. Tappez sur “Limite d&apos;altitude pour les espaces aériens” pour paramétrer la limite d&aspos;altitude.</translation>
+        <translation>Enroute Flight Navigation vous permet d&apos;entrer une limite d&apos;altitude pour améliorer la lisibilité de la carte. Une fois entrée, la carte n&apos;affichera que les espaces aériens situés sous cette limite. Tappez sur “Limite d&apos;altitude pour les espaces aériens” pour paramétrer la limite d&apos;altitude.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="142"/>
         <source>Once you set an altitude limit, the moving map will display a little warning (“Airspaces up to 9,500 ft”) to remind you that the moving map does not show all airspaces. The app will automatically increase the limit when your aircraft approaches the altitude limit from below.</source>
-        <translation>Si vous entrez une limite d&pos;altitude, l&apos;app affichera un message (“Esapces aériens jusque 9,500 ft”) pour pour vous rappeler que la carte n&apos;affiche pas tous les espaces aériens. L&apos;app augmentera cette limite automatiquement si votre avion approche de la limite.</translation>
+        <translation>Si vous entrez une limite d&apos;altitude, l&apos;app affichera un message (“Esapces aériens jusque 9,500 ft”) pour pour vous rappeler que la carte n&apos;affiche pas tous les espaces aériens. L&apos;app augmentera cette limite automatiquement si votre avion approche de la limite.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="174"/>
