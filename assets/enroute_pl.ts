@@ -2605,7 +2605,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
         <source>&lt;p&gt;If your device runs Android 5 or earlier, then &lt;strong&gt;this is the last update of Enroute Flight Navigation that your device will receive&lt;/strong&gt; and we would like to urge you to move to a newer system. Support for Android 5 has long ended and security updates are no longer available. A good refurbished device costs less than one hour flight time in a typical SEP aircraft!&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Jeśli Twoje urządzenie działa pod kontrolą systemu Android 5 lub wcześniejszego, to &lt;strong&gt;jest to ostatnia aktualizacja Enroute Flight Navigation, jaką otrzyma Twoje urządzenie&lt;/strong&gt; i chcielibyśmy zachęcić Cię do przejścia na nowszy system. Wsparcie dla systemu Android 5 zostało już dawno zakończone, a aktualizacje zabezpieczeń nie są już dostępne. Dobre odnowione urządzenie kosztuje mniej niż godzina lotu w typowym samolocie SEP!&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;To better support older devices, the hillshading feature is now optional. The page &apos;Settings&apos; has been redesigned for clarity and simplicity.&lt;/p&gt;</source>
