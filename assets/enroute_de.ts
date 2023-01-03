@@ -2526,7 +2526,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
         <source>&lt;p&gt;If your device runs Android 5 or earlier, then &lt;strong&gt;this is the last update of Enroute Flight Navigation that your device will receive&lt;/strong&gt; and we would like to urge you to move to a newer system. Support for Android 5 has long ended and security updates are no longer available. A good refurbished device costs less than one hour flight time in a typical SEP aircraft!&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Wenn Ihr Gerät mit Android 5 oder älter läuft,&lt;strong&gt;ist das hier das letzte Update von Enroute Flight Navigation für Ihr Gerät&lt;/strong&gt; und wir raten dringend zu einem jüngeren Gerät. Der Support für Android 5 ist längst beendet und Sicherheitsupdates gibt es keine mehr. Ein gutes, aufgearbeitetes Gerät kostet weniger als eine Stunde Flugzeit in einem typischen einmotorigen Flugzeug mit Kolbenmotor!&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Wenn Ihr Gerät mit Android 5 oder älter läuft, &lt;strong&gt;ist das hier das letzte Update von Enroute Flight Navigation für Ihr Gerät&lt;/strong&gt; und wir raten dringend zu einem jüngeren Gerät. Der Support für Android 5 ist längst beendet und Sicherheitsupdates gibt es keine mehr. Ein gutes, aufgearbeitetes Gerät kostet weniger als eine Stunde Flugzeit in einem typischen einmotorigen Flugzeug mit Kolbenmotor!&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;To better support older devices, the hillshading feature is now optional. The page &apos;Settings&apos; has been redesigned for clarity and simplicity.&lt;/p&gt;</source>
