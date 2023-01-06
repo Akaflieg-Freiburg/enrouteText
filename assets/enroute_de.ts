@@ -2526,7 +2526,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Die Technologie unter dieser App hat sich geändert. Bitte melden Sie alles, was Ihnen merkwürdig vorkommt!&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;If your device runs Android 5 or earlier, then &lt;strong&gt;this is the last update of Enroute Flight Navigation that your device will receive&lt;/strong&gt; and we would like to urge you to move to a newer system. Support for Android 5 has long ended and security updates are no longer available. A good refurbished device costs less than one hour flight time in a typical SEP aircraft!&lt;/p&gt;</source>
@@ -3438,12 +3438,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="133"/>
         <source>True Altitude (AMSL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wahre Höhe (AMSL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="136"/>
         <source>True Altitude (AGL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wahre Höhe (AGL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="139"/>
@@ -3606,17 +3606,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="208"/>
         <source>Position unknown.</source>
-        <translation type="unfinished">Position unbekannt.</translation>
+        <translation>Position unbekannt.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="210"/>
         <source>More than %1 off route.</source>
-        <translation type="unfinished">Über %1 abseits der Route.</translation>
+        <translation>Über %1 abseits der Route.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="212"/>
         <source>Near destination.</source>
-        <translation type="unfinished">Nahe am Ziel.</translation>
+        <translation>Nahe am Ziel.</translation>
     </message>
 </context>
 <context>
@@ -3779,7 +3779,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="154"/>
         <source>If you never fly higher than 5.000ft, you will probably not be interested in airspaces that begin above FL100. Enroute Flight Navigation allows you to set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit. Tap on the entry “Airspace Altitude Limit” to set or unset the altitude limit.</source>
-        <translation>Fliegen Sie nie höher als 5.000 ft, interessieren Sie die Lufträume über FL100 wahrscheinlich nicht. Enroute Flight Navigation erlaubt die Festsetzung eines Höhenlimits, um die Lesbarkeit der Karte zu verbessern. So eingestellt zeigt die App nur Lufträume unterhalb dieses Limits an. Sie setzen oder lsöchen dieses Limit über den Menüpunkt “Luftraum-Höhenlimit”.</translation>
+        <translation>Fliegen Sie nie höher als 5.000 ft, interessieren Sie die Lufträume über FL100 wahrscheinlich nicht. Enroute Flight Navigation erlaubt die Festsetzung eines Höhenlimits, um die Lesbarkeit der Karte zu verbessern. So eingestellt zeigt die App nur Lufträume unterhalb dieses Limits an. Sie setzen oder lsöchen dieses Limit über den Menüpunkt “Luftraumobergrenze”.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="155"/>
@@ -4785,7 +4785,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="173"/>
         <source>How to connect your traffic receiver…</source>
-        <translation>Wie man sich mit dem Verkehrsdatenempfänger verbindet ...</translation>
+        <translation>Mit Ihrem Verkehrsdatenempfänger verbinden ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="181"/>
@@ -4996,7 +4996,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="102"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Hinweise</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="160"/>
