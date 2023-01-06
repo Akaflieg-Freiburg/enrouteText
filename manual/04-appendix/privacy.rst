@@ -56,3 +56,10 @@ The Android app requires the following privileges.
   ensures that the library persists when the app is uninstalled or reinstalled.
   It also ensures that other apps, such as file managers or file synchronization
   software, can access the data.
+
+The Android app asks for the following optional privilege.
+
+- POST_NOTIFICATIONS - The app uses notifications, for instance to inform the
+  user about available map updates.
+
+
