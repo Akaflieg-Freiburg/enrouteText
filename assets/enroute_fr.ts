@@ -2790,16 +2790,21 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
+        <source>Error (True Track)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="176"/>
         <source>Vertical Speed</source>
         <translation>Vitesse verticale</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="171"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="179"/>
         <source>Pressure Altitude</source>
         <translation>Altitude pression</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="174"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="182"/>
         <source>Timestamp</source>
         <translation>Horodatage</translation>
     </message>
@@ -4003,6 +4008,11 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Aucun problème</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="141"/>
+        <source>Connect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="163"/>
         <source>Help</source>
         <translation>Aide</translation>
@@ -4018,9 +4028,8 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Comment connecter un simulateur de vol…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="141"/>
         <source>Connect to Traffic Receiver</source>
-        <translation>Se connecter au récepteur de traffic</translation>
+        <translation type="vanished">Se connecter au récepteur de traffic</translation>
     </message>
 </context>
 <context>
