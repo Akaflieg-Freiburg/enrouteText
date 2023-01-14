@@ -2427,16 +2427,21 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
+        <source>Error (True Track)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="176"/>
         <source>Vertical Speed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="171"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="179"/>
         <source>Pressure Altitude</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="174"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="182"/>
         <source>Timestamp</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3626,7 +3631,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="141"/>
-        <source>Connect to Traffic Receiver</source>
+        <source>Connect</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

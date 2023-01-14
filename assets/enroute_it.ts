@@ -2579,7 +2579,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Abbiamo aggiornato la tecnologia di base di questa app. Riportate qualsiasi malfunzionamento!&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;To better support older devices, the hillshading feature is now optional. The page &apos;Settings&apos; has been redesigned for clarity and simplicity.&lt;/p&gt;</source>
@@ -3464,12 +3464,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="133"/>
         <source>True Altitude (AMSL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Quota vera (AMSL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="136"/>
         <source>True Altitude (AGL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altezza vera (AGL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="139"/>
@@ -3637,17 +3637,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="208"/>
         <source>Position unknown.</source>
-        <translation type="unfinished">Posizione sconosciuta.</translation>
+        <translation>Posizione sconosciuta.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="210"/>
         <source>More than %1 off route.</source>
-        <translation type="unfinished">Più del %1 fuori rotta.</translation>
+        <translation>Più del %1 fuori rotta.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="212"/>
         <source>Near destination.</source>
-        <translation type="unfinished">Vicino alla destinazione.</translation>
+        <translation>Vicino alla destinazione.</translation>
     </message>
 </context>
 <context>
@@ -5029,7 +5029,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="102"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Note</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="160"/>

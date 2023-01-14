@@ -4782,7 +4782,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="141"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbinden</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="163"/>
