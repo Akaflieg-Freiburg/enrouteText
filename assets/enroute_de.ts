@@ -2,128 +2,6 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="de_DE">
 <context>
-    <name>Aircraft</name>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="34"/>
-        <source>Aircraft</source>
-        <translation>Luftfahrzeug</translation>
-    </message>
-    <message>
-        <source>View Library …</source>
-        <translation type="vanished">Bibliothek betrachten …</translation>
-    </message>
-    <message>
-        <source>Save to library …</source>
-        <translation type="vanished">In Bibliothek speichern …</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="94"/>
-        <source>View Library…</source>
-        <translation>Bibliothek ansehen…</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="103"/>
-        <source>Save to library…</source>
-        <translation>In Bibliothek speichern…</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="149"/>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="158"/>
-        <source>Name</source>
-        <translation>Name</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="174"/>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="308"/>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="396"/>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="483"/>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="571"/>
-        <source>undefined</source>
-        <translation>unbestimmt</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="178"/>
-        <source>Units</source>
-        <translation>Einheiten</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="186"/>
-        <source>Horizontal</source>
-        <translation>Horizontal</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="200"/>
-        <source>Nautical Miles</source>
-        <translation>Nautische Meilen</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="200"/>
-        <source>Kilometers</source>
-        <translation>Kilometer</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="200"/>
-        <source>Statute Miles</source>
-        <translation>Britische Meilen</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="203"/>
-        <source>Vertical</source>
-        <translation>Vertikal</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="216"/>
-        <source>Feet</source>
-        <translation>Fuß</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="216"/>
-        <source>Meters</source>
-        <translation>Meter</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="219"/>
-        <source>Volume</source>
-        <translation>Volumen</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="232"/>
-        <source>Liters</source>
-        <translation>Liter</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="232"/>
-        <source>U.S. Gallons</source>
-        <translation>U.S. Gallonen</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="238"/>
-        <source>True Airspeed</source>
-        <translation>Wahre Fluggeschwindigkeit</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="246"/>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="519"/>
-        <source>Cruise</source>
-        <translation>Reiseflug</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="334"/>
-        <source>Descent</source>
-        <translation>Sinkflug</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="422"/>
-        <source>Minimum</source>
-        <translation>Minimum</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="511"/>
-        <source>Fuel Consumption</source>
-        <translation>Treibstoffverbrauch</translation>
-    </message>
-</context>
-<context>
     <name>AircraftLibrary</name>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="34"/>
@@ -237,6 +115,128 @@
     </message>
 </context>
 <context>
+    <name>AircraftPage</name>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="33"/>
+        <source>Aircraft</source>
+        <translation>Luftfahrzeug</translation>
+    </message>
+    <message>
+        <source>View Library …</source>
+        <translation type="vanished">Bibliothek betrachten …</translation>
+    </message>
+    <message>
+        <source>Save to library …</source>
+        <translation type="vanished">In Bibliothek speichern …</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="93"/>
+        <source>View Library…</source>
+        <translation>Bibliothek ansehen…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="102"/>
+        <source>Save to library…</source>
+        <translation>In Bibliothek speichern…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="148"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="157"/>
+        <source>Name</source>
+        <translation>Name</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="173"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="329"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="417"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="504"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="592"/>
+        <source>undefined</source>
+        <translation>unbestimmt</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="177"/>
+        <source>Units</source>
+        <translation>Einheiten</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="185"/>
+        <source>Horizontal</source>
+        <translation>Horizontal</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="209"/>
+        <source>Nautical Miles</source>
+        <translation>Nautische Meilen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="209"/>
+        <source>Kilometers</source>
+        <translation>Kilometer</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="209"/>
+        <source>Statute Miles</source>
+        <translation>Britische Meilen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="212"/>
+        <source>Vertical</source>
+        <translation>Vertikal</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="231"/>
+        <source>Feet</source>
+        <translation>Fuß</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="231"/>
+        <source>Meters</source>
+        <translation>Meter</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="234"/>
+        <source>Volume</source>
+        <translation>Volumen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="253"/>
+        <source>Liters</source>
+        <translation>Liter</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="253"/>
+        <source>U.S. Gallons</source>
+        <translation>U.S. Gallonen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="259"/>
+        <source>True Airspeed</source>
+        <translation>Wahre Fluggeschwindigkeit</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="267"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="540"/>
+        <source>Cruise</source>
+        <translation>Reiseflug</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="355"/>
+        <source>Descent</source>
+        <translation>Sinkflug</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="443"/>
+        <source>Minimum</source>
+        <translation>Minimum</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="532"/>
+        <source>Fuel Consumption</source>
+        <translation>Treibstoffverbrauch</translation>
+    </message>
+</context>
+<context>
     <name>AircraftSaveDialog</name>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="31"/>
@@ -309,12 +309,12 @@ Ihren Verbesserungsvorschlägen.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="123"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="121"/>
         <source>Main application</source>
         <translation>Die Anwendung selbst</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="110"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="109"/>
         <source>
 &lt;h4&gt;Main Application&lt;/h4&gt;
 
@@ -328,7 +328,7 @@ application.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="132"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="130"/>
         <source>
 &lt;h4&gt;Airspaces&lt;/h4&gt;
 
@@ -344,17 +344,17 @@ application.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="146"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="143"/>
         <source>Flight Information Regions</source>
         <translation>FIS-Sektoren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="155"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="152"/>
         <source>Nature Reserve Areas</source>
         <translation>Naturschutzgebiete</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="164"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="161"/>
         <source>All Other Airspaces</source>
         <translation>Alle anderen Lufträume</translation>
     </message>
@@ -374,7 +374,7 @@ below.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="188"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="184"/>
         <source>Airfields</source>
         <translation>Flugplätze</translation>
     </message>
@@ -384,7 +384,7 @@ below.&lt;/p&gt;
         <translation>Zurück zur Fehlermeldung</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="173"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="170"/>
         <source>
 &lt;h4&gt;Aviation Data&lt;/h4&gt;
 
@@ -400,22 +400,22 @@ below.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="197"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="193"/>
         <source>NavAids</source>
         <translation>Navigationshilfen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="206"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="202"/>
         <source>Procedures/Traffic circuits</source>
         <translation>Verfahren/Platzrunden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="215"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="211"/>
         <source>Reporting points</source>
         <translation>Meldepunkte</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="224"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="220"/>
         <source>
 &lt;h4&gt;Thank you for your help!&lt;/h4&gt;
 </source>
@@ -424,7 +424,7 @@ below.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="268"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="263"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
 
@@ -467,24 +467,24 @@ können Sie sich selbst einen Link auf GitHub per E-Mail zusenden.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="296"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="290"/>
         <source>Open GitHub Issue Page</source>
         <translation>GitHub-Ticketseite öffnen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="305"/>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="406"/>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="660"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="299"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="398"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="648"/>
         <source>Send link by e-mail</source>
         <translation>Link per E-Mail senden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="309"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="303"/>
         <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to GitHub: https://github.com/Akaflieg-Freiburg/enroute/issues</source>
         <translation>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to GitHub: https://github.com/Akaflieg-Freiburg/enroute/issues</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="314"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="308"/>
         <source>
 &lt;p&gt;If you have difficulties with GitHub, you can contact
 &lt;a href=&apos;mailto:ms@squawk-vfr.de?subject=Enroute Flight
@@ -519,7 +519,7 @@ Fehlern hat immer Vorrang!&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="373"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="366"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
 
@@ -555,17 +555,17 @@ Woche.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="397"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="389"/>
         <source>Open openAIP web site</source>
         <translation>Website openAIP</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="410"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="402"/>
         <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to openAIP: https//openaip.net</source>
         <translation>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to openAIP: https//openaip.net</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="416"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="408"/>
         <source>
 &lt;p&gt;If you have difficulties with the openAIP web site, you
 can contact
@@ -587,7 +587,7 @@ Peter spricht Deutsch und Englisch.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="468"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="459"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
 
@@ -632,7 +632,7 @@ Ihre Angelegenheit im dortigen Forum diskutieren.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="532"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="522"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
 
@@ -696,23 +696,23 @@ following countries?&lt;/p&gt;
 &lt;/ul&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="571"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="560"/>
         <source>Yes</source>
         <translation>Ja</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="580"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="569"/>
         <source>No</source>
         <translation>Nein</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="589"/>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="669"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="578"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="657"/>
         <source>&lt;h3&gt;Thank you for your help!&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Danke für Ihre Unterstützung!&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="629"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="618"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
 
@@ -744,17 +744,17 @@ per E-Mail zusenden.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="651"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="639"/>
         <source>Open error report form</source>
         <translation>Formular Fehlermeldung öffnen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="664"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="652"/>
         <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to open flightmaps error report form: https://docs.google.com/a/openflightmaps.org/forms/d/e/1FAIpQLSeBiqRbqioUaAp6H-FUtYMFduLGQmzOm1G3Dxyh2XALl5r3Nw/viewform</source>
         <translation>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to open flightmaps error report form: https://docs.google.com/a/openflightmaps.org/forms/d/e/1FAIpQLSeBiqRbqioUaAp6H-FUtYMFduLGQmzOm1G3Dxyh2XALl5r3Nw/viewform</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="712"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="700"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
 
@@ -1468,7 +1468,7 @@ Verwendungszweck: Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="67"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="66"/>
         <source>
 **Enroute Flight Navigation** is a
 non-commercial project of Akaflieg Freiburg and the
@@ -1501,12 +1501,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="97"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="95"/>
         <source>Send e-mail</source>
         <translation>E-Mail senden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="102"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="100"/>
         <source>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</source>
         <translation>mailto:?subject=Enroute Flight Navigation, Spende&amp;body=%1</translation>
     </message>
@@ -2826,17 +2826,17 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <translation>Kartenmodus: Norden oben</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="621"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="622"/>
         <source>Map Mode: Autopan</source>
         <translation>Kartenmodus: automatisch zentrieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="741"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="744"/>
         <source>Map Data Copyright Info</source>
         <translation>Copyright der Kartendaten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="746"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="749"/>
         <source>Map Data Copyright Information</source>
         <translation>Copyright-Information zu den Kartendaten</translation>
     </message>
@@ -3262,14 +3262,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Platform::FileExchange</name>
     <message>
-        <location filename="../../../src/platform/FileExchange_Android.cpp" line="108"/>
         <source>No suitable file sharing app could be found.</source>
-        <translation>Keine geeignete App gefunden, um die Daten zu teilen.</translation>
+        <translation type="vanished">Keine geeignete App gefunden, um die Daten zu teilen.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Android.cpp" line="123"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation>Keine geeignete App gefunden, um diese Daten anzuzeigen.</translation>
+        <translation type="vanished">Keine geeignete App gefunden, um diese Daten anzuzeigen.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
@@ -3343,7 +3341,6 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Anwendung öffnen</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier_Android.cpp" line="82"/>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="194"/>
         <source>Update</source>
         <translation>Update</translation>
@@ -3472,16 +3469,21 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
+        <source>Error (True Track)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="176"/>
         <source>Vertical Speed</source>
         <translation>Vertikalgeschwindigkeit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="171"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="179"/>
         <source>Pressure Altitude</source>
         <translation>Druckhöhe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="174"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="182"/>
         <source>Timestamp</source>
         <translation>Zeitstempel</translation>
     </message>
@@ -4778,6 +4780,11 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Kein Problem bekannt</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="141"/>
+        <source>Connect</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="163"/>
         <source>Help</source>
         <translation>Hilfe</translation>
@@ -4793,9 +4800,8 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Mit Ihrem Flugsimulator verbinden ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="141"/>
         <source>Connect to Traffic Receiver</source>
-        <translation>Mit Verkehrsempfänger verbinden</translation>
+        <translation type="vanished">Mit Verkehrsempfänger verbinden</translation>
     </message>
 </context>
 <context>
@@ -8428,19 +8434,19 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Sie haben entschieden, Netzwerksicherheits-Fehler zukünftig zu ignorieren. **Dies stellt ein Sicherheitsrisiko dar.** In den Einstellungen können Sie auf Wunsch das ursprüngliche, sichere Verhalten der App wiederherstellen.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="134"/>
+        <location filename="../../../src/main.cpp" line="152"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation ist eine kostenlose Navigations-App für VFR-Piloten,
 entwickelt als Projekt der Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="137"/>
+        <location filename="../../../src/main.cpp" line="155"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation>Simulator starten und Screenshots für das Handbuch erzeugen</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="139"/>
+        <location filename="../../../src/main.cpp" line="157"/>
         <source>File to import.</source>
         <translation>Datei zum Importieren.</translation>
     </message>

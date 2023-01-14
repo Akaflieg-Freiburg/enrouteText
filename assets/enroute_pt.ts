@@ -2,115 +2,115 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="pt_BR">
 <context>
-    <name>Aircraft</name>
+    <name>AircraftPage</name>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="34"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="34"/>
         <source>Aircraft</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="94"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="94"/>
         <source>View Library…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="103"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="103"/>
         <source>Save to library…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="149"/>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="158"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="149"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="158"/>
         <source>Name</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="174"/>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="308"/>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="396"/>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="483"/>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="571"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="174"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="308"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="396"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="483"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="571"/>
         <source>undefined</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="178"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="178"/>
         <source>Units</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="186"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="186"/>
         <source>Horizontal</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="200"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="200"/>
         <source>Nautical Miles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="200"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="200"/>
         <source>Kilometers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="200"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="200"/>
         <source>Statute Miles</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="203"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="203"/>
         <source>Vertical</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="216"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="216"/>
         <source>Feet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="216"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="216"/>
         <source>Meters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="219"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="219"/>
         <source>Volume</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="232"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="232"/>
         <source>Liters</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="232"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="232"/>
         <source>U.S. Gallons</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="238"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="238"/>
         <source>True Airspeed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="246"/>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="519"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="246"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="519"/>
         <source>Cruise</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="334"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="334"/>
         <source>Descent</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="422"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="422"/>
         <source>Minimum</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Aircraft.qml" line="511"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="511"/>
         <source>Fuel Consumption</source>
         <translation type="unfinished"></translation>
     </message>
