@@ -3499,7 +3499,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
         <source>Error (True Track)</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore (Percorso reale)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="176"/>
@@ -4808,7 +4808,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="141"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Connetti</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="163"/>
