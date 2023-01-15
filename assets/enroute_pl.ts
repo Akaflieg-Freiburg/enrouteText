@@ -2605,7 +2605,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Zaktualizowaliśmy bazową technologię, na której oparta jest aplikacja. Prosimy o zgłaszanie każdego problemu!&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;If your device runs Android 5 or earlier, then &lt;strong&gt;this is the last update of Enroute Flight Navigation that your device will receive&lt;/strong&gt; and we would like to urge you to move to a newer system. Support for Android 5 has long ended and security updates are no longer available. A good refurbished device costs less than one hour flight time in a typical SEP aircraft!&lt;/p&gt;</source>
@@ -3472,12 +3472,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="133"/>
         <source>True Altitude (AMSL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rzeczywista wysokość (AMSL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="136"/>
         <source>True Altitude (AGL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Rzeczywista wysokość (AGL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="139"/>
@@ -3507,7 +3507,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
         <source>Error (True Track)</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd (Rzecz. tor lotu)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="176"/>
@@ -3645,17 +3645,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="208"/>
         <source>Position unknown.</source>
-        <translation type="unfinished">Pozycja nieznana.</translation>
+        <translation>Pozycja nieznana.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="210"/>
         <source>More than %1 off route.</source>
-        <translation type="unfinished">Więcej niż %1 poza trasą.</translation>
+        <translation>Więcej niż %1 poza trasą.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="212"/>
         <source>Near destination.</source>
-        <translation type="unfinished">Blisko celu.</translation>
+        <translation>Blisko celu.</translation>
     </message>
 </context>
 <context>
@@ -4811,7 +4811,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="141"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Połącz</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="163"/>
@@ -5035,7 +5035,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="102"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notatki</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="160"/>
