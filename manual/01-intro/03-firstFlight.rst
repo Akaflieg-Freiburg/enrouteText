@@ -54,7 +54,7 @@ segments corresponds to one minute.
    :ref:`traffic` of this manual.
 
 
-Flight Information
+The Navigation Bar
 ------------------
 
 The bottom of the display shows a little panel with the following information.

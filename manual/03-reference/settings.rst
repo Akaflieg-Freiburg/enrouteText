@@ -1,6 +1,8 @@
 
-Settings
-========
+.. _Settings Page:
+
+Settings Page
+=============
 
 **Enroute Flight Navigation** is designed to be simple. The number of user
 settings is deliberately small. To access the user settings, open the main menu
