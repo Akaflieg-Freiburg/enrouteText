@@ -1,6 +1,7 @@
+.. _mainPage:
 
-Main Page
-=========
+Main Page and Moving Map
+========================
 
 The main page is the page that you will use the most often. This is also the
 page that opens when you start the app. The following image shows the Main Page
@@ -15,19 +16,35 @@ in a typical flight situation.
 
 - At the top of the screen, you see the `Route Information Bar`_, with
   information about the remaining flight route. 
-- The `Page Body`_ shows a moving map with your current position and a number of
+- The page body shows a moving map with your current position and a number of
   interactive controls. 
 - At the bottom, the `Navigation Bar`_ displays information about the current
   flight situation.
+
+This manual uses the words "Bearing Mode" and "Autopan Mode" to describe two
+settings that govern the behaviour of the map display.
+
+Bearing Mode
+  The moving map can operate in two "bearing modes". In the mode "north up", the
+  map is rotated so that the north direction is up, as you would expect from a
+  paper map.  In the mode "track up", the map is rotated according to your
+  direction of movement, so that your flight direction is up.
+  
+Autopan Mode
+  If the autopan mode is on, the map is automatically moved, so that the
+  position you aircraft is near the centre of the map display. If the autopan
+  mode is off, the map is not moved and the position of your aircraft might not
+  be visible on the map.
 
 
 Route Information Bar
 ---------------------
 
-If you have defined a flight route, the top of the Main Page will show a tabular
-panel with one or two lines of information about the remaining route that you
-still have to fly. The first line of the table refers to the next waypoint, the
-second line to the final waypoint in your route.
+If you have defined a flight route following the steps outlined in section
+:ref:`planAFlight`, then the top of the Main Page will show a tabular panel with
+one or two lines of information about the remaining route that you still have to
+fly. The first line of the table refers to the next waypoint, the second line to
+the final waypoint in your route.
 
 ====== ==============
 Code   Meaning
@@ -47,28 +64,8 @@ ETA    Estimated Arrival Time at the waypoint, in UTC.
 - Close to the final destination, the panel shows the words "Near destination."
 
 
-Page Body
----------
-
-The body of the main page shows a moving map and a few interactive controls that
-will be described below.  The words "Bearing Mode" and "Autopan Mode" describe
-two settings that govern the behaviour of the map display.
-
-Bearing Mode
-  The moving map can operate in two "bearing modes". In the mode "north up", the
-  map is rotated so that the north direction is up, as you would expect from a
-  paper map.  In the mode "track up", the map is rotated according to your
-  direction of movement, so that your flight direction is up.
-  
-Autopan Mode
-  If the autopan mode is on, the map is automatically moved, so that the
-  position you aircraft is near the centre of the map display. If the autopan
-  mode is off, the map is not moved and the position of your aircraft might not
-  be visible on the map.
-
-
 Interactive Controls
-^^^^^^^^^^^^^^^^^^^^
+--------------------
 
 The page body shows the following interactive control buttons that can be used
 together with the standard gestures to operate the app.
@@ -86,7 +83,7 @@ Symbol                                            Function
 
 
 Moving Map
-^^^^^^^^^^
+----------
 
 The moving map shows a physical map with shaded terrain relief, overlaid with
 aviation data.  At low zoom values, the map looks similar to the standard
@@ -97,13 +94,20 @@ chart.
 .. note:: Traffic circuits and control zone procedures are available for 
    select countries only.  See the section :ref:`aeroMapData` for more details.
 
-- AIRSPACE Altitude
-- COPYRIGHT
-- SCALE
+The moving map shows the following additional items
+
+- If you have set an :ref:`SettingsAALimit` on the :ref:`SettingsPage`, the map
+  will show a little reminder at the top of the screen, with a text such as
+  "Airspaces up to 9500 ft".
+- To give you a rough estimate for the horizontal distances, the map features a
+  scale. Depending on screen orientation, the scale is shown at the bottom or at
+  the left of the screen.
+- At the very bottom of the screen, there is a copyright notice. Click on the
+  notice to open a dialogue window with more detailed information.
 
 
 Gesture Controls
-~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^
 
 The moving map can be controlled by standard gestures.
 
@@ -128,7 +132,7 @@ The moving map can be controlled by standard gestures.
 
 
 Ownship Position
-~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^
 
 The ownship position is shown prominently in the moving map, using one of the
 following symbols.
@@ -155,10 +159,12 @@ white segments corresponds to one minute.
 
 
 Traffic Information
-~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^
 
 **Enroute Flight Navigation** can connect to your aircraft's traffic receiver
-(typically a FLARM device) and display nearby traffic on the moving map.
+(typically a FLARM device) and display nearby traffic on the moving map.  The
+section :ref:`traffic` explains how to establish the connection. The figure
+:ref:`EDTFtraffic2` shows a typical situation.
 
 .. _EDTFtraffic2:
 .. figure:: ../02-steps/autogenerated/02-01-01-traffic.png
@@ -168,20 +174,32 @@ Traffic Information
 
    Approaching EDTF with traffic
 
-The figure :ref:`EDTFtraffic2` shows what to expect.  The figure shows two
-traffic factors.
-
-- There is one aircraft in the downwind section of the traffic circuit.  The
-  traffic has approximately the same altitude as the own aircraft and is
-  sinking.  The green colour indicates "no alarm".
-- There is one aircraft nearby whose precise position is unknown to the traffic
-  receiver; this is often the case with traffic that has only a Mode-S
-  transponder.  The traffic is most likely found within the yellow circle. The
-  yellow colour indicates that the traffic might be close enough to be dangerous.
-  
 .. note:: To show only relevant traffic, **Enroute Flight Navigation** will
     display traffic factors only if the vertical distance is less than 1.500m
     and the horizontal distance less than 20nm.
+
+The moving map display two kinds of traffic.
+
+- Traffic whose position is precisely known. This traffic is typically equipped
+  with a FLARM or ADS-B transmitter.
+- Traffic whose precise position is unknown to the traffic receiver; this is
+  often the case with traffic that has only a Mode-S transponder.
+
+Traffic with known position
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+=========================================== ========
+Symbol                                      Function
+=========================================== ========
+.. image:: traffic-noDirection-green.png    The traffic is not moving.
+.. image:: traffic-noDirection-yellow.png   The traffic is not moving.
+.. image:: traffic-noDirection-red.png      The traffic is not moving.
+.. image:: traffic-withDirection-green.png  The traffic is moving, the arrow shows the direction of movement.
+.. image:: traffic-withDirection-yellow.png The traffic is moving, the arrow shows the direction of movement.
+.. image:: traffic-withDirection-red.png    The traffic is moving, the arrow shows the direction of movement.
+=========================================== ========
+  
+
 
 .. warning:: **Enroute Flight Navigation** shows traffic on the moving map, but
     does not issue traffic warnings.  The app contains no collision avoidance

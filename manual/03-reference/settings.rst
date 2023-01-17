@@ -1,5 +1,6 @@
 
 .. _Settings Page:
+.. _SettingsPage:
 
 Settings Page
 =============
@@ -15,6 +16,8 @@ Moving Map
 The settings grouped under "Moving Map" change the appearance of the map
 display.
 
+
+.. _SettingsAALimit:
 
 Airspace Altitude Limit
 ^^^^^^^^^^^^^^^^^^^^^^^

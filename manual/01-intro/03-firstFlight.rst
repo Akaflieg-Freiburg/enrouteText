@@ -4,7 +4,8 @@ Before your first flight
 Now you are ready for the first use of **Enroute Flight Navigation**.  General
 operation is very intuitive.  Still, we recommend that you take a minute to make
 yourself familiar with the moving map display and with the basic controls before
-you take the app on its first flight.
+you take the app on its first flight.  The section :ref:`mainPage` covers the
+moving map in more detail.
 
 
 The moving map
