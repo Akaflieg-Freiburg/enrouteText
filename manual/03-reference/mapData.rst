@@ -69,6 +69,7 @@ Attributions
 * United States 3DEP (formerly NED) and global GMTED2010 and SRTM terrain data
   courtesy of the U.S. Geological Survey.
 
+.. _aeroMapData:
 
 Aeronautical maps
 -----------------
@@ -109,7 +110,7 @@ For simplicity, our maps are divided in "Class 1" and "Class 2".
 - Class 1 maps are compiled from `openAIP <http://openaip.net>`_ and `open
   flightmaps <https://www.openflightmaps.org/>`_ data. These maps contain
   complete information about airspaces, airfields and navaids.  In addition, the
-  maps contain (mandatory) reporting points. Some of our tier 1 maps also show
+  maps contain (mandatory) reporting points. Some of our class 1 maps also show
   traffic circuits and flight procedures for control zones.
   
 - Class 2 maps are compiled from `openAIP <http://openaip.net>`_ data only. They
