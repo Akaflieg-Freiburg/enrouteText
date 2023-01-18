@@ -79,11 +79,18 @@ Table of contents
    
 .. toctree::
    :maxdepth: 1
-   :caption: Reference manual
-   :name: sec-reference
+   :caption: Reference: Pages
+   :name: sec-referencePages
     
    03-reference/mainPage
    03-reference/settings
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Reference: Other
+   :name: sec-reference
+    
    03-reference/mapData
    03-reference/platform
    03-reference/Airspace
