@@ -14,7 +14,7 @@ in a typical flight situation.
 
    The Main Page of **Enroute Flight Navigation**
 
-- At the top of the screen, you see the `Route Information Bar`_, with
+- At the top of the screen, you see the `Route Information Bar`_ with
   information about the remaining flight route. 
 - The page body shows a moving map with your current position and a number of
   interactive controls. 
@@ -40,7 +40,7 @@ Autopan Mode
 Route Information Bar
 ---------------------
 
-If you have defined a flight route following the steps outlined in section
+If you have defined a flight route following the steps outlined in the section
 :ref:`planAFlight`, then the top of the Main Page will show a tabular panel with
 one or two lines of information about the remaining route that you still have to
 fly. The first line of the table refers to the next waypoint, the second line to
@@ -174,37 +174,76 @@ section :ref:`traffic` explains how to establish the connection. The figure
 
    Approaching EDTF with traffic
 
-.. note:: To show only relevant traffic, **Enroute Flight Navigation** will
-    display traffic factors only if the vertical distance is less than 1.500m
-    and the horizontal distance less than 20nm.
+To show only relevant traffic, **Enroute Flight Navigation** will display
+traffic factors only if the vertical distance is less than 1.500m and the
+horizontal distance less than 20nm.
+
+.. warning:: **Enroute Flight Navigation** shows traffic on the moving map, but
+    does not issue traffic warnings.  The app contains no collision avoidance
+    algorithms.
+
+
+Color Coding
+~~~~~~~~~~~~
+
+**Enroute Flight Navigation** uses colors to indicate the potential danger of
+the traffic.  This works best when the app is connected to a FLARM device. In
+this setting, the colors have the following precise meaning.
+
+====== ========
+Color  Meaning
+====== ========
+Green  No alarm.
+Yellow Alarm level 1. Collision predicted in 13-18 seconds.
+Red    Alarm level 2 or higher. Collision predicted in less than 13 seconds.
+====== ========
+
+
+Traffic Factors
+~~~~~~~~~~~~~~~
 
 The moving map display two kinds of traffic.
 
-- Traffic whose position is precisely known. This traffic is typically equipped
-  with a FLARM or ADS-B transmitter.
 - Traffic whose precise position is unknown to the traffic receiver; this is
-  often the case with traffic that has only a Mode-S transponder.
-
-Traffic with known position
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  often the case with traffic that has only a Mode-S transponder. This kind of
+  traffic is indicated in the moving map by a transparent circle around the
+  ownship position. The traffic is likely to be found inside that circle.
+- Traffic whose position is precisely known. This traffic is typically equipped
+  with a FLARM or ADS-B transmitter.  The symbols used to display this traffic
+  in the moving map are explained below. If the traffic is known to be moving,
+  its projected flight path is indicated with a black-and-white flight vector,
+  similar to the symbol shown in the Figure :ref:`flightVector2` for the ownship
+  flight vector.  
 
 =========================================== ========
 Symbol                                      Function
 =========================================== ========
-.. image:: traffic-noDirection-green.png    The traffic is not moving.
-.. image:: traffic-noDirection-yellow.png   The traffic is not moving.
-.. image:: traffic-noDirection-red.png      The traffic is not moving.
+.. image:: traffic-noDirection-green.png    The traffic is not moving or its movement is unknown.
+.. image:: traffic-noDirection-yellow.png   The traffic is not moving or its movement is unknown.
+.. image:: traffic-noDirection-red.png      The traffic is not moving or its movement is unknown.
 .. image:: traffic-withDirection-green.png  The traffic is moving, the arrow shows the direction of movement.
 .. image:: traffic-withDirection-yellow.png The traffic is moving, the arrow shows the direction of movement.
 .. image:: traffic-withDirection-red.png    The traffic is moving, the arrow shows the direction of movement.
 =========================================== ========
   
 
+Traffic labelling
+~~~~~~~~~~~~~~~~~
 
-.. warning:: **Enroute Flight Navigation** shows traffic on the moving map, but
-    does not issue traffic warnings.  The app contains no collision avoidance
-    algorithms.  Color coding of traffic according to relevance works best with
-    FLARM devices.
+The traffic is labelled with the following pieces of information about the
+traffic, to the extent known.
+
+- Traffic type. This is one of "Aircraft", "Airship", "Balloon", "Copter",
+  "Drone", "Glider", "Hang Glider", "Jet", "Paraglider", "Skydiver", "Static
+  Obstacle" and "Tow Plane".
+- The traffic callsign.
+- The relative vertical distance, in the units for the distance chosen in the
+  settings on the Aircraft Page.  A positive value indicates that the traffic is
+  above you.
+- The symbols "↘", "→" and "↗" indicate the vertical speed of the traffic.
+
+.. note:: Traffic callsigns are shown only if the "FLARM Database" has been 
+    installed in the page "Map and Data Library".
 
 
 Navigation Bar
