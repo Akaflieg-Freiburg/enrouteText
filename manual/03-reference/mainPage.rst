@@ -118,7 +118,7 @@ The moving map can be controlled by standard gestures.
   map and sets the autopan mode to "off".
 - **Tap-and-hold Gesture:** Tap-and-hold anywhere in the map to open the
   waypoint description dialogue. This is the quickest way to obtain information
-  about airfields, navaids, reporting points, terrain elevation and airspaces.
+  about airfields, navaids, reporting points, terrain elevation and airspace.
   The figure :ref:`wpInfo2` shows how this will typically look.
 - **Double Tap Gesture:** The double tap gesture is equivalent to tap-and-hold.
 
@@ -240,7 +240,8 @@ traffic, to the extent known.
 - The relative vertical distance, in the units for the distance chosen in the
   settings on the Aircraft Page.  A positive value indicates that the traffic is
   above you.
-- The symbols "↘", "→" and "↗" indicate the vertical speed of the traffic.
+- An arrow symbols pointing upwards, downwards or sideways indicates the
+  vertical speed of the traffic.
 
 .. note:: Traffic callsigns are shown only if the "FLARM Database" has been 
     installed in the page "Map and Data Library".
