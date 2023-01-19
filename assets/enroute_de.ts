@@ -2247,27 +2247,27 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="48"/>
         <source>System</source>
-        <translation type="unfinished">System</translation>
+        <translation>System</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="143"/>
         <source>Share Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Info teilen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="148"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abgebrochen</translation>
+        <translation>Abgebrochen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="157"/>
         <source>System Info Shared</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeminfo geteilt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="159"/>
         <source>System Info Exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Systeminfo exportiert</translation>
     </message>
 </context>
 <context>
