@@ -1,6 +1,7 @@
+.. _planAFlight:
+
 Plan a Flight
 =============
-
 
 What to expect
 --------------

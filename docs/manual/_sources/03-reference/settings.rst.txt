@@ -1,6 +1,9 @@
 
-Settings
-========
+.. _Settings Page:
+.. _SettingsPage:
+
+Settings Page
+=============
 
 **Enroute Flight Navigation** is designed to be simple. The number of user
 settings is deliberately small. To access the user settings, open the main menu
@@ -13,6 +16,8 @@ Moving Map
 The settings grouped under "Moving Map" change the appearance of the map
 display.
 
+
+.. _SettingsAALimit:
 
 Airspace Altitude Limit
 ^^^^^^^^^^^^^^^^^^^^^^^

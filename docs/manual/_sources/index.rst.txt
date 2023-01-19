@@ -33,7 +33,7 @@ and frequencies.
 Program version
 ---------------
 
-This manual describes program version 2.21.1.
+This manual describes program version 2.23.0.
 
 
 Table of contents
@@ -79,14 +79,21 @@ Table of contents
    
 .. toctree::
    :maxdepth: 1
-   :caption: Reference manual
+   :caption: Reference: Pages
+   :name: sec-referencePages
+    
+   03-reference/mainPage
+   03-reference/settings
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Reference: Other
    :name: sec-reference
     
-   03-reference/settings
    03-reference/mapData
    03-reference/platform
    03-reference/Airspace
-   03-reference/RoutePlan
 
    
 .. raw:: latex
