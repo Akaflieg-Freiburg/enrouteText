@@ -1819,27 +1819,27 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="48"/>
         <source>System</source>
-        <translation type="unfinished">Système</translation>
+        <translation>Système</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="143"/>
         <source>Share Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Partager informations</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="148"/>
         <source>Aborted</source>
-        <translation type="unfinished">Annulé</translation>
+        <translation>Annulé</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="157"/>
         <source>System Info Shared</source>
-        <translation type="unfinished"></translation>
+        <translation>Informations système partagées</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="159"/>
         <source>System Info Exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Informations système exportées</translation>
     </message>
 </context>
 <context>
@@ -2166,7 +2166,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="285"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Nous avons mis à jour la base technologique sous-jacente à cette application. Veuillez signaler tout problème!&lt;p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;If your device runs Android 5 or earlier, then &lt;strong&gt;this is the last update of Enroute Flight Navigation that your device will receive&lt;/strong&gt; and we would like to urge you to move to a newer system. Support for Android 5 has long ended and security updates are no longer available. A good refurbished device costs less than one hour flight time in a typical SEP aircraft!&lt;/p&gt;</source>
@@ -2778,12 +2778,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="133"/>
         <source>True Altitude (AMSL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitude vraie (AMSL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="136"/>
         <source>True Altitude (AGL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitude vraie (AGL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="139"/>
@@ -2813,7 +2813,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
         <source>Error (True Track)</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur (Route vrai)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="176"/>
@@ -2946,17 +2946,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="208"/>
         <source>Position unknown.</source>
-        <translation type="unfinished">Position inconnue.</translation>
+        <translation>Position inconnue.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="210"/>
         <source>More than %1 off route.</source>
-        <translation type="unfinished">A plus de %1 de la route.</translation>
+        <translation>A plus de %1 de la route.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="212"/>
         <source>Near destination.</source>
-        <translation type="unfinished">Près de la destination.</translation>
+        <translation>Près de la destination.</translation>
     </message>
 </context>
 <context>
@@ -4032,7 +4032,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="141"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Connecter</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="163"/>
@@ -4197,7 +4197,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="102"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Remarques</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="160"/>
