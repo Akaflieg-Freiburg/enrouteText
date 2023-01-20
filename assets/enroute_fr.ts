@@ -2944,17 +2944,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>RemainingRouteBar</name>
     <message>
-        <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="208"/>
+        <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="210"/>
         <source>Position unknown.</source>
         <translation>Position inconnue.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="210"/>
+        <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="212"/>
         <source>More than %1 off route.</source>
         <translation>A plus de %1 de la route.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="212"/>
+        <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="214"/>
         <source>Near destination.</source>
         <translation>Près de la destination.</translation>
     </message>
@@ -7588,18 +7588,18 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Vous avez choisi d&apos;ignorer les erreurs de sécurité réseau. **Ceci constitue un risque**. Allez sur la page&apos;Paramètres&apos; si vous souhaitez restorer le comportement original et sécurisé de l&apos;application.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="150"/>
+        <location filename="../../../src/main.cpp" line="139"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="153"/>
+        <location filename="../../../src/main.cpp" line="142"/>
         <source>Run simulator and generate screenshots for manual</source>
         <translation>Lancer le simulateur et générer des captures d&apos;écran pour le manuel</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="155"/>
+        <location filename="../../../src/main.cpp" line="144"/>
         <source>File to import.</source>
         <translation>Fichier à importer</translation>
     </message>
