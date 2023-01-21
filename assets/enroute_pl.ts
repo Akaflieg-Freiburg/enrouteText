@@ -2262,27 +2262,27 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="48"/>
         <source>System</source>
-        <translation type="unfinished">System</translation>
+        <translation>System</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="143"/>
         <source>Share Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Udostępnij informację</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="148"/>
         <source>Aborted</source>
-        <translation type="unfinished">Przerwane</translation>
+        <translation>Przerwane</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="157"/>
         <source>System Info Shared</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacja o systemie udostępniona</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="159"/>
         <source>System Info Exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacja o systemie weksportowana</translation>
     </message>
 </context>
 <context>
@@ -2428,7 +2428,7 @@ z danymi konta bankowego.
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato and Luca Riva. Both are private pilots and aerospace engineers. Luca is also doing aerobatics.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;li&gt;&lt;strong&gt;Francuski:&lt;/strong&gt; Adrien Crovato i Luca Riva. Obaj są prywatnymi pilotami i inżynierami lotniczymi. Luca zajmuje się również akrobacją lotniczą.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="90"/>
@@ -8505,12 +8505,12 @@ rozwijana jako projekt Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="141"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom symulator i wygeneruj zrzuty ekranu dla GooglePlay</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="143"/>
         <source>Run simulator and generate screenshots for the manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom symulator i wygeneruj zrzuty ekranu do podręcznika</translation>
     </message>
     <message>
         <source>Run simulator and generate screenshots for manual</source>
