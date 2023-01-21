@@ -2806,7 +2806,9 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato and Luca Riva. Both are private pilots and aerospace engineers. Luca is also doing aerobatics.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;&lt;strong&gt;Französisch:&lt;/strong&gt; Adrien Crovato und Luca Riva. Beide sind Privatpiloten und Luftfahrtingenieure. Luca macht auch Kunstflug.&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="257"/>
@@ -8474,12 +8476,12 @@ entwickelt als Projekt der Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="141"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulator starten und Screenshot für GooglePlay erzeugen.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="143"/>
         <source>Run simulator and generate screenshots for the manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulator starten und Screenshot fürs Handbuch erzeugen</translation>
     </message>
     <message>
         <source>Run simulator and generate screenshots for manual</source>
