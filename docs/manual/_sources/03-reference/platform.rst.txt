@@ -107,6 +107,7 @@ Option         Description
 -h, --help     Displays help on commandline options.
 --help-all     Displays help including Qt specific options.
 -v, --version  Displays version information.
--s             Run simulator and generate screenshots for manual
+--sg           Run simulator and generate screenshots for Google Play
+--sm           Run simulator and generate screenshots for the manual
 ============== =====================
 

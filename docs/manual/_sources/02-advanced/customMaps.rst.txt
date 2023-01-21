@@ -79,11 +79,11 @@ that convert GeoTIFF to MBTILES.
 - Official ICAO maps for Denmark are available from the danish `AIM Naviair
   <https://aim.naviair.dk/en/charts/>`_
 
-- Official ICAO maps for Spain are available from the spanish `Insignia Servicio
+- Official ICAO maps for Spain are available from the Spanish `Insignia Servicio
   de Información Aeronáutica
   <https://aip.enaire.es/AIP/CartasInsigniaImpresas-es.html>`_
 
-- Official ICAO maps for Switzerland are available from the swiss `Federal
+- Official ICAO maps for Switzerland are available from the Swiss `Federal
   Office of Topography swisstopo
   <https://www.swisstopo.admin.ch/en/geodata/aero/icao.html>`_
 
@@ -126,9 +126,9 @@ kindly provided the following short tutorial.
   "Bilinear" for better image render quality.
 
 - Use the menu items under "View/Panels/…" to ensure that the panel "Processing
-  Toolbox" is visible. Inside the "Processing Toolbox", double click on "Raster
-  Tools->Generate XYZ Tiles (MBTiles)".  The dialog "Generate XYZ Tiles
-  (MBTiles)" will open. Fill the necessary parameters, as seen in the image
+  Toolbox" is visible. Inside the "Processing Toolbox", double-click on "Raster
+  Tools→Generate XYZ Tiles (MBTILES)".  The dialog "Generate XYZ Tiles
+  (MBTILES)" will open. Fill the necessary parameters, as seen in the image
   below. We found the function "Draw on Map Canvas" useful to specify the map
   extent. Pay attention to the maximum zoom level, as the time and file size
   increase significantly after zoom level 12. Depending on the size of your
