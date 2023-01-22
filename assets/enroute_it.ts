@@ -2259,27 +2259,27 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="48"/>
         <source>System</source>
-        <translation type="unfinished">Sistema</translation>
+        <translation>Sistema</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="143"/>
         <source>Share Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Condividi info</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="148"/>
         <source>Aborted</source>
-        <translation type="unfinished"></translation>
+        <translation>Annullato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="157"/>
         <source>System Info Shared</source>
-        <translation type="unfinished"></translation>
+        <translation>Info Sistema condivise</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="159"/>
         <source>System Info Exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Info Sistema esportate</translation>
     </message>
 </context>
 <context>
@@ -2839,7 +2839,8 @@ con i dati del conto bancario.
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato and Luca Riva. Both are private pilots and aerospace engineers. Luca is also doing aerobatics.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;&lt;strong&gt;Francese:&lt;/strong&gt; Adrien Crovato e Luca Riva. Entrambi sono piloti privati e ingenieri aerospaziali. Luca fa anche acrobazie.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="285"/>
@@ -8502,12 +8503,12 @@ sviluppata e progettata da Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="141"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui il simulatore e genera screenshots per Google Play</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="143"/>
         <source>Run simulator and generate screenshots for the manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui il simulatore e genera screenshots per il manuale</translation>
     </message>
     <message>
         <source>Run simulator and generate screenshots for manual</source>
