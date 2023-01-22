@@ -1991,7 +1991,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato and Luca Riva. Both are private pilots and aerospace engineers. Luca is also doing aerobatics.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;li&gt;&lt;strong&gt;Freançais:&lt;/strong&gt;Adrien Crovato et Luca Riva. Les deux sont des pilotes privés et des ingénieurs aérospatiaux. Luca est également&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="90"/>
@@ -7393,7 +7393,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="159"/>
         <source>Nearby Waypoints</source>
-        <translation>Points à proximité</translation>
+        <translation>Points de route à proximité</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="177"/>
@@ -7601,12 +7601,12 @@ developed as a project of Akaflieg Freiburg.</source>
     <message>
         <location filename="../../../src/main.cpp" line="141"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter le simulateur et générer des captures d’écran pour GooglePlay</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="143"/>
         <source>Run simulator and generate screenshots for the manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter le simulateur et générer des captures d’écran pour le manuel</translation>
     </message>
     <message>
         <source>Run simulator and generate screenshots for manual</source>
