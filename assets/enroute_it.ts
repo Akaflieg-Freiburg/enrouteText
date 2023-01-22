@@ -1072,47 +1072,47 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="186"/>
         <source>downloading … %1% complete</source>
-        <translation>download… %1% completo</translation>
+        <translation>Download… %1% completo</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="193"/>
         <source>installed • %1</source>
-        <translation>installato • %1</translation>
+        <translation>%1 • installato</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="199"/>
         <source>update available</source>
-        <translation>aggiornamenti disponibili</translation>
+        <translation>Aggiornamenti disponibili</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="203"/>
         <source>manually imported</source>
-        <translation>importata manualmente</translation>
+        <translation>Importata manualmente</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="208"/>
         <source>not installed</source>
-        <translation>non installato</translation>
+        <translation>Non installato</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="216"/>
         <source>file size unknown</source>
-        <translation>dimensione del file sconosciuta</translation>
+        <translation>Dimensione del file sconosciuta</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="465"/>
         <source>the remote server refused the connection (the server is not accepting requests)</source>
-        <translation>il server ha rifiutato la connessione (il server non accetta richieste)</translation>
+        <translation>Il server ha rifiutato la connessione (il server non accetta richieste)</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="469"/>
         <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
-        <translation>il server ha chiuso la connessione prima che la risposta possa essere interpretata correttamente</translation>
+        <translation>Il server ha chiuso la connessione prima che la risposta possa essere interpretata correttamente</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="474"/>
         <source>the remote host name was not found (invalid hostname)</source>
-        <translation>il nome del server non è valido (invalid hostname)</translation>
+        <translation>Il nome del server non è valido (invalid hostname)</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="478"/>
@@ -1132,142 +1132,142 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="491"/>
         <source>the connection was broken due to disconnection from the network</source>
-        <translation>la connessione è terminata a causa di una disconnessione dalla rete</translation>
+        <translation>La connessione è terminata a causa di una disconnessione dalla rete</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="495"/>
         <source>the connection was broken due to disconnection from the network or failure to start the network</source>
-        <translation>la connessione è terminata a causa di una disconnessione dalla rete o di un errore della rete</translation>
+        <translation>La connessione è terminata a causa di una disconnessione dalla rete o di un errore della rete</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="500"/>
         <source>the background request is not currently allowed due to platform policy</source>
-        <translation>la richiesta non può essere processata a causa delle policy della piattaforma</translation>
+        <translation>La richiesta non può essere processata a causa delle policy della piattaforma</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="504"/>
         <source>while following redirects, the maximum limit was reached</source>
-        <translation>il numero massimo di redirezioni è stato raggiunto</translation>
+        <translation>Il numero massimo di redirezioni è stato raggiunto</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="508"/>
         <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
-        <translation>le API di accesso alla rete riportano una redirezione dal protocollo https (criptato) a http (non criptato)</translation>
+        <translation>Le API di accesso alla rete riportano una redirezione dal protocollo https (criptato) a http (non criptato)</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="513"/>
         <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
-        <translation>la connessione con il proxy è stata rifiutata (il proxy non accetta richieste)</translation>
+        <translation>La connessione con il proxy è stata rifiutata (il proxy non accetta richieste)</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="518"/>
         <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
-        <translation>il proxy ha chiuso la connessione prima che la risposta venisse processata correttamente</translation>
+        <translation>Il proxy ha chiuso la connessione prima che la risposta venisse processata correttamente</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="523"/>
         <source>the proxy host name was not found (invalid proxy hostname)</source>
-        <translation>il proxy non è stato trovato (nome non valido)</translation>
+        <translation>Il proxy non è stato trovato (nome non valido)</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="527"/>
         <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
-        <translation>la connessione con il proxy è andata in timeout oppure il proxy non ha risposto in tempo</translation>
+        <translation>La connessione con il proxy è andata in timeout oppure il proxy non ha risposto in tempo</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="532"/>
         <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
-        <translation>il server proxy richiede un&apos;autenticazione per processare la richiesta e i dati forniti non sono stati accettati</translation>
+        <translation>Il server proxy richiede un&apos;autenticazione per processare la richiesta e i dati forniti non sono stati accettati</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="537"/>
         <source>the access to the remote content was denied (similar to HTTP error 403)</source>
-        <translation>l&apos;accesso ai contenuti remoti è stato respinto (simile all&apos;errore HTTP 403)</translation>
+        <translation>L&apos;accesso ai contenuti remoti è stato respinto (simile all&apos;errore HTTP 403)</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="541"/>
         <source>the operation requested on the remote content is not permitted</source>
-        <translation>l&apos;operazione richiesta sui contenuti remoti non è permessa</translation>
+        <translation>L&apos;operazione richiesta sui contenuti remoti non è permessa</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="545"/>
         <source>the remote content was not found at the server (similar to HTTP error 404)</source>
-        <translation>i dati non sono stati trovati sul server (simile all&apos;errore HTTP 404)</translation>
+        <translation>I dati non sono stati trovati sul server (simile all&apos;errore HTTP 404)</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="549"/>
         <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
-        <translation>il server richiede un&apos;autenticazione per processare la richiesta e i dati forniti non sono stati accettati</translation>
+        <translation>Il server richiede un&apos;autenticazione per processare la richiesta e i dati forniti non sono stati accettati</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="554"/>
         <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
-        <translation>la richiesta doveva essere inviata una seconda volta, ma è fallita per esempio perchè i dati non possono essere letti una seconda volta</translation>
+        <translation>La richiesta doveva essere inviata una seconda volta, ma è fallita per esempio perchè i dati non possono essere letti una seconda volta</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="559"/>
         <source>the request could not be completed due to a conflict with the current state of the resource</source>
-        <translation>la richiesta non può essere completata a causa di un conflitto con lo stato corrente delle risorse</translation>
+        <translation>La richiesta non può essere completata a causa di un conflitto con lo stato corrente delle risorse</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="564"/>
         <source>the requested resource is no longer available at the server</source>
-        <translation>la risorsa richiesta non è più disponibile sul server</translation>
+        <translation>La risorsa richiesta non è più disponibile sul server</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="568"/>
         <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
-        <translation>il server è incorso in una situazione inattesa che ha impedito di completare l&apos;operazione</translation>
+        <translation>Il server è incorso in una situazione inattesa che ha impedito di completare l&apos;operazione</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="574"/>
         <source>the server does not support the functionality required to fulfill the request</source>
-        <translation>il server non supporta la funzionalità richiesta per completare la richiesta</translation>
+        <translation>Il server non supporta la funzionalità richiesta per completare la richiesta</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="578"/>
         <source>the server is unable to handle the request at this time</source>
-        <translation>il server non è stato in grado di completare la richiesta in tempo</translation>
+        <translation>Il server non è stato in grado di completare la richiesta in tempo</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="583"/>
         <source>the Network Access API cannot honor the request because the protocol is not known</source>
-        <translation>le API di accesso alla rete non possono processare la richiesta in quanto il protocollo è ignoto</translation>
+        <translation>Le API di accesso alla rete non possono processare la richiesta in quanto il protocollo è ignoto</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="587"/>
         <source>the requested operation is invalid for this protocol</source>
-        <translation>l&apos;operazione richiesta non è valida per questo protocollo</translation>
+        <translation>L&apos;operazione richiesta non è valida per questo protocollo</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="591"/>
         <source>an unknown network-related error was detected</source>
-        <translation>è stato rilevato un errore sconosciuto nella rete</translation>
+        <translation>È stato rilevato un errore sconosciuto nella rete</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="595"/>
         <source>an unknown proxy-related error was detected</source>
-        <translation>è stato rilevato un errore sconosciuto nel proxy</translation>
+        <translation>È stato rilevato un errore sconosciuto nel proxy</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="599"/>
         <source>an unknown error related to the remote content was detected</source>
-        <translation>è stato rilevato un errore sconosciuto nei contenuti remoti</translation>
+        <translation>È stato rilevato un errore sconosciuto nei contenuti remoti</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="603"/>
         <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
-        <translation>è stato rilevato un problema nel protocollo (errore del parser, risposta non valida o inattesa, ecc.)</translation>
+        <translation>È stato rilevato un problema nel protocollo (errore del parser, risposta non valida o inattesa, ecc.)</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="608"/>
         <source>an unknown error related to the server response was detected</source>
-        <translation>è stato rilevato un errore sconosciuto nella risposta dal server</translation>
+        <translation>È stato rilevato un errore sconosciuto nella risposta dal server</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="612"/>
         <source>unknown</source>
-        <translation>sconosciuto</translation>
+        <translation>Sconosciuto</translation>
     </message>
 </context>
 <context>
@@ -1707,6 +1707,7 @@ con i dati del conto bancario.
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="287"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="311"/>
         <source>Flight route shared</source>
+        <translatorcomment>Is &quot;Flight Plan&quot; better understandable than &quot;Flight Route&quot;?</translatorcomment>
         <translation>Piano di volo condiviso</translation>
     </message>
     <message>
@@ -2292,10 +2293,11 @@ con i dati del conto bancario.
 &lt;p&gt;If you are convinced that the data is good enough to be added, you can request to add the country. Please go to &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enrouteServer/issues&quot;&gt;this web site&lt;/a&gt; and open an &apos;issue&apos; with your request. Please tell us who you are, where you fly and how you convinced yourself that the data is good. If you find that the data is not good enough, you are welcome to join the openAIP project and help to improve the data.&lt;/p&gt;
 
 &lt;p&gt;Please understand that we program this free app in our spare time, as a service to the community. Sadly, I should point out that sending us impolite demands is not likely to give the result that you desire.&lt;/p&gt;</source>
+        <translatorcomment>Fixed some lexicon.</translatorcomment>
         <translation>
-&lt;p&gt;Riceviamo i nostri dati sull&apos;aviazione da &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. Questa &amp;egrave; un&apos;organizzazione senza scopo di lucro in cui i volontari raccolgono dati sull&apos;aviazione per molti paesi. Se openAIP copre il tuo paese, potremmo essere in grado di generare mappe per esso. Per prima cosa, tuttavia, dobbiamo essere ragionevolmente sicuri che i dati di openAIP siano accurati e completi. Si prega di dare un&apos;occhiata al &lt;a href=&quot;http://maps.openaip.net&quot;&gt;openAIP maps&lt;/a&gt; e confronta il display con una mappa aerea ufficiale del tuo paese. Ci sono gli aeroporti? Le lunghezze/gli orientamenti e le frequenze delle piste sono corretti? I NavAids sono visualizzati correttamente, con codici e frequenze corretti? E per quanto riguarda gli spazi aerei?&lt;/p&gt;
+&lt;p&gt;Riceviamo i nostri dati sull&apos;aviazione da &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. Questa &amp;egrave; un&apos;organizzazione senza scopo di lucro in cui i volontari raccolgono dati sull&apos;aviazione per molti paesi. Se openAIP copre il tuo paese, potremmo essere in grado di generare mappe per esso. Per prima cosa, tuttavia, dobbiamo essere ragionevolmente sicuri che i dati di openAIP siano accurati e completi. Si prega di dare un&apos;occhiata al &lt;a href=&quot;http://maps.openaip.net&quot;&gt;openAIP maps&lt;/a&gt; e confrontare il display con una mappa aerea ufficiale del proprio paese. Ci sono gli aeroporti? Le lunghezze/gli orientamenti e le frequenze delle piste sono corretti? I NavAids sono visualizzati correttamente, con codici e frequenze corretti? E per quanto riguarda gli spazi aerei?&lt;/p&gt;
 
-&lt;p&gt;Se sei convinto che i dati siano sufficientemente validi per essere aggiunti, puoi richiedere di aggiungere il paese. Per cortesia vai a &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enrouteServer/issues&quot;&gt;this web site&lt;/a&gt; e apri un &quot;problema&quot; con la tua richiesta. Per favore, dicci chi sei, dove voli e come ti sei convinto che i dati sono buoni. Se scopri che i dati non sono abbastanza buoni, sei il benvenuto a partecipare al progetto openAIP e contribuisci a migliorare i dati. &lt;/p&gt;
+&lt;p&gt;Se sei convinto che i dati siano sufficientemente validi per essere aggiunti, puoi richiedere di aggiungere il paese. Per cortesia vai a &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enrouteServer/issues&quot;&gt;&lt;/a&gt; e apri un &quot;problema&quot; con la tua richiesta. Per favore, dicci chi sei, dove voli e come ti sei convinto che i dati sono buoni. Se scopri che i dati non sono abbastanza buoni, sei il benvenuto a partecipare al progetto openAIP e contribuire a migliorare i dati. &lt;/p&gt;
 
 &lt;p&gt;Ti preghiamo di comprendere che programmiamo questa app gratuita nel nostro tempo libero, come un servizio alla comunit&amp;agrave;. Purtroppo, devo sottolineare che l&apos;invio di richieste scortesi probabilmente non dar&amp;agrave; il risultato che desideri.&lt;/p&gt;</translation>
     </message>
@@ -2414,7 +2416,7 @@ con i dati del conto bancario.
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translation>&lt;li&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella e Antonio Fardella.  Antonio è un aviatore navale con la passione per tutto ciò che è entusiasmante.&lt;/li&gt;</translation>
+        <translation>&lt;li&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella e Antonio Fardella. Antonio è un aviatore navale con la passione per tutto ciò che è entusiasmante.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="94"/>
@@ -2502,7 +2504,7 @@ con i dati del conto bancario.
 
 &lt;p&gt;I dati aeronautici non vengono da sorgenti ufficiali. Possono essere incompleti, datati o errati.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Questa app non è un sostituto di una adeguata preparazione del volo o di un buon stile di pilotaggio.&lt;/strong&gt; Speriamo che questa app vi piaccia e che la troviate utile.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Questa app non è un sostituto di una adeguata preparazione del volo o di un buon stile di pilotaggio.&lt;/strong&gt; Ci auguriamo che questa app vi piaccia e che la troviate utile.&lt;/p&gt;
 
 &lt;p&gt;Volate sicuri e buon atterraggio!&lt;/p&gt;
 
@@ -2571,7 +2573,7 @@ con i dati del conto bancario.
 
 &lt;h3&gt;Riconoscimenti&lt;/h3&gt;
 
-&lt;p&gt;Questo programma è costruito su un certo numero di librerie open source, incluse &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Questo programma è costruito su un certo numero di librerie open source, incluse &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; e &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;Sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I dati aeronautici sono generosamente forniti dai progetti &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; e &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;. Le mappe base sono generosamente fornite da &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Consultare la relativa documentazione per maggiori dettagli.&lt;/p&gt;</translation>
     </message>
@@ -2840,7 +2842,7 @@ con i dati del conto bancario.
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato and Luca Riva. Both are private pilots and aerospace engineers. Luca is also doing aerobatics.&lt;/li&gt;
 </source>
         <translation>
-&lt;li&gt;&lt;strong&gt;Francese:&lt;/strong&gt; Adrien Crovato e Luca Riva. Entrambi sono piloti privati e ingenieri aerospaziali. Luca fa anche acrobazie.&lt;/li&gt;</translation>
+&lt;li&gt;&lt;strong&gt;Francese:&lt;/strong&gt; Adrien Crovato e Luca Riva. Entrambi sono piloti privati e ingegneri aerospaziali. Luca fa anche acrobazie.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="285"/>
@@ -4178,7 +4180,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="432"/>
         <source>Transponder receiver Mode-C/S/ADS-B unserviceable</source>
-        <translation>Ricevitore transponder Mode-C / S / ADS-B inutilizzabile</translation>
+        <translation>Ricevitore transponder Mode-C/S/ADS-B inutilizzabile</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="438"/>
@@ -4213,7 +4215,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="456"/>
         <source>Wrong ICAO 24-bit address or radio ID</source>
-        <translation>Errato indirizzo ICAO 24 bit o ID radio</translation>
+        <translation>Indirizzo ICAO 24 bit o ID radio errato</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="459"/>
@@ -4248,7 +4250,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="477"/>
         <source>Engine-noise recording not possible</source>
-        <translation>Rumore del motore impossibile registrare</translation>
+        <translation>Registrazione del rumore del motore non possibile</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="480"/>
@@ -4258,7 +4260,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="483"/>
         <source>Configuration error, e.g. while reading flarmcfg.txt from SD/USB.</source>
-        <translation>Errore di configurazione, ad es. durante la lettura di flarmcfg.txt da SD / USB.</translation>
+        <translation>Errore di configurazione, ad es. durante la lettura di flarmcfg.txt da SD/USB.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="486"/>
@@ -8441,7 +8443,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="704"/>
         <source>Lost connection to traffic receiver.</source>
-        <translation>Persa connessione al ricevitore del traffico.</translation>
+        <translation>Connessione al ricevitore del traffico persa.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="737"/>
