@@ -6,92 +6,93 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="34"/>
         <source>Aircraft Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca del avion</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="50"/>
         <source>Filter Aircraft Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar nombres de avións</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="102"/>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation>Renombrar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="114"/>
         <source>Remove…</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="160"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft available. To add a route here, chose &apos;Aircraft&apos; from the main menu, and save the current aircraft to the library.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No hay aviones disponibles. Para agregar una ruta aquí, elija &apos;Avión&apos; en el menú principal y guarde el avión actual en la biblioteca.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="161"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft match your filter criteria.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Ningún avión coincide con sus criterios de selection.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="177"/>
         <source>Loading aircraft &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando avion &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="191"/>
         <source>An Error Occurred…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocurrió un error…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="217"/>
         <source>Overwrite Current Aircraft?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Sobrescribir aeronave actual?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="224"/>
         <source>Loading the aircraft &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current aircraft. Once overwritten, the current aircraft cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Cargando el avión &lt;strong&gt;%1&lt;/strong&gt; sobrescribirá el avión actual. Una vez sobrescrito, el avión actual no se puede restaurar</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="242"/>
         <source>Remove from Device?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Quitar del dispositivo?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="249"/>
         <source>Once the aircraft &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una vez que se elimina la aeronave &lt;strong&gt;%1&lt;/strong&gt;, no se puede restaurar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="258"/>
         <source>Aircraft removed from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Avion eliminada del dispositivo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="271"/>
         <source>Rename Aircraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Renombrar el avion</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="281"/>
         <source>Enter new name for the aircraft &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca un nuevo nombre para el avión&lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="294"/>
         <source>New Aircraft Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo nombre del avión</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="307"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation>Renombrar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="317"/>
         <source>Aircraft renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Avión renombrado</translation>
     </message>
 </context>
 <context>
@@ -99,23 +100,23 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="33"/>
         <source>Aircraft</source>
-        <translation type="unfinished"></translation>
+        <translation>Avion</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="93"/>
         <source>View Library…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ver biblioteca</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="102"/>
         <source>Save to library…</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar la biblioteca</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="148"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="157"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="173"/>
@@ -124,73 +125,73 @@
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="504"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="592"/>
         <source>undefined</source>
-        <translation type="unfinished"></translation>
+        <translation>indefinido</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="177"/>
         <source>Units</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidades</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="185"/>
         <source>Horizontal</source>
-        <translation type="unfinished"></translation>
+        <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="209"/>
         <source>Nautical Miles</source>
-        <translation type="unfinished"></translation>
+        <translation>Millas náuticas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="209"/>
         <source>Kilometers</source>
-        <translation type="unfinished"></translation>
+        <translation>Kilometros</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="209"/>
         <source>Statute Miles</source>
-        <translation type="unfinished"></translation>
+        <translation>Millas terrestres</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="212"/>
         <source>Vertical</source>
-        <translation type="unfinished"></translation>
+        <translation>Vertical</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="231"/>
         <source>Feet</source>
-        <translation type="unfinished"></translation>
+        <translation>Pies</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="231"/>
         <source>Meters</source>
-        <translation type="unfinished"></translation>
+        <translation>Metros</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="234"/>
         <source>Volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="253"/>
         <source>Liters</source>
-        <translation type="unfinished"></translation>
+        <translation>Litros</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="253"/>
         <source>U.S. Gallons</source>
-        <translation type="unfinished"></translation>
+        <translation>Galones estadounidenses</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="259"/>
         <source>True Airspeed</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidad verdadera</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="267"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="540"/>
         <source>Cruise</source>
-        <translation type="unfinished"></translation>
+        <translation>Crucero</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="355"/>
@@ -200,12 +201,12 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="443"/>
         <source>Minimum</source>
-        <translation type="unfinished"></translation>
+        <translation>Minimo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="532"/>
         <source>Fuel Consumption</source>
-        <translation type="unfinished"></translation>
+        <translation>Consumo de combustible</translation>
     </message>
 </context>
 <context>
@@ -213,37 +214,37 @@
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="31"/>
         <source>Save Aircraft…</source>
-        <translation type="unfinished"></translation>
+        <translation>Salvar el avión ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="64"/>
         <source>Enter a name or choose an existing name from the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrese un nombre o elija un nombre existente de la lista a continuación.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="75"/>
         <source>Aircraft Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del avión</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="134"/>
         <source>Aircraft %1 saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Avion %1 salvado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="141"/>
         <source>An Error Occurred…</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocurrió un error…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="172"/>
         <source>Overwrite Aircraft?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Sobrescribir avión?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="179"/>
         <source>The aircraft &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
-        <translation type="unfinished"></translation>
+        <translation>El avión &lt;strong&gt;%1&lt;/strong&gt; ya existe en la biblioteca. ¿Desea sobrescribirlo?</translation>
     </message>
 </context>
 <context>
@@ -251,12 +252,12 @@
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="31"/>
         <source>Bug Report</source>
-        <translation type="unfinished"></translation>
+        <translation>Informe de error</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="55"/>
         <source>Go back in bug report</source>
-        <translation type="unfinished"></translation>
+        <translation>Volver atrás al informe de errores</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="95"/>
@@ -268,7 +269,13 @@ is therefore always our first priority. We are grateful for
 every report that we get, and we would also like to hear
 your suggestions for improvement.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+h3&gt;Informar de un error o hacer una sugerencia de mejora&lt;/h3&gt;
+
+&lt;p&gt;Nuestro objetivo es proporcionar software de alta calidad. La corrección de errores
+es por lo tanto siempre nuestra primera prioridad. Estamos agradecidos por
+cada informe que recibimos, y también nos gustaría escuchar
+vuestras sugerencias de mejora.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="110"/>
@@ -278,12 +285,16 @@ your suggestions for improvement.&lt;/p&gt;
 &lt;p&gt;Use this button to report an issue in the main
 application.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Aplicación principal&lt;/h4&gt;
+
+&lt;p&gt;Utilice este botón para informar de un problema en la aplicación principal. &lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="123"/>
         <source>Main application</source>
-        <translation type="unfinished"></translation>
+        <translation>Applicación principal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="132"/>
@@ -294,22 +305,27 @@ application.&lt;/p&gt;
 (such as wrong missing airspaces, wrong vertical limits,
 …), then please use the buttons below.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Airspaces&lt;/h4&gt;
+
+&lt;p&gt;&lt;p&gt;Si desea informar problemas con los espacios aéreos
+(como espacios aéreos faltantes, incorrectos, límites verticales incorrectos,
+…),  utilice los botones a continuación.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="146"/>
         <source>Flight Information Regions</source>
-        <translation type="unfinished"></translation>
+        <translation>Región de información de vuelo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="155"/>
         <source>Nature Reserve Areas</source>
-        <translation type="unfinished"></translation>
+        <translation>Áreas de Reserva Natural</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="164"/>
         <source>All Other Airspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Todos los otros espacios aéreos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="173"/>
@@ -321,34 +337,41 @@ data (such as wrong airfield frequencies, outdated traffic
 patterns, missing navaids,…), then please use the buttons
 below.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Datos de aviación&lt;/h4&gt;
+
+&lt;p&gt;Si desea informar problemas con otros datos 
+(como frecuencias de aeródromo incorrectas, patrones de tráfico desactualizado, ayudas a la navegación que faltan,...),
+ utilice los botones abajo.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="188"/>
         <source>Airfields</source>
-        <translation type="unfinished"></translation>
+        <translation>Aeródromo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="197"/>
         <source>NavAids</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayudas a la navegación</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="206"/>
         <source>Procedures/Traffic circuits</source>
-        <translation type="unfinished"></translation>
+        <translation>Circuito de tráfico aeréo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="215"/>
         <source>Reporting points</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos de notificación</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="224"/>
         <source>
 &lt;h4&gt;Thank you for your help!&lt;/h4&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Muchas gracias por vuestra ayuda!&lt;/h4&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="268"/>
@@ -372,24 +395,42 @@ not, please open a new issue. If you prefer to work on
 your desktop computer, you can also send yourself a link to
 GitHub by e-mail.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Informar de un error o hacer una sugerencia de mejora&lt;/h3&gt;
+
+&lt;h4&gt;Problema en la aplicación principal&lt;/h4&gt;
+
+&lt;p&gt;Como muchos otros proyectos de software, los desarrolladores de
+&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; utilizan es servicio web 
+&lt;a href=&apos;https://github.com&apos;&gt;GitHub&lt;/a&gt; para
+coordinar el trabajo. Le solicitamos que use GitHub para
+envíar su informe. Esto asegurará que su informe
+llegará a las personas adecuadas, que su informe no será
+olvidado y que se le notificará sobre cualquier
+progreso.&lt;/p&gt;
+
+&lt;p&gt;Por favor utilice el botón a continuación para ir a nuestra pagina de GitHub
+para signalar errores y verifique si el problema ya ha sido reportado. Si
+no a sido signalado, por favor abra un nuevo informe. Si prefiere trabajar en
+su computadora de escritorio, también puede enviarse a sí mismo un enlace a
+GitHub por correo electrónico.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="296"/>
         <source>Open GitHub Issue Page</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la pagina des informes de GitHub </translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="305"/>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="406"/>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="660"/>
         <source>Send link by e-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar el enlae por correo electrónico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="309"/>
         <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to GitHub: https://github.com/Akaflieg-Freiburg/enroute/issues</source>
-        <translation type="unfinished"></translation>
+        <translation>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to GitHub: https://github.com/Akaflieg-Freiburg/enroute/issues</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="314"/>
@@ -410,7 +451,22 @@ comes first!&lt;/p&gt;
 
 &lt;h3&gt;Thank you for your help!&lt;/h3&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Si tiene dificultades con GitHub, puede contactar
+&lt;a href=&apos;mailto:ms@squawk-vfr.de?subject=Enroute Flight
+Navigation, Issue Report&apos;&gt;Markus Sachs&lt;/a&gt; por correo electrónico.
+Markus se ha ofrecido amablemente como voluntario para ayudar a nuestros usuarios en su
+tiempo libre. Habla inglés y alemán.&lt;/p&gt;
+
+&lt;p&gt;Tengan en cuenta que &lt;strong&gt;Enroute Flight
+Navigation&lt;/strong&gt; está escrito por un grupo muy pequeño de
+aficionados a los vuelos en su tiempo libre, como un servicio a
+la comunidad. El desarrollo de software de calidad lleva tiempo,
+y le pedimos que comprenda que no somos
+capaz de implementar todas las solicitudes de funciones. La corrección de errores siempre
+es lo primero!&lt;/p&gt;
+
+&lt;h3&gt;¡Gracias por tu ayuda!&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="373"/>
@@ -430,17 +486,31 @@ suggestion is approved, the correction will appear in
 &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; within a
 week.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Informar de un error o hacer una sugerencia de mejora&lt;/h3&gt;
+
+&lt;h4&gt;Datos de aviación&lt;/h4&gt;
+
+&lt;p&gt;Los datos de aviación en cuestión en su informe provienen de
+&lt;a&gt;href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt;, es una plataforma libre de base de datos por la de aviación
+operada por Garrecht Avionik GmbH en Alemania.&lt;/p&gt;
+
+&lt;p&gt;Para corregir los datos en openAIP, solicitamos su ayuda.
+Vaya al sitio web de openAIP, cree una cuenta. 
+A continuación, puede sugerir correcciones. Una vez que su
+sugerencia sea aprobada, la corrección aparecerá en
+&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; dentro de un
+semana.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="397"/>
         <source>Open openAIP web site</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir la pagina web de open AIP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="410"/>
         <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to openAIP: https//openaip.net</source>
-        <translation type="unfinished"></translation>
+        <translation>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to openAIP: https//openaip.net</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="416"/>
@@ -514,23 +584,53 @@ following countries?&lt;/p&gt;
 &lt;li&gt;Sweden&lt;/li&gt;
 &lt;li&gt;Switzerland&lt;/li&gt;
 &lt;/ul&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Informar de un error o hacer una sugerencia de mejora&lt;/h3&gt;
+
+&lt;h4&gt;Datos de aviación&lt;/h4&gt;
+
+&lt;p&gt;¿Su informe se refiere a datos de aviación en uno de los
+siguientes países?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Austria&lt;/li&gt;
+&lt;li&gt;Bélgica&lt;/li&gt;
+&lt;li&gt;Bulgaria&lt;/li&gt;
+&lt;li&gt;Croacia&lt;/li&gt;
+&lt;li&gt;República Checa&lt;/li&gt;
+&lt;li&gt;Dinamarca&lt;/li&gt;
+&lt;li&gt;Finlandia&lt;/li&gt;
+&lt;li&gt;Alemania&lt;/li&gt;
+&lt;li&gt;Grecia&lt;/li&gt;
+&lt;li&gt;Hungría&lt;/li&gt;
+&lt;li&gt;Italia&lt;/li&gt;
+&lt;li&gt;Namibia&lt;/li&gt;
+&lt;li&gt;Países Bajos&lt;/li&gt;
+&lt;li&gt;Malta&lt;/li&gt;
+&lt;li&gt;Polonia&lt;/li&gt;
+&lt;li&gt;Rumanía&lt;/li&gt;
+&lt;li&gt;Eslovaquia&lt;/li&gt;
+&lt;li&gt;Eslovenia&lt;/li&gt;
+&lt;li&gt;Sudáfrica&lt;/li&gt;
+&lt;li&gt;Suecia&lt;/li&gt;
+&lt;li&gt;Suiza&lt;/li&gt;
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="571"/>
         <source>Yes</source>
-        <translation type="unfinished"></translation>
+        <translation>Si</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="580"/>
         <source>No</source>
-        <translation type="unfinished"></translation>
+        <translation>No</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="589"/>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="669"/>
         <source>&lt;h3&gt;Thank you for your help!&lt;/h3&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Muchas gracias por vuestra ayuda!&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="629"/>
@@ -553,12 +653,12 @@ computer, you can also send yourself a link by e-mail.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="651"/>
         <source>Open error report form</source>
-        <translation type="unfinished"></translation>
+        <translation>Informe para signalar un error</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="664"/>
         <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to open flightmaps error report form: https://docs.google.com/a/openflightmaps.org/forms/d/e/1FAIpQLSeBiqRbqioUaAp6H-FUtYMFduLGQmzOm1G3Dxyh2XALl5r3Nw/viewform</source>
-        <translation type="unfinished"></translation>
+        <translation>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to open flightmaps error report form: https://docs.google.com/a/openflightmaps.org/forms/d/e/1FAIpQLSeBiqRbqioUaAp6H-FUtYMFduLGQmzOm1G3Dxyh2XALl5r3Nw/viewform</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="712"/>
