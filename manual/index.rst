@@ -2,6 +2,9 @@
 Enroute Flight Navigation
 #########################
 
+Introduction
+------------
+
 **Enroute Flight Navigation** is a free flight navigation app for Android and
 other devices.  Designed to be simple, functional and elegant, it takes the
 stress out of your next flight. The program has been written by flight
@@ -30,29 +33,23 @@ airfields for landing, complete with distances, directions, runway information
 and frequencies.
 
 
-Program version
----------------
-
 This manual describes program version 2.23.0.
 
 
-Table of contents
------------------
-
-.. raw:: latex
-   \part{Getting started}
-   
+Getting Started
+---------------
+  
 .. toctree::
-   :maxdepth: 1
-   :caption: Getting started
+   :maxdepth: 2
    :name: sec-intro
 
    01-intro/01-think
    01-intro/02-installation
    01-intro/03-firstFlight
 
-.. raw:: latex
-   \part{Further Steps}
+
+Further Steps
+-------------
 
 .. toctree::
    :maxdepth: 1
@@ -67,6 +64,10 @@ Table of contents
    02-steps/simulator
    02-steps/donate
 
+
+Advanced Use
+------------
+
 .. toctree::
    :maxdepth: 1
    :caption: Advanced Use
@@ -74,21 +75,23 @@ Table of contents
 
    02-advanced/customMaps
    
-.. raw:: latex
-   \part{Reference manual}
-   
+
+Reference: Pages
+----------------
+
 .. toctree::
    :maxdepth: 1
-   :caption: Reference: Pages
    :name: sec-referencePages
     
    03-reference/mainPage
    03-reference/settings
 
 
+Reference: Other
+----------------
+
 .. toctree::
    :maxdepth: 1
-   :caption: Reference: Other
    :name: sec-reference
     
    03-reference/mapData
@@ -96,9 +99,8 @@ Table of contents
    03-reference/Airspace
 
    
-.. raw:: latex
-
-   \part{Appendix}   
+Appendix
+--------
   
 .. toctree::
    :maxdepth: 1
