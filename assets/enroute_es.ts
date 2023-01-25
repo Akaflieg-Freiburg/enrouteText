@@ -1087,7 +1087,7 @@ no better news.&lt;/p&gt;
         <location filename="../../../src/qml/items/DegreeInput.qml" line="198"/>
         <location filename="../../../src/qml/items/DegreeInput.qml" line="217"/>
         <source>undefined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">indefinido</translation>
     </message>
 </context>
 <context>
@@ -1147,7 +1147,7 @@ with the bank account data.
         <location filename="../../../src/qml/items/ElevationInput.qml" line="59"/>
         <location filename="../../../src/qml/items/ElevationInput.qml" line="87"/>
         <source>undefined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">indefinido</translation>
     </message>
 </context>
 <context>
@@ -1226,12 +1226,12 @@ with the bank account data.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="230"/>
         <source>View Library…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ver biblioteca</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="239"/>
         <source>Save to library…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Guardar la biblioteca</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="253"/>
@@ -1337,7 +1337,7 @@ with the bank account data.
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="529"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="609"/>
         <source>undefined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">indefinido</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="546"/>
@@ -1460,12 +1460,12 @@ with the bank account data.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="276"/>
         <source>Rename…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Renombrar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="288"/>
         <source>Remove…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eliminar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="333"/>
@@ -1485,7 +1485,7 @@ with the bank account data.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="362"/>
         <source>An Error Occurred…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ocurrió un error…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="393"/>
@@ -1500,7 +1500,7 @@ with the bank account data.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="418"/>
         <source>Remove from Device?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">¿Quitar del dispositivo?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="425"/>
@@ -1530,7 +1530,7 @@ with the bank account data.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="481"/>
         <source>Rename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Renombrar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="491"/>
@@ -1553,7 +1553,7 @@ with the bank account data.
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="64"/>
         <source>Enter a name or choose an existing name from the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ingrese un nombre o elija un nombre existente de la lista a continuación.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="75"/>
@@ -1568,7 +1568,7 @@ with the bank account data.
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="148"/>
         <source>An Error Occurred…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ocurrió un error…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="186"/>
@@ -3533,7 +3533,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="108"/>
         <source>Aircraft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avion</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="111"/>
@@ -3606,7 +3606,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="67"/>
         <source>Aircraft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avion</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="70"/>
@@ -3849,7 +3849,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="494"/>
         <source>Remove…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eliminar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="512"/>
@@ -3884,7 +3884,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="600"/>
         <source>Remove from Device?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">¿Quitar del dispositivo?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="605"/>
@@ -3907,13 +3907,13 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="84"/>
         <source>Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nombre</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="97"/>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="114"/>
         <source>undefined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">indefinido</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="102"/>
@@ -3963,7 +3963,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="201"/>
         <source>Feet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pies</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="201"/>
@@ -4057,7 +4057,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="284"/>
         <source>Remove…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Eliminar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="335"/>
@@ -4077,7 +4077,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="369"/>
         <source>Remove from Device?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">¿Quitar del dispositivo?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="376"/>
@@ -7105,7 +7105,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <location filename="../../../src/qml/main.qml" line="124"/>
         <location filename="../../../src/qml/main.qml" line="212"/>
         <source>Aircraft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Avion</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="141"/>
