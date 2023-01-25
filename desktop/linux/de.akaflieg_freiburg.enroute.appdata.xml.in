@@ -7,9 +7,10 @@
   <name>Enroute Flight Navigation</name>
   <summary>A flight navigation app for VFR pilots</summary>
   <summary xml:lang="de">Flugnavigation für VFR-Piloten</summary>
+  <summary xml:lang="es">Una aplicación de navegación de vuelos para pilotos VFR</summary>
   <summary xml:lang="fr">Une application de navigation VFR</summary>
-  <summary xml:lang="pl">Aplikacja do nawigacji lotniczej dla pilotów VFR</summary>
   <summary xml:lang="it">Un'app di navigazione di volo per i piloti VFR</summary>
+  <summary xml:lang="pl">Aplikacja do nawigacji lotniczej dla pilotów VFR</summary>
   <description>
     <p>Enroute Flight Navigation is a flight navigation app for VFR pilots. The
     app runs primarily on mobile devices.  It is free, open source, 100%
@@ -22,22 +23,28 @@
     Benutzerdaten. Diese Desktop-Version der App taugt kaum für die Navigation
     in der Luft, könnte aber zur Planung des nächsten Flugs an einem großen
     Bildschirm verwendet werden.</p>
+    <p xml:lang="es">Enroute Flight Navigation es una aplicación de navegación
+    de vuelo para pilotos VFR.  La aplicación se ejecuta principalmente en
+    dispositivos móviles. Es gratis, de código abierto, 100% no comercial y no
+    recopila datos de los usuarios. Esta versión de escritorio de la aplicación
+    ha sido diseñada para ayudarles a prepararse para su próximo vuelo.</p>
     <p xml:lang="fr">Enroute Flight Navigation est une application de navigation
     destinée aux pilotes VFR.  L'application est conçue principalement pour les
     appareils mobiles.  Elle est gratuite, open source, 100% non-commerciale et
     ne collècte aucune donnée.  Cette version de bureau a été conçue pour vous
     aider à préparer votre prochain vol sur grand écran.</p>
+    <p xml:lang="it">Enroute Flight Navigation è un'app di navigazione di volo
+    per i piloti VFR.  l'app viene eseguita prevalentemente nei dispositivi
+    mobili. È gratuita, open source, 100% non commerciale e non raccoglie dati
+    degli utenti. Questa versione desktop dell'app è difficilmente utile per la
+    navigazione effettiva, ma potrebbe essere utilizzata per pianificare il tuo
+    prossimo volo.</p>
     <p xml:lang="pl">Enroute Flight Navigation to aplikacja do nawigacji
     lotniczej dla pilotów VFR. Aplikacja działa głównie na urządzeniach
     mobilnych. Jest bezpłatna, z otwartym kodem źródłowym, w 100% niekomercyjna
     i nie gromadzi danych użytkowników. Ten skrót do wersji aplikacji jest mało
     przydatny do rzeczywistej nawigacji, ale może być używany aby zaplanować
     następny lot na dużym ekranie komputera.</p>
-	<p xml:lang="it">Enroute Flight Navigation è un'app di navigazione di volo per i piloti VFR.
-	l'app viene eseguita prevalentemente nei dispositivi mobili. È gratuita, open source, 100%
-    non commerciale e non raccoglie dati degli utenti. Questa versione desktop dell'app è 
-	difficilmente utile per la navigazione effettiva, ma potrebbe essere utilizzata per pianificare il tuo
-    prossimo volo.</p>
   </description>
   <content_rating type="oars-1.1" />
   <releases>
