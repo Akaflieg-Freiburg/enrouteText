@@ -492,7 +492,7 @@ week.&lt;/p&gt;
 &lt;h4&gt;Datos de aviación&lt;/h4&gt;
 
 &lt;p&gt;Los datos de aviación en cuestión en su informe provienen de
-&lt;a&gt;href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt;, es una plataforma libre de base de datos por la de aviación
+&lt;a&gt;href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt;, una plataforma libre de base de datos por la aviación
 operada por Garrecht Avionik GmbH en Alemania.&lt;/p&gt;
 
 &lt;p&gt;Para corregir los datos en openAIP, solicitamos su ayuda.
@@ -524,7 +524,14 @@ time. Peter speaks English and German.&lt;/p&gt;
 
 &lt;h3&gt;Thank you for your help!&lt;/h3&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Si tiene dificultades con el sitio web de openAIP, puede contactar
+&lt;a href=&apos;mailto:peter.kemme@openflightmaps.org?subject=Enroute
+Flight Navigation, informe de problemas&apos;&gt;Peter Kemme&lt;/a&gt; por correo electrónico,
+quien amablemente se ha ofrecido como voluntario para ayudar a nuestros usuarios en su tiempo  libre
+Peter habla inglés y alemán.&lt;/p&gt;
+
+&lt;h3&gt;¡Gracias su ayuda!&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="468"/>
@@ -549,7 +556,26 @@ discuss your issue in the forum there.&lt;/p&gt;
 
 &lt;h3&gt;Thank you for your help!&lt;/h3&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Informar de un error o hacer una sugerencia de mejora&lt;/h3&gt;
+
+&lt;h4&gt;Datos del espacio aéreo&lt;/h4&gt;
+
+&lt;p&gt;Los datos de los espacios aéreos en &lt;strong&gt;Enroute Flight
+Navigation&lt;/strong&gt; proviene de
+&lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt;, una plataforma libre de base de datos por la aviación
+operada por Garrecht Avionik GmbH en Alemania.&lt;/p&gt;
+
+&lt;p&gt;Los datos de los espacios aéreos solo pueden ser editados por los administradores
+de openAIP. Por favor contacten con
+&lt;a href=&apos;mailto:peter.kemme@openflightmaps.org?subject=Enroute
+Flight Navigation, Issue Report&apos;&gt;Peter Kemme&lt;/a&gt; por correo electrónico,
+que conoce openAIP y se ha ofrecido amablemente como voluntario para ayudar a nuestros
+usuarios en su tiempo libre. Peter habla inglés y alemán.
+Alternativamente, puede abrir una cuenta con openAIP y
+discutir su problema en el foro.&lt;/p&gt;
+
+&lt;h3&gt;¡Gracias por su ayuda!&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="532"/>
@@ -648,7 +674,19 @@ by the open flightmaps association in Austria.&lt;/p&gt;
 report your issue. If you prefer to work on your desktop
 computer, you can also send yourself a link by e-mail.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+h3&gt;Informar de un error o hacer una sugerencia de mejora&lt;/h3&gt;
+
+&lt;h4&gt;Datos de los espacios aéreos&lt;/h4&gt;
+
+&lt;p&gt;Los datos de aviación en cuestión en su informe provienen de
+&lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;abrir
+flightmaps&lt;/a&gt;, una base de datos de aviación de código abierto operada
+por la asociación open flightmaps en Austria.&lt;/p&gt;
+
+&lt;p&gt;Por favor, utilice el formulario de informe de errores en open flightmaps para
+informar de su problema. Si prefiere trabajar en su
+ordenador, también puede enviarse un enlace a sí mismo por correo electrónico.&lt;/p</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="651"/>
@@ -676,7 +714,18 @@ type of information that we could use in our app.&lt;/p&gt;
 &lt;p&gt;There is nothing that we can do. We regret that we have
 no better news.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Informar de un error o hacer una sugerencia de mejora&lt;/h3&gt;
+
+&lt;h4&gt;Datos de aviación&lt;/h4&gt;
+
+&lt;p&gt;Los datos de aviación que ha mencionado (trámites o
+puntos de notificación) está disponible en open flightmaps para
+algunas regiones, pero no para su país. No somos conscientes de
+cualquier fuente gratuita, disponible públicamente para este
+tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
+
+&lt;p&gt;No hay nada que podamos hacer. Lamentamos las molestias.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -684,7 +733,7 @@ no better news.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="231"/>
         <source>Manually Imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Importado manualmente</translation>
     </message>
 </context>
 <context>
@@ -692,17 +741,17 @@ no better news.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="151"/>
         <source>Unable to recognize map file format.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede reconocer el formato de archivo de mapa</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="156"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede crear el directorio &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="163"/>
         <source>Unable to copy map file to data directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede copiar el archivo de mapa al directorio de datos.</translation>
     </message>
 </context>
 <context>
@@ -711,37 +760,37 @@ no better news.&lt;/p&gt;
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="48"/>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="86"/>
         <source>Aviation Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa de aviación</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="51"/>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="92"/>
         <source>Base Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa de base</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="54"/>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="89"/>
         <source>Raster Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa ráster</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="57"/>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="95"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="60"/>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="101"/>
         <source>Terrain Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa del terreno</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="63"/>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="98"/>
         <source>Map Set</source>
-        <translation type="unfinished"></translation>
+        <translation>Conjuntos de mapa</translation>
     </message>
 </context>
 <context>
@@ -972,22 +1021,22 @@ no better news.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="55"/>
         <source>Enroute is unable to establish a secure internet connection to one or several servers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute no puede establecer una conexión segura a Internet con uno o varios servidores.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="63"/>
         <source>You can choose to ignore this warning in the future and to connect anyway. This will however leave the data transfer open to tampering and manipulation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puede optar por ignorar esta advertencia en el futuro y conectarse de todos modos. Sin embargo, esto dejará la transferencia de datos abierta a la manipulación.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="67"/>
         <source>On older Android devices, the problem is most likely caused by outdated security certificates in your system.  Certificates can only be installed by the hardware manufacturer via system updates. If your device has not received any system security updates in a while, then secure internet connections are no longer possible. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteText/manual/03-reference/platform.html#network-security-problems&apos;&gt;See the platform notes in the manual&lt;/a&gt; for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>En dispositivos Android más antiguos, lo más probable es que el problema se deba a certificados de seguridad obsoletos en su sistema. Los certificados solo pueden ser instalados por el fabricante del hardware a través de actualizaciones del sistema. Si su dispositivo no ha recibido ninguna actualización de seguridad del sistema durante un tiempo, entonces ya no es posible realizar conexiones seguras a Internet. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteText/manual/03-reference/platform.html#network-security-problems&apos;&gt; Consulte las notas de la plataforma en el manual&lt;/a&gt; para obtener más detalles .</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="76"/>
         <source>On recent devices, this problem is a strong indication that your internet connection is being manipulated.</source>
-        <translation type="unfinished"></translation>
+        <translation>En dispositivos recientes, este problema es una fuerte indicación de que su conexión a Internet está siendo manipulada</translation>
     </message>
 </context>
 <context>
@@ -995,7 +1044,7 @@ no better news.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/UpdateNotifier.cpp" line="76"/>
         <source>The estimated download size is %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>El tamaño estimado de descarga es %1.</translation>
     </message>
 </context>
 <context>
@@ -1087,7 +1136,7 @@ no better news.&lt;/p&gt;
         <location filename="../../../src/qml/items/DegreeInput.qml" line="198"/>
         <location filename="../../../src/qml/items/DegreeInput.qml" line="217"/>
         <source>undefined</source>
-        <translation type="unfinished">indefinido</translation>
+        <translation>indefinido</translation>
     </message>
 </context>
 <context>
@@ -1095,7 +1144,7 @@ no better news.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="31"/>
         <source>Donate</source>
-        <translation type="unfinished"></translation>
+        <translation>Donar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="55"/>
@@ -1105,7 +1154,10 @@ BIC:     GENODE61FR1
 Bank:    Volksbank Freiburg
 Message: Enroute Flight Navigation
 </source>
-        <translation type="unfinished"></translation>
+        <translation>IBAN:    DE35 6809 0000 0027 6409 07
+BIC:     GENODE61FR1
+Banco:    Volksbank Freiburg
+Message: Enroute Flight Navigation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="67"/>
@@ -1128,17 +1180,34 @@ If you prefer to work on
 your desktop computer, you can also send yourself an e-mail
 with the bank account data.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+**Enroute Flight Navigation** es un
+proyecto no comercial de Akaflieg Freiburg y la
+Universidad de Friburgo. La aplicación ha sido escrita por entusiastas de los vuelos
+ en su tiempo libre, como un servicio a la comunidad.
+ Los desarrolladores no aceptan donaciones.
+
+Si aprecia la aplicación, considere una donación a
+Akaflieg Freiburg, un club de utilidad pública en Friburgo, Alemania
+ con privilegios fiscales y sin fines de lucro.
+
+```
+%1
+```
+
+Si prefiere trabajar con su computadora
+, también puede enviarse un correo electrónico
+con los datos de la cuenta bancaria.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="97"/>
         <source>Send e-mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Enviar por correo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="102"/>
         <source>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</source>
-        <translation type="unfinished"></translation>
+        <translation>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</translation>
     </message>
 </context>
 <context>
@@ -1147,7 +1216,7 @@ with the bank account data.
         <location filename="../../../src/qml/items/ElevationInput.qml" line="59"/>
         <location filename="../../../src/qml/items/ElevationInput.qml" line="87"/>
         <source>undefined</source>
-        <translation type="unfinished">indefinido</translation>
+        <translation>indefinido</translation>
     </message>
 </context>
 <context>
@@ -1155,12 +1224,12 @@ with the bank account data.
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="33"/>
         <source>Accept</source>
-        <translation type="unfinished"></translation>
+        <translation>Acceptar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="37"/>
         <source>Reject</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechazar</translation>
     </message>
 </context>
 <context>
@@ -1168,27 +1237,27 @@ with the bank account data.
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="32"/>
         <source>Add Waypoint to Route</source>
-        <translation type="unfinished"></translation>
+        <translation>Agregar Waypoint a la Ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="61"/>
         <source>Choose a waypoint from the list below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija un waypoint de la siguiente lista.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="72"/>
         <source>Filter Waypoint Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar los nombres de Waypoint</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="106"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay waypoints disponibles. Asegúrese de tener instalado un mapa de aviación.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="107"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;Ningún waypoint coincide con sus criterios de filtro.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -1226,12 +1295,12 @@ with the bank account data.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="230"/>
         <source>View Library…</source>
-        <translation type="unfinished">Ver biblioteca</translation>
+        <translation>Ver biblioteca</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="239"/>
         <source>Save to library…</source>
-        <translation type="unfinished">Guardar la biblioteca</translation>
+        <translation>Guardar la biblioteca</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="253"/>
@@ -1586,12 +1655,12 @@ with the bank account data.
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="81"/>
         <source>Aviation maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapas de navegación aérea</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="101"/>
         <source>Basemap</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa base</translation>
     </message>
 </context>
 <context>
@@ -2128,7 +2197,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/pages/Manual.qml" line="31"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Manual</translation>
     </message>
 </context>
 <context>
@@ -2136,7 +2205,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/pages/MapPage.qml" line="33"/>
         <source>Moving Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa móvil</translation>
     </message>
 </context>
 <context>
@@ -2144,7 +2213,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/dialogs/MissingPermissionsDialog.qml" line="32"/>
         <source>Close App</source>
-        <translation type="unfinished"></translation>
+        <translation>Cerrar la aplicación</translation>
     </message>
 </context>
 <context>
