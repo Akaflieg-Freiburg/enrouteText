@@ -1093,7 +1093,7 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="290"/>
         <source>Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Datos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManager.qml" line="377"/>
@@ -2758,7 +2758,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
         <source>Moving Map</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapa móvil</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="127"/>
@@ -4121,7 +4121,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="226"/>
         <source>Filter Waypoint Names</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Filtrar los nombres de Waypoint</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="284"/>
@@ -4136,7 +4136,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="336"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;Ningún waypoint coincide con sus criterios de filtro.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="352"/>
@@ -7274,12 +7274,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="388"/>
         <source>Donate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Donar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="408"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manual</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="421"/>
