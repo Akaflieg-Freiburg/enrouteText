@@ -2549,7 +2549,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="45"/>
         <source>unknown network name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de red desconocido</translation>
     </message>
 </context>
 <context>
@@ -3046,7 +3046,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <location filename="../../../src/traffic/FlarmnetDB.cpp" line="87"/>
         <location filename="../../../src/traffic/FlarmnetDB.cpp" line="128"/>
         <source>Placeholder file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de marcador de posición.</translation>
     </message>
 </context>
 <context>
@@ -3586,7 +3586,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.h" line="68"/>
         <source>TCP connection to %1 port %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexion TCP desde la puerta %1 a la puerta %2</translation>
     </message>
 </context>
 <context>
@@ -3594,7 +3594,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Udp.h" line="66"/>
         <source>UDP connection to port %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexion UDP a la puerta %1</translation>
     </message>
 </context>
 <context>
@@ -3844,7 +3844,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/units/Angle.cpp" line="37"/>
         <source>%1 o&apos;clock</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 o&apos;clock</translation>
     </message>
 </context>
 <context>
@@ -7106,23 +7106,23 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="351"/>
         <source>Waiting for precise position…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Esperando la posición precisa ...</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="399"/>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="404"/>
         <source>SR %1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>SR %1, %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="402"/>
         <source>SS %1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>SS %1, %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="446"/>
         <source>QNH: %1 hPa in %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>QNH: %1 hPa in %2, %3</translation>
     </message>
 </context>
 <context>
