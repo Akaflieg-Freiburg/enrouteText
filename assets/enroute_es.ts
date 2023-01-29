@@ -1653,14 +1653,42 @@ con los datos de la cuenta bancaria.</translation>
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="81"/>
         <source>Aviation maps</source>
-        <translation>Mapas de navegación aérea</translation>
+        <translation type="vanished">Mapas de navegación aérea</translation>
+    </message>
+    <message>
+        <source>Basemap</source>
+        <translation type="vanished">Mapa base</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="81"/>
+        <source>Aviation Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="82"/>
+        <source>The aeronautical maps are compiled from databases provided by the &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt; projects.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="92"/>
+        <source>Base Maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="93"/>
+        <source>The base maps are generated from &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt; data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="100"/>
+        <source>Terrain Maps</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="101"/>
-        <source>Basemap</source>
-        <translation>Mapa base</translation>
+        <source>The terrain maps are derived from the &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
