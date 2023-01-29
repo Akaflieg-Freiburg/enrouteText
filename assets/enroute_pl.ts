@@ -2428,7 +2428,9 @@ z danymi konta bankowego.
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato and Luca Riva. Both are private pilots and aerospace engineers. Luca is also doing aerobatics.&lt;/li&gt;
 </source>
-        <translation>&lt;li&gt;&lt;strong&gt;Francuski:&lt;/strong&gt; Adrien Crovato i Luca Riva. Obaj są prywatnymi pilotami i inżynierami lotniczymi. Luca zajmuje się również akrobacją lotniczą.&lt;/li&gt;</translation>
+        <translation>
+&lt;li&gt;&lt;strong&gt;Francuski:&lt;/strong&gt; Adrien Crovato i Luca Riva. Obaj są prywatnymi pilotami i inżynierami lotniczymi. Luca zajmuje się również akrobacją lotniczą.&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="90"/>
