@@ -1480,7 +1480,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="183"/>
         <source>… to GeoJSON file</source>
-        <translation type="unfinished">... el fichero GeoJSON </translation>
+        <translation>... el fichero GeoJSON </translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="192"/>
@@ -1524,17 +1524,17 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="254"/>
         <source>… in GPX format</source>
-        <translation type="unfinished">en el formato GPX ...</translation>
+        <translation>en el formato GPX ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="276"/>
         <source>Rename…</source>
-        <translation type="unfinished">Renombrar...</translation>
+        <translation>Renombrar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="288"/>
         <source>Remove…</source>
-        <translation type="unfinished">Eliminar...</translation>
+        <translation>Eliminar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="333"/>
@@ -2145,37 +2145,39 @@ con los datos de la cuenta bancaria.</translation>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the menu button in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;No hay ningún mapa de aviación instalado.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Para instalar un mapa, abra el menú usando el botón de menú en la esquina superior izquierda de esta pantalla.
+Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la página de administración de mapas.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="546"/>
         <source>Airspaces up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Espacios aéreo hasta %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="595"/>
         <source>Map Mode: Track Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa en modo: Seguimiento</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="598"/>
         <source>Map Mode: North Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa en modo: Norte arriba</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="622"/>
         <source>Map Mode: Autopan</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa en modo: paneo automático</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="744"/>
         <source>Map Data Copyright Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Información de derechos de autor de los datos del mapa</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="749"/>
         <source>Map Data Copyright Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Información de derechos de autor de los datos del mapa</translation>
     </message>
 </context>
 <context>
@@ -2207,27 +2209,27 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="59"/>
         <source>just now</source>
-        <translation type="unfinished"></translation>
+        <translation>justo ahora</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="73"/>
         <source>%1 ago</source>
-        <translation type="unfinished"></translation>
+        <translation>hace %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="75"/>
         <source>in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>en 1%</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="93"/>
         <source>yesterday %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ayer %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="97"/>
         <source>tomorrow %1</source>
-        <translation type="unfinished"></translation>
+        <translation>mañana %1</translation>
     </message>
 </context>
 <context>
@@ -2294,22 +2296,22 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="337"/>
         <source>Cruise speed not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidad de crucero no especificada.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="341"/>
         <source>Wind speed not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidad del viento no especificada</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="345"/>
         <source>Wind direction not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dirección del viento no especificada</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Navigator.cpp" line="349"/>
         <source>Computation incomplete. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Cálculo incompleto. %1</translation>
     </message>
 </context>
 <context>
@@ -2317,37 +2319,37 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="33"/>
         <source>Nearby Waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos de ruta cercanos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="48"/>
         <source>AD</source>
-        <translation type="unfinished"></translation>
+        <translation>AD</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="49"/>
         <source>NAV</source>
-        <translation type="unfinished"></translation>
+        <translation>NAV</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="50"/>
         <source>REP</source>
-        <translation type="unfinished"></translation>
+        <translation>REP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="131"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aerodrome data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay datos de aeródromo disponibles. Asegúrese de tener instalado un mapa de aviación.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="153"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No navaid data available.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay datos de ayuda a la navegación disponibles.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="175"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No reporting point data available.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay datos de puntos de notificación disponibles.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -2355,7 +2357,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/pages/ParticipatePage.qml" line="31"/>
         <source>Participate</source>
-        <translation type="unfinished"></translation>
+        <translation>Participar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ParticipatePage.qml" line="51"/>
@@ -2390,7 +2392,33 @@ like to port the app to iOS and if you have development
 experience with C++/Qt programming and with Apple systems,
 please get in touch with us by opening a GitHub issue.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Participe en el desarrollo&lt;/h3&gt;
+
+&lt;p&gt;Tenemos grandes planes para &lt;strong&gt;Enroute Flight
+Navigatio&lt;/strong&gt;, consulte nuestro proyecto en GitHub
+&lt;a href=&apos;https://github.com/Akaflieg-Freiburg/enroute/projects&apos;&gt;
+&lt;/a&gt; para conocer los desarrollos futuros.&lt;/p&gt;
+
+&lt;h3&gt;Traducir&lt;/h3&gt;
+
+&lt;p&gt;Si sabe cómo usar el sistema de control de versiones GIT y si
+le gustaría traducir la aplicación a su idioma, nos gustaría saber de usted.
+No se necesita ninguna experienca en programación, se necesitan solamente algunas habilidades informáticas.&lt;/p&gt;
+
+&lt;h3&gt;Únete al desarrollo&lt;/h3&gt;
+
+&lt;p&gt;Si domina C++ y desea ayudar
+con la programación, por favor póngase en contacto con nosotros
+abriendo una solicitud en GitHub. También estamos luchando con la gestión en Android
+y estaríamos agradecido por cualquier ayuda.
+&lt;/p&gt;
+
+&lt;h3&gt;Dispositivos iOS&lt;/h3&gt;
+
+&lt;p&gt;Esta aplicación debería funcionar bien en dispositivos Apple. 
+Si quiere amellorar la applicacion iOS y si tiene
+experiencia de programación C++/Qt y experiencia con el sistemas Apple,
+por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -2399,17 +2427,17 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="34"/>
         <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="51"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Contraseña</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="42"/>
         <source>Enter the password for the traffic data receiver in the WiFi network &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca la contrassena por el receptor de datos de tráfico en la red WiFi &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordDialog.qml" line="57"/>
         <source>Show clear text</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar texto en claro</translation>
     </message>
 </context>
 <context>
@@ -7092,7 +7120,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="351"/>
         <source>Waiting for precise position…</source>
-        <translation type="unfinished">Esperando la posición precisa ...</translation>
+        <translation>Esperando la posición precisa ...</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="399"/>
