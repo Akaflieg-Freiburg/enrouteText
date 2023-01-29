@@ -2064,32 +2064,32 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="81"/>
         <source>Aviation Maps</source>
-        <translation type="unfinished">Luftfahrtkarten</translation>
+        <translation>Luftfahrtkarten</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="82"/>
         <source>The aeronautical maps are compiled from databases provided by the &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt; projects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Luftfahrtkarten entstammen Datenbanken der Projekte &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; und &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="92"/>
         <source>Base Maps</source>
-        <translation type="unfinished">Basiskarten</translation>
+        <translation>Basiskarten</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="93"/>
         <source>The base maps are generated from &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt; data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Basiskarten werden aus &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt; -Daten erzeugt.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="100"/>
         <source>Terrain Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Terrain-Karten</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="101"/>
         <source>The terrain maps are derived from the &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Terrainkarten werden aus dem &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt; abgeleitet.</translation>
     </message>
 </context>
 <context>
