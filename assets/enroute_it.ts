@@ -2271,44 +2271,59 @@ con i dati del conto bancario.
 <context>
     <name>InfoPage</name>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="31"/>
         <source>About Enroute Flight Navigation</source>
-        <translation>Informazioni su Enroute Flight Navigation</translation>
+        <translation type="vanished">Informazioni su Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="46"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="32"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="231"/>
+        <source>About EFN</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="98"/>
         <source>Authors</source>
         <translation>Autori</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="47"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="99"/>
         <source>License</source>
         <translation>Licenza</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="48"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="100"/>
         <source>System</source>
         <translation>Sistema</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="150"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="202"/>
         <source>Share Info</source>
         <translation>Condividi info</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="155"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="207"/>
         <source>Aborted</source>
         <translation>Annullato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="164"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="216"/>
         <source>System Info Shared</source>
         <translation>Info Sistema condivise</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="166"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="218"/>
         <source>System Info Exported</source>
         <translation>Info Sistema esportate</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="232"/>
+        <source>This page presents four tabs with information about the app, its authors, the software license, and the current system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="233"/>
+        <source>System information can be helpful to the developers when you report a bug. The button &apos;Share Info&apos; at the bottom of the &apos;System&apos; tab can be used to forward this information to the developers.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3431,12 +3446,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Apri l&apos;applicazione</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="194"/>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="205"/>
         <source>Update</source>
         <translation>Aggiorna</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="195"/>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="206"/>
         <source>Dismiss</source>
         <translation>Annulla</translation>
     </message>

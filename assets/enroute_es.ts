@@ -1837,43 +1837,54 @@ con los datos de la cuenta bancaria.</translation>
 <context>
     <name>InfoPage</name>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="31"/>
-        <source>About Enroute Flight Navigation</source>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="32"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="231"/>
+        <source>About EFN</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="46"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="98"/>
         <source>Authors</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="47"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="99"/>
         <source>License</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="48"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="100"/>
         <source>System</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="150"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="202"/>
         <source>Share Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="155"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="207"/>
         <source>Aborted</source>
         <translation type="unfinished">Abortado</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="164"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="216"/>
         <source>System Info Shared</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="166"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="218"/>
         <source>System Info Exported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="232"/>
+        <source>This page presents four tabs with information about the app, its authors, the software license, and the current system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="233"/>
+        <source>System information can be helpful to the developers when you report a bug. The button &apos;Share Info&apos; at the bottom of the &apos;System&apos; tab can be used to forward this information to the developers.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2242,7 +2253,7 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="144"/>
         <source>Cruise speed not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velocidad de crucero no especificada.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="147"/>
@@ -2252,12 +2263,12 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="150"/>
         <source>Wind speed not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velocidad del viento no especificada</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="153"/>
         <source>Wind direction not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dirección del viento no especificada</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="157"/>
@@ -2471,12 +2482,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Platform::FileExchange</name>
     <message>
-        <location filename="../../../src/platform/FileExchange_Android.cpp" line="108"/>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="112"/>
         <source>No suitable file sharing app could be found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Android.cpp" line="123"/>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="128"/>
         <source>No suitable app for viewing this data could be found.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2525,12 +2536,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <name>Platform::Notifier</name>
     <message>
         <location filename="../../../src/platform/Notifier_Android.cpp" line="82"/>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="194"/>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="205"/>
         <source>Update</source>
         <translation type="unfinished">Actualizar</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="195"/>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="206"/>
         <source>Dismiss</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7198,7 +7209,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/main.qml" line="159"/>
         <source>Nearby Waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Puntos de ruta cercanos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="177"/>
@@ -7283,7 +7294,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/main.qml" line="375"/>
         <source>Participate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Participar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="388"/>

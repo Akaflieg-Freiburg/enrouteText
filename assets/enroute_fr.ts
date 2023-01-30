@@ -1830,44 +1830,59 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>InfoPage</name>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="31"/>
         <source>About Enroute Flight Navigation</source>
-        <translation>A propos d&apos;Enroute Flight Navigation</translation>
+        <translation type="vanished">A propos d&apos;Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="46"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="32"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="231"/>
+        <source>About EFN</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="98"/>
         <source>Authors</source>
         <translation>Auteurs</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="47"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="99"/>
         <source>License</source>
         <translation>Licence</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="48"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="100"/>
         <source>System</source>
         <translation>Système</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="150"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="202"/>
         <source>Share Info</source>
         <translation>Partager informations</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="155"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="207"/>
         <source>Aborted</source>
         <translation>Annulé</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="164"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="216"/>
         <source>System Info Shared</source>
         <translation>Informations système partagées</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="166"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="218"/>
         <source>System Info Exported</source>
         <translation>Informations système exportées</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="232"/>
+        <source>This page presents four tabs with information about the app, its authors, the software license, and the current system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="233"/>
+        <source>System information can be helpful to the developers when you report a bug. The button &apos;Share Info&apos; at the bottom of the &apos;System&apos; tab can be used to forward this information to the developers.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2735,12 +2750,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Platform::Notifier</name>
     <message>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="194"/>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="205"/>
         <source>Update</source>
         <translation>Mettre à jour</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/Notifier_Linux.cpp" line="195"/>
+        <location filename="../../../src/platform/Notifier_Linux.cpp" line="206"/>
         <source>Dismiss</source>
         <translation>Ignorer</translation>
     </message>
