@@ -2265,7 +2265,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <location filename="../../../src/qml/pages/InfoPage.qml" line="32"/>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="231"/>
         <source>About EFN</source>
-        <translation type="unfinished"></translation>
+        <translation>Über EFN</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="98"/>
@@ -2305,12 +2305,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="232"/>
         <source>This page presents four tabs with information about the app, its authors, the software license, and the current system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Seite bietet Ihnen vier Reiter mit Infomationen über die App, ihre Autoren, die Softwarelizenz und das aktuelle System.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="233"/>
         <source>System information can be helpful to the developers when you report a bug. The button &apos;Share Info&apos; at the bottom of the &apos;System&apos; tab can be used to forward this information to the developers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wenn Sie uns Fehler melden, sind Systeminformationen für die Entwickler hilfreich. Der Knopf &apos;Info teilen&apos; unten auf dem &apos;System&apos;-Reiter leitet diese Informationen an die Entwickler weiter.</translation>
     </message>
 </context>
 <context>
