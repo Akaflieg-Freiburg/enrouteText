@@ -1222,7 +1222,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="111"/>
         <source>Quit App</source>
-        <translation type="unfinished"></translation>
+        <translation>Quitter la app</translation>
     </message>
     <message>
         <source>Reject</source>
@@ -1841,7 +1841,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <location filename="../../../src/qml/pages/InfoPage.qml" line="32"/>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="241"/>
         <source>About EFN</source>
-        <translation type="unfinished"></translation>
+        <translation>À propos de EFN</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="101"/>
@@ -1881,17 +1881,17 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="234"/>
         <source>Error Exporting Data…</source>
-        <translation type="unfinished">Erreur lors de l&apos;exportation des données...</translation>
+        <translation>Erreur lors de l&apos;exportation des données...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="242"/>
         <source>This page presents four tabs with information about the app, its authors, the software license, and the current system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette page présente quatre onglets contenant des informations sur l&apos;application, ses auteurs, la licence du logiciel et le système actuel.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="243"/>
         <source>System information can be helpful to the developers when you report a bug. The button &apos;Share Info&apos; at the bottom of the &apos;System&apos; tab can be used to forward this information to the developers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les System Information peuvent être utiles aux développeurs lorsque vous signalez un bogue. Le bouton &quot;Partager les informations&quot; en bas de l&apos;onglet &quot;Système&quot; peut être utilisé pour transmettre ces informations aux développeurs.</translation>
     </message>
 </context>
 <context>
@@ -2180,22 +2180,22 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="235"/>
         <source>Privacy Policies</source>
-        <translation type="unfinished"></translation>
+        <translation>Politiques de confidentialité </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="236"/>
         <source>This app does not send any data to us or other parties. We do not collect data and we do not track our users. However, this app accesses internet sites that may not be under our control and may keep access logs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette application ne nous envoie pas des donnée ni à d&apos;autres parties. Nous ne collectons pas de données et nous ne suivons pas nos utilisateurs. Cependant, cette application accède à des sites Internet qui peuvent ne pas être sous notre contrôle et peut conserver des journaux d&apos;accès.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="238"/>
         <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;application se connecte aux serveurs de l&apos;Université de Fribourg pour vérifier les mises à jour et télécharger des cartes et des données.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="239"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the Aviation Weather Center, a website of the United States government.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;application télécharge les données METAR et TAF pour votre emplacement et votre itinéraire prévu à partir de l&apos;Aviation Weather Center, un site Web du gouvernement des États-Unis.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="244"/>
