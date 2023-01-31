@@ -1523,14 +1523,18 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 <context>
     <name>FirstRunDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="33"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="99"/>
         <source>Accept</source>
         <translation>Akzeptieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="37"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="111"/>
+        <source>Quit App</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Reject</source>
-        <translation>Ablehnen</translation>
+        <translation type="vanished">Ablehnen</translation>
     </message>
 </context>
 <context>
@@ -2263,52 +2267,57 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="32"/>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="231"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="241"/>
         <source>About EFN</source>
         <translation>Über EFN</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="98"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="101"/>
         <source>Authors</source>
         <translation>Autoren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="99"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="102"/>
         <source>License</source>
         <translation>Lizenz</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="100"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="103"/>
         <source>System</source>
         <translation>System</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="202"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="205"/>
         <source>Share Info</source>
         <translation>Info teilen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="207"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="210"/>
         <source>Aborted</source>
         <translation>Abgebrochen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="216"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="219"/>
         <source>System Info Shared</source>
         <translation>Systeminfo geteilt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="218"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="221"/>
         <source>System Info Exported</source>
         <translation>Systeminfo exportiert</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="232"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="234"/>
+        <source>Error Exporting Data…</source>
+        <translation type="unfinished">Fehler beim Datenexport…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="242"/>
         <source>This page presents four tabs with information about the app, its authors, the software license, and the current system.</source>
         <translation>Diese Seite bietet Ihnen vier Reiter mit Infomationen über die App, ihre Autoren, die Softwarelizenz und das aktuelle System.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="233"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="243"/>
         <source>System information can be helpful to the developers when you report a bug. The button &apos;Share Info&apos; at the bottom of the &apos;System&apos; tab can be used to forward this information to the developers.</source>
         <translation>Wenn Sie uns Fehler melden, sind Systeminformationen für die Entwickler hilfreich. Der Knopf &apos;Info teilen&apos; unten auf dem &apos;System&apos;-Reiter leitet diese Informationen an die Entwickler weiter.</translation>
     </message>
@@ -2567,6 +2576,26 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="235"/>
+        <source>Privacy Policies</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="236"/>
+        <source>This app does not send any data to us or other parties. We do not collect data and we do not track our users. However, this app accesses internet sites that may not be under our control and may keep access logs.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="238"/>
+        <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="239"/>
+        <source>The app downloads METAR and TAF data for your locaction and your intended route from the Aviation Weather Center, a website of the United States government.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="244"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -2591,7 +2620,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;Wenn irgend möglich, würden wir eine harte Begrenzung der Kartenanzahl auch zukünftig gern vermeiden. Bitte helfen Sie dabei mit.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="261"/>
+        <location filename="../../../src/Librarian.cpp" line="259"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
         <translation>&lt;p&gt;Die Technologie unter dieser App hat sich geändert. Bitte melden Sie alles, was Ihnen merkwürdig vorkommt!&lt;/p&gt;</translation>
     </message>
@@ -2798,7 +2827,6 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;Auf die Routen kann aus anderen Programmen wie etwa Backup-Software oder Datei-Synchronisierung zugegriffen werden. Dadurch kann die Routenbibliothek mit anderen Geräten geteilt werden.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="250"/>
         <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
       
 &lt;p&gt;Like most other programs, this app uses weather data provided by the &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.&lt;/p&gt;
@@ -2806,7 +2834,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;In order to request up-to-date weather information, the app needs to &lt;strong&gt;send your location and your current route to the Aviation Weather Center&lt;/strong&gt; at regular intervals. If you agree to this, you can enable the weather feature by clicking on the button below. You can disable the feature at any time using the three-dot menu at the top of this screen.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;We have no control over data collected by the Aviation Weather Center. We do not guarantee correctness of the weather information in any way!&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Warnung zur Vertraulichkeit&lt;/h3&gt;
+        <translation type="vanished">&lt;h3&gt;Warnung zur Vertraulichkeit&lt;/h3&gt;
       
 &lt;p&gt;Wie viele andere Programme nutzt diese App Wetterdaten des &lt;a href=&apos;https://www.aviationweather.gov&apos;/&gt;Aviation Weather Center&lt;/a&gt;, einer Website der US-Regierung.&lt;/p&gt;
 
@@ -8235,23 +8263,23 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Weather::WeatherDataProvider</name>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="351"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="350"/>
         <source>Waiting for precise position…</source>
         <translation>Warte auf genaue Position ...</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="399"/>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="404"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="398"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="403"/>
         <source>SR %1, %2</source>
         <translation>SA %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="402"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="401"/>
         <source>SS %1, %2</source>
         <translation>SU %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="446"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="445"/>
         <source>QNH: %1 hPa in %2, %3</source>
         <translation>QNH: %1 hPa in %2, %3</translation>
     </message>
@@ -8269,32 +8297,30 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>METAR/TAF-Daten aktualisieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="104"/>
         <source>Disallow internet connection</source>
-        <translation>Internetverbindung verbieten</translation>
+        <translation type="vanished">Internetverbindung verbieten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="193"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="183"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the three-dot menu at the top right corner of the screen.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine METAR/TAF-Daten verfügbar. Sie können den Download manuell neu anstoßen: Menüpunkt &apos;METAR/TAF aktualisieren&apos; im Dreipunktemenü oben rechts auf dem Schirm.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="232"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="222"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAF data from the Aviation Weather Center…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Download läuft ...&lt;/h3&gt;&lt;p&gt;Bitte warten, während wir die METAR/TAF-Daten vom Aviation Weather Center herunterladen ...&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="287"/>
         <source>Allow internet connection</source>
-        <translation>Internetverbindung zulassen</translation>
+        <translation type="vanished">Internetverbindung zulassen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="356"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="308"/>
         <source>Update Error</source>
         <translation>Fehler beim Update</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WeatherPage.qml" line="357"/>
+        <location filename="../../../src/qml/pages/WeatherPage.qml" line="309"/>
         <source>&lt;p&gt;Failed to update the list of stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Update der Stationsliste fehlgeschlagen.&lt;/p&gt;&lt;p&gt;Ursache: %1.&lt;/p&gt;</translation>
     </message>
@@ -8443,33 +8469,33 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Beenden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="586"/>
+        <location filename="../../../src/qml/main.qml" line="582"/>
         <source>Update required!</source>
         <translation>Update erforderlich!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="702"/>
+        <location filename="../../../src/qml/main.qml" line="698"/>
         <source>Connected to traffic receiver.</source>
         <translation>Mit dem Verkehrsdatenempfänger verbunden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="704"/>
+        <location filename="../../../src/qml/main.qml" line="700"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Verbindung zum Verkehrsdatenempfänger verloren.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="737"/>
+        <location filename="../../../src/qml/main.qml" line="733"/>
         <source>Exit…?</source>
         <translation>Beenden…?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="738"/>
+        <location filename="../../../src/qml/main.qml" line="734"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; tatsächlich beenden?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="748"/>
-        <location filename="../../../src/qml/main.qml" line="757"/>
+        <location filename="../../../src/qml/main.qml" line="744"/>
+        <location filename="../../../src/qml/main.qml" line="753"/>
         <source>What&apos;s new…?</source>
         <translation>Was ist neu ...?</translation>
     </message>
