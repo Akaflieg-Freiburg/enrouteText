@@ -1229,7 +1229,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="111"/>
         <source>Quit App</source>
-        <translation type="unfinished"></translation>
+        <translation>Salir de la aplicación</translation>
     </message>
     <message>
         <source>Reject</source>
@@ -1454,32 +1454,32 @@ con los datos de la cuenta bancaria.</translation>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="34"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="386"/>
         <source>Flight Route Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca de rutas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="92"/>
         <source>Info…</source>
-        <translation type="unfinished"></translation>
+        <translation>Informaciones...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="101"/>
         <source>Import…</source>
-        <translation type="unfinished">Importar ....</translation>
+        <translation>Importar ....</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="129"/>
         <source>Filter Flight Route Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombres de rutas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="180"/>
         <source>Share…</source>
-        <translation type="unfinished">Compartir ...</translation>
+        <translation>Compartir ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="180"/>
         <source>Export…</source>
-        <translation type="unfinished">Exportar ...</translation>
+        <translation>Exportar ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="183"/>
@@ -1490,40 +1490,40 @@ con los datos de la cuenta bancaria.</translation>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="192"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="217"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="201"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="226"/>
         <source>Flight route shared</source>
-        <translation type="unfinished">Ruta compartida</translation>
+        <translation>Ruta compartida</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="203"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="228"/>
         <source>Flight route exported</source>
-        <translation type="unfinished">Ruta esportada</translation>
+        <translation>Ruta esportada</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="208"/>
         <source>… to GPX file</source>
-        <translation type="unfinished">... al fichero GPX</translation>
+        <translation>... al fichero GPX</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="234"/>
         <source>Open in Other App…</source>
-        <translation type="unfinished">Abrir en otra app ...</translation>
+        <translation>Abrir en otra app ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="237"/>
         <source>… in GeoJSON format</source>
-        <translation type="unfinished">... en le formato GeoJSON</translation>
+        <translation>... en le formato GeoJSON</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="249"/>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="266"/>
         <source>Flight route opened in other app</source>
-        <translation type="unfinished">Ruta abierta en otra app</translation>
+        <translation>Ruta abierta en otra app</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="254"/>
@@ -1543,77 +1543,77 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="333"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes available. To add a route here, chose &apos;Flight Route&apos; from the main menu, edit a route and save it to the library.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay rutas de vuelo disponibles. Para agregar una ruta aquí, elija &apos;Ruta de vuelo&apos; en el menú principal, edite una ruta y guárdela en la biblioteca.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="334"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes match your filter criteria.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;Ninguna ruta de vuelo coincide con sus criterios de filtro.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="348"/>
         <source>Loading flight route &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando ruta de vuelo &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="362"/>
         <source>An Error Occurred…</source>
-        <translation type="unfinished">Ocurrió un error…</translation>
+        <translation>Ocurrió un error…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="393"/>
         <source>Overwrite Current Flight Route?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Sobrescribir ruta de vuelo actual?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="400"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cargando la ruta &lt;strong&gt;%1&lt;/strong&gt; sobrescribirá la ruta actual. Una vez sobrescrita, la ruta de vuelo actual no se puede restaurar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="418"/>
         <source>Remove from Device?</source>
-        <translation type="unfinished">¿Quitar del dispositivo?</translation>
+        <translation>¿Quitar del dispositivo?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="425"/>
         <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una vez que se elimina la ruta de vuelo &lt;strong&gt;%1&lt;/strong&gt;, no se puede restaurar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="434"/>
         <source>Flight route removed from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de vuelo eliminada del dispositivo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="446"/>
         <source>Rename Flight Route</source>
-        <translation type="unfinished"></translation>
+        <translation>Renombrar ruta de vuelo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="456"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca un nuevo nombre para la ruta &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="468"/>
         <source>New Flight Route Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuevo nombre de ruta de vuelo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="481"/>
         <source>Rename</source>
-        <translation type="unfinished">Renombrar</translation>
+        <translation>Renombrar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="491"/>
         <source>Flight route renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de vuelo renombrada</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="503"/>
         <source>Error Exporting Data…</source>
-        <translation type="unfinished">Error exportando datos ...</translation>
+        <translation>Error exportando datos ...</translation>
     </message>
 </context>
 <context>
@@ -1667,32 +1667,32 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="81"/>
         <source>Aviation Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapas de navegación aérea</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="82"/>
         <source>The aeronautical maps are compiled from databases provided by the &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt; projects.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los mapas aeronáuticos se compilan a partir de bases de datos proporcionadas por &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; y &lt;a&gt;href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="92"/>
         <source>Base Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa base</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="93"/>
         <source>The base maps are generated from &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt; data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los mapas base se generan a partir de datos de &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="100"/>
         <source>Terrain Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapas de terreno</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="101"/>
         <source>The terrain maps are derived from the &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los mapas de terreno se derivan del &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset en Amazon AWS&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -1700,37 +1700,37 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="107"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir el archivo &apos;%1&apos; para lectura.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="112"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pueden leer los datos del archivo &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="120"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede analizar el archivo &apos;%1&apos;. Motivo: %2.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="129"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede analizar el contenido del archivo &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="153"/>
         <source>Error reading waypoints from file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al leer los puntos de ruta del archivo &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="226"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir el archivo &apos;%1&apos; para escribir.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="233"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede escribir en el archivo &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
@@ -1738,104 +1738,104 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="73"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; cannot be recognized.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede reconocer el tipo de archivo del archivo &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="82"/>
         <source>Import Waypoint Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Importando datos de puntos de ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="92"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
-        <translation type="unfinished"></translation>
+        <translation>Tl archivo contiene una lista de puntos de ruta. ¿Importar como ruta de vuelo o agregar a la biblioteca de puntos de ruta?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="102"/>
         <source>Route</source>
-        <translation type="unfinished">Ruta</translation>
+        <translation>Ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="116"/>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="134"/>
         <source>Import Raster Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar mapa ráster</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="144"/>
         <location filename="../../../src/qml/items/ImportManager.qml" line="206"/>
         <source>Enter a name for this map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca un nombre para este mapa.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="154"/>
         <location filename="../../../src/qml/items/ImportManager.qml" line="216"/>
         <source>Map Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre del mapa</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="168"/>
         <source>To avoid conflicts between raster and vector maps, all vector maps will be uninstalled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para evitar conflictos entre mapas ráster y vectoriales, se desinstalarán todos los mapas vectoriales.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="189"/>
         <source>Raster map imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa ráster importada</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="196"/>
         <source>Import Vector Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa vectorial importado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="230"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para evitar conflictos entre mapas ráster y vectoriales, se desinstalarán todos los mapas ráster.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="251"/>
         <source>Vector map imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa vectorial importada</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="259"/>
         <source>Import Waypoint Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Importar biblioteca de puntos de ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="271"/>
         <source>Skip over waypoint that already exist in the library</source>
-        <translation type="unfinished"></translation>
+        <translation>Omitir puntos de ruta que ya existen en la biblioteca</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="290"/>
         <source>Waypoints imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos de ruta importados</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="297"/>
         <source>Import Flight Route?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Importar ruta de vuelo?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="306"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto sobrescribirá la ruta actual. Una vez sobrescrita, la ruta de vuelo actual no se puede restaurar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="328"/>
         <source>Flight route imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de vuelo importada</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="338"/>
         <source>Data Import Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de importación de datos</translation>
     </message>
 </context>
 <context>
@@ -1844,57 +1844,57 @@ con los datos de la cuenta bancaria.</translation>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="32"/>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="241"/>
         <source>About EFN</source>
-        <translation type="unfinished"></translation>
+        <translation>Acerca de EFN</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="101"/>
         <source>Authors</source>
-        <translation type="unfinished"></translation>
+        <translation>Autores</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="102"/>
         <source>License</source>
-        <translation type="unfinished"></translation>
+        <translation>Licencia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="103"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation>Sistema</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="205"/>
         <source>Share Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Compartir información</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="210"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="219"/>
         <source>System Info Shared</source>
-        <translation type="unfinished"></translation>
+        <translation>Iformación de sistema compartidas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="221"/>
         <source>System Info Exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Iformación de sistema exportadas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="234"/>
         <source>Error Exporting Data…</source>
-        <translation type="unfinished">Error exportando datos ...</translation>
+        <translation>Error exportando datos ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="242"/>
         <source>This page presents four tabs with information about the app, its authors, the software license, and the current system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta página presenta cuatro pestañas con información sobre la aplicación, sus autores, la licencia del software y el sistema actual.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="243"/>
         <source>System information can be helpful to the developers when you report a bug. The button &apos;Share Info&apos; at the bottom of the &apos;System&apos; tab can be used to forward this information to the developers.</source>
-        <translation type="unfinished"></translation>
+        <translation>La información del sistema puede ser útil para los desarrolladores cuando se informa de un error. El botón &apos;Compartir información&apos; en la parte inferior de la pestaña &apos;Sistema&apos; se puede utilisar para enviar esta información a los desarrolladores.</translation>
     </message>
 </context>
 <context>
@@ -1902,7 +1902,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="54"/>
         <source>&lt;p&gt;This version of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is outdated and will no longer receive map updates. &lt;strong&gt;Please update this app at your earliest convencience.&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Esta versión de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; está desactualizada y ya no recibirá actualizaciones de mapas. &lt;strong&gt;Actualice esta aplicación lo antes posible.&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="60"/>
@@ -1928,7 +1928,27 @@ con los datos de la cuenta bancaria.</translation>
   &lt;/tr&gt;
 &lt;/table&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Autores&lt;/h3&gt;
+
+&lt;br&gt;
+
+&lt;tabla&gt;
+  &lt;tr&gt;
+    &lt;td&gt;
+      &lt;p&gt;La aplicación &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; fue escrita por Stefan Kebekus, entusiasta de los vuelos desde 1986 y miembro del club de vuelo Akaflieg Freiburg. Stefan vuela planeadores y aviones a motor.&lt;/p&gt;
+      &lt;h4&gt;Dirección&lt;/h4&gt;
+      Stefan Kebekus&lt;br&gt;
+      Wintererstrasse 77&lt;br&gt;
+      79104 Friburgo&lt;br&gt;
+      Alemania&lt;br&gt;
+      &lt;br&gt;
+      &lt;a href=&apos;mailto:stefan.kebekus@gmail.com&apos;&gt;correo electrónico&lt;/a&gt;
+    &lt;/td&gt;
+    &lt;td&gt;
+      &lt;p align=&apos;center&apos;&gt;&amp;nbsp;&lt;img src=&apos;/icons/kebekus.jpg&apos; alt=&apos;Stefan Kebekus&apos; height=&apos;140&apos;&gt;&lt;br&gt;Stefan Kebekus&lt;br&gt;Foto: Patrick Seeger&lt;/p&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/tabla&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="81"/>
@@ -1937,84 +1957,98 @@ con los datos de la cuenta bancaria.</translation>
 
 &lt;p&gt;The manual has kindly been provided by Michael Horbaschk.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Manual&lt;/h3&gt;
+
+&lt;p&gt;El manual ha sido amablemente proporcionado por Michael Horbaschk.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="85"/>
         <source>
 &lt;h3&gt;Translations&lt;/h3&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Traducciones&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="89"/>
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato and Luca Riva. Both are private pilots and aerospace engineers. Luca is also doing aerobatics.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;&lt;strong&gt;Francés:&lt;/strong&gt; Adrien Crovato y Luca Riva. Ambos son pilotos privados e ingenieros aeroespaciales. Luca también practica el vuelo acrobatico.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="91"/>
         <source>
 &lt;li&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;&lt;strong&gt;Alemán:&lt;/strong&gt; Markus Sachs. Markus vuela triciclos y es un &apos;Co&apos; entusiasta en todo lo demás que vuela.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="93"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella y Antonio Fardella. Antonio es un aviador naval apasionado por todo lo desafiante.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="95"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt; &lt;strong&gt;Polaco:&lt;/strong&gt; Sławek Mikuła. &lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="99"/>
         <source>
 &lt;h3&gt;Alumni&lt;/h3&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Alumnos&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="103"/>
         <source>
 &lt;li&gt;Luca Bertoncello (Italian translation)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;Luca Bertoncello (traduccion en Italiano)&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="105"/>
         <source>
 &lt;li&gt;Adrien Crovato (Integration of weather information)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;Adrien Crovato (Integración de información meteorológica)&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="107"/>
         <source>
 &lt;li&gt;Szymon Kocur (Polish translation)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;Szymon Kocur (Traduccion en Polaco)&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="109"/>
         <source>
 &lt;li&gt;Heiner Tholen (User interface)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;Heiner Tholen (Interfaz usuario)&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="111"/>
         <source>
 &lt;li&gt;Johannes Zellner (Geoid correction for altitude)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;Johannes Zellner (Corrección de geoide para la altitud)&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="120"/>
@@ -2024,7 +2058,12 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;If you are convinced that the data is good enough to be added, you can request to add the country. Please go to &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enrouteServer/issues&quot;&gt;this web site&lt;/a&gt; and open an &apos;issue&apos; with your request. Please tell us who you are, where you fly and how you convinced yourself that the data is good. If you find that the data is not good enough, you are welcome to join the openAIP project and help to improve the data.&lt;/p&gt;
 
 &lt;p&gt;Please understand that we program this free app in our spare time, as a service to the community. Sadly, I should point out that sending us impolite demands is not likely to give the result that you desire.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;p&gt;Recibimos nuestros datos de aviación de &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. Esta es una organización sin fines de lucro donde los voluntarios recopilan datos de aviación para muchos países. Si openAIP cubre su país, es posible que podamos generar mapas para él. Primero, sin embargo, debemos estar razonablemente seguros de que los datos de openAIP son precisos y completos. Eche un vistazo a los &lt;a href=&quot;http://maps.openaip.net&quot;&gt;mapas openAIP&lt;/a&gt; y compare la visualización con un mapa de aviación oficial de su país. ¿Están los aeródromos? ¿Son correctas las longitudes/orientaciones y frecuencias de las pistas? ¿Se muestran correctamente las ayudas a la navegación, con los códigos y las frecuencias correctos? ¿Y los espacios aéreos?&lt;/p&gt;
+
+&lt;p&gt;Si está convencido de que los datos son lo suficientemente buenos como para agregarlos, puede solicitar agregar el país. Vaya a &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enrouteServer/issues&quot;&gt;este sitio web&lt;/a&gt; y abra una solicitud. Díganos quién es usted, a dónde vuela y cómo se convenció de que los datos son buenos. Si encuentra que los datos no son lo suficientemente buenos, puede unirse al proyecto openAIP y ayudar a mejorar los datos.&lt;/p&gt;
+
+&lt;p&gt;Comprenda que programamos esta aplicación gratuita en nuestro tiempo libre, como un servicio a la comunidad. Lamentablemente, debo señalar que enviarnos demandas descorteses probablemente no dará el resultado que deseas.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="130"/>
@@ -2041,7 +2080,19 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Bienvenido a Enroute Flight Navigation: un proyecto de Akaflieg Freiburg&lt;/h3&gt;
+
+&lt;p&gt;¡Gracias por usar esta aplicación de navegación de vuelos! Antes de comenzar, debemos señalar que &lt;strong&gt;esta aplicación y los datos de aviación no tienen garantías&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;La aplicación no está certificada para cumplir con los estándares de aviación. Puede contener errores y no funcionar como se espera.&lt;/p&gt;
+
+&lt;p&gt;Los datos de aviación no provienen de fuentes oficiales. Puede estar incompleto, desactualizado o incorrecto.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Esta aplicación no reemplaza la preparación adecuada del vuelo o el buen pilotaje.&lt;/strong&gt; Esperamos que disfrute de la aplicación y que la encuentre útil.&lt;/p&gt;
+
+&lt;p&gt;¡Vuele con seguridad y disfruta de muchos aterrizajes felices!&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="147"/>
@@ -2050,7 +2101,11 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;The flight routes can be accessed by other programs, such as backup software or file synchronization apps.  This can be useful to share a flight route library with other devices.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Las rutas de vuelo se almacenan en el siguiente directorio.&lt;a href=&quot;https://geojson.org&quot;&gt;formato GeoJSON&lt;/a&gt;&lt;p&gt;
+
+&lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;archivo:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Otros programas pueden acceder a las rutas de vuelo, como software de copia de seguridad o aplicaciones de sincronización de archivos. Esto puede ser útil para compartir una biblioteca de rutas de vuelo con otros dispositivos.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="161"/>
@@ -2079,7 +2134,31 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+
+&lt;p&gt;Versión %1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; es una aplicación de navegación gratuita para pilotos VFR, desarrollada como un proyecto de Akaflieg Freiburg.&lt;/p&gt;
+
+&lt;ul style=&quot;margen-izquierda:-25px;&quot;&gt;
+  &lt;li&gt;Simple, elegante y funcional&lt;/li&gt;
+  &lt;li&gt;Sin anuncios, sin versión comercial &quot;pro&quot;&lt;/li&gt;
+  &lt;li&gt;Sin registro, sin membresía&lt;/li&gt;
+  &lt;li&gt;No te espía&lt;/li&gt;
+  &lt;li&gt;100 % de código abierto, escrito sin interés comercial&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Consulte &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;el sitio web&lt;/a&gt; para obtener más información.&lt;/p&gt;
+
+&lt;h3&gt;Patrocinador académico&lt;/h3&gt;
+      
+&lt;p&gt;El autor agradece el apoyo de nuestro patrocinador académico, la &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Universidad de Freiburg&lt;/a&gt;. La universidad proporciona amablemente la infraestructura utilizada para generar nuestros mapas y el ancho de banda necesario para servirlos.&lt;/p&gt;
+
+&lt;h3&gt;Agradecimientos&lt;/h3&gt;
+
+&lt;p&gt;Este programa se basa en varias bibliotecas de código abierto, incluidas &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https: //www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt;, &lt;a href=&quot;https://github.com/ nitroshare/qhttpengine&quot;&gt;QHTTPEngine&lt;/a&gt; y &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;puesta de sol&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Los datos aeronáuticos son amablemente proporcionados por &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; y &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps &lt;/a&gt; proyectos. Los mapas base son amablemente proporcionados por &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Consulte la documentación para obtener más detalles.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="194"/>
@@ -2266,58 +2345,58 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="132"/>
         <source>Total: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Total: %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="144"/>
         <source>Cruise speed not specified.</source>
-        <translation type="unfinished">Velocidad de crucero no especificada.</translation>
+        <translation>Velocidad de crucero no especificada.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="147"/>
         <source>Fuel consumption not specified.</source>
-        <translation type="unfinished"></translation>
+        <translation>Consumo de combustible no especificado.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="150"/>
         <source>Wind speed not specified.</source>
-        <translation type="unfinished">Velocidad del viento no especificada</translation>
+        <translation>Velocidad del viento no especificada.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="153"/>
         <source>Wind direction not specified.</source>
-        <translation type="unfinished">Dirección del viento no especificada</translation>
+        <translation>Dirección del viento no especificada.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="157"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Cálculo incompleto. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="360"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir el archivo &apos;%1&apos; para escribir.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="366"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede escribir en el archivo &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="375"/>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="421"/>
         <source>Flight Route</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruta de vuelo</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="153"/>
         <source>Error reading file &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al leer el archivo &apos;%1&apos;</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/FlightRoute_GPX.cpp" line="157"/>
         <source>The file &apos;%1&apos; contains too many waypoints. Flight routes with more than 100 waypoints are not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo &apos;%1&apos; contiene demasiados puntos de ruta. Las rutas de vuelo con más de 100 puntos no son compatibles.</translation>
     </message>
 </context>
 <context>
@@ -3611,17 +3690,17 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="46"/>
         <source>Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Connectado</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="53"/>
         <source>Not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>No está connectado</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.h" line="57"/>
         <source>Simulator data</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulador de datos</translation>
     </message>
 </context>
 <context>
@@ -3645,72 +3724,72 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="108"/>
         <source>Aircraft</source>
-        <translation type="unfinished">Avion</translation>
+        <translation>Avion</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="111"/>
         <source>Airship</source>
-        <translation type="unfinished"></translation>
+        <translation>Avion</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="114"/>
         <source>Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>Globo</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="117"/>
         <source>Copter</source>
-        <translation type="unfinished"></translation>
+        <translation>Helicóptero</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="120"/>
         <source>Drone</source>
-        <translation type="unfinished"></translation>
+        <translation>Dron</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="123"/>
         <source>Glider</source>
-        <translation type="unfinished"></translation>
+        <translation>Planeador</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="126"/>
         <source>Hang glider</source>
-        <translation type="unfinished"></translation>
+        <translation>Ala delta</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="129"/>
         <source>Jet</source>
-        <translation type="unfinished"></translation>
+        <translation>Jet</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="132"/>
         <source>Paraglider</source>
-        <translation type="unfinished"></translation>
+        <translation>Parapente</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="135"/>
         <source>Skydiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Paracaidista</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="138"/>
         <source>Static Obstacle</source>
-        <translation type="unfinished"></translation>
+        <translation>Objecto estático</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="141"/>
         <source>Tow Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>Avión remolcador</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="144"/>
         <source>Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Trafico</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="149"/>
         <source>Position unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Posición desconocida</translation>
     </message>
 </context>
 <context>
@@ -3718,72 +3797,72 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="67"/>
         <source>Aircraft</source>
-        <translation type="unfinished">Avion</translation>
+        <translation>Avión</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="70"/>
         <source>Airship</source>
-        <translation type="unfinished"></translation>
+        <translation>Avión</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="73"/>
         <source>Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation>Globo</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="76"/>
         <source>Copter</source>
-        <translation type="unfinished"></translation>
+        <translation>Helicoptero</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="79"/>
         <source>Drone</source>
-        <translation type="unfinished"></translation>
+        <translation>Dron</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="82"/>
         <source>Glider</source>
-        <translation type="unfinished"></translation>
+        <translation>Planeador</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="85"/>
         <source>Hang glider</source>
-        <translation type="unfinished"></translation>
+        <translation>Ala delta</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="88"/>
         <source>Jet</source>
-        <translation type="unfinished"></translation>
+        <translation>Jet</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="91"/>
         <source>Paraglider</source>
-        <translation type="unfinished"></translation>
+        <translation>Parapente</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="94"/>
         <source>Skydiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Paracaidista</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="97"/>
         <source>Static Obstacle</source>
-        <translation type="unfinished"></translation>
+        <translation>Objeto estático</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="100"/>
         <source>Tow Plane</source>
-        <translation type="unfinished"></translation>
+        <translation>Avión remolcador</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="103"/>
         <source>Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Trafico</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="108"/>
         <source>Position unknown</source>
-        <translation type="unfinished"></translation>
+        <translation>Posición desconocida</translation>
     </message>
 </context>
 <context>
@@ -3791,52 +3870,52 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="96"/>
         <source>Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Trafico</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="99"/>
         <source>Obstacle</source>
-        <translation type="unfinished"></translation>
+        <translation>Obstacolo</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="102"/>
         <source>Traffic advisory</source>
-        <translation type="unfinished"></translation>
+        <translation>Asesoramiento de tránsito aéreo</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="108"/>
         <source>%1 position</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 posición</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="117"/>
         <source>Distance %1 km</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia %1 Km</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="120"/>
         <source>Distance %1 nm</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia %1 nm</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="123"/>
         <source>Distance %1 mil</source>
-        <translation type="unfinished"></translation>
+        <translation>Distancia %1 mil</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="134"/>
         <source>Same altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Misma altitud</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="137"/>
         <source>%1 below</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 por debajo</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="139"/>
         <source>%1 above</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 arriba</translation>
     </message>
 </context>
 <context>
@@ -3844,42 +3923,42 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="36"/>
         <source>Traffic Data Receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Receptores de tráfico.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="59"/>
         <source>Connection Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado de la conexión</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="96"/>
         <source>Traffic Data Receiver Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Estado del receptor de datos de tráfico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="125"/>
         <source>No problem reported</source>
-        <translation type="unfinished"></translation>
+        <translation>Ninguin problema reportado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="141"/>
         <source>Connect</source>
-        <translation type="unfinished"></translation>
+        <translation>Connectado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="163"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Ayuda</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="173"/>
         <source>How to connect your traffic receiver…</source>
-        <translation type="unfinished"></translation>
+        <translation>Cómo conectar el receptor de tráfico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="181"/>
         <source>How to connect your flight simulator…</source>
-        <translation type="unfinished"></translation>
+        <translation>Cómo conectar el simulador de vuelo</translation>
     </message>
 </context>
 <context>
@@ -3887,7 +3966,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/units/Angle.cpp" line="37"/>
         <source>%1 o&apos;clock</source>
-        <translation type="unfinished">%1 o&apos;clock</translation>
+        <translation>%1 en punto</translation>
     </message>
 </context>
 <context>
@@ -3895,118 +3974,118 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="76"/>
         <source>full report</source>
-        <translation type="unfinished"></translation>
+        <translation>reporte completp</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="77"/>
         <source>read TAF</source>
-        <translation type="unfinished"></translation>
+        <translation>Leyendo TAF</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="374"/>
         <source>Route</source>
-        <translation type="unfinished">Ruta</translation>
+        <translation>Ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="385"/>
         <source>Direct</source>
-        <translation type="unfinished"></translation>
+        <translation>Directo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="396"/>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="551"/>
         <source>New flight route: direct to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nueva ruta: direct a %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="410"/>
         <source>Append</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="423"/>
         <source>Added %1 to route.</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir a la ruta %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="428"/>
         <source>Insert</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducir</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="441"/>
         <source>Inserted %1 into route.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introducido %1 en la ruta.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="446"/>
         <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="462"/>
         <source>Removed %1 from route.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eliminado 1% de la ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="470"/>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="482"/>
         <source>Add…</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="494"/>
         <source>Remove…</source>
-        <translation type="unfinished">Eliminar...</translation>
+        <translation>Eliminar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="512"/>
         <source>Edit…</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="533"/>
         <source>Overwrite Current Flight Route?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Sobrescribir la ruta de vuelo actual?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="538"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una vez sobrescrita, la ruta de vuelo actual no se puede restaurar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="575"/>
         <source>Modified entry %1 in library.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrada modificada %1 en la biblioteca.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="582"/>
         <source>Add Waypoint to Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Añadir el punto de ruta en la biblioteca</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="591"/>
         <source>Added %1 to waypoint library.</source>
-        <translation type="unfinished">Añadido %1 a la biblioteca de los puntos de ruta</translation>
+        <translation>Añadido %1 a la biblioteca de los puntos de ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="600"/>
         <source>Remove from Device?</source>
-        <translation type="unfinished">¿Quitar del dispositivo?</translation>
+        <translation>¿Quitar del dispositivo?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="605"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una vez que se elimina el punto de ruta &lt;strong&gt;%1&lt;/strong&gt;, no se puede restaurar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="616"/>
         <source>Waypoint removed from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de ruta eliminado de su dispositivo.</translation>
     </message>
 </context>
 <context>
@@ -4014,73 +4093,73 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="51"/>
         <source>Edit Waypoint</source>
-        <translation type="unfinished"></translation>
+        <translation>Editar punto de ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="84"/>
         <source>Name</source>
-        <translation type="unfinished">Nombre</translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="97"/>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="114"/>
         <source>undefined</source>
-        <translation type="unfinished">indefinido</translation>
+        <translation>indefinido</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="102"/>
         <source>Notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Notas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="125"/>
         <source>Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Latitud</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="142"/>
         <source>Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Longitud</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="160"/>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="169"/>
         <source>Degrees</source>
-        <translation type="unfinished"></translation>
+        <translation>Grados</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="169"/>
         <source>Degrees and Minutes</source>
-        <translation type="unfinished"></translation>
+        <translation>Grados y minutos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="169"/>
         <source>Degrees, Minutes and Seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>Grados, minutos y segundos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="179"/>
         <source>Elevation</source>
-        <translation type="unfinished"></translation>
+        <translation>Elevación</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="192"/>
         <source>Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Unidad</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="201"/>
         <source>Feet</source>
-        <translation type="unfinished">Pies</translation>
+        <translation>Pies</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="201"/>
         <source>Meter</source>
-        <translation type="unfinished"></translation>
+        <translation>Metros</translation>
     </message>
 </context>
 <context>
@@ -4090,136 +4169,136 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="115"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="139"/>
         <source>Waypoint Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca de puntos de ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="93"/>
         <source>Import…</source>
-        <translation type="unfinished">Importar ....</translation>
+        <translation>Importar ....</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="105"/>
         <source>Share…</source>
-        <translation type="unfinished">Compartir ...</translation>
+        <translation>Compartir ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="105"/>
         <source>Export…</source>
-        <translation type="unfinished">Exportar ...</translation>
+        <translation>Exportar ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="109"/>
         <source>… to GeoJSON file</source>
-        <translation type="unfinished">... el fichero GeoJSON </translation>
+        <translation>... el fichero GeoJSON </translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="117"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="141"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="126"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="150"/>
         <source>Waypoint library shared</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca de puntos de ruta compartida</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="128"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="152"/>
         <source>Waypoint library exported</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca de puntos de ruta exportada</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="133"/>
         <source>… to GPX file</source>
-        <translation type="unfinished">... al fichero GPX</translation>
+        <translation>... al fichero GPX</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="158"/>
         <source>Open in Other App…</source>
-        <translation type="unfinished">Abrir en otra app ...</translation>
+        <translation>Abrir en otra app ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="162"/>
         <source>… in GeoJSON format</source>
-        <translation type="unfinished">... en le formato GeoJSON</translation>
+        <translation>... en le formato GeoJSON</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="174"/>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="191"/>
         <source>Waypoint library opened in other app</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca de puntos de ruta abierta en otra app</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="179"/>
         <source>… in GPX format</source>
-        <translation type="unfinished">en el formato GPX ...</translation>
+        <translation>en el formato GPX ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="200"/>
         <source>Clear</source>
-        <translation type="unfinished">Limpiar</translation>
+        <translation>Limpiar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="226"/>
         <source>Filter Waypoint Names</source>
-        <translation type="unfinished">Filtrar los nombres de Waypoint</translation>
+        <translation>Filtrar los nombres de Waypoint</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="284"/>
         <source>Remove…</source>
-        <translation type="unfinished">Eliminar...</translation>
+        <translation>Eliminar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="335"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;No hay punto de ruta disponible. Para agregar un punto de ruta aquí, toque dos veces en un punto del mapa&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="336"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;Ningún waypoint coincide con sus criterios de filtro.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;Ningún punto de ruta coincide con sus criterios de filtro.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="352"/>
         <source>Error Exporting Data…</source>
-        <translation type="unfinished">Error exportando datos ...</translation>
+        <translation>Error exportando datos ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="369"/>
         <source>Remove from Device?</source>
-        <translation type="unfinished">¿Quitar del dispositivo?</translation>
+        <translation>¿Quitar del dispositivo?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="376"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una vez que se elimina el punto de ruta &lt;strong&gt;%1&lt;/strong&gt;, no se puede restaurar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="385"/>
         <source>Waypoint removed from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de ruta eliminado desde el dispositivo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="398"/>
         <source>Clear Waypoint Library?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Borrar el punto de ruta de la biblioteca?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="405"/>
         <source>Once cleared, the library cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una vez borrada, la biblioteca no se puede restaurar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="414"/>
         <source>Waypoint library cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de ruta borrado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="428"/>
         <source>Waypoint modified</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de ruta modificado</translation>
     </message>
 </context>
 <context>
@@ -7086,62 +7165,62 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="239"/>
         <source>CAVOK</source>
-        <translation type="unfinished"></translation>
+        <translation>CAVOK</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="241"/>
         <source>VMC</source>
-        <translation type="unfinished"></translation>
+        <translation>VMC</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="245"/>
         <source>marginal VMC</source>
-        <translation type="unfinished"></translation>
+        <translation>VMC marginal</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="248"/>
         <source>IMC</source>
-        <translation type="unfinished"></translation>
+        <translation>IMC</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="251"/>
         <source>low IMC</source>
-        <translation type="unfinished"></translation>
+        <translation>IMC baja</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="261"/>
         <source>gusts of %1 km/h</source>
-        <translation type="unfinished"></translation>
+        <translation>Ráfagas de %1 km/h</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="264"/>
         <source>gusts of %1 mph</source>
-        <translation type="unfinished"></translation>
+        <translation>Ráfagas de %1 mph</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="267"/>
         <source>gusts of %1 kn</source>
-        <translation type="unfinished"></translation>
+        <translation>Ráfagas de %1 kn</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="273"/>
         <source>wind at %1 km/h</source>
-        <translation type="unfinished"></translation>
+        <translation>Viento de %1 km/h</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="276"/>
         <source>wind at %1 mph</source>
-        <translation type="unfinished"></translation>
+        <translation>Viento de %1 mph</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="279"/>
         <source>wind at %1 kn</source>
-        <translation type="unfinished"></translation>
+        <translation>Viento de %1 kn</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="294"/>
         <source>%1 %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2: %3</translation>
     </message>
 </context>
 <context>
@@ -7173,32 +7252,32 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="36"/>
         <source>Weather</source>
-        <translation type="unfinished"></translation>
+        <translation>Meteo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="94"/>
         <source>Update METAR/TAF data</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización de los datos METAR/TAF</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="183"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the three-dot menu at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;No hay datos METAR/TAF disponibles. Puede reiniciar la descarga manualmente usando el elemento &apos;Actualizar METAR/TAF&apos; desde el menú de tres puntos en la esquina superior derecha de la pantalla.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="222"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAF data from the Aviation Weather Center…&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Descarga en curso&lt;/h3&gt;&lt;p&gt;Por favor espere mientras descargamos los datos de METAR/TAF de Aviation Weather...&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="308"/>
         <source>Update Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de actualización</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WeatherPage.qml" line="309"/>
         <source>&lt;p&gt;Failed to update the list of stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;No se pudo actualizar la lista de estaciones. &lt;/p&gt;&lt;p&gt;Razón: %1. &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -7207,224 +7286,226 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/qml/main.qml" line="124"/>
         <location filename="../../../src/qml/main.qml" line="212"/>
         <source>Aircraft</source>
-        <translation type="unfinished">Avion</translation>
+        <translation>Avion</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="141"/>
         <source>Route and Wind</source>
-        <translation type="unfinished">Ruta y viento</translation>
+        <translation>Ruta y viento</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="159"/>
         <source>Nearby Waypoints</source>
-        <translation type="unfinished">Puntos de ruta cercanos</translation>
+        <translation>Puntos de ruta cercanos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="177"/>
         <source>Weather</source>
-        <translation type="unfinished"></translation>
+        <translation>Meteo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="200"/>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="225"/>
         <source>Flight Routes</source>
-        <translation type="unfinished"></translation>
+        <translation>Rutas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="238"/>
         <source>Maps and Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapas y datos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="239"/>
         <source>Updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización disponible</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="240"/>
         <source>Item not available in flight</source>
-        <translation type="unfinished"></translation>
+        <translation>Elemento no disponible en vuelo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="254"/>
         <source>Waypoints</source>
-        <translation type="unfinished"></translation>
+        <translation>Puntos de ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="278"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="301"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation>Informaciones</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="313"/>
         <source>Positioning</source>
-        <translation type="unfinished"></translation>
+        <translation>Posicionamiento</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="315"/>
         <source>Receiving position information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recibiendo information sobre la posicion.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="315"/>
         <source>Not receiving position information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Imosible recibir information sobre la posicion.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="336"/>
         <source>Traffic Receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Receptor de tráfico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="338"/>
         <source>Receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recibiendo pulcaciones.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="338"/>
         <source>Not receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se estan recibiendo pulcaciones.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="362"/>
         <source>About Enroute Flight Navigation</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Acerca de Enroute Flight Navigation</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="375"/>
         <source>Participate</source>
-        <translation type="unfinished">Participar</translation>
+        <translation>Participar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="388"/>
         <source>Donate</source>
-        <translation type="unfinished">Donar</translation>
+        <translation>Donar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="408"/>
         <source>Manual</source>
-        <translation type="unfinished">Manual</translation>
+        <translation>Manual</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="421"/>
         <source>Read manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Leer el manual</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="449"/>
         <source>Open in browser</source>
-        <translation type="unfinished"></translation>
+        <translation>Avrir en el navegador</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="464"/>
         <source>Download as ebook</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar como ebook</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="478"/>
         <source>Download as PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar como pdf</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="501"/>
         <source>Bug report</source>
-        <translation type="unfinished"></translation>
+        <translation>Informe de error</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="526"/>
         <source>Exit</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="582"/>
         <source>Update required!</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualización necessaria</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="698"/>
         <source>Connected to traffic receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Connectado al receptor de tráfico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="700"/>
         <source>Lost connection to traffic receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexión pérdida con el receptor de tráfico.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="733"/>
         <source>Exit…?</source>
-        <translation type="unfinished"></translation>
+        <translation>Salida...?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="734"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
-        <translation type="unfinished"></translation>
+        <translation>Quiere salir de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="744"/>
         <location filename="../../../src/qml/main.qml" line="753"/>
         <source>What&apos;s new…?</source>
-        <translation type="unfinished"></translation>
+        <translation>Que hay de nuevo...?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="795"/>
         <source>Now showing airspaces up to %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ahora mostrando espacios aéreos hasta %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="797"/>
         <source>Now showing all airspaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ahora mostrando todos los espacios aéreos.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="821"/>
         <source>Starting map update</source>
-        <translation type="unfinished"></translation>
+        <translation>Iniciando actualización de mapas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="843"/>
         <source>Network security error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de seguridad de la red</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="855"/>
         <source>Network security settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Configuración de seguridad de la red</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="856"/>
         <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ha elegido ignorar los errores de seguridad de la red en el futuro. **Esto representa un riesgo de seguridad.** Vaya a la página &quot;Configuración&quot; si desea restaurar el comportamiento original y seguro de esta aplicación.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="138"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation es una aplicación de navegación gratuita para pilotos VFR,
+desarrollado como un proyecto de Akaflieg Freiburg.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="141"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
-        <translation type="unfinished"></translation>
+        <translation>Eecutar simulador y generar capturas de pantalla para GooglePlay</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="143"/>
         <source>Run simulator and generate screenshots for the manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Ejecutar simulador y generar capturas de pantalla para el manual</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="145"/>
         <source>File to import.</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo a importar.</translation>
     </message>
 </context>
 </TS>
