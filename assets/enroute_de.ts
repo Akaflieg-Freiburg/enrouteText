@@ -1530,7 +1530,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="111"/>
         <source>Quit App</source>
-        <translation type="unfinished"></translation>
+        <translation>App beenden</translation>
     </message>
     <message>
         <source>Reject</source>
@@ -2309,7 +2309,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="234"/>
         <source>Error Exporting Data…</source>
-        <translation type="unfinished">Fehler beim Datenexport…</translation>
+        <translation>Fehler beim Datenexport…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="242"/>
@@ -2577,22 +2577,22 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="235"/>
         <source>Privacy Policies</source>
-        <translation type="unfinished"></translation>
+        <translation>Erklärung zur Vertraulichkeit</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="236"/>
         <source>This app does not send any data to us or other parties. We do not collect data and we do not track our users. However, this app accesses internet sites that may not be under our control and may keep access logs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese App übermittelt keine Daten an uns oder Dritte. Wir sammeln keine Daten und verfolgen unsere Benutzer nicht. Allerdings greift diese App auf Webseiten (ggf. außerhalb unseres Einflusses) zu, die evtl. Zugriffsloggs schreiben.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="238"/>
         <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die App verbindet sich mit Servern der Universität Freiburg, prüft auf Updates und lädt Karten und Daten herunter.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="239"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the Aviation Weather Center, a website of the United States government.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die App lädt METAR- und TAF-Daten für Ihren Standort und Ihre geplante Route vom Aviation Weather Center herunter, einer Webpräsenz der US-Regierung.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="244"/>
