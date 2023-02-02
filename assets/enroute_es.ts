@@ -2173,7 +2173,16 @@ con los datos de la cuenta bancaria.</translation>
   version of this license.
 &lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Licencia&lt;/h3&gt;
+
+&lt;p&gt;
+  El programa &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;
+  tiene licencia bajo el &lt;a
+  href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU
+  Licencia Pública General V3&lt;/a&gt; o, a su elección, cualquier posterior
+  versión de esta licencia.
+&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="205"/>
@@ -2190,7 +2199,18 @@ con los datos de la cuenta bancaria.</translation>
 %1
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h4&gt;Software y datos incluidos en el programa&lt;/h4&gt;
+
+&lt;p&gt;
+  Dependiendo de la plataforma y la configuración, los siguientes
+  componentes pueden estar incluidos en la instalación de
+  &lt;strong&gt;nroute Flight Navigation&lt;/strong&gt;.
+&lt;/p&gt;
+
+&lt;ul style=&quot;margen-izquierda:-25px;&quot;&gt;
+%1
+&lt;/ul&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="222"/>
@@ -2203,27 +2223,35 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Permisos faltantes&lt;/h3&gt;
+
+&lt;p&gt;La aplicación &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; no se iniciará porque no se han otorgado algunos permisos esenciales. Reinicie la aplicación y conceda los permisos necesarios. Si ha elegido denegar algunos permisos de forma permanente, es posible que deba ir a la aplicación Configuración de Android para otorgar los permisos allí.&lt;/p&gt;
+
+&lt;p&gt;Nuestras &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/privacy#privileges-of-the-android-app&quot; title=&quot;políticas de privacidad&quot;&gt;políticas de privacidad&lt;/a&gt; explica porqué los permisos son necesarios y para qué se utilizan.&lt;/p&gt;
+
+&lt;p&gt;¡Vuela con seguridad y disfrute de muchos aterrizajes felices!&lt;/p&gt;
+
+&lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="235"/>
         <source>Privacy Policies</source>
-        <translation type="unfinished"></translation>
+        <translation>Políticas de privacidad</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="236"/>
         <source>This app does not send any data to us or other parties. We do not collect data and we do not track our users. However, this app accesses internet sites that may not be under our control and may keep access logs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta aplicación no nos envía ningún dato a nosotros ni a otras partes. No recopilamos datos y no rastreamos a nuestros usuarios. Sin embargo, esta aplicación accede a sitios de Internet que pueden no estar bajo nuestro control y puede mantener registros de acceso.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="238"/>
         <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación se conecta a los servidores de la Universidad de Friburgo para buscar actualizaciones y descargar mapas y datos.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="239"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the Aviation Weather Center, a website of the United States government.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación descarga datos METAR y TAF para su ubicación y su ruta deseada desde el Aviation Weather Center, un sitio web del gobierno de los Estados Unidos.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="245"/>
@@ -2238,12 +2266,22 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
 
 &lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Demasiadas mapas&lt;/h3&gt;
+
+&lt;p&gt;Gracias por usar Enroute Flight Navigation, apreciamos mucho su compromiso.&lt;/p&gt;
+
+&lt;p&gt;Sin embargo, nos gustaría pedirle que &lt;strong&gt;descargue solo los mapas que realmente necesita.&lt;/strong&gt;
+
+&lt;p&gt;Por un lado, el ancho de banda para la descarga de mapas está amablemente patrocinado por la Universidad de Freiburg, bajo el supuesto de que &lt;strong&gt;los costes se mantengan dentro de límites razonables.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Por otro lado, la aplicación funcionará mucho mejor si no tiene que procesar muchos megabytes de datos de mapas.&lt;/p&gt;
+
+&lt;p&gt;Estamos haciendo todo lo posible para evitar un límite estricto en la cantidad de mapas en el futuro. Por favor ayúdenos con eso.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="260"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Hemos actualizado la base tecnológica subyacente a esta aplicación. Por favor, informe de cualquier problema!&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -2553,27 +2591,27 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="34"/>
         <source>Store password?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Guardar contraseña?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="39"/>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now connected to the traffic data receiver in the WiFi network &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ahora está conectado al receptor de datos de tráfico en la red WiFi &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="40"/>
         <source>&lt;p&gt;Would you like to store the password for the traffic data receiver? Note that the stored password will not be encrypted. You can clear the password storage from the setting page.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;¿Le gustaría guardar la contraseña para el receptor de datos de tráfico? Tenga en cuenta que la contraseña almacenada no se cifrará. Puede borrar el almacenamiento de contraseñas desde la página de configuración.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="47"/>
         <source>Store</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="51"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
