@@ -1535,12 +1535,12 @@ con i dati del conto bancario.
 <context>
     <name>FirstRunDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="99"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="110"/>
         <source>Accept</source>
         <translation>Accetta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="111"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="122"/>
         <source>Quit App</source>
         <translation type="unfinished"></translation>
     </message>
@@ -2650,7 +2650,7 @@ con i dati del conto bancario.
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="244"/>
+        <location filename="../../../src/Librarian.cpp" line="245"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -2675,7 +2675,7 @@ con i dati del conto bancario.
 &lt;p&gt;Ce la stiamo mettendo tutta per evitare di introdurre un limite nel numero di mappe scaricabili per il futuro. Per favore aiutateci in questo.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="259"/>
+        <location filename="../../../src/Librarian.cpp" line="260"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
         <translation>&lt;p&gt;Abbiamo aggiornato la tecnologia di base di questa app. Riportate qualsiasi malfunzionamento!&lt;/p&gt;</translation>
     </message>

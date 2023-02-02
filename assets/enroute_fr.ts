@@ -1215,12 +1215,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>FirstRunDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="99"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="110"/>
         <source>Accept</source>
         <translation>Accepter</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="111"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="122"/>
         <source>Quit App</source>
         <translation>Quitter la app</translation>
     </message>
@@ -2198,7 +2198,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>L&apos;application télécharge les données METAR et TAF pour votre emplacement et votre itinéraire prévu à partir de l&apos;Aviation Weather Center, un site Web du gouvernement des États-Unis.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="244"/>
+        <location filename="../../../src/Librarian.cpp" line="245"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -2241,7 +2241,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="259"/>
+        <location filename="../../../src/Librarian.cpp" line="260"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
         <translation>&lt;p&gt;Nous avons mis à jour la base technologique sous-jacente à cette application. Veuillez signaler tout problème!&lt;p&gt;</translation>
     </message>
