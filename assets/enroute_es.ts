@@ -2673,12 +2673,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/platform/Notifier_Android.cpp" line="82"/>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="205"/>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="206"/>
         <source>Dismiss</source>
-        <translation type="unfinished"></translation>
+        <translation>Descartar</translation>
     </message>
 </context>
 <context>
@@ -2686,22 +2686,22 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="55"/>
         <source>Downloading map and data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando mapas y datos</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="57"/>
         <source>Traffic data receiver problem</source>
-        <translation type="unfinished"></translation>
+        <translation>Problema del receptor de datos de tráfico</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="59"/>
         <source>Traffic data receiver self test error</source>
-        <translation type="unfinished"></translation>
+        <translation>Error de autocomprobación del receptor de datos de tráfico</translation>
     </message>
     <message>
         <location filename="../../../src/platform/Notifier_Abstract.cpp" line="61"/>
         <source>Map and data updates available</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualizaciones de mapas y datos disponibles</translation>
     </message>
 </context>
 <context>
@@ -2843,23 +2843,23 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="251"/>
         <source>Receiving position information.</source>
-        <translation type="unfinished">Recibiendo information sobre la posicion.</translation>
+        <translation>Recibiendo information sobre la posicion.</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="253"/>
         <source>Receiving pressure altitude.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recibiendo la pression de altitud</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="260"/>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="262"/>
         <source>Not receiving position information</source>
-        <translation type="unfinished"></translation>
+        <translation>No se estan recibiendo informaciones de posición</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="262"/>
         <source>Traffic receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Receptor de tráfico</translation>
     </message>
 </context>
 <context>
@@ -2867,27 +2867,27 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="167"/>
         <source>Unable to open the file &apos;%1&apos; for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir el archivo &apos;%1&apos; para leerlo.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="183"/>
         <source>JSON document contains no data.</source>
-        <translation type="unfinished"></translation>
+        <translation>El documento JSON no contiene datos</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="187"/>
         <source>JSON document does not describe an aircraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>El documento JSON no describe un avión.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="225"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished">No se puede abrir el archivo &apos;%1&apos; para escribir.</translation>
+        <translation>No se puede abrir el archivo &apos;%1&apos; para escribir.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="231"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished">No se puede escribir en el archivo &apos;%1&apos;.</translation>
+        <translation>No se puede escribir en el archivo &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
@@ -2895,17 +2895,17 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="210"/>
         <source>Position unknown.</source>
-        <translation type="unfinished"></translation>
+        <translation>Posición desconocida</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="212"/>
         <source>More than %1 off route.</source>
-        <translation type="unfinished"></translation>
+        <translation>uera de la ruta de más de %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="214"/>
         <source>Near destination.</source>
-        <translation type="unfinished"></translation>
+        <translation>Destinación cercana</translation>
     </message>
 </context>
 <context>
@@ -3192,12 +3192,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/dialogs/TooManyDownloadsDialog.qml" line="35"/>
         <source>Download anyways</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar de todos modos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/TooManyDownloadsDialog.qml" line="39"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -3214,27 +3214,27 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="49"/>
         <source>Traffic data receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Receptor de datos de tráfico</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="396"/>
         <source>Receiving heartbeat.</source>
-        <translation type="unfinished">Recibiendo pulcaciones.</translation>
+        <translation>Recibiendo pulcaciones.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="398"/>
         <source>Receiving position info.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recibiendo información de posición</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="401"/>
         <source>Receiving barometric altitude info.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recibiendo información de altitud barométrica.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="408"/>
         <source>Not receiving heartbeat.</source>
-        <translation type="unfinished">No se estan recibiendo pulcaciones.</translation>
+        <translation>No se estan recibiendo pulcaciones.</translation>
     </message>
 </context>
 <context>
@@ -3640,87 +3640,87 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="143"/>
         <source>Connected.</source>
-        <translation type="unfinished">Connectado</translation>
+        <translation>Connectado</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="145"/>
         <source>Not connected.</source>
-        <translation type="unfinished">No está connectado</translation>
+        <translation>No está connectado</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="154"/>
         <source>An error occurred when reading from the file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocurrió un error al leer del archivo.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="157"/>
         <source>An error occurred when writing to the file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocurrió un error al escribir el archivo.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="160"/>
         <source>A fatal error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocurrió un error fatal.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="163"/>
         <source>Out of resources (e.g., too many open files, out of memory, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin recursos (por ejemplo, demasiados archivos abiertos, sin memoria, etc.)</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="166"/>
         <source>The file could not be opened.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo abrir el acrchivo</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="169"/>
         <source>The operation was aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>La operación ha sido abortada</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="172"/>
         <source>A timeout occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tiempo de espera agotado</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="175"/>
         <source>An unspecified error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se produjo un error no especificado</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="178"/>
         <source>The file could not be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo no se puede eliminar</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="181"/>
         <source>The file could not be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo no se puede renombrar</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="184"/>
         <source>The position in the file could not be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo cambiar la posición en el archivo.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="187"/>
         <source>The file could not be resized.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo cambiar el tamaño del archivo.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="190"/>
         <source>The file could not be accessed.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo acceder al archivo.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="193"/>
         <source>The file could not be copied.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo copiar el archivo.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.h" line="68"/>
         <source>Simulator file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo de simulador %1</translation>
     </message>
 </context>
 <context>
