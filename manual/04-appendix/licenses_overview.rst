@@ -64,7 +64,6 @@
 - Smooth Scaling Algorithm. BSD 2-clause "Simplified" License and Imlib2 License.
 - `SQLite <https://www.sqlite.org/>`_. Public Domain.
 - `sRGB color profile icc file <http://www.color.org/>`_. International Color Consortium License.
-- `Sunset library <https://github.com/buelowp/sunset>`_. GNU General Public License v2.0.
 - `Tango Icons <http://tango.freedesktop.org/Tango_Desktop_Project>`_. Public Domain.
 - `Tango Weather Icon Pack by Darkobra <https://www.deviantart.com/darkobra/art/Tango-Weather-Icon-Pack-98024429>`_. Public Domain.
 - `The Public Suffix List <http://publicsuffix.org/>`_. Mozilla Public License 2.0.

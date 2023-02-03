@@ -1665,32 +1665,32 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">Mapa base</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="81"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="80"/>
         <source>Aviation Maps</source>
         <translation>Mapas de navegación aérea</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="82"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="81"/>
         <source>The aeronautical maps are compiled from databases provided by the &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt; projects.</source>
         <translation>Los mapas aeronáuticos se compilan a partir de bases de datos proporcionadas por &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; y &lt;a&gt;href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="92"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="91"/>
         <source>Base Maps</source>
         <translation>Mapa base</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="93"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="92"/>
         <source>The base maps are generated from &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt; data.</source>
         <translation>Los mapas base se generan a partir de datos de &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="100"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="99"/>
         <source>Terrain Maps</source>
         <translation>Mapas de terreno</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="101"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="100"/>
         <source>The terrain maps are derived from the &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt;.</source>
         <translation>Los mapas de terreno se derivan del &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset en Amazon AWS&lt;/a&gt;.</translation>
     </message>
@@ -2717,7 +2717,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="34"/>
         <source>Positioning</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Posicionamiento</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="61"/>
@@ -2732,12 +2732,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="108"/>
         <source>Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Latitud</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="121"/>
         <source>Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Longitud</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="133"/>
@@ -2843,7 +2843,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="251"/>
         <source>Receiving position information.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recibiendo information sobre la posicion.</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="253"/>
@@ -2882,12 +2882,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="225"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No se puede abrir el archivo &apos;%1&apos; para escribir.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="231"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No se puede escribir en el archivo &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
@@ -2913,7 +2913,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="36"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ajustes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
@@ -3004,7 +3004,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="250"/>
         <source>System</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sistema</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="261"/>
@@ -3073,17 +3073,17 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="358"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ayuda</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="368"/>
         <source>How to connect your traffic receiver…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cómo conectar el receptor de tráfico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="376"/>
         <source>How to connect your flight simulator…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cómo conectar el simulador de vuelo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="399"/>
@@ -3104,7 +3104,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="408"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="446"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="430"/>
@@ -3197,7 +3197,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/dialogs/TooManyDownloadsDialog.qml" line="39"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cancelar</translation>
     </message>
 </context>
 <context>
@@ -3219,7 +3219,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="396"/>
         <source>Receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Recibiendo pulcaciones.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="398"/>
@@ -3234,7 +3234,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="408"/>
         <source>Not receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No se estan recibiendo pulcaciones.</translation>
     </message>
 </context>
 <context>
@@ -3617,7 +3617,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="136"/>
         <source>Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Connectado</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="139"/>
@@ -3632,7 +3632,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="145"/>
         <source>Not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No está connectado</translation>
     </message>
 </context>
 <context>
@@ -3640,12 +3640,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="143"/>
         <source>Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Connectado</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="145"/>
         <source>Not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No está connectado</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="154"/>
@@ -6364,7 +6364,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2152"/>
         <source>CAVOK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CAVOK</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2155"/>
