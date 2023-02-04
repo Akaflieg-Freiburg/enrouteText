@@ -2244,17 +2244,37 @@ con los datos de la cuenta bancaria.</translation>
         <translation>Esta aplicación no nos envía ningún dato a nosotros ni a otras partes. No recopilamos datos y no rastreamos a nuestros usuarios. Sin embargo, esta aplicación accede a sitios de Internet que pueden no estar bajo nuestro control y puede mantener registros de acceso.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="238"/>
+        <location filename="../../../src/Librarian.cpp" line="241"/>
         <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
         <translation>La aplicación se conecta a los servidores de la Universidad de Friburgo para buscar actualizaciones y descargar mapas y datos.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="239"/>
+        <location filename="../../../src/Librarian.cpp" line="243"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the Aviation Weather Center, a website of the United States government.</source>
         <translation>La aplicación descarga datos METAR y TAF para su ubicación y su ruta deseada desde el Aviation Weather Center, un sitio web del gobierno de los Estados Unidos.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="245"/>
+        <location filename="../../../src/Librarian.cpp" line="247"/>
+        <source>Privacy-relevant permissions requested by this app</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="248"/>
+        <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information for your location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="251"/>
+        <source>Please grant permission to access the precise location when prompted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="252"/>
+        <source>Responsible</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="258"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -2279,7 +2299,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Estamos haciendo todo lo posible para evitar un límite estricto en la cantidad de mapas en el futuro. Por favor ayúdenos con eso.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="260"/>
+        <location filename="../../../src/Librarian.cpp" line="273"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
         <translation>&lt;p&gt;Hemos actualizado la base tecnológica subyacente a esta aplicación. Por favor, informe de cualquier problema!&lt;/p&gt;</translation>
     </message>
@@ -2865,7 +2885,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>PrivacyPage</name>
     <message>
-        <location filename="../../../src/qml/pages/PrivacyPage.qml" line="31"/>
+        <location filename="../../../src/qml/pages/PrivacyPage.qml" line="28"/>
         <source>Privacy Policy</source>
         <translation type="unfinished"></translation>
     </message>
