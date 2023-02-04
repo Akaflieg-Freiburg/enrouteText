@@ -3662,7 +3662,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/PrivacyPage.qml" line="31"/>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Erklärung zur Vertraulichkeit</translation>
     </message>
 </context>
 <context>
@@ -8449,7 +8449,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="372"/>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Erklärung zur Vertraulichkeit</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="418"/>
