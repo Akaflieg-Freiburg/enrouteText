@@ -2319,7 +2319,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="243"/>
         <source>System information can be helpful to the developers when you report a bug. The button &apos;Share Info&apos; at the bottom of the &apos;System&apos; tab can be used to forward this information to the developers.</source>
-        <translation>Wenn Sie uns Fehler melden, sind Systeminformationen für die Entwickler hilfreich. Der Knopf &apos;Info teilen&apos; unten auf dem &apos;System&apos;-Reiter leitet diese Informationen an die Entwickler weiter.</translation>
+        <translation>Systeminformationen können für die Entwickler hilfreich sein, wenn Sie einen Fehler melden. Der Knopf &apos;Info teilen&apos; unten auf dem &apos;System&apos;-Reiter hilft Ihnen, diese Informationen an die Entwickler weiterzuleiten.</translation>
     </message>
 </context>
 <context>
@@ -2577,7 +2577,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="235"/>
         <source>Privacy Policies</source>
-        <translation>Erklärung zur Vertraulichkeit</translation>
+        <translation>Datenschutz</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="236"/>
@@ -2585,17 +2585,46 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Diese App übermittelt keine Daten an uns oder Dritte. Wir sammeln keine Daten und verfolgen unsere Benutzer nicht. Allerdings greift diese App auf Webseiten (ggf. außerhalb unseres Einflusses) zu, die evtl. Zugriffsloggs schreiben.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="238"/>
+        <location filename="../../../src/Librarian.cpp" line="241"/>
         <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
         <translation>Die App verbindet sich mit Servern der Universität Freiburg, prüft auf Updates und lädt Karten und Daten herunter.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="239"/>
+        <location filename="../../../src/Librarian.cpp" line="243"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the Aviation Weather Center, a website of the United States government.</source>
         <translation>Die App lädt METAR- und TAF-Daten für Ihren Standort und Ihre geplante Route vom Aviation Weather Center herunter, einer Webpräsenz der US-Regierung.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="245"/>
+        <location filename="../../../src/Librarian.cpp" line="247"/>
+        <source>Privacy-relevant permissions requested by this app</source>
+        <translation>Datenschutzrelevante Berechtigungen, die von der App angefordert werden</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="248"/>
+        <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information for your location.</source>
+        <translation>Enroute Flight Navigation benötigt Zugriff auf Ihren genauen Standort. Die App verwendet diese Daten, um Ihre Position auf der Karte anzuzeigen und für Ihren Standort relevante aeronautische Informationen bereitzustellen.</translation>
+    </message>
+    <message>
+        <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information.</source>
+        <translation type="vanished">Enroute Flight Navigation benötigt Zugriff auf Ihren genauen Standort. Die App verwendet diese Daten, um Ihre Position auf der Karte anzuzeigen und relevante aeronautische Informationen
+ bereitzustellen.</translation>
+    </message>
+    <message>
+        <source>Enroute Flight Navigation needs to access your precise location. The app uses this information to show your position on the moving map and to provide relevant aeronautical data.</source>
+        <translation type="obsolete">Enroute Flight Navigation benötigt Zugriff auf Ihren genauen Standort. Die App verwendet diese Informationen, um Ihre Position auf der Karte anzuzeigen und relevante aeronautische Daten bereitzustellen.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="251"/>
+        <source>Please grant permission to access the precise location when prompted.</source>
+        <translation>Bitte erteilen Sie die Erlaubnis zum Zugriff auf den genauen Standort, wenn Sie dazu aufgefordert werden.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="252"/>
+        <source>Responsible</source>
+        <translation>Verantwortlich</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="258"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -2620,7 +2649,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;Wenn irgend möglich, würden wir eine harte Begrenzung der Kartenanzahl auch zukünftig gern vermeiden. Bitte helfen Sie dabei mit.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="260"/>
+        <location filename="../../../src/Librarian.cpp" line="273"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
         <translation>&lt;p&gt;Die Technologie unter dieser App hat sich geändert. Bitte melden Sie alles, was Ihnen merkwürdig vorkommt!&lt;/p&gt;</translation>
     </message>
@@ -3660,9 +3689,9 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>PrivacyPage</name>
     <message>
-        <location filename="../../../src/qml/pages/PrivacyPage.qml" line="31"/>
+        <location filename="../../../src/qml/pages/PrivacyPage.qml" line="28"/>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenschutz</translation>
     </message>
 </context>
 <context>
@@ -8449,7 +8478,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="372"/>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenschutz</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="418"/>
