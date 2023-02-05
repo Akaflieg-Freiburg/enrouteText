@@ -1525,12 +1525,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="71"/>
         <source>Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenschutz</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="72"/>
         <source>Please take a minute to review our privacy policies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte nehmen Sie sich einen Moment Zeit und lesen Sie unsere Datenschutzbestimmungen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="114"/>
@@ -2617,7 +2617,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="274"/>
         <source>Our aviation maps will now receive daily updates, provided that new data is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsere Luftfahrtkarten erhalten nun täglich Updates, wenn es neue Daten gibt.</translation>
     </message>
     <message>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information.</source>
