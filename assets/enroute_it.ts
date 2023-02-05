@@ -2710,6 +2710,11 @@ con i dati del conto bancario.
         <translation>&lt;p&gt;Abbiamo aggiornato la tecnologia di base di questa app. Riportate qualsiasi malfunzionamento!&lt;/p&gt;</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="274"/>
+        <source>Our aviation maps will now receive daily updates, provided that new data is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;p&gt;To better support older devices, the hillshading feature is now optional. The page &apos;Settings&apos; has been redesigned for clarity and simplicity.&lt;/p&gt;</source>
         <translation type="vanished">&lt;p&gt;Per supportare meglio i dispositivi meno recenti, la funzione di ombreggiatura è ora facoltativa. La pagina &apos;Impostazioni&apos; è stata ridisegnata per chiarezza e semplicità.&lt;/p&gt;</translation>
     </message>

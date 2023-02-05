@@ -2615,6 +2615,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Enroute Flight Navigation benötigt Zugriff auf Ihren genauen Standort. Die App verwendet diese Daten, um Ihre Position auf der Karte anzuzeigen und für Ihren Standort relevante aeronautische Informationen bereitzustellen.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="274"/>
+        <source>Our aviation maps will now receive daily updates, provided that new data is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information.</source>
         <translation type="vanished">Enroute Flight Navigation benötigt Zugriff auf Ihren genauen Standort. Die App verwendet diese Daten, um Ihre Position auf der Karte anzuzeigen und relevante aeronautische Informationen
  bereitzustellen.</translation>

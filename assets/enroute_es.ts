@@ -2313,6 +2313,11 @@ con los datos de la cuenta bancaria.</translation>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
         <translation>&lt;p&gt;Hemos actualizado la base tecnológica subyacente a esta aplicación. Por favor, informe de cualquier problema!&lt;/p&gt;</translation>
     </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="274"/>
+        <source>Our aviation maps will now receive daily updates, provided that new data is available.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MFM</name>
