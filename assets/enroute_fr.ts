@@ -1217,12 +1217,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="71"/>
         <source>Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Confidentialité</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="72"/>
         <source>Please take a minute to review our privacy policies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez prendre une minute pour consulter nos politiques de confidentialité.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="114"/>
@@ -2210,22 +2210,22 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="247"/>
         <source>Privacy-relevant permissions requested by this app</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorisations liées à la confidentialité demandées par cette application</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="248"/>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information for your location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation doit accéder à votre emplacement précis. L&apos;application utilise ces données pour afficher votre position sur la carte mobile et pour fournir des informations aéronautiques pertinentes pour votre emplacement.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="251"/>
         <source>Please grant permission to access the precise location when prompted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez autoriser l&apos;accès à l&apos;emplacement précis lorsque vous y êtes invité.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="252"/>
         <source>Responsible</source>
-        <translation type="unfinished"></translation>
+        <translation>Responsable</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="258"/>
@@ -2255,7 +2255,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="274"/>
         <source>Our aviation maps will now receive daily updates, provided that new data is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nos cartes d&apos;aviation recevront désormais des mises à jour quotidiennes, à condition que de nouvelles données soient disponibles.</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
@@ -3013,7 +3013,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/PrivacyPage.qml" line="29"/>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Plitique de confidentialité</translation>
     </message>
 </context>
 <context>
@@ -7615,7 +7615,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="372"/>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Politique de confidentialité</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="418"/>
