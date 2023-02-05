@@ -1542,7 +1542,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="122"/>
         <source>Quit App</source>
-        <translation type="unfinished"></translation>
+        <translation>Chiudi l&apos;App</translation>
     </message>
     <message>
         <source>Reject</source>
@@ -2282,7 +2282,7 @@ con i dati del conto bancario.
         <location filename="../../../src/qml/pages/InfoPage.qml" line="32"/>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="241"/>
         <source>About EFN</source>
-        <translation type="unfinished"></translation>
+        <translation>Info EFN</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="101"/>
@@ -2322,17 +2322,17 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="234"/>
         <source>Error Exporting Data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore nell&apos;esportazione dei dati...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="242"/>
         <source>This page presents four tabs with information about the app, its authors, the software license, and the current system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa pagina è composta da quattro schede con le informazioni sull&apos;app, gli autori, le licenze del software e il sistema corrente.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="243"/>
         <source>System information can be helpful to the developers when you report a bug. The button &apos;Share Info&apos; at the bottom of the &apos;System&apos; tab can be used to forward this information to the developers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le informazioni del sistema possono essere utili agli sviluppatori quando si segnala un bug. Il pulsante &quot;Condividi informazioni&quot; nella parte inferiore della scheda &quot;Sistema&quot; può essere utilizzato per inoltrare queste informazioni agli sviluppatori.</translation>
     </message>
 </context>
 <context>
@@ -2632,42 +2632,42 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="235"/>
         <source>Privacy Policies</source>
-        <translation type="unfinished"></translation>
+        <translation>Norme sulla Privacy</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="236"/>
         <source>This app does not send any data to us or other parties. We do not collect data and we do not track our users. However, this app accesses internet sites that may not be under our control and may keep access logs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa app non invia dati a noi o ad altre parti. Non raccogliamo dati e non tracciamo i nostri utenti. Tuttavia, questa app accede a siti Internet che potrebbero non essere sotto il nostro controllo e potrebbe conservare registri di accesso.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="241"/>
         <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;app si connette ai server dell&apos;Università di Freiburg per controllare gli aggiornamenti e scaricare mappe e dati.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="243"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the Aviation Weather Center, a website of the United States government.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;app scarica i dati METAR e TAF per la tua posizione e il percorso previsto dall&apos;Aviation Weather Center, un sito web del governo degli Stati Uniti.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="247"/>
         <source>Privacy-relevant permissions requested by this app</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorizzazioni rilevanti per la privacy richieste da questa app</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="248"/>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information for your location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation deve accedere alla tua posizione precisa. L&apos;app utilizza questi dati per mostrare la tua posizione sulla mappa in movimento e per fornire informazioni aeronautiche rilevanti per la tua posizione.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="251"/>
         <source>Please grant permission to access the precise location when prompted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Concedi l&apos;autorizzazione per accedere alla posizione precisa quando richiesto.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="252"/>
         <source>Responsible</source>
-        <translation type="unfinished"></translation>
+        <translation>Responsabile</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="258"/>
@@ -3712,7 +3712,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/PrivacyPage.qml" line="28"/>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Norme sulla Privacy</translation>
     </message>
 </context>
 <context>
@@ -8499,7 +8499,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="372"/>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Norme sulla Privacy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="418"/>
