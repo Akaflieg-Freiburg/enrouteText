@@ -1794,7 +1794,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="172"/>
         <source>To avoid conflicts, vector maps will be not be shown while raster maps are installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para evitar conflictos, los mapas vectoriales no se mostrarán mientras estén instaladas los mapas ráster.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="193"/>
@@ -4391,12 +4391,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="108"/>
         <source>Cloud cover %1/8, %2, base height %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Cobertura de nubes %1/8, %2, altura base %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="113"/>
         <source>Cloud cover %1/8, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Cobertura de nubes  %1/8, %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="122"/>
@@ -4416,22 +4416,22 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/weather/Decoder.cpp" line="1813"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1855"/>
         <source>not reported</source>
-        <translation type="unfinished"></translation>
+        <translation>no reportado</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="125"/>
         <source>variable</source>
-        <translation type="unfinished"></translation>
+        <translation>variable</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="128"/>
         <source>no directional variation</source>
-        <translation type="unfinished"></translation>
+        <translation>sin variación direccional</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="134"/>
         <source>[unable to produce value in °]</source>
-        <translation type="unfinished"></translation>
+        <translation>[incapaz de producir valor en °]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="146"/>
@@ -4441,63 +4441,63 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="149"/>
         <source>all quadrants (all directions)</source>
-        <translation type="unfinished"></translation>
+        <translation>todos los cuadrantes (todas las direcciones)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="152"/>
         <source>unknown direction</source>
-        <translation type="unfinished"></translation>
+        <translation>dirección desconocida</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="190"/>
         <source>19 to 55 km</source>
-        <translation type="unfinished"></translation>
+        <translation>19 a 55 km</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="193"/>
         <source>12 to 35 mil</source>
-        <translation type="unfinished"></translation>
+        <translation>12 a 35 mil</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="196"/>
         <source>10 to 30 nm</source>
-        <translation type="unfinished"></translation>
+        <translation>10 a 30 nm</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="204"/>
         <source>9 to 19 km</source>
-        <translation type="unfinished"></translation>
+        <translation>9 a 19 km</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="207"/>
         <source>6 to 12 mil</source>
-        <translation type="unfinished"></translation>
+        <translation>6 a 12 mil</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="210"/>
         <source>5 to 10 nm</source>
-        <translation type="unfinished"></translation>
+        <translation>5 a 10 nm</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="224"/>
         <source>[unable to get distance value in miles]</source>
-        <translation type="unfinished"></translation>
+        <translation>[no se puede obtener el valor de la distancia en millas]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="244"/>
         <location filename="../../../src/weather/Decoder.cpp" line="264"/>
         <source>[unable to convert distance to meters]</source>
-        <translation type="unfinished"></translation>
+        <translation>[no se puede convertir la distancia en metros]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="249"/>
         <source>[unable to get distance&apos;s floating-point value]</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">[No se puede obtener el valor de punto flotante de la distancia]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="291"/>
         <source>no value</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin valor</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="326"/>
@@ -4507,288 +4507,288 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="333"/>
         <source>[unable to convert precipitation to mm]</source>
-        <translation type="unfinished"></translation>
+        <translation>[no se puede convertir las precipitaciones en mm]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="346"/>
         <source>[unable to convert pressure to hPa]</source>
-        <translation type="unfinished"></translation>
+        <translation>[no se puede convertir la presión en hPa]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="351"/>
         <source>all runways</source>
-        <translation type="unfinished"></translation>
+        <translation>todas las pistas</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="354"/>
         <source>same runway (repetition of last message)</source>
-        <translation type="unfinished"></translation>
+        <translation>misma pista (repetición del último mensaje)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="359"/>
         <source>runway %1</source>
-        <translation type="unfinished"></translation>
+        <translation>pista %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="362"/>
         <source>runway %1 LEFT</source>
-        <translation type="unfinished"></translation>
+        <translation>pista %1 IZQUIERDA</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="365"/>
         <source>runway %1 CENTER</source>
-        <translation type="unfinished"></translation>
+        <translation>pista %1 CENTRO</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="368"/>
         <source>runway %1 RIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>pista %1 DERECHA</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="385"/>
         <source>[unable to convert speed to km/h]</source>
-        <translation type="unfinished"></translation>
+        <translation>[no se puede convertir la velocidad en km/h]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="392"/>
         <source>[unable to convert speed to knots]</source>
-        <translation type="unfinished"></translation>
+        <translation>[no se puede convertir la velocidad en knots]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="405"/>
         <source>friction coefficient %1</source>
-        <translation type="unfinished"></translation>
+        <translation>coeficiente de fricción %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="407"/>
         <source>[unable to produce a friction coefficient]</source>
-        <translation type="unfinished"></translation>
+        <translation>[incapaz de producir un coeficiente de fricción]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="410"/>
         <source>braking action %1</source>
-        <translation type="unfinished"></translation>
+        <translation>acción de frenado %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="413"/>
         <source>unreliable or unmeasurable</source>
-        <translation type="unfinished"></translation>
+        <translation>poco fiable o inmedible</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="424"/>
         <source>[unable to convert temperature to °C]</source>
-        <translation type="unfinished"></translation>
+        <translation>[no se puede convertir la temperadura en °C]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="432"/>
         <source>slightly less than %1</source>
-        <translation type="unfinished"></translation>
+        <translation>un poco menos que %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="435"/>
         <source>slightly more than %1</source>
-        <translation type="unfinished"></translation>
+        <translation>un poco mas de %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="446"/>
         <source>state of sea surface: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>estado de la superficie del mar: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="452"/>
         <source>wave height: %1 m</source>
-        <translation type="unfinished"></translation>
+        <translation>altura de la ola: %1 m</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="454"/>
         <source>[unable to convert wave height to meters]</source>
-        <translation type="unfinished"></translation>
+        <translation>[no se puede convertir la alyutra de la ola en metros]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="456"/>
         <source>wave height not reported</source>
-        <translation type="unfinished"></translation>
+        <translation>altura de la ola no reportada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="487"/>
         <source>shower</source>
-        <translation type="unfinished"></translation>
+        <translation>lluvia intensa</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="491"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1897"/>
         <source>thunderstorm</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="499"/>
         <source>recent %1</source>
-        <translation type="unfinished"></translation>
+        <translation>reciente %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="503"/>
         <source>%1 in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 en los larededores</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="527"/>
         <source>began:</source>
-        <translation type="unfinished"></translation>
+        <translation>comenzó:</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="534"/>
         <source>ended:</source>
-        <translation type="unfinished"></translation>
+        <translation>terminado:</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="558"/>
         <source>poor (friction coefficient 0.0 to 0.25)</source>
-        <translation type="unfinished"></translation>
+        <translation>médiocre (coefficient de frottement 0,0 à 0,25)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="561"/>
         <source>medium/poor (friction coefficient 0.26 to 0.29)</source>
-        <translation type="unfinished"></translation>
+        <translation>medio/médiocre (coefficient de frottement 0,26 à 0,95)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="564"/>
         <source>medium (friction coefficient 0.30 to 0.35)</source>
-        <translation type="unfinished"></translation>
+        <translation>medio (coefficient de frottement 0,30 à 0,35)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="567"/>
         <source>medium/good (friction coefficient 0.36 to 0.40)</source>
-        <translation type="unfinished"></translation>
+        <translation>medio/bueno (coefficient de frottement 0,36 à 0,40)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="570"/>
         <source>good (friction coefficient 0.40 to 1.00)</source>
-        <translation type="unfinished"></translation>
+        <translation>bueno (coefficient de frottement 0,40 à 1,00)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="582"/>
         <source>north</source>
-        <translation type="unfinished"></translation>
+        <translation>norte</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="585"/>
         <source>south</source>
-        <translation type="unfinished"></translation>
+        <translation>sur</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="588"/>
         <source>west</source>
-        <translation type="unfinished"></translation>
+        <translation>oeste</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="591"/>
         <source>east</source>
-        <translation type="unfinished"></translation>
+        <translation>este</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="594"/>
         <source>northwest</source>
-        <translation type="unfinished"></translation>
+        <translation>noroeste</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="597"/>
         <source>northeast</source>
-        <translation type="unfinished"></translation>
+        <translation>noreste</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="600"/>
         <source>southwest</source>
-        <translation type="unfinished"></translation>
+        <translation>suroeste</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="603"/>
         <source>southeast</source>
-        <translation type="unfinished"></translation>
+        <translation>sureste</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="606"/>
         <source>true north</source>
-        <translation type="unfinished"></translation>
+        <translation>norte verdadero</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="609"/>
         <source>true west</source>
-        <translation type="unfinished"></translation>
+        <translation>oeste verdadero</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="612"/>
         <source>true south</source>
-        <translation type="unfinished"></translation>
+        <translation>sur verdadero</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="615"/>
         <source>true east</source>
-        <translation type="unfinished"></translation>
+        <translation>este verdadero</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="618"/>
         <source>no directional variations</source>
-        <translation type="unfinished"></translation>
+        <translation>sin variaciones direccionales</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="639"/>
         <source>Cloud amount not reported</source>
-        <translation type="unfinished"></translation>
+        <translation>Cantidad de nubes no reportada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="642"/>
         <source>No significant cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin nubes significativas</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="645"/>
         <source>No cloud detected</source>
-        <translation type="unfinished"></translation>
+        <translation>No se detectó ninguna nube</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="649"/>
         <source>Clear sky</source>
-        <translation type="unfinished"></translation>
+        <translation>Cielo despejado</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="652"/>
         <source>Few clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Pocas nubes</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="655"/>
         <source>Scattered clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Nubes dispersas</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="658"/>
         <source>Broken clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Muy nuboso</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="661"/>
         <source>Overcast clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Cubierto</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="664"/>
         <source>Sky obscured</source>
-        <translation type="unfinished"></translation>
+        <translation>Cielo oscurecido</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="667"/>
         <source>Few -- scattered clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Pocas -- nubes dispersas</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="670"/>
         <source>Scattered -- broken clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Nubes dispersas -- muy nuboso</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="673"/>
         <source>Broken -- overcast clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Muy nuboso -- cubierto</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="682"/>
