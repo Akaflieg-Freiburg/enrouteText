@@ -1822,7 +1822,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="172"/>
         <source>To avoid conflicts, vector maps will be not be shown while raster maps are installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour éviter les conflits, les cartes vectorielles ne seront pas affichées pendant l&apos;installation des cartes raster.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="294"/>
