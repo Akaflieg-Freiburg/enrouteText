@@ -1537,12 +1537,12 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="71"/>
         <source>Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Privacy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="72"/>
         <source>Please take a minute to review our privacy policies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per favore leggi le nostre norme sulla privacy.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="114"/>
@@ -2712,7 +2712,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="274"/>
         <source>Our aviation maps will now receive daily updates, provided that new data is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le nostre mappe aeronautiche ricevono adesso aggiornamenti giornalieri se presenti.</translation>
     </message>
     <message>
         <source>&lt;p&gt;To better support older devices, the hillshading feature is now optional. The page &apos;Settings&apos; has been redesigned for clarity and simplicity.&lt;/p&gt;</source>
