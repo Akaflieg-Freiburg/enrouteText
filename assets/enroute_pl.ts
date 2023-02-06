@@ -1540,12 +1540,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="71"/>
         <source>Privacy</source>
-        <translation type="unfinished"></translation>
+        <translation>Prywatność</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="72"/>
         <source>Please take a minute to review our privacy policies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosimy poświęcić chwilę aby przeglądnąć nasze polityki prywatności.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="114"/>
@@ -1555,7 +1555,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="126"/>
         <source>Quit App</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyjdź z aplikacji</translation>
     </message>
     <message>
         <source>Reject</source>
@@ -2294,7 +2294,7 @@ z danymi konta bankowego.
         <location filename="../../../src/qml/pages/InfoPage.qml" line="32"/>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="241"/>
         <source>About EFN</source>
-        <translation type="unfinished"></translation>
+        <translation>O EFN</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="101"/>
@@ -2334,17 +2334,17 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="234"/>
         <source>Error Exporting Data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd podczas eksportowania danych...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="242"/>
         <source>This page presents four tabs with information about the app, its authors, the software license, and the current system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Strona ta prezentuje cztery zakładki z informacjami o aplikacji, jej autorach, licencji oprogramowania oraz aktualnym systemie.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="243"/>
         <source>System information can be helpful to the developers when you report a bug. The button &apos;Share Info&apos; at the bottom of the &apos;System&apos; tab can be used to forward this information to the developers.</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacje o systemie mogą być pomocne dla deweloperów, gdy zgłaszasz błąd. Przycisk &quot;Udostępnij informację&quot; na dole zakładki &quot;System&quot; może być użyty do przekazania tych informacji deweloperom.</translation>
     </message>
 </context>
 <context>
@@ -2674,42 +2674,42 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="235"/>
         <source>Privacy Policies</source>
-        <translation type="unfinished"></translation>
+        <translation>Polityki prywatności</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="236"/>
         <source>This app does not send any data to us or other parties. We do not collect data and we do not track our users. However, this app accesses internet sites that may not be under our control and may keep access logs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta aplikacja nie wysyła żadnych danych do nas ani do innych stron. Nie zbieramy danych i nie śledzimy naszych użytkowników. Jednak ta aplikacja uzyskuje dostęp do stron internetowych, które mogą nie być pod naszą kontrolą i mogą przechowywać dzienniki dostępu.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="241"/>
         <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikacja łączy się z serwerami Uniwersytetu we Freiburgu, aby sprawdzić aktualizacje oraz pobrać mapy i dane.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="243"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the Aviation Weather Center, a website of the United States government.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikacja pobiera dane METAR i TAF dla Twojej lokalizacji i planowanej trasy z Aviation Weather Center, strony internetowej rządu Stanów Zjednoczonych.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="247"/>
         <source>Privacy-relevant permissions requested by this app</source>
-        <translation type="unfinished"></translation>
+        <translation>Uprawnienia związane z ochroną prywatności wymagane przez tę aplikację</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="248"/>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information for your location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation wymaga dostępu do dokładnej lokalizacji użytkownika. Aplikacja wykorzystuje te dane, aby pokazać Twoją pozycję na ruchomej mapie i dostarczyć odpowiednie informacje lotnicze dla Twojej lokalizacji.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="251"/>
         <source>Please grant permission to access the precise location when prompted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Po wyświetleniu monitu należy udzielić zgody na dostęp do dokładnej lokalizacji.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="252"/>
         <source>Responsible</source>
-        <translation type="unfinished"></translation>
+        <translation>Odpowiedzialny</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="258"/>
@@ -2744,7 +2744,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="274"/>
         <source>Our aviation maps will now receive daily updates, provided that new data is available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nasze mapy lotnicze będą teraz codziennie aktualizowane, o ile dostępne będą nowe dane.</translation>
     </message>
     <message>
         <source>&lt;p&gt;If your device runs Android 5 or earlier, then &lt;strong&gt;this is the last update of Enroute Flight Navigation that your device will receive&lt;/strong&gt; and we would like to urge you to move to a newer system. Support for Android 5 has long ended and security updates are no longer available. A good refurbished device costs less than one hour flight time in a typical SEP aircraft!&lt;/p&gt;</source>
@@ -3734,7 +3734,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/PrivacyPage.qml" line="29"/>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Polityka prywatności</translation>
     </message>
 </context>
 <context>
@@ -8516,7 +8516,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="372"/>
         <source>Privacy Policy</source>
-        <translation type="unfinished"></translation>
+        <translation>Polityka prywatności</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="418"/>
