@@ -2956,278 +2956,278 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="36"/>
         <source>Settings</source>
-        <translation type="unfinished">Ajustes</translation>
+        <translation>Ajustes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="115"/>
         <source>Moving Map</source>
-        <translation type="unfinished">Mapa móvil</translation>
+        <translation>Mapa móvil</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="127"/>
         <source>Currently showing all airspaces</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente se están mostrando todos los espacios aéreos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="134"/>
         <source>Currently showing airspaces up to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente se están mostrando los espacios aéreos hasta %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="136"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="153"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="463"/>
         <source>Airspace Altitude Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Límite de altitud del espacio aéreo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="154"/>
         <source>If you never fly higher than 5.000ft, you will probably not be interested in airspaces that begin above FL100. Enroute Flight Navigation allows you to set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit. Tap on the entry “Airspace Altitude Limit” to set or unset the altitude limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si nunca vuela a más de 5.000 pies, probablemente no le interesen los espacios aéreos que comienzan por encima de FL100. Enroute Flight Navigation le permite establecer un límite de altitud para mejorar la legibilidad del mapa en movimiento. Una vez configurada, la aplicación mostrará solo los espacios aéreos por debajo de ese límite. Toque en &quot;Límite de altitud del espacio aéreo&quot; para configurar o desactivar el límite de altitud.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="155"/>
         <source>Once you set an altitude limit, the moving map will display a little warning (“Airspaces up to 9,500 ft”) to remind you that the moving map does not show all airspaces. The app will automatically increase the limit when your aircraft approaches the altitude limit from below.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una vez que establezca un límite de altitud, el mapa en movimiento mostrará una pequeña advertencia (&quot;Espacios aéreos hasta 9500 pies&quot;) para recordarle que el mapa en movimiento no muestra todos los espacios aéreos. La aplicación aumentará automáticamente el límite cuando su avión se acerque al límite de altitud.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="164"/>
         <source>Map Features</source>
-        <translation type="unfinished"></translation>
+        <translation>Características del mapa</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="171"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="186"/>
         <source>Gliding Sectors</source>
-        <translation type="unfinished"></translation>
+        <translation>Sectores para planeadores</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="187"/>
         <source>In regions with high glider traffic, local regulations often allow gliders to fly in airspaces that are otherwise difficult to access, such as control zones. The moving map displays these “Gliding Sectors” in bright yellow. If you are not flying a glider, the gliding sectors are probably not relevant. Hiding the gliding sectors might improve the readability of the moving map.</source>
-        <translation type="unfinished"></translation>
+        <translation>En regiones con mucho tráfico de planeadores, las regulaciones locales a menudo permiten que los planeadores vuelen en espacios aéreos que de otro modo serían de difícil acceso, como las zonas de control. El mapa en movimiento muestra estos &quot;Sectores planeadores&quot; en amarillo brillante. Si no está volando un planeador, los sectores de planeo probablemente no sean relevantes. Ocultar los sectores planeadores podría mejorar la legibilidad del mapa en movimiento.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="194"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="209"/>
         <source>Hillshading</source>
-        <translation type="unfinished"></translation>
+        <translation>Zona de sombras (Hillshading)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="210"/>
         <source>We have received a report from one user, who complained about issues with the hillshading graphics on very old devices, potentially because of buggy system libraries. If you experience problems, use this switch to disable the hillshading feature.</source>
-        <translation type="unfinished"></translation>
+        <translation>Recibimos un informe de un usuario, que se quejó de problemas con los gráficos de sombreado en dispositivos muy antiguos, posiblemente debido a bibliotecas del sistema con errores. Si tiene problemas, utilice desactive la función de sombreado.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="219"/>
         <source>Navigation Bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Barra de navegación</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="228"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="241"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="589"/>
         <source>Altimeter Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo altímetro</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="229"/>
         <source>Currently showing altitude AGL</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente mostrando altitud AGL</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="229"/>
         <source>Currently showing altitude AMSL</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente mostrando altitud AMSL</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="242"/>
         <source>Use this settings item to chose if the altimeter shows height above ground level (AGL) or height above main sea level (AMSL).</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilice este elemento de configuración para elegir si el altímetro muestra la altura sobre el nivel del suelo (AGL) o la altura sobre el nivel principal del mar (AMSL).</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="250"/>
         <source>System</source>
-        <translation type="unfinished">Sistema</translation>
+        <translation>Sistema</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="261"/>
         <source>Currently using traffic data receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente utilizando el receptor de datos de tráfico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="263"/>
         <source>Currently using built-in satnav receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente usando un receptor de navegación satelital incorporado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="265"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="281"/>
         <source>Primary Position Data Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuente de datos de posición principal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="282"/>
         <source>Enroute Flight Navigation can either use the built-in satnav receiver of your device or a connected traffic receiver as a primary position data source. This setting is essential if your device has reception problems or if you use Enroute Flight Navigation together with a flight simulator.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation puede utilizar el receptor de navegación por satélite integrado de su dispositivo o un receptor de tráfico conectado como fuente principal de datos de posición. Esta configuración es esencial si su dispositivo tiene problemas de recepción o si usa Enroute Flight Navigation junto con un simulador de vuelo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="283"/>
         <source>You will most likely prefer the built-in satnav receiver for actual flight. The built-in receiver provides one position update per second on a typical Android system, while traffic receivers do not always provide timely position updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lo más probable es que prefiera el receptor de navegación por satélite incorporado para el vuelo real. El receptor incorporado brinda una actualización de posición por segundo en un sistema Android típico, mientras que los receptores de tráfico no siempre brindan actualizaciones de posición oportunas.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="284"/>
         <source>If you use Enroute Flight Navigation together with a flight simulator, you must choose the traffic receiver as a primary position data source. Flight simulators broadcast position information of simulated aircraft via Wi-Fi, using the same protocol that a traffic data receiver would use in a real plane. As long as the built-in satnav receiver is selected, all position information provided by your flight simulator is ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si utiliza Enroute Flight Navigation junto con un simulador de vuelo, debe elegir el receptor de tráfico como fuente principal de datos de posición. Los simuladores de vuelo transmiten información de posición de aviones simulados a través de Wi-Fi, usando el mismo protocolo que usaría un receptor de datos de tráfico en un avión real. Siempre que se seleccione el receptor de navegación por satélite integrado, se ignorará toda la información de posición proporcionada por el simulador de vuelo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="291"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="306"/>
         <source>Night Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo nocturno</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="307"/>
         <source>The “Night Mode” of Enroute Flight Navigation is similar to the “Dark Mode” found in many other apps. We designed the night mode for pilots performing VFR flights by night, whose eyes have adapted to the darkness. Compared with other apps, you will find that the display is quite dark indeed.</source>
-        <translation type="unfinished"></translation>
+        <translation>El &quot;Modo nocturno&quot; de Enroute Flight Navigation es similar al &quot;Modo oscuro&quot; que se encuentra en muchas otras aplicaciones. Diseñamos el modo nocturno para pilotos que realizan vuelos VFR de noche, cuyos ojos se han adaptado a la oscuridad. En comparación con otras aplicaciones, encontrará que la pantalla es bastante oscura.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="314"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="331"/>
         <source>Ignore Network Security Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorar errores de seguridad de la red</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="332"/>
         <source>This entry is visible if you have asked the app to download data via insecure internet connections after a secure connection attempt failed. Uncheck this item to revert to the standard policy, which enforces secure connections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta entrada es visible si le ha pedido a la aplicación que descargue datos a través de conexiones de Internet no seguras después de que falló un intento de conexión segura. Desmarque este elemento para volver a la política estándar, que impone conexiones seguras.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="340"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="349"/>
         <source>Clear Password Storage</source>
-        <translation type="unfinished"></translation>
+        <translation>Borrar almacenamiento de contraseña</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="350"/>
         <source>This entry is visible if you have connected to a traffic data receiver that requires a password in addition to the Wi-Fi password and if you have asked the app to remember the password. Tap on this entry to clear the password storage.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta entrada es visible si se ha conectado a un receptor de datos de tráfico que requiere una contraseña además de la contraseña de Wi-Fi y si le ha pedido a la aplicación que recuerde la contraseña. Toque esta entrada para borrar el almacenamiento de la contraseña.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="358"/>
         <source>Help</source>
-        <translation type="unfinished">Ayuda</translation>
+        <translation>Ayuda</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="368"/>
         <source>How to connect your traffic receiver…</source>
-        <translation type="unfinished">Cómo conectar el receptor de tráfico</translation>
+        <translation>Cómo conectar el receptor de tráfico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="376"/>
         <source>How to connect your flight simulator…</source>
-        <translation type="unfinished">Cómo conectar el simulador de vuelo</translation>
+        <translation>Cómo conectar el simulador de vuelo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="399"/>
         <source>Terrain Data Missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Faltan datos del terreno</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="400"/>
         <source>The height above ground level cannot be computed for your current position, because the relevant terrain maps for your region have not been installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>La altura sobre el nivel del suelo no se puede calcular para su posición actual porque no se han instalado los mapas de terreno relevantes para su región.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="404"/>
         <source>Install now</source>
-        <translation type="unfinished"></translation>
+        <translation>Instalar ahora</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="408"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="446"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="430"/>
         <source>Clear Password Storage?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Borrar almacenamiento de contraseña?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="436"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una vez que se borra el almacenamiento, las contraseñas ya no se pueden recuperar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="442"/>
         <source>Clear</source>
-        <translation type="unfinished">Limpiar</translation>
+        <translation>Limpiar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="454"/>
         <source>Password storage cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Almacenamiento de contraseña borrado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="473"/>
         <source>Set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Establezca un límite de altitud para mejorar la legibilidad del mapa en movimiento. Una vez configurada, la aplicación mostrará solo los espacios aéreos por debajo de ese límite.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="481"/>
         <source>Set altitude limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Establecer límite de altitud</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="507"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostrar espacios aéreos hasta %1 pie / %2 m.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="509"/>
         <source>No limit, all airspaces shown</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin límite, se muestran todos los espacios aéreos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="518"/>
         <source>Cannot set reasonable airspaces altitude limit because the present own altitude is too high.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede establecer un límite de altitud razonable en los espacios aéreos porque la altitud propia actual es demasiado alta.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="547"/>
         <source>Position Data Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuente de datos de posición</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="554"/>
         <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
-        <translation type="unfinished"></translation>
+        <translation>La mayoría de los usuarios elegirán el receptor de navegación por satélite incorporado. Elija el receptor de datos de tráfico cuando el receptor de navegación por satélite de su dispositivo tiene problemas de recepción, o cuando utilice esta aplicación junto con un simulador de vuelo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="561"/>
         <source>Built-in satnav receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Receptor de navegación por satélite incorporado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="569"/>
         <source>Traffic data reveiver (when available)</source>
-        <translation type="unfinished"></translation>
+        <translation>Receptor de datos de tráfico (cuando esté disponible)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="596"/>
         <source>This setting applies to the altimeter in the Navigation Bar, at the bottom of the moving map screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta configuración se aplica al altímetro en la barra de navegación, en la parte inferior de la pantalla del mapa en movimiento.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="603"/>
         <source>Height above ground level (AGL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altura sobre el nivel del suelo (AGL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="611"/>
         <source>Height above main sea level (AMSL)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altura sobre el nivel principal del mar (AMSL)</translation>
     </message>
 </context>
 <context>
