@@ -1308,49 +1308,40 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation type="vanished">Basiskarten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="35"/>
         <source>Map and Data Library</source>
-        <translation>Karten- und Datenbibliothek</translation>
+        <translation type="vanished">Karten- und Datenbibliothek</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="150"/>
         <source>Info</source>
-        <translation>Info</translation>
+        <translation type="vanished">Info</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="162"/>
         <source>Uninstall</source>
-        <translation>Deinstallieren</translation>
+        <translation type="vanished">Deinstallieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="178"/>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="506"/>
         <source>Download Error</source>
-        <translation>Fehler beim Download</translation>
+        <translation type="vanished">Fehler beim Download</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="179"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Download fehlgeschlagen: &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Grund: %2.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Download fehlgeschlagen: &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Grund: %2.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="287"/>
         <source>Maps</source>
-        <translation>Karten</translation>
+        <translation type="vanished">Karten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="377"/>
         <source>&lt;h3&gt;Update required!&lt;/h3&gt;</source>
-        <translation>&lt;h3&gt;Update erforderlich!&lt;/h3&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Update erforderlich!&lt;/h3&gt;</translation>
     </message>
     <message>
         <source>Update list of maps</source>
         <translation type="vanished">Liste der Karten aktualisieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="261"/>
         <source>Download all updates…</source>
-        <translation>Alle Aktualisierungen herunterladen …</translation>
+        <translation type="vanished">Alle Aktualisierungen herunterladen …</translation>
     </message>
     <message>
         <source>Aviation Maps</source>
@@ -1361,9 +1352,8 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation type="vanished">Basiskarten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="249"/>
         <source>Update list of maps and data</source>
-        <translation>Karten- und Datenliste aktualisieren</translation>
+        <translation type="vanished">Karten- und Datenliste aktualisieren</translation>
     </message>
     <message>
         <source>Aviation maps</source>
@@ -1378,9 +1368,8 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation type="vanished">Terrain</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="290"/>
         <source>Data</source>
-        <translation>Daten</translation>
+        <translation type="vanished">Daten</translation>
     </message>
     <message>
         <source>How to request additional aviation maps…</source>
@@ -1395,29 +1384,24 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation type="vanished">Zusätzliche Luftfahrtkarten anfordern</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="398"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste verfügbarer Karten wurde noch nicht heruntergeladen. Sie können das manuell mit dem Knopf unten neu anstoßen.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste verfügbarer Karten wurde noch nicht heruntergeladen. Sie können das manuell mit dem Knopf unten neu anstoßen.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="429"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Download läuft …&lt;/h3&gt;&lt;p&gt;Bitte einen Moment Geduld, während wir die Liste der verfügbaren Karten herunterladen…&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Download läuft …&lt;/h3&gt;&lt;p&gt;Bitte einen Moment Geduld, während wir die Liste der verfügbaren Karten herunterladen…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="477"/>
         <source>Download list of maps…</source>
-        <translation>Liste der Karten herunterladen…</translation>
+        <translation type="vanished">Liste der Karten herunterladen…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="491"/>
         <source>Update</source>
-        <translation>Update</translation>
+        <translation type="vanished">Update</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManager.qml" line="507"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Download der Liste der Luftfahrtkarten fehlgeschlagen.&lt;/p&gt;&lt;p&gt;Grund: %1.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Download der Liste der Luftfahrtkarten fehlgeschlagen.&lt;/p&gt;&lt;p&gt;Grund: %1.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Uninstall Raster Maps</source>
@@ -1430,6 +1414,85 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <source>Raster maps uninstalled</source>
         <translation type="vanished">Rasterkarten wurden deinstalliert</translation>
+    </message>
+</context>
+<context>
+    <name>DataManagerPage</name>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="35"/>
+        <source>Map and Data Library</source>
+        <translation type="unfinished">Karten- und Datenbibliothek</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="150"/>
+        <source>Info</source>
+        <translation type="unfinished">Info</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="162"/>
+        <source>Uninstall</source>
+        <translation type="unfinished">Deinstallieren</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="178"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="506"/>
+        <source>Download Error</source>
+        <translation type="unfinished">Fehler beim Download</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="179"/>
+        <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p&gt;Download fehlgeschlagen: &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Grund: %2.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="249"/>
+        <source>Update list of maps and data</source>
+        <translation type="unfinished">Karten- und Datenliste aktualisieren</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="261"/>
+        <source>Download all updates…</source>
+        <translation type="unfinished">Alle Aktualisierungen herunterladen …</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="287"/>
+        <source>Maps</source>
+        <translation type="unfinished">Karten</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="290"/>
+        <source>Data</source>
+        <translation type="unfinished">Daten</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="377"/>
+        <source>&lt;h3&gt;Update required!&lt;/h3&gt;</source>
+        <translation type="unfinished">&lt;h3&gt;Update erforderlich!&lt;/h3&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="398"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Die Liste verfügbarer Karten wurde noch nicht heruntergeladen. Sie können das manuell mit dem Knopf unten neu anstoßen.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="429"/>
+        <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;h3&gt;Download läuft …&lt;/h3&gt;&lt;p&gt;Bitte einen Moment Geduld, während wir die Liste der verfügbaren Karten herunterladen…&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="477"/>
+        <source>Download list of maps…</source>
+        <translation type="unfinished">Liste der Karten herunterladen…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="491"/>
+        <source>Update</source>
+        <translation type="unfinished">Update</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="507"/>
+        <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;p&gt;Download der Liste der Luftfahrtkarten fehlgeschlagen.&lt;/p&gt;&lt;p&gt;Grund: %1.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -2151,59 +2214,59 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Datei &lt;strong&gt;%1&lt;/strong&gt;: Unbekannter Dateityp.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="77"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="80"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; cannot be recognized.</source>
         <translation>Der Typ der Datei &lt;strong&gt;%1&lt;/strong&gt; wird nicht erkannt.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="86"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="89"/>
         <source>Import Waypoint Data</source>
         <translation>Wegpunktdaten importieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="96"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="99"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
         <translation>Die Datei enthält mehrere Wegpunkte. Als Route oder in die Wegpunktbibliothek importieren?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="106"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="109"/>
         <source>Route</source>
         <translation>Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="120"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="123"/>
         <source>Library</source>
         <translation>Bibliothek</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="138"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="140"/>
         <source>Import Raster Map</source>
         <translation>Rasterkarten importieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="148"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="210"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="150"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="212"/>
         <source>Enter a name for this map.</source>
         <translation>Geben Sie einen Namen für diese Karte ein.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="158"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="220"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="160"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="222"/>
         <source>Map Name</source>
         <translation>Name der Karte</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="172"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="174"/>
         <source>To avoid conflicts, vector maps will be not be shown while raster maps are installed.</source>
         <translation>Zur Vermeidung von Konflikten werden keine Vektorkarten mehr angezeigt. solange Rasterkarten installiert sind.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="263"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="265"/>
         <source>Import Waypoint Library</source>
         <translation>Wegpunktbibliothek importieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="342"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="344"/>
         <source>Data Import Error</source>
         <translation>Fehler beim Datenimport</translation>
     </message>
@@ -2216,22 +2279,22 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Alle Vektorkarten werden deinstalliert, um Konflikte der Kartentypen Raster und Vektor zu vermeiden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="193"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="195"/>
         <source>Raster map imported</source>
         <translation>Rasterkarte importiert</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="200"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="202"/>
         <source>Import Vector Map</source>
         <translation>Vektorkarte importieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="234"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="236"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
         <translation>Alle Rasterkarten werden deinstalliert, um Konflikte der Kartentypen Raster und Vektor zu vermeiden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="255"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="257"/>
         <source>Vector map imported</source>
         <translation>Vektorkarte importiert</translation>
     </message>
@@ -2240,27 +2303,27 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Wegpunktbibliothek importieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="275"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="277"/>
         <source>Skip over waypoint that already exist in the library</source>
         <translation>Bereits bestehende Wegpunkte überspringen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="294"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="296"/>
         <source>Waypoints imported</source>
         <translation>Wegpunkte importiert</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="301"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="303"/>
         <source>Import Flight Route?</source>
         <translation>Route importieren?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="310"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="312"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Dies überschreibt die aktuelle Route. Sie kann danach nicht wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="332"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="334"/>
         <source>Flight route imported</source>
         <translation>Route importiert</translation>
     </message>
@@ -5221,11 +5284,8 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>WaypointLibrary</name>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="35"/>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="115"/>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="139"/>
         <source>Waypoint Library</source>
-        <translation>Wegpunktbibliothek</translation>
+        <translation type="vanished">Wegpunktbibliothek</translation>
     </message>
     <message>
         <source>Import …</source>
@@ -5240,116 +5300,92 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Exportieren …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="93"/>
         <source>Import…</source>
-        <translation>Importieren…</translation>
+        <translation type="vanished">Importieren…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="105"/>
         <source>Share…</source>
-        <translation>Teilen…</translation>
+        <translation type="vanished">Teilen…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="105"/>
         <source>Export…</source>
-        <translation>Exportieren…</translation>
+        <translation type="vanished">Exportieren…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="109"/>
         <source>… to GeoJSON file</source>
-        <translation>… als GeoJSON-Datei</translation>
+        <translation type="vanished">… als GeoJSON-Datei</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="117"/>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="141"/>
         <source>Aborted</source>
-        <translation>Abgebrochen</translation>
+        <translation type="vanished">Abgebrochen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="126"/>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="150"/>
         <source>Waypoint library shared</source>
-        <translation>Wegpunktbibliothek geteilt</translation>
+        <translation type="vanished">Wegpunktbibliothek geteilt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="128"/>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="152"/>
         <source>Waypoint library exported</source>
-        <translation>Wegpunktbibliothek exportiert</translation>
+        <translation type="vanished">Wegpunktbibliothek exportiert</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="133"/>
         <source>… to GPX file</source>
-        <translation>… als GPX-Datei</translation>
+        <translation type="vanished">… als GPX-Datei</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="158"/>
         <source>Open in Other App…</source>
-        <translation>In anderer App öffnen…</translation>
+        <translation type="vanished">In anderer App öffnen…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="284"/>
         <source>Remove…</source>
-        <translation>Löschen…</translation>
+        <translation type="vanished">Löschen…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="352"/>
         <source>Error Exporting Data…</source>
-        <translation>Fehler beim Datenexport…</translation>
+        <translation type="vanished">Fehler beim Datenexport…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="369"/>
         <source>Remove from Device?</source>
-        <translation>Löschen?</translation>
+        <translation type="vanished">Löschen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="398"/>
         <source>Clear Waypoint Library?</source>
-        <translation>Wegpunktbibliothek leeren?</translation>
+        <translation type="vanished">Wegpunktbibliothek leeren?</translation>
     </message>
     <message>
         <source>Open in other app …</source>
         <translation type="vanished">In anderer App öffnen …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="162"/>
         <source>… in GeoJSON format</source>
-        <translation>… im GeoJSON-Format</translation>
+        <translation type="vanished">… im GeoJSON-Format</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="174"/>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="191"/>
         <source>Waypoint library opened in other app</source>
-        <translation>Wegpunktbibliothek in anderer App geöffnet</translation>
+        <translation type="vanished">Wegpunktbibliothek in anderer App geöffnet</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="179"/>
         <source>… in GPX format</source>
-        <translation>… im GPX-Format</translation>
+        <translation type="vanished">… im GPX-Format</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="200"/>
         <source>Clear</source>
-        <translation>Löschen</translation>
+        <translation type="vanished">Löschen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="226"/>
         <source>Filter Waypoint Names</source>
-        <translation>Wegpunktnamen filtern</translation>
+        <translation type="vanished">Wegpunktnamen filtern</translation>
     </message>
     <message>
         <source>Remove …</source>
         <translation type="vanished">Löschen …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="335"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Kein Wegpunkt vorhanden. Um einen hinzuzufügen, tippen Sie doppelt auf einen Punkt der Karte.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Kein Wegpunkt vorhanden. Um einen hinzuzufügen, tippen Sie doppelt auf einen Punkt der Karte.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="336"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine passenden Wegpunkte gefunden.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine passenden Wegpunkte gefunden.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Error exporting data…</source>
@@ -5360,33 +5396,167 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Vom Gerät löschen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="376"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation>Das Löschen des Wegpunkts &lt;strong&gt;%1&lt;/strong&gt; kann nicht rückgängig gemacht werden.</translation>
+        <translation type="vanished">Das Löschen des Wegpunkts &lt;strong&gt;%1&lt;/strong&gt; kann nicht rückgängig gemacht werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="385"/>
         <source>Waypoint removed from device</source>
-        <translation>Wegpunkt gelöscht</translation>
+        <translation type="vanished">Wegpunkt gelöscht</translation>
     </message>
     <message>
         <source>Clear waypoint library?</source>
         <translation type="vanished">Wegpunktbibliothek löschen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="405"/>
         <source>Once cleared, the library cannot be restored.</source>
-        <translation>Die Bibliothek kann nach dem Löschen nicht wiederhergestellt werden.</translation>
+        <translation type="vanished">Die Bibliothek kann nach dem Löschen nicht wiederhergestellt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="414"/>
         <source>Waypoint library cleared</source>
-        <translation>Wegpunktbibliothek gelöscht</translation>
+        <translation type="vanished">Wegpunktbibliothek gelöscht</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibrary.qml" line="428"/>
         <source>Waypoint modified</source>
-        <translation>Wegpunkt geändert</translation>
+        <translation type="vanished">Wegpunkt geändert</translation>
+    </message>
+</context>
+<context>
+    <name>WaypointLibraryPage</name>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="35"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="115"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="139"/>
+        <source>Waypoint Library</source>
+        <translation type="unfinished">Wegpunktbibliothek</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="93"/>
+        <source>Import…</source>
+        <translation type="unfinished">Importieren…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="105"/>
+        <source>Share…</source>
+        <translation type="unfinished">Teilen…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="105"/>
+        <source>Export…</source>
+        <translation type="unfinished">Exportieren…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="109"/>
+        <source>… to GeoJSON file</source>
+        <translation type="unfinished">… als GeoJSON-Datei</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="117"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="141"/>
+        <source>Aborted</source>
+        <translation type="unfinished">Abgebrochen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="126"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="150"/>
+        <source>Waypoint library shared</source>
+        <translation type="unfinished">Wegpunktbibliothek geteilt</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="128"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="152"/>
+        <source>Waypoint library exported</source>
+        <translation type="unfinished">Wegpunktbibliothek exportiert</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="133"/>
+        <source>… to GPX file</source>
+        <translation type="unfinished">… als GPX-Datei</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="158"/>
+        <source>Open in Other App…</source>
+        <translation type="unfinished">In anderer App öffnen…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="162"/>
+        <source>… in GeoJSON format</source>
+        <translation type="unfinished">… im GeoJSON-Format</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="174"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="191"/>
+        <source>Waypoint library opened in other app</source>
+        <translation type="unfinished">Wegpunktbibliothek in anderer App geöffnet</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="179"/>
+        <source>… in GPX format</source>
+        <translation type="unfinished">… im GPX-Format</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="200"/>
+        <source>Clear</source>
+        <translation type="unfinished">Löschen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="226"/>
+        <source>Filter Waypoint Names</source>
+        <translation type="unfinished">Wegpunktnamen filtern</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="284"/>
+        <source>Remove…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="335"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Kein Wegpunkt vorhanden. Um einen hinzuzufügen, tippen Sie doppelt auf einen Punkt der Karte.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="336"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine passenden Wegpunkte gefunden.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="352"/>
+        <source>Error Exporting Data…</source>
+        <translation type="unfinished">Fehler beim Datenexport…</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="369"/>
+        <source>Remove from Device?</source>
+        <translation type="unfinished">Löschen?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="376"/>
+        <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
+        <translation type="unfinished">Das Löschen des Wegpunkts &lt;strong&gt;%1&lt;/strong&gt; kann nicht rückgängig gemacht werden.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="385"/>
+        <source>Waypoint removed from device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="398"/>
+        <source>Clear Waypoint Library?</source>
+        <translation type="unfinished">Wegpunktbibliothek leeren?</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="405"/>
+        <source>Once cleared, the library cannot be restored.</source>
+        <translation type="unfinished">Die Bibliothek kann nach dem Löschen nicht wiederhergestellt werden.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="414"/>
+        <source>Waypoint library cleared</source>
+        <translation type="unfinished">Wegpunktbibliothek gelöscht</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="428"/>
+        <source>Waypoint modified</source>
+        <translation type="unfinished">Wegpunkt geändert</translation>
     </message>
 </context>
 <context>
@@ -8545,18 +8715,18 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Verbindung zum Verkehrsdatenempfänger verloren.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="743"/>
+        <location filename="../../../src/qml/main.qml" line="748"/>
         <source>Exit…?</source>
         <translation>Beenden…?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="744"/>
+        <location filename="../../../src/qml/main.qml" line="749"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; tatsächlich beenden?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="754"/>
-        <location filename="../../../src/qml/main.qml" line="763"/>
+        <location filename="../../../src/qml/main.qml" line="759"/>
+        <location filename="../../../src/qml/main.qml" line="768"/>
         <source>What&apos;s new…?</source>
         <translation>Was ist neu ...?</translation>
     </message>
@@ -8565,32 +8735,32 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Was ist neu …?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="805"/>
+        <location filename="../../../src/qml/main.qml" line="810"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Zeige jetzt Lufträume bis %1 an.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="807"/>
+        <location filename="../../../src/qml/main.qml" line="812"/>
         <source>Now showing all airspaces.</source>
         <translation>Zeige jetzt alle Lufträume an.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="831"/>
+        <location filename="../../../src/qml/main.qml" line="836"/>
         <source>Starting map update</source>
         <translation>Beginne Kartenupdate</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="853"/>
+        <location filename="../../../src/qml/main.qml" line="858"/>
         <source>Network security error</source>
         <translation>Netzwerksicherheits-Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="865"/>
+        <location filename="../../../src/qml/main.qml" line="870"/>
         <source>Network security settings</source>
         <translation>Einstellungen zur Netzwerksicherheit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="866"/>
+        <location filename="../../../src/qml/main.qml" line="871"/>
         <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Sie haben entschieden, Netzwerksicherheits-Fehler zukünftig zu ignorieren. **Dies stellt ein Sicherheitsrisiko dar.** In den Einstellungen können Sie auf Wunsch das ursprüngliche, sichere Verhalten der App wiederherstellen.</translation>
     </message>
