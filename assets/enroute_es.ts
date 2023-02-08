@@ -1115,78 +1115,78 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="35"/>
         <source>Map and Data Library</source>
-        <translation type="unfinished">Mapas y biblioteca de datos</translation>
+        <translation>Mapas y biblioteca de datos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="150"/>
         <source>Info</source>
-        <translation type="unfinished">Info</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="162"/>
         <source>Uninstall</source>
-        <translation type="unfinished">Desinstallar</translation>
+        <translation>Desinstallar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="178"/>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="506"/>
         <source>Download Error</source>
-        <translation type="unfinished">Error de descarga</translation>
+        <translation>Error de descarga</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="179"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Fallo al descargar &lt;strong&gt;%1&lt;/strong&gt;. &lt;/p&gt;&lt;p&gt;Razón: %2. &lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Fallo al descargar &lt;strong&gt;%1&lt;/strong&gt;. &lt;/p&gt;&lt;p&gt;Razón: %2. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="249"/>
         <source>Update list of maps and data</source>
-        <translation type="unfinished">Actualizar la lista de mapas y datos</translation>
+        <translation>Actualizar la lista de mapas y datos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="261"/>
         <source>Download all updates…</source>
-        <translation type="unfinished">Descargar todas las actualizaciones ...</translation>
+        <translation>Descargar todas las actualizaciones ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="287"/>
         <source>Maps</source>
-        <translation type="unfinished">Mapas</translation>
+        <translation>Mapas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="290"/>
         <source>Data</source>
-        <translation type="unfinished">Datos</translation>
+        <translation>Datos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="377"/>
         <source>&lt;h3&gt;Update required!&lt;/h3&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Actualizacion necessaria!&lt;/h3&gt;</translation>
+        <translation>&lt;h3&gt;Actualizacion necessaria!&lt;/h3&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="398"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;La lista de mapas disponibles aún no se ha descargado del servidor. Puede reiniciar la descarga manualmente usando el botón de abajo. &lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;La lista de mapas disponibles aún no se ha descargado del servidor. Puede reiniciar la descarga manualmente usando el botón de abajo. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="429"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Descarga en curso...&lt;/h3&gt;&lt;p&gt;Por favor espere mientras descargamos la lista de mapas disponibles del servidor...&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Descarga en curso...&lt;/h3&gt;&lt;p&gt;Por favor espere mientras descargamos la lista de mapas disponibles del servidor...&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="477"/>
         <source>Download list of maps…</source>
-        <translation type="unfinished">Descargar lista de mapas</translation>
+        <translation>Descargar lista de mapas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="491"/>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="507"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;No se pudo descargar la lista de mapas de aviación. &lt;/p&gt;&lt;p&gt;Razón: %1. &lt;/p&gt;</translation>
+        <translation>&lt;p&gt;No se pudo descargar la lista de mapas de aviación. &lt;/p&gt;&lt;p&gt;Razón: %1. &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -4424,136 +4424,136 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="115"/>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="139"/>
         <source>Waypoint Library</source>
-        <translation type="unfinished">Biblioteca de puntos de ruta</translation>
+        <translation>Biblioteca de puntos de ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="93"/>
         <source>Import…</source>
-        <translation type="unfinished">Importar ....</translation>
+        <translation>Importar ....</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="105"/>
         <source>Share…</source>
-        <translation type="unfinished">Compartir ...</translation>
+        <translation>Compartir ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="105"/>
         <source>Export…</source>
-        <translation type="unfinished">Exportar ...</translation>
+        <translation>Exportar ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="109"/>
         <source>… to GeoJSON file</source>
-        <translation type="unfinished">... el fichero GeoJSON </translation>
+        <translation>... al fichero GeoJSON </translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="117"/>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="141"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="126"/>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="150"/>
         <source>Waypoint library shared</source>
-        <translation type="unfinished">Biblioteca de puntos de ruta compartida</translation>
+        <translation>Biblioteca compartida de puntos de ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="128"/>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="152"/>
         <source>Waypoint library exported</source>
-        <translation type="unfinished">Biblioteca de puntos de ruta exportada</translation>
+        <translation>Biblioteca de puntos de ruta exportada</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="133"/>
         <source>… to GPX file</source>
-        <translation type="unfinished">... al fichero GPX</translation>
+        <translation>... al fichero GPX</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="158"/>
         <source>Open in Other App…</source>
-        <translation type="unfinished">Abrir en otra app ...</translation>
+        <translation>Abrir en otra App ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="162"/>
         <source>… in GeoJSON format</source>
-        <translation type="unfinished">... en le formato GeoJSON</translation>
+        <translation>... en le formato GeoJSON</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="174"/>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="191"/>
         <source>Waypoint library opened in other app</source>
-        <translation type="unfinished">Biblioteca de puntos de ruta abierta en otra app</translation>
+        <translation>Biblioteca de puntos de ruta abierta en otra app</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="179"/>
         <source>… in GPX format</source>
-        <translation type="unfinished">en el formato GPX ...</translation>
+        <translation>en el formato GPX ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="200"/>
         <source>Clear</source>
-        <translation type="unfinished">Limpiar</translation>
+        <translation>Limpiar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="226"/>
         <source>Filter Waypoint Names</source>
-        <translation type="unfinished">Filtrar los nombres de Waypoint</translation>
+        <translation>Filtrar los nombres de puntos de ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="284"/>
         <source>Remove…</source>
-        <translation type="unfinished">Eliminar...</translation>
+        <translation>Eliminar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="335"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;No hay punto de ruta disponible. Para agregar un punto de ruta aquí, toque dos veces en un punto del mapa&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;No hay punto de ruta disponible. Para agregar un punto de ruta aquí, toque dos veces en un punto del mapa&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="336"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta que coincidan con los criterios de filtro.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="352"/>
         <source>Error Exporting Data…</source>
-        <translation type="unfinished">Error exportando datos ...</translation>
+        <translation>Error exportando datos ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="369"/>
         <source>Remove from Device?</source>
-        <translation type="unfinished">¿Quitar del dispositivo?</translation>
+        <translation>¿Quitar del dispositivo?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="376"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation type="unfinished">Una vez que se elimina el punto de ruta &lt;strong&gt;%1&lt;/strong&gt;, no se puede restaurar.</translation>
+        <translation>Una vez que se elimina el punto de ruta &lt;strong&gt;%1&lt;/strong&gt;, no se puede restaurar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="385"/>
         <source>Waypoint removed from device</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de ruta eliminado del disposotivo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="398"/>
         <source>Clear Waypoint Library?</source>
-        <translation type="unfinished">¿Borrar el punto de ruta de la biblioteca?</translation>
+        <translation>¿Borrar el punto de ruta de la biblioteca?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="405"/>
         <source>Once cleared, the library cannot be restored.</source>
-        <translation type="unfinished">Una vez borrada, la biblioteca no se puede restaurar</translation>
+        <translation>Una vez borrada, la biblioteca no se puede restaurar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="414"/>
         <source>Waypoint library cleared</source>
-        <translation type="unfinished">Punto de ruta borrado</translation>
+        <translation>Punto de ruta borrado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="428"/>
         <source>Waypoint modified</source>
-        <translation type="unfinished">Punto de ruta modificado</translation>
+        <translation>Punto de ruta modificado</translation>
     </message>
 </context>
 <context>
@@ -4963,421 +4963,421 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="682"/>
         <source>No high-layer clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin nubes de capa alta</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="685"/>
         <source>Cirrus fibratus or Cirrus uncinus</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirros fibratus o Cirros uncinus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="688"/>
         <source>Cirrus spissatus or Cirrus castellanus or Cirrus floccus</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirros spissatus o Cirros castellanus o Cirros floccus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="691"/>
         <source>Cirrus spissatus cumulonimbogenitus</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirros spissatus cumulonimbogenitus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="694"/>
         <source>Cirrus uncinus or Cirrus fibratus progressively invading the sky</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirros uncinus or Cirros fibratus invadiendo progressivamiente el cielo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="697"/>
         <source>Cirrus or Cirrostratus progressively invading the sky, but the continuous veil does not reach 45° above the horizon</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirros o Cirrosestrato invadiendo progresivamente el cielo, pero el velo continuo no alcanza los 45° sobre el horizonte</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="700"/>
         <source>Cirrus or Cirrostratus progressively invading the sky, the continuous veil extends more than 45° above the horizon, without the sky being totally covered</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirros o Cirroestrato invadiendo progresivamente el cielo, el velo continuo se estiende más de 45° sobre el horizonte, sin que el cielo quede totalmente cubierto</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="703"/>
         <source>Cirrostratus nebulosus or Cirrostratus fibratus covering the whole sky</source>
-        <translation type="unfinished"></translation>
+        <translation>irroestrato nebulosus o Cirroestrato fibratus cubriendo todo el cielo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="706"/>
         <source>Cirrostratus that is not invading the sky and that does not completely cover the whole sky</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirroestrato que no está invadiendo el cielo y que no cubre completamente todo el cielo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="709"/>
         <source>Cirrocumulus alone</source>
-        <translation type="unfinished"></translation>
+        <translation>Cirrocúmulos solos</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="712"/>
         <location filename="../../../src/weather/Decoder.cpp" line="790"/>
         <source>Clouds are not observable</source>
-        <translation type="unfinished"></translation>
+        <translation>Las nubes no son observables</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="721"/>
         <source>No low layer clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin nubes de capa baja</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="724"/>
         <source>Cumulus humilis or Cumulus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation>Cúmulo humilis o Cúmulo fractus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="727"/>
         <source>Cumulus clouds with moderate or significant vertical extent</source>
-        <translation type="unfinished"></translation>
+        <translation>Cúmulos con extensión vertical moderada o significativa</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="730"/>
         <source>Cumulonimbus calvus</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumulonimbo calvus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="733"/>
         <source>Stratocumulus cumulogenitus</source>
-        <translation type="unfinished"></translation>
+        <translation>Estratocúmulos cumulogenitus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="736"/>
         <source>Stratocumulus non-cumulogenitus</source>
-        <translation type="unfinished"></translation>
+        <translation>Estratocúmulos no cumulogenitus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="739"/>
         <source>Stratus nebulosus or Stratus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="742"/>
         <source>Stratus fractus or Cumulus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrato fractus o Cumulus fractus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="745"/>
         <source>Cumulus and Stratocumulus with bases at different levels</source>
-        <translation type="unfinished"></translation>
+        <translation>Cumulus y estratocúmulos con bases a diferentes niveles</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="751"/>
         <source>Clouds are not observable due to fog, blowing dust or sand, or other similar phenomena</source>
-        <translation type="unfinished"></translation>
+        <translation>Las nubes no son observables debido a la niebla, el polvo o la arena que soplan u otros fenómenos similares.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="760"/>
         <source>No mid-layer clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin nubes de capa media</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="763"/>
         <source>Altostratus translucidus</source>
-        <translation type="unfinished"></translation>
+        <translation>Altoestrato translucidus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="766"/>
         <source>Altostratus opacus or Nimbostratus</source>
-        <translation type="unfinished"></translation>
+        <translation>Altostratus opacus or Nimbostratus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="769"/>
         <source>Altocumulus translucidus at a single level</source>
-        <translation type="unfinished"></translation>
+        <translation>Altocumulus translucidus en un solo nivel</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="772"/>
         <source>Patches of Altocumulus translucidus</source>
-        <translation type="unfinished"></translation>
+        <translation>Parches de altocumulus translucidus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="775"/>
         <source>Altocumulus translucidus in bands</source>
-        <translation type="unfinished"></translation>
+        <translation>Altocumulus translucidus en bandas</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="778"/>
         <source>Altocumulus cumulogenitus or Altocumulus cumulonimbogenitus</source>
-        <translation type="unfinished"></translation>
+        <translation>Altocumulus cumulogenitus o Altocumulus cumulonimbogenitus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="781"/>
         <source>Altocumulus duplicatus, or Altocumulus opacus in a single layer</source>
-        <translation type="unfinished"></translation>
+        <translation>Altocumulus duplicatus o Altocumulus opacus en una sola capa</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="784"/>
         <source>Altocumulus castellanus or Altocumulus floccus</source>
-        <translation type="unfinished"></translation>
+        <translation>Altocumulus castellanus o Altocumulus floccus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="787"/>
         <source>Broken cloud sheets of ill-defined species or varieties</source>
-        <translation type="unfinished"></translation>
+        <translation>Capas de nubes rotas de especies o variedades mal definidas</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="799"/>
         <source>unknown cloud type</source>
-        <translation type="unfinished"></translation>
+        <translation>tipo de nube desconocido</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="802"/>
         <location filename="../../../src/weather/Decoder.cpp" line="898"/>
         <source>cumulonimbus</source>
-        <translation type="unfinished"></translation>
+        <translation>comulonimbus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="805"/>
         <location filename="../../../src/weather/Decoder.cpp" line="895"/>
         <source>towering cumulus</source>
-        <translation type="unfinished"></translation>
+        <translation>torrecúmulos</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="808"/>
         <source>cumulus</source>
-        <translation type="unfinished"></translation>
+        <translation>cúmulos</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="811"/>
         <source>cumulus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation>cúmulos fractus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="814"/>
         <source>stratocumulus</source>
-        <translation type="unfinished"></translation>
+        <translation>stratocumulos</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="817"/>
         <source>nimbostratus</source>
-        <translation type="unfinished"></translation>
+        <translation>nimbostratos</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="820"/>
         <source>stratus</source>
-        <translation type="unfinished"></translation>
+        <translation>estratos</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="823"/>
         <source>stratus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation>estratos fractus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="826"/>
         <source>altostratus</source>
-        <translation type="unfinished"></translation>
+        <translation>altoestrato</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="829"/>
         <source>altocumulus</source>
-        <translation type="unfinished"></translation>
+        <translation>altocumulo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="832"/>
         <source>altocumulus castellanus</source>
-        <translation type="unfinished"></translation>
+        <translation>altocumulo castellanus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="835"/>
         <source>cirrus</source>
-        <translation type="unfinished"></translation>
+        <translation>cirro</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="838"/>
         <source>cirrostratus</source>
-        <translation type="unfinished"></translation>
+        <translation>cirroestrato</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="841"/>
         <source>cirrocumulus</source>
-        <translation type="unfinished"></translation>
+        <translation>cirrocúmulo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="844"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1607"/>
         <source>blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de nieve</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="847"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1233"/>
         <source>blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de polvo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="850"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1532"/>
         <source>blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>tormienta de arena</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="853"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1948"/>
         <source>ice crystals</source>
-        <translation type="unfinished"></translation>
+        <translation>cristales de hielo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="856"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1432"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1939"/>
         <source>rain</source>
-        <translation type="unfinished"></translation>
+        <translation>lluvia</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="859"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1183"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1936"/>
         <source>drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>llovizna</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="862"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1942"/>
         <source>snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="865"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1951"/>
         <source>ice pellets</source>
-        <translation type="unfinished"></translation>
+        <translation>granos de nieve</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="868"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1969"/>
         <source>smoke</source>
-        <translation type="unfinished"></translation>
+        <translation>humo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="871"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1258"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1966"/>
         <source>fog</source>
-        <translation type="unfinished"></translation>
+        <translation>niebla</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="874"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1963"/>
         <source>mist</source>
-        <translation type="unfinished"></translation>
+        <translation>nieblina</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="877"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1981"/>
         <source>haze</source>
-        <translation type="unfinished"></translation>
+        <translation>bruma</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="880"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1972"/>
         <source>volcanic ash</source>
-        <translation type="unfinished"></translation>
+        <translation>ceniza volcánica</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="949"/>
         <source>statute miles</source>
-        <translation type="unfinished"></translation>
+        <translation>millas terrestres</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="961"/>
         <source>Trace icing or no icing</source>
-        <translation type="unfinished"></translation>
+        <translation>Trazas de hielo o sin hielo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="964"/>
         <source>Light mixed icing</source>
-        <translation type="unfinished"></translation>
+        <translation>Hielo mixto ligero</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="967"/>
         <source>Light rime icing in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Formación de hielo en nube</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="970"/>
         <source>Light clear icing in precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelamiento claro ligero en la precipitación</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="973"/>
         <source>Moderate mixed icing</source>
-        <translation type="unfinished"></translation>
+        <translation>Hielo mixto moderado</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="976"/>
         <source>Moderate rime icing in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Formación moderata de hielo en nube</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="979"/>
         <source>Moderate clear icing in precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelamiento claro moderado en la precipitación</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="982"/>
         <source>Severe mixed icing</source>
-        <translation type="unfinished"></translation>
+        <translation>Formación de hielo mixta severa</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="985"/>
         <source>Severe rime icing in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelamiento severo en la nube</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="988"/>
         <source>Severe clear icing in precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>Engelamiento severo en la precipitación</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="991"/>
         <source>No turbulence</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin turbolencia</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="994"/>
         <source>Light turbulence</source>
-        <translation type="unfinished"></translation>
+        <translation>Turbolengia ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="997"/>
         <source>Occasional moderate turbulence in clear air</source>
-        <translation type="unfinished"></translation>
+        <translation>Turbulencia moderada ocasional en aire claro</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1000"/>
         <source>Frequent moderate turbulence in clear air</source>
-        <translation type="unfinished"></translation>
+        <translation>Turbulencia moderada frecuente en aire despejado</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1003"/>
         <source>Occasional moderate turbulence in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Turbulencia moderada ocasional en la nube</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1006"/>
         <source>Frequent moderate turbulence in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Turbulencia moderada frecuente en la nube</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1009"/>
         <source>Occasional severe turbulence in clear air</source>
-        <translation type="unfinished"></translation>
+        <translation>Turbulencia severa ocasional en aire claro</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1012"/>
         <source>Frequent severe turbulence in clear air</source>
-        <translation type="unfinished"></translation>
+        <translation>Turbulencia severa frecuente en aire claro</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1015"/>
         <source>Occasional severe turbulence in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Turbulencia severa ocasional en la nube</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1018"/>
         <source>Frequent severe turbulence in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Turbulencia severa frecuente en la nube</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1021"/>
