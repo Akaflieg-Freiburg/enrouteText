@@ -278,7 +278,7 @@ cada informe que recibimos, y también nos gustaría escuchar
 vuestras sugerencias de mejora.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="110"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="109"/>
         <source>
 &lt;h4&gt;Main Application&lt;/h4&gt;
 
@@ -292,12 +292,12 @@ application.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="123"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="121"/>
         <source>Main application</source>
         <translation>Applicación principal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="132"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="130"/>
         <source>
 &lt;h4&gt;Airspaces&lt;/h4&gt;
 
@@ -313,22 +313,22 @@ application.&lt;/p&gt;
 …),  utilice los botones a continuación.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="146"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="143"/>
         <source>Flight Information Regions</source>
         <translation>Región de información de vuelo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="155"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="152"/>
         <source>Nature Reserve Areas</source>
         <translation>Áreas de Reserva Natural</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="164"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="161"/>
         <source>All Other Airspaces</source>
         <translation>Todos los otros espacios aéreos</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="173"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="170"/>
         <source>
 &lt;h4&gt;Aviation Data&lt;/h4&gt;
 
@@ -345,27 +345,27 @@ below.&lt;/p&gt;
  utilice los botones abajo.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="188"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="184"/>
         <source>Airfields</source>
         <translation>Aeródromo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="197"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="193"/>
         <source>NavAids</source>
         <translation>Ayudas a la navegación</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="206"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="202"/>
         <source>Procedures/Traffic circuits</source>
         <translation>Circuito de tráfico aeréo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="215"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="211"/>
         <source>Reporting points</source>
         <translation>Puntos de notificación</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="224"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="220"/>
         <source>
 &lt;h4&gt;Thank you for your help!&lt;/h4&gt;
 </source>
@@ -374,7 +374,7 @@ below.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="268"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="263"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
 
@@ -416,24 +416,24 @@ su computadora de escritorio, también puede enviarse a sí mismo un enlace a
 GitHub por correo electrónico.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="296"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="290"/>
         <source>Open GitHub Issue Page</source>
         <translation>Abrir la pagina des informes de GitHub </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="305"/>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="406"/>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="660"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="299"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="398"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="648"/>
         <source>Send link by e-mail</source>
         <translation>Enviar el enlae por correo electrónico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="309"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="303"/>
         <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to GitHub: https://github.com/Akaflieg-Freiburg/enroute/issues</source>
         <translation>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to GitHub: https://github.com/Akaflieg-Freiburg/enroute/issues</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="314"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="308"/>
         <source>
 &lt;p&gt;If you have difficulties with GitHub, you can contact
 &lt;a href=&apos;mailto:ms@squawk-vfr.de?subject=Enroute Flight
@@ -469,7 +469,7 @@ es lo primero!&lt;/p&gt;
 &lt;h3&gt;¡Gracias por tu ayuda!&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="373"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="366"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
 
@@ -503,17 +503,17 @@ sugerencia sea aprobada, la corrección aparecerá en
 semana.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="397"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="389"/>
         <source>Open openAIP web site</source>
         <translation>Abrir la pagina web de open AIP</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="410"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="402"/>
         <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to openAIP: https//openaip.net</source>
         <translation>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to openAIP: https//openaip.net</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="416"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="408"/>
         <source>
 &lt;p&gt;If you have difficulties with the openAIP web site, you
 can contact
@@ -534,7 +534,7 @@ Peter habla inglés y alemán.&lt;/p&gt;
 &lt;h3&gt;¡Gracias su ayuda!&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="468"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="459"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
 
@@ -578,7 +578,7 @@ discutir su problema en el foro.&lt;/p&gt;
 &lt;h3&gt;¡Gracias por su ayuda!&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="532"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="522"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
 
@@ -643,23 +643,23 @@ siguientes países?&lt;/p&gt;
 &lt;/ul&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="571"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="560"/>
         <source>Yes</source>
         <translation>Si</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="580"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="569"/>
         <source>No</source>
         <translation>No</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="589"/>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="669"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="578"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="657"/>
         <source>&lt;h3&gt;Thank you for your help!&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Muchas gracias por vuestra ayuda!&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="629"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="618"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
 
@@ -689,17 +689,17 @@ informar de su problema. Si prefiere trabajar en su
 ordenador, también puede enviarse un enlace a sí mismo por correo electrónico.&lt;/p</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="651"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="639"/>
         <source>Open error report form</source>
         <translation>Informe para signalar un error</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="664"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="652"/>
         <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to open flightmaps error report form: https://docs.google.com/a/openflightmaps.org/forms/d/e/1FAIpQLSeBiqRbqioUaAp6H-FUtYMFduLGQmzOm1G3Dxyh2XALl5r3Nw/viewform</source>
         <translation>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to open flightmaps error report form: https://docs.google.com/a/openflightmaps.org/forms/d/e/1FAIpQLSeBiqRbqioUaAp6H-FUtYMFduLGQmzOm1G3Dxyh2XALl5r3Nw/viewform</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="712"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="700"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
 
@@ -1223,7 +1223,7 @@ Banco:    Volksbank Freiburg
 Message: Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="67"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="66"/>
         <source>
 **Enroute Flight Navigation** is a
 non-commercial project of Akaflieg Freiburg and the
@@ -1263,12 +1263,12 @@ Si prefiere trabajar con su computadora
 con los datos de la cuenta bancaria.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="97"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="95"/>
         <source>Send e-mail</source>
         <translation>Enviar por correo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="102"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="100"/>
         <source>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</source>
         <translation>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</translation>
     </message>
@@ -2080,7 +2080,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;li&gt; &lt;strong&gt;Polaco:&lt;/strong&gt; Sławek Mikuła. &lt;/li&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="99"/>
+        <location filename="../../../src/Librarian.cpp" line="101"/>
         <source>
 &lt;h3&gt;Alumni&lt;/h3&gt;
 </source>
@@ -2088,7 +2088,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;h3&gt;Alumnos&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="103"/>
+        <location filename="../../../src/Librarian.cpp" line="105"/>
         <source>
 &lt;li&gt;Luca Bertoncello (Italian translation)&lt;/li&gt;
 </source>
@@ -2096,7 +2096,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;li&gt;Luca Bertoncello (traduccion en Italiano)&lt;/li&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="105"/>
+        <location filename="../../../src/Librarian.cpp" line="107"/>
         <source>
 &lt;li&gt;Adrien Crovato (Integration of weather information)&lt;/li&gt;
 </source>
@@ -2104,7 +2104,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;li&gt;Adrien Crovato (Integración de información meteorológica)&lt;/li&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="107"/>
+        <location filename="../../../src/Librarian.cpp" line="109"/>
         <source>
 &lt;li&gt;Szymon Kocur (Polish translation)&lt;/li&gt;
 </source>
@@ -2112,7 +2112,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;li&gt;Szymon Kocur (Traduccion en Polaco)&lt;/li&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="109"/>
+        <location filename="../../../src/Librarian.cpp" line="111"/>
         <source>
 &lt;li&gt;Heiner Tholen (User interface)&lt;/li&gt;
 </source>
@@ -2120,7 +2120,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;li&gt;Heiner Tholen (Interfaz usuario)&lt;/li&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="111"/>
+        <location filename="../../../src/Librarian.cpp" line="113"/>
         <source>
 &lt;li&gt;Johannes Zellner (Geoid correction for altitude)&lt;/li&gt;
 </source>
@@ -2128,7 +2128,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;li&gt;Johannes Zellner (Corrección de geoide para la altitud)&lt;/li&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="120"/>
+        <location filename="../../../src/Librarian.cpp" line="122"/>
         <source>
 &lt;p&gt;We receive our aviation data from &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. This is a not-for-profit organisation where volunteers compile aviation data for many countries. If openAIP covers your country, we might be able to generate maps for it. First, however, we need to be reasonably sure that the openAIP data is accurate and complete. Please have a look at the &lt;a href=&quot;http://maps.openaip.net&quot;&gt;openAIP maps&lt;/a&gt; and compare the display with an official aviation map of your country. Are the airfields there? Are runway lengths/orientations and frequencies correct? Are NavAids correctly displayed, with correct codes and frequencies? And what about airspaces?&lt;/p&gt;
 
@@ -2143,7 +2143,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Comprenda que programamos esta aplicación gratuita en nuestro tiempo libre, como un servicio a la comunidad. Lamentablemente, debo señalar que enviarnos demandas descorteses probablemente no dará el resultado que deseas.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="130"/>
+        <location filename="../../../src/Librarian.cpp" line="132"/>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
@@ -2172,7 +2172,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="147"/>
+        <location filename="../../../src/Librarian.cpp" line="149"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -2185,7 +2185,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Otros programas pueden acceder a las rutas de vuelo, como software de copia de seguridad o aplicaciones de sincronización de archivos. Esto puede ser útil para compartir una biblioteca de rutas de vuelo con otros dispositivos.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="161"/>
+        <location filename="../../../src/Librarian.cpp" line="163"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -2238,7 +2238,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Los datos aeronáuticos son amablemente proporcionados por &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; y &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps &lt;/a&gt; proyectos. Los mapas base son amablemente proporcionados por &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Consulte la documentación para obtener más detalles.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="194"/>
+        <location filename="../../../src/Librarian.cpp" line="196"/>
         <source>
 &lt;h3&gt;License&lt;/h3&gt;
 
@@ -2262,7 +2262,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="205"/>
+        <location filename="../../../src/Librarian.cpp" line="207"/>
         <source>
 &lt;h4&gt;Software and data included in the program&lt;/h4&gt;
 
@@ -2290,7 +2290,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;/ul&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="222"/>
+        <location filename="../../../src/Librarian.cpp" line="224"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -2311,47 +2311,47 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="235"/>
+        <location filename="../../../src/Librarian.cpp" line="237"/>
         <source>Privacy Policies</source>
         <translation>Políticas de privacidad</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="236"/>
+        <location filename="../../../src/Librarian.cpp" line="238"/>
         <source>This app does not send any data to us or other parties. We do not collect data and we do not track our users. However, this app accesses internet sites that may not be under our control and may keep access logs.</source>
         <translation>Esta aplicación no nos envía ningún dato a nosotros ni a otras partes. No recopilamos datos y no rastreamos a nuestros usuarios. Sin embargo, esta aplicación accede a sitios de Internet que pueden no estar bajo nuestro control y puede mantener registros de acceso.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="241"/>
+        <location filename="../../../src/Librarian.cpp" line="243"/>
         <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
         <translation>La aplicación se conecta a los servidores de la Universidad de Friburgo para buscar actualizaciones y descargar mapas y datos.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="243"/>
+        <location filename="../../../src/Librarian.cpp" line="245"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the Aviation Weather Center, a website of the United States government.</source>
         <translation>La aplicación descarga datos METAR y TAF para su ubicación y su ruta deseada desde el Aviation Weather Center, un sitio web del gobierno de los Estados Unidos.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="247"/>
+        <location filename="../../../src/Librarian.cpp" line="249"/>
         <source>Privacy-relevant permissions requested by this app</source>
         <translation>Permisos relacionados con la privacidad solicitados por esta aplicación</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="248"/>
+        <location filename="../../../src/Librarian.cpp" line="250"/>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information for your location.</source>
         <translation>Enroute Flight Navigation necesita acceder a su ubicación precisa. La aplicación utiliza estos datos para mostrar su posición en el mapa en movimiento y proporcionar información aeronáutica relevante para su ubicación.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="251"/>
+        <location filename="../../../src/Librarian.cpp" line="253"/>
         <source>Please grant permission to access the precise location when prompted.</source>
         <translation>Otorgue permiso para acceder a la ubicación precisa cuando se le solicite.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="252"/>
+        <location filename="../../../src/Librarian.cpp" line="254"/>
         <source>Responsible</source>
         <translation>Responsable</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="258"/>
+        <location filename="../../../src/Librarian.cpp" line="260"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -2376,14 +2376,19 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Estamos haciendo todo lo posible para evitar un límite estricto en la cantidad de mapas en el futuro. Por favor ayúdenos con eso.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="273"/>
+        <location filename="../../../src/Librarian.cpp" line="275"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
         <translation>&lt;p&gt;Hemos actualizado la base tecnológica subyacente a esta aplicación. Por favor, informe de cualquier problema!&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="274"/>
+        <location filename="../../../src/Librarian.cpp" line="276"/>
         <source>Our aviation maps will now receive daily updates, provided that new data is available.</source>
         <translation>Nuestros mapas de aviación ahora recibirán actualizaciones diarias, siempre que haya nuevos datos disponibles.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="277"/>
+        <source>Luca Riva has kindly translated this app to Spanish.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2719,14 +2724,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Platform::FileExchange</name>
     <message>
-        <location filename="../../../src/platform/FileExchange_Android.cpp" line="116"/>
         <source>No suitable file sharing app could be found.</source>
-        <translation>No se pudo encontrar ninguna aplicación adecuada para compartir archivos.</translation>
+        <translation type="vanished">No se pudo encontrar ninguna aplicación adecuada para compartir archivos.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Android.cpp" line="132"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation>No se pudo encontrar ninguna aplicación adecuada para leer los datos.</translation>
+        <translation type="vanished">No se pudo encontrar ninguna aplicación adecuada para leer los datos.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
@@ -2772,7 +2775,6 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Platform::Notifier</name>
     <message>
-        <location filename="../../../src/platform/Notifier_Android.cpp" line="82"/>
         <location filename="../../../src/platform/Notifier_Linux.cpp" line="205"/>
         <source>Update</source>
         <translation>Actualizar</translation>
