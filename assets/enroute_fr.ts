@@ -2327,7 +2327,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="277"/>
         <source>Luca Riva has kindly translated this app to Spanish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Luca Riva a gentiment traduit cette application en espagnol.</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
