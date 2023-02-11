@@ -2388,7 +2388,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="277"/>
         <source>Luca Riva has kindly translated this app to Spanish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Luca Riva ha tenido la amabilidad de traducir esta aplicación al español.</translation>
     </message>
 </context>
 <context>
@@ -4608,7 +4608,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="158"/>
         <source>overhead</source>
-        <translation type="unfinished"></translation>
+        <translation>arriba</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="161"/>
@@ -4664,7 +4664,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="285"/>
         <source>[unable to get distance&apos;s floating-point value]</source>
-        <translation type="unfinished">[No se puede obtener el valor de punto flotante de la distancia]</translation>
+        <translation>[No se puede obtener el valor de punto flotante de la distancia]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="337"/>
@@ -4674,7 +4674,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="376"/>
         <source>trace amount</source>
-        <translation type="unfinished"></translation>
+        <translation>trazar la cantidad</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="384"/>
@@ -5384,872 +5384,872 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1113"/>
         <source>Extreme turbulence</source>
-        <translation type="unfinished"></translation>
+        <translation>Turbulencia  extrema</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1126"/>
         <source>higher than</source>
-        <translation type="unfinished"></translation>
+        <translation>Más alto que</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1129"/>
         <source>higher or the same as</source>
-        <translation type="unfinished"></translation>
+        <translation>Más alto o igual de</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1132"/>
         <source>same as</source>
-        <translation type="unfinished"></translation>
+        <translation>Igual que</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1135"/>
         <source>lower or the same as</source>
-        <translation type="unfinished"></translation>
+        <translation>Más bajo o lo mismo que</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1138"/>
         <source>lower than</source>
-        <translation type="unfinished"></translation>
+        <translation>Más bajo que</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1148"/>
         <source>increasing, then decreasing</source>
-        <translation type="unfinished"></translation>
+        <translation>aumentando, luego disminuyendo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1151"/>
         <source>increasing more slowly</source>
-        <translation type="unfinished"></translation>
+        <translation>augmentando más lentamente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1154"/>
         <source>increasing</source>
-        <translation type="unfinished"></translation>
+        <translation>augmentando</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1157"/>
         <source>increasing more rapidly</source>
-        <translation type="unfinished"></translation>
+        <translation>augmentando más rápidamente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1160"/>
         <source>steady</source>
-        <translation type="unfinished"></translation>
+        <translation>estable</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1163"/>
         <source>decreasing, then increasing</source>
-        <translation type="unfinished"></translation>
+        <translation>disminuyendo, luego aumentando</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1166"/>
         <source>decreasing more slowly</source>
-        <translation type="unfinished"></translation>
+        <translation>disminuyendo más lentamente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1169"/>
         <source>decreasing</source>
-        <translation type="unfinished"></translation>
+        <translation>disminuendo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1172"/>
         <source>decreasing more rapidly</source>
-        <translation type="unfinished"></translation>
+        <translation>disminuyendo más rapidamente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1178"/>
         <source>rising rapidly</source>
-        <translation type="unfinished"></translation>
+        <translation>creciendo rápidamente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1181"/>
         <source>falling rapidly</source>
-        <translation type="unfinished"></translation>
+        <translation>cayendo rápidamente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1191"/>
         <source>Probability 30%</source>
-        <translation type="unfinished"></translation>
+        <translation>Probabilidad 30%</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1194"/>
         <source>Probability 40%</source>
-        <translation type="unfinished"></translation>
+        <translation>Probabilidad 40%</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1210"/>
         <source>clear and dry</source>
-        <translation type="unfinished"></translation>
+        <translation>claro y seco</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1213"/>
         <source>damp</source>
-        <translation type="unfinished"></translation>
+        <translation>húmedo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1216"/>
         <source>wet and water patches</source>
-        <translation type="unfinished"></translation>
+        <translation>parches húmedos y de agua</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1219"/>
         <source>rime and frost covered</source>
-        <translation type="unfinished"></translation>
+        <translation>cubierto de escarcha o escarcha</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1222"/>
         <source>dry snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve seca</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1225"/>
         <source>wet snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve humeda</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1228"/>
         <source>slush</source>
-        <translation type="unfinished"></translation>
+        <translation>barro</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1231"/>
         <source>ice</source>
-        <translation type="unfinished"></translation>
+        <translation>hielo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1234"/>
         <source>compacted or rolled snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve compacta o enrollada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1237"/>
         <source>frozen ruts or ridges</source>
-        <translation type="unfinished"></translation>
+        <translation>surcos o crestas congeladas</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1255"/>
         <source>none</source>
-        <translation type="unfinished"></translation>
+        <translation>ninguno</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1286"/>
         <source>recent drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>llovizna reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1289"/>
         <source>drizzle in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>llovizna en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1292"/>
         <source>light drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>llovizna ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1295"/>
         <source>moderate drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>llovizna moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1298"/>
         <source>heavy drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>llovizna severa</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1310"/>
         <source>freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>llovizna helada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1313"/>
         <source>freezing drizzle in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>llovizna helada en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1316"/>
         <source>light freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>ligera llovizna helada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1319"/>
         <source>moderate freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>llovizna helada moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1322"/>
         <source>heavy freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>fuerte llovizna helada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1325"/>
         <source>recent freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation>llovizna helada reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1340"/>
         <source>blowing dust in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de polvo en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1343"/>
         <source>light blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de polvo ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1346"/>
         <source>moderate blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de polvo moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1349"/>
         <source>heavy blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de polvo pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1352"/>
         <source>recent blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation>reciente tormenta de polvo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1367"/>
         <source>freezing fog</source>
-        <translation type="unfinished"></translation>
+        <translation>niebla helada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1370"/>
         <source>partial fog</source>
-        <translation type="unfinished"></translation>
+        <translation>niebla parcial</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1373"/>
         <source>patches of fog</source>
-        <translation type="unfinished"></translation>
+        <translation>bancos de niebla</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1376"/>
         <source>shallow fog</source>
-        <translation type="unfinished"></translation>
+        <translation>niebla superficial</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1390"/>
         <source>hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de granizo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1393"/>
         <source>hail showers in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de granizo en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1396"/>
         <source>light hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de granizo ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1399"/>
         <source>moderate hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de granizo moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1402"/>
         <source>heavy hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de granizo pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1405"/>
         <source>recent hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de granizo reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1417"/>
         <source>thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con granizo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1420"/>
         <source>thunderstorm with hail in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de granizo en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1423"/>
         <source>light thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de granizo ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1426"/>
         <source>moderate thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de granizo moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1429"/>
         <source>heavy thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de granizo pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1432"/>
         <source>recent thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de granizo reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1444"/>
         <source>ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación de cristales de hielo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1447"/>
         <source>ice pellet precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación de cristales de hielo en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1450"/>
         <source>light ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>ligera precipitación de cristales de hielo </translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1453"/>
         <source>moderate ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>moderada precipitación de cristales de hielo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1456"/>
         <source>heavy ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación de cristales de hielo pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1459"/>
         <source>recent ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>reciente precipitación de cristales de hielo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1471"/>
         <source>precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1474"/>
         <source>light precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1477"/>
         <source>moderate precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1480"/>
         <source>heavy precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1483"/>
         <source>recent precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1486"/>
         <source>precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1498"/>
         <source>showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>chubascos con precipitación indeterminada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1501"/>
         <source>recent showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>chubascos recientes con precipitación indeterminada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1504"/>
         <source>showers in the vicinity with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>chubascos en las proximidades con precipitación indeterminada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1507"/>
         <source>light showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>chubascos ligero con precipitación indeterminada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1510"/>
         <source>moderate showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>chubascos moderatos con precipitación indeterminada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1513"/>
         <source>heavy showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>chubascos severos con precipitación indeterminada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1525"/>
         <source>thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con precipitación</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1528"/>
         <source>recent thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta reciente con precipitación</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1531"/>
         <source>thunderstorm with precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con precipitación en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1534"/>
         <source>light thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta ligera con precipitación</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1537"/>
         <source>moderate thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta moderada con precipitación</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1540"/>
         <source>heavy thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta pesada con precipitación</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1555"/>
         <source>rain in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>lluvia en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1558"/>
         <source>light rain</source>
-        <translation type="unfinished"></translation>
+        <translation>lluvia ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1561"/>
         <source>moderate rain</source>
-        <translation type="unfinished"></translation>
+        <translation>lluvia moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1564"/>
         <source>heavy rain</source>
-        <translation type="unfinished"></translation>
+        <translation>lluvia pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1567"/>
         <source>recent rain</source>
-        <translation type="unfinished"></translation>
+        <translation>lluvia reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1579"/>
         <source>freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation>lluvia helada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1582"/>
         <source>light freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation>lluvia helada ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1585"/>
         <source>moderate freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation>lluvia helada moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1588"/>
         <source>heavy freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation>lluvia helada pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1591"/>
         <source>recent freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation>lluvia helada reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1594"/>
         <source>freezing rain in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>lluvia helada en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1606"/>
         <source>rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1609"/>
         <source>rain showers in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1612"/>
         <source>light rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero ligero</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1615"/>
         <source>moderate rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero moderado</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1618"/>
         <source>heavy rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero pesado</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1621"/>
         <source>recent rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1633"/>
         <source>thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con lluvia</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1636"/>
         <source>thunderstorm with rain in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con lluvia en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1639"/>
         <source>light thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con lluvia ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1642"/>
         <source>moderate thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con lluvia moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1645"/>
         <source>heavy thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con lluvia pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1648"/>
         <source>recent thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con lluvia reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1663"/>
         <source>blowing sand in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenat de arena en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1666"/>
         <source>light blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenat de arena ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1669"/>
         <source>moderate blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenat de arena moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1672"/>
         <source>heavy blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenat de arena pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1675"/>
         <source>recent blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenat de arena reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1687"/>
         <source>low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>arena baja a la deriva</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1690"/>
         <source>low drifting sand in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>arena baja a la deriva en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1693"/>
         <source>light low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>arena baja a la deriva ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1696"/>
         <source>moderate low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>arena baja a la deriva moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1699"/>
         <source>heavy low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>arena baja a la deriva pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1702"/>
         <source>recent low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation>arena baja a la deriva reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1714"/>
         <source>snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1717"/>
         <source>snowfall in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1720"/>
         <source>light snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1723"/>
         <source>moderate snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1726"/>
         <source>heavy snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1729"/>
         <source>recent snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1744"/>
         <source>blowing snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de nieve en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1747"/>
         <source>light blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de nieve ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1750"/>
         <source>moderate blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de nieve moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1753"/>
         <source>heavy blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de nieve pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1756"/>
         <source>recent blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de nieve reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1768"/>
         <source>snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación  de granos de nieve</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1771"/>
         <source>snow grain precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación  de granos de nieve en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1774"/>
         <source>light snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación  de granos de nieve ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1777"/>
         <source>moderate snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación  de granos de nieve moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1780"/>
         <source>heavy snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación  de granos de nieve pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1783"/>
         <source>recent snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation>precipitación  de granos de nieve reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1795"/>
         <source>low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve a la deriva baja</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1798"/>
         <source>low drifting snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve a la deriva baja en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1801"/>
         <source>light low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve a la deriva baja ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1804"/>
         <source>moderate low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve a la deriva baja moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1807"/>
         <source>heavy low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve a la deriva baja pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1810"/>
         <source>recent low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve a la deriva baja reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1822"/>
         <source>freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve helada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1825"/>
         <source>freezing snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve helada en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1828"/>
         <source>light freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve helada ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1831"/>
         <source>moderate freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve helada moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1834"/>
         <source>heavy freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve helada pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1837"/>
         <source>recent freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation>nieve helada reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1849"/>
         <source>snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1852"/>
         <source>snow showers in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero de nieve</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1855"/>
         <source>light snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero de nieve ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1858"/>
         <source>moderate snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero de nieve moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1861"/>
         <source>heavy snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero de nieve pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1864"/>
         <source>recent snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero de nieve reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1876"/>
         <source>thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de nieve</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1879"/>
         <source>thunderstorm with snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de nieve en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1882"/>
         <source>light thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de nieve ligera</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1885"/>
         <source>moderate thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de nieve moderada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1888"/>
         <source>heavy thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de nieve pesada</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1891"/>
         <source>recent thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta de nieve reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1903"/>
         <source>shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero con granizo pequeño</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1906"/>
         <source>shower with small hail in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero con granizo pequeño en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1909"/>
         <source>light shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero con granizo pequeño ligero</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1912"/>
         <source>moderate shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero con granizo pequeño moderado</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1915"/>
         <source>heavy shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero con granizo pequeño pesado</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1918"/>
         <source>recent shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>aguacero con granizo pequeño reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1930"/>
         <source>thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con granizo pequeño</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1933"/>
         <source>thunderstorm with small hail in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con granizo pequeño en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1936"/>
         <source>light thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con granizo pequeño ligero</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1939"/>
         <source>moderate thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con granizo pequeño moderado</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1942"/>
         <source>heavy thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con granizo pequeño pesado</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1945"/>
         <source>recent thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation>tormenta con granizo pequeño reciente</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1965"/>
         <source>calm (glassy), no waves</source>
-        <translation type="unfinished"></translation>
+        <translation>Tranquilo (vidrioso), sin olas</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1968"/>
