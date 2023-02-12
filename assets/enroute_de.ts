@@ -2689,7 +2689,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="277"/>
         <source>Luca Riva has kindly translated this app to Spanish.</source>
-        <translation type="unfinished"></translation>
+        <translation>Luca Riva übersetzte die App freundlicherweise ins Spanische.</translation>
     </message>
     <message>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information.</source>
