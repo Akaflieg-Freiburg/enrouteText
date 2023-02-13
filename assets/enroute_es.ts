@@ -6647,292 +6647,292 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2386"/>
         <source>Less than 1 strike per minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Menos de 1 rayo por minuto.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2390"/>
         <source>1 -- 6 strikes per minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>1 a 6 rayos por minuto.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2394"/>
         <source>More than 6 strikes per minute.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mas de 6 rayos por minuto.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2402"/>
         <source>cloud-to-ground</source>
-        <translation type="unfinished"></translation>
+        <translation>nube a tierra</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2405"/>
         <source>in-cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>en la nube</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2409"/>
         <source>cloud-to-cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>nube a nube</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2413"/>
         <source>cloud-to-air without strike to ground</source>
-        <translation type="unfinished"></translation>
+        <translation>nube-aire sin impacto a tierra</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2417"/>
         <source>Lightning types: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rayo tipo: 1%</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2423"/>
         <source>Lightning strike types not recognised by parser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tipos de rayos no reconocidos por el analizador.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2433"/>
         <source>Lightning strikes observed in the following directions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Relámpagos observados en las siguientes direcciones: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2446"/>
         <source>Report for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Informe para 1%</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2456"/>
         <source>Low cloud layer: %1 • Mid cloud layer: %2 • High cloud layer: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Capa de nubes bajas: %1 • Capa de nubes medias: %2 • Capa de nubes altas: %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2472"/>
         <source>Observed 6-hourly minimum/maximum temperature: %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatura mínima/máxima observada cada 6 horas: %1/%2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2477"/>
         <source>Observed 24-hourly minimum/maximum temperature: %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatura mínima/máxima observada cada 24 horas: %1/%2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2483"/>
         <source>Minimum forecast temperature: %1, expected at %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatura mínima pronosticada: %1, esperada a las %2.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2488"/>
         <source>Maximum forecast temperature: %1, expected at %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatura máxima pronosticada: %1, esperada en %2.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2504"/>
         <source>Colour code BLACK: aerodrome closed due to snow accumulation or non-weather reasons</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de color NEGRO: aeródromo cerrado por acumulación de nieve o por motivos no meteorológicos</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2512"/>
         <source>Duration of sunshine that occurred the previous calendar day is %1 minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>La duración de la insolación que se produjo el día natural anterior es de %1 minutos.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2514"/>
         <source>No sunshine occurred the previous calendar day</source>
-        <translation type="unfinished"></translation>
+        <translation>No hubo sol el día calendario anterior</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2517"/>
         <source>This report is the corrected weather observation, correction number is %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Este informe es la observación meteorológica corregida, el número de corrección es %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2524"/>
         <source>Density altitude is %1 feet</source>
-        <translation type="unfinished"></translation>
+        <translation>La altitud de densidad es %1 pies</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2527"/>
         <source>Largest hailstone size is %1 inches</source>
-        <translation type="unfinished"></translation>
+        <translation>El tamaño más grande del granizo es de %1 pulgadas</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2536"/>
         <source>Colour code BLUE: visibility &gt;8000 m and lowest cloud base height &gt;2500 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de color AZUL: visibilidad &gt;8000 m y altura mínima de la base de la nube &gt;2500 pies</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2546"/>
         <source>Colour code BLUE+: visibility &gt;8000 m or lowest cloud base height &gt;2000 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de color AZUL+: visibilidad &gt;8000 m o altura mínima de la base de la nube &gt;2000 pies</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2556"/>
         <source>Colour code YELLOW: visibility 1600-3700 m or lowest cloud base height 300-700 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de color AMARILLO: visibilidad 1600-3700 m o altura mínima de la base de la nube 300-700 pies</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2566"/>
         <source>Colour code WHITE: visibility &gt;5000 m and lowest cloud base height &gt;1500 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de color BLANCO: visibilidad &gt;5000 m y altura mínima de la base de las nubes &gt;1500 pies</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2576"/>
         <source>Colour code GREEN: visibility &gt;3700 m and lowest cloud base height &gt;700 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de color VERDE: visibilidad &gt;3700 m y altura mínima de la base de las nubes &gt;700 pies</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2586"/>
         <source>Colour code YELLOW 1: visibility &gt;2500 m and lowest cloud base height &gt;500 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de color AMARILLO 1: visibilidad &gt;2500 m y altura mínima de la base de la nube &gt;500 pies</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2596"/>
         <source>Colour code YELLOW 2: visibility &gt;1600 m and lowest cloud base height &gt;300 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de color AMARILLO 2: visibilidad &gt;1600 m y altura mínima de la base de la nube &gt;300 pies</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2606"/>
         <source>Colour code AMBER: visibility &gt;800 m and lowest cloud base height &gt;200 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de color ÁMBAR: visibilidad &gt;800 m y altura mínima de la base de la nube &gt;200 pies</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2616"/>
         <source>Colour code RED: visibility &lt;800 m or lowest cloud base height &lt;200 ft</source>
-        <translation type="unfinished"></translation>
+        <translation>Código de color ROJO: visibilidad &lt;800 m o altura mínima de la base de las nubes &lt;200 pies</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2620"/>
         <source>Frost on the instrument (e.g. due to freezing fog depositing rime).</source>
-        <translation type="unfinished"></translation>
+        <translation>Escarcha en el instrumento (p. ej., debido a la formación de escarcha en la niebla helada).</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2623"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center Norfolk, VA.</source>
-        <translation type="unfinished"></translation>
+        <translation>El identificador del emisor del informe es %1. Este pronóstico se emite en The Fleet Weather Center Norfolk, VA.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2626"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center San Diego, CA (FS).</source>
-        <translation type="unfinished"></translation>
+        <translation>El identificador del emisor del informe es %1. Este pronóstico se emite en The Fleet Weather Center San Diego, CA (FS).</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2641"/>
         <source>Total precipitation for the past hour: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Precipitación total de la última hora: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2645"/>
         <source>Snow depth on ground: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Espesor de la nieve en el suelo: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2649"/>
         <source>Water equivalent of frozen precipitation for the last 3 or 6 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Equivalente en agua de la precipitación congelada de las últimas 3 o 6 horas: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2653"/>
         <source>Water equivalent of frozen precipitation for the last 3 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Equivalente en agua de la precipitación congelada de las últimas 3: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2657"/>
         <source>Water equivalent of frozen precipitation for the last 6 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Equivalente en agua de la precipitación congelada de las últimas 6 horas: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2661"/>
         <source>Water equivalent of frozen precipitation for the last 24 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Equivalente en agua de la precipitación congelada de las últimas 24 horas: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2665"/>
         <source>Snowfall for the last 6 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevadas en las últimas 6 horas: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2669"/>
         <source>Water equivalent of snow on ground: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Equivalente en agua de la nieve sobre el suelo: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2673"/>
         <source>Ice accretion for the last hour: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acumulación de hielo durante la última hora: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2677"/>
         <source>Ice accretion for the last 3 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acumulación de hielo durante las últimas 3 horas: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2681"/>
         <source>Ice accretion for the last 6 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acumulación de hielo durante las últimas 6 horas: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2685"/>
         <source>Precipitation accumulation since last report: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Acumulación de precipitaciones desde el último informe: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2689"/>
         <source>Snow increasing rapidly. For the last hour snow increased by %1. Total snowfall: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>La nieve aumenta rápidamente. Durante la última hora, la nieve aumentó en un %1. Nevadas totales: %2.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2694"/>
         <source>Rainfall for the last 10 minutes before report release time: %1. Rainfall since 9:00 local time: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lluvia en los últimos 10 minutos antes de la hora de publicación del informe: %1. Lluvia desde las 9:00 hora local: %2.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2699"/>
         <source>Tipping bucket rain gauge INOP.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pluviómetro de cubeta basculante INOP.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2702"/>
         <source>Freezing rain sensor INOP.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sensor de lluvia helada INOP.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2705"/>
         <source>Icing data is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faltan datos de formación de hielo.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2708"/>
         <source>Precipitation data is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Faltan datos de precipitaciones.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2724"/>
         <source>QNH: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>QNH: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2727"/>
         <source>Forecast lowest QNH: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Pronóstico QNH más bajo: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2731"/>
         <source>QFE: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>QFE: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2735"/>
         <source>Standard sea level pressure: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Presión estándar a nivel del mar: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2739"/>
         <source>QNH is not available</source>
-        <translation type="unfinished"></translation>
+        <translation>QNH no disponible</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2743"/>
         <source>Atmospheric pressure data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>Faltan datos de presión atmosférica</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2758"/>
