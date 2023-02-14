@@ -37,7 +37,7 @@ The following image shows a typical situation.
    Moving map when following a flight route
 
 .. note:: 
-  **Enroute Flight Navigation** shows the infobox only when airborne, closer
+  **Enroute Flight Navigation** shows the info box only when airborne, closer
   than three nautical miles to the intended route and further than three 
   nautical miles from your destination.
 
@@ -186,8 +186,8 @@ upper right corner of the screen allows saving the route to the library.
 Optional: Export and share the route
 ------------------------------------
 
-**Enroute Flight Navigation** is can write the route to a file, which can then
-be transferred to other devices, or opened with other apps. **Enroute Flight
+**Enroute Flight Navigation** can write the route to a file, which can then be
+transferred to other devices, or opened with other apps. **Enroute Flight
 Navigation** is able to write files in GeoJSON and GPX format. While GPX is
 understood by most programs, GeoJSON is the preferred format for sharing data
 between several instances of **Enroute Flight Navigation**.
