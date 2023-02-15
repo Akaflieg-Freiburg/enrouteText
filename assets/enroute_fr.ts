@@ -3343,18 +3343,18 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="242"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Interface utilisateur</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="250"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="265"/>
         <source>Large Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Caractères d&apos;écriture grades</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="266"/>
         <source>Use this option to enlarge fonts for improved readability.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez cette option pour agrandir les caractères d&apos;écriture pour une meilleure lisibilité.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="331"/>
