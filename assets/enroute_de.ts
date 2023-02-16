@@ -1588,32 +1588,32 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="43"/>
         <source>Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg</source>
-        <translation type="unfinished"></translation>
+        <translation>Willkommen bei Enroute Flight Navigation - einem Projekt der Akaflieg Freiburg</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="44"/>
         <source>Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Danke, dass Sie diese Flugnavigationsapp benutzen! Bevor es losgeht, müssen wir darauf hinweisen, dass &lt;strong&gt;diese App und die Luftfahrtdaten keinerlei Garantien bieten.&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="45"/>
         <source>The app is not certified to satisfy aviation standards. It may contain errors and may not work as expected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die App ist nicht nach irgendwelchen Luftfahrtstandards zertifiziert. Sie kann Fehler enthalten und evtl. nicht so arbeiten wie erwartet.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="46"/>
         <source>The aviation data does not come from official sources. It might be incomplete, outdated or otherwise incorrect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Luftfahrtdaten entstammen keinen offiziellen Quellen. Sie können unvollständig, veraltet oder anderweitig fehlerhaft sein.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="47"/>
         <source>&lt;strong&gt;This app is no substitute for proper flight preparation or good pilotage.&lt;/strong&gt; We hope you enjoy the app and that you do find it useful.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Diese App ersetzt weder eine ordnungsgemäße Flugvorbereitung noch solides Pilotenhandwerk.&lt;/strong&gt; Wir hoffen, sie macht Ihnen Freude und stiftet Nutzen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="48"/>
         <source>Fly safely and enjoy many happy landings!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fliegen Sie sicher und kommen Sie immer gut an!</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="78"/>
@@ -1628,12 +1628,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="108"/>
         <source>Privacy-relevant permissions requested by this app</source>
-        <translation type="unfinished">Datenschutzrelevante Berechtigungen, die von der App angefordert werden</translation>
+        <translation>Datenschutzrelevante Berechtigungen, die von der App angefordert werden</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="109"/>
         <source>Please grant the following permissiona when prompted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte gewähren Sie die folgenden Rechte, wenn sie angefordert werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="157"/>
@@ -2704,12 +2704,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="213"/>
         <source>The app connects to &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;servers at the University of Freiburg&lt;/a&gt; to check for updates and to download maps and data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die App verbindet sich mit &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;Servern der Universität Freiburg&lt;/a&gt; zum Check nach Updates und um Karten und Daten herunterzuladen.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="217"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die App lädt METAR- und TAF-Daten für Ihren Standort und Ihre geplante Route beim &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation Weather Center&lt;/a&gt; herunter, einer Website der US-Regierung.</translation>
     </message>
     <message>
         <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
