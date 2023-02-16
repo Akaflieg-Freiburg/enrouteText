@@ -1285,22 +1285,62 @@ con los datos de la cuenta bancaria.</translation>
 <context>
     <name>FirstRunDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="71"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="43"/>
+        <source>Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="44"/>
+        <source>Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="45"/>
+        <source>The app is not certified to satisfy aviation standards. It may contain errors and may not work as expected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="46"/>
+        <source>The aviation data does not come from official sources. It might be incomplete, outdated or otherwise incorrect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="47"/>
+        <source>&lt;strong&gt;This app is no substitute for proper flight preparation or good pilotage.&lt;/strong&gt; We hope you enjoy the app and that you do find it useful.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="48"/>
+        <source>Fly safely and enjoy many happy landings!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="78"/>
         <source>Privacy</source>
         <translation>Privacidad</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="72"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="79"/>
         <source>Please take a minute to review our privacy policies.</source>
         <translation>Tómese un minuto para revisar nuestras políticas de privacidad.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="114"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="108"/>
+        <source>Privacy-relevant permissions requested by this app</source>
+        <translation type="unfinished">Permisos relacionados con la privacidad solicitados por esta aplicación</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="109"/>
+        <source>Please grant the following permissiona when prompted.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="157"/>
         <source>Accept</source>
         <translation>Acceptar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="126"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="169"/>
         <source>Quit App</source>
         <translation>Salir de la aplicación</translation>
     </message>
@@ -2143,7 +2183,16 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Comprenda que programamos esta aplicación gratuita en nuestro tiempo libre, como un servicio a la comunidad. Lamentablemente, debo señalar que enviarnos demandas descorteses probablemente no dará el resultado que deseas.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="132"/>
+        <location filename="../../../src/Librarian.cpp" line="213"/>
+        <source>The app connects to &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;servers at the University of Freiburg&lt;/a&gt; to check for updates and to download maps and data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="217"/>
+        <source>The app downloads METAR and TAF data for your locaction and your intended route from the &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
@@ -2157,7 +2206,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Bienvenido a Enroute Flight Navigation: un proyecto de Akaflieg Freiburg&lt;/h3&gt;
+        <translation type="vanished">&lt;h3&gt;Bienvenido a Enroute Flight Navigation: un proyecto de Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;¡Gracias por usar esta aplicación de navegación de vuelos! Antes de comenzar, debemos señalar que &lt;strong&gt;esta aplicación y los datos de aviación no tienen garantías&lt;/strong&gt;.&lt;/p&gt;
 
@@ -2172,7 +2221,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="149"/>
+        <location filename="../../../src/Librarian.cpp" line="132"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -2185,7 +2234,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Otros programas pueden acceder a las rutas de vuelo, como software de copia de seguridad o aplicaciones de sincronización de archivos. Esto puede ser útil para compartir una biblioteca de rutas de vuelo con otros dispositivos.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="163"/>
+        <location filename="../../../src/Librarian.cpp" line="146"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -2238,7 +2287,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Los datos aeronáuticos son amablemente proporcionados por &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; y &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps &lt;/a&gt; proyectos. Los mapas base son amablemente proporcionados por &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Consulte la documentación para obtener más detalles.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="196"/>
+        <location filename="../../../src/Librarian.cpp" line="179"/>
         <source>
 &lt;h3&gt;License&lt;/h3&gt;
 
@@ -2262,7 +2311,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="207"/>
+        <location filename="../../../src/Librarian.cpp" line="190"/>
         <source>
 &lt;h4&gt;Software and data included in the program&lt;/h4&gt;
 
@@ -2290,7 +2339,6 @@ con los datos de la cuenta bancaria.</translation>
 &lt;/ul&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="224"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -2300,7 +2348,7 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Permisos faltantes&lt;/h3&gt;
+        <translation type="vanished">&lt;h3&gt;Permisos faltantes&lt;/h3&gt;
 
 &lt;p&gt;La aplicación &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; no se iniciará porque no se han otorgado algunos permisos esenciales. Reinicie la aplicación y conceda los permisos necesarios. Si ha elegido denegar algunos permisos de forma permanente, es posible que deba ir a la aplicación Configuración de Android para otorgar los permisos allí.&lt;/p&gt;
 
@@ -2311,47 +2359,42 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="237"/>
+        <location filename="../../../src/Librarian.cpp" line="207"/>
         <source>Privacy Policies</source>
         <translation>Políticas de privacidad</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="238"/>
+        <location filename="../../../src/Librarian.cpp" line="208"/>
         <source>This app does not send any data to us or other parties. We do not collect data and we do not track our users. However, this app accesses internet sites that may not be under our control and may keep access logs.</source>
         <translation>Esta aplicación no nos envía ningún dato a nosotros ni a otras partes. No recopilamos datos y no rastreamos a nuestros usuarios. Sin embargo, esta aplicación accede a sitios de Internet que pueden no estar bajo nuestro control y puede mantener registros de acceso.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="243"/>
         <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
-        <translation>La aplicación se conecta a los servidores de la Universidad de Friburgo para buscar actualizaciones y descargar mapas y datos.</translation>
+        <translation type="vanished">La aplicación se conecta a los servidores de la Universidad de Friburgo para buscar actualizaciones y descargar mapas y datos.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="245"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the Aviation Weather Center, a website of the United States government.</source>
-        <translation>La aplicación descarga datos METAR y TAF para su ubicación y su ruta deseada desde el Aviation Weather Center, un sitio web del gobierno de los Estados Unidos.</translation>
+        <translation type="vanished">La aplicación descarga datos METAR y TAF para su ubicación y su ruta deseada desde el Aviation Weather Center, un sitio web del gobierno de los Estados Unidos.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="249"/>
         <source>Privacy-relevant permissions requested by this app</source>
-        <translation>Permisos relacionados con la privacidad solicitados por esta aplicación</translation>
+        <translation type="vanished">Permisos relacionados con la privacidad solicitados por esta aplicación</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="250"/>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information for your location.</source>
-        <translation>Enroute Flight Navigation necesita acceder a su ubicación precisa. La aplicación utiliza estos datos para mostrar su posición en el mapa en movimiento y proporcionar información aeronáutica relevante para su ubicación.</translation>
+        <translation type="vanished">Enroute Flight Navigation necesita acceder a su ubicación precisa. La aplicación utiliza estos datos para mostrar su posición en el mapa en movimiento y proporcionar información aeronáutica relevante para su ubicación.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="253"/>
         <source>Please grant permission to access the precise location when prompted.</source>
-        <translation>Otorgue permiso para acceder a la ubicación precisa cuando se le solicite.</translation>
+        <translation type="vanished">Otorgue permiso para acceder a la ubicación precisa cuando se le solicite.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="254"/>
+        <location filename="../../../src/Librarian.cpp" line="222"/>
         <source>Responsible</source>
         <translation>Responsable</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="260"/>
+        <location filename="../../../src/Librarian.cpp" line="228"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -2376,17 +2419,17 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Estamos haciendo todo lo posible para evitar un límite estricto en la cantidad de mapas en el futuro. Por favor ayúdenos con eso.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="275"/>
+        <location filename="../../../src/Librarian.cpp" line="243"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
         <translation>&lt;p&gt;Hemos actualizado la base tecnológica subyacente a esta aplicación. Por favor, informe de cualquier problema!&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="276"/>
+        <location filename="../../../src/Librarian.cpp" line="244"/>
         <source>Our aviation maps will now receive daily updates, provided that new data is available.</source>
         <translation>Nuestros mapas de aviación ahora recibirán actualizaciones diarias, siempre que haya nuevos datos disponibles.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="277"/>
+        <location filename="../../../src/Librarian.cpp" line="245"/>
         <source>Luca Riva has kindly translated this app to Spanish.</source>
         <translation>Luca Riva ha tenido la amabilidad de traducir esta aplicación al español.</translation>
     </message>
@@ -2452,9 +2495,8 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
 <context>
     <name>MissingPermissionsDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/MissingPermissionsDialog.qml" line="32"/>
         <source>Close App</source>
-        <translation>Cerrar la aplicación</translation>
+        <translation type="vanished">Cerrar la aplicación</translation>
     </message>
 </context>
 <context>
@@ -2811,7 +2853,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Platform::PlatformAdaptor</name>
     <message>
-        <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="45"/>
+        <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="51"/>
         <source>unknown network name</source>
         <translation>Nombre de red desconocido</translation>
     </message>
@@ -2912,32 +2954,32 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Receptor incorporado/%1</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="43"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="42"/>
         <source>None</source>
         <translation>Ninguno</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="53"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="58"/>
         <source>Not installed or access denied</source>
         <translation>No installado o acceso debegado</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="60"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="65"/>
         <source>Access denied</source>
         <translation>Acceso denegado</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="65"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="70"/>
         <source>Connection to satellite system lost</source>
         <translation>Se perdió la conexión al sistema satelital</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="70"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="75"/>
         <source>Waiting for signal</source>
         <translation>Esperando señal</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="74"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="79"/>
         <source>Receiving data</source>
         <translation>Recibendo datos</translation>
     </message>
@@ -7707,63 +7749,63 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Salida</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="594"/>
+        <location filename="../../../src/qml/main.qml" line="584"/>
         <source>Update required!</source>
         <translation>Actualización necessaria</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="710"/>
+        <location filename="../../../src/qml/main.qml" line="700"/>
         <source>Connected to traffic receiver.</source>
         <translation>Connectado al receptor de tráfico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="712"/>
+        <location filename="../../../src/qml/main.qml" line="702"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Conexión pérdida con el receptor de tráfico.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="750"/>
+        <location filename="../../../src/qml/main.qml" line="740"/>
         <source>Exit…?</source>
         <translation>Salida...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="751"/>
+        <location filename="../../../src/qml/main.qml" line="741"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Quiere salir de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="761"/>
-        <location filename="../../../src/qml/main.qml" line="770"/>
+        <location filename="../../../src/qml/main.qml" line="751"/>
+        <location filename="../../../src/qml/main.qml" line="760"/>
         <source>What&apos;s new…?</source>
         <translation>Que hay de nuevo...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="812"/>
+        <location filename="../../../src/qml/main.qml" line="802"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Ahora mostrando espacios aéreos hasta %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="814"/>
+        <location filename="../../../src/qml/main.qml" line="804"/>
         <source>Now showing all airspaces.</source>
         <translation>Ahora mostrando todos los espacios aéreos.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="838"/>
+        <location filename="../../../src/qml/main.qml" line="828"/>
         <source>Starting map update</source>
         <translation>Iniciando actualización de mapas</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="860"/>
+        <location filename="../../../src/qml/main.qml" line="850"/>
         <source>Network security error</source>
         <translation>Error de seguridad de la red</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="872"/>
+        <location filename="../../../src/qml/main.qml" line="862"/>
         <source>Network security settings</source>
         <translation>Configuración de seguridad de la red</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="873"/>
+        <location filename="../../../src/qml/main.qml" line="863"/>
         <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Ha elegido ignorar los errores de seguridad de la red en el futuro. **Esto representa un riesgo de seguridad.** Vaya a la página &quot;Configuración&quot; si desea restaurar el comportamiento original y seguro de esta aplicación.</translation>
     </message>
