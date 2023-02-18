@@ -1636,47 +1636,52 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Bitte gewähren Sie die folgenden Rechte, wenn sie angefordert werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="140"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="147"/>
         <source>Download Maps</source>
         <translation>Karten herunterladen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="143"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="150"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; needs geographic maps to work.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; funktioniert nur mit geographischen Karten.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="147"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="157"/>
         <source>Regretfully, we do not offer maps for your present location (%1).</source>
         <translation>Für Ihren gegenwärtigen Standort (%1) bieten wir leider keine Karten an.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="149"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="159"/>
         <source>Based on your location, we reckon that that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Accept&apos; to close this dialog.</source>
         <translation>Ihrem Standort nach müsste die folgende Karte für Sie relevant sein. Ein Klick auf die Karte startet den Download, und mit &apos;Akzeptieren&apos; schließen Sie diesen Dialog.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="151"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="161"/>
         <source>Based on your location, we reckon that that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Accept&apos; to close this dialog.</source>
         <translation>Ihrem Standort nach müsste die folgende Karte für Sie relevant sein. Ein Klick auf die Karte startet den Download, und mit &apos;Akzeptieren&apos; schließen Sie diesen Dialog.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="153"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="165"/>
         <source>We&apos;re waiting for SatNav position infoformation to suggest maps that might be relevant for you. Please stand by.</source>
         <translation>Wir warten noch auf GPS-Daten, um Ihnen relevante Karten vorschlagen zu können. Bitte warten Sie kurz.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="198"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="170"/>
+        <source>We&apos;re downloading the list of available maps. Please stand by.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="215"/>
         <source>For the full list of maps, close this dialog, open the main menu and go to &apos;Library/Maps and Data&apos;. It is also possible to import raster maps into this app. Check the manual for details.</source>
         <translation>Für die komplette Kartenliste schließen Sie diesen Dialog und öffnen Sie im Hauptmenü &apos;Bibliothek/Karten und Daten&apos;. Man kann auch Rasterkarten importieren. Details siehe Handbuch.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="248"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="266"/>
         <source>Accept</source>
         <translation>Akzeptieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="260"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="278"/>
         <source>Quit App</source>
         <translation>App beenden</translation>
     </message>

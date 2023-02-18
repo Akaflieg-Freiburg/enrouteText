@@ -1335,47 +1335,52 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="140"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="147"/>
         <source>Download Maps</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="143"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="150"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; needs geographic maps to work.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="147"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="157"/>
         <source>Regretfully, we do not offer maps for your present location (%1).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="149"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="159"/>
         <source>Based on your location, we reckon that that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Accept&apos; to close this dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="151"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="161"/>
         <source>Based on your location, we reckon that that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Accept&apos; to close this dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="153"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="165"/>
         <source>We&apos;re waiting for SatNav position infoformation to suggest maps that might be relevant for you. Please stand by.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="198"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="170"/>
+        <source>We&apos;re downloading the list of available maps. Please stand by.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="215"/>
         <source>For the full list of maps, close this dialog, open the main menu and go to &apos;Library/Maps and Data&apos;. It is also possible to import raster maps into this app. Check the manual for details.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="248"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="266"/>
         <source>Accept</source>
         <translation>Acceptar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="260"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="278"/>
         <source>Quit App</source>
         <translation>Salir de la aplicación</translation>
     </message>
