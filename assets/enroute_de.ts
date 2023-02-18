@@ -1668,7 +1668,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="170"/>
         <source>We&apos;re downloading the list of available maps. Please stand by.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte warten, die Liste verfügbarer Karten wird heruntergeladen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="215"/>
