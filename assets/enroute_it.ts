@@ -794,7 +794,7 @@ la nostra App.&lt;/p&gt;
 <context>
     <name>DataManagement</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="231"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="232"/>
         <source>Manually Imported</source>
         <translation>Importata manualmente</translation>
     </message>
@@ -818,17 +818,17 @@ la nostra App.&lt;/p&gt;
         <translation type="vanished">I dati della mappa sono stati compilati dalle seguenti fonti.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="151"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="152"/>
         <source>Unable to recognize map file format.</source>
         <translation>Impossibile riconoscere il formato file della mappa.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="156"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="157"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>Impossibile creae la cartella &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="163"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="164"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Impossibile copiare il file mappa nella cartella.</translation>
     </message>
@@ -1050,222 +1050,222 @@ la nostra App.&lt;/p&gt;
 <context>
     <name>DataManagement::Downloadable_SingleFile</name>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="100"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="102"/>
         <source>No information available.</source>
         <translation>Nessuna informazione disponibile.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="103"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="105"/>
         <source>Installed</source>
         <translation>Installata</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="105"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="107"/>
         <source>File Size</source>
         <translation>Dimensione File</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="121"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="123"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>I dati della mappa sono stati compilati dalle seguenti fonti.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="186"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="188"/>
         <source>downloading … %1% complete</source>
         <translation>Download… %1% completo</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="193"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="195"/>
         <source>installed • %1</source>
         <translation>%1 • installato</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="199"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="201"/>
         <source>update available</source>
         <translation>Aggiornamenti disponibili</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="203"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="205"/>
         <source>manually imported</source>
         <translation>Importata manualmente</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="208"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="210"/>
         <source>not installed</source>
         <translation>Non installato</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="216"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="218"/>
         <source>file size unknown</source>
         <translation>Dimensione del file sconosciuta</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="465"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="467"/>
         <source>the remote server refused the connection (the server is not accepting requests)</source>
         <translation>Il server ha rifiutato la connessione (il server non accetta richieste)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="469"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="471"/>
         <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>Il server ha chiuso la connessione prima che la risposta possa essere interpretata correttamente</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="474"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="476"/>
         <source>the remote host name was not found (invalid hostname)</source>
         <translation>Il nome del server non è valido (invalid hostname)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="478"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="480"/>
         <source>the connection to the remote server timed out</source>
         <translation>Timeout durante la connessione con il server</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="483"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="485"/>
         <source>the operation was canceled via calls to abort() or close() before it was finished</source>
         <translation>La connessione è stata chiusa tramite le funzioni abort() o close() prima che sia stata completata</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="487"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="489"/>
         <source>the SSL/TLS handshake failed and the encrypted channel could not be established.</source>
         <translation>La verifica SSL/TLS non è riuscita e non è stato possibile stabilire il canale crittografato.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="491"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="493"/>
         <source>the connection was broken due to disconnection from the network</source>
         <translation>La connessione è terminata a causa di una disconnessione dalla rete</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="495"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="497"/>
         <source>the connection was broken due to disconnection from the network or failure to start the network</source>
         <translation>La connessione è terminata a causa di una disconnessione dalla rete o di un errore della rete</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="500"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="502"/>
         <source>the background request is not currently allowed due to platform policy</source>
         <translation>La richiesta non può essere processata a causa delle policy della piattaforma</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="504"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="506"/>
         <source>while following redirects, the maximum limit was reached</source>
         <translation>Il numero massimo di redirezioni è stato raggiunto</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="508"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="510"/>
         <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
         <translation>Le API di accesso alla rete riportano una redirezione dal protocollo https (criptato) a http (non criptato)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="513"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="515"/>
         <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
         <translation>La connessione con il proxy è stata rifiutata (il proxy non accetta richieste)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="518"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="520"/>
         <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>Il proxy ha chiuso la connessione prima che la risposta venisse processata correttamente</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="523"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="525"/>
         <source>the proxy host name was not found (invalid proxy hostname)</source>
         <translation>Il proxy non è stato trovato (nome non valido)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="527"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="529"/>
         <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
         <translation>La connessione con il proxy è andata in timeout oppure il proxy non ha risposto in tempo</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="532"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="534"/>
         <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
         <translation>Il server proxy richiede un&apos;autenticazione per processare la richiesta e i dati forniti non sono stati accettati</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="537"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="539"/>
         <source>the access to the remote content was denied (similar to HTTP error 403)</source>
         <translation>L&apos;accesso ai contenuti remoti è stato respinto (simile all&apos;errore HTTP 403)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="541"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="543"/>
         <source>the operation requested on the remote content is not permitted</source>
         <translation>L&apos;operazione richiesta sui contenuti remoti non è permessa</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="545"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="547"/>
         <source>the remote content was not found at the server (similar to HTTP error 404)</source>
         <translation>I dati non sono stati trovati sul server (simile all&apos;errore HTTP 404)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="549"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="551"/>
         <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
         <translation>Il server richiede un&apos;autenticazione per processare la richiesta e i dati forniti non sono stati accettati</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="554"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="556"/>
         <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
         <translation>La richiesta doveva essere inviata una seconda volta, ma è fallita per esempio perchè i dati non possono essere letti una seconda volta</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="559"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="561"/>
         <source>the request could not be completed due to a conflict with the current state of the resource</source>
         <translation>La richiesta non può essere completata a causa di un conflitto con lo stato corrente delle risorse</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="564"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="566"/>
         <source>the requested resource is no longer available at the server</source>
         <translation>La risorsa richiesta non è più disponibile sul server</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="568"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="570"/>
         <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
         <translation>Il server è incorso in una situazione inattesa che ha impedito di completare l&apos;operazione</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="574"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="576"/>
         <source>the server does not support the functionality required to fulfill the request</source>
         <translation>Il server non supporta la funzionalità richiesta per completare la richiesta</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="578"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="580"/>
         <source>the server is unable to handle the request at this time</source>
         <translation>Il server non è stato in grado di completare la richiesta in tempo</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="583"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="585"/>
         <source>the Network Access API cannot honor the request because the protocol is not known</source>
         <translation>Le API di accesso alla rete non possono processare la richiesta in quanto il protocollo è ignoto</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="587"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="589"/>
         <source>the requested operation is invalid for this protocol</source>
         <translation>L&apos;operazione richiesta non è valida per questo protocollo</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="591"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="593"/>
         <source>an unknown network-related error was detected</source>
         <translation>È stato rilevato un errore sconosciuto nella rete</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="595"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="597"/>
         <source>an unknown proxy-related error was detected</source>
         <translation>È stato rilevato un errore sconosciuto nel proxy</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="599"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="601"/>
         <source>an unknown error related to the remote content was detected</source>
         <translation>È stato rilevato un errore sconosciuto nei contenuti remoti</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="603"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="605"/>
         <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
         <translation>È stato rilevato un problema nel protocollo (errore del parser, risposta non valida o inattesa, ecc.)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="608"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="610"/>
         <source>an unknown error related to the server response was detected</source>
         <translation>È stato rilevato un errore sconosciuto nella risposta dal server</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="612"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="614"/>
         <source>unknown</source>
         <translation>Sconosciuto</translation>
     </message>
@@ -1423,78 +1423,78 @@ la nostra App.&lt;/p&gt;
 <context>
     <name>DataManagerPage</name>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="35"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="38"/>
         <source>Map and Data Library</source>
         <translation>Archivio mappe e dati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="150"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="165"/>
         <source>Info</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="162"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="179"/>
         <source>Uninstall</source>
         <translation>Disinstalla</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="178"/>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="506"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="195"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="541"/>
         <source>Download Error</source>
         <translation>Errore nel download</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="179"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="196"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Impossibile scaricare &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Motivo: %2.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="249"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="284"/>
         <source>Update list of maps and data</source>
         <translation>Aggiorna lista mappe e dati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="261"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="296"/>
         <source>Download all updates…</source>
         <translation>Scarica tutti gli aggiornamenti...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="287"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="322"/>
         <source>Maps</source>
         <translation>Mappe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="290"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="325"/>
         <source>Data</source>
         <translation>Dati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="377"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="412"/>
         <source>&lt;h3&gt;Update required!&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Aggiornamento richiesto!&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="398"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="433"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;La lista delle mappe disponibili non è stata ancora scaricata dal server. Puoi riavviare il download manualmente usando il pulsante qui in basso.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="429"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="464"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Download in corso…&lt;/h3&gt;&lt;p&gt;Prego attendere il completamento del download della lista mappe…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="477"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="512"/>
         <source>Download list of maps…</source>
         <translation>Scarica la lista delle mappe...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="491"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="526"/>
         <source>Update</source>
         <translation>Aggiornamento</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="507"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="542"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Impossibile scaricare la lista delle mappe aeronautiche.&lt;/p&gt;&lt;p&gt;Motivo: %1.&lt;/p&gt;</translation>
     </message>
@@ -1598,22 +1598,102 @@ con i dati del conto bancario.
 <context>
     <name>FirstRunDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="71"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="45"/>
+        <source>Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg</source>
+        <translation>Benevenuto in Enroute Flight Navigation - Un progetto di Akaflieg Freiburg</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="46"/>
+        <source>Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.</source>
+        <translation>Grazie per aver utilizzato questa app di navigazione aerea! Prima di iniziare, dobbiamo sottolineare che &lt;strong&gt;questa app e i dati sull&apos;aviazione non hanno alcuna garanzia&lt;/strong&gt;.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="47"/>
+        <source>The app is not certified to satisfy aviation standards. It may contain errors and may not work as expected.</source>
+        <translation>L&apos;app non è certificata per soddisfare gli standard dell&apos;aviazione. Potrebbe contenere errori e potrebbe non funzionare come previsto.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="48"/>
+        <source>The aviation data does not come from official sources. It might be incomplete, outdated or otherwise incorrect.</source>
+        <translation>I dati sull&apos;aviazione non provengono da fonti ufficiali. Potrebbe essere incompleto, obsoleto o errati.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="49"/>
+        <source>&lt;strong&gt;This app is no substitute for proper flight preparation or good pilotage.&lt;/strong&gt; We hope you enjoy the app and that you do find it useful.</source>
+        <translation>&lt;strong&gt;Questa app non sostituisce un&apos;adeguata preparazione del volo o un buon pilotaggio.&lt;/strong&gt; Ci auguriamo che l&apos;app ti piaccia e che la trovi utile.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="50"/>
+        <source>Fly safely and enjoy many happy landings!</source>
+        <translation>Vola in sicurezza e goditi tanti atterraggi!</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="80"/>
         <source>Privacy</source>
         <translation>Privacy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="72"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="81"/>
         <source>Please take a minute to review our privacy policies.</source>
         <translation>Per favore leggi le nostre norme sulla privacy.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="114"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="110"/>
+        <source>Privacy-relevant permissions requested by this app</source>
+        <translation>Autorizzazioni rilevanti per la privacy richieste da questa app</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="111"/>
+        <source>Please grant the following permissiona when prompted.</source>
+        <translation>Prego concedi la seguente autorizzazione quando richiesta.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="147"/>
+        <source>Download Maps</source>
+        <translation>Scarica le mappe</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="150"/>
+        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; needs geographic maps to work.</source>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;, per funzionare, necessita di mappe geografiche.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="157"/>
+        <source>Regretfully, we do not offer maps for your present location (%1).</source>
+        <translation>Purtroppo, non disponiamo di mappe per la tua posizione attuale (%1).</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="159"/>
+        <source>Based on your location, we reckon that that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Accept&apos; to close this dialog.</source>
+        <translation>In base alla tua posizione, riteniamo che la seguente mappa potrebbe esserti rilevante. Fare clic sulla mappa per iniziare il download, quindi &quot;Accetta&quot; per chiudere questa finestra di dialogo.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="161"/>
+        <source>Based on your location, we reckon that that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Accept&apos; to close this dialog.</source>
+        <translation>In base alla tua posizione, riteniamo che la seguenti mappe potrebbero esserti rilevanti. Fare clic du tutte le mappe per iniziare il download, quindi &quot;Accetta&quot; per chiudere questa finestra di dialogo.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="165"/>
+        <source>We&apos;re waiting for SatNav position infoformation to suggest maps that might be relevant for you. Please stand by.</source>
+        <translation>Stiamo aspettando le informazioni di posizione dal SatNav per suggerirti mappe che potrebbero essere rilevanti. Per favore, resta in attesa.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="170"/>
+        <source>We&apos;re downloading the list of available maps. Please stand by.</source>
+        <translation>Stiamo scaricando l&apos;elenco delle mappe disponibili. Per favore, resta in attesa.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="215"/>
+        <source>For the full list of maps, close this dialog, open the main menu and go to &apos;Library/Maps and Data&apos;. It is also possible to import raster maps into this app. Check the manual for details.</source>
+        <translation>Per l&apos;elenco completo delle mappe, chiudi questa finestra di dialogo, apri il menu principale e vai a &quot;Archivio/Mappe e dati&quot;. È anche possibile importare mappe di tipo raster. Controllare il manuale per i dettagli.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="266"/>
         <source>Accept</source>
         <translation>Accetta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="126"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="278"/>
         <source>Quit App</source>
         <translation>Chiudi l&apos;App</translation>
     </message>
@@ -2611,7 +2691,16 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="132"/>
+        <location filename="../../../src/Librarian.cpp" line="213"/>
+        <source>The app connects to &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;servers at the University of Freiburg&lt;/a&gt; to check for updates and to download maps and data.</source>
+        <translation>L&apos;app si connette ai &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;server dell&apos;Università di Friburgo&lt;/a&gt; per controllare gli aggiornamenti e scaricare mappe e dati.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="217"/>
+        <source>The app downloads METAR and TAF data for your locaction and your intended route from the &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.</source>
+        <translation>L&apos;app scarica i dati METAR e TAF per la tua posizione e il percorso previsto dall&apos;&lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation Weather Center&lt;/a&gt;, un sito web del governo degli Stati Uniti.</translation>
+    </message>
+    <message>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.&lt;/p&gt;
@@ -2625,7 +2714,7 @@ con i dati del conto bancario.
 &lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Benvenuti in Enroute Flight Navigation - Un progetto di Akaflieg Freiburg&lt;/h3&gt;
+        <translation type="vanished">&lt;h3&gt;Benvenuti in Enroute Flight Navigation - Un progetto di Akaflieg Freiburg&lt;/h3&gt;
 
 &lt;p&gt;Grazie per usare questa app di navigazione!  Prima di continuare, considerate che &lt;strong&gt;questa app ed il materiale aeronautico non hanno nessuna garanzia&lt;/strong&gt;.&lt;/p&gt;
 
@@ -2640,7 +2729,7 @@ con i dati del conto bancario.
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="149"/>
+        <location filename="../../../src/Librarian.cpp" line="132"/>
         <source>&lt;p&gt;The flight routes are stored in standard &lt;a href=&quot;https://geojson.org&quot;&gt;GeoJSON format&lt;/a&gt; in the following directory.&lt;p&gt;
 
 &lt;p style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;&lt;a href=&quot;file:%1&quot;&gt;%1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -2653,7 +2742,7 @@ con i dati del conto bancario.
 &lt;p&gt;Gli itinerari possono venir letti da altri programmi, come app di backup o sincronia files.  Questo aiuta nel condividere gli itinerari con altri dispositivi.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="163"/>
+        <location filename="../../../src/Librarian.cpp" line="146"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -2707,47 +2796,42 @@ con i dati del conto bancario.
 &lt;p&gt;I dati aeronautici sono generosamente forniti dai progetti &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; e &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;. Le mappe base sono generosamente fornite da &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Consultare la relativa documentazione per maggiori dettagli.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="237"/>
+        <location filename="../../../src/Librarian.cpp" line="207"/>
         <source>Privacy Policies</source>
         <translation>Norme sulla Privacy</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="238"/>
+        <location filename="../../../src/Librarian.cpp" line="208"/>
         <source>This app does not send any data to us or other parties. We do not collect data and we do not track our users. However, this app accesses internet sites that may not be under our control and may keep access logs.</source>
         <translation>Questa app non invia dati a noi o ad altre parti. Non raccogliamo dati e non tracciamo i nostri utenti. Tuttavia, questa app accede a siti Internet che potrebbero non essere sotto il nostro controllo e potrebbe conservare registri di accesso.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="243"/>
         <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
-        <translation>L&apos;app si connette ai server dell&apos;Università di Freiburg per controllare gli aggiornamenti e scaricare mappe e dati.</translation>
+        <translation type="vanished">L&apos;app si connette ai server dell&apos;Università di Freiburg per controllare gli aggiornamenti e scaricare mappe e dati.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="245"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the Aviation Weather Center, a website of the United States government.</source>
-        <translation>L&apos;app scarica i dati METAR e TAF per la tua posizione e il percorso previsto dall&apos;Aviation Weather Center, un sito web del governo degli Stati Uniti.</translation>
+        <translation type="vanished">L&apos;app scarica i dati METAR e TAF per la tua posizione e il percorso previsto dall&apos;Aviation Weather Center, un sito web del governo degli Stati Uniti.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="249"/>
         <source>Privacy-relevant permissions requested by this app</source>
-        <translation>Autorizzazioni rilevanti per la privacy richieste da questa app</translation>
+        <translation type="vanished">Autorizzazioni rilevanti per la privacy richieste da questa app</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="250"/>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information for your location.</source>
-        <translation>Enroute Flight Navigation deve accedere alla tua posizione precisa. L&apos;app utilizza questi dati per mostrare la tua posizione sulla mappa in movimento e per fornire informazioni aeronautiche rilevanti per la tua posizione.</translation>
+        <translation type="vanished">Enroute Flight Navigation deve accedere alla tua posizione precisa. L&apos;app utilizza questi dati per mostrare la tua posizione sulla mappa in movimento e per fornire informazioni aeronautiche rilevanti per la tua posizione.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="253"/>
         <source>Please grant permission to access the precise location when prompted.</source>
-        <translation>Concedi l&apos;autorizzazione per accedere alla posizione precisa quando richiesto.</translation>
+        <translation type="vanished">Concedi l&apos;autorizzazione per accedere alla posizione precisa quando richiesto.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="254"/>
+        <location filename="../../../src/Librarian.cpp" line="222"/>
         <source>Responsible</source>
         <translation>Responsabile</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="260"/>
+        <location filename="../../../src/Librarian.cpp" line="228"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -2772,17 +2856,17 @@ con i dati del conto bancario.
 &lt;p&gt;Ce la stiamo mettendo tutta per evitare di introdurre un limite nel numero di mappe scaricabili per il futuro. Per favore aiutateci in questo.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="275"/>
+        <location filename="../../../src/Librarian.cpp" line="243"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
         <translation>&lt;p&gt;Abbiamo aggiornato la tecnologia di base di questa app. Riportate qualsiasi malfunzionamento!&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="276"/>
+        <location filename="../../../src/Librarian.cpp" line="244"/>
         <source>Our aviation maps will now receive daily updates, provided that new data is available.</source>
         <translation>Le nostre mappe aeronautiche ricevono adesso aggiornamenti giornalieri se presenti.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="277"/>
+        <location filename="../../../src/Librarian.cpp" line="245"/>
         <source>Luca Riva has kindly translated this app to Spanish.</source>
         <translation>Luca Riva ha tradotto questa app in Spagnolo.</translation>
     </message>
@@ -2860,7 +2944,7 @@ con i dati del conto bancario.
         <translation type="vanished">&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; I lettori del magazine tedesco &apos;Aerokurier&apos; hanno nominato &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; come una delle top 3 innovazioni dell&apos;anno della categoria &apos;Avionics&apos;. Grazie a tutti per aver reso tutto ciò possibile!&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="196"/>
+        <location filename="../../../src/Librarian.cpp" line="179"/>
         <source>
 &lt;h3&gt;License&lt;/h3&gt;
 
@@ -2884,7 +2968,7 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="207"/>
+        <location filename="../../../src/Librarian.cpp" line="190"/>
         <source>
 &lt;h4&gt;Software and data included in the program&lt;/h4&gt;
 
@@ -2912,7 +2996,6 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="224"/>
         <source>&lt;h3&gt;Missing Permissions&lt;/h3&gt;
 
 &lt;p&gt;The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will not start because some essential permissions have not been granted.  Please re-start the app and grant the required permissions.  If you have chosen to deny some permissions permanently, you may need to go to the Android Settings app to grant the permissions there.&lt;/p&gt;
@@ -2922,7 +3005,7 @@ con i dati del conto bancario.
 &lt;p&gt;Fly safely and enjoy many happy landings!&lt;/p&gt;
 
 &lt;p&gt;&amp;#8212; Stefan Kebekus.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Permessi negati&lt;/h3&gt;
+        <translation type="vanished">&lt;h3&gt;Permessi negati&lt;/h3&gt;
 
 &lt;p&gt;La app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; non può funzionare in quanto alcuni permessi essenziali non sono stati dati.  Rilanciate la app e garantite i permessi richiesti.  Se avete deciso di negare i permessi in maniera permanente, dovete andare nelle impostazioni di Android e dare alla app i permessi in questa maniera.&lt;/p&gt;
 
@@ -3098,11 +3181,33 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     </message>
 </context>
 <context>
+    <name>MapSet</name>
+    <message>
+        <location filename="../../../src/qml/items/MapSet.qml" line="133"/>
+        <source>Info</source>
+        <translation>Info</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MapSet.qml" line="147"/>
+        <source>Uninstall</source>
+        <translation>Disinstalla</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MapSet.qml" line="163"/>
+        <source>Download Error</source>
+        <translation>Errore nel download</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MapSet.qml" line="164"/>
+        <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
+        <translation>&lt;p&gt;Impossibile scaricare &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Motivo: %2.&lt;/p&gt;</translation>
+    </message>
+</context>
+<context>
     <name>MissingPermissionsDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/MissingPermissionsDialog.qml" line="32"/>
         <source>Close App</source>
-        <translation>Chiudi l&apos;App</translation>
+        <translation type="vanished">Chiudi l&apos;App</translation>
     </message>
 </context>
 <context>
@@ -3635,7 +3740,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>Platform::PlatformAdaptor</name>
     <message>
-        <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="45"/>
+        <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="51"/>
         <source>unknown network name</source>
         <translation>Nome rete sconosciuto</translation>
     </message>
@@ -3740,32 +3845,32 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Ricevitore incorporato/%1</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="43"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="42"/>
         <source>None</source>
         <translation>Nessuno</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="53"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="58"/>
         <source>Not installed or access denied</source>
         <translation>Non installato o accesso negato</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="60"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="65"/>
         <source>Access denied</source>
         <translation>Accesso negato</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="65"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="70"/>
         <source>Connection to satellite system lost</source>
         <translation>La connessione con il satellite è stata persa</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="70"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="75"/>
         <source>Waiting for signal</source>
         <translation>In attesa del segnale</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="74"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="79"/>
         <source>Receiving data</source>
         <translation>Ricezione dati</translation>
     </message>
@@ -4146,18 +4251,18 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="242"/>
         <source>User Interface</source>
-        <translation type="unfinished"></translation>
+        <translation>Interfaccia Utente</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="250"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="265"/>
         <source>Large Fonts</source>
-        <translation type="unfinished"></translation>
+        <translation>Font Grande</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="266"/>
         <source>Use this option to enlarge fonts for improved readability.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilizzare questa opzione per ingrandire i caratteri per una migliore leggibilità.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="308"/>
@@ -8737,33 +8842,33 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Esci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="594"/>
+        <location filename="../../../src/qml/main.qml" line="584"/>
         <source>Update required!</source>
         <translation>Aggiornamento richiesto!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="710"/>
+        <location filename="../../../src/qml/main.qml" line="700"/>
         <source>Connected to traffic receiver.</source>
         <translation>Connesso al ricevitore di traffico.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="712"/>
+        <location filename="../../../src/qml/main.qml" line="702"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Connessione al ricevitore del traffico persa.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="750"/>
+        <location filename="../../../src/qml/main.qml" line="740"/>
         <source>Exit…?</source>
         <translation>Uscire…?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="751"/>
+        <location filename="../../../src/qml/main.qml" line="741"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Volete uscire da &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="761"/>
-        <location filename="../../../src/qml/main.qml" line="770"/>
+        <location filename="../../../src/qml/main.qml" line="751"/>
+        <location filename="../../../src/qml/main.qml" line="760"/>
         <source>What&apos;s new…?</source>
         <translation>Cosa c&apos;è di nuovo...?</translation>
     </message>
@@ -8772,49 +8877,49 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Cosa c&apos;è di nuovo...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="812"/>
+        <location filename="../../../src/qml/main.qml" line="802"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Spazi aerei mostrati fino a %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="814"/>
+        <location filename="../../../src/qml/main.qml" line="804"/>
         <source>Now showing all airspaces.</source>
         <translation>Non tutti gli spazi aerei sono mostrati.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="838"/>
+        <location filename="../../../src/qml/main.qml" line="828"/>
         <source>Starting map update</source>
         <translation>Avvio aggiornamento mappa</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="860"/>
+        <location filename="../../../src/qml/main.qml" line="850"/>
         <source>Network security error</source>
         <translation>Errore di sicurezza di rete</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="872"/>
+        <location filename="../../../src/qml/main.qml" line="862"/>
         <source>Network security settings</source>
         <translation>Impostazioni di sicurezza rete</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="873"/>
+        <location filename="../../../src/qml/main.qml" line="863"/>
         <source>You have chosen to ignore network security errors in the future. **This poses a security risk.** Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Hai scelto di ignorare gli errori di sicurezza della rete in futuro. **Ciò rappresenta un rischio per la sicurezza.** Vai alla pagina &quot;Impostazioni&quot; se desideri ripristinare il comportamento originale e sicuro di questa app.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="139"/>
+        <location filename="../../../src/main.cpp" line="137"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation è un&apos;app di navigazione per piloti VFR,
 sviluppata e progettata da Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="142"/>
+        <location filename="../../../src/main.cpp" line="140"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
         <translation>Esegui il simulatore e genera screenshots per Google Play</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="144"/>
+        <location filename="../../../src/main.cpp" line="142"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Esegui il simulatore e genera screenshots per il manuale</translation>
     </message>
@@ -8823,7 +8928,7 @@ sviluppata e progettata da Akaflieg Freiburg.</translation>
         <translation type="vanished">Esegui il simulatore e genera uno screenshots per il manuale</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="146"/>
+        <location filename="../../../src/main.cpp" line="144"/>
         <source>File to import.</source>
         <translation>File da importare.</translation>
     </message>
