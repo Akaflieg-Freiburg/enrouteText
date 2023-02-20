@@ -1287,32 +1287,32 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="45"/>
         <source>Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenido a Enroute Flight Navigation - Un proyecto de Akaflieg Freiburg</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="46"/>
         <source>Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Gracias por usar esta aplicación de navegación de vuelos! Antes de comenzar, debemos señalar que &lt;strong&gt;esta aplicación y los datos de aviación no tienen garantías&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="47"/>
         <source>The app is not certified to satisfy aviation standards. It may contain errors and may not work as expected.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación no está certificada para cumplir con los estándares de aviación. Puede contener errores y no funcionar como se espera.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="48"/>
         <source>The aviation data does not come from official sources. It might be incomplete, outdated or otherwise incorrect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los datos de aviación no provienen de fuentes oficiales. Puede estar incompleto, desactualizado o incorrecto.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="49"/>
         <source>&lt;strong&gt;This app is no substitute for proper flight preparation or good pilotage.&lt;/strong&gt; We hope you enjoy the app and that you do find it useful.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Esta aplicación no reemplaza la preparación adecuada del vuelo o el buen pilotaje.&lt;/strong&gt; Esperamos que disfrute de la aplicación y que la encuentre útil.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="50"/>
         <source>Fly safely and enjoy many happy landings!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Vuela con seguridad y disfruta de muchos aterrizajes felices!</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="80"/>
@@ -1327,52 +1327,52 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="110"/>
         <source>Privacy-relevant permissions requested by this app</source>
-        <translation type="unfinished">Permisos relacionados con la privacidad solicitados por esta aplicación</translation>
+        <translation>Permisos relacionados con la privacidad solicitados por esta aplicación</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="111"/>
         <source>Please grant the following permissiona when prompted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otorgue los siguientes permisos cuando se le solicite.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="147"/>
         <source>Download Maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargar mapas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="150"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; needs geographic maps to work.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; necesita mapas geográficos para funcionar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="157"/>
         <source>Regretfully, we do not offer maps for your present location (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Lamentablemente, no ofrecemos mapas para su ubicación actual (%1).</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="159"/>
         <source>Based on your location, we reckon that that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Accept&apos; to close this dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Según su ubicación, consideramos que el siguiente mapa puede ser relevante para usted. Haga clic en el mapa para iniciar la descarga, luego haga clic en &apos;Aceptar&apos; para cerrar este cuadro de diálogo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="161"/>
         <source>Based on your location, we reckon that that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Accept&apos; to close this dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Según su ubicación, consideramos que los siguientes mapas pueden ser relevantes para usted. Haga clic en cualquier mapa para iniciar la descarga, luego haga clic en &apos;Aceptar&apos; para cerrar este cuadro de diálogo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="165"/>
         <source>We&apos;re waiting for SatNav position infoformation to suggest maps that might be relevant for you. Please stand by.</source>
-        <translation type="unfinished"></translation>
+        <translation>Estamos esperando la información de posición de SatNav para sugerir mapas que puedan ser relevantes para usted. Por favor espere.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="170"/>
         <source>We&apos;re downloading the list of available maps. Please stand by.</source>
-        <translation type="unfinished"></translation>
+        <translation>Estamos descargando la lista de mapas disponibles. Por favor espere.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="215"/>
         <source>For the full list of maps, close this dialog, open the main menu and go to &apos;Library/Maps and Data&apos;. It is also possible to import raster maps into this app. Check the manual for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para obtener la lista completa de mapas, cierre este cuadro de diálogo, abra el menú principal y vaya a &apos;Biblioteca/Mapas y datos&apos;. También es posible importar mapas ráster a esta aplicación. Consulte el manual para obtener más detalles.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="266"/>
@@ -2225,12 +2225,12 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="213"/>
         <source>The app connects to &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;servers at the University of Freiburg&lt;/a&gt; to check for updates and to download maps and data.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación se conecta a &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;servidores de la Universidad de Freiburg&lt;/a&gt; para buscar actualizaciones y descargar mapas y datos.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="217"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación descarga datos METAR y TAF para su ubicación y su ruta deseada desde el &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation Weather Center&lt;/a&gt;, un sitio web del gobierno de los Estados Unidos.</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
@@ -2537,22 +2537,22 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/qml/items/MapSet.qml" line="133"/>
         <source>Info</source>
-        <translation type="unfinished">Info</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MapSet.qml" line="147"/>
         <source>Uninstall</source>
-        <translation type="unfinished">Desinstallar</translation>
+        <translation>Desinstallar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MapSet.qml" line="163"/>
         <source>Download Error</source>
-        <translation type="unfinished">Error de descarga</translation>
+        <translation>Error de descarga</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MapSet.qml" line="164"/>
         <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;p&gt;Fallo al descargar &lt;strong&gt;%1&lt;/strong&gt;. &lt;/p&gt;&lt;p&gt;Razón: %2. &lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Fallo al descargar &lt;strong&gt;%1&lt;/strong&gt;. &lt;/p&gt;&lt;p&gt;Razón: %2. &lt;/p&gt;</translation>
     </message>
 </context>
 <context>
