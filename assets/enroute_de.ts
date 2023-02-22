@@ -2754,7 +2754,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="230"/>
         <source>The app downloads NOTAM for your locaction and your intended route from servers of the &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; of the United States government.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die App lädt NOTAMs für Ihren Standort und Ihre geplante Route von Servern der &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; der US-Regierung herunter.</translation>
     </message>
     <message>
         <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
@@ -3475,12 +3475,12 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="62"/>
         <source>Notam for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Notam für %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="82"/>
         <source>Data possibly incomplete</source>
-        <translation type="unfinished"></translation>
+        <translation>Daten evtl. unvollständig</translation>
     </message>
 </context>
 <context>
