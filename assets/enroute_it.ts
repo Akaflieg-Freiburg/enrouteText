@@ -2703,7 +2703,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="230"/>
         <source>The app downloads NOTAM for your locaction and your intended route from servers of the &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; of the United States government.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;app scarica NOTAM per la tua posizione e il percorso previsto dai server del &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; del governo degli Stati Uniti.</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
@@ -3497,12 +3497,12 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="62"/>
         <source>Notam for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Notam per %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="82"/>
         <source>Data possibly incomplete</source>
-        <translation type="unfinished"></translation>
+        <translation>Le informazioni potrebbero essere incomplete</translation>
     </message>
 </context>
 <context>
