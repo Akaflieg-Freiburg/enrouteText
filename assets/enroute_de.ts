@@ -2780,7 +2780,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="261"/>
         <source>The app will now show NOTAMs relevant to your flight.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die App zeigt jetzt für Ihren Flug relevante NOTAMs an.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="262"/>
@@ -3485,7 +3485,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="82"/>
         <source>Data potentially outdated. Update requested.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Daten sind evtl. überholt. Update ist angefordert.</translation>
     </message>
     <message>
         <source>Data possibly incomplete</source>
@@ -3949,19 +3949,19 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/notam/NotamList.cpp" line="80"/>
         <source>No NOTAMs</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Keine NOTAMs</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamList.cpp" line="84"/>
         <source>NOTAMs available</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation>NOTAMs vorhanden</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamList.cpp" line="89"/>
         <source>Data potentially outdated. Update requested.</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Daten sind evtl. überholt. Update ist angefordert.</translation>
     </message>
 </context>
 <context>
