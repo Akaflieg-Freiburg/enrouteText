@@ -2357,7 +2357,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="230"/>
         <source>The app downloads NOTAM for your locaction and your intended route from servers of the &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; of the United States government.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;application télécharge NOTAM pour votre emplacement et votre itinéraire prévu à partir des serveurs de la &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; du gouvernement des États-Unis.</translation>
     </message>
     <message>
         <source>The app connects to servers at the University of Freiburg to check for updates and to download maps and data.</source>
@@ -2417,7 +2417,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="261"/>
         <source>The app will now show NOTAMs relevant to your flight.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;application affichera désormais les NOTAM pertinents pour votre vol.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="262"/>
@@ -2837,12 +2837,12 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="62"/>
         <source>Notam for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Notam pour %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="82"/>
         <source>Data potentially outdated. Update requested.</source>
-        <translation type="unfinished"></translation>
+        <translation>Données potentiellement obsolètes. Mise à jour demandée.</translation>
     </message>
 </context>
 <context>
@@ -3247,19 +3247,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/notam/NotamList.cpp" line="80"/>
         <source>No NOTAMs</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>NOTAM::NotamList</translatorcomment>
+        <translation>Pas de NOTAM</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamList.cpp" line="84"/>
         <source>NOTAMs available</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>NOTAM::NotamList</translatorcomment>
+        <translation>NOTAM disponibles</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamList.cpp" line="89"/>
         <source>Data potentially outdated. Update requested.</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>NOTAM::NotamList</translatorcomment>
+        <translation>Données potentiellement obsolètes. Mise à jour demandée.</translation>
     </message>
 </context>
 <context>
