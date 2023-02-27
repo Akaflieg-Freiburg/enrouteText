@@ -2230,12 +2230,12 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="224"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.</source>
-        <translation>La aplicación descarga datos METAR y TAF para su ubicación y su ruta deseada desde el &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation Weather Center&lt;/a&gt;, un sitio web del gobierno de los Estados Unidos.</translation>
+        <translation>La aplicación descarga datos METAR y TAF para su ubicación y su ruta deseada desde el &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation WeatheCenter&lt;/a&gt;, un sitio web del gobierno de los Estados Unidos.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="230"/>
         <source>The app downloads NOTAM for your locaction and your intended route from servers of the &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; of the United States government.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación descarga datos NOTAM para su ubicación y su ruta deseada desde los servidores de &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation WeatheCenter&lt;/a&gt;, del gobierno de los Estados Unidos.</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg&lt;/h3&gt;
@@ -2476,7 +2476,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="261"/>
         <source>The app will now show NOTAMs relevant to your flight.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación ahora mostrará los NOTAM relevantes para su vuelo.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="262"/>
@@ -2725,12 +2725,12 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="62"/>
         <source>Notam for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nota para %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="82"/>
         <source>Data potentially outdated. Update requested.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos potencialmente obsoletos. Actualización solicitada.</translation>
     </message>
 </context>
 <context>
@@ -3133,19 +3133,22 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/notam/NotamList.cpp" line="80"/>
         <source>No NOTAMs</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>NOTAM::NotamList</translatorcomment>
+        <translation>in NOTAM</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamList.cpp" line="84"/>
         <source>NOTAMs available</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>NOTAM::NotamList</translatorcomment>
+        <translation>NOTAM disponibles</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamList.cpp" line="89"/>
         <source>Data potentially outdated. Update requested.</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>NOTAM::NotamList</translatorcomment>
+        <translation>Datos potencialmente obsoletos. Actualización solicitada.</translation>
     </message>
 </context>
 <context>
