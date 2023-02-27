@@ -2873,7 +2873,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="261"/>
         <source>The app will now show NOTAMs relevant to your flight.</source>
-        <translation type="unfinished"></translation>
+        <translation>La app adesso mostra i NOTAM relativi al tuo volo.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="262"/>
@@ -3507,7 +3507,7 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="82"/>
         <source>Data potentially outdated. Update requested.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dati potenzialmente vecchi. Aggiornare.</translation>
     </message>
     <message>
         <source>Data possibly incomplete</source>
@@ -3970,19 +3970,19 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/notam/NotamList.cpp" line="80"/>
         <source>No NOTAMs</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nessun NOTAM</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamList.cpp" line="84"/>
         <source>NOTAMs available</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation>NOTAM disponibili</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamList.cpp" line="89"/>
         <source>Data potentially outdated. Update requested.</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dati potenzialmente vecchi. Aggiornare.</translation>
     </message>
 </context>
 <context>
