@@ -2416,6 +2416,11 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="261"/>
+        <source>The app will now show NOTAMs relevant to your flight.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="262"/>
         <source>Luca Riva has kindly translated this app to Spanish.</source>
         <translation>Luca Riva a gentiment traduit cette application en espagnol.</translation>
     </message>
@@ -2594,7 +2599,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="545"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="546"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the menu button in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
@@ -2603,32 +2608,32 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
 Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ouvrir le menu de gestion des cartes.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="581"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="582"/>
         <source>Airspaces up to %1</source>
         <translation>Espaces aériens jusqu&apos;à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="630"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="631"/>
         <source>Map Mode: Track Up</source>
         <translation>Mode : Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="633"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="634"/>
         <source>Map Mode: North Up</source>
         <translation>Mode : Nord</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="657"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="658"/>
         <source>Map Mode: Autopan</source>
         <translation>Mode : Auto</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="779"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="780"/>
         <source>Map Data Copyright Info</source>
         <translation>Info copyright sur les données de carte</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="784"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="785"/>
         <source>Map Data Copyright Information</source>
         <translation>Info copyright sur les données de carte</translation>
     </message>
