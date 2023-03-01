@@ -3982,7 +3982,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/notam/NotamList.cpp" line="89"/>
         <source>Data potentially outdated. Update requested.</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished">Dati potenzialmente vecchi. Aggiornare.</translation>
+        <translation>Dati potenzialmente obsoleti. Aggiornare.</translation>
     </message>
 </context>
 <context>
