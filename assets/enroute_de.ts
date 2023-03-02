@@ -3495,7 +3495,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="169"/>
         <source>Expand Abbreviations</source>
-        <translation>Abkürzungen übersetzen</translation>
+        <translation>Abkürzungen ausschreiben</translation>
     </message>
     <message>
         <source>Data possibly incomplete</source>
