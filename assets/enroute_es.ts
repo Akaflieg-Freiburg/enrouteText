@@ -2723,14 +2723,24 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
 <context>
     <name>NotamListDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="62"/>
+        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="68"/>
+        <source>Marked as Read</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="113"/>
         <source>Notam for %1</source>
         <translation>Nota para %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="82"/>
+        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="133"/>
         <source>Data potentially outdated. Update requested.</source>
         <translation>Datos potencialmente obsoletos. Actualización solicitada.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="169"/>
+        <source>Expand Abbreviations</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3130,25 +3140,30 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>No se puede escribir en el archivo &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NotamList.cpp" line="80"/>
+        <location filename="../../../src/notam/NotamList.cpp" line="81"/>
         <source>No NOTAMs</source>
         <comment>NOTAM::NotamList</comment>
         <translatorcomment>NOTAM::NotamList</translatorcomment>
         <translation>in NOTAM</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NotamList.cpp" line="84"/>
+        <location filename="../../../src/notam/NotamList.cpp" line="85"/>
         <source>NOTAMs available</source>
         <comment>NOTAM::NotamList</comment>
         <translatorcomment>NOTAM::NotamList</translatorcomment>
         <translation>NOTAM disponibles</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NotamList.cpp" line="89"/>
+        <location filename="../../../src/notam/NotamList.cpp" line="90"/>
+        <source>Update requested.</source>
+        <comment>NOTAM::NotamList</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Data potentially outdated. Update requested.</source>
         <comment>NOTAM::NotamList</comment>
         <translatorcomment>NOTAM::NotamList</translatorcomment>
-        <translation>Datos potencialmente obsoletos. Actualización solicitada.</translation>
+        <translation type="vanished">Datos potencialmente obsoletos. Actualización solicitada.</translation>
     </message>
 </context>
 <context>
