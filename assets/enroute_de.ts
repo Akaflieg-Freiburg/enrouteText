@@ -3480,7 +3480,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="68"/>
         <source>Marked as Read</source>
-        <translation type="unfinished"></translation>
+        <translation>Als gelesen gekennzeichnet</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="113"/>
@@ -3495,7 +3495,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="169"/>
         <source>Expand Abbreviations</source>
-        <translation type="unfinished"></translation>
+        <translation>Abkürzungen übersetzen</translation>
     </message>
     <message>
         <source>Data possibly incomplete</source>
@@ -3971,7 +3971,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/notam/NotamList.cpp" line="90"/>
         <source>Update requested.</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Update angefordert.</translation>
     </message>
     <message>
         <source>Data potentially outdated. Update requested.</source>
