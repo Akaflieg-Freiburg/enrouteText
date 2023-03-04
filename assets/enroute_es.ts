@@ -796,222 +796,222 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
 <context>
     <name>DataManagement::Downloadable_SingleFile</name>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="102"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="110"/>
         <source>No information available.</source>
         <translation>Ninguna información disponible</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="105"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="113"/>
         <source>Installed</source>
         <translation>Instalado</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="107"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="115"/>
         <source>File Size</source>
         <translation>Tamaño del archivo</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="123"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="131"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>Los datos del mapa se compilaron a partir de las siguientes fuentes.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="188"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="196"/>
         <source>downloading … %1% complete</source>
         <translation>Descarga ... %1% completada</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="195"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="203"/>
         <source>installed • %1</source>
         <translation>installado • %1</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="201"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="209"/>
         <source>update available</source>
         <translation>Actualizacion disponible</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="205"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="213"/>
         <source>manually imported</source>
         <translation>Importado manualmente</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="210"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="218"/>
         <source>not installed</source>
         <translation>No instalado</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="218"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="226"/>
         <source>file size unknown</source>
         <translation>Tamaño del archivo desconocida</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="467"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="475"/>
         <source>the remote server refused the connection (the server is not accepting requests)</source>
         <translation>El servidor remoto ha rechazado la connexion (el servidor no acepta solicitudes)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="471"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="479"/>
         <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>El servidor remoto ha cerrado la connexion prematuramente antes de recibir y procesar la respuesta</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="476"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="484"/>
         <source>the remote host name was not found (invalid hostname)</source>
         <translation>el nombre de host remoto no fue encontrado (nombre de host no válido)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="480"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="488"/>
         <source>the connection to the remote server timed out</source>
         <translation>La connexion al servidor remoto se ha agotado</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="485"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="493"/>
         <source>the operation was canceled via calls to abort() or close() before it was finished</source>
         <translation>la operación se canceló mediante llamadas a abort() o close() antes de que finalizara</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="489"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="497"/>
         <source>the SSL/TLS handshake failed and the encrypted channel could not be established.</source>
         <translation>el handshake SSL/TLS falló y no se pudo establecer el canal cifrado.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="493"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="501"/>
         <source>the connection was broken due to disconnection from the network</source>
         <translation>la conexión se rompió debido a la desconexión de la red</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="497"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="505"/>
         <source>the connection was broken due to disconnection from the network or failure to start the network</source>
         <translation>la conexión se rompió debido a la desconexión de la red o  por no poder iniciar la red</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="502"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="510"/>
         <source>the background request is not currently allowed due to platform policy</source>
         <translation>la solicitud en background no está permitida actualmente debido a la política de la plataforma</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="506"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="514"/>
         <source>while following redirects, the maximum limit was reached</source>
         <translation>mientras se seguían las redirecciones, se alcanzó el límite máximo</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="510"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="518"/>
         <source>while following redirects, the network access API detected a redirect from a encrypted protocol (https) to an unencrypted one (http)</source>
         <translation>mientras se seguían las redirecciones, la API de acceso a la red detectó una redirección desde un protocolo cifrado (https) a un no cifrado</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="515"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="523"/>
         <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
         <translation>la conexión al servidor proxy fue rechazada (el servidor proxy no acepta solicitudes)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="520"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="528"/>
         <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>el servidor proxy cerró la conexión prematuramente, antes de que se recibiera y procesara la respuesta completa</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="525"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="533"/>
         <source>the proxy host name was not found (invalid proxy hostname)</source>
         <translation>no se encontró el nombre del host proxy (nombre de host proxy no válido)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="529"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="537"/>
         <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
         <translation>la conexión con el proxy temporizado o el proxy no respondió a tiempo a la solicitud enviada</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="534"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="542"/>
         <source>the proxy requires authentication in order to honour the request but did not accept any credentials offered (if any)</source>
         <translation>el proxy requiere autenticación para cumplir con la solicitud, pero no aceptó ninguna credencial ofrecida</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="539"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="547"/>
         <source>the access to the remote content was denied (similar to HTTP error 403)</source>
         <translation>el acceso al contenido remoto fue denegado (similar al error HTTP 403)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="543"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="551"/>
         <source>the operation requested on the remote content is not permitted</source>
         <translation>no se permite la operación solicitada en el contenido remoto</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="547"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="555"/>
         <source>the remote content was not found at the server (similar to HTTP error 404)</source>
         <translation>el contenido remoto no se encontró en el servidor (similar al error HTTP 404)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="551"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="559"/>
         <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
         <translation>el servidor remoto requiere autenticación para servir el contenido pero las credenciales proporcionadas no fureon aceptadas</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="556"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="564"/>
         <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
         <translation>la solicitud necesitaba ser enviada de nuevo, pero esto falló por ejemplo porque los datos de carga no se podían leer una segunda vez</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="561"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="569"/>
         <source>the request could not be completed due to a conflict with the current state of the resource</source>
         <translation>la solicitud no pudo completarse debido a un conflicto con el estado actual del recurso</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="566"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="574"/>
         <source>the requested resource is no longer available at the server</source>
         <translation>el recurso solicitado ya no está disponible en el servidor</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="570"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="578"/>
         <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
         <translation>el servidor encontró una condición inesperada que le impedía cumplir la solicitud</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="576"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="584"/>
         <source>the server does not support the functionality required to fulfill the request</source>
         <translation>el servidor no soporta la funcionalidad requerida para cumplir la solicitud</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="580"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="588"/>
         <source>the server is unable to handle the request at this time</source>
         <translation>el servidor no puede manejar la solicitud en este momento</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="585"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="593"/>
         <source>the Network Access API cannot honor the request because the protocol is not known</source>
         <translation>la API de acceso a la red no puede cumplir la solicitud porque el protocolo no se conoce</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="589"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="597"/>
         <source>the requested operation is invalid for this protocol</source>
         <translation>la operación solicitada no es válida para este protocolo</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="593"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="601"/>
         <source>an unknown network-related error was detected</source>
         <translation>se detectó un error desconocido relacionado con la red</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="597"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="605"/>
         <source>an unknown proxy-related error was detected</source>
         <translation>se detectó un error desconocido relacionado con el proxy</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="601"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="609"/>
         <source>an unknown error related to the remote content was detected</source>
         <translation>se detectó un error desconocido relacionado con el contenido remoto</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="605"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="613"/>
         <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
         <translation>se detectó una ruptura en el protocolo (error de análisis, respuestas no válidas o inesperadas, etc.)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="610"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="618"/>
         <source>an unknown error related to the server response was detected</source>
         <translation>se detectó un error desconocido relacionado con la respuesta del servidor</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="614"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="622"/>
         <source>unknown</source>
         <translation>desconocido</translation>
     </message>
@@ -7668,23 +7668,23 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Weather::WeatherDataProvider</name>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="391"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="405"/>
         <source>Waiting for precise position…</source>
         <translation>Esperando la posición precisa ...</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="444"/>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="450"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="458"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="464"/>
         <source>SR %1, %2</source>
         <translation>SR %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="448"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="462"/>
         <source>SS %1, %2</source>
         <translation>SS %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="499"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="513"/>
         <source>QNH: %1 hPa in %2, %3</source>
         <translation>QNH: %1 hPa in %2, %3</translation>
     </message>
