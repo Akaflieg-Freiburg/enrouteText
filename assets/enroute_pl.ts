@@ -2905,7 +2905,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="261"/>
         <source>The app will now show NOTAMs relevant to your flight.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikacja będzie teraz pokazywać dane NOTAM istotne dla Twojego lotu.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="262"/>
@@ -3506,7 +3506,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="68"/>
         <source>Marked as Read</source>
-        <translation type="unfinished"></translation>
+        <translation>Oznaczone jako przeczytane</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="113"/>
@@ -3516,12 +3516,12 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="133"/>
         <source>Data potentially outdated. Update requested.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane potencjalnie nieaktualne. Zażądano aktualizacji.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="169"/>
         <source>Expand Abbreviations</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozwiń skróty</translation>
     </message>
     <message>
         <source>Data possibly incomplete</source>
@@ -3987,19 +3987,19 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/notam/NotamList.cpp" line="81"/>
         <source>No NOTAMs</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych NOTAM</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamList.cpp" line="85"/>
         <source>NOTAMs available</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dane NOTAM dostępne</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamList.cpp" line="90"/>
         <source>Update requested.</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zażądano aktualizacji.</translation>
     </message>
 </context>
 <context>
