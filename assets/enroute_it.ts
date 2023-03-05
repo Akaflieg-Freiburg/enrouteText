@@ -2351,7 +2351,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="174"/>
         <source>To avoid conflicts, vector maps will be not be shown while raster maps are installed.</source>
-        <translation>Per evitare conflitti le mappe vettoriali non sono mostrate mentre sono installate le mappe raster</translation>
+        <translation>Per evitare conflitti le mappe vettoriali non sono mostrate mentre sono installate le mappe raster.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="265"/>
