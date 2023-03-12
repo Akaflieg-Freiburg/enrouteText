@@ -130,108 +130,108 @@
         <translation type="vanished">Salva nell&apos;archivio…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="93"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="97"/>
         <source>View Library…</source>
         <translation>Vedi archivio...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="102"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="106"/>
         <source>Save to library…</source>
         <translation>Salva in archivio...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="148"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="157"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="152"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="161"/>
         <source>Name</source>
         <translation>Nome</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="173"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="329"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="417"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="504"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="592"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="177"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="333"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="421"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="508"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="596"/>
         <source>undefined</source>
         <translation>non definito</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="177"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="181"/>
         <source>Units</source>
         <translation>Unità</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="185"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="189"/>
         <source>Horizontal</source>
         <translation>Orizzontale</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="209"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="213"/>
         <source>Nautical Miles</source>
         <translation>Miglia nautiche</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="209"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="213"/>
         <source>Kilometers</source>
         <translation>Chilometri</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="209"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="213"/>
         <source>Statute Miles</source>
         <translation>Miglia legali</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="212"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="216"/>
         <source>Vertical</source>
         <translation>Verticale</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="231"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="235"/>
         <source>Feet</source>
         <translation>Piedi</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="231"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="235"/>
         <source>Meters</source>
         <translation>Metri</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="234"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="238"/>
         <source>Volume</source>
         <translation>Volume</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="253"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="257"/>
         <source>Liters</source>
         <translation>Litri</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="253"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="257"/>
         <source>U.S. Gallons</source>
         <translation>Galloni U.S.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="259"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="263"/>
         <source>True Airspeed</source>
         <translation>True Airspeed</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="267"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="540"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="271"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="544"/>
         <source>Cruise</source>
         <translation>Crociera</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="355"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="359"/>
         <source>Descent</source>
         <translation>Discesa</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="443"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="447"/>
         <source>Minimum</source>
         <translation>Minimo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="532"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="536"/>
         <source>Fuel Consumption</source>
         <translation>Consumo carburante</translation>
     </message>
@@ -3977,19 +3977,19 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Dati interni mappa</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NotamList.cpp" line="81"/>
+        <location filename="../../../src/notam/NotamList.cpp" line="89"/>
         <source>No NOTAMs</source>
         <comment>NOTAM::NotamList</comment>
         <translation>Nessun NOTAM</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NotamList.cpp" line="85"/>
+        <location filename="../../../src/notam/NotamList.cpp" line="93"/>
         <source>NOTAMs available</source>
         <comment>NOTAM::NotamList</comment>
         <translation>NOTAM disponibili</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NotamList.cpp" line="90"/>
+        <location filename="../../../src/notam/NotamList.cpp" line="98"/>
         <source>Update requested.</source>
         <comment>NOTAM::NotamList</comment>
         <translation>Aggiornamento richiesto.</translation>
