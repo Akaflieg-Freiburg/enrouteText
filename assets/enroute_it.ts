@@ -1693,13 +1693,17 @@ con i dati del conto bancario.
         <translation>Accetta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="278"/>
-        <source>Quit App</source>
-        <translation>Chiudi l&apos;App</translation>
+        <source>Quit</source>
+        <translation type="vanished">Uscita</translation>
     </message>
     <message>
+        <source>Quit App</source>
+        <translation type="vanished">Chiudi l&apos;App</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="278"/>
         <source>Reject</source>
-        <translation type="vanished">Rifiuta</translation>
+        <translation>Rifiuta</translation>
     </message>
 </context>
 <context>

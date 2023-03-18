@@ -1681,13 +1681,17 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Akzeptieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="278"/>
-        <source>Quit App</source>
-        <translation>App beenden</translation>
+        <source>Quit</source>
+        <translation type="vanished">Beenden</translation>
     </message>
     <message>
+        <source>Quit App</source>
+        <translation type="vanished">App beenden</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="278"/>
         <source>Reject</source>
-        <translation type="vanished">Ablehnen</translation>
+        <translation>Ablehnen</translation>
     </message>
 </context>
 <context>

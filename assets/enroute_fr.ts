@@ -1373,13 +1373,17 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Accepter</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="278"/>
-        <source>Quit App</source>
-        <translation>Quitter la app</translation>
+        <source>Quit</source>
+        <translation type="vanished">Quitter</translation>
     </message>
     <message>
+        <source>Quit App</source>
+        <translation type="vanished">Quitter la app</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="278"/>
         <source>Reject</source>
-        <translation type="vanished">Refuser</translation>
+        <translation>Refuser</translation>
     </message>
 </context>
 <context>

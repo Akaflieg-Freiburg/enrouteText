@@ -1380,13 +1380,17 @@ con los datos de la cuenta bancaria.</translation>
         <translation>Acceptar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="278"/>
-        <source>Quit App</source>
-        <translation>Salir de la aplicación</translation>
+        <source>Quit</source>
+        <translation type="vanished">Salir</translation>
     </message>
     <message>
+        <source>Quit App</source>
+        <translation type="vanished">Salir de la aplicación</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="278"/>
         <source>Reject</source>
-        <translation type="vanished">Rechazar</translation>
+        <translation>Rechazar</translation>
     </message>
 </context>
 <context>
