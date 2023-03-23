@@ -1644,8 +1644,12 @@ con i dati del conto bancario.
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="111"/>
-        <source>Please grant the following permissiona when prompted.</source>
+        <source>Please grant the following permissions when prompted.</source>
         <translation>Prego concedi la seguente autorizzazione quando richiesta.</translation>
+    </message>
+    <message>
+        <source>Please grant the following permissiona when prompted.</source>
+        <translation type="vanished">Prego concedi la seguente autorizzazione quando richiesta.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="147"/>
@@ -8696,23 +8700,23 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>Weather::WeatherDataProvider</name>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="405"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="412"/>
         <source>Waiting for precise position…</source>
         <translation>In attesa di una posizione precisa...</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="458"/>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="464"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="465"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="471"/>
         <source>SR %1, %2</source>
         <translation>SR %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="462"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="469"/>
         <source>SS %1, %2</source>
         <translation>SS %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="513"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="520"/>
         <source>QNH: %1 hPa in %2, %3</source>
         <translation>QNH: %1 hPa in %2, %3</translation>
     </message>
