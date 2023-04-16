@@ -55,7 +55,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="51"/>
         <source>Aircraft Name</source>
-        <translation type="unfinished">Nazwa samolotu</translation>
+        <translation>Nazwa samolotu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="103"/>
@@ -1507,7 +1507,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
         <location filename="../../../src/qml/items/DecoratedListView.qml" line="56"/>
         <location filename="../../../src/qml/items/DecoratedListView.qml" line="86"/>
         <source>more</source>
-        <translation type="unfinished"></translation>
+        <translation>więcej</translation>
     </message>
 </context>
 <context>
@@ -1516,7 +1516,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
         <location filename="../../../src/qml/items/DecoratedScrollView.qml" line="62"/>
         <location filename="../../../src/qml/items/DecoratedScrollView.qml" line="98"/>
         <source>more</source>
-        <translation type="unfinished"></translation>
+        <translation>więcej</translation>
     </message>
 </context>
 <context>
@@ -1737,7 +1737,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="72"/>
         <source>Waypoint Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwa punktu orientacyjnego</translation>
     </message>
     <message>
         <source>Filter Waypoint Names</source>
@@ -2050,7 +2050,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="130"/>
         <source>Flight Route Name</source>
-        <translation type="unfinished">Nazwa planu lotu</translation>
+        <translation>Nazwa planu lotu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="181"/>
@@ -4228,12 +4228,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="544"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normalny</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="549"/>
         <source>Huge</source>
-        <translation type="unfinished"></translation>
+        <translation>Duży</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="569"/>
@@ -4391,12 +4391,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="262"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="523"/>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar czcionki</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="263"/>
         <source>Use this option to adjust the font size for optimal readability.</source>
-        <translation type="unfinished"></translation>
+        <translation>Użyj tej opcji aby dostosować rozmiar czcionki dla optymalnej czytelności.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="371"/>
@@ -5743,7 +5743,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="228"/>
         <source>Waypoint Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Nazwy punktów orientacyjnych</translation>
     </message>
     <message>
         <source>Filter Waypoint Names</source>
@@ -5810,32 +5810,32 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="33"/>
         <source>Weather</source>
-        <translation type="unfinished">Pogoda</translation>
+        <translation>Pogoda</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="92"/>
         <source>Update METAR/TAF data</source>
-        <translation type="unfinished">Zaktualizuj dane METAR / TAF</translation>
+        <translation>Zaktualizuj dane METAR/TAF</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="183"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the three-dot menu at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt; Przepraszamy !&lt;/h3&gt; &lt;p&gt; Brak danych METAR / TAF. Możesz ponownie uruchomić pobieranie ręcznie, używając pozycji „Aktualizuj METAR / TAF” z menu z trzema kropkami w prawym górnym rogu ekranu. &lt;/p&gt;</translation>
+        <translation>&lt;h3&gt; Przepraszamy !&lt;/h3&gt; &lt;p&gt; Brak danych METAR/TAF. Możesz ponownie uruchomić pobieranie ręcznie, używając pozycji „Aktualizuj METAR/TAF” z menu z trzema kropkami w prawym górnym rogu ekranu. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="206"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAF data from the Aviation Weather Center…&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt; Trwa pobieranie… &lt;/h3&gt; &lt;p&gt; Czekaj, pobieramy dane METAR / TAF z Lotniczego Centrum Pogody… &lt;/p&gt;</translation>
+        <translation>&lt;h3&gt; Trwa pobieranie… &lt;/h3&gt; &lt;p&gt; Czekaj, pobieramy dane METAR/TAF z Lotniczego Centrum Pogody… &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="269"/>
         <source>&lt;p&gt;Failed to update the list of weather stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Nieudana aktualizacja listy stacji pogodowych.&lt;/p&gt;&lt;p&gt;Powód: %1.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="270"/>
         <source>Update Error</source>
-        <translation type="unfinished">Błąd aktualizacji</translation>
+        <translation>Błąd aktualizacji</translation>
     </message>
 </context>
 <context>
