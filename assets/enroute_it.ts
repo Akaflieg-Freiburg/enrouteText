@@ -55,7 +55,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="51"/>
         <source>Aircraft Name</source>
-        <translation type="unfinished">Nome Aereo</translation>
+        <translation>Nome Aereo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="103"/>
@@ -1504,7 +1504,7 @@ la nostra App.&lt;/p&gt;
         <location filename="../../../src/qml/items/DecoratedListView.qml" line="56"/>
         <location filename="../../../src/qml/items/DecoratedListView.qml" line="86"/>
         <source>more</source>
-        <translation type="unfinished"></translation>
+        <translation>altro</translation>
     </message>
 </context>
 <context>
@@ -1513,7 +1513,7 @@ la nostra App.&lt;/p&gt;
         <location filename="../../../src/qml/items/DecoratedScrollView.qml" line="62"/>
         <location filename="../../../src/qml/items/DecoratedScrollView.qml" line="98"/>
         <source>more</source>
-        <translation type="unfinished"></translation>
+        <translation>altro</translation>
     </message>
 </context>
 <context>
@@ -1734,7 +1734,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="72"/>
         <source>Waypoint Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nome Waypoint</translation>
     </message>
     <message>
         <source>Filter Waypoint Names</source>
@@ -2048,7 +2048,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="130"/>
         <source>Flight Route Name</source>
-        <translation type="unfinished">Nome del piano di volo</translation>
+        <translation>Nome piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="181"/>
@@ -4209,12 +4209,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="544"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation>Normale</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="549"/>
         <source>Huge</source>
-        <translation type="unfinished"></translation>
+        <translation>Enorme</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="569"/>
@@ -4251,12 +4251,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="262"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="523"/>
         <source>Font Size</source>
-        <translation type="unfinished"></translation>
+        <translation>Dimensione carattere</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="263"/>
         <source>Use this option to adjust the font size for optimal readability.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa questa opzione per sistemare la dimensione dei caratteri per una leggibilità ottimale.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="468"/>
@@ -5736,7 +5736,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="228"/>
         <source>Waypoint Names</source>
-        <translation type="unfinished"></translation>
+        <translation>Nomi Waypoints</translation>
     </message>
     <message>
         <source>Filter Waypoint Names</source>
@@ -5803,32 +5803,32 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="33"/>
         <source>Weather</source>
-        <translation type="unfinished">Meteo</translation>
+        <translation>Meteo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="92"/>
         <source>Update METAR/TAF data</source>
-        <translation type="unfinished">Aggiorna dati METAR/TAF</translation>
+        <translation>Aggiorna dati METAR/TAF</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="183"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the three-dot menu at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Non ci sono dati METAR/TAF disponibili. Potete ritentare lo scaricamento usando il menu &apos;Aggiorna dati METAR/TAF&apos; dal menu con i tre punti nell&apos;angolo superiore destro dello schermo.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Non ci sono dati METAR/TAF disponibili. Potete ritentare il dowload usando il menu &apos;Aggiorna dati METAR/TAF&apos; dal menu con i tre punti nell&apos;angolo superiore destro dello schermo.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="206"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAF data from the Aviation Weather Center…&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;Scaricamento in corso...&lt;/h3&gt;&lt;p&gt;Prego attendere intanto che i dati METAR/TAF vengono scaricati da Aviation Weather Center...&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Download in corso...&lt;/h3&gt;&lt;p&gt;Prego attendere che i dati METAR/TAF sono scaricati dall&apos;Aviation Weather Center...&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="269"/>
         <source>&lt;p&gt;Failed to update the list of weather stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;p&gt;Fallito l&apos;aggiornamento della lista delle stazioni metereologiche.&lt;/p&gt;&lt;p&gt;Motivo: %1&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="270"/>
         <source>Update Error</source>
-        <translation type="unfinished">Errore nell&apos;aggiornamento</translation>
+        <translation>Errore nell&apos;aggiornamento</translation>
     </message>
 </context>
 <context>
