@@ -1467,7 +1467,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Effacer la route ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="715"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="708"/>
         <source>Flight route cleared</source>
         <translation>Route supprimée</translation>
     </message>
@@ -1599,12 +1599,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Ajouter un point tournant</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="741"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="735"/>
         <source>Error Exporting Data…</source>
         <translation>Erreur lors de l&apos;exportation des données...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="707"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="703"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>La route ne pourra pas être rétablie si elle est effacée.</translation>
     </message>
