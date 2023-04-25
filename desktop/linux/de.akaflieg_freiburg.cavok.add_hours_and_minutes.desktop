@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Add Times
+Name[de]=Rechnen mit Zeiten
+Name[es]=
+Name[fr]=
+Name[pl]=
+Name[it]=
+GenericName=Calculator for adding times
+GenericName[de]=Rechner zum Zusammenzählen von Zeiten
+GenericName[es]=
+GenericName[fr]=
+GenericName[pl]=
+GenericName[it]=
+Icon=de.akaflieg_freiburg.cavok.add_hours_and_minutes
+TryExec=addhoursandminutes
+Exec=addhoursandminutes
+Terminal=false
+Categories=Utility;Calculator;
+X-Purism-FormFactor=Workstation;Mobile;
