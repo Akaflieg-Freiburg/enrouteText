@@ -9,13 +9,13 @@
   <name xml:lang="es"></name>
   <name xml:lang="fr"></name>
   <name xml:lang="it"></name>
-  <name xml:lang="pl"></name>
+  <name xml:lang="pl">Dodaj czasy</name>
   <summary>Simple calculator for adding hours and minutes</summary>
   <summary xml:lang="de">Einfacher Rechner zum Addieren von Stunden und Minuten</summary>
   <summary xml:lang="es"></summary>
   <summary xml:lang="fr"></summary>
   <summary xml:lang="it"></summary>
-  <summary xml:lang="pl"></summary>  
+  <summary xml:lang="pl">Prosty kalkulator do zliczania godzin i minut</summary>
   <description>
     <p>This calculator adds times given in hours and minutes.  It helps with the
     recording of machine running times, with the addition of flight times for
@@ -27,7 +27,9 @@
     <p xml:lang="es"></p>
     <p xml:lang="fr"></p>
     <p xml:lang="it"></p>
-    <p xml:lang="pl"></p>
+    <p xml:lang="pl">Ten kalkulator pozwala na zliczanie czasów podanych w
+    godinach i minutach. Pomaga przy zapisywaniu czasu lotu samolotem, z dodawaniem
+    czasu lotu ciągłego pilotów lub czasu jazdy kierowców ciężarówek.</p>
   </description>
   <content_rating type="oars-1.1" />
   <releases>
