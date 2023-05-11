@@ -88,17 +88,16 @@
         <translation>Introduzca un nuevo nombre para el avión&lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="289"/>
         <source>New Aircraft Name</source>
-        <translation>Nuevo nombre del avión</translation>
+        <translation type="vanished">Nuevo nombre del avión</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="302"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="300"/>
         <source>Rename</source>
         <translation>Renombrar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="312"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="310"/>
         <source>Aircraft renamed</source>
         <translation>Avión renombrado</translation>
     </message>
@@ -1810,27 +1809,26 @@ con los datos de la cuenta bancaria.</translation>
         <translation>Ingrese un nombre o elija un nombre existente de la lista a continuación.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="73"/>
         <source>Flight Route Name</source>
-        <translation>Nombre de la ruta</translation>
+        <translation type="vanished">Nombre de la ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="132"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="131"/>
         <source>Flight route %1 saved</source>
         <translation>Ruta %1 guardada</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="138"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="137"/>
         <source>An Error Occurred…</source>
         <translation>Ocurrió un error…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="145"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="144"/>
         <source>Overwrite Flight Route?</source>
         <translation>¿Sobrescribir ruta?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="148"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="147"/>
         <source>The route &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
         <translation>La ruta &lt;strong&gt;%1&lt;/strong&gt; ya existe en la biblioteca. ¿Desea sobrescribirla?</translation>
     </message>
@@ -2746,22 +2744,21 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
 <context>
     <name>NotamListDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="67"/>
+        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="68"/>
         <source>Marked as Read</source>
         <translation>Marcado como leído</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="112"/>
         <source>Notam for %1</source>
-        <translation>Nota para %1</translation>
+        <translation type="vanished">Nota para %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="132"/>
+        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="117"/>
         <source>Data potentially outdated. Update requested.</source>
         <translation>Datos potencialmente obsoletos. Actualización solicitada.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="168"/>
+        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="159"/>
         <source>Expand Abbreviations</source>
         <translation>Expandir abreviaturas</translation>
     </message>
@@ -3220,34 +3217,34 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Ajustes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="109"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="108"/>
         <source>Moving Map</source>
         <translation>Mapa móvil</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="120"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="119"/>
         <source>Currently showing all airspaces</source>
         <translation>Actualmente se están mostrando todos los espacios aéreos</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="127"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="126"/>
         <source>Currently showing airspaces up to %1</source>
         <translation>Actualmente se están mostrando los espacios aéreos hasta %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="147"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="548"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="128"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="146"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="547"/>
         <source>Airspace Altitude Limit</source>
         <translation>Límite de altitud del espacio aéreo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="148"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="147"/>
         <source>If you never fly higher than 5.000ft, you will probably not be interested in airspaces that begin above FL100. Enroute Flight Navigation allows you to set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit. Tap on the entry “Airspace Altitude Limit” to set or unset the altitude limit.</source>
         <translation>Si nunca vuela a más de 5.000 pies, probablemente no le interesen los espacios aéreos que comienzan por encima de FL100. Enroute Flight Navigation le permite establecer un límite de altitud para mejorar la legibilidad del mapa en movimiento. Una vez configurada, la aplicación mostrará solo los espacios aéreos por debajo de ese límite. Toque en &quot;Límite de altitud del espacio aéreo&quot; para configurar o desactivar el límite de altitud.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="149"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="148"/>
         <source>Once you set an altitude limit, the moving map will display a little warning (“Airspaces up to 9,500 ft”) to remind you that the moving map does not show all airspaces. The app will automatically increase the limit when your aircraft approaches the altitude limit from below.</source>
         <translation>Una vez que establezca un límite de altitud, el mapa en movimiento mostrará una pequeña advertencia (&quot;Espacios aéreos hasta 9500 pies&quot;) para recordarle que el mapa en movimiento no muestra todos los espacios aéreos. La aplicación aumentará automáticamente el límite cuando su avión se acerque al límite de altitud.</translation>
     </message>
@@ -3256,110 +3253,110 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Características del mapa</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="156"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="171"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="155"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="170"/>
         <source>Gliding Sectors</source>
         <translation>Sectores para planeadores</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="172"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="171"/>
         <source>In regions with high glider traffic, local regulations often allow gliders to fly in airspaces that are otherwise difficult to access, such as control zones. The moving map displays these “Gliding Sectors” in bright yellow. If you are not flying a glider, the gliding sectors are probably not relevant. Hiding the gliding sectors might improve the readability of the moving map.</source>
         <translation>En regiones con mucho tráfico de planeadores, las regulaciones locales a menudo permiten que los planeadores vuelen en espacios aéreos que de otro modo serían de difícil acceso, como las zonas de control. El mapa en movimiento muestra estos &quot;Sectores planeadores&quot; en amarillo brillante. Si no está volando un planeador, los sectores de planeo probablemente no sean relevantes. Ocultar los sectores planeadores podría mejorar la legibilidad del mapa en movimiento.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="179"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="194"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="178"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="193"/>
         <source>Hillshading</source>
         <translation>Zona de sombras (Hillshading)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="195"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="194"/>
         <source>We have received a report from one user, who complained about issues with the hillshading graphics on very old devices, potentially because of buggy system libraries. If you experience problems, use this switch to disable the hillshading feature.</source>
         <translation>Recibimos un informe de un usuario, que se quejó de problemas con los gráficos de sombreado en dispositivos muy antiguos, posiblemente debido a bibliotecas del sistema con errores. Si tiene problemas, utilice desactive la función de sombreado.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="204"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="203"/>
         <source>Navigation Bar</source>
         <translation>Barra de navegación</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="212"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="225"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="443"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="211"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="224"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="442"/>
         <source>Altimeter Mode</source>
         <translation>Modo altímetro</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="213"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="212"/>
         <source>Currently showing altitude AGL</source>
         <translation>Actualmente mostrando altitud AGL</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="213"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="212"/>
         <source>Currently showing altitude AMSL</source>
         <translation>Actualmente mostrando altitud AMSL</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="226"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="225"/>
         <source>Use this settings item to chose if the altimeter shows height above ground level (AGL) or height above main sea level (AMSL).</source>
         <translation>Utilice este elemento de configuración para elegir si el altímetro muestra la altura sobre el nivel del suelo (AGL) o la altura sobre el nivel principal del mar (AMSL).</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="241"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="253"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="512"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="240"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="252"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="511"/>
         <source>Font Size</source>
         <translation>tamaño del texto</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="254"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="253"/>
         <source>Use this option to adjust the font size for optimal readability.</source>
         <translation>Utilice esta opción para ajustar el tamaño del texto para una legibilidad óptima.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="285"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="284"/>
         <source>System</source>
         <translation>Sistema</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="295"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="294"/>
         <source>Currently using traffic data receiver</source>
         <translation>Actualmente utilizando el receptor de datos de tráfico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="297"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="296"/>
         <source>Currently using built-in satnav receiver</source>
         <translation>Actualmente usando un receptor de navegación satelital incorporado</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="299"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="315"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="298"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="314"/>
         <source>Primary Position Data Source</source>
         <translation>Fuente de datos de posición principal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="316"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="315"/>
         <source>Enroute Flight Navigation can either use the built-in satnav receiver of your device or a connected traffic receiver as a primary position data source. This setting is essential if your device has reception problems or if you use Enroute Flight Navigation together with a flight simulator.</source>
         <translation>Enroute Flight Navigation puede utilizar el receptor de navegación por satélite integrado de su dispositivo o un receptor de tráfico conectado como fuente principal de datos de posición. Esta configuración es esencial si su dispositivo tiene problemas de recepción o si usa Enroute Flight Navigation junto con un simulador de vuelo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="317"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="316"/>
         <source>You will most likely prefer the built-in satnav receiver for actual flight. The built-in receiver provides one position update per second on a typical Android system, while traffic receivers do not always provide timely position updates.</source>
         <translation>Lo más probable es que prefiera el receptor de navegación por satélite incorporado para el vuelo real. El receptor incorporado brinda una actualización de posición por segundo en un sistema Android típico, mientras que los receptores de tráfico no siempre brindan actualizaciones de posición oportunas.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="318"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="317"/>
         <source>If you use Enroute Flight Navigation together with a flight simulator, you must choose the traffic receiver as a primary position data source. Flight simulators broadcast position information of simulated aircraft via Wi-Fi, using the same protocol that a traffic data receiver would use in a real plane. As long as the built-in satnav receiver is selected, all position information provided by your flight simulator is ignored.</source>
         <translation>Si utiliza Enroute Flight Navigation junto con un simulador de vuelo, debe elegir el receptor de tráfico como fuente principal de datos de posición. Los simuladores de vuelo transmiten información de posición de aviones simulados a través de Wi-Fi, usando el mismo protocolo que usaría un receptor de datos de tráfico en un avión real. Siempre que se seleccione el receptor de navegación por satélite integrado, se ignorará toda la información de posición proporcionada por el simulador de vuelo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="261"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="276"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="260"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="275"/>
         <source>Night Mode</source>
         <translation>Modo nocturno</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="234"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="233"/>
         <source>User Interface</source>
         <translation>Interfaz de usuario</translation>
     </message>
@@ -3372,155 +3369,155 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Utilice esta opción para ampliar el texto y mejorar la legibilidad.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="277"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="276"/>
         <source>The “Night Mode” of Enroute Flight Navigation is similar to the “Dark Mode” found in many other apps. We designed the night mode for pilots performing VFR flights by night, whose eyes have adapted to the darkness. Compared with other apps, you will find that the display is quite dark indeed.</source>
         <translation>El &quot;Modo nocturno&quot; de Enroute Flight Navigation es similar al &quot;Modo oscuro&quot; que se encuentra en muchas otras aplicaciones. Diseñamos el modo nocturno para pilotos que realizan vuelos VFR de noche, cuyos ojos se han adaptado a la oscuridad. En comparación con otras aplicaciones, encontrará que la pantalla es bastante oscura.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="325"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="342"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="324"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="341"/>
         <source>Ignore Network Security Errors</source>
         <translation>Ignorar errores de seguridad de la red</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="343"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="342"/>
         <source>This entry is visible if you have asked the app to download data via insecure internet connections after a secure connection attempt failed. Uncheck this item to revert to the standard policy, which enforces secure connections.</source>
         <translation>Esta entrada es visible si le ha pedido a la aplicación que descargue datos a través de conexiones de Internet no seguras después de que falló un intento de conexión segura. Desmarque este elemento para volver a la política estándar, que impone conexiones seguras.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="351"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="360"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="350"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="359"/>
         <source>Clear Password Storage</source>
         <translation>Borrar almacenamiento de contraseña</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="361"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="360"/>
         <source>This entry is visible if you have connected to a traffic data receiver that requires a password in addition to the Wi-Fi password and if you have asked the app to remember the password. Tap on this entry to clear the password storage.</source>
         <translation>Esta entrada es visible si se ha conectado a un receptor de datos de tráfico que requiere una contraseña además de la contraseña de Wi-Fi y si le ha pedido a la aplicación que recuerde la contraseña. Toque esta entrada para borrar el almacenamiento de la contraseña.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="369"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="368"/>
         <source>Help</source>
         <translation>Ayuda</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="378"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="377"/>
         <source>How to connect your traffic receiver…</source>
         <translation>Cómo conectar el receptor de tráfico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="386"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="385"/>
         <source>How to connect your flight simulator…</source>
         <translation>Cómo conectar el simulador de vuelo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="409"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="408"/>
         <source>Terrain Data Missing</source>
         <translation>Faltan datos del terreno</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="410"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="409"/>
         <source>The height above ground level cannot be computed for your current position, because the relevant terrain maps for your region have not been installed.</source>
         <translation>La altura sobre el nivel del suelo no se puede calcular para su posición actual porque no se han instalado los mapas de terreno relevantes para su región.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="414"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="413"/>
         <source>Install now</source>
         <translation>Instalar ahora</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="418"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="494"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="417"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="493"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="483"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="482"/>
         <source>Clear Password Storage?</source>
         <translation>¿Borrar almacenamiento de contraseña?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="486"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="485"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
         <translation>Una vez que se borra el almacenamiento, las contraseñas ya no se pueden recuperar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="490"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="489"/>
         <source>Clear</source>
         <translation>Limpiar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="502"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="501"/>
         <source>Password storage cleared</source>
         <translation>Almacenamiento de contraseña borrado</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="533"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="532"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="538"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="537"/>
         <source>Huge</source>
         <translation>Enorme</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="558"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="557"/>
         <source>Set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit.</source>
         <translation>Establezca un límite de altitud para mejorar la legibilidad del mapa en movimiento. Una vez configurada, la aplicación mostrará solo los espacios aéreos por debajo de ese límite.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="566"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="565"/>
         <source>Set altitude limit</source>
         <translation>Establecer límite de altitud</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="592"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="591"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
         <translation>Mostrar espacios aéreos hasta %1 pie / %2 m.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="594"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="593"/>
         <source>No limit, all airspaces shown</source>
         <translation>Sin límite, se muestran todos los espacios aéreos</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="603"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="602"/>
         <source>Cannot set reasonable airspaces altitude limit because the present own altitude is too high.</source>
         <translation>No se puede establecer un límite de altitud razonable en los espacios aéreos porque la altitud propia actual es demasiado alta.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="632"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="631"/>
         <source>Position Data Source</source>
         <translation>Fuente de datos de posición</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="639"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="638"/>
         <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
         <translation>La mayoría de los usuarios elegirán el receptor de navegación por satélite incorporado. Elija el receptor de datos de tráfico cuando el receptor de navegación por satélite de su dispositivo tiene problemas de recepción, o cuando utilice esta aplicación junto con un simulador de vuelo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="646"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="645"/>
         <source>Built-in satnav receiver</source>
         <translation>Receptor de navegación por satélite incorporado</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="654"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="653"/>
         <source>Traffic data reveiver (when available)</source>
         <translation>Receptor de datos de tráfico (cuando esté disponible)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="450"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="449"/>
         <source>This setting applies to the altimeter in the Navigation Bar, at the bottom of the moving map screen.</source>
         <translation>Esta configuración se aplica al altímetro en la barra de navegación, en la parte inferior de la pantalla del mapa en movimiento.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="457"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="456"/>
         <source>Height above ground level (AGL)</source>
         <translation>Altura sobre el nivel del suelo (AGL)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="465"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="464"/>
         <source>Height above main sea level (AMSL)</source>
         <translation>Altura sobre el nivel principal del mar (AMSL)</translation>
     </message>
@@ -4348,119 +4345,119 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>WaypointDescription</name>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="77"/>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="125"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="79"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="127"/>
         <source>full report</source>
         <translation>reporte completp</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="78"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="80"/>
         <source>read TAF</source>
         <translation>Leyendo TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="426"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="410"/>
         <source>Route</source>
         <translation>Ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="437"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="421"/>
         <source>Direct</source>
         <translation>Directo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="448"/>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="596"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="432"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="580"/>
         <source>New flight route: direct to %1.</source>
         <translation>Nueva ruta: direct a %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="462"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="446"/>
         <source>Append</source>
         <translation>Añadir</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="475"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="459"/>
         <source>Added %1 to route.</source>
         <translation>Añadir a la ruta %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="480"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="464"/>
         <source>Insert</source>
         <translation>Introducir</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="493"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="477"/>
         <source>Inserted %1 into route.</source>
         <translation>Introducido %1 en la ruta.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="498"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="482"/>
         <source>Remove</source>
         <translation>Eliminar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="514"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="498"/>
         <source>Removed %1 from route.</source>
         <translation>Eliminado 1% de la ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="522"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="506"/>
         <source>Library</source>
         <translation>Biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="534"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="518"/>
         <source>Add…</source>
         <translation>Añadir ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="546"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="530"/>
         <source>Remove…</source>
         <translation>Eliminar...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="564"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="548"/>
         <source>Edit…</source>
         <translation>Editar ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="585"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="569"/>
         <source>Overwrite Current Flight Route?</source>
         <translation>¿Sobrescribir la ruta de vuelo actual?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="586"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="570"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation>Una vez sobrescrita, la ruta de vuelo actual no se puede restaurar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="620"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="604"/>
         <source>Modified entry %1 in library.</source>
         <translation>Entrada modificada %1 en la biblioteca.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="627"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="611"/>
         <source>Add Waypoint to Library</source>
         <translation>Añadir el punto de ruta en la biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="636"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="620"/>
         <source>Added %1 to waypoint library.</source>
         <translation>Añadido %1 a la biblioteca de los puntos de ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="645"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="629"/>
         <source>Remove from Device?</source>
         <translation>¿Quitar del dispositivo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="646"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="630"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Una vez que se elimina el punto de ruta &lt;strong&gt;%1&lt;/strong&gt;, no se puede restaurar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="653"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="637"/>
         <source>Waypoint removed from device</source>
         <translation>Punto de ruta eliminado de su dispositivo.</translation>
     </message>
@@ -4809,17 +4806,17 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;No hay datos METAR/TAF disponibles. Puede reiniciar la descarga manualmente usando el elemento &apos;Actualizar METAR/TAF&apos; desde el menú de tres puntos en la esquina superior derecha de la pantalla.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="203"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="206"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAF data from the Aviation Weather Center…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Descarga en curso&lt;/h3&gt;&lt;p&gt;Por favor espere mientras descargamos los datos de METAR/TAF de Aviation Weather...&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="266"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="270"/>
         <source>&lt;p&gt;Failed to update the list of weather stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;No se pudo actualizar la lista de estaciones meteorológicas.&lt;/p&gt;&lt;p&gt;Motivo: %1.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="267"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="271"/>
         <source>Update Error</source>
         <translation>Error de actualización</translation>
     </message>
