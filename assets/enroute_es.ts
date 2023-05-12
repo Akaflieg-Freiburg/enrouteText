@@ -135,60 +135,60 @@
         <translation>Unidades</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="425"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="424"/>
         <source>Horizontal</source>
         <translation>Horizontal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="188"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="236"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="450"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="449"/>
         <source>Nautical Miles</source>
         <translation>Millas náuticas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="190"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="241"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="450"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="449"/>
         <source>Kilometers</source>
         <translation>Kilometros</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="193"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="246"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="450"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="449"/>
         <source>Statute Miles</source>
         <translation>Millas terrestres</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="453"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="452"/>
         <source>Vertical</source>
         <translation>Vertical</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="276"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="321"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="474"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="473"/>
         <source>Feet</source>
         <translation>Pies</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="278"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="326"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="474"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="473"/>
         <source>Meters</source>
         <translation>Metros</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="357"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="477"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="476"/>
         <source>Volume</source>
         <translation>Volumen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="353"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="398"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="498"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="497"/>
         <source>Liters</source>
         <translation>Litros</translation>
     </message>
@@ -238,33 +238,33 @@
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="498"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="497"/>
         <source>U.S. Gallons</source>
         <translation>Galones estadounidenses</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="503"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="502"/>
         <source>True Airspeed</source>
         <translation>Velocidad verdadera</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="511"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="752"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="510"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="751"/>
         <source>Cruise</source>
         <translation>Crucero</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="589"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="588"/>
         <source>Descent</source>
         <translation>Descenso</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="667"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="666"/>
         <source>Minimum</source>
         <translation>Minimo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="745"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="744"/>
         <source>Fuel Consumption</source>
         <translation>Consumo de combustible</translation>
     </message>
@@ -4552,42 +4552,70 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Longitud</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="156"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="239"/>
         <source>Format</source>
         <translation>Formato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="165"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="162"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="203"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="249"/>
         <source>Degrees</source>
         <translation>Grados</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="165"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="164"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="208"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="249"/>
         <source>Degrees and Minutes</source>
         <translation>Grados y minutos</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="165"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="166"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="213"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="249"/>
         <source>Degrees, Minutes and Seconds</source>
         <translation>Grados, minutos y segundos</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="175"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="168"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="181"/>
+        <source>Coordinate Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="170"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="283"/>
+        <source>Currently using: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="259"/>
         <source>Elevation</source>
         <translation>Elevación</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="188"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="281"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="294"/>
+        <source>Elevation Unit</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="346"/>
         <source>Unit</source>
         <translation>Unidad</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="197"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="277"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="317"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="356"/>
         <source>Feet</source>
         <translation>Pies</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="197"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="279"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="322"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="356"/>
         <source>Meter</source>
         <translation>Metros</translation>
     </message>
