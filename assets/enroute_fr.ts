@@ -44,7 +44,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="51"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrer</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="133"/>
@@ -195,46 +195,46 @@
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="195"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="208"/>
         <source>Horizontal Distances</source>
-        <translation type="unfinished"></translation>
+        <translation>Distances horizontales</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="197"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="282"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="359"/>
         <source>Currently using: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection actuelle : %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="230"/>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to horizontal speed indications.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez les unités de mesure pour cet avion. Ces unités sont aussi utilisées pour les indications de vitesse horizontales.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="280"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="293"/>
         <source>Vertical Distances</source>
-        <translation type="unfinished"></translation>
+        <translation>Distances verticales</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="315"/>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to vertical speed indications.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez les unités de mesure pour cet avion. Ces unités sont aussi utilisées pour les indications de vitesse verticales.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="355"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="403"/>
         <source>Gallons</source>
-        <translation type="unfinished"></translation>
+        <translation>Gallons</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="370"/>
         <source>Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="392"/>
         <source>Choose the preferred units of measurement for this aircraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez les unités de mesure pour cet avion.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="497"/>
@@ -1805,7 +1805,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="128"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrer</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="294"/>
@@ -3323,16 +3323,10 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Ecriture du fichier &apos;%1&apos; impossible.</translation>
     </message>
     <message>
-        <source>No NOTAMs</source>
-        <comment>NOTAM::NotamList</comment>
-        <translatorcomment>NOTAM::NotamList</translatorcomment>
-        <translation type="vanished">Pas de NOTAM</translation>
-    </message>
-    <message>
         <location filename="../../../src/notam/NotamList.cpp" line="89"/>
         <source>No NOTAMs known</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Aucun NOTAM trouvé</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamList.cpp" line="93"/>
@@ -4691,13 +4685,13 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="168"/>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="181"/>
         <source>Coordinate Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format des coordonnées</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="170"/>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="283"/>
         <source>Currently using: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Sélection actuelle : %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="259"/>
@@ -4708,7 +4702,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="281"/>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="294"/>
         <source>Elevation Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Unité d'élévation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="346"/>
@@ -4933,7 +4927,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="226"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrer</translation>
     </message>
     <message>
         <source>Waypoint Names</source>

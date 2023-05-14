@@ -5,13 +5,13 @@
     <name>C++ Main Program</name>
     <message>
         <source>Add Times</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter temps</translation>
     </message>
     <message>
         <location filename="main.cpp" line="+49"/>
         <source>Add Times</source>
         <comment>Application Name</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter temps</translation>
     </message>
 </context>
 <context>
@@ -20,7 +20,7 @@
         <location filename="qml/Calculator.qml" line="+203"/>
         <location/>
         <source>Overflow</source>
-        <translation type="unfinished"></translation>
+        <translation>Dépassement</translation>
     </message>
 </context>
 <context>
@@ -30,20 +30,20 @@
         <location line="+76"/>
         <location/>
         <source>Add Times</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter temps</translation>
     </message>
     <message>
         <location line="-44"/>
         <location line="+24"/>
         <location/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation>Aide</translation>
     </message>
     <message>
         <location line="-18"/>
         <location/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>A propos</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -177,7 +177,7 @@ Public License V3&lt;/a&gt;.&lt;/p&gt;
     </message>
     <message>
         <source>Help…</source>
-        <translation type="unfinished"></translation>
+        <translation>Aide...</translation>
     </message>
 </context>
 </TS>
