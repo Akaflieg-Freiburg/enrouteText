@@ -59,7 +59,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="51"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtr</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="121"/>
@@ -223,46 +223,46 @@
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="195"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="208"/>
         <source>Horizontal Distances</source>
-        <translation type="unfinished"></translation>
+        <translation>Poziome odległości</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="197"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="282"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="359"/>
         <source>Currently using: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualnie używane: %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="230"/>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to horizontal speed indications.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz preferowaną jednostkę miar dla tego samolotu. Jednostki zostaną również zastosowane do wskazania prędkości poziomej.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="280"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="293"/>
         <source>Vertical Distances</source>
-        <translation type="unfinished"></translation>
+        <translation>Pionowe odległości</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="315"/>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to vertical speed indications.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz preferowaną jednostkę miar dla tego samolotu. Jednostki zostaną również zastosowane do wskazania prędkości pionowej.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="355"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="403"/>
         <source>Gallons</source>
-        <translation type="unfinished"></translation>
+        <translation>Galony</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="370"/>
         <source>Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Objętości</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="392"/>
         <source>Choose the preferred units of measurement for this aircraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz preferowane jednostki miar dla tego samolotu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="497"/>
@@ -2220,7 +2220,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="128"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtr</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="294"/>
@@ -4069,7 +4069,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/notam/NotamList.cpp" line="89"/>
         <source>No NOTAMs known</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak znanych danych NOTAM</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamList.cpp" line="93"/>
@@ -5559,13 +5559,13 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="168"/>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="181"/>
         <source>Coordinate Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Format koordynatów</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="170"/>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="283"/>
         <source>Currently using: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualnie używane: %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="259"/>
@@ -5576,7 +5576,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="281"/>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="294"/>
         <source>Elevation Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Jednostka wznoszenia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="346"/>
@@ -5837,7 +5837,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="226"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtr</translation>
     </message>
     <message>
         <source>Waypoint Names</source>
