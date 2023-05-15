@@ -1902,32 +1902,32 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">Mapa base</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="83"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="85"/>
         <source>Aviation Maps</source>
         <translation>Mapas de navegación aérea</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="84"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="86"/>
         <source>The aeronautical maps are compiled from databases provided by the &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt; projects.</source>
         <translation>Los mapas aeronáuticos se compilan a partir de bases de datos proporcionadas por &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; y &lt;a&gt;href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="94"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="96"/>
         <source>Base Maps</source>
         <translation>Mapa base</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="95"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="97"/>
         <source>The base maps are generated from &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt; data.</source>
         <translation>Los mapas base se generan a partir de datos de &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="102"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="104"/>
         <source>Terrain Maps</source>
         <translation>Mapas de terreno</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="103"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="105"/>
         <source>The terrain maps are derived from the &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt;.</source>
         <translation>Los mapas de terreno se derivan del &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset en Amazon AWS&lt;/a&gt;.</translation>
     </message>
