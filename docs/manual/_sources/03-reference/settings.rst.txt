@@ -41,8 +41,8 @@ approaches the altitude limit from below.
     safety margin when setting an airspace altitude limit.**
     
 
-Map feature: Gliding Sectors
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Gliding Sectors
+^^^^^^^^^^^^^^^
 
 In regions with high glider traffic, local regulations often allow gliders to
 fly in airspaces that are otherwise difficult to access, such as control zones.
@@ -51,8 +51,8 @@ flying a glider, the gliding sectors are probably not relevant. Hiding the
 gliding sectors might improve the readability of the moving map.
     
 
-Map feature: Hillshading
-^^^^^^^^^^^^^^^^^^^^^^^^
+Hillshading
+^^^^^^^^^^^
 
 We have received a report from a user, who experienced issues with the
 hillshading graphics on a very old device, potentially because of buggy system
@@ -78,6 +78,24 @@ Use this settings item to chose if the altimeter shows height above ground level
   field of the navigation bar will display "--".  If you are unsure if terrain 
   data is available, open the main menu and go to "Library/Maps and Data" to 
   check which maps are installed in your device.
+
+
+User Interface
+--------------
+
+Large Fonts
+^^^^^^^^^^^
+
+Use this option to enlarge fonts for improved readability.
+
+
+Night mode
+^^^^^^^^^^
+
+The “Night Mode” of Enroute Flight Navigation is similar to the “Dark Mode”
+found in many other apps. We designed the night mode for pilots performing VFR
+flights by night, whose eyes have adapted to the darkness. Compared with other
+apps, you will find that the display is quite dark indeed.
 
 
 System
@@ -107,15 +125,6 @@ This setting is essential if your device has reception problems or if you use
     even when the app is not connected to a traffic receiver. When no traffic 
     receiver is connected, **Enroute Flight Navigation** will automatically fall 
     back using the built-in satnav receiver of your device.
-
-
-Night mode
-^^^^^^^^^^
-
-The “Night Mode” of Enroute Flight Navigation is similar to the “Dark Mode”
-found in many other apps. We designed the night mode for pilots performing VFR
-flights by night, whose eyes have adapted to the darkness. Compared with other
-apps, you will find that the display is quite dark indeed.
 
 
 Ignore network security errors

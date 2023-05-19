@@ -26,6 +26,10 @@ may keep access logs or track their users.
   government. In order to provide relevant data, the app sends your location and
   your current route to the Aviation Weather Center at regular intervals.
 
+- The app downloads NOTAM for your location and your intended route from servers
+  of the `Federal Aviation Administration <https://api.faa.gov/s/>`_ of the
+  United States government.
+
 
 Privileges of the Android app
 -----------------------------
@@ -48,7 +52,7 @@ The Android app requires the following privileges.
 - VIBRATE – The app vibrates your device, for instance to give haptic feedback
   for key presses.
 
-- WAKE_LOCK – Required to maintain WiFi connections to traffic data receivers
+- WAKE_LOCK – Required to maintain Wi-Fi connections to traffic data receivers
   even when the device display is off.
 
 - WRITE_EXTERNAL_STORAGE and WRITE_EXTERNAL_STORAGE – This privilege is required
@@ -61,5 +65,3 @@ The Android app asks for the following optional privilege.
 
 - POST_NOTIFICATIONS - The app uses notifications, for instance to inform the
   user about available map updates.
-
-
