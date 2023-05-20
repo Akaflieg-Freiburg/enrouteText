@@ -223,46 +223,46 @@
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="195"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="208"/>
         <source>Horizontal Distances</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstände horizontal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="197"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="282"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="359"/>
         <source>Currently using: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zzt. in Gebrauch: %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="230"/>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to horizontal speed indications.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie für dieses Lfz. Ihre Maßeinheiten. Diese gelten dann auch für die Anzeige der Horizontalgeschwindigkeit.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="280"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="293"/>
         <source>Vertical Distances</source>
-        <translation type="unfinished"></translation>
+        <translation>Abstände vertikal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="315"/>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to vertical speed indications.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie für dieses Lfz. Ihre Maßeinheiten. Diese gelten dann auch für die Anzeige der Vertikalgeschwindigkeit.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="355"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="403"/>
         <source>Gallons</source>
-        <translation type="unfinished"></translation>
+        <translation>Gallonen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="370"/>
         <source>Volumes</source>
-        <translation type="unfinished"></translation>
+        <translation>Volumina</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="392"/>
         <source>Choose the preferred units of measurement for this aircraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wählen Sie für dieses Luftfahrzeug Ihre Maßeinheiten.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="497"/>
@@ -5540,13 +5540,13 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="168"/>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="181"/>
         <source>Coordinate Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinatenformat</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="170"/>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="283"/>
         <source>Currently using: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Zzt. in Gebrauch: %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="259"/>
@@ -5557,7 +5557,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="281"/>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="294"/>
         <source>Elevation Unit</source>
-        <translation type="unfinished"></translation>
+        <translation>Einheit für Terrainhöhe über MSL</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="346"/>
