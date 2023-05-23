@@ -2447,6 +2447,11 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="233"/>
+        <source>This app is now able to speak! Use the &apos;Settings&apos; page to enable or disable voice notifications by category.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The app downloads NOTAM for your locaction and your intended route from servers of the &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; of the United States government.</source>
         <translation type="vanished">L&apos;application télécharge NOTAM pour votre emplacement et votre itinéraire prévu à partir des serveurs de la &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; du gouvernement des États-Unis.</translation>
     </message>
@@ -2501,19 +2506,16 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 &lt;p&gt;Nous faisons notre possible pour éviter d&apos;imposer une limite sur le nombre de cartes. Merci d&apos;être compréhensifs et de nous y aider.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="234"/>
         <source>Our aviation maps will now receive daily updates, provided that new data is available.</source>
-        <translation>Nos cartes d&apos;aviation recevront désormais des mises à jour quotidiennes, à condition que de nouvelles données soient disponibles.</translation>
+        <translation type="vanished">Nos cartes d&apos;aviation recevront désormais des mises à jour quotidiennes, à condition que de nouvelles données soient disponibles.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="235"/>
         <source>The app will now show NOTAMs relevant to your flight.</source>
-        <translation>L&apos;application affichera désormais les NOTAM pertinents pour votre vol.</translation>
+        <translation type="vanished">L&apos;application affichera désormais les NOTAM pertinents pour votre vol.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="236"/>
         <source>Luca Riva has kindly translated this app to Spanish.</source>
-        <translation>Luca Riva a gentiment traduit cette application en espagnol.</translation>
+        <translation type="vanished">Luca Riva a gentiment traduit cette application en espagnol.</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
@@ -2534,9 +2536,8 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="233"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Nous avons mis à jour la base technologique sous-jacente à cette application. Veuillez signaler tout problème!&lt;p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Nous avons mis à jour la base technologique sous-jacente à cette application. Veuillez signaler tout problème!&lt;p&gt;</translation>
     </message>
     <message>
         <source>&lt;p&gt;If your device runs Android 5 or earlier, then &lt;strong&gt;this is the last update of Enroute Flight Navigation that your device will receive&lt;/strong&gt; and we would like to urge you to move to a newer system. Support for Android 5 has long ended and security updates are no longer available. A good refurbished device costs less than one hour flight time in a typical SEP aircraft!&lt;/p&gt;</source>

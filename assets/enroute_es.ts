@@ -2330,6 +2330,11 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="233"/>
+        <source>This app is now able to speak! Use the &apos;Settings&apos; page to enable or disable voice notifications by category.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The app downloads NOTAM for your locaction and your intended route from servers of the &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; of the United States government.</source>
         <translation type="vanished">La aplicación descarga datos NOTAM para su ubicación y su ruta deseada desde los servidores de &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation WeatheCenter&lt;/a&gt;, del gobierno de los Estados Unidos.</translation>
     </message>
@@ -2559,24 +2564,20 @@ con los datos de la cuenta bancaria.</translation>
 &lt;p&gt;Estamos haciendo todo lo posible para evitar un límite estricto en la cantidad de mapas en el futuro. Por favor ayúdenos con eso.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="233"/>
         <source>&lt;p&gt;We have updated the technology base underlying this app. Please report any issues!&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Hemos actualizado la base tecnológica subyacente a esta aplicación. Por favor, informe de cualquier problema!&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;p&gt;Hemos actualizado la base tecnológica subyacente a esta aplicación. Por favor, informe de cualquier problema!&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="234"/>
         <source>Our aviation maps will now receive daily updates, provided that new data is available.</source>
-        <translation>Nuestros mapas de aviación ahora recibirán actualizaciones diarias, siempre que haya nuevos datos disponibles.</translation>
+        <translation type="vanished">Nuestros mapas de aviación ahora recibirán actualizaciones diarias, siempre que haya nuevos datos disponibles.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="235"/>
         <source>The app will now show NOTAMs relevant to your flight.</source>
-        <translation>La aplicación ahora mostrará los NOTAM relevantes para su vuelo.</translation>
+        <translation type="vanished">La aplicación ahora mostrará los NOTAM relevantes para su vuelo.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="236"/>
         <source>Luca Riva has kindly translated this app to Spanish.</source>
-        <translation>Luca Riva ha tenido la amabilidad de traducir esta aplicación al español.</translation>
+        <translation type="vanished">Luca Riva ha tenido la amabilidad de traducir esta aplicación al español.</translation>
     </message>
 </context>
 <context>
