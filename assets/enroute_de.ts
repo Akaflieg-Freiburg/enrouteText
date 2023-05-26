@@ -2658,7 +2658,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 
 &lt;p&gt;The app has been ported to iOS by Simon Schneider. Simon is currently student pilot (PPL) and member of the Akaflieg Freiburg flight club, just like Stefan.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;iOS Version&lt;/h3&gt;
+
+&lt;p&gt;Die App wurde von Simon Schneider nach iOS portiert. Simon ist zzt. in der PPL-Ausbildung und wie Stefan Mitglied des Luftsportvereins Akaflieg Freiburg.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="75"/>
