@@ -9230,6 +9230,11 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Was ist neu ...?</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/main.qml" line="854"/>
+        <source>Error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>What&apos;s new …?</source>
         <translation type="vanished">Was ist neu …?</translation>
     </message>

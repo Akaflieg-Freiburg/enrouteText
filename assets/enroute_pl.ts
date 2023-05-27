@@ -9247,6 +9247,11 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Co nowego...?</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/main.qml" line="854"/>
+        <source>Error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>What&apos;s new …?</source>
         <translation type="vanished">Co nowego ...?</translation>
     </message>

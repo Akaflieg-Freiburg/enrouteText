@@ -8340,6 +8340,11 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Affichage de tous les espaces aériens.</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/main.qml" line="854"/>
+        <source>Error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Starting map update</source>
         <translation type="vanished">Mise à jour des cartes</translation>
     </message>

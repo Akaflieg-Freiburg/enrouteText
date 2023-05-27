@@ -8223,6 +8223,11 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Ahora mostrando todos los espacios aéreos.</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/main.qml" line="854"/>
+        <source>Error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Starting map update</source>
         <translation type="vanished">Iniciando actualización de mapas</translation>
     </message>

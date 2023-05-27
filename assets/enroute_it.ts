@@ -9243,6 +9243,11 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Cosa c&apos;è di nuovo...?</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/main.qml" line="854"/>
+        <source>Error!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>What&apos;s new …?</source>
         <translation type="vanished">Cosa c&apos;è di nuovo...?</translation>
     </message>
