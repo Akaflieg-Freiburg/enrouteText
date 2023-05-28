@@ -8,12 +8,6 @@ Installation on Android devices
   **Enroute Flight Navigation** is available as an Android App in the `Google
   Play Store
   <https://play.google.com/store/apps/details?id=de.akaflieg_freiburg.enroute>`_.
-  
-  An unofficial version of the app is also available at `F-Droid
-  <https://f-droid.org/de/packages/de.akaflieg_freiburg.enroute/>`_.  While the
-  author of **Enroute Flight Navigation** endorses publication at F-Droid, he
-  has not tested this unofficial app for quality. The app version on F-Droid
-  might be outdated.
 
 
 Installation on Linux desktop machines
