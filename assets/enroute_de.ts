@@ -9232,7 +9232,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="854"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler!</translation>
     </message>
     <message>
         <source>What&apos;s new …?</source>
