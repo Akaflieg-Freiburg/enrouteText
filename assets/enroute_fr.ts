@@ -1232,7 +1232,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="520"/>
         <source>Update</source>
-        <translation>Mettre à jour</translation>
+        <translation>Mise à jour</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="536"/>
@@ -2270,17 +2270,17 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="60"/>
         <source>Authors</source>
-        <translation type="unfinished">Auteurs</translation>
+        <translation>Auteurs</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="61"/>
         <source>The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;application &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; a été écrite par Stefan Kebekus, passionné de vol depuis 1986 et membre du club de vol Akaflieg Freiburg. Stefan pilote des planeurs et des avions à moteur.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="62"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation>Addresse</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="70"/>
@@ -2289,7 +2289,10 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 
 &lt;p&gt;The app has been ported to iOS by Simon Schneider. Simon is currently student pilot (PPL) and member of the Akaflieg Freiburg flight club, just like Stefan.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;Version iOS&lt;/h3&gt;
+
+&lt;p&gt;L&apos;application a été portée sur iOS par Simon Schneider. Simon est actuellement élève-pilote (PPL) et membre du club de vol Akaflieg Freiburg, tout comme Stefan.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="79"/>
@@ -2453,12 +2456,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="211"/>
         <source>The app downloads NOTAM for your location and your intended route from servers of the &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; of the United States government.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;application télécharge le NOTAM de votre emplacement et de votre itinéraire prévu à partir des serveurs de la &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; du gouvernement des États-Unis.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="240"/>
         <source>This app is now able to speak! Use the &apos;Settings&apos; page to enable or disable voice notifications by category.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette application est maintenant capable de parler ! Utilisez la page &quot;Paramètres&quot; pour activer ou désactiver les notifications vocales par catégorie.</translation>
     </message>
     <message>
         <source>The app downloads NOTAM for your locaction and your intended route from servers of the &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; of the United States government.</source>
@@ -2957,7 +2960,7 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
     <message>
         <location filename="../../../src/notification/Notification.h" line="299"/>
         <source>Dismiss</source>
-        <translation type="unfinished">Ignorer</translation>
+        <translation>Rejeter</translation>
     </message>
 </context>
 <context>
@@ -2965,42 +2968,42 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="109"/>
         <source>Test notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Notification de test</translation>
     </message>
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="117"/>
         <source>This is a test of the speech engine.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il s&apos;agit d&apos;un test du moteur vocal.</translation>
     </message>
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="262"/>
         <source>Info.</source>
-        <translation type="unfinished"></translation>
+        <translation>Info</translation>
     </message>
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="266"/>
         <source>Warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissement</translation>
     </message>
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="269"/>
         <source>Alert!</source>
-        <translation type="unfinished"></translation>
+        <translation>Alerte</translation>
     </message>
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="302"/>
         <source>Downloading map and data…</source>
-        <translation type="unfinished">Téléchargement des cartes et des données...</translation>
+        <translation>Téléchargement des cartes et des données...</translation>
     </message>
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="346"/>
         <source>Traffic data receiver problem</source>
-        <translation type="unfinished">Problème du récepteur de données de traffic</translation>
+        <translation>Problème du récepteur de données de traffic</translation>
     </message>
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="363"/>
         <source>Traffic data receiver self test error</source>
-        <translation type="unfinished">Erreur de l&apos;auto-test du récepteur de données de traffic</translation>
+        <translation>Erreur de l&apos;auto-test du récepteur de données de traffic</translation>
     </message>
 </context>
 <context>
@@ -3008,22 +3011,22 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
     <message>
         <location filename="../../../src/notification/Notification_DataUpdateAvailable.cpp" line="32"/>
         <source>Map and data updates available</source>
-        <translation type="unfinished">Mises à jour de cartes et données disponibles</translation>
+        <translation>Mises à jour de cartes et données disponibles</translation>
     </message>
     <message>
         <location filename="../../../src/notification/Notification_DataUpdateAvailable.cpp" line="34"/>
         <source>Update</source>
-        <translation type="unfinished">Mettre à jour</translation>
+        <translation>Mise à jour</translation>
     </message>
     <message>
         <location filename="../../../src/notification/Notification_DataUpdateAvailable.cpp" line="35"/>
         <source>Dismiss</source>
-        <translation type="unfinished">Ignorer</translation>
+        <translation>Ignorer</translation>
     </message>
     <message>
         <location filename="../../../src/notification/Notification_DataUpdateAvailable.cpp" line="79"/>
         <source>Estimated download size: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Taille de téléchargement estimée&#xa0;: %1</translation>
     </message>
 </context>
 <context>
@@ -3544,22 +3547,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="294"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="692"/>
         <source>Voice Notifications</source>
-        <translation type="unfinished"></translation>
+        <translation>Notifications vocales</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="295"/>
         <source>Pilots should not be looking at their mobile devices for extended periods of time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les pilotes ne doivent pas regarder leurs appareils mobiles pendant de longues périodes.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="296"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is therefore able to read notification texts in addition to showing them on the screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est donc capable de lire les textes de notification en plus de les afficher à l&apos;écran.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="297"/>
         <source>Since we expect that not everybody likes this feature, his button allows switching voice notification on and off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comme nous nous attendons à ce que tout le monde n&apos;aime pas cette fonctionnalité, son bouton permet d&apos;activer et de désactiver la notification vocale.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="315"/>
@@ -3589,37 +3592,37 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="712"/>
         <source>Choose the category of voice notifications that you would like to hear.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez la catégorie de notifications vocales que vous souhaitez entendre.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="719"/>
         <source>Voice Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Essai vocal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="728"/>
         <source>Information • Generic</source>
-        <translation type="unfinished"></translation>
+        <translation>Informations • Générique</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="733"/>
         <source>Information • Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Informations • Navigation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="738"/>
         <source>Warning • Generic</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissement • Générique</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="743"/>
         <source>Warning • Navigation</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissement • Navigation</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="748"/>
         <source>Alert</source>
-        <translation type="unfinished"></translation>
+        <translation>Alerte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="128"/>
@@ -8342,7 +8345,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="854"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur!</translation>
     </message>
     <message>
         <source>Starting map update</source>
