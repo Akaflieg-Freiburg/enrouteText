@@ -4341,9 +4341,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è quindi capace di leggere notifiche di testo oltre che mostrarle a schermo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="297"/>
         <source>Since we expect that not everybody likes this feature, his button allows switching voice notification on and off.</source>
-        <translation>Visto che ci aspettiamo che non a tutti piace questa funzione, il suo pulsante permette di attivare o disattivare le notifiche vocali.</translation>
+        <translation type="vanished">Visto che ci aspettiamo che non a tutti piace questa funzione, il suo pulsante permette di attivare o disattivare le notifiche vocali.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="345"/>
@@ -4473,6 +4472,11 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="252"/>
         <source>Use this option to adjust the font size for optimal readability.</source>
         <translation>Usa questa opzione per sistemare la dimensione dei caratteri per una leggibilità ottimale.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="297"/>
+        <source>Since we expect that not everybody likes this feature, this button allows switching voice notification on and off.</source>
+        <translation>Visto che ci aspettiamo che non a tutti piace questa funzione, il suo pulsante permette di attivare o disattivare le notifiche vocali.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="476"/>

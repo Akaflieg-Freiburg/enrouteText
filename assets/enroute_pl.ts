@@ -4376,9 +4376,8 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; w takim przypadku umożiwia odczytanie powiadomień tekstowych dodatkowo do pokazywania ich na ekranie.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="297"/>
         <source>Since we expect that not everybody likes this feature, his button allows switching voice notification on and off.</source>
-        <translation>Ponieważ spodziewamy się, że nie wszystkim ta funkcja przypadnie do gustu, ten przycisk umożliwia włączanie i wyłączanie powiadomień głosowych.</translation>
+        <translation type="vanished">Ponieważ spodziewamy się, że nie wszystkim ta funkcja przypadnie do gustu, ten przycisk umożliwia włączanie i wyłączanie powiadomień głosowych.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="345"/>
@@ -4614,6 +4613,11 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="252"/>
         <source>Use this option to adjust the font size for optimal readability.</source>
         <translation>Użyj tej opcji aby dostosować rozmiar czcionki dla optymalnej czytelności.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="297"/>
+        <source>Since we expect that not everybody likes this feature, this button allows switching voice notification on and off.</source>
+        <translation>Ponieważ spodziewamy się, że nie wszystkim ta funkcja przypadnie do gustu, ten przycisk umożliwia włączanie i wyłączanie powiadomień głosowych.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="381"/>

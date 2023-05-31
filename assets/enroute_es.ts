@@ -3463,6 +3463,11 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Utilice esta opción para ajustar el tamaño del texto para una legibilidad óptima.</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="297"/>
+        <source>Since we expect that not everybody likes this feature, this button allows switching voice notification on and off.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="305"/>
         <source>System</source>
         <translation>Sistema</translation>
@@ -3537,11 +3542,6 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="296"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is therefore able to read notification texts in addition to showing them on the screen.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="297"/>
-        <source>Since we expect that not everybody likes this feature, his button allows switching voice notification on and off.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

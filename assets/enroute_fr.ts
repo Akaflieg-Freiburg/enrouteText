@@ -3560,9 +3560,8 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est donc capable de lire les textes de notification en plus de les afficher à l&apos;écran.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="297"/>
         <source>Since we expect that not everybody likes this feature, his button allows switching voice notification on and off.</source>
-        <translation>Comme nous nous attendons à ce que tout le monde n&apos;aime pas cette fonctionnalité, son bouton permet d&apos;activer et de désactiver la notification vocale.</translation>
+        <translation type="vanished">Comme nous nous attendons à ce que tout le monde n&apos;aime pas cette fonctionnalité, son bouton permet d&apos;activer et de désactiver la notification vocale.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="315"/>
@@ -3640,6 +3639,11 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="389"/>
         <source>Help</source>
         <translation>Aide</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="297"/>
+        <source>Since we expect that not everybody likes this feature, this button allows switching voice notification on and off.</source>
+        <translation>Comme nous nous attendons à ce que tout le monde n&apos;aime pas cette fonctionnalité, son bouton permet d&apos;activer et de désactiver la notification vocale.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="398"/>

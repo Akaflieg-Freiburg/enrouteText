@@ -4434,9 +4434,8 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ist kann daher Benachrichtigungen zusätzlich zur Bildschirmanzeige auch vorlesen.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="297"/>
         <source>Since we expect that not everybody likes this feature, his button allows switching voice notification on and off.</source>
-        <translation>Da vermutlich nicht jeder diese Funktion mag, kann man Sprachnachrichten mit diesem Knopf ein- und ausschalten.</translation>
+        <translation type="vanished">Da vermutlich nicht jeder diese Funktion mag, kann man Sprachnachrichten mit diesem Knopf ein- und ausschalten.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="315"/>
@@ -4603,6 +4602,11 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="469"/>
         <source>This setting applies to the altimeter in the Navigation Bar, at the bottom of the moving map screen.</source>
         <translation>Diese Einstellung wirkt auf die Höhenanzeige der Navigationsleiste unten auf der Moving Map.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="297"/>
+        <source>Since we expect that not everybody likes this feature, this button allows switching voice notification on and off.</source>
+        <translation>Da vermutlich nicht jeder diese Funktion mag, kann man Sprachnachrichten mit diesem Knopf ein- und ausschalten.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="476"/>
