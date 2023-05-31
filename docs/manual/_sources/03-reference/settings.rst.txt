@@ -98,6 +98,15 @@ flights by night, whose eyes have adapted to the darkness. Compared with other
 apps, you will find that the display is quite dark indeed.
 
 
+Voice Notifications
+^^^^^^^^^^^^^^^^^^^
+
+Pilots should not be looking at their mobile devices for extended periods of
+time. Enroute Flight Navigation is therefore able to read notification texts in
+addition to showing them on the screen. Since we expect that not everybody likes
+this feature, this setting item allows switching voice notification on and off.
+
+
 System
 ------
 
