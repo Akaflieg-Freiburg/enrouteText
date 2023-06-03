@@ -4476,12 +4476,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="738"/>
         <source>Speech engine not yet initialized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprachgenerator noch nicht initialisiert.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="742"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="755"/>
