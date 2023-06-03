@@ -4454,12 +4454,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="738"/>
         <source>Speech engine not yet initialized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Silnik wymowy jeszcze nie zainicjalizowany.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="742"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="755"/>
@@ -9263,7 +9263,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="854"/>
         <source>Error!</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd!</translation>
     </message>
     <message>
         <source>What&apos;s new …?</source>
