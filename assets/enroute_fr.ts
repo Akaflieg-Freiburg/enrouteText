@@ -3600,12 +3600,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="738"/>
         <source>Speech engine not yet initialized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Moteur vocal pas encore installé.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="742"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="755"/>
@@ -8358,17 +8358,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="822"/>
         <source>You have chosen to ignore network security errors in the future.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez choisi d&apos;ignorer les prochaines erreurs de sécurité réseau.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="823"/>
         <source>This poses a security risk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Risque de sécurité.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="824"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Allez sur la page &apos;Réglages&apos; si vous souhaitez restaurer les paramètres originaux et sécurisé de l&apos;application.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="854"/>
