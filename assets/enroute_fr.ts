@@ -2966,42 +2966,41 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
 <context>
     <name>Notifications::NotificationManager</name>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="109"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="106"/>
         <source>Test notification</source>
         <translation>Notification de test</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="117"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="114"/>
         <source>This is a test of the speech engine.</source>
         <translation>Il s&apos;agit d&apos;un test du moteur vocal.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="265"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="262"/>
         <source>Info.</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="269"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="266"/>
         <source>Warning.</source>
         <translation>Avertissement</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="272"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="269"/>
         <source>Alert!</source>
         <translation>Alerte</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="305"/>
         <source>Downloading map and data…</source>
-        <translation>Téléchargement des cartes et des données...</translation>
+        <translation type="vanished">Téléchargement des cartes et des données...</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="349"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="330"/>
         <source>Traffic data receiver problem</source>
         <translation>Problème du récepteur de données de traffic</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="366"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="347"/>
         <source>Traffic data receiver self test error</source>
         <translation>Erreur de l&apos;auto-test du récepteur de données de traffic</translation>
     </message>
@@ -8362,8 +8361,9 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Erreur!</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/main.qml" line="868"/>
         <source>Starting map update</source>
-        <translation type="vanished">Mise à jour des cartes</translation>
+        <translation>Mise à jour des cartes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="809"/>

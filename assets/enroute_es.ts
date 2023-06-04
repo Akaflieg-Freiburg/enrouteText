@@ -2855,42 +2855,41 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
 <context>
     <name>Notifications::NotificationManager</name>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="109"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="106"/>
         <source>Test notification</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="117"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="114"/>
         <source>This is a test of the speech engine.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="265"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="262"/>
         <source>Info.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="269"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="266"/>
         <source>Warning.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="272"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="269"/>
         <source>Alert!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="305"/>
         <source>Downloading map and data…</source>
-        <translation type="unfinished">Descargando mapas y datos</translation>
+        <translation type="obsolete">Descargando mapas y datos</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="349"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="330"/>
         <source>Traffic data receiver problem</source>
         <translation type="unfinished">Problema del receptor de datos de tráfico</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="366"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="347"/>
         <source>Traffic data receiver self test error</source>
         <translation type="unfinished">Error de autocomprobación del receptor de datos de tráfico</translation>
     </message>
@@ -8238,8 +8237,9 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/qml/main.qml" line="868"/>
         <source>Starting map update</source>
-        <translation type="vanished">Iniciando actualización de mapas</translation>
+        <translation>Iniciando actualización de mapas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="809"/>

@@ -3643,42 +3643,41 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
 <context>
     <name>Notifications::NotificationManager</name>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="109"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="106"/>
         <source>Test notification</source>
         <translation>Testowe powiadomienie</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="117"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="114"/>
         <source>This is a test of the speech engine.</source>
         <translation>To jest test silnika mowy.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="265"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="262"/>
         <source>Info.</source>
         <translation>Informacja.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="269"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="266"/>
         <source>Warning.</source>
         <translation>Ostrzeżenie.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="272"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="269"/>
         <source>Alert!</source>
         <translation>Alarm!</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="305"/>
         <source>Downloading map and data…</source>
-        <translation>Pobieranie map i danych...</translation>
+        <translation type="vanished">Pobieranie map i danych...</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="349"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="330"/>
         <source>Traffic data receiver problem</source>
         <translation>Problem z odbiornikiem danych ruchu lotniczego</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="366"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="347"/>
         <source>Traffic data receiver self test error</source>
         <translation>Błąd autotestu odbiornika ruchu lotniczego</translation>
     </message>
@@ -9280,8 +9279,9 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Obecnie pokazywanie wszystkich przestrzeni.</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/main.qml" line="868"/>
         <source>Starting map update</source>
-        <translation type="vanished">Rozpoczęcie aktualizacji mapy</translation>
+        <translation>Rozpoczęcie aktualizacji mapy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="809"/>
