@@ -9243,6 +9243,21 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Was ist neu ...?</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/main.qml" line="822"/>
+        <source>You have chosen to ignore network security errors in the future.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="823"/>
+        <source>This poses a security risk.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="824"/>
+        <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/main.qml" line="854"/>
         <source>Error!</source>
         <translation>Fehler!</translation>
