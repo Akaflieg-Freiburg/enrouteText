@@ -4433,12 +4433,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="738"/>
         <source>Speech engine not yet initialized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Motore vocale non ancora inzializzato.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="742"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="755"/>
@@ -9260,17 +9260,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="822"/>
         <source>You have chosen to ignore network security errors in the future.</source>
-        <translation type="unfinished"></translation>
+        <translation>Hai scelto di ignorare in futuro gli errori di sicurezza di rete.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="823"/>
         <source>This poses a security risk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo crea un rischio di sicurezza.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="824"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai nelle &apos;Impostazioni&apos; se vuoi ripristinare il comportamento sicuro e originale della app.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="854"/>
