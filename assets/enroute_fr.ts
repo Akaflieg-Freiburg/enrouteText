@@ -1396,6 +1396,16 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Veuillez accorder l&apos;autorisation suivante lorsque vous y êtes invité.</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="158"/>
+        <source>Based on your location, we reckon that that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="160"/>
+        <source>Based on your location, we reckon that that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Please grant the following permissiona when prompted.</source>
         <translation type="vanished">Veuillez accorder l&apos;autorisation suivante lorsque vous y êtes invité.</translation>
     </message>
@@ -1415,14 +1425,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Malheureusement, nous ne proposons pas de cartes pour votre emplacement actuel (%1).</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="158"/>
         <source>Based on your location, we reckon that that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Accept&apos; to close this dialog.</source>
-        <translation>En fonction de votre emplacement, nous estimons que la carte suivante pourrait être pertinente pour vous. Cliquez sur la carte pour lancer le téléchargement, puis cliquez sur &apos;Accepter&apos; pour fermer cette boîte de dialogue.</translation>
+        <translation type="vanished">En fonction de votre emplacement, nous estimons que la carte suivante pourrait être pertinente pour vous. Cliquez sur la carte pour lancer le téléchargement, puis cliquez sur &apos;Accepter&apos; pour fermer cette boîte de dialogue.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="160"/>
         <source>Based on your location, we reckon that that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Accept&apos; to close this dialog.</source>
-        <translation>En fonction de votre emplacement, nous estimons que les cartes suivantes pourraient être pertinentes pour vous. Cliquez sur n&apos;importe quelle carte pour lancer le téléchargement, puis cliquez sur &apos;Accepter&apos; pour fermer cette boîte de dialogue.</translation>
+        <translation type="vanished">En fonction de votre emplacement, nous estimons que les cartes suivantes pourraient être pertinentes pour vous. Cliquez sur n&apos;importe quelle carte pour lancer le téléchargement, puis cliquez sur &apos;Accepter&apos; pour fermer cette boîte de dialogue.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="164"/>
@@ -1440,7 +1448,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Pour la liste complète des cartes, fermez cette boîte de dialogue, ouvrez le menu principal et allez dans &apos;Bibliothèque/Cartes et données&apos;. Il est également possible d&apos;importer des cartes raster dans cette application. Consultez le manuel pour plus de détails.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="263"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="267"/>
+        <source>Done</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="268"/>
         <source>Accept</source>
         <translation>Accepter</translation>
     </message>
@@ -2703,41 +2716,60 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="492"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the menu button in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Aucune carte aéronautique installée.&lt;/strong&gt;&lt;/p&gt;
+        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Aucune carte aéronautique installée.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Pour installer une carte, ouvrez le menu en utilisant le bouton situé dans le coin supérieur gauche.
 Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ouvrir le menu de gestion des cartes.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="526"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="493"/>
+        <source>There is no aviation map installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="495"/>
+        <source>Please wait for the download to complete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="496"/>
+        <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="497"/>
+        <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="531"/>
         <source>Airspaces up to %1</source>
         <translation>Espaces aériens jusqu&apos;à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="559"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="564"/>
         <source>Map Mode: Track Up</source>
         <translation>Mode : Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="562"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="567"/>
         <source>Map Mode: North Up</source>
         <translation>Mode : Nord</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="582"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="587"/>
         <source>Map Mode: Autopan</source>
         <translation>Mode : Auto</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="689"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="694"/>
         <source>Map Data Copyright Info</source>
         <translation>Info copyright sur les données de carte</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="694"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="699"/>
         <source>Map Data Copyright Information</source>
         <translation>Info copyright sur les données de carte</translation>
     </message>

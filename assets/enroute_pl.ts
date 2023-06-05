@@ -1719,6 +1719,16 @@ z danymi konta bankowego.
         <translation>Po wyświetleniu monitu należy udzielić następujących uprawnień.</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="158"/>
+        <source>Based on your location, we reckon that that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="160"/>
+        <source>Based on your location, we reckon that that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Please grant the following permissiona when prompted.</source>
         <translation type="vanished">Po wyświetleniu monitu należy udzielić następujących uprawnień.</translation>
     </message>
@@ -1738,14 +1748,12 @@ z danymi konta bankowego.
         <translation>Niestety, nie oferujemy map dla Twojej obecnej lokalizacji (%1).</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="158"/>
         <source>Based on your location, we reckon that that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Accept&apos; to close this dialog.</source>
-        <translation>Na podstawie Twojej lokalizacji uważamy, że poniższa mapa może być dla Ciebie istotna. Kliknij na mapę, aby rozpocząć pobieranie, a następnie kliknij na &apos;Akceptuj&apos;, aby zamknąć to okno dialogowe.</translation>
+        <translation type="vanished">Na podstawie Twojej lokalizacji uważamy, że poniższa mapa może być dla Ciebie istotna. Kliknij na mapę, aby rozpocząć pobieranie, a następnie kliknij na &apos;Akceptuj&apos;, aby zamknąć to okno dialogowe.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="160"/>
         <source>Based on your location, we reckon that that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Accept&apos; to close this dialog.</source>
-        <translation>W oparciu o Twoją lokalizację, uważamy, że następujące mapy mogą być dla Ciebie istotne. Kliknij na dowolną mapę, aby rozpocząć pobieranie, a następnie kliknij na &apos;Akceptuj&apos;, aby zamknąć to okno dialogowe.</translation>
+        <translation type="vanished">W oparciu o Twoją lokalizację, uważamy, że następujące mapy mogą być dla Ciebie istotne. Kliknij na dowolną mapę, aby rozpocząć pobieranie, a następnie kliknij na &apos;Akceptuj&apos;, aby zamknąć to okno dialogowe.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="164"/>
@@ -1763,7 +1771,12 @@ z danymi konta bankowego.
         <translation>Aby uzyskać pełną listę map, zamknij to okno dialogowe, otwórz menu główne i przejdź do &apos;Biblioteka/Mapy i dane&apos;. Możliwe jest również importowanie map rastrowych do tej aplikacji. Sprawdź instrukcję obsługi, aby uzyskać szczegóły.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="263"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="267"/>
+        <source>Done</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="268"/>
         <source>Accept</source>
         <translation>Zaakceptuj</translation>
     </message>
@@ -3247,41 +3260,60 @@ z danymi konta bankowego.
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="492"/>
         <source>&lt;p&gt;&lt;strong&gt;There is no aviation map installed.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In order to install a map, please open the menu using the menu button in the upper left corner of this screen.
 Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map management page.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Nie ma zainstalowanych map lotniczych.&lt;/strong&gt;&lt;/p&gt;
+        <translation type="vanished">&lt;p&gt;&lt;strong&gt;Nie ma zainstalowanych map lotniczych.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Aby zainstalować mapę, proszę otworzyć menu wykorzystując przycik w górnym lewym rogu ekranu.
 Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stronę z zarządzaniem mapami.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="526"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="493"/>
+        <source>There is no aviation map installed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="495"/>
+        <source>Please wait for the download to complete.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="496"/>
+        <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="497"/>
+        <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="531"/>
         <source>Airspaces up to %1</source>
         <translation>Przestrzenie powietrzne do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="559"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="564"/>
         <source>Map Mode: Track Up</source>
         <translation>Tryb mapy: trasa u góry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="562"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="567"/>
         <source>Map Mode: North Up</source>
         <translation>Tryb mapy: Północ u góry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="582"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="587"/>
         <source>Map Mode: Autopan</source>
         <translation>Tryb mapy: Automatycznie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="689"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="694"/>
         <source>Map Data Copyright Info</source>
         <translation>Dane mapy - informacje o prawach autorskich</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="694"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="699"/>
         <source>Map Data Copyright Information</source>
         <translation>Dane mapy - informacje o prawach autorskich</translation>
     </message>
