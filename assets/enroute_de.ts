@@ -1706,12 +1706,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="158"/>
         <source>Based on your location, we reckon that that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihrem Standort nach müsste die folgende Karte für Sie relevant sein. Zum Herunterladen klicken Sie darauf und dann auf &apos;Fertig&apos;, um diesen Dialog zu schließen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="160"/>
         <source>Based on your location, we reckon that that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ihrem Standort nach müssten die folgenden Karten für Sie relevant sein. Zum Herunterladen klicken Sie auf jede Karte und dann auf &apos;Fertig&apos;, um diesen Dialog zu schließen.</translation>
     </message>
     <message>
         <source>Please grant the following permissiona when prompted.</source>
@@ -1758,7 +1758,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="267"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Fertig</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="268"/>
@@ -3245,22 +3245,22 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="493"/>
         <source>There is no aviation map installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es ist keine Luftfahrtkarte installiert.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="495"/>
         <source>Please wait for the download to complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte warten Sie den Abschluss des Downloads ab.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="496"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine Karte installieren Sie über das Menü in der Ecke links oben.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="497"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Öffnen Sie die Kartenverwaltung über &lt;a href=&apos;xx&apos;&gt;Bibliothek/Karten und Daten&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="531"/>
