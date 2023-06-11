@@ -1398,12 +1398,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="158"/>
         <source>Based on your location, we reckon that that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Au vu de votre position, les cartes suivantes devraient vous être utiles. Cliquez sur la carte pour démarrer la mise à jour, puis appuyez sur &apos;Terminé&apos; pour fermer cette boite de dialogue.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="160"/>
         <source>Based on your location, we reckon that that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Au vu de votre position, les cartes suivantes devraient vous être utiles. Cliquez sur la carte pour démarrer la mise à jour, puis appuyez sur &apos;Terminé&apos; pour fermer cette boite de dialogue.</translation>
     </message>
     <message>
         <source>Please grant the following permissiona when prompted.</source>
@@ -1450,7 +1450,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="267"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Terminé</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="268"/>
@@ -2726,22 +2726,22 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="493"/>
         <source>There is no aviation map installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune carte de données aéronautiques installée.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="495"/>
         <source>Please wait for the download to complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Merci d&apos;attendre que le téléchargement soit terminé.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="496"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour installer une carte, ouvrez le menu via le boutton dans le coin supérieur gauche.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="497"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choisissez &lt;a href=&apos;xx&apos;&gt;Bibliothèque/Cartes et Données&lt;/a&gt; Pour ouvrir la page de gestion des cartes.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="530"/>
