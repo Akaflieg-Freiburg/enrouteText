@@ -1721,12 +1721,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="158"/>
         <source>Based on your location, we reckon that that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na podstawie Twojej lokalizacji uważamy, że poniższa mapa może być dla Ciebie odpowiednia. Kliknij mapę, aby rozpocząć pobieranie, a następnie kliknij &apos;Gotowe&apos;, aby zamknąć to okno dialogowe.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="160"/>
         <source>Based on your location, we reckon that that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na podstawie Twojej lokalizacji uważamy, że poniższe mapy mogą być dla Ciebie odpowiednie. Kliknij dowolną mapę, aby rozpocząć pobieranie, a następnie kliknij &apos;Gotowe&apos;, aby zamknąć to okno dialogowe.</translation>
     </message>
     <message>
         <source>Please grant the following permissiona when prompted.</source>
@@ -1773,7 +1773,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="267"/>
         <source>Done</source>
-        <translation type="unfinished"></translation>
+        <translation>Ukończone</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="268"/>
@@ -3270,22 +3270,22 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="493"/>
         <source>There is no aviation map installed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak zainstalowanych map lotnicznych.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="495"/>
         <source>Please wait for the download to complete.</source>
-        <translation type="unfinished"></translation>
+        <translation>Proszę zaczekaj na zakończenie pobierania.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="496"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby zainstalować mapę, otwórz menu za pomocą przycisku menu w lewym górnym rogu tego ekranu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="497"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; aby otworzyć stronę zarządzania mapami.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="530"/>
@@ -9294,17 +9294,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="822"/>
         <source>You have chosen to ignore network security errors in the future.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybrałeś ignorowanie błędów bezpieczeństwa sieci w przyszłości.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="823"/>
         <source>This poses a security risk.</source>
-        <translation type="unfinished"></translation>
+        <translation>Stanowi to zagrożenie dla bezpieczeństwa.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="824"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przejdź do strony &apos;Ustawienia&apos;, jeśli chcesz przywrócić oryginalne, bezpieczne zachowanie tej aplikacji.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="854"/>
