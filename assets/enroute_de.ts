@@ -2850,32 +2850,61 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="189"/>
+        <location filename="../../../src/Librarian.cpp" line="188"/>
         <source>Privacy Policies</source>
         <translation>Datenschutz</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="189"/>
+        <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data not transmitted to us and is not processed by us.</source>
+        <translation>Wir verarbeiten keine personenbezogenen Daten von Ihnen. Daten, die Sie in dieser App eingeben (wie zum Beispiel Routen, Wegpunkte und Luftfahrzeugdaten), werden nur lokal auf dem Gerät abgelegt. Die Daten werden nicht an uns übermittelt und nicht von uns verarbeitet.</translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="192"/>
+        <source>However, to ensure the functionality, the app must transmit following data to servers on the internet.</source>
+        <translation>Um die Funktionalität der App gewährleisten zu können müssen allerdings folgende Daten an Server im Internet übermittelt werden.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="195"/>
+        <source>The app regularly checks for updates and allows downloading maps and data from a &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;server at the University of Freiburg&lt;/a&gt; to your device. In order to provide this functionality, your device&apos;s IP address must be transmitted to the server. Knowledge of the IP address is necessary for the server to respond. However, the server does not store any personal data about you in its log files. In particular, it does not store the IP address of your device in its log files. We can assure this because the server is under our control.</source>
+        <translation>Die App sucht regelmäßig nach Updates und bietet die Möglichkeit, Karten und Daten von einem &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;Server der Universität Freiburg&lt;/a&gt; auf Ihr Gerät herunterzuladen. Um diese Funktionalität anzubieten, muss die IP-Adresse ihres Geräts an den Server Übertragen werden. Der Server benötigt die IP-Adresse, um ihrem Gerät zu antworten. Der Server speichert aber keine personenbezogenen Daten von Ihnen in den log-Files. Dies gilt insbesondere für die IP-Adresse Ihres Geräts. Wir können dies zusichern, weil sich der Server unter unserer Kontrolle befindet.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="203"/>
+        <source>The app shows METARs and TAFs for airfields near your current location and near your currently planned route. It also shows METARs and TAFs for all waypoints that you open in the app. In order to provide this functionality, your current location, your currently planned route, waypoint coordinates, and your device&apos;s IP address must be transmitted to web services at the &lt;a href=&apos;https://www.aviationweather.gov&apos;&gt;Aviation Weather Center&lt;/a&gt;. Knowledge of the IP address is necessary for the web services to respond. The web services cannot read any other data from your device in the process. However, you must expect that your device&apos;s IP address will be stored together with the transmitted position data. The web services are operated by the US government and are beyond our control. Detailed information about these web services can be found at &lt;a href=&apos;https://www.aviationweather.gov/dataserver&apos;&gt;https://www.aviationweather.gov/dataserver&lt;/a&gt;.</source>
+        <translation>Die App zeigt Ihnen METARs und TAFs für Landeplätze nahe Ihres aktuellen Standorts und Ihrer aktuell geplante Route an. Die App zeigt zusätzlich METARs und TAFs für alle Wegpunkte an, die Sie in der App öffnen. Um diese Funktionalität anzubieten, muss die App Ihren aktuellen Standort, Ihre aktuell geplante Route, Wegpunktkoordinaten und die IP-Adresse Ihres Geräts an Webservices des &lt;a href=&apos;https://www.aviationweather.gov&apos;&gt;Aviation Weather Center&lt;/a&gt; übermitteln. Die Webservices benötigen die IP-Adresse, um ihrem Gerät zu antworten. Die Webservices können keine weiteren Daten Ihres Gerätes auslesen. Allerdings müssen Sie damit rechnen, dass die IP-Adresse Ihres Gerätes zusammen mit den übermittelten Positionsdaten gespeichert wird. Die Webservices werden von der US-Regierung betrieben und entziehen sich unserer Kontrolle. Detaillierte Informationen zu den Webservices finden Sie unter &lt;a href=&apos;https://www.aviationweather.gov/dataserver&apos;&gt;https://www.aviationweather.gov/dataserver&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="215"/>
+        <source>The app shows NOTAMs for places near your current location and near your currently planned route. It also shows NOTAMs for all waypoints that you open in the app. In order to provide this functionality, your current location, your currently planned route, waypoint coordinates, and your device&apos;s IP address must be transmitted to web services at the &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administration&lt;/a&gt;. Knowledge of the IP address is necessary for the web services to respond. The web services cannot read any other data from your device in the process. However, you must expect that the IP address of your device will be stored together with the transmitted position data. The web services are operated by the US government and are beyond our control. Detailed information about these web services can be found at &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</source>
+        <translation>Die App zeigt Ihnen NOTAMs für Orte nahe Ihres aktuellen Standorts und Ihrer aktuell geplante Route an. Die App zeigt zusätzlich NOTAMs für alle Wegpunkte an, die Sie in der App öffnen. Um diese Funktionalität anzubieten, muss die App Ihren aktuellen Standort, Ihre aktuell geplante Route, Wegpunktkoordinaten und die IP-Adresse Ihres Geräts an Webservices der &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administration&lt;/a&gt; übermitteln. Die Webservices benötigen die IP-Adresse, um ihrem Gerät zu antworten. Die Webservices können keine weiteren Daten Ihres Gerätes auslesen. Allerdings müssen Sie damit rechnen, dass die IP-Adresse Ihres Gerätes zusammen mit den übermittelten Positionsdaten gespeichert wird. Die Webservices werden von der US-Regierung betrieben und entziehen sich unserer Kontrolle. Detaillierte Informationen zu den Webservices finden Sie unter &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <source>The app shows METARs and TAFs for airfields near your current location and near your currently planned route. It also shows METARs and TAFs for waypoints that you open in the app.  In order to provide this functionality, your current location, your currently planned route, waypoint coordinates, and your device&apos;s IP address must be transmitted to web services at the &lt;a href=&apos;https://www.aviationweather.gov&apos;&gt;Aviation Weather Center&lt;/a&gt;. Knowledge of the IP address is necessary for the web services to respond. The web services cannot read any other data from your device in the process. However, you must expect that your device&apos;s IP address will be stored together with the transmitted position data. The web services are operated by the US government and are beyond our control. Detailed information about these web services can be found at https://www.aviationweather.gov/dataserver.</source>
+        <translation type="obsolete">Die App zeigt Ihnen METARs und TAFs für Landeplätze nahe Ihres aktuellen Standorts und Ihrer aktuell geplante Route an. Die App zeigt zusätzlich METARs und TAFs für Wegpunkte an, die Sie in der App öffnen. Um diese Funktionalität anzubieten, muss die App Ihren aktuellen Standort, Ihre aktuell geplante Route, Wegpunktkoordinaten und die IP-Adresse Ihres Geräts an Webservices des &lt;a href=&apos;https://www.aviationweather.gov&apos;&gt;Aviation Weather Center&lt;/a&gt; übermitteln. Die Webservices benötigen die IP-Adresse, um ihrem Gerät zu antworten. Die Webservices können keine weiteren Daten Ihres Gerätes auslesen. Allerdings müssen Sie damit rechnen, dass die IP-Adresse Ihres Gerätes zusammen mit den übermittelten Positionsdaten gespeichert wird. Die Webservices werden von der US-Regierung betrieben und entziehen sich unserer Kontrolle. Detaillierte Informationen zu den Webservices finden Sie unter https://www.aviationweather.gov/dataserver.</translation>
+    </message>
+    <message>
+        <source>The app shows NOTAMs for places near your current location and near your currently planned route. It also shows NOTAMs for waypoints that you open in the app. In order to provide this functionality, your current location, your currently planned route, waypoint coordinates, and your device&apos;s IP address must be transmitted to web services at the &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administration&lt;/a&gt;. Knowledge of the IP address is necessary for the web services to respond. The web services cannot read any other data from your device in the process. However, you must expect that the IP address of your device will be stored together with the transmitted position data. The web services are operated by the US government and are beyond our control. Detailed information about these web services can be found at https://api.faa.gov/s.</source>
+        <translation type="obsolete">Die App zeigt Ihnen NOTAMs für Orte nahe Ihres aktuellen Standorts und Ihrer aktuell geplante Route an. Die App zeigt zusätzlich NOTAMs für Wegpunkte an, die Sie in der App öffnen. Um diese Funktionalität anzubieten, muss die App Ihren aktuellen Standort, Ihre aktuell geplante Route, Wegpunktkoordinaten und die IP-Adresse Ihres Geräts an Webservices der &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administration&lt;/a&gt; übermitteln. Die Webservices benötigen die IP-Adresse, um ihrem Gerät zu antworten. Die Webservices können keine weiteren Daten Ihres Gerätes auslesen. Allerdings müssen Sie damit rechnen, dass die IP-Adresse Ihres Gerätes zusammen mit den übermittelten Positionsdaten gespeichert wird. Die Webservices werden von der US-Regierung betrieben und entziehen sich unserer Kontrolle. Detaillierte Informationen zu den Webservices finden Sie unter https://api.faa.gov/s.</translation>
+    </message>
+    <message>
         <source>This app does not send any data to us or other parties. We do not collect data and we do not track our users. However, this app accesses internet sites that may not be under our control and may keep access logs.</source>
-        <translation>Diese App übermittelt keine Daten an uns oder Dritte. Wir sammeln keine Daten und verfolgen unsere Benutzer nicht. Allerdings greift diese App auf Webseiten (ggf. außerhalb unseres Einflusses) zu, die evtl. Zugriffsloggs schreiben.</translation>
+        <translation type="vanished">Diese App übermittelt keine Daten an uns oder Dritte. Wir sammeln keine Daten und verfolgen unsere Benutzer nicht. Allerdings greift diese App auf Webseiten (ggf. außerhalb unseres Einflusses) zu, die evtl. Zugriffsloggs schreiben.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="199"/>
         <source>The app connects to &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;servers at the University of Freiburg&lt;/a&gt; to check for updates and to download maps and data.</source>
-        <translation>Die App verbindet sich mit &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;Servern der Universität Freiburg&lt;/a&gt; zum Check nach Updates und um Karten und Daten herunterzuladen.</translation>
+        <translation type="vanished">Die App verbindet sich mit &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;Servern der Universität Freiburg&lt;/a&gt; zum Check nach Updates und um Karten und Daten herunterzuladen.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="205"/>
         <source>The app downloads METAR and TAF data for your locaction and your intended route from the &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation Weather Center&lt;/a&gt;, a website of the United States government.</source>
-        <translation>Die App lädt METAR- und TAF-Daten für Ihren Standort und Ihre geplante Route beim &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation Weather Center&lt;/a&gt; herunter, einer Website der US-Regierung.</translation>
+        <translation type="vanished">Die App lädt METAR- und TAF-Daten für Ihren Standort und Ihre geplante Route beim &lt;a href=&apos;https://www.aviationweather.gov/&apos;&gt;Aviation Weather Center&lt;/a&gt; herunter, einer Website der US-Regierung.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="211"/>
         <source>The app downloads NOTAM for your location and your intended route from servers of the &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; of the United States government.</source>
-        <translation>Die App bezieht NOTAMs für Ihren Standort und Ihre geplante Route von Servern der &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; US-Regierung.</translation>
+        <translation type="vanished">Die App bezieht NOTAMs für Ihren Standort und Ihre geplante Route von Servern der &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; US-Regierung.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="240"/>
+        <location filename="../../../src/Librarian.cpp" line="249"/>
         <source>This app is now able to speak! Use the &apos;Settings&apos; page to enable or disable voice notifications by category.</source>
         <translation>Diese App kann jetzt spechen! Schalten Sie die Sprachnachrichten nach Kategorie in den Einstellungen ein und aus.</translation>
     </message>
@@ -2925,12 +2954,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Bitte erteilen Sie die Erlaubnis zum Zugriff auf den genauen Standort, wenn Sie dazu aufgefordert werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="218"/>
+        <location filename="../../../src/Librarian.cpp" line="228"/>
         <source>Responsible</source>
         <translation>Verantwortlich</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="225"/>
+        <location filename="../../../src/Librarian.cpp" line="234"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
