@@ -1,0 +1,12 @@
+METAR
+Enroute
+Ownship
+ownship
+autopan
+EDFE
+FLARM
+Autopan
+Midair
+callsign
+callsigns
+PowerFLARM

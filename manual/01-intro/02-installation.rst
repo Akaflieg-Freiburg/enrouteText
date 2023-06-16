@@ -11,8 +11,8 @@ Installation on Android devices
 
 Installation on iOS devices
   **Enroute Flight Navigation** has been ported to iOS and is available for
-  public beta testing. Download a public beta version of the app for iOS on `Apple TestFlight
-  <https://apps.apple.com/de/app/testflight/id899247664>`_.
+  public beta testing. Download a public beta version of the app for iOS on
+  `Apple TestFlight <https://apps.apple.com/de/app/testflight/id899247664>`_.
   
 Installation on Linux desktop machines
   **Enroute Flight Navigation** is available for free download at `flathub.org
