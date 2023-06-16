@@ -10,13 +10,9 @@ Installation on Android devices
   <https://play.google.com/store/apps/details?id=de.akaflieg_freiburg.enroute>`_.
 
 Installation on iOS devices
-  **Enroute Flight Navigation** has been ported to iOS and is currently
-  available for public beta testing. If you wish to join the test, install the
-  app `TestFlight <https://apps.apple.com/de/app/testflight/id899247664>`_ from
-  the app store. Once TestFlight is installed, you can install **Enroute Flight
-  Navigation** by visiting `this website
-  <https://testflight.apple.com/join/jqPSdGNX>`_ with the web browser on your
-  device. 
+  **Enroute Flight Navigation** has been ported to iOS and is available for
+  public beta testing. Download a public beta version of the app for iOS on
+  `Apple TestFlight <https://apps.apple.com/de/app/testflight/id899247664>`_.
   
 Installation on Linux desktop machines
   **Enroute Flight Navigation** is available for free download at `flathub.org
