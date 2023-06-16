@@ -218,12 +218,12 @@ The moving map display two kinds of traffic.
 =========================================== ========
 Symbol                                      Function
 =========================================== ========
-.. image:: traffic-noDirection-green.png    The traffic is not moving, or its movement is unknown.
-.. image:: traffic-noDirection-yellow.png   The traffic is not moving, or its movement is unknown.
-.. image:: traffic-noDirection-red.png      The traffic is not moving, or its movement is unknown.
-.. image:: traffic-withDirection-green.png  The traffic is moving, the arrow shows the direction of movement.
-.. image:: traffic-withDirection-yellow.png The traffic is moving, the arrow shows the direction of movement.
-.. image:: traffic-withDirection-red.png    The traffic is moving, the arrow shows the direction of movement.
+.. image:: traffic-noDirection-green.png    The traffic is not moving, or its movement is unknown. No alarm.
+.. image:: traffic-noDirection-yellow.png   The traffic is not moving, or its movement is unknown. Alarm level 1. Collision predicted in 13-18 seconds.
+.. image:: traffic-noDirection-red.png      The traffic is not moving, or its movement is unknown. Alarm level 2 or higher. Collision predicted in less than 13 seconds.
+.. image:: traffic-withDirection-green.png  The traffic is moving, the arrow shows the direction of movement. No alarm.
+.. image:: traffic-withDirection-yellow.png The traffic is moving, the arrow shows the direction of movement. Alarm level 1. Collision predicted in 13-18 seconds.
+.. image:: traffic-withDirection-red.png    The traffic is moving, the arrow shows the direction of movement. Alarm level 2 or higher. Collision predicted in less than 13 seconds.
 =========================================== ========
   
 

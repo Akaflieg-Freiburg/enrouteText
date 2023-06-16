@@ -2,9 +2,9 @@
 Privacy policies
 ================
 
-We do not process any personal data from you. All data that you enter (including
-routes, waypoints, and aircraft specifics) is stored locally on your device, not
-transmitted to us, and not processed by us. 
+We do not process any personal data from you. Data that you enter into the app
+(including routes, waypoints, and aircraft specifics) is stored locally on your
+device, is not transmitted to us, and is not processed by us. 
 
 However, to ensure the functionality, the app must transmit following data to
 servers on the internet.
@@ -18,12 +18,12 @@ servers on the internet.
   log files. In particular, it does not store the IP address of your device in
   its log files. We can assure this because the server is under our control.
 
-- The app shows METAR and TAF data for airfields near your current location and
-  near your currently planned route. It also shows METARs and TAFs for waypoints
-  that you open in the app.  In order to provide this functionality, your
-  current location, your currently planned route, waypoint coordinates, and your
-  device's IP address must be transmitted to web services at the `Aviation
-  Weather Center <https://www.aviationweather.gov>`_.  Knowledge of the IP
+- The app shows METARs and TAFs for airfields near your current location and
+  near your currently planned route. It also shows METARs and TAFs for all
+  waypoints that you open in the app.  In order to provide this functionality,
+  your current location, your currently planned route, waypoint coordinates, and
+  your device's IP address must be transmitted to web services at the `Aviation
+  Weather Center <https://www.aviationweather.gov>`_. Knowledge of the IP
   address is necessary for the web services to respond. The web services cannot
   read any other data from your device in the process. However, you must expect
   that your device's IP address will be stored together with the transmitted
@@ -32,17 +32,17 @@ servers on the internet.
   at https://www.aviationweather.gov/dataserver.
 
 - The app shows NOTAMs for places near your current location and near your
-  currently planned route. It also shows NOTAMs for waypoints that you open in
-  the app. In order to provide this functionality, your current location, your
-  currently planned route, waypoint coordinates, and your device's IP address
-  must be transmitted to web services at the `Federal Aviation Administration
-  <https://api.faa.gov>`_. Knowledge of the IP address is necessary for the web
-  services to respond. The web services cannot read any other data from your
-  device in the process. However, you must expect that the IP address of your
-  device will be stored together with the transmitted position data. The web
-  services are operated by the US government and are beyond our control.
-  Detailed information about these web services can be found at
-  https://api.faa.gov/s.
+  currently planned route. It also shows NOTAMs for all waypoints that you open
+  in the app. In order to provide this functionality, your current location,
+  your currently planned route, waypoint coordinates, and your device's IP
+  address must be transmitted to web services at the `Federal Aviation
+  Administration <https://api.faa.gov>`_. Knowledge of the IP address is
+  necessary for the web services to respond. The web services cannot read any
+  other data from your device in the process. However, you must expect that the
+  IP address of your device will be stored together with the transmitted
+  position data. The web services are operated by the US government and are
+  beyond our control. Detailed information about these web services can be found
+  at https://api.faa.gov/s.
 
 
 Responsible
