@@ -23,10 +23,10 @@ aware of other good solutions!
 This text assumes that you have installed `Osmand <https://osmand.net/>`_ on
 your device, that you have installed maps for your region, and that you know how
 to import and display a GPS track with `Osmand <https://osmand.net/>`_.  In
-order to show aviation data, we are going to add the OpenFlightMaps to `Osmand
-<https://osmand.net/>`_ as a map overlay. This maps maps are very complete and
-well-designed, but cover only select European and African countries. Visit the
-`OFM web site <https://www.openflightmaps.org/>`_ to learn more.
+order to show aviation data, we are going to add the "open flightmaps" to
+`Osmand <https://osmand.net/>`_ as a map overlay. These maps are very complete
+and well-designed, but cover only select European and African countries. Visit
+the `OFM web site <https://www.openflightmaps.org/>`_ to learn more.
 
 **Step 1: Install plugin**
 
