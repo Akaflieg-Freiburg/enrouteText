@@ -8340,16 +8340,11 @@ desarrollado como un proyecto de Akaflieg Freiburg.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="144"/>
-        <source>Run simulator and generate screenshots for iOS</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/main.cpp" line="146"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Ejecutar simulador y generar capturas de pantalla para el manual</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="148"/>
+        <location filename="../../../src/main.cpp" line="146"/>
         <source>File to import.</source>
         <translation>Archivo a importar.</translation>
     </message>

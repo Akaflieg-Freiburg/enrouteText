@@ -8460,11 +8460,6 @@ developed as a project of Akaflieg Freiburg.</source>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="144"/>
-        <source>Run simulator and generate screenshots for iOS</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/main.cpp" line="146"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Exécuter le simulateur et générer des captures d’écran pour le manuel</translation>
     </message>
@@ -8473,7 +8468,7 @@ developed as a project of Akaflieg Freiburg.</source>
         <translation type="vanished">Lancer le simulateur et générer des captures d&apos;écran pour le manuel</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="148"/>
+        <location filename="../../../src/main.cpp" line="146"/>
         <source>File to import.</source>
         <translation>Fichier à importer</translation>
     </message>
