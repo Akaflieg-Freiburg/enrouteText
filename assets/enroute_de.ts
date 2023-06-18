@@ -9376,7 +9376,7 @@ entwickelt als Projekt der Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="144"/>
         <source>Run simulator and generate screenshots for iOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Simulator starten und Screenshots für iOS erzeugen</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="146"/>
