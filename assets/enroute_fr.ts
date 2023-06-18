@@ -5223,22 +5223,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation type="vanished">Mettre à jour METAR/TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="163"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="162"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the three-dot menu at the top right corner of the screen.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé!&lt;/h3&gt;&lt;p&gt;METAR/TAF non disponible. Vous pouvez les télécharger manuellement en utilisant la fonction &apos;Mettre à jour METAR/TAF&apos; dans le menu à trois points situé dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="189"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="188"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAF data from the Aviation Weather Center…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Téléchargement en cours…&lt;/h3&gt;&lt;p&gt;Merci de patienter pendant que les METAR/TAF sont téléchargés depuis l&apos;Aviation Weather Center…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="253"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="252"/>
         <source>&lt;p&gt;Failed to update the list of weather stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Echec lors de la mise à jour des stations météo.&lt;/p&gt;&lt;p&gt;Cause : %1.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="254"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="253"/>
         <source>Update Error</source>
         <translation>Erreur lors de la mise à jour</translation>
     </message>
@@ -8378,73 +8378,73 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Mise à jour requise !</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="701"/>
+        <location filename="../../../src/qml/main.qml" line="702"/>
         <source>Connected to traffic receiver.</source>
         <translation>Connecté au récepteur de traffic.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="703"/>
+        <location filename="../../../src/qml/main.qml" line="704"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Connexion au récepteur de traffic perdue.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="741"/>
+        <location filename="../../../src/qml/main.qml" line="742"/>
         <source>Exit…?</source>
         <translation>Quitter ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="742"/>
+        <location filename="../../../src/qml/main.qml" line="743"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Voulez-vous vraiment quitter &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="752"/>
-        <location filename="../../../src/qml/main.qml" line="761"/>
+        <location filename="../../../src/qml/main.qml" line="753"/>
+        <location filename="../../../src/qml/main.qml" line="762"/>
         <source>What&apos;s new…?</source>
         <translation>Nouveautés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="791"/>
+        <location filename="../../../src/qml/main.qml" line="792"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Affichage des espaces aériens jusqu&apos;à %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="793"/>
+        <location filename="../../../src/qml/main.qml" line="794"/>
         <source>Now showing all airspaces.</source>
         <translation>Affichage de tous les espaces aériens.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="827"/>
+        <location filename="../../../src/qml/main.qml" line="828"/>
         <source>You have chosen to ignore network security errors in the future.</source>
         <translation>Vous avez choisi d&apos;ignorer les prochaines erreurs de sécurité réseau.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="828"/>
+        <location filename="../../../src/qml/main.qml" line="829"/>
         <source>This poses a security risk.</source>
         <translation>Risque de sécurité.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="829"/>
+        <location filename="../../../src/qml/main.qml" line="830"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Allez sur la page &apos;Réglages&apos; si vous souhaitez restaurer les paramètres originaux et sécurisé de l&apos;application.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="859"/>
+        <location filename="../../../src/qml/main.qml" line="860"/>
         <source>Error!</source>
         <translation>Erreur!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="873"/>
+        <location filename="../../../src/qml/main.qml" line="874"/>
         <source>Starting map update</source>
         <translation>Mise à jour des cartes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="814"/>
+        <location filename="../../../src/qml/main.qml" line="815"/>
         <source>Network security error</source>
         <translation>Erreur de sécurité réseau</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="826"/>
+        <location filename="../../../src/qml/main.qml" line="827"/>
         <source>Network security settings</source>
         <translation>Paramètres de sécurité réseau</translation>
     </message>
@@ -8465,6 +8465,11 @@ developed as a project of Akaflieg Freiburg.</source>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="144"/>
+        <source>Run simulator and generate screenshots for iOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/main.cpp" line="146"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Exécuter le simulateur et générer des captures d’écran pour le manuel</translation>
     </message>
@@ -8473,7 +8478,7 @@ developed as a project of Akaflieg Freiburg.</source>
         <translation type="vanished">Lancer le simulateur et générer des captures d&apos;écran pour le manuel</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="146"/>
+        <location filename="../../../src/main.cpp" line="148"/>
         <source>File to import.</source>
         <translation>Fichier à importer</translation>
     </message>
