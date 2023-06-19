@@ -2454,32 +2454,32 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="189"/>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data not transmitted to us and is not processed by us.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous ne traitons aucune donnée personnelle vous concernant. Les données que vous entrez dans l&apos;application (y compris les itinéraires, les waypoints et les spécificités de l&apos;avion) ​​sont stockées localement sur votre appareil. Les données ne nous sont pas transmises et ne sont pas traitées par nous.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="192"/>
         <source>However, to ensure the functionality, the app must transmit following data to servers on the internet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cependant, pour assurer la fonctionnalité, l&apos;application doit transmettre les données suivantes aux serveurs sur Internet.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="195"/>
         <source>The app regularly checks for updates and allows downloading maps and data from a &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;server at the University of Freiburg&lt;/a&gt; to your device. In order to provide this functionality, your device&apos;s IP address must be transmitted to the server. Knowledge of the IP address is necessary for the server to respond. However, the server does not store any personal data about you in its log files. In particular, it does not store the IP address of your device in its log files. We can assure this because the server is under our control.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;application vérifie régulièrement les mises à jour et permet de télécharger des cartes et des données depuis un &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;serveur de l&apos;Université de Fribourg&lt;/a&gt; sur votre appareil. Afin de fournir cette fonctionnalité, l&apos;adresse IP de votre appareil doit être transmise au serveur. La connaissance de l&apos;adresse IP est nécessaire pour que le serveur réponde. Cependant, le serveur ne stocke aucune donnée personnelle vous concernant dans ses fichiers journaux. En particulier, il ne stocke pas l&apos;adresse IP de votre appareil dans ses fichiers journaux. Nous pouvons l&apos;assurer car le serveur est sous notre contrôle.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="203"/>
         <source>The app shows METARs and TAFs for airfields near your current location and near your currently planned route. It also shows METARs and TAFs for all waypoints that you open in the app. In order to provide this functionality, your current location, your currently planned route, waypoint coordinates, and your device&apos;s IP address must be transmitted to web services at the &lt;a href=&apos;https://www.aviationweather.gov&apos;&gt;Aviation Weather Center&lt;/a&gt;. Knowledge of the IP address is necessary for the web services to respond. The web services cannot read any other data from your device in the process. However, you must expect that your device&apos;s IP address will be stored together with the transmitted position data. The web services are operated by the US government and are beyond our control. Detailed information about these web services can be found at &lt;a href=&apos;https://www.aviationweather.gov/dataserver&apos;&gt;https://www.aviationweather.gov/dataserver&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;application affiche les METAR et les TAF pour les aérodromes à proximité de votre position actuelle et à proximité de votre itinéraire actuellement planifié. Il affiche également les METAR et les TAF pour tous les waypoints que vous ouvrez dans l&apos;application. Afin de fournir cette fonctionnalité, votre emplacement actuel, votre itinéraire actuellement planifié, les coordonnées du point de cheminement et l&apos;adresse IP de votre appareil doivent être transmis aux services Web à l&apos;adresse &lt;a href=&apos;https://www.aviationweather.gov&apos;&gt;Aviation Weather Centre&lt;/a&gt;. La connaissance de l&apos;adresse IP est nécessaire pour que les services Web répondent. Les services Web ne peuvent pas lire d&apos;autres données de votre appareil au cours du processus. Cependant, vous devez vous attendre à ce que l&apos;adresse IP de votre appareil soit stockée avec les données de position transmises. Les services Web sont exploités par le gouvernement américain et échappent à notre contrôle. Des informations détaillées sur ces services Web sont disponibles sur &lt;a href=&apos;https://www.aviationweather.gov/dataserver&apos;&gt;https://www.aviationweather.gov/dataserver&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="215"/>
         <source>The app shows NOTAMs for places near your current location and near your currently planned route. It also shows NOTAMs for all waypoints that you open in the app. In order to provide this functionality, your current location, your currently planned route, waypoint coordinates, and your device&apos;s IP address must be transmitted to web services at the &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administration&lt;/a&gt;. Knowledge of the IP address is necessary for the web services to respond. The web services cannot read any other data from your device in the process. However, you must expect that the IP address of your device will be stored together with the transmitted position data. The web services are operated by the US government and are beyond our control. Detailed information about these web services can be found at &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;application affiche les NOTAM des lieux proches de votre position actuelle et de votre itinéraire actuellement planifié. Il affiche également les NOTAM pour tous les waypoints que vous ouvrez dans l&apos;application. Afin de fournir cette fonctionnalité, votre emplacement actuel, votre itinéraire actuellement planifié, les coordonnées du point de cheminement et l&apos;adresse IP de votre appareil doivent être transmis aux services Web à l&apos;adresse &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administratif&lt;/a&gt;. La connaissance de l&apos;adresse IP est nécessaire pour que les services Web répondent. Les services Web ne peuvent pas lire d&apos;autres données de votre appareil au cours du processus. Cependant, vous devez vous attendre à ce que l&apos;adresse IP de votre appareil soit stockée avec les données de position transmises. Les services Web sont exploités par le gouvernement américain et échappent à notre contrôle. Des informations détaillées sur ces services Web sont disponibles sur &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="251"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; for iOS is available for public beta testing on &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. The &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;homepage of this app&lt;/a&gt; also contains a link to TestFlight.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; pour iOS est disponible pour des tests bêta publics sur &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;page d&apos;accueil de cette application&lt;/a&gt; contient également un lien vers TestFlight.</translation>
     </message>
     <message>
         <source>This app does not send any data to us or other parties. We do not collect data and we do not track our users. However, this app accesses internet sites that may not be under our control and may keep access logs.</source>
@@ -8466,7 +8466,7 @@ developed as a project of Akaflieg Freiburg.</source>
     <message>
         <location filename="../../../src/main.cpp" line="144"/>
         <source>Run simulator and generate screenshots for iOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter le simulateur et générer des captures d’écran pour iOS</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="146"/>
