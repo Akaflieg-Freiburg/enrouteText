@@ -33,7 +33,7 @@ airfields for landing, complete with distances, directions, runway information
 and frequencies.
 
 
-This manual describes program version 2.23.0.
+This manual describes program version 2.27.0.
 
 
 Getting Started
