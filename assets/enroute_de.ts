@@ -3865,12 +3865,14 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Platform::FileExchange</name>
     <message>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="116"/>
         <source>No suitable file sharing app could be found.</source>
-        <translation type="vanished">Keine geeignete App gefunden, um die Daten zu teilen.</translation>
+        <translation>Keine geeignete App gefunden, um die Daten zu teilen.</translation>
     </message>
     <message>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="132"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation type="vanished">Keine geeignete App gefunden, um diese Daten anzuzeigen.</translation>
+        <translation>Keine geeignete App gefunden, um diese Daten anzuzeigen.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
@@ -3911,6 +3913,11 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="92"/>
         <source>Unable to open data in other app.</source>
         <translation>Kann die Daten nicht in anderer App öffnen.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_iOS.cpp" line="95"/>
+        <source>Could not find file </source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3995,6 +4002,23 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="51"/>
         <source>unknown network name</source>
         <translation>Netzwerkname unbekannt</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="64"/>
+        <location filename="../../../src/platform/PlatformAdaptor_iOS.cpp" line="106"/>
+        <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information.</source>
+        <translation type="unfinished">Enroute Flight Navigation benötigt Zugriff auf Ihren genauen Standort. Die App verwendet diese Daten, um Ihre Position auf der Karte anzuzeigen und relevante aeronautische Informationen
+ bereitzustellen.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="74"/>
+        <source>The app uses notifications, for instance to inform the user about critial updates of aviation data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="91"/>
+        <source>Some permissions have previously been denied. The system might not show the permission dialog again. In that case, use the system settings to grant the necessary permissions. Some users find the settings hard to navigate and prefer to re-install the app.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

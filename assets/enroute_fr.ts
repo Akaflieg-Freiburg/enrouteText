@@ -3202,12 +3202,14 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Platform::FileExchange</name>
     <message>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="116"/>
         <source>No suitable file sharing app could be found.</source>
-        <translation type="vanished">Aucun fichier de partage d&apos;application n&apos;a pu être trouvé</translation>
+        <translation>Aucun fichier de partage d&apos;application n&apos;a pu être trouvé</translation>
     </message>
     <message>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="132"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation type="vanished">Aucune application permettant de visualiser ces données n&apos;a été trouvée.</translation>
+        <translation>Aucune application permettant de visualiser ces données n&apos;a été trouvée.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
@@ -3249,6 +3251,11 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <source>Unable to open data in other app.</source>
         <translation>Impossible d&apos;ouvrir les données dans une autre application.</translation>
     </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_iOS.cpp" line="95"/>
+        <source>Could not find file </source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Platform::Notifier</name>
@@ -3286,6 +3293,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="51"/>
         <source>unknown network name</source>
         <translation>nom de réseau inconnu</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="64"/>
+        <location filename="../../../src/platform/PlatformAdaptor_iOS.cpp" line="106"/>
+        <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="74"/>
+        <source>The app uses notifications, for instance to inform the user about critial updates of aviation data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="91"/>
+        <source>Some permissions have previously been denied. The system might not show the permission dialog again. In that case, use the system settings to grant the necessary permissions. Some users find the settings hard to navigate and prefer to re-install the app.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
