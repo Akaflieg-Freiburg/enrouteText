@@ -3917,7 +3917,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/FileExchange_iOS.cpp" line="95"/>
         <source>Could not find file </source>
-        <translation type="unfinished"></translation>
+        <translation>Konnte Datei nicht finden</translation>
     </message>
 </context>
 <context>
@@ -4007,18 +4007,18 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="64"/>
         <location filename="../../../src/platform/PlatformAdaptor_iOS.cpp" line="107"/>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information.</source>
-        <translation type="unfinished">Enroute Flight Navigation benötigt Zugriff auf Ihren genauen Standort. Die App verwendet diese Daten, um Ihre Position auf der Karte anzuzeigen und relevante aeronautische Informationen
+        <translation>Enroute Flight Navigation benötigt Zugriff auf Ihren genauen Standort. Die App verwendet diese Daten, um Ihre Position auf der Karte anzuzeigen und relevante aeronautische Informationen
  bereitzustellen.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="74"/>
         <source>The app uses notifications, for instance to inform the user about critial updates of aviation data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die App benutzt Benachrichtigungen, z.B. um auf wichtige Updates von Luftfahrtdaten hinzuweisen.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="91"/>
         <source>Some permissions have previously been denied. The system might not show the permission dialog again. In that case, use the system settings to grant the necessary permissions. Some users find the settings hard to navigate and prefer to re-install the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Manche Berechtigungen wurden bisher verweigert. Das System zeigt den Berechtigungsdialog evtl. nicht erneut an; zur Gewährung nötiger Rechte finden Sie ihn in den Systemeinstellungen. Falls Sie diese nicht finden, bleibt die Option einer Neuinstallation der App.</translation>
     </message>
 </context>
 <context>
