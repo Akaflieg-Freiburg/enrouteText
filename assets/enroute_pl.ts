@@ -2880,7 +2880,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="251"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; for iOS is available for public beta testing on &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. The &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;homepage of this app&lt;/a&gt; also contains a link to TestFlight.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; na iOS jest dostępna do publicznych testów beta na &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;strona główna tej aplikacji&lt;/a&gt; zawiera również link do TestFlight.</translation>
     </message>
     <message>
         <source>The app connects to &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;servers at the University of Freiburg&lt;/a&gt; to check for updates and to download maps and data.</source>
@@ -3937,7 +3937,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/platform/FileExchange_iOS.cpp" line="95"/>
         <source>Could not find file </source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można znaleźć pliku </translation>
     </message>
 </context>
 <context>
@@ -4027,17 +4027,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="64"/>
         <location filename="../../../src/platform/PlatformAdaptor_iOS.cpp" line="107"/>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation musi mieć dostęp do Twojej dokładnej lokalizacji. Aplikacja wykorzystuje te dane do pokazania Twojej pozycji na ruchomej mapie i dostarczenia odpowiednich informacji lotniczych.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="74"/>
         <source>The app uses notifications, for instance to inform the user about critial updates of aviation data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikacja wykorzystuje powiadomienia m.in. do informowania użytkownika o krytycznych aktualizacjach danych lotniczych.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="91"/>
         <source>Some permissions have previously been denied. The system might not show the permission dialog again. In that case, use the system settings to grant the necessary permissions. Some users find the settings hard to navigate and prefer to re-install the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niektórym zezwoleniom odmówiono uprawnień wcześniej. System może nie wyświetlać ponownie okna dialogowego uprawnień. W takim przypadku użyj ustawień systemowych, aby nadać niezbędne uprawnienia. Niektórzy użytkownicy uważają, że ustawienia są trudne w nawigacji i wolą ponownie zainstalować aplikację.</translation>
     </message>
 </context>
 <context>
@@ -9408,7 +9408,7 @@ rozwijana jako projekt Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="144"/>
         <source>Run simulator and generate screenshots for iOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom symulator i wygeneruj zrzuty ekranu dla iOS</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="146"/>
