@@ -3929,7 +3929,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/FileExchange_iOS.cpp" line="95"/>
         <source>Could not find file </source>
-        <translation type="unfinished"></translation>
+        <translation>File non trovato</translation>
     </message>
 </context>
 <context>
@@ -4019,17 +4019,18 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="64"/>
         <location filename="../../../src/platform/PlatformAdaptor_iOS.cpp" line="107"/>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation deve accedere alla tua posizione precisa. La app usa questi dati per mostrare la tua posizione sulla mappa e per fornire importanti informazioni aeronautiche.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="74"/>
         <source>The app uses notifications, for instance to inform the user about critial updates of aviation data.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>There is a typo in &quot;critiCal&quot;.. &quot;C&quot; is missing.</translatorcomment>
+        <translation>La app usa notifiche, per esempio, per informare l&apos;utente di aggiornamenti di dati aeronautici critici.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="91"/>
         <source>Some permissions have previously been denied. The system might not show the permission dialog again. In that case, use the system settings to grant the necessary permissions. Some users find the settings hard to navigate and prefer to re-install the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Alcuni permessi sono stati precedentemente negati. Il sistema potrebbe non mostrare nuovamente la finestra relativa. In questo caso usa le impostazioni di sistema per garantire i permessi necessari. Per alcuni utenti la navigazione delle impostazioni è difficoltosa e preferiscono reinstallare la app.</translation>
     </message>
 </context>
 <context>
