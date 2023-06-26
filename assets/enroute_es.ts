@@ -3148,7 +3148,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/platform/FileExchange_iOS.cpp" line="95"/>
         <source>Could not find file </source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontró el archivo</translation>
     </message>
 </context>
 <context>
@@ -3192,17 +3192,17 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="64"/>
         <location filename="../../../src/platform/PlatformAdaptor_iOS.cpp" line="107"/>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation necesita acceder a su ubicación precisa. La aplicación utiliza estos datos para mostrar su posición en el mapa en movimiento y proporcionar información aeronáutica relevante.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="74"/>
         <source>The app uses notifications, for instance to inform the user about critial updates of aviation data.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación utiliza notificaciones, por ejemplo, para informar al usuario sobre actualizaciones críticas de datos de aviación.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="91"/>
         <source>Some permissions have previously been denied. The system might not show the permission dialog again. In that case, use the system settings to grant the necessary permissions. Some users find the settings hard to navigate and prefer to re-install the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Algunos permisos han sido denegados anteriormente. Es posible que el sistema no vuelva a mostrar el cuadro de diálogo de permisos. En ese caso, use la configuración del sistema para otorgar los permisos necesarios. A algunos usuarios les resulta difícil navegar por la configuración y prefieren volver a instalar la aplicación.</translation>
     </message>
 </context>
 <context>
