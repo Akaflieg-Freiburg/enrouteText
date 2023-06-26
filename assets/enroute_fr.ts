@@ -3254,7 +3254,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/platform/FileExchange_iOS.cpp" line="95"/>
         <source>Could not find file </source>
-        <translation type="unfinished"></translation>
+        <translation>Fichier introuvable</translation>
     </message>
 </context>
 <context>
@@ -3298,17 +3298,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="64"/>
         <location filename="../../../src/platform/PlatformAdaptor_iOS.cpp" line="107"/>
         <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation doit accéder à votre emplacement précis. L&apos;application utilise ces données pour afficher votre position sur la carte mobile et pour fournir des informations aéronautiques pertinentes.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="74"/>
         <source>The app uses notifications, for instance to inform the user about critial updates of aviation data.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;application utilise des notifications, par exemple pour informer l&apos;utilisateur des mises à jour critiques des données aéronautiques.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/PlatformAdaptor_Android.cpp" line="91"/>
         <source>Some permissions have previously been denied. The system might not show the permission dialog again. In that case, use the system settings to grant the necessary permissions. Some users find the settings hard to navigate and prefer to re-install the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Certaines autorisations ont déjà été refusées. Le système peut ne plus afficher la boîte de dialogue d&apos;autorisation. Dans ce cas, utilisez les paramètres système pour accorder les autorisations nécessaires. Certains utilisateurs trouvent les paramètres difficiles à naviguer et préfèrent réinstaller l&apos;application.</translation>
     </message>
 </context>
 <context>
