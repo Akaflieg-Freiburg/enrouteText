@@ -21,3 +21,6 @@ Wintererstraße
 flightmaps
 Osmand
 OpenAir
+SafeSky
+Flarmnet
+NMEA
