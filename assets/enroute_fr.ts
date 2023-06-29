@@ -783,7 +783,7 @@ données de manière publique et gratuite.&lt;/p&gt;
 <context>
     <name>DataManagement</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="224"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="273"/>
         <source>Manually Imported</source>
         <translation>Importé manuellement</translation>
     </message>
@@ -791,19 +791,30 @@ données de manière publique et gratuite.&lt;/p&gt;
 <context>
     <name>DataManagement::DataManager</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="144"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="147"/>
         <source>Unable to recognize map file format.</source>
         <translation>Impossible de reconnaitre le format du fichier de carte.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="149"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="152"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="193"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>Impossible de créer le dossier &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="156"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="159"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Impossible de copier le fichier de carte vers le dossier de données.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="181"/>
+        <source>Errors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="205"/>
+        <source>Error writing file &apos;%1&apos;: %2.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1971,38 +1982,49 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>ImportManager</name>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="80"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="84"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; cannot be recognized.</source>
         <translation>Le type du fichier &lt;strong&gt;%1&lt;/strong&gt; n&apos;a pas pu être reconnu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="89"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="93"/>
         <source>Import Waypoint Data</source>
         <translation>Importer des points tournants</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="99"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="103"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
         <translation>Le fichier contient une liste de points tournants. Importer en tant que route, ou ajouter à la bibiothèque des points tournants ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="109"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="113"/>
         <source>Route</source>
         <translation>Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="123"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="127"/>
         <source>Library</source>
         <translation>Bibliothèque</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="140"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="144"/>
+        <source>Import Airspace Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="198"/>
+        <source>Airspace data imported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="205"/>
         <source>Import Raster Map</source>
         <translation>Importer les cartes matricielles</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="150"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="211"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="154"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="215"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="276"/>
         <source>Enter a name for this map.</source>
         <translation>Entrez un nom pour cette carte.</translation>
     </message>
@@ -2015,62 +2037,62 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation type="vanished">Pour éviter tout conflit entre les cartes matricielles et vectorielles, les cartes matricielles seront désinstallées.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="194"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="259"/>
         <source>Raster map imported</source>
         <translation>Cartes matricielles importées</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="201"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="266"/>
         <source>Import Vector Map</source>
         <translation>Importer les cartes vectorielles</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="234"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="299"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
         <translation>Pour éviter tout conflit entre les cartes matricielles et vectorielles, les cartes matricielles seront désinstallées.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="255"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="320"/>
         <source>Vector map imported</source>
         <translation>Cartes vectorielles importées</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="263"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="328"/>
         <source>Import Waypoint Library</source>
         <translation>Importer une bibiothèque de points tournants</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="334"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="399"/>
         <source>Data Import Error</source>
         <translation>Erreur lors de l&apos;importation des données</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="275"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="340"/>
         <source>Skip over waypoint that already exist in the library</source>
         <translation>Ignorer les points tournants qui existent déjà dans la bibiothèque</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="173"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="238"/>
         <source>To avoid conflicts, vector maps will be not be shown while raster maps are installed.</source>
         <translation>Pour éviter les conflits, les cartes vectorielles ne seront pas affichées pendant l&apos;installation des cartes raster.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="294"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="359"/>
         <source>Waypoints imported</source>
         <translation>Points tournants importés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="301"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="366"/>
         <source>Import Flight Route?</source>
         <translation>Importer la route ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="305"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="370"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Cela écrasera la route actuelle. Après écrasement, la route actuelle ne pourra pas être restaurée.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="324"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="389"/>
         <source>Flight route imported</source>
         <translation>Route importée</translation>
     </message>
@@ -2141,7 +2163,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>Librarian</name>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="160"/>
+        <location filename="../../../src/Librarian.cpp" line="154"/>
         <source>
 &lt;h3&gt;License&lt;/h3&gt;
 
@@ -2160,7 +2182,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="171"/>
+        <location filename="../../../src/Librarian.cpp" line="165"/>
         <source>
 &lt;h4&gt;Software and data included in the program&lt;/h4&gt;
 
@@ -2253,20 +2275,19 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="64"/>
         <source>
 &lt;h3&gt;Manual&lt;/h3&gt;
 
 &lt;p&gt;The manual has kindly been provided by Michael Horbaschk.&lt;/p&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h3&gt;Manuel&lt;/h3&gt;
 
 &lt;p&gt;Le manuel a été écrit par Michael Horbaschk.&lt;/p&gt;
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="75"/>
+        <location filename="../../../src/Librarian.cpp" line="67"/>
         <source>
 &lt;h3&gt;Translations&lt;/h3&gt;
 </source>
@@ -2296,26 +2317,50 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Addresse</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="70"/>
         <source>
 &lt;h3&gt;iOS Version&lt;/h3&gt;
 
 &lt;p&gt;The app has been ported to iOS by Simon Schneider. Simon is currently student pilot (PPL) and member of the Akaflieg Freiburg flight club, just like Stefan.&lt;/p&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;h3&gt;Version iOS&lt;/h3&gt;
 
 &lt;p&gt;L&apos;application a été portée sur iOS par Simon Schneider. Simon est actuellement élève-pilote (PPL) et membre du club de vol Akaflieg Freiburg, tout comme Stefan.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="79"/>
+        <location filename="../../../src/Librarian.cpp" line="64"/>
+        <source>Contributions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="65"/>
+        <source>iOS Version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="65"/>
+        <source>The app has been ported to iOS by Simon Schneider. Simon is currently student pilot (PPL) and member of the Akaflieg Freiburg flight club, just like Stefan.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="66"/>
+        <source>Programming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="66"/>
+        <source>Heinz Blöchinger has helped us with OpenAir support. After 15 years of alpine gliding, Heinz has fulfilled a big dream and now flies helicopters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="71"/>
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato and Luca Riva. Both are private pilots and aerospace engineers. Luca is also doing aerobatics.&lt;/li&gt;
 </source>
         <translation>&lt;li&gt;&lt;strong&gt;Freançais:&lt;/strong&gt;Adrien Crovato et Luca Riva. Les deux sont des pilotes privés et des ingénieurs aérospatiaux. Luca est également&lt;/li&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="81"/>
+        <location filename="../../../src/Librarian.cpp" line="73"/>
         <source>
 &lt;li&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/li&gt;
 </source>
@@ -2324,14 +2369,14 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="83"/>
+        <location filename="../../../src/Librarian.cpp" line="75"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
         <translation>&lt;li&gt;&lt;strong&gt;Italien:&lt;/strong&gt; Ivan Battistella et Antonio Fardella.  Antonio est pilote aéro et est passioné par tous types de challenge.&lt;/li&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="85"/>
+        <location filename="../../../src/Librarian.cpp" line="77"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/li&gt;
 </source>
@@ -2340,14 +2385,14 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="91"/>
+        <location filename="../../../src/Librarian.cpp" line="83"/>
         <source>
 &lt;h3&gt;Alumni&lt;/h3&gt;
 </source>
         <translation>&lt;h3&gt;Alumni&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="95"/>
+        <location filename="../../../src/Librarian.cpp" line="87"/>
         <source>
 &lt;li&gt;Luca Bertoncello (Italian translation)&lt;/li&gt;
 </source>
@@ -2356,7 +2401,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="97"/>
+        <location filename="../../../src/Librarian.cpp" line="89"/>
         <source>
 &lt;li&gt;Adrien Crovato (Integration of weather information)&lt;/li&gt;
 </source>
@@ -2365,7 +2410,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="99"/>
+        <location filename="../../../src/Librarian.cpp" line="92"/>
+        <source>Manual</source>
+        <translation type="unfinished">Manuel</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="93"/>
         <source>
 &lt;li&gt;Szymon Kocur (Polish translation)&lt;/li&gt;
 </source>
@@ -2374,7 +2424,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="101"/>
+        <location filename="../../../src/Librarian.cpp" line="95"/>
         <source>
 &lt;li&gt;Heiner Tholen (User interface)&lt;/li&gt;
 </source>
@@ -2383,7 +2433,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="103"/>
+        <location filename="../../../src/Librarian.cpp" line="97"/>
         <source>
 &lt;li&gt;Johannes Zellner (Geoid correction for altitude)&lt;/li&gt;
 </source>
@@ -2392,7 +2442,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="127"/>
+        <location filename="../../../src/Librarian.cpp" line="121"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -2447,37 +2497,42 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 		</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="188"/>
+        <location filename="../../../src/Librarian.cpp" line="182"/>
         <source>Privacy Policies</source>
         <translation>Politiques de confidentialité </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="189"/>
+        <location filename="../../../src/Librarian.cpp" line="183"/>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data not transmitted to us and is not processed by us.</source>
         <translation>Nous ne traitons aucune donnée personnelle vous concernant. Les données que vous entrez dans l&apos;application (y compris les itinéraires, les waypoints et les spécificités de l&apos;avion) ​​sont stockées localement sur votre appareil. Les données ne nous sont pas transmises et ne sont pas traitées par nous.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="192"/>
+        <location filename="../../../src/Librarian.cpp" line="186"/>
         <source>However, to ensure the functionality, the app must transmit following data to servers on the internet.</source>
         <translation>Cependant, pour assurer la fonctionnalité, l&apos;application doit transmettre les données suivantes aux serveurs sur Internet.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="195"/>
+        <location filename="../../../src/Librarian.cpp" line="189"/>
         <source>The app regularly checks for updates and allows downloading maps and data from a &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;server at the University of Freiburg&lt;/a&gt; to your device. In order to provide this functionality, your device&apos;s IP address must be transmitted to the server. Knowledge of the IP address is necessary for the server to respond. However, the server does not store any personal data about you in its log files. In particular, it does not store the IP address of your device in its log files. We can assure this because the server is under our control.</source>
         <translation>L&apos;application vérifie régulièrement les mises à jour et permet de télécharger des cartes et des données depuis un &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;serveur de l&apos;Université de Fribourg&lt;/a&gt; sur votre appareil. Afin de fournir cette fonctionnalité, l&apos;adresse IP de votre appareil doit être transmise au serveur. La connaissance de l&apos;adresse IP est nécessaire pour que le serveur réponde. Cependant, le serveur ne stocke aucune donnée personnelle vous concernant dans ses fichiers journaux. En particulier, il ne stocke pas l&apos;adresse IP de votre appareil dans ses fichiers journaux. Nous pouvons l&apos;assurer car le serveur est sous notre contrôle.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="203"/>
+        <location filename="../../../src/Librarian.cpp" line="197"/>
         <source>The app shows METARs and TAFs for airfields near your current location and near your currently planned route. It also shows METARs and TAFs for all waypoints that you open in the app. In order to provide this functionality, your current location, your currently planned route, waypoint coordinates, and your device&apos;s IP address must be transmitted to web services at the &lt;a href=&apos;https://www.aviationweather.gov&apos;&gt;Aviation Weather Center&lt;/a&gt;. Knowledge of the IP address is necessary for the web services to respond. The web services cannot read any other data from your device in the process. However, you must expect that your device&apos;s IP address will be stored together with the transmitted position data. The web services are operated by the US government and are beyond our control. Detailed information about these web services can be found at &lt;a href=&apos;https://www.aviationweather.gov/dataserver&apos;&gt;https://www.aviationweather.gov/dataserver&lt;/a&gt;.</source>
         <translation>L&apos;application affiche les METAR et les TAF pour les aérodromes à proximité de votre position actuelle et à proximité de votre itinéraire actuellement planifié. Il affiche également les METAR et les TAF pour tous les waypoints que vous ouvrez dans l&apos;application. Afin de fournir cette fonctionnalité, votre emplacement actuel, votre itinéraire actuellement planifié, les coordonnées du point de cheminement et l&apos;adresse IP de votre appareil doivent être transmis aux services Web à l&apos;adresse &lt;a href=&apos;https://www.aviationweather.gov&apos;&gt;Aviation Weather Centre&lt;/a&gt;. La connaissance de l&apos;adresse IP est nécessaire pour que les services Web répondent. Les services Web ne peuvent pas lire d&apos;autres données de votre appareil au cours du processus. Cependant, vous devez vous attendre à ce que l&apos;adresse IP de votre appareil soit stockée avec les données de position transmises. Les services Web sont exploités par le gouvernement américain et échappent à notre contrôle. Des informations détaillées sur ces services Web sont disponibles sur &lt;a href=&apos;https://www.aviationweather.gov/dataserver&apos;&gt;https://www.aviationweather.gov/dataserver&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="215"/>
+        <location filename="../../../src/Librarian.cpp" line="209"/>
         <source>The app shows NOTAMs for places near your current location and near your currently planned route. It also shows NOTAMs for all waypoints that you open in the app. In order to provide this functionality, your current location, your currently planned route, waypoint coordinates, and your device&apos;s IP address must be transmitted to web services at the &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administration&lt;/a&gt;. Knowledge of the IP address is necessary for the web services to respond. The web services cannot read any other data from your device in the process. However, you must expect that the IP address of your device will be stored together with the transmitted position data. The web services are operated by the US government and are beyond our control. Detailed information about these web services can be found at &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</source>
         <translation>L&apos;application affiche les NOTAM des lieux proches de votre position actuelle et de votre itinéraire actuellement planifié. Il affiche également les NOTAM pour tous les waypoints que vous ouvrez dans l&apos;application. Afin de fournir cette fonctionnalité, votre emplacement actuel, votre itinéraire actuellement planifié, les coordonnées du point de cheminement et l&apos;adresse IP de votre appareil doivent être transmis aux services Web à l&apos;adresse &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administratif&lt;/a&gt;. La connaissance de l&apos;adresse IP est nécessaire pour que les services Web répondent. Les services Web ne peuvent pas lire d&apos;autres données de votre appareil au cours du processus. Cependant, vous devez vous attendre à ce que l&apos;adresse IP de votre appareil soit stockée avec les données de position transmises. Les services Web sont exploités par le gouvernement américain et échappent à notre contrôle. Des informations détaillées sur ces services Web sont disponibles sur &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="251"/>
+        <location filename="../../../src/Librarian.cpp" line="243"/>
+        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to import airspace data in OpenAir format. Check the manual for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="245"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; for iOS is available for public beta testing on &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. The &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;homepage of this app&lt;/a&gt; also contains a link to TestFlight.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; pour iOS est disponible pour des tests bêta publics sur &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;page d&apos;accueil de cette application&lt;/a&gt; contient également un lien vers TestFlight.</translation>
     </message>
@@ -2498,9 +2553,8 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation type="vanished">L&apos;application télécharge le NOTAM de votre emplacement et de votre itinéraire prévu à partir des serveurs de la &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; du gouvernement des États-Unis.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="249"/>
         <source>This app is now able to speak! Use the &apos;Settings&apos; page to enable or disable voice notifications by category.</source>
-        <translation>Cette application est maintenant capable de parler ! Utilisez la page &quot;Paramètres&quot; pour activer ou désactiver les notifications vocales par catégorie.</translation>
+        <translation type="vanished">Cette application est maintenant capable de parler ! Utilisez la page &quot;Paramètres&quot; pour activer ou désactiver les notifications vocales par catégorie.</translation>
     </message>
     <message>
         <source>The app downloads NOTAM for your locaction and your intended route from servers of the &lt;a href=&apos;https://api.faa.gov/s/&apos;&gt;Federal Aviation Administration&lt;/a&gt; of the United States government.</source>
@@ -2527,12 +2581,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation type="vanished">Veuillez autoriser l&apos;accès à l&apos;emplacement précis lorsque vous y êtes invité.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="228"/>
+        <location filename="../../../src/Librarian.cpp" line="222"/>
         <source>Responsible</source>
         <translation>Responsable</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="234"/>
+        <location filename="../../../src/Librarian.cpp" line="228"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
@@ -2599,7 +2653,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation type="vanished">&lt;p&gt;Nous aurions besoin d&apos;un peu d&apos;aide pour maintenir la traduction de l&apos;application en français. Si vous voulez nous aider et que vous êtes capables d&apos;utiliser GIT, n&apos;hésitez pas à nous contacter.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="112"/>
+        <location filename="../../../src/Librarian.cpp" line="106"/>
         <source>
 &lt;p&gt;We receive our aviation data from &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. This is a not-for-profit organisation where volunteers compile aviation data for many countries. If openAIP covers your country, we might be able to generate maps for it. First, however, we need to be reasonably sure that the openAIP data is accurate and complete. Please have a look at the &lt;a href=&quot;http://maps.openaip.net&quot;&gt;openAIP maps&lt;/a&gt; and compare the display with an official aviation map of your country. Are the airfields there? Are runway lengths/orientations and frequencies correct? Are NavAids correctly displayed, with correct codes and frequencies? And what about airspaces?&lt;/p&gt;
 
@@ -3521,6 +3575,70 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <comment>NOTAM::NotamList</comment>
         <translatorcomment>NOTAM::NotamList</translatorcomment>
         <translation type="vanished">Données potentiellement obsolètes. Mise à jour demandée.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="56"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="78"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="83"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="88"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="318"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="325"/>
+        <source>Invalid number found: %1</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="67"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="120"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="135"/>
+        <source>Variable X is not set but Circle should be drawn</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="171"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="185"/>
+        <source>Invalid arc specification</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="302"/>
+        <source>Invalid content for VariableD (direction): %1</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="368"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="381"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="385"/>
+        <source>Invalid coordinate found: %1</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="493"/>
+        <source>Warnings</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="519"/>
+        <source>Cannot open file %1</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="583"/>
+        <source>Unrecognized record type in line %1: %2; Line ignored.</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="590"/>
+        <source>Error in line %1: %2; Airspace %3 ignored.</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
