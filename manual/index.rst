@@ -57,6 +57,7 @@ Further Steps
    :name: sec-steps
 
    02-steps/traffic
+   02-steps/safesky
    02-steps/nearby
    02-steps/weather
    02-steps/plan
