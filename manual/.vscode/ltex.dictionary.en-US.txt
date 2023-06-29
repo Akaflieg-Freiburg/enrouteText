@@ -20,3 +20,6 @@ Kebekus
 Wintererstraße
 flightmaps
 Osmand
+NMEA
+SafeSky
+Flarmnet
