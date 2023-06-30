@@ -23,3 +23,6 @@ Osmand
 NMEA
 SafeSky
 Flarmnet
+pingUSB
+SkyEcho
+uAvionix
