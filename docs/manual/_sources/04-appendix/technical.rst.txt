@@ -122,9 +122,33 @@ FLARM Output
   To communicate with SkyEcho devices, **Enroute Flight Navigation** will switch
   to the GDL90 protocol.
 
-Alitmeter readings
+Altimeter readings
   SkyEcho includes an integrated barometric altimeter, but does not have any
   access to static pressure.  To estimate the barometric altitude, the SkyEcho
   correlates cabin pressure altitude to altitudes of nearby traffic.  The author
   of **Enroute Flight Navigation** is not convinced that this method gives
   altimeter readings that are sufficiently realiable for aviation purposes.
+
+
+.. _pingUSB:
+
+Known issues with pingUSB devices
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Enroute Flight Navigation** works fine with pingUSB devices. There are,
+however, several shortcomings that users should be aware of.
+
+Unidirectional ADS-B
+  The pingUSB can receive ADS-B signals, but cannot send them.  The pingUSB
+  device cannot be seen by other ADS-B users.  The author of **Enroute Flight
+  Navigation** is not convinced that unidirectional ADS-B is a good idea.
+
+Altimeter readings
+  pingUSB reports the **barometric** altitude of traffic opponents, but does not
+  include a static pressure sensor required to measure the barometric altitude
+  of the own aircraft. As a result, **Enroute Flight Navigation** cannot compute
+  the relative height between the traffic and the own aircraft. The author of
+  **Enroute Flight Navigation** is aware of apps that compare the **barometric**
+  altitude of traffic to the **geometric** altitude of the own aircraft (which
+  can be measured via GPS), and hence show misleading traffic information. The
+  author is not convinced that pingUSB should be used for aviation purposes.

@@ -33,10 +33,9 @@ detail.
     display traffic factors only if the vertical distance is less than 1,500 m
     and the horizontal distance less than 20 nm.
 
-.. warning:: **Enroute Flight Navigation** shows traffic on the moving map, but
-    does not issue traffic warnings.  The app contains no collision avoidance
-    algorithms.  Color coding of traffic according to relevance works best with
-    FLARM devices.
+.. warning:: **Enroute Flight Navigation** does not issue traffic warnings.  The 
+    app contains no collision avoidance algorithms.  Color coding of traffic 
+    according to relevance works best with FLARM devices.
    
     
 Compatibility
@@ -53,11 +52,16 @@ traffic receivers.  The author has tested the following receivers.
   <https://www.air-avionics.com/?page_id=401>`_ Wi-Fi Adaptor by `Air Avionics
   <http://www.air-avionics.com/>`__.
   
+- `PowerFLARM Fusison <https://flarm.com/flarm-product/powerflarm-fusion/>`_ by
+  `FLARM Technology Ltd <https://flarm.com/>`_.
+  
 Users reported success with the following traffic receivers.
 
 - `PilotAware Rosetta <https://www.pilotaware.com/rosetta/>`_
-- `SkyEcho2 <https://uavionix.com/products/skyecho/>`_ -- but see the Section
-  :ref:`skyEcho`
+- `SkyEcho2 <https://uavionix.com/products/skyecho/>`_ -- but see the Sections
+  :ref:`skyEcho` and :ref:`gdl90problems`
+- `pingUSB <https://uavionix.com/products/pingusb>`_ -- but see the Sections 
+  :ref:`pingUSB` and :ref:`gdl90problems`
 - `Stratux devices <http://stratux.me/>`_
 - `TTGO T-Beam devices <https://www.amazon.de/TTGO-T-Beam-915Mhz-Wireless-Bluetooth/dp/B07SFVQ3Z8>`_
 
