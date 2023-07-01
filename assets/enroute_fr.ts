@@ -2542,6 +2542,11 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; pour iOS est disponible pour des tests bêta publics sur &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;page d&apos;accueil de cette application&lt;/a&gt; contient également un lien vers TestFlight.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="249"/>
+        <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>This app does not send any data to us or other parties. We do not collect data and we do not track our users. However, this app accesses internet sites that may not be under our control and may keep access logs.</source>
         <translation type="vanished">Cette application ne nous envoie pas des donnée ni à d&apos;autres parties. Nous ne collectons pas de données et nous ne suivons pas nos utilisateurs. Cependant, cette application accède à des sites Internet qui peuvent ne pas être sous notre contrôle et peut conserver des journaux d&apos;accès.</translation>
     </message>

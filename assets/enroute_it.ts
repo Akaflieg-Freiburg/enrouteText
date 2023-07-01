@@ -2872,6 +2872,11 @@ con i dati del conto bancario.
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è disponibileper beta testing pubblico per iOS su&lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;homepage di questa app&lt;/a&gt; contiene anche il link per TestFlight.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="249"/>
+        <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The app connects to &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;servers at the University of Freiburg&lt;/a&gt; to check for updates and to download maps and data.</source>
         <translation type="vanished">L&apos;app si connette ai &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;server dell&apos;Università di Friburgo&lt;/a&gt; per controllare gli aggiornamenti e scaricare mappe e dati.</translation>
     </message>
