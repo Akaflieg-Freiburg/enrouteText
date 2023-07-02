@@ -898,12 +898,12 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="181"/>
         <source>Errors</source>
-        <translation type="unfinished"></translation>
+        <translation>Błędy</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="205"/>
         <source>Error writing file &apos;%1&apos;: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd zapisywania pliku &apos;%1&apos;: %2.</translation>
     </message>
     <message>
         <source>Manually Imported</source>
@@ -2440,12 +2440,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="144"/>
         <source>Import Airspace Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuj dane przestrzeni powietrznych</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="198"/>
         <source>Airspace data imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane przestrzeni powietrznych zaimportowane</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="205"/>
@@ -2770,27 +2770,27 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="64"/>
         <source>Contributions</source>
-        <translation type="unfinished"></translation>
+        <translation>Wkład</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="65"/>
         <source>iOS Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Wersja iOS</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="65"/>
         <source>The app has been ported to iOS by Simon Schneider. Simon is currently student pilot (PPL) and member of the Akaflieg Freiburg flight club, just like Stefan.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aplikacja została przeniesiona na iOS przez Simona Schneidera. Simon jest obecnie studentem-pilotem (PPL) i członkiem klubu lotniczego Akaflieg Freiburg, podobnie jak Stefan.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="66"/>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation>Programowanie</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="66"/>
         <source>Heinz Blöchinger has helped us with OpenAir support. After 15 years of alpine gliding, Heinz has fulfilled a big dream and now flies helicopters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Heinz Blöchinger pomógł nam w obsłudze OpenAir. Po 15 latach szybownictwa alpejskiego Heinz spełnił wielkie marzenie i teraz lata helikopterami.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="71"/>
@@ -2858,7 +2858,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="92"/>
         <source>Manual</source>
-        <translation type="unfinished">Instrukcja obsługi</translation>
+        <translation>Instrukcja obsługi</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="93"/>
@@ -2930,17 +2930,17 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="245"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; for iOS is now available on the Apple &lt;a href=&apos;https://apps.apple.com/de/app/enroute-flight-navigation/id6448892176&apos;&gt;App Store&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; dla iOS jest już dostępne w Apple &lt;a href=&apos;https://apps.apple.com/de/app/enroute-flight-navigation/id6448892176&apos;&gt;App Store&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="247"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to import airspace data in OpenAir format. Check the manual for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; potrafi importować dane przestrzeni powietrznych w formacie OpenAir. Sprawdź instrukcję obsługi po szczegóły.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="248"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; integrates well with the &lt;a href=&apos;https://safesky.app&apos;&gt;SafeSky anti-collision app&lt;/a&gt; (a &apos;premium&apos; subscription of SafeSky is required). Check the manual for details, or go to the &apos;Settings&apos; page.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; poprawnie integruje się z &lt;a href=&apos;https://safesky.app&apos;&gt;aplikacją antykolizyjną SafeSky&lt;/a&gt; (wymagana jest subskrypcja „premium” SafeSky). Sprawdź instrukcję, aby uzyskać szczegółowe informacje, lub przejdź do strony „Ustawienia”.</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; for iOS is available for public beta testing on &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. The &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;homepage of this app&lt;/a&gt; also contains a link to TestFlight.</source>
@@ -2949,7 +2949,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="249"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
-        <translation type="unfinished"></translation>
+        <translation>Potrzebujemy pomocy z grafiką promocyjną dla sklepów z aplikacjami i filmami instruktażowymi. Jeśli jesteś grafikiem/video artystą i chciałbyś pomóc, skontaktuj się z nami.</translation>
     </message>
     <message>
         <source>The app connects to &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;servers at the University of Freiburg&lt;/a&gt; to check for updates and to download maps and data.</source>
@@ -4334,7 +4334,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/geomaps/OpenAir.cpp" line="325"/>
         <source>Invalid number found: %1</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Znaleziono niepoprawny numer: %1</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="67"/>
@@ -4342,20 +4342,20 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/geomaps/OpenAir.cpp" line="135"/>
         <source>Variable X is not set but Circle should be drawn</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Zmienna X nie jest ustawiona ale Okrąg powinien być wyrysowany</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="171"/>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="185"/>
         <source>Invalid arc specification</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Niepoprawna specyfikacja łuku</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="302"/>
         <source>Invalid content for VariableD (direction): %1</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Niepoprawna zawartość dla zmiennej D (kierunek): %1</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="368"/>
@@ -4363,31 +4363,31 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/geomaps/OpenAir.cpp" line="385"/>
         <source>Invalid coordinate found: %1</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Znaleziono niepoprawne koordynaty: %1</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="493"/>
         <source>Warnings</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ostrzeżenia</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="519"/>
         <source>Cannot open file %1</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć pliku %1</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="583"/>
         <source>Unrecognized record type in line %1: %2; Line ignored.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nierozpoznany typ rekordu w linii %1: %1; Linia zignorowana.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="590"/>
         <source>Error in line %1: %2; Airspace %3 ignored.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Błąd w linii %1: %1; Przestrzeń powietrzna %3 zignorowana.</translation>
     </message>
 </context>
 <context>
@@ -4610,17 +4610,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="376"/>
         <source>Connect to a traffic receiver…</source>
-        <translation type="unfinished"></translation>
+        <translation>Połącz do odbiornika ruchu lotniczego...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="384"/>
         <source>Connect to the SafeSky app…</source>
-        <translation type="unfinished"></translation>
+        <translation>Połącz do aplikacji SafeSky...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="392"/>
         <source>Connect to a flight simulator…</source>
-        <translation type="unfinished"></translation>
+        <translation>Połącz do symulatora lotu...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="488"/>
@@ -5701,17 +5701,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="172"/>
         <source>Connect to a traffic receiver…</source>
-        <translation type="unfinished"></translation>
+        <translation>Połącz do odbiornika ruchu lotniczego...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="180"/>
         <source>Connect to the SafeSky app…</source>
-        <translation type="unfinished"></translation>
+        <translation>Połącz do aplikacji SafeSky...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="189"/>
         <source>Connect to a flight simulator…</source>
-        <translation type="unfinished"></translation>
+        <translation>Połącz do symulatora lotu...</translation>
     </message>
     <message>
         <source>How to connect your traffic receiver…</source>
