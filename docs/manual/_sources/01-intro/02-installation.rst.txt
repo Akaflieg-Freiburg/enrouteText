@@ -5,7 +5,7 @@ App installation
 ----------------
 
 Installation on mobile devices
-  **Enroute Flight Navigation** is available for freee on `Google Play
+  **Enroute Flight Navigation** is available for free on `Google Play
   <https://play.google.com/store/apps/details?id=de.akaflieg_freiburg.enroute>`_
   and on the `App Store
   <https://apps.apple.com/us/app/enroute-flight-navigation/id6448892176>`_.
