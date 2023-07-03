@@ -127,7 +127,7 @@ Altimeter readings
   access to static pressure.  To estimate the barometric altitude, the SkyEcho
   correlates cabin pressure altitude to altitudes of nearby traffic.  The author
   of **Enroute Flight Navigation** is not convinced that this method gives
-  altimeter readings that are sufficiently realiable for aviation purposes.
+  altimeter readings that are sufficiently reliable for aviation purposes.
 
 
 .. _pingUSB:
