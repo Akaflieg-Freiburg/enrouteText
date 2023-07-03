@@ -4,18 +4,14 @@ Installation and setup
 App installation
 ----------------
 
-Installation on Android devices
-  **Enroute Flight Navigation** is available as an Android App in the `Google
-  Play Store
-  <https://play.google.com/store/apps/details?id=de.akaflieg_freiburg.enroute>`_.
-
-Installation on iOS devices
-  **Enroute Flight Navigation** has been ported to iOS and is available for
-  public beta testing. Download a public beta version of the app for iOS on
-  `Apple TestFlight <https://apps.apple.com/de/app/testflight/id899247664>`_.
+Installation on mobile devices
+  **Enroute Flight Navigation** is available for freee on `Google Play
+  <https://play.google.com/store/apps/details?id=de.akaflieg_freiburg.enroute>`_
+  and on the `App Store
+  <https://apps.apple.com/us/app/enroute-flight-navigation/id6448892176>`_.
   
 Installation on Linux desktop machines
-  **Enroute Flight Navigation** is available for free download at `flathub.org
+  **Enroute Flight Navigation** is available for free on `flathub.org
   <https://flathub.org/apps/details/de.akaflieg_freiburg.enroute>`_.  Depending
   on your Linux distribution, you might also find the app in the software
   management application on your computer.
