@@ -10,6 +10,13 @@ Navigation**. Once set up, the moving map of **Enroute Flight Navigation** will
 show nearby traffic, similar to the map display when connected to a traffic
 receiver.
 
+.. figure:: ./SafeSkyIntegration.png
+   :scale: 75 %
+   :align: center
+   :alt: SafeSky integration at work
+
+   SafeSky integration at work
+
 .. note:: To show only relevant traffic, **Enroute Flight Navigation** will
     display traffic factors only if the vertical distance is less than 1,500 m
     and the horizontal distance less than 20 nm.  The moving map of **Enroute 

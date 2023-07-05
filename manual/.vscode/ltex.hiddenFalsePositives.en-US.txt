@@ -1,0 +1,1 @@
+{"rule":"WHITESPACE_RULE","sentence":"^\\QIBAN:    DE35 6809 0000 0027 6409 07\nBIC:     GENODE61FR1\nBank:    Volksbank Freiburg\nMessage: Enroute Flight Navigation\\E$"}
