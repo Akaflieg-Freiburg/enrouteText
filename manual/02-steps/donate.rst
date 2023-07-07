@@ -18,7 +18,7 @@ tax-deductible in Germany. Contact `info@akaflieg-freiburg.de
 PayPal
 ^^^^^^
 
-`Donate with PayPal by clicking here
+Donate with PayPal: `click here
 <https://www.paypal.com/donate/?hosted_button_id=FDQATDX6XZR3E>`_ or scan the QR
 code below.
 
