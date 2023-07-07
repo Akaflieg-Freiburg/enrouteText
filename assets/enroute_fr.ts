@@ -1284,7 +1284,27 @@ données de manière publique et gratuite.&lt;/p&gt;
         <translation>Faire un don</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="54"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="57"/>
+        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a non-commercial project of Akaflieg Freiburg, supported by the University of Freiburg. The app has been written by flight enthusiasts in their spare time, as a service to the community. The developers do not take donations.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="58"/>
+        <source>If you appreciate the app, please consider a donation to Akaflieg Freiburg, a tax-privileged, not-for-profit flight club of public utility in Freiburg, Germany. The club will use your donation to promote aviation as recreational sport.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="69"/>
+        <source>Donate with PayPal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="83"/>
+        <source>If you prefer, you can also send yourself an e-mail with the bank account data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="96"/>
         <source>
 IBAN:    DE35 6809 0000 0027 6409 07
 BIC:     GENODE61FR1
@@ -1299,7 +1319,11 @@ Message: Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="64"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="113"/>
+        <source>Donations to Akaflieg Freiburg are tax-deductible in Germany. Contact &lt;a href=&apos;mailto:info@akaflieg-freiburg.de&apos;&gt;info@akaflieg-freiburg.de&lt;/a&gt; for a tax statement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>
 **Enroute Flight Navigation** is a
 non-commercial project of Akaflieg Freiburg and the
@@ -1319,7 +1343,7 @@ If you prefer to work on
 your desktop computer, you can also send yourself an e-mail
 with the bank account data.
 </source>
-        <translation>
+        <translation type="vanished">
 **Enroute Flight Navigation** est un
 projet non commercial de Akaflieg Freiburg et de l&apos;Université de Freiburg. 
 L&apos;application est développée par des pilotes amateurs durant leur temps libre, 
@@ -1337,12 +1361,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="93"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="94"/>
         <source>Send e-mail</source>
         <translation>Envoyer l&apos;e-mail</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="98"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="105"/>
         <source>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</source>
         <translation>mailto:?subject=Enroute Flight Navigation, Don&amp;body=%1</translation>
     </message>
@@ -2533,11 +2557,16 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="247"/>
+        <source>Akaflieg Freiburg is now able to accept donations via PayPal. If you appreciate the app and would like make a donation, &lt;a href=&apos;https://www.paypal.com/donate/?hosted_button_id=FDQATDX6XZR3E&apos;&gt;click here&lt;/a&gt; or open the main menu and go to Info/Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="248"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to import airspace data in OpenAir format. Check the manual for details.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est désormais capable d&apos;importer des données d&apos;espace aérien au format OpenAir. Consultez le manuel pour plus de détails.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="248"/>
+        <location filename="../../../src/Librarian.cpp" line="249"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; integrates well with the &lt;a href=&apos;https://safesky.app&apos;&gt;SafeSky anti-collision app&lt;/a&gt; (a &apos;premium&apos; subscription of SafeSky is required). Check the manual for details, or go to the &apos;Settings&apos; page.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; s&apos;intègre bien avec l&apos;&lt;a href=&apos;https://safesky.app&apos;&gt;application anti-collision SafeSky&lt;/a&gt; (un abonnement «&#xa0;premium&#xa0;» de SafeSky est requis). Consultez le manuel pour plus de détails ou rendez-vous sur la page «&#xa0;Paramètres&#xa0;».</translation>
     </message>
@@ -2546,7 +2575,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; pour iOS est disponible pour des tests bêta publics sur &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;page d&apos;accueil de cette application&lt;/a&gt; contient également un lien vers TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="249"/>
+        <location filename="../../../src/Librarian.cpp" line="250"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Nous avons besoin d&apos;aide avec des graphiques promotionnels pour les app stores et avec des vidéos explicatives. Si vous êtes un artiste graphique/vidéo et que vous souhaitez aider, n&apos;hésitez pas à nous contacter.</translation>
     </message>

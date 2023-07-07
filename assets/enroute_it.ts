@@ -1601,7 +1601,27 @@ la nostra App.&lt;/p&gt;
         <translation>Dona</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="54"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="57"/>
+        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a non-commercial project of Akaflieg Freiburg, supported by the University of Freiburg. The app has been written by flight enthusiasts in their spare time, as a service to the community. The developers do not take donations.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="58"/>
+        <source>If you appreciate the app, please consider a donation to Akaflieg Freiburg, a tax-privileged, not-for-profit flight club of public utility in Freiburg, Germany. The club will use your donation to promote aviation as recreational sport.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="69"/>
+        <source>Donate with PayPal</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="83"/>
+        <source>If you prefer, you can also send yourself an e-mail with the bank account data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="96"/>
         <source>
 IBAN:    DE35 6809 0000 0027 6409 07
 BIC:     GENODE61FR1
@@ -1616,7 +1636,11 @@ Causale: Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="64"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="113"/>
+        <source>Donations to Akaflieg Freiburg are tax-deductible in Germany. Contact &lt;a href=&apos;mailto:info@akaflieg-freiburg.de&apos;&gt;info@akaflieg-freiburg.de&lt;/a&gt; for a tax statement.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>
 **Enroute Flight Navigation** is a
 non-commercial project of Akaflieg Freiburg and the
@@ -1636,7 +1660,7 @@ If you prefer to work on
 your desktop computer, you can also send yourself an e-mail
 with the bank account data.
 </source>
-        <translation>
+        <translation type="vanished">
 **Enroute Flight Navigation** è un
 progetto non-commercial di Akaflieg Freiburg e l&apos;università di
 Freiburg. L&apos;app è stata scritta in volo
@@ -1657,12 +1681,12 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="93"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="94"/>
         <source>Send e-mail</source>
         <translation>Invia una e-mail</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="98"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="105"/>
         <source>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</source>
         <translation>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</translation>
     </message>
@@ -2863,11 +2887,16 @@ con i dati del conto bancario.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="247"/>
+        <source>Akaflieg Freiburg is now able to accept donations via PayPal. If you appreciate the app and would like make a donation, &lt;a href=&apos;https://www.paypal.com/donate/?hosted_button_id=FDQATDX6XZR3E&apos;&gt;click here&lt;/a&gt; or open the main menu and go to Info/Donate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="248"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to import airspace data in OpenAir format. Check the manual for details.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; può adesso importare dati degli spazi aerei in formato OpenAir. Controlla il manuale per i dettagli.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="248"/>
+        <location filename="../../../src/Librarian.cpp" line="249"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; integrates well with the &lt;a href=&apos;https://safesky.app&apos;&gt;SafeSky anti-collision app&lt;/a&gt; (a &apos;premium&apos; subscription of SafeSky is required). Check the manual for details, or go to the &apos;Settings&apos; page.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; si integra bene con la app anticollisione &lt;a href=&apos;https://safesky.app&apos;&gt;SafeSky&lt;/a&gt; (è richiesta una sottoscrizione premium per SafeSky). Controlla il manuale per i dettagli, o vai nella pagina &apos;Impostazioni&apos;.</translation>
     </message>
@@ -2876,7 +2905,7 @@ con i dati del conto bancario.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è disponibileper beta testing pubblico per iOS su&lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;homepage di questa app&lt;/a&gt; contiene anche il link per TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="249"/>
+        <location filename="../../../src/Librarian.cpp" line="250"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Abbiamo bisogno di grafica promozionale per la app store e con video di spiegazione. Contattaci se sei un artista video/grafico e vorresti aiutare.</translation>
     </message>
