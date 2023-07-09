@@ -1286,22 +1286,22 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="57"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a non-commercial project of Akaflieg Freiburg, supported by the University of Freiburg. The app has been written by flight enthusiasts in their spare time, as a service to the community. The developers do not take donations.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est un projet non commercial d&apos;Akaflieg Freiburg, soutenu par l&apos;Université de Fribourg. L&apos;application a été écrite par des passionnés de vol pendant leur temps libre, en tant que service à la communauté. Les développeurs ne prennent pas de dons.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="58"/>
         <source>If you appreciate the app, please consider a donation to Akaflieg Freiburg, a tax-privileged, not-for-profit flight club of public utility in Freiburg, Germany. The club will use your donation to promote aviation as recreational sport.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si vous appréciez l&apos;application, veuillez envisager de faire un don à Akaflieg Freiburg, un club de vol d&apos;utilité publique à but non lucratif bénéficiant de privilèges fiscaux à Fribourg, en Allemagne. Le club utilisera votre don pour promouvoir l&apos;aviation comme sport de loisir.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="69"/>
         <source>Donate with PayPal</source>
-        <translation type="unfinished"></translation>
+        <translation>Faire un don avec PayPal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="83"/>
         <source>If you prefer, you can also send yourself an e-mail with the bank account data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si vous préférez, vous pouvez également vous envoyer un e-mail avec les données du compte bancaire.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="96"/>
@@ -1321,7 +1321,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="113"/>
         <source>Donations to Akaflieg Freiburg are tax-deductible in Germany. Contact &lt;a href=&apos;mailto:info@akaflieg-freiburg.de&apos;&gt;info@akaflieg-freiburg.de&lt;/a&gt; for a tax statement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les dons à Akaflieg Freiburg sont déductibles des impôts en Allemagne. Contactez &lt;a href=&apos;mailto:info@akaflieg-freiburg.de&apos;&gt;info@akaflieg-freiburg.de&lt;/a&gt; pour une déclaration fiscale.</translation>
     </message>
     <message>
         <source>
@@ -2558,7 +2558,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="247"/>
         <source>Akaflieg Freiburg is now able to accept donations via PayPal. If you appreciate the app and would like make a donation, &lt;a href=&apos;https://www.paypal.com/donate/?hosted_button_id=FDQATDX6XZR3E&apos;&gt;click here&lt;/a&gt; or open the main menu and go to Info/Donate</source>
-        <translation type="unfinished"></translation>
+        <translation>Akaflieg Freiburg peut désormais accepter des dons via PayPal. Si vous appréciez l&apos;application et souhaitez faire un don, &lt;a href=&apos;https://www.paypal.com/donate/?hosted_button_id=FDQATDX6XZR3E&apos;&gt;cliquez ici&lt;/a&gt; ou ouvrez le menu principal et accédez à Info /Donner</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="248"/>
