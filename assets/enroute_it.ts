@@ -1603,22 +1603,22 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="57"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a non-commercial project of Akaflieg Freiburg, supported by the University of Freiburg. The app has been written by flight enthusiasts in their spare time, as a service to the community. The developers do not take donations.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è un progetto non commerciale di Akaflieg Freiburg, supportato dall&apos;Università di Freiburg. La app è stata scritta da entusiasti nel loro tempo libero, come servizio alla comunità. Gli sviluppatori non accettano donazioni.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="58"/>
         <source>If you appreciate the app, please consider a donation to Akaflieg Freiburg, a tax-privileged, not-for-profit flight club of public utility in Freiburg, Germany. The club will use your donation to promote aviation as recreational sport.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se apprezzate la app, per favore considerate di fare una donazione al Akaflieg Freiburg, un club di volo no profit di pubblica utilità a Freiburg, Germania. Il club userà la vostra donazione per promuovere l&apos;aviazione come sport ricreativo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="69"/>
         <source>Donate with PayPal</source>
-        <translation type="unfinished"></translation>
+        <translation>Donate con PayPal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="83"/>
         <source>If you prefer, you can also send yourself an e-mail with the bank account data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se preferite, potete anche inviare una email con la ricevuta del versamento.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="96"/>
@@ -1638,7 +1638,7 @@ Causale: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="113"/>
         <source>Donations to Akaflieg Freiburg are tax-deductible in Germany. Contact &lt;a href=&apos;mailto:info@akaflieg-freiburg.de&apos;&gt;info@akaflieg-freiburg.de&lt;/a&gt; for a tax statement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le donazioni al club Akaflieg Freiburg sono deducibili dalle tasse in Germania. Contattate &lt;a href=&apos;mailto:info@akaflieg-freiburg.de&apos;&gt;info@akaflieg-freiburg.de&lt;/a&gt; per la relativa dichiarazione.</translation>
     </message>
     <message>
         <source>
@@ -2888,7 +2888,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="247"/>
         <source>Akaflieg Freiburg is now able to accept donations via PayPal. If you appreciate the app and would like make a donation, &lt;a href=&apos;https://www.paypal.com/donate/?hosted_button_id=FDQATDX6XZR3E&apos;&gt;click here&lt;/a&gt; or open the main menu and go to Info/Donate</source>
-        <translation type="unfinished"></translation>
+        <translation>Akaflieg Freiburg può adesso accettare donazioni anche via PayPal. Se vi piace la app e vorrete fare una donazione, &lt;a href=&apos;https://www.paypal.com/donate/?hosted_button_id=FDQATDX6XZR3E&apos;&gt;cliccate qui&lt;/a&gt; per aprire il menu principale ed effettuare.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="248"/>
