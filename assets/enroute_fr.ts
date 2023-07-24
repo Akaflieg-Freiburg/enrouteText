@@ -1381,32 +1381,36 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
 <context>
     <name>FirstRunDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="45"/>
         <source>Welcome to Enroute Flight Navigation - A project of Akaflieg Freiburg</source>
-        <translation>Bienvenue sur Enroute Flight Navigation - Un projet d&apos;Akaflieg Freiburg</translation>
+        <translation type="vanished">Bienvenue sur Enroute Flight Navigation - Un projet d&apos;Akaflieg Freiburg</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="46"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="44"/>
+        <source>Welcome!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="47"/>
         <source>Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.</source>
         <translation>Merci d&apos;utiliser cette application de navigation aérienne ! Avant de commencer, nous devons souligner que &lt;strong&gt;cette application et les données de l&apos;aviation ne sont assorties d&apos;aucune garantie&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="47"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="48"/>
         <source>The app is not certified to satisfy aviation standards. It may contain errors and may not work as expected.</source>
         <translation>L&apos;application n&apos;est pas certifiée conforme aux normes de l&apos;aviation. Il peut contenir des erreurs et ne pas fonctionner comme prévu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="48"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="49"/>
         <source>The aviation data does not come from official sources. It might be incomplete, outdated or otherwise incorrect.</source>
         <translation>Les données aéronautiques ne proviennent pas de sources officielles. Il peut être incomplet, obsolète ou autrement incorrect.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="49"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="50"/>
         <source>&lt;strong&gt;This app is no substitute for proper flight preparation or good pilotage.&lt;/strong&gt; We hope you enjoy the app and that you do find it useful.</source>
         <translation>&lt;strong&gt;Cette application ne remplace pas une bonne préparation de vol ou un bon pilotage.&lt;/strong&gt; Nous espérons que vous apprécierez l&apos;application et que vous la trouverez utile.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="50"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="51"/>
         <source>Fly safely and enjoy many happy landings!</source>
         <translation>Volez en toute sécurité et profitez de nombreux atterrissages heureux&#xa0;!</translation>
     </message>
@@ -1416,27 +1420,31 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation>Confidentialité</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="82"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="84"/>
         <source>Please take a minute to review our privacy policies.</source>
         <translation>Veuillez prendre une minute pour consulter nos politiques de confidentialité.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="110"/>
-        <source>Privacy-relevant permissions requested by this app</source>
-        <translation>Autorisations liées à la confidentialité demandées par cette application</translation>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="111"/>
+        <source>Permissions</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="111"/>
+        <source>Privacy-relevant permissions requested by this app</source>
+        <translation type="vanished">Autorisations liées à la confidentialité demandées par cette application</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="114"/>
         <source>Please grant the following permissions when prompted.</source>
         <translation>Veuillez accorder l&apos;autorisation suivante lorsque vous y êtes invité.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="158"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="159"/>
         <source>Based on your location, we reckon that that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
         <translation>Au vu de votre position, les cartes suivantes devraient vous être utiles. Cliquez sur la carte pour démarrer la mise à jour, puis appuyez sur &apos;Terminé&apos; pour fermer cette boite de dialogue.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="160"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="161"/>
         <source>Based on your location, we reckon that that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
         <translation>Au vu de votre position, les cartes suivantes devraient vous être utiles. Cliquez sur la carte pour démarrer la mise à jour, puis appuyez sur &apos;Terminé&apos; pour fermer cette boite de dialogue.</translation>
     </message>
@@ -1445,17 +1453,17 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation type="vanished">Veuillez accorder l&apos;autorisation suivante lorsque vous y êtes invité.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="146"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="141"/>
         <source>Download Maps</source>
         <translation>Télécharger les cartes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="149"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="150"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; needs geographic maps to work.</source>
         <translation>La &lt;strong&gt;navigation aérienne en route&lt;/strong&gt; a besoin de cartes géographiques pour fonctionner.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="156"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="157"/>
         <source>Regretfully, we do not offer maps for your present location (%1).</source>
         <translation>Malheureusement, nous ne proposons pas de cartes pour votre emplacement actuel (%1).</translation>
     </message>
@@ -1468,27 +1476,27 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation type="vanished">En fonction de votre emplacement, nous estimons que les cartes suivantes pourraient être pertinentes pour vous. Cliquez sur n&apos;importe quelle carte pour lancer le téléchargement, puis cliquez sur &apos;Accepter&apos; pour fermer cette boîte de dialogue.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="164"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="165"/>
         <source>We&apos;re waiting for SatNav position infoformation to suggest maps that might be relevant for you. Please stand by.</source>
         <translation>Nous attendons les informations de position SatNav pour vous suggérer des cartes qui pourraient vous intéresser. Veuillez patienter.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="169"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="170"/>
         <source>We&apos;re downloading the list of available maps. Please stand by.</source>
         <translation>Nous téléchargeons la liste des cartes disponibles. Veuillez patienter.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="213"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="214"/>
         <source>For the full list of maps, close this dialog, open the main menu and go to &apos;Library/Maps and Data&apos;. It is also possible to import raster maps into this app. Check the manual for details.</source>
         <translation>Pour la liste complète des cartes, fermez cette boîte de dialogue, ouvrez le menu principal et allez dans &apos;Bibliothèque/Cartes et données&apos;. Il est également possible d&apos;importer des cartes raster dans cette application. Consultez le manuel pour plus de détails.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="267"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="270"/>
         <source>Done</source>
         <translation>Terminé</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="268"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="271"/>
         <source>Accept</source>
         <translation>Accepter</translation>
     </message>
@@ -1522,12 +1530,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
         <translation type="vanished">Nom du point tournant</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="103"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="112"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant n&apos;a été trouvé. Assurez-vous qu&apos;une carte aéronautique a été installée.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="104"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="113"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
     </message>
@@ -3033,22 +3041,22 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
 <context>
     <name>Navigation::Navigator</name>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="337"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="334"/>
         <source>Cruise speed not specified.</source>
         <translation>Vitesse de croisière non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="341"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="338"/>
         <source>Wind speed not specified.</source>
         <translation>Vitesse du vent non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="345"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="342"/>
         <source>Wind direction not specified.</source>
         <translation>Direction du vent non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="349"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="346"/>
         <source>Computation incomplete. %1</source>
         <translation>Calcul non-terminé. %1</translation>
     </message>
@@ -3121,27 +3129,27 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
 <context>
     <name>Notifications::NotificationManager</name>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="106"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="108"/>
         <source>Test notification</source>
         <translation>Notification de test</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="114"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="116"/>
         <source>This is a test of the speech engine.</source>
         <translation>Il s&apos;agit d&apos;un test du moteur vocal.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="262"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="264"/>
         <source>Info.</source>
         <translation>Info</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="266"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="268"/>
         <source>Warning.</source>
         <translation>Avertissement</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="269"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="271"/>
         <source>Alert!</source>
         <translation>Alerte</translation>
     </message>
@@ -3150,12 +3158,12 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
         <translation type="vanished">Téléchargement des cartes et des données...</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="330"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="332"/>
         <source>Traffic data receiver problem</source>
         <translation>Problème du récepteur de données de traffic</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="347"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="349"/>
         <source>Traffic data receiver self test error</source>
         <translation>Erreur de l&apos;auto-test du récepteur de données de traffic</translation>
     </message>
@@ -3411,82 +3419,127 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Positioning</name>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="32"/>
         <source>Positioning</source>
-        <translation>Positionnement</translation>
+        <translation type="vanished">Positionnement</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="59"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="58"/>
         <source>Status</source>
         <translation>Statut</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="99"/>
         <source>Position Data</source>
-        <translation>Données de position</translation>
+        <translation type="vanished">Données de position</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="104"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="99"/>
         <source>Latitude</source>
         <translation>Latitude</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="117"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="113"/>
         <source>Longitude</source>
         <translation>Longitude</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="129"/>
         <source>True Altitude (AMSL)</source>
-        <translation>Altitude vraie (AMSL)</translation>
+        <translation type="vanished">Altitude vraie (AMSL)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="132"/>
         <source>True Altitude (AGL)</source>
-        <translation>Altitude vraie (AGL)</translation>
+        <translation type="vanished">Altitude vraie (AGL)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="135"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="126"/>
         <source>Error (horizontal)</source>
         <translation>Erreur (horizontale)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="143"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="183"/>
         <source>Error (vertical)</source>
         <translation>Erreur (verticale)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="146"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="193"/>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="199"/>
         <source>Magnetic Variation</source>
         <translation>Variation magnétique</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="153"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="135"/>
         <source>Ground Speed</source>
         <translation>Vitesse sol</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="156"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="32"/>
+        <source>SatNav Positioning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="93"/>
+        <source>Position</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="139"/>
         <source>True Track</source>
         <translation>Route vraie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="164"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="148"/>
         <source>Error (True Track)</source>
         <translation>Erreur (Route vrai)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="172"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="159"/>
+        <source>Altitude</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="167"/>
+        <source>Altitudes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
+        <source>True altitude, also known as geometric altitude, is the vertical distance from the aircraft to the main sea level.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="169"/>
+        <source>Absolute altitude is the vertical distance from the aircraft to the terrain.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="170"/>
+        <source>&lt;strong&gt;Warning:&lt;/strong&gt; Vertical airspace limits are defined in terms of barometric altitude. Depending on weather, true altitude and barometric altitude may differ substantially. &lt;strong&gt;Never use true altitude to judge the vertical distance from your aircraft to an airspace boundary.&lt;/strong&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="175"/>
+        <source>True Altitude</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="179"/>
+        <source>Absolute Altitude</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="187"/>
         <source>Vertical Speed</source>
         <translation>Vitesse verticale</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="175"/>
         <source>Pressure Altitude</source>
-        <translation>Altitude pression</translation>
+        <translation type="vanished">Altitude pression</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="178"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="207"/>
         <source>Timestamp</source>
         <translation>Horodatage</translation>
     </message>
@@ -3537,25 +3590,131 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Positioning::PositionProvider</name>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="251"/>
         <source>Receiving position information.</source>
-        <translation>Réception des informations sur la position.</translation>
+        <translation type="vanished">Réception des informations sur la position.</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="253"/>
         <source>Receiving pressure altitude.</source>
-        <translation>Réception de l&apos;altitude pression</translation>
+        <translation type="vanished">Réception de l&apos;altitude pression</translation>
     </message>
     <message>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="251"/>
+        <source>Source</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="252"/>
+        <source>Receiving position information</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="258"/>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="260"/>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="262"/>
         <source>Not receiving position information</source>
         <translation>Aucune réception des informations sur la position</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="262"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="260"/>
         <source>Traffic receiver</source>
         <translation>Récepteur de traffic</translation>
+    </message>
+</context>
+<context>
+    <name>PressureAltitude</name>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="32"/>
+        <source>Barometric Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="59"/>
+        <source>Status</source>
+        <translation type="unfinished">Statut</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="71"/>
+        <source>Receiving static pressure data from traffic receiver</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="71"/>
+        <source>Not connected to a traffic receiver that provides static pressure data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="122"/>
+        <source>Barometric Altitudes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="130"/>
+        <source>Altitudes</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="131"/>
+        <source>Pressure altitude is the value shown by your altimeter when set to the standard value 1013.2 hPa. The pressure altitude is used to define airspace boundaries and vertical aircraft position above the transition altitude.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="132"/>
+        <source>Altitude is the value shown by your altimeter when set to QNH. The altitude is used to define airspace boundaries and vertical aircraft position below the transition level.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="133"/>
+        <source>Density altitude is the altitude at which an aircraft flying in the ICAO standard atmosphere experiences an air density equal to the density measured by the ambient pressure/temperature sensors of your device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="134"/>
+        <source>Cabin altitude is the altitude at which an aircraft flying in the ICAO standard atmosphere experiences a static pressure equal to the pressure in the cabin of your aircraft.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="140"/>
+        <source>Pressure Altitude</source>
+        <translation type="unfinished">Altitude pression</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="148"/>
+        <source>Altitude</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="165"/>
+        <source>Density Altitude</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="173"/>
+        <source>Cabin Altitude</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="183"/>
+        <source>Device Sensors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="189"/>
+        <source>Pressure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="197"/>
+        <source>Temperature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="207"/>
+        <source>Other</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="213"/>
+        <source>QNH</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -3724,6 +3883,24 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/items/RemainingRouteBar.qml" line="225"/>
         <source>Near destination.</source>
         <translation>Près de la destination.</translation>
+    </message>
+</context>
+<context>
+    <name>Sensors</name>
+    <message>
+        <location filename="../../../src/Sensors.cpp" line="109"/>
+        <source>Pressure sensor available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Sensors.cpp" line="113"/>
+        <source>Temperature sensor available</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Sensors.cpp" line="118"/>
+        <source>No ambient pressure/temperature sensor available</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8321,62 +8498,62 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Weather::METAR</name>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="241"/>
+        <location filename="../../../src/weather/METAR.cpp" line="232"/>
         <source>VMC</source>
         <translation>VMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="239"/>
+        <location filename="../../../src/weather/METAR.cpp" line="230"/>
         <source>CAVOK</source>
         <translation>CAVOK</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="245"/>
+        <location filename="../../../src/weather/METAR.cpp" line="236"/>
         <source>marginal VMC</source>
         <translation>MVMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="248"/>
+        <location filename="../../../src/weather/METAR.cpp" line="239"/>
         <source>IMC</source>
         <translation>IMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="251"/>
+        <location filename="../../../src/weather/METAR.cpp" line="242"/>
         <source>low IMC</source>
         <translation>LIMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="261"/>
+        <location filename="../../../src/weather/METAR.cpp" line="252"/>
         <source>gusts of %1 km/h</source>
         <translation>rafales de %1 km/h</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="264"/>
+        <location filename="../../../src/weather/METAR.cpp" line="255"/>
         <source>gusts of %1 mph</source>
         <translation>rafales de %1 mph</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="267"/>
+        <location filename="../../../src/weather/METAR.cpp" line="258"/>
         <source>gusts of %1 kn</source>
         <translation>rafales de %1 kn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="273"/>
+        <location filename="../../../src/weather/METAR.cpp" line="264"/>
         <source>wind at %1 km/h</source>
         <translation>vent à %1 km/h</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="276"/>
+        <location filename="../../../src/weather/METAR.cpp" line="267"/>
         <source>wind at %1 mph</source>
         <translation>vent à %1 mph</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="279"/>
+        <location filename="../../../src/weather/METAR.cpp" line="270"/>
         <source>wind at %1 kn</source>
         <translation>vent à %1 kn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="294"/>
+        <location filename="../../../src/weather/METAR.cpp" line="285"/>
         <source>%1 %2: %3</source>
         <translation>%1 %2: %3</translation>
     </message>
@@ -8400,9 +8577,13 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>SS %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="520"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="569"/>
+        <source>%1 hPa in %2, %3</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>QNH: %1 hPa in %2, %3</source>
-        <translation>QNH: %1 hPa à %2, %3</translation>
+        <translation type="vanished">QNH: %1 hPa à %2, %3</translation>
     </message>
 </context>
 <context>
@@ -8468,37 +8649,42 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Informations</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="330"/>
+        <location filename="../../../src/qml/main.qml" line="305"/>
+        <source>SatNav Positioning</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="352"/>
         <source>Receiving heartbeat.</source>
         <translation>Réception de données</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="330"/>
+        <location filename="../../../src/qml/main.qml" line="352"/>
         <source>Not receiving heartbeat.</source>
         <translation>Aucune réception de données</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="354"/>
+        <location filename="../../../src/qml/main.qml" line="376"/>
         <source>About Enroute Flight Navigation</source>
         <translation>A propos d&apos;Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="393"/>
+        <location filename="../../../src/qml/main.qml" line="415"/>
         <source>Donate</source>
         <translation>Faire un don</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="511"/>
+        <location filename="../../../src/qml/main.qml" line="533"/>
         <source>Bug report</source>
         <translation>Signaler un bug</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="380"/>
+        <location filename="../../../src/qml/main.qml" line="402"/>
         <source>Participate</source>
         <translation>Contribuer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="328"/>
+        <location filename="../../../src/qml/main.qml" line="350"/>
         <source>Traffic Receiver</source>
         <translation>Récepteur de traffic</translation>
     </message>
@@ -8544,9 +8730,8 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Points tournants</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="305"/>
         <source>Positioning</source>
-        <translation>Positionnement</translation>
+        <translation type="vanished">Positionnement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="307"/>
@@ -8554,113 +8739,128 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Aucune réception de l&apos;information sur la position.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="367"/>
+        <location filename="../../../src/qml/main.qml" line="326"/>
+        <source>Barometric Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="328"/>
+        <source>Receiving pressure altitude.</source>
+        <translation type="unfinished">Réception de l&apos;altitude pression</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="328"/>
+        <source>Not receiving pressure altitude.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="389"/>
         <source>Privacy Policy</source>
         <translation>Politique de confidentialité</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="418"/>
+        <location filename="../../../src/qml/main.qml" line="440"/>
         <source>Manual</source>
         <translation>Manuel</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="431"/>
+        <location filename="../../../src/qml/main.qml" line="453"/>
         <source>Read manual</source>
         <translation>Lire le manuel</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="459"/>
+        <location filename="../../../src/qml/main.qml" line="481"/>
         <source>Open in browser</source>
         <translation>Ouvrir dans un navigateur</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="474"/>
+        <location filename="../../../src/qml/main.qml" line="496"/>
         <source>Download as ebook</source>
         <translation>Télécharger l&apos;ebook</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="488"/>
+        <location filename="../../../src/qml/main.qml" line="510"/>
         <source>Download as PDF</source>
         <translation>Télécharger le PDF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="536"/>
+        <location filename="../../../src/qml/main.qml" line="558"/>
         <source>Exit</source>
         <translation>Quitter</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="585"/>
+        <location filename="../../../src/qml/main.qml" line="607"/>
         <source>Update required!</source>
         <translation>Mise à jour requise !</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="702"/>
+        <location filename="../../../src/qml/main.qml" line="724"/>
         <source>Connected to traffic receiver.</source>
         <translation>Connecté au récepteur de traffic.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="704"/>
+        <location filename="../../../src/qml/main.qml" line="726"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Connexion au récepteur de traffic perdue.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="742"/>
+        <location filename="../../../src/qml/main.qml" line="764"/>
         <source>Exit…?</source>
         <translation>Quitter ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="743"/>
+        <location filename="../../../src/qml/main.qml" line="765"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Voulez-vous vraiment quitter &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="753"/>
-        <location filename="../../../src/qml/main.qml" line="762"/>
+        <location filename="../../../src/qml/main.qml" line="775"/>
+        <location filename="../../../src/qml/main.qml" line="784"/>
         <source>What&apos;s new…?</source>
         <translation>Nouveautés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="792"/>
+        <location filename="../../../src/qml/main.qml" line="814"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Affichage des espaces aériens jusqu&apos;à %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="794"/>
+        <location filename="../../../src/qml/main.qml" line="816"/>
         <source>Now showing all airspaces.</source>
         <translation>Affichage de tous les espaces aériens.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="828"/>
+        <location filename="../../../src/qml/main.qml" line="850"/>
         <source>You have chosen to ignore network security errors in the future.</source>
         <translation>Vous avez choisi d&apos;ignorer les prochaines erreurs de sécurité réseau.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="829"/>
+        <location filename="../../../src/qml/main.qml" line="851"/>
         <source>This poses a security risk.</source>
         <translation>Risque de sécurité.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="830"/>
+        <location filename="../../../src/qml/main.qml" line="852"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Allez sur la page &apos;Réglages&apos; si vous souhaitez restaurer les paramètres originaux et sécurisé de l&apos;application.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="860"/>
+        <location filename="../../../src/qml/main.qml" line="882"/>
         <source>Error!</source>
         <translation>Erreur!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="874"/>
+        <location filename="../../../src/qml/main.qml" line="896"/>
         <source>Starting map update</source>
         <translation>Mise à jour des cartes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="815"/>
+        <location filename="../../../src/qml/main.qml" line="837"/>
         <source>Network security error</source>
         <translation>Erreur de sécurité réseau</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="827"/>
+        <location filename="../../../src/qml/main.qml" line="849"/>
         <source>Network security settings</source>
         <translation>Paramètres de sécurité réseau</translation>
     </message>
