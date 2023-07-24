@@ -57,11 +57,8 @@ In the main menu of Safe Sky, choose the box "Traffic Sharing". The page
 - Choose the option "Enable traffic sharing"
   
 - Touch the field below "Enable traffic sharing" to open the list of supported
-  navigation apps. Choose "Generic GDL90" from the list and touch the button
-  "back" to close the list.
-
-- Back on the page "Traffic Sharing", choose the option "Force to use SafeSky as
-  a GPS source"
+  navigation apps. Choose "Enroute" from the list and touch the button "back" to
+  close the list.
 
 - Touch the button "back" to close page "Traffic sharing". Leave the main menu
   and return to the SafeSky main page.
