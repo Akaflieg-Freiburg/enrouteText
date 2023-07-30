@@ -1394,7 +1394,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="44"/>
         <source>Welcome!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenido!</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="47"/>
@@ -1434,7 +1434,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="111"/>
         <source>Permissions</source>
-        <translation type="unfinished"></translation>
+        <translation>Permisos</translation>
     </message>
     <message>
         <source>Privacy-relevant permissions requested by this app</source>
@@ -3356,7 +3356,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="193"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Otro</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="199"/>
@@ -3371,12 +3371,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="32"/>
         <source>SatNav Positioning</source>
-        <translation type="unfinished"></translation>
+        <translation>Posicionamiento de navegación por satélite</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="93"/>
         <source>Position</source>
-        <translation type="unfinished"></translation>
+        <translation>Posición</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="139"/>
@@ -3391,37 +3391,37 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="159"/>
         <source>Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitud</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="167"/>
         <source>Altitudes</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitudes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
         <source>True altitude, also known as geometric altitude, is the vertical distance from the aircraft to the main sea level.</source>
-        <translation type="unfinished"></translation>
+        <translation>La altitud real, también conocida como altitud geométrica, es la distancia vertical desde la aeronave hasta el nivel principal del mar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="169"/>
         <source>Absolute altitude is the vertical distance from the aircraft to the terrain.</source>
-        <translation type="unfinished"></translation>
+        <translation>La altitud absoluta es la distancia vertical desde el avión hasta el terreno.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="170"/>
         <source>&lt;strong&gt;Warning:&lt;/strong&gt; Vertical airspace limits are defined in terms of barometric altitude. Depending on weather, true altitude and barometric altitude may differ substantially. &lt;strong&gt;Never use true altitude to judge the vertical distance from your aircraft to an airspace boundary.&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Advertencia:&lt;/strong&gt; Los límites del espacio aéreo vertical se definen en términos de altitud barométrica. Dependiendo del clima, la altitud real y la altitud barométrica pueden diferir sustancialmente. &lt;strong&gt;Nunca utilice la altitud real para calcular la distancia vertical desde su avión hasta un límite del espacio aéreo.&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="175"/>
         <source>True Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitud verdadera</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="179"/>
         <source>Absolute Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitud aboluta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="187"/>
@@ -3494,12 +3494,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="251"/>
         <source>Source</source>
-        <translation type="unfinished"></translation>
+        <translation>Fuente</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="252"/>
         <source>Receiving position information</source>
-        <translation type="unfinished"></translation>
+        <translation>Recibiendo information sobre la posicion</translation>
     </message>
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="258"/>
@@ -3518,97 +3518,97 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="32"/>
         <source>Barometric Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos barométricos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="59"/>
         <source>Status</source>
-        <translation type="unfinished">Estado</translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="71"/>
         <source>Receiving static pressure data from traffic receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Recepción de datos de presión estática del receptor de tráfico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="71"/>
         <source>Not connected to a traffic receiver that provides static pressure data</source>
-        <translation type="unfinished"></translation>
+        <translation>No conectado a un receptor de tráfico que proporcione datos de presión estática</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="122"/>
         <source>Barometric Altitudes</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitudes barométricas</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="130"/>
         <source>Altitudes</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitudes</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="131"/>
         <source>Pressure altitude is the value shown by your altimeter when set to the standard value 1013.2 hPa. The pressure altitude is used to define airspace boundaries and vertical aircraft position above the transition altitude.</source>
-        <translation type="unfinished"></translation>
+        <translation>La altitud de presión es el valor que muestra su altímetro cuando se establece en el valor estándar de 1013,2 hPa. La altitud de presión se utiliza para definir los límites del espacio aéreo y la posición vertical de la aeronave por encima de la altitud de transición.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="132"/>
         <source>Altitude is the value shown by your altimeter when set to QNH. The altitude is used to define airspace boundaries and vertical aircraft position below the transition level.</source>
-        <translation type="unfinished"></translation>
+        <translation>La altitud es el valor que muestra su altímetro cuando está configurado en QNH. La altitud se utiliza para definir los límites del espacio aéreo y la posición vertical de la aeronave por debajo del nivel de transición.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="133"/>
         <source>Density altitude is the altitude at which an aircraft flying in the ICAO standard atmosphere experiences an air density equal to the density measured by the ambient pressure/temperature sensors of your device.</source>
-        <translation type="unfinished"></translation>
+        <translation>La altitud de densidad es la altitud a la que una aeronave que vuela en la atmósfera estándar de la OACI experimenta una densidad de aire igual a la densidad medida por los sensores de temperatura/presión ambiental de su dispositivo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="134"/>
         <source>Cabin altitude is the altitude at which an aircraft flying in the ICAO standard atmosphere experiences a static pressure equal to the pressure in the cabin of your aircraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>La altitud de cabina es la altitud a la que una aeronave que vuela en la atmósfera estándar de la OACI experimenta una presión estática igual a la presión en la cabina de su aeronave.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="140"/>
         <source>Pressure Altitude</source>
-        <translation type="unfinished">Altitud de presión</translation>
+        <translation>Altitud de presión</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="148"/>
         <source>Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitud</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="165"/>
         <source>Density Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitud de densidad</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="173"/>
         <source>Cabin Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitud de cabina</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="183"/>
         <source>Device Sensors</source>
-        <translation type="unfinished"></translation>
+        <translation>Sensores de dispositivos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="189"/>
         <source>Pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Presión</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="197"/>
         <source>Temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatura</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="207"/>
         <source>Other</source>
-        <translation type="unfinished"></translation>
+        <translation>Otro</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="213"/>
         <source>QNH</source>
-        <translation type="unfinished"></translation>
+        <translation>QNH</translation>
     </message>
 </context>
 <context>
@@ -3775,17 +3775,17 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/Sensors.cpp" line="109"/>
         <source>Pressure sensor available</source>
-        <translation type="unfinished"></translation>
+        <translation>Sensor de presión disponible</translation>
     </message>
     <message>
         <location filename="../../../src/Sensors.cpp" line="113"/>
         <source>Temperature sensor available</source>
-        <translation type="unfinished"></translation>
+        <translation>Sensor de temperatura disponible</translation>
     </message>
     <message>
         <location filename="../../../src/Sensors.cpp" line="118"/>
         <source>No ambient pressure/temperature sensor available</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay sensor de presión/temperatura ambiente disponible</translation>
     </message>
 </context>
 <context>
@@ -8465,7 +8465,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="569"/>
         <source>%1 hPa in %2, %3</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 hPa en %2, %3</translation>
     </message>
     <message>
         <source>QNH: %1 hPa in %2, %3</source>
@@ -8579,17 +8579,17 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/main.qml" line="326"/>
         <source>Barometric Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos barométricos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="328"/>
         <source>Receiving pressure altitude.</source>
-        <translation type="unfinished">Recibiendo la pression de altitud</translation>
+        <translation>Recibiendo la altitud de presión</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="328"/>
         <source>Not receiving pressure altitude.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se recibe la altitud de presión</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="350"/>
@@ -8736,7 +8736,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/main.qml" line="305"/>
         <source>SatNav Positioning</source>
-        <translation type="unfinished"></translation>
+        <translation>Posicionamiento de navegación por satélite</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="849"/>
