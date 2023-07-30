@@ -4365,24 +4365,24 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="131"/>
         <source>Pressure altitude is the value shown by your altimeter when set to the standard value 1013.2 hPa. The pressure altitude is used to define airspace boundaries and vertical aircraft position above the transition altitude.</source>
-        <translation>Druckhöhe ist der angezeigte Wert des Höhenmessers, wenn auf den Standardwert von 1013.2 hPa eingestellt. Über die Druckhöhe werden Luftraumgrenzen und - oberhalb der Überganghöhe - die aktuelle Flughöhe definiert.</translation>
+        <translation>Die Druckhöhe wird von Ihrem Höhenmesser angezeigt, wenn dieser auf den Standardwert von 1013.2 hPa eingestellt ist. Oberhalb der Überganghöhe werden Luftraumgrenzen und Flughöhe typischerweise als Druckhöhen angegeben.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="132"/>
         <source>Altitude is the value shown by your altimeter when set to QNH. The altitude is used to define airspace boundaries and vertical aircraft position below the transition level.</source>
-        <translation>Höhe ist der angezeigte Wert Ihres Höhenmessers, wenn auf das QNH eingestellt. Sie definiert Luftraumgrenzen und die Flughöhe unterhalb der Übergangshöhe.</translation>
+        <translation>Die (barometrische) Höhe wird von Ihrem Höhenmesser angezeigt, wenn dieser auf QNH eingestellt ist. Unterhalb der Überganghöhe werden Luftraumgrenzen und Flughöhe typischerweise als barometrische Höhen angegeben.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="133"/>
         <source>Density altitude is the altitude at which an aircraft flying in the ICAO standard atmosphere experiences an air density equal to the density measured by the ambient pressure/temperature sensors of your device.</source>
         <translatorcomment>Bestimmte englische Schachtelsätze werden im Deutschen nicht besser ...</translatorcomment>
-        <translation>Dichtehöhe ist die Höhe, in der sich ein Luftfahrzeug abhängig von Umgebungsdruck und -temperatur flugphysikalisch bewegt.</translation>
+        <translation>Die Dichtehöhe ist die Höhe in der ICAO-Standardatmosphäre, in der die Luftdichte mit der von Ihrem Gerät gemessenen Luftdichte übereinstimmt.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="134"/>
         <source>Cabin altitude is the altitude at which an aircraft flying in the ICAO standard atmosphere experiences a static pressure equal to the pressure in the cabin of your aircraft.</source>
         <translatorcomment>Ob Maschinen mit Druckkabine mittels Enroute navigieren ...?</translatorcomment>
-        <translation>Kabinenhöhe ist die Höhe, in der der Kabinendruck dem Außendruck bei angenommener ICAO-Standardatmosphäre entspricht.</translation>
+        <translation>Die Kabinenhöhe ist die Höhe in der ICAO-Standardatmosphäre, in der der Luftdruck mit dem von Ihrem Gerät gemessenen Luftdruck übereinstimmt.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="140"/>
