@@ -112,6 +112,7 @@ Appendix
    :caption: Appendix
    :name: sec-appendix
 
+   04-appendix/authors
    04-appendix/license_enroute
    04-appendix/license_3rdParty
    04-appendix/technical
