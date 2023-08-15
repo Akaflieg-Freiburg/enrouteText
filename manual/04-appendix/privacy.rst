@@ -112,7 +112,7 @@ Traduction en français
 
 Nous ne traitons aucune donnée personnelle vous concernant. Les données
 que vous entrez dans l'application (y compris les itinéraires, les
-waypoints et les spécificités de l'avion) ​​sont stockées localement sur
+waypoints et les spécificités de l'avion) sont stockées localement sur
 votre appareil. Les données ne nous sont pas transmises et ne sont pas
 traitées par nous.
 
@@ -282,7 +282,7 @@ Traducción al español
 No procesamos ningún dato personal suyo. Los datos que ingresa en la
 aplicación (incluidas las rutas, los waypoints y los detalles de la
 aeronave) se almacenan localmente en su dispositivo. Los datos no se
-transmiten a nosotros y no son procesados ​​por nosotros.
+transmiten a nosotros y no son procesados por nosotros.
 
 Sin embargo, para garantizar la funcionalidad, la aplicación debe
 transmitir los siguientes datos a los servidores en Internet.
