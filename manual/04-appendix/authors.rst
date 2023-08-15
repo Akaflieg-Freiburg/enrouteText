@@ -1,14 +1,11 @@
 Authors
 =======
-Authors
-~~~~~~~
-
 The app **Enroute Flight Navigation** was written by Stefan Kebekus,
 flight enthusiast since 1986 and member of the Akaflieg Freiburg flight
 club. Stefan flies gliders and motor planes.
 
 **Address**: Stefan Kebekus, Wintererstraße 77, 79104 Freiburg, Germany
-· `e-mail <mailto:stefan.kebekus@gmail.com>`__
+· stefan.kebekus@gmail.com
 
 Contributions
 ~~~~~~~~~~~~~
