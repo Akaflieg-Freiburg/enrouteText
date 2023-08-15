@@ -2536,7 +2536,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="183"/>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data not transmitted to us and is not processed by us.</source>
-        <translation>Nous ne traitons aucune donnée personnelle vous concernant. Les données que vous entrez dans l&apos;application (y compris les itinéraires, les waypoints et les spécificités de l&apos;avion) ​​sont stockées localement sur votre appareil. Les données ne nous sont pas transmises et ne sont pas traitées par nous.</translation>
+        <translation>Nous ne traitons aucune donnée personnelle vous concernant. Les données que vous entrez dans l&apos;application (y compris les itinéraires, les waypoints et les spécificités de l&apos;avion) sont stockées localement sur votre appareil. Les données ne nous sont pas transmises et ne sont pas traitées par nous.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="186"/>
