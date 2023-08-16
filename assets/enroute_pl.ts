@@ -2935,8 +2935,12 @@ z danymi konta bankowego.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="180"/>
+        <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data not transmitted to us and is not processed by us.</source>
-        <translation>Nie przetwarzamy żadnych danych osobowych użytkownika. Dane wprowadzane do aplikacji (w tym trasy, punkty trasy i dane samolotu) są przechowywane lokalnie na urządzeniu użytkownika. Dane te nie są przesyłane do nas i nie są przez nas przetwarzane.</translation>
+        <translation type="vanished">Nie przetwarzamy żadnych danych osobowych użytkownika. Dane wprowadzane do aplikacji (w tym trasy, punkty trasy i dane samolotu) są przechowywane lokalnie na urządzeniu użytkownika. Dane te nie są przesyłane do nas i nie są przez nas przetwarzane.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="183"/>

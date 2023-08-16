@@ -2931,13 +2931,17 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="180"/>
+        <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Privacy Policies</source>
         <translation type="vanished">Datenschutz</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="180"/>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data not transmitted to us and is not processed by us.</source>
-        <translation>Wir verarbeiten keine personenbezogenen Daten von Ihnen. Daten, die Sie in dieser App eingeben (wie zum Beispiel Routen, Wegpunkte und Luftfahrzeugdaten), werden nur lokal auf dem Gerät abgelegt. Die Daten werden nicht an uns übermittelt und nicht von uns verarbeitet.</translation>
+        <translation type="vanished">Wir verarbeiten keine personenbezogenen Daten von Ihnen. Daten, die Sie in dieser App eingeben (wie zum Beispiel Routen, Wegpunkte und Luftfahrzeugdaten), werden nur lokal auf dem Gerät abgelegt. Die Daten werden nicht an uns übermittelt und nicht von uns verarbeitet.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="183"/>

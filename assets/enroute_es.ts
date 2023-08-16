@@ -2422,8 +2422,12 @@ con los datos de la cuenta bancaria.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="180"/>
+        <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data not transmitted to us and is not processed by us.</source>
-        <translation>No procesamos ningún dato personal suyo. Los datos que ingresa en la aplicación (incluidas las rutas, los waypoints y los detalles de la aeronave) se almacenan localmente en su dispositivo. Los datos no se transmiten a nosotros y no son procesados por nosotros.</translation>
+        <translation type="vanished">No procesamos ningún dato personal suyo. Los datos que ingresa en la aplicación (incluidas las rutas, los waypoints y los detalles de la aeronave) se almacenan localmente en su dispositivo. Los datos no se transmiten a nosotros y no son procesados por nosotros.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="183"/>
