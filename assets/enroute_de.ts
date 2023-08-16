@@ -2933,7 +2933,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="180"/>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wir verarbeiten keinerlei persönliche Daten von Ihnen. In die App eingegebene Datem wie z.B. Routen, Wegpunkte und Luftfahrzeugmerkmale liegen nur lokal auf Ihrem Gerät. Sie gelangen nicht zu uns und werden damit auch nicht von uns verarbeitet.</translation>
     </message>
     <message>
         <source>Privacy Policies</source>
@@ -9794,12 +9794,12 @@ entwickelt als Projekt der Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="153"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
-        <translation type="unfinished"></translation>
+        <translation>Textstring mittels Librarian::getStringFromRessource abrufen und nach stdout ausgeben</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="154"/>
         <source>string name</source>
-        <translation type="unfinished"></translation>
+        <translation>Name der Zeichenkette</translation>
     </message>
     <message>
         <source>Run simulator and generate screenshots for manual</source>
