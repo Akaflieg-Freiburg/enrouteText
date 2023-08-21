@@ -2530,7 +2530,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="180"/>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous ne traitons aucune donnée personnelle vous concernant. Les données que vous entrez dans l&apos;application (y compris les itinéraires, les waypoints et les spécificités de l&apos;avion) sont stockées localement sur votre appareil. Les données ne nous sont pas transmises et ne sont pas traitées par nous.</translation>
     </message>
     <message>
         <source>Privacy Policies</source>
@@ -8894,12 +8894,12 @@ developed as a project of Akaflieg Freiburg.</source>
     <message>
         <location filename="../../../src/main.cpp" line="153"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
-        <translation type="unfinished"></translation>
+        <translation>rechercher une chaîne de code à l&apos;aide de Librarian :: getStringFromRessource et l&apos;imprimer sur stdout</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="154"/>
         <source>string name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nom de la chaîne de code</translation>
     </message>
     <message>
         <source>Run simulator and generate screenshots for manual</source>
