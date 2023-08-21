@@ -2423,7 +2423,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="180"/>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
-        <translation type="unfinished"></translation>
+        <translation>No procesamos ningún dato personal suyo. Los datos que ingresa en la aplicación (incluidas las rutas, los waypoints y los detalles de la aeronave) se almacenan localmente en su dispositivo. Los datos no se transmiten a nosotros y no son procesados por nosotros.</translation>
     </message>
     <message>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data not transmitted to us and is not processed by us.</source>
@@ -8774,12 +8774,12 @@ desarrollado como un proyecto de Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="153"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
-        <translation type="unfinished"></translation>
+        <translation>busque una cadena de código usando Librarian::getStringFromRessource e imprímala en la salida estándar</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="154"/>
         <source>string name</source>
-        <translation type="unfinished"></translation>
+        <translation>Nombre de la cadena de código</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="156"/>
