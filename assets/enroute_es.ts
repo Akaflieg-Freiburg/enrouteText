@@ -8774,7 +8774,7 @@ desarrollado como un proyecto de Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="153"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
-        <translation>busque una cadena de código usando Librarian::getStringFromRessource e imprímala en la salida estándar</translation>
+        <translation>busque una cadena de código usando Librarian::getStringFromRessource e imprímala en stdout</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="154"/>
