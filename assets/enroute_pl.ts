@@ -2936,7 +2936,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="180"/>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie przetwarzamy od Ciebie żadnych danych osobowych. Dane wprowadzane do aplikacji (w tym trasy, punkty trasy i dane dotyczące samolotu) są przechowywane lokalnie na Twoim urządzeniu. Dane nie są nam przekazywane i nie są przez nas przetwarzane.</translation>
     </message>
     <message>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data not transmitted to us and is not processed by us.</source>
@@ -9800,12 +9800,12 @@ rozwijana jako projekt Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="153"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
-        <translation type="unfinished"></translation>
+        <translation>pobiera ciąg znaków za pomocą Librarian::getStringFromRessource i wypisuje go na standardowe wyjście</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="154"/>
         <source>string name</source>
-        <translation type="unfinished"></translation>
+        <translation>nazwa ciągu znaków</translation>
     </message>
     <message>
         <source>Run simulator and generate screenshots for manual</source>
