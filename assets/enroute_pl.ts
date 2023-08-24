@@ -4413,37 +4413,37 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Wysokość</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="165"/>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="166"/>
         <source>Density Altitude</source>
         <translation>Wysokość gęstości</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="173"/>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="174"/>
         <source>Cabin Altitude</source>
         <translation>Wysokość kabinowa</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="183"/>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="184"/>
         <source>Device Sensors</source>
         <translation>Czujniki urządzenia</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="189"/>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="190"/>
         <source>Pressure</source>
         <translation>Ciśnienie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="197"/>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="198"/>
         <source>Temperature</source>
         <translation>Temperatura</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="207"/>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="208"/>
         <source>Other</source>
         <translation>Inne</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="213"/>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="216"/>
         <source>QNH</source>
         <translation>QNH</translation>
     </message>
