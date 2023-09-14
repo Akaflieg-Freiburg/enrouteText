@@ -76,6 +76,7 @@ Advanced Use
 
    02-advanced/customMaps
    02-advanced/airspace
+   02-advanced/vac
    
 
 Reference: Pages
