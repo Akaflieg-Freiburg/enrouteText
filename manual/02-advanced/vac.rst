@@ -40,11 +40,16 @@ following formats.
 Obtain approach chart files
 ---------------------------
 
-Michael Paus' free software `AIP Browser DE
-<https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html>`_ can
-generate GeoTIFF images and TripKits for all German airfields. The data comes
-from Germany's official `AIP <https://aip.dfs.de/basicAIP>`_, as provided by
-`DFS Deutsche Flugsicherung GmbH <https://www.dfs.de/homepage>`_.
+* Michael Paus' free software `AIP Browser DE
+  <https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html>`_ can
+  generate GeoTIFF images and TripKits for all German airfields. The data comes
+  from Germany's official `AIP <https://aip.dfs.de/basicAIP>`_, as provided by
+  `DFS Deutsche Flugsicherung GmbH <https://www.dfs.de/homepage>`_.
+
+* For testing purposes, we provide `a few TripKits and Approach Charts
+  <https://v2202001110709105590.ultrasrv.de/nextcloud/index.php/s/jFqd9ykgLgmDpSf>`_
+  for download on our servers. These files will be removed once the testing
+  phase ends.
 
 Please get in touch with us if you are aware of other data sources. We will be
 glad to list them here.
