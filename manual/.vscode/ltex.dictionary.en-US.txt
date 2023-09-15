@@ -4,3 +4,6 @@ Volksbank
 SafeSky
 GeoTIFF
 TripKits
+Paus
+TripKit
+NextCloud
