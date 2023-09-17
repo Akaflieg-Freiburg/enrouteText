@@ -908,7 +908,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="307"/>
         <source>Import failed. Unable to write raster data to directory %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Import nie powiódł się. Nie można zapisać danych rastrowych w katalogu %1.</translation>
     </message>
     <message>
         <source>Manually Imported</source>
@@ -1091,7 +1091,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="48"/>
         <source>Visual Approach Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykres podejścia wizualnego</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="51"/>
@@ -1132,7 +1132,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="107"/>
         <source>Visual Approach ChartTerrain Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa podejścia z widocznością – mapa terenu</translation>
     </message>
 </context>
 <context>
@@ -1558,7 +1558,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="408"/>
         <source>There are no approach charts installed. The &lt;a href=&apos;x&apos;&gt;manual&lt;/a&gt; explains how to install and use them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie ma zainstalowanych map podejścia. &lt;a href=&apos;x&apos;&gt;podręcznik&lt;/a&gt; wyjaśnia, jak je zainstalować i używać.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="456"/>
@@ -2467,7 +2467,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="84"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; seems to contain an image without georeferencing information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wygląda na to, że plik &lt;strong&gt;%1&lt;/strong&gt; zawiera obraz bez informacji georeferencyjnych.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="98"/>
@@ -2507,17 +2507,17 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="232"/>
         <source>Import Visual Approach Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuj wykres podejścia wizualnego</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="242"/>
         <source>Enter a name for this chart. Existing approach charts with the same name will be overwritten.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź nazwę tego wykresu. Istniejące mapy podejścia o tej samej nazwie zostaną nadpisane.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="276"/>
         <source>Visual approach chart data imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaimportowano dane mapy podejścia z widocznością</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="283"/>
@@ -2527,12 +2527,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="514"/>
         <source>Stand by</source>
-        <translation type="unfinished"></translation>
+        <translation>Oczekiwanie</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="525"/>
         <source>Extracting and converting files from the trip kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyodrębnianie i konwertowanie plików z zestawu podróżnego.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="181"/>
@@ -2558,17 +2558,17 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="474"/>
         <source>Import Trip Kit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaimportować zestaw podróżny?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="478"/>
         <source>This might overwrite some approach charts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Może to nadpisać niektóre wykresy podejścia.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="490"/>
         <source>Trip kit imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Zestaw podróżny zaimportowany</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="500"/>
@@ -3030,7 +3030,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="240"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to show visual approach charts within the moving map. Users in Germany can download official VACs from Deutsche Flugsicherung (DFS) using Michael Paus&apos; very convenient &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. Please check the manual for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; może teraz wyświetlać wizualne mapy podejścia na ruchomej mapie. Użytkownicy w Niemczech mogą pobierać oficjalne VAC z Deutsche Flugsicherung (DFS) za pomocą bardzo wygodnej &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt; Michaela Pausa . Aby uzyskać szczegółowe informacje, sprawdź instrukcję.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="242"/>
@@ -3536,7 +3536,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/qml/pages/MapPage.qml" line="64"/>
         <source>Approach Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykres podejścia</translation>
     </message>
 </context>
 <context>
@@ -4639,67 +4639,67 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/geomaps/OpenAir.cpp" line="588"/>
         <source>Unrecognized record type in line %1: %2; Line ignored.</source>
         <comment>OpenAir</comment>
-        <translation>Nierozpoznany typ rekordu w linii %1: %1; Linia zignorowana.</translation>
+        <translation>Nierozpoznany typ rekordu w linii %1: %2; Linia zignorowana.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="595"/>
         <source>Error in line %1: %2; Airspace %3 ignored.</source>
         <comment>OpenAir</comment>
-        <translation>Błąd w linii %1: %1; Przestrzeń powietrzna %3 zignorowana.</translation>
+        <translation>Błąd w linii %1: %2; Przestrzeń powietrzna %3 zignorowana.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/TripKit.cpp" line="40"/>
         <source>File %1 is not a valid zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik %1 nie jest prawidłowym plikiem ZIP.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/TripKit.cpp" line="48"/>
         <source>The zip archive %1 does not contain the required file &apos;toc.json&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Archiwum zip %1 nie zawiera wymaganego pliku &apos;toc.json&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/TripKit.cpp" line="54"/>
         <source>The file &apos;toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zinterpretować pliku &apos;toc.json&apos; z archiwum zip %1.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/TripKit.cpp" line="65"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Archiwum zip %1 nie zawiera wymaganego pliku &apos;charts/charts_toc.json&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/TripKit.cpp" line="71"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zinterpretować pliku &apos;charts/charts_toc.json&apos; z archiwum zip %1.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/TripKit.cpp" line="78"/>
         <source>The trip kit %1 does not contain any charts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zestaw podróżny %1 nie zawiera żadnych wykresów.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="125"/>
         <source>Unable to find georeferencing data for the file %1.</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można znaleźć danych georeferencyjnych dla pliku %1.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="130"/>
         <source>Unable to load raster data from file %1.</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można wczytać danych rastrowych z pliku %1.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="137"/>
         <source>The georeferencing data for the file %1 suggests that the image diagonal is less than 200m, which makes it unlikely that this is an approach chart.</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dane georeferencyjne dla pliku %1 sugerują, że przekątna obrazu jest mniejsza niż 200 m, co sprawia, że jest mało prawdopodobne, że jest to mapa podejścia.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="141"/>
         <source>The georeferencing data for the file %1 suggests that the image diagonal is more than 50km, which makes it unlikely that this is an approach chart.</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dane georeferencyjne dla pliku %1 sugerują, że przekątna obrazu wynosi ponad 50 km, co sprawia, że jest mało prawdopodobne, że jest to mapa podejścia.</translation>
     </message>
 </context>
 <context>
@@ -6089,27 +6089,27 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/qml/pages/VAC.qml" line="35"/>
         <location filename="../../../src/qml/pages/VAC.qml" line="145"/>
         <source>Visual Approach Charts</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykresy podejścia wizualnego</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="137"/>
         <source>Sorry!</source>
-        <translation type="unfinished"></translation>
+        <translation>Przepraszamy!</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="137"/>
         <source>There are no approach charts installed. The &lt;a href=&apos;x&apos;&gt;manual&lt;/a&gt; explains how to install and use them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie ma zainstalowanych map podejścia. &lt;a href=&apos;x&apos;&gt;podręcznik&lt;/a&gt; wyjaśnia, jak je zainstalować i używać.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="146"/>
         <source>This page presents the visual approach charts that are installed in your system, sorted by distance to the current position. Click on an entry to open a moving map that includes the selected VAC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na tej stronie prezentowane są mapy podejścia z widocznością zainstalowane w Twoim systemie, posortowane według odległości do aktualnej pozycji. Kliknij wpis, aby otworzyć ruchomą mapę zawierającą wybrany VAC.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="147"/>
         <source>In order to manage your collection of visual approach charts, go back to the main map view, open the main menu and go to &apos;Library/Maps and Data&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby zarządzać swoją kolekcją map podejścia z widocznością, wróć do głównego widoku mapy, otwórz menu główne i przejdź do &apos;Biblioteka/Mapy i dane&apos;.</translation>
     </message>
 </context>
 <context>
@@ -9779,7 +9779,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="154"/>
         <source>Approach Charts</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykresy podejścia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="268"/>
