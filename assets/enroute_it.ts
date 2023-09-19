@@ -1524,7 +1524,7 @@ la nostra App.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="192"/>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="584"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="598"/>
         <source>Download Error</source>
         <translation>Errore nel download</translation>
     </message>
@@ -1544,49 +1544,69 @@ la nostra App.&lt;/p&gt;
         <translation>Scarica tutti gli aggiornamenti...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="320"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="306"/>
+        <source>Clear VAC library…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="334"/>
         <source>Maps</source>
         <translation>Mappe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="326"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="340"/>
         <source>Data</source>
         <translation>Dati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="408"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="422"/>
         <source>There are no approach charts installed. The &lt;a href=&apos;x&apos;&gt;manual&lt;/a&gt; explains how to install and use them.</source>
         <translation>Non ci sono mappe di avvicinamento visuale installate.  Il &lt;a href=&apos;x&apos;&gt;manuale&lt;/a&gt; spiega la loro installazione ed uso.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="456"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="470"/>
         <source>&lt;h3&gt;Update required!&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Aggiornamento richiesto!&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="477"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="491"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;La lista delle mappe disponibili non è stata ancora scaricata dal server. Puoi riavviare il download manualmente usando il pulsante qui in basso.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="508"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="522"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Download in corso…&lt;/h3&gt;&lt;p&gt;Prego attendere il completamento del download della lista mappe…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="555"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="569"/>
         <source>Download list of maps…</source>
         <translation>Scarica la lista delle mappe...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="569"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="583"/>
         <source>Update</source>
         <translation>Aggiornamento</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="585"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="599"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Impossibile scaricare la lista delle mappe aeronautiche.&lt;/p&gt;&lt;p&gt;Motivo: %1.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="608"/>
+        <source>Clear approach chart Library?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="611"/>
+        <source>Once cleared, the approach charts cannot be restored.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="616"/>
+        <source>Approach chart library cleared</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6096,27 +6116,27 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <name>VAC</name>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="35"/>
-        <location filename="../../../src/qml/pages/VAC.qml" line="145"/>
+        <location filename="../../../src/qml/pages/VAC.qml" line="146"/>
         <source>Visual Approach Charts</source>
         <translation>Mappa di Avvicinamento Visuale</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/VAC.qml" line="137"/>
+        <location filename="../../../src/qml/pages/VAC.qml" line="138"/>
         <source>Sorry!</source>
         <translation>Scusa!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/VAC.qml" line="137"/>
+        <location filename="../../../src/qml/pages/VAC.qml" line="138"/>
         <source>There are no approach charts installed. The &lt;a href=&apos;x&apos;&gt;manual&lt;/a&gt; explains how to install and use them.</source>
         <translation>Non ci sono mappe di avvicinamento installate. Il &lt;a href=&apos;x&apos;&gt;manuale&lt;/a&gt; spiega installazione e uso.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/VAC.qml" line="146"/>
+        <location filename="../../../src/qml/pages/VAC.qml" line="147"/>
         <source>This page presents the visual approach charts that are installed in your system, sorted by distance to the current position. Click on an entry to open a moving map that includes the selected VAC.</source>
         <translation>Questa pagina presenta le mappe di avvicinamento visuale (VAC) che sono installate nel tuo sistema, ordinate per distanza dalla posizione corrente. Premi su una voce per aprire una mappa in movimento che include la VAC selezionata.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/VAC.qml" line="147"/>
+        <location filename="../../../src/qml/pages/VAC.qml" line="148"/>
         <source>In order to manage your collection of visual approach charts, go back to the main map view, open the main menu and go to &apos;Library/Maps and Data&apos;.</source>
         <translation>Per gestire la tua raccolta di mappe di avvicinamento visuale, torna alla visualizzazione mappa, apri il menu principale e vai su &apos;Archivio/Mappe e Dati&apos;.</translation>
     </message>
