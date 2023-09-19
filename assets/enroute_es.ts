@@ -1235,7 +1235,7 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="306"/>
         <source>Clear VAC library…</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Borrar la biblioteca VAC?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="334"/>
@@ -1285,17 +1285,17 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="608"/>
         <source>Clear approach chart Library?</source>
-        <translation type="unfinished"></translation>
+        <translation>¿Borrar la biblioteca de las cartas de aproximación visual?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="611"/>
         <source>Once cleared, the approach charts cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Una vez borrados, las cartas de aproximación no se pueden restaurar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="616"/>
         <source>Approach chart library cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Biblioteca de cartas de aproximación borrada</translation>
     </message>
 </context>
 <context>
