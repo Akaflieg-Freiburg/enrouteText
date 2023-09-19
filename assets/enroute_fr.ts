@@ -819,7 +819,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="307"/>
         <source>Import failed. Unable to write raster data to directory %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;importation a échoué. Impossible d&apos;écrire des données raster dans le répertoire %1.</translation>
     </message>
 </context>
 <context>
@@ -827,7 +827,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="48"/>
         <source>Visual Approach Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Carte d&apos;approche visuelle</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="51"/>
@@ -868,7 +868,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="107"/>
         <source>Visual Approach ChartTerrain Map</source>
-        <translation type="unfinished"></translation>
+        <translation>Carte topographique d&apos;approche visuelle</translation>
     </message>
 </context>
 <context>
@@ -1228,7 +1228,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="306"/>
         <source>Clear VAC library…</source>
-        <translation type="unfinished"></translation>
+        <translation>Effacer la bibliothèque VAC…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="334"/>
@@ -1243,7 +1243,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="422"/>
         <source>There are no approach charts installed. The &lt;a href=&apos;x&apos;&gt;manual&lt;/a&gt; explains how to install and use them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune carte d&apos;approche n&apos;est installée. Le &lt;a href=&apos;x&apos;&gt;manuel&lt;/a&gt; explique comment les installer et les utiliser.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="470"/>
@@ -1278,17 +1278,17 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="608"/>
         <source>Clear approach chart Library?</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliothèque de cartes d&apos;approche claire&#xa0;?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="611"/>
         <source>Once cleared, the approach charts cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une fois effacées, les cartes d&apos;approche ne peuvent pas être restaurées.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="616"/>
         <source>Approach chart library cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Bibliothèque de cartes d&apos;approche effacée</translation>
     </message>
 </context>
 <context>
@@ -2091,17 +2091,17 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="232"/>
         <source>Import Visual Approach Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer la carte d&apos;approche visuelle</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="242"/>
         <source>Enter a name for this chart. Existing approach charts with the same name will be overwritten.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez un nom pour ce graphique. Les cartes d&apos;approche existantes portant le même nom seront écrasées.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="276"/>
         <source>Visual approach chart data imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Données de la carte d&apos;approche visuelle importées</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="283"/>
@@ -2111,12 +2111,12 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="514"/>
         <source>Stand by</source>
-        <translation type="unfinished"></translation>
+        <translation>En attente</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="525"/>
         <source>Extracting and converting files from the trip kit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Extraction et conversion des fichiers du kit de voyage.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="181"/>
@@ -2161,17 +2161,17 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="474"/>
         <source>Import Trip Kit?</source>
-        <translation type="unfinished"></translation>
+        <translation>Importer un kit de voyage&#xa0;?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="478"/>
         <source>This might overwrite some approach charts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cela pourrait écraser certaines cartes d&apos;approche.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="490"/>
         <source>Trip kit imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Kit de voyage importé</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="500"/>
@@ -2186,7 +2186,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="84"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; seems to contain an image without georeferencing information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier &lt;strong&gt;%1&lt;/strong&gt; semble contenir une image sans informations de géoréférencement.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="316"/>
@@ -2648,7 +2648,7 @@ SI vous préférez travailler depuis un ordinateur, vous pouvez également vous
     <message>
         <location filename="../../../src/Librarian.cpp" line="240"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to show visual approach charts within the moving map. Users in Germany can download official VACs from Deutsche Flugsicherung (DFS) using Michael Paus&apos; very convenient &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. Please check the manual for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est désormais capable d&apos;afficher des cartes d&apos;approche visuelles sur la carte mobile. Les utilisateurs en Allemagne peuvent télécharger les VAC officiels de la Deutsche Flugsicherung (DFS) à l&apos;aide du très pratique &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. . Veuillez consulter le manuel pour plus de détails.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="242"/>
@@ -3012,7 +3012,7 @@ Choisissez &lt;strong&gt;Bibliothèque/Cartes et données&lt;/strong&gt; pour ou
     <message>
         <location filename="../../../src/qml/pages/MapPage.qml" line="64"/>
         <source>Approach Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Carte d&apos;approche</translation>
     </message>
 </context>
 <context>
@@ -3948,56 +3948,60 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/geomaps/TripKit.cpp" line="40"/>
         <source>File %1 is not a valid zip file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier %1 n&apos;est pas un fichier zip valide.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/TripKit.cpp" line="48"/>
         <source>The zip archive %1 does not contain the required file &apos;toc.json&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;archive zip %1 ne contient pas le fichier requis « toc.json ».</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/TripKit.cpp" line="54"/>
         <source>The file &apos;toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier «toc.json» de l&apos;archive zip %1 ne peut pas être interprété.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/TripKit.cpp" line="65"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;archive zip %1 ne contient pas le fichier requis « charts/charts_toc.json ».</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/TripKit.cpp" line="71"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le fichier «charts/charts_toc.json» de l&apos;archive zip %1 ne peut pas être interprété.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/TripKit.cpp" line="78"/>
         <source>The trip kit %1 does not contain any charts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le kit de voyage %1 ne contient aucun graphique.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="125"/>
         <source>Unable to find georeferencing data for the file %1.</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>VAC</translatorcomment>
+        <translation>Impossible de trouver les données de géoréférencement pour le fichier %1.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="130"/>
         <source>Unable to load raster data from file %1.</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>VAC</translatorcomment>
+        <translation>Impossible de charger les données raster à partir du fichier %1.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="137"/>
         <source>The georeferencing data for the file %1 suggests that the image diagonal is less than 200m, which makes it unlikely that this is an approach chart.</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>VAC</translatorcomment>
+        <translation>Les données de géoréférencement du fichier %1 suggèrent que la diagonale de l&apos;image est inférieure à 200 m, ce qui rend peu probable qu&apos;il s&apos;agisse d&apos;une carte d&apos;approche.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="141"/>
         <source>The georeferencing data for the file %1 suggests that the image diagonal is more than 50km, which makes it unlikely that this is an approach chart.</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>VAC</translatorcomment>
+        <translation>Les données de géoréférencement du fichier %1 suggèrent que la diagonale de l&apos;image est supérieure à 50&#xa0;km, ce qui rend peu probable qu&apos;il s&apos;agisse d&apos;une carte d&apos;approche.</translation>
     </message>
 </context>
 <context>
@@ -5288,27 +5292,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/VAC.qml" line="35"/>
         <location filename="../../../src/qml/pages/VAC.qml" line="146"/>
         <source>Visual Approach Charts</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartes d&apos;approche visuelle</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="138"/>
         <source>Sorry!</source>
-        <translation type="unfinished"></translation>
+        <translation>Désolé!</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="138"/>
         <source>There are no approach charts installed. The &lt;a href=&apos;x&apos;&gt;manual&lt;/a&gt; explains how to install and use them.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune carte d&apos;approche n&apos;est installée. Le &lt;a href=&apos;x&apos;&gt;manuel&lt;/a&gt; explique comment les installer et les utiliser.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="147"/>
         <source>This page presents the visual approach charts that are installed in your system, sorted by distance to the current position. Click on an entry to open a moving map that includes the selected VAC.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette page présente les cartes d&apos;approche visuelles installées dans votre système, triées par distance jusqu&apos;à la position actuelle. Cliquez sur une entrée pour ouvrir une carte mobile incluant le VAC sélectionné.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="148"/>
         <source>In order to manage your collection of visual approach charts, go back to the main map view, open the main menu and go to &apos;Library/Maps and Data&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afin de gérer votre collection de cartes d&apos;approche visuelles, revenez à la vue principale de la carte, ouvrez le menu principal et allez dans « Bibliothèque/Cartes et données ».</translation>
     </message>
 </context>
 <context>
@@ -8884,7 +8888,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="154"/>
         <source>Approach Charts</source>
-        <translation type="unfinished"></translation>
+        <translation>Cartes d&apos;approche</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="214"/>
