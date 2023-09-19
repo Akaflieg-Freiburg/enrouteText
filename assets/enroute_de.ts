@@ -1541,7 +1541,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="306"/>
         <source>Clear VAC library…</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Anflugkarten löschen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="334"/>
@@ -1591,17 +1591,17 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="608"/>
         <source>Clear approach chart Library?</source>
-        <translation type="unfinished"></translation>
+        <translation>Alle Anflugkarten löschen?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="611"/>
         <source>Once cleared, the approach charts cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anflugkarten können nach dem Löschen nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="616"/>
         <source>Approach chart library cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Anflugkarten gelöscht</translation>
     </message>
 </context>
 <context>
