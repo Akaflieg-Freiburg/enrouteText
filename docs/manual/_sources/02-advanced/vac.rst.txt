@@ -40,11 +40,16 @@ following formats.
 Obtain approach chart files
 ---------------------------
 
-* Michael Paus' free software `AIP Browser DE
+* Upcoming versions of Michael Paus' free software `AIP Browser DE
   <https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html>`_ can
   generate GeoTIFF images and TripKits for all German airfields. The data comes
   from Germany's official `AIP <https://aip.dfs.de/basicAIP>`_, as provided by
   `DFS Deutsche Flugsicherung GmbH <https://www.dfs.de/homepage>`_.
+
+* The current public beta version of the AIP Browser DE (version 1.1.1-v4,
+  2023-09-017 and later) is also able to generate GeoTIFF images and TripKits.
+  The beta version is found at `this URL
+  <https://mpmediasoft.de/products/AIPBrowserDE/preview/help/AIPBrowserDE.html>`__
 
 * For testing purposes, we provide `a few TripKits and Approach Charts
   <https://v2202001110709105590.ultrasrv.de/nextcloud/index.php/s/jFqd9ykgLgmDpSf>`_
@@ -90,13 +95,16 @@ If you run **Enroute Flight Navigation** on a Linux Desktop machine, drag and
 drop the file into the app's main window.
 
 
-Manage your approach chart collection
--------------------------------------
+Manage your approach chart library
+----------------------------------
 
 On the moving map screen, open the main menu and go to "Library/Maps and Data".
 The page "Map and Data Library" will then open. The page has a "VAC" tab listing
 the approach charts. Use the context menus to uninstall charts and retrieve
 basic information.
+
+The three-dot menu at the top right of the screen allows clearing your approach
+chart library.
 
 
 Use approach charts
@@ -110,6 +118,10 @@ simplified moving map with the approach chart superimposed on top of the usual
 map layer. As usual, tap on the left arrow symbol in the page title to close the
 page and return to the standard moving map display.
 
+In order to avoid surprises in flight, **Enroute Flight Navigation** will not
+open the approach chart page automatically.
+
 .. note:: The menu entry "Approach Charts" is only visible if approach
   charts are installed on your device. If you cannot find the menu entry, 
   install some approach charts first.
+
