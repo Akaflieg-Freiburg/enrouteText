@@ -1548,7 +1548,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="306"/>
         <source>Clear VAC library…</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyść bibliotekę VAC...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="334"/>
@@ -1598,17 +1598,17 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="608"/>
         <source>Clear approach chart Library?</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyczyścić bibliotekę map podejścia?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="611"/>
         <source>Once cleared, the approach charts cannot be restored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Po wyczyszczeniu wykresy podejścia nie mogą zostać odtworzone.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="616"/>
         <source>Approach chart library cleared</source>
-        <translation type="unfinished"></translation>
+        <translation>Bilioteka map podejścia została wyczyszczona</translation>
     </message>
 </context>
 <context>
