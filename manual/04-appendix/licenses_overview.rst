@@ -35,6 +35,7 @@
 - `LibJPEG-turbo <http://libjpeg-turbo.virtualgl.org/>`_. Independent JPEG Group License and BSD 3-Clause "New" or "Revised" License and zlib License.
 - `LibPNG <http://www.libpng.org/pub/png/libpng.html>`_. libpng License and PNG Reference Library version 2.
 - `libpsl - C library to handle the Public Suffix List <https://github.com/rockdaboot/libpsl>`_. BSD 3-clause "New" or "Revised" License.
+- `libzip <https://libzip.org>`_. 3-clause BSD license.
 - `Linux Performance Events <https://www.kernel.org>`_. GNU General Public License v2.0 only with Linux Syscall Note.
 - `lunr.js <https://github.com/olivernn/lunr.js>`_. MIT License.
 - `Material Design Icons <https://github.com/google/material-design-icons>`_. Apache License.

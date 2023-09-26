@@ -3773,73 +3773,73 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Datos potencialmente obsoletos. Actualización solicitada.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="56"/>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="78"/>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="83"/>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="88"/>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="318"/>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="325"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="55"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="77"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="82"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="87"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="317"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="324"/>
         <source>Invalid number found: %1</source>
         <comment>OpenAir</comment>
         <translatorcomment>OpenAir</translatorcomment>
         <translation>Número no válido encontrado: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="67"/>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="120"/>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="135"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="66"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="119"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="134"/>
         <source>Variable X is not set but Circle should be drawn</source>
         <comment>OpenAir</comment>
         <translatorcomment>OpenAir</translatorcomment>
         <translation>La variable X no está configurada, pero Circle se debe dibujar</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="171"/>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="185"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="170"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="184"/>
         <source>Invalid arc specification</source>
         <comment>OpenAir</comment>
         <translatorcomment>OpenAir</translatorcomment>
         <translation>Especificación de arco no válida</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="302"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="301"/>
         <source>Invalid content for VariableD (direction): %1</source>
         <comment>OpenAir</comment>
         <translatorcomment>OpenAir</translatorcomment>
         <translation>Contenido no válido para VariableD (dirección): %1</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="368"/>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="381"/>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="385"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="367"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="380"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="384"/>
         <source>Invalid coordinate found: %1</source>
         <comment>OpenAir</comment>
         <translatorcomment>OpenAir</translatorcomment>
         <translation>Coordenada no válida encontrada: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="498"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="497"/>
         <source>Warnings</source>
         <comment>OpenAir</comment>
         <translatorcomment>OpenAir</translatorcomment>
         <translation>Advertencia</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="524"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="521"/>
         <source>Cannot open file %1</source>
         <comment>OpenAir</comment>
         <translatorcomment>OpenAir</translatorcomment>
         <translation>No se puede abrir el archivo %1</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="588"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="603"/>
         <source>Unrecognized record type in line %1: %2; Line ignored.</source>
         <comment>OpenAir</comment>
         <translatorcomment>OpenAir</translatorcomment>
         <translation>Tipo de registro no reconocido en la línea %1: %2; Línea ignorada.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="595"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="608"/>
         <source>Error in line %1: %2; Airspace %3 ignored.</source>
         <comment>OpenAir</comment>
         <translatorcomment>OpenAir</translatorcomment>
