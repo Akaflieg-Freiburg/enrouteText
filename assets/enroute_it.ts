@@ -854,7 +854,7 @@ la nostra App.&lt;/p&gt;
 <context>
     <name>DataManagement</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="379"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="392"/>
         <source>Manually Imported</source>
         <translation>Importata manualmente</translation>
     </message>
@@ -904,7 +904,17 @@ la nostra App.&lt;/p&gt;
         <translation>Errore di scrittura di &apos;%1&apos;: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="307"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="278"/>
+        <source>Error reading TripKip: No charts imported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="282"/>
+        <source>Error reading TripKip: Only %1 out of %2 charts were successfully imported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="320"/>
         <source>Import failed. Unable to write raster data to directory %1.</source>
         <translation>Caricamento fallito. Impossibile scrivere dati raster nella cartella %1.</translation>
     </message>
@@ -2490,73 +2500,82 @@ con i dati del conto bancario.
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="98"/>
+        <source>The file &lt;strong&gt;%1&lt;/strong&gt; seems to contain an zip file without the data required in a tripkit.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="103"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; cannot be recognized.</source>
         <translation>Il tipo file &lt;strong&gt;%1&lt;/strong&gt; non riconosciuto.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="120"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="125"/>
         <source>Import Waypoint Data</source>
         <translation>Importa Dati Waypoint</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="130"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="135"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
         <translation>Il file contiene una lista di waypoints. Importare come piano di volo o aggiungere all&apos;archivio waypoints?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="140"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="145"/>
         <source>Route</source>
         <translation>Rotta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="154"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="159"/>
         <source>Library</source>
         <translation>Archivio</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="171"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="176"/>
         <source>Import Airspace Data</source>
         <translation>Importa dati dello spazio aereo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="225"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="230"/>
         <source>Airspace data imported</source>
         <translation>Dati dello spazio aereo importati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="232"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="237"/>
         <source>Import Visual Approach Chart</source>
         <translation>Importa Mappa di Avvicinamento Visuale</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="242"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="247"/>
         <source>Enter a name for this chart. Existing approach charts with the same name will be overwritten.</source>
         <translation>Inserisci un nome per questa mappa. Altre mappe con lo stesso nome verranno sovrascritte.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="276"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="281"/>
         <source>Visual approach chart data imported</source>
         <translation>La Mappa di Avvicinamento Visuale è stata importata</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="283"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="288"/>
         <source>Import Raster Map</source>
         <translation>Importa mappe raster</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="514"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="519"/>
         <source>Stand by</source>
         <translation>Attendi</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="525"/>
-        <source>Extracting and converting files from the trip kit.</source>
-        <translation>Estrazione e conversione dei file dal kit del viaggio.</translation>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="530"/>
+        <source>Extracting and converting files from the trip kit. Please do not interrupt or close the app.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="181"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="293"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="354"/>
+        <source>Extracting and converting files from the trip kit.</source>
+        <translation type="vanished">Estrazione e conversione dei file dal kit del viaggio.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="186"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="298"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="359"/>
         <source>Enter a name for this map.</source>
         <translation>Inserisci il nome della mappa.</translation>
     </message>
@@ -2565,32 +2584,32 @@ con i dati del conto bancario.
         <translation type="vanished">Nome mappa</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="316"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="321"/>
         <source>To avoid conflicts, vector maps will be not be shown while raster maps are installed.</source>
         <translation>Per evitare conflitti le mappe vettoriali non sono mostrate mentre sono installate le mappe raster.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="406"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="411"/>
         <source>Import Waypoint Library</source>
         <translation>Importare l&apos;archivio dei waypoints</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="474"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="479"/>
         <source>Import Trip Kit?</source>
         <translation>Importa il kit di viaggio?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="478"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="483"/>
         <source>This might overwrite some approach charts.</source>
         <translation>Questo potrebbe sovrascrivere alcune mappe di avvicinamento.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="490"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="495"/>
         <source>Trip kit imported</source>
         <translation>Kit di viaggio importato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="500"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="505"/>
         <source>Data Import Error</source>
         <translation>Errore importazione dati</translation>
     </message>
@@ -2603,22 +2622,22 @@ con i dati del conto bancario.
         <translation type="vanished">Per evitare il conflitto tra mappe raster e vettoriali, tutte le mappe vettoriali saranno disinstallate.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="337"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="342"/>
         <source>Raster map imported</source>
         <translation>Mappe raster importate</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="344"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="349"/>
         <source>Import Vector Map</source>
         <translation>Importa mappe vettoriali</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="377"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="382"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
         <translation>Per evitare il conflitto tra mappe raster e vettoriali, tutte le mappe raster saranno disinstallate.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="398"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="403"/>
         <source>Vector map imported</source>
         <translation>Mapper vettoriali importate</translation>
     </message>
@@ -2627,27 +2646,27 @@ con i dati del conto bancario.
         <translation type="vanished">Importa archivio waypoint</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="418"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="423"/>
         <source>Skip over waypoint that already exist in the library</source>
         <translation>Salta i waypoints già esistenti in archivio</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="437"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="442"/>
         <source>Waypoints imported</source>
         <translation>Waypoints importati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="444"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="449"/>
         <source>Import Flight Route?</source>
         <translation>Importare il piano di volo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="448"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="453"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>State per sovrascrivere il piano di volo. Una volta sovrascritto non potrà essere ripristinato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="467"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="472"/>
         <source>Flight route imported</source>
         <translation>Piano di volo importato</translation>
     </message>
@@ -4671,34 +4690,28 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Errore nella linea %1: %2; Spazio aereo %3 ignorato.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/TripKit.cpp" line="40"/>
         <source>File %1 is not a valid zip file.</source>
-        <translation>Il file %1 non è un file zip valido.</translation>
+        <translation type="vanished">Il file %1 non è un file zip valido.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/TripKit.cpp" line="48"/>
         <source>The zip archive %1 does not contain the required file &apos;toc.json&apos;.</source>
-        <translation>L&apos;archivio zip %1 non contiene il file necessario &apos;toc.json&apos;.</translation>
+        <translation type="vanished">L&apos;archivio zip %1 non contiene il file necessario &apos;toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/TripKit.cpp" line="54"/>
         <source>The file &apos;toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
-        <translation>Il file &apos;toc.json&apos; dell&apos;archivio zip %1 non può essere interpretato.</translation>
+        <translation type="vanished">Il file &apos;toc.json&apos; dell&apos;archivio zip %1 non può essere interpretato.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/TripKit.cpp" line="65"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
-        <translation>Il file zip %1 non contiene il file necessario &apos;charts/charts_toc.json&apos;.</translation>
+        <translation type="vanished">Il file zip %1 non contiene il file necessario &apos;charts/charts_toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/TripKit.cpp" line="71"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
-        <translation>Il file &apos;charts/charts_toc.json&apos; dall&apos;archivio %1 non può essere interpretato.</translation>
+        <translation type="vanished">Il file &apos;charts/charts_toc.json&apos; dall&apos;archivio %1 non può essere interpretato.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/TripKit.cpp" line="78"/>
         <source>The trip kit %1 does not contain any charts.</source>
-        <translation>Il kit di viaggio %1 non contiene nessuna mappa.</translation>
+        <translation type="vanished">Il kit di viaggio %1 non contiene nessuna mappa.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="125"/>
@@ -4723,6 +4736,48 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <source>The georeferencing data for the file %1 suggests that the image diagonal is more than 50km, which makes it unlikely that this is an approach chart.</source>
         <comment>VAC</comment>
         <translation>I dati di geolocalizzazione del file %1 suggeriscono che la diagonale dell&apos;immagine è inferiore ai 50km, è improbabile che sia una mappa di avvicinamento.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="108"/>
+        <source>The zip archive does not contain the required file &apos;toc.json&apos;.</source>
+        <comment>FileFormats::TripKit</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="113"/>
+        <source>The file &apos;toc.json&apos; from the zip archive cannot be interpreted.</source>
+        <comment>FileFormats::TripKit</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="123"/>
+        <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
+        <comment>FileFormats::TripKit</comment>
+        <translation type="unfinished">Il file zip %1 non contiene il file necessario &apos;charts/charts_toc.json&apos;.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="128"/>
+        <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
+        <comment>FileFormats::TripKit</comment>
+        <translation type="unfinished">Il file &apos;charts/charts_toc.json&apos; dall&apos;archivio %1 non può essere interpretato.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="134"/>
+        <source>The trip kit does not contain any charts.</source>
+        <comment>FileFormats::TripKit</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="163"/>
+        <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
+        <comment>FileFormats::TripKit</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/ZipFile.cpp" line="35"/>
+        <source>Cannot open zip file %1 for reading.</source>
+        <comment>FileFormats::ZipFile</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
