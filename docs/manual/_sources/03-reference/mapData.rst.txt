@@ -118,21 +118,30 @@ For simplicity, our maps are divided in "Class 1" and "Class 2".
 
 Below is a complete list of the maps that we offer.
 
-=================== ============== ========================
+=================== ============== =======
 Continent           Country        Class
-=================== ============== ========================
+=================== ============== =======
+Africa              Botswana       Class 2
 Africa              Canary Islands Class 1
+Africa              Kenya          Class 2
 Africa              Madagascar     Class 2
+Africa              Mauritius      Class 2
 Africa              Namibia        Class 1
 Africa              South Africa   Class 1
 Asia                Bahrain        Class 2
-Asia                Unit. Emirates Class 2
 Asia                Japan          Class 2
+Asia                Laos           Class 2
+Asia                Nepal          Class 2
 Asia                Qatar          Class 2
+Asia                Sri Lanka      Class 2
+Asia                Unit. Emirates Class 2
 Australia Oceanica  Australia      Class 2
 Australia Oceanica  New Zealand    Class 2
+Australia Oceanica  Vanuatu        Class 2
+Europe              Albania        Class 2
 Europe              Austria        Class 1
 Europe              Belgium        Class 1
+Europe              Bosnia and H.  Class 2
 Europe              Bulgaria       Class 1
 Europe              Croatia        Class 1
 Europe              Cyprus         Class 2
@@ -153,6 +162,8 @@ Europe              Liechtenstein  Class 2
 Europe              Lithuania      Class 2
 Europe              Luxembourg     Class 2
 Europe              Malta          Class 2
+Europe              Moldova        Class 2
+Europe              Montenegro     Class 2
 Europe              Netherlands    Class 1
 Europe              North. Ireland Class 1
 Europe              Norway         Class 2
@@ -168,7 +179,7 @@ Europe              Switzerland    Class 1
 North America       Canada         Class 2
 North America       United States  Class 2
 South America       Argentina      Class 2
-South America       Brazil         Class 2, NavAids missing
+South America       Brazil         Class 2
 South America       Colombia       Class 2
 South America       Falkland Is.   Class 2
-=================== ============== ========================
+=================== ============== =======
