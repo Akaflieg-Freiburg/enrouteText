@@ -1,3 +1,5 @@
+.. _vac:
+
 Import visual approach charts
 =============================
 
@@ -8,10 +10,10 @@ Import visual approach charts
 
 
 **Enroute Flight Navigation** is can import visual approach charts and display
-them on the moving map.  The figure :ref:`vac` shows how this will typically
+them on the moving map.  The figure :ref:`vacImg` shows how this will typically
 look.
 
-.. _vac:
+.. _vacImg:
 .. figure:: ./VAC.png
    :scale: 30 %
    :align: center

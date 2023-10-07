@@ -1,0 +1,2 @@
+{"rule":"WIFI","sentence":"^\\QACCESS_NETWORK_STATE and ACCESS_WIFI_STATE – Required to automatically connect\nto traffic receivers.\\E$"}
+{"rule":"WIFI","sentence":"^\\QCHANGE_WIFI_MULTICAST_STATE – The app receives traffic and position\ninformation from traffic data receivers and flight simulators via UDP network\nbroadcasts.\\E$"}
