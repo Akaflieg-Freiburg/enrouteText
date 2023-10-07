@@ -7,3 +7,7 @@ TripKits
 Paus
 TripKit
 NextCloud
+airspaces
+navaids
+openAIP
+flightmaps
