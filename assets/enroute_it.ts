@@ -906,12 +906,12 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="278"/>
         <source>Error reading TripKip: No charts imported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore di lettura di TripKip: Nessuna mappa importata.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="282"/>
         <source>Error reading TripKip: Only %1 out of %2 charts were successfully imported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Errore di lettura di TripKip: Solo %1 di %2 mappe sono state importate.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="320"/>
@@ -2501,7 +2501,8 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="98"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; seems to contain an zip file without the data required in a tripkit.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>There is a mismatch with the capital letters in the word &quot;TripKit&quot;, it seems that elsewhere the word is spelled &quot;tripkit&quot; (like here).</translatorcomment>
+        <translation>Il file &lt;strong&gt;%1&lt;/strong&gt; sembra contenere un file zip senza i dati richiesti in un TripKit.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="103"/>
@@ -2566,7 +2567,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="530"/>
         <source>Extracting and converting files from the trip kit. Please do not interrupt or close the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Estrazione e conversione del file da TripKit. Non interrompere o chiudere la app.</translation>
     </message>
     <message>
         <source>Extracting and converting files from the trip kit.</source>
@@ -4741,43 +4742,43 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/fileFormats/TripKit.cpp" line="108"/>
         <source>The zip archive does not contain the required file &apos;toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il file zip non contiene il file &apos;toc.json&apos; richiesto.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="113"/>
         <source>The file &apos;toc.json&apos; from the zip archive cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il file &apos;toc.json&apos; dal file zip non può essere interpretato.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="123"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished">Il file zip %1 non contiene il file necessario &apos;charts/charts_toc.json&apos;.</translation>
+        <translation>Il file zip %1 non contiene il file necessario &apos;charts/charts_toc.json&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="128"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished">Il file &apos;charts/charts_toc.json&apos; dall&apos;archivio %1 non può essere interpretato.</translation>
+        <translation>Il file &apos;charts/charts_toc.json&apos; dall&apos;archivio %1 non può essere interpretato.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="134"/>
         <source>The trip kit does not contain any charts.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il TripKit non contiene mappe.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="163"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translation>Le coordinate per %1 nel TripKit non sono valide.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/ZipFile.cpp" line="35"/>
         <source>Cannot open zip file %1 for reading.</source>
         <comment>FileFormats::ZipFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Non è possibile aprire il file zip %1 per la lettura.</translation>
     </message>
 </context>
 <context>
