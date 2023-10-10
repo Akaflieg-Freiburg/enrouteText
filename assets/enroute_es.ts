@@ -3889,65 +3889,65 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">El kit de viaje %1 no contiene ningún gráfico.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="125"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="179"/>
         <source>Unable to find georeferencing data for the file %1.</source>
         <comment>VAC</comment>
         <translatorcomment>VAC</translatorcomment>
         <translation>No se pueden encontrar datos de georreferenciación para el archivo %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="130"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="184"/>
         <source>Unable to load raster data from file %1.</source>
         <comment>VAC</comment>
         <translatorcomment>VAC</translatorcomment>
         <translation>No se pueden cargar datos ráster desde el archivo %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="137"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="191"/>
         <source>The georeferencing data for the file %1 suggests that the image diagonal is less than 200m, which makes it unlikely that this is an approach chart.</source>
         <comment>VAC</comment>
         <translatorcomment>VAC</translatorcomment>
         <translation>Los datos de georreferenciación del archivo %1 sugieren que la diagonal de la imagen es inferior a 200 m, lo que hace poco probable que se trate de una carta de aproximación.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="141"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="195"/>
         <source>The georeferencing data for the file %1 suggests that the image diagonal is more than 50km, which makes it unlikely that this is an approach chart.</source>
         <comment>VAC</comment>
         <translatorcomment>VAC</translatorcomment>
         <translation>Los datos de georreferenciación del archivo %1 sugieren que la diagonal de la imagen es de más de 50 km, lo que hace poco probable que se trate de una carta de aproximación.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="108"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="110"/>
         <source>The zip archive does not contain the required file &apos;toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="113"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="115"/>
         <source>The file &apos;toc.json&apos; from the zip archive cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="123"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="125"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished">El archivo zip %1 no contiene el archivo requerido &apos;charts/charts_toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="128"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="130"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished">El archivo &apos;charts/charts_toc.json&apos; del archivo zip %1 no se puede interpretar.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="134"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="136"/>
         <source>The trip kit does not contain any charts.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="163"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="165"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished"></translation>

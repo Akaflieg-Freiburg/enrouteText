@@ -4700,61 +4700,61 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Das Tripkit %1 enthält keinerlei Karten.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="125"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="179"/>
         <source>Unable to find georeferencing data for the file %1.</source>
         <comment>VAC</comment>
         <translation>Finde keine Georeferenzierung zur Datei %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="130"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="184"/>
         <source>Unable to load raster data from file %1.</source>
         <comment>VAC</comment>
         <translation>Kann keine Rasterdaten aus der Datei %1 laden.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="137"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="191"/>
         <source>The georeferencing data for the file %1 suggests that the image diagonal is less than 200m, which makes it unlikely that this is an approach chart.</source>
         <comment>VAC</comment>
         <translation>Die Geodaten für die Datei %1 legen eine Bilddiagonale unter 200 m nahe, was nicht für eine Anflugkarte spricht.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="141"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="195"/>
         <source>The georeferencing data for the file %1 suggests that the image diagonal is more than 50km, which makes it unlikely that this is an approach chart.</source>
         <comment>VAC</comment>
         <translation>Die Geodaten für die Datei %1 legen eine Bilddiagonale über 50 km nahe, was nicht für eine Anflugkarte spricht.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="108"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="110"/>
         <source>The zip archive does not contain the required file &apos;toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Im ZIP-Archiv fehlt die benötigte Datei &apos;toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="113"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="115"/>
         <source>The file &apos;toc.json&apos; from the zip archive cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Die Datei &apos;toc.json&apos; aus dem ZIP-Archiv kann nicht interpretiert werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="123"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="125"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Das ZIP-Archiv %1 enthält nicht die benötigte Datei &apos;charts/charts_toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="128"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="130"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Die Datei &apos;charts/charts_toc.json&apos; aus dem ZIP-Archiv %1 kann nicht interpretiert werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="134"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="136"/>
         <source>The trip kit does not contain any charts.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Das Tripkit enthält keinerlei Karten.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="163"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="165"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Die Koordinaten für den Eintrag &apos;%1&apos; im Tripkit sind ungültig.</translation>
