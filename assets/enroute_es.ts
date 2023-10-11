@@ -2235,7 +2235,7 @@ con los datos de la cuenta bancaria.</translation>
         <translation>En espera</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="530"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="531"/>
         <source>Extracting and converting files from the trip kit. Please do not interrupt or close the app.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -3126,7 +3126,7 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
 <context>
     <name>Notifications::Notification</name>
     <message>
-        <location filename="../../../src/notification/Notification.h" line="299"/>
+        <location filename="../../../src/notification/Notification.h" line="303"/>
         <source>Dismiss</source>
         <translation>Descartar</translation>
     </message>
@@ -3359,7 +3359,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>No se puede abrir el archivo temporal.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="92"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="93"/>
         <source>Unable to open data in other app.</source>
         <translation>No se pueden abrir los datos en otra aplicación.</translation>
     </message>
@@ -3402,7 +3402,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Platform::PlatformAdaptor</name>
     <message>
-        <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="51"/>
+        <location filename="../../../src/platform/PlatformAdaptor_Linux.cpp" line="55"/>
         <source>unknown network name</source>
         <translation>Nombre de red desconocido</translation>
     </message>
@@ -3889,65 +3889,65 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">El kit de viaje %1 no contiene ningún gráfico.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="183"/>
+        <location filename="../../../src/fileFormats/VAC.cpp" line="225"/>
         <source>Unable to find georeferencing data for the file %1.</source>
         <comment>VAC</comment>
         <translatorcomment>VAC</translatorcomment>
         <translation>No se pueden encontrar datos de georreferenciación para el archivo %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="188"/>
+        <location filename="../../../src/fileFormats/VAC.cpp" line="230"/>
         <source>Unable to load raster data from file %1.</source>
         <comment>VAC</comment>
         <translatorcomment>VAC</translatorcomment>
         <translation>No se pueden cargar datos ráster desde el archivo %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="195"/>
+        <location filename="../../../src/fileFormats/VAC.cpp" line="237"/>
         <source>The georeferencing data for the file %1 suggests that the image diagonal is less than 200m, which makes it unlikely that this is an approach chart.</source>
         <comment>VAC</comment>
         <translatorcomment>VAC</translatorcomment>
         <translation>Los datos de georreferenciación del archivo %1 sugieren que la diagonal de la imagen es inferior a 200 m, lo que hace poco probable que se trate de una carta de aproximación.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="199"/>
+        <location filename="../../../src/fileFormats/VAC.cpp" line="241"/>
         <source>The georeferencing data for the file %1 suggests that the image diagonal is more than 50km, which makes it unlikely that this is an approach chart.</source>
         <comment>VAC</comment>
         <translatorcomment>VAC</translatorcomment>
         <translation>Los datos de georreferenciación del archivo %1 sugieren que la diagonal de la imagen es de más de 50 km, lo que hace poco probable que se trate de una carta de aproximación.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="110"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="81"/>
         <source>The zip archive does not contain the required file &apos;toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="115"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="86"/>
         <source>The file &apos;toc.json&apos; from the zip archive cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="125"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="96"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished">El archivo zip %1 no contiene el archivo requerido &apos;charts/charts_toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="130"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="101"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished">El archivo &apos;charts/charts_toc.json&apos; del archivo zip %1 no se puede interpretar.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="136"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="107"/>
         <source>The trip kit does not contain any charts.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="165"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="136"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished"></translation>
