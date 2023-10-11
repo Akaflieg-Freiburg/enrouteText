@@ -63,6 +63,7 @@ Further Steps
    02-steps/plan
    02-steps/waypointLibrary
    02-steps/simulator
+   02-steps/report
    02-steps/donate
 
 
