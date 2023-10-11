@@ -3989,28 +3989,28 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation type="vanished">Le kit de voyage %1 ne contient aucun graphique.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="179"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="183"/>
         <source>Unable to find georeferencing data for the file %1.</source>
         <comment>VAC</comment>
         <translatorcomment>VAC</translatorcomment>
         <translation>Impossible de trouver les données de géoréférencement pour le fichier %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="184"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="188"/>
         <source>Unable to load raster data from file %1.</source>
         <comment>VAC</comment>
         <translatorcomment>VAC</translatorcomment>
         <translation>Impossible de charger les données raster à partir du fichier %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="191"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="195"/>
         <source>The georeferencing data for the file %1 suggests that the image diagonal is less than 200m, which makes it unlikely that this is an approach chart.</source>
         <comment>VAC</comment>
         <translatorcomment>VAC</translatorcomment>
         <translation>Les données de géoréférencement du fichier %1 suggèrent que la diagonale de l&apos;image est inférieure à 200 m, ce qui rend peu probable qu&apos;il s&apos;agisse d&apos;une carte d&apos;approche.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="195"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="199"/>
         <source>The georeferencing data for the file %1 suggests that the image diagonal is more than 50km, which makes it unlikely that this is an approach chart.</source>
         <comment>VAC</comment>
         <translatorcomment>VAC</translatorcomment>
@@ -4056,6 +4056,131 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/fileFormats/ZipFile.cpp" line="35"/>
         <source>Cannot open zip file %1 for reading.</source>
         <comment>FileFormats::ZipFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="57"/>
+        <source>Found corrupt data while reading the data stream.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="59"/>
+        <source>Read past end of data stream.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="61"/>
+        <source>Error writing to data stream.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="120"/>
+        <source>Found invalid TIFF file data.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="128"/>
+        <source>BigTIFF files are not supported.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="132"/>
+        <source>Found an unsupported TIFF version.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="149"/>
+        <source>Found more than 100 tags in the TIFF file. Reading only the first 100.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="238"/>
+        <source>Cannot read data.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="287"/>
+        <source>No data for tag 270.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="299"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="306"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="311"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="317"/>
+        <source>Invalid data for tag 33922.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="323"/>
+        <source>Tag 33922 is not set.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="336"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="342"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="347"/>
+        <source>Invalid data for tag 33550.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="352"/>
+        <source>Tag 33550 is not set.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="364"/>
+        <source>No data for tag 256.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="370"/>
+        <source>Invalid data for tag 256.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="375"/>
+        <source>Tag 256 is not set.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="387"/>
+        <source>No data for tag 257.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="393"/>
+        <source>Invalid data for tag 257.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="398"/>
+        <source>Tag 257 is not set.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="416"/>
+        <source>The bounding box is invalid.</source>
+        <comment>FileFormats::GeoTIFF</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
