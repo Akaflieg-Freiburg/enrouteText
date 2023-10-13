@@ -27,3 +27,5 @@ NOTAMs
 Hydroport
 Doppler-VORTAC
 VORTAC
+METAR
+Topobathy
