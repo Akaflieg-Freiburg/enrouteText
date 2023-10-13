@@ -1,10 +1,12 @@
-Report issues and make suggestions
+Report issues or make a suggestion
 ==================================
 
-We aim to provide quality software. Fixing bugs in **Enroute Flight Navigation**
-is always our highest priority. If you find a bug, then please help us by
-reporting the issue!  To make sure that your report reaches the correct person,
-please proceed as follows.
+We aim to provide high-quality software. Fixing errors is therefore always our
+first priority. We are grateful for every report that we get, and we would also
+like to hear your suggestions for improvement.
+
+To make sure that your report reaches the correct person, please proceed as
+follows.
 
 - Open the main menu and go to "Bug report". 
 - The page "Bug report" will open.
