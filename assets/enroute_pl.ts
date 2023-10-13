@@ -856,9 +856,8 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
 <context>
     <name>DataManagement</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="392"/>
         <source>Manually Imported</source>
-        <translation>Ręcznie zaimportowany</translation>
+        <translation type="vanished">Ręcznie zaimportowany</translation>
     </message>
 </context>
 <context>
@@ -921,8 +920,9 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
         <translation>Import nie powiódł się. Nie można zapisać danych rastrowych w katalogu %1.</translation>
     </message>
     <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="392"/>
         <source>Manually Imported</source>
-        <translation type="vanished">Ręcznie zaimportowany</translation>
+        <translation>Ręcznie zaimportowany</translation>
     </message>
     <message>
         <source>Internal Map Data</source>

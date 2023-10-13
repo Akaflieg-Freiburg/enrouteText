@@ -790,9 +790,8 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
 <context>
     <name>DataManagement</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="392"/>
         <source>Manually Imported</source>
-        <translation>Importado manualmente</translation>
+        <translation type="vanished">Importado manualmente</translation>
     </message>
 </context>
 <context>
@@ -837,6 +836,11 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
         <location filename="../../../src/dataManagement/DataManager.cpp" line="320"/>
         <source>Import failed. Unable to write raster data to directory %1.</source>
         <translation>La importación falló. No se pueden escribir datos ráster en el directorio %1.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="392"/>
+        <source>Manually Imported</source>
+        <translation type="unfinished">Importado manualmente</translation>
     </message>
 </context>
 <context>

@@ -854,9 +854,8 @@ la nostra App.&lt;/p&gt;
 <context>
     <name>DataManagement</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="392"/>
         <source>Manually Imported</source>
-        <translation>Importata manualmente</translation>
+        <translation type="vanished">Importata manualmente</translation>
     </message>
 </context>
 <context>
@@ -919,8 +918,9 @@ la nostra App.&lt;/p&gt;
         <translation>Caricamento fallito. Impossibile scrivere dati raster nella cartella %1.</translation>
     </message>
     <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="392"/>
         <source>Manually Imported</source>
-        <translation type="vanished">Importata manualmente</translation>
+        <translation>Importata manualmente</translation>
     </message>
     <message>
         <source>Internal Map Data</source>

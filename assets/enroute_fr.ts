@@ -783,9 +783,8 @@ données de manière publique et gratuite.&lt;/p&gt;
 <context>
     <name>DataManagement</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="392"/>
         <source>Manually Imported</source>
-        <translation>Importé manuellement</translation>
+        <translation type="vanished">Importé manuellement</translation>
     </message>
 </context>
 <context>
@@ -830,6 +829,11 @@ données de manière publique et gratuite.&lt;/p&gt;
         <location filename="../../../src/dataManagement/DataManager.cpp" line="320"/>
         <source>Import failed. Unable to write raster data to directory %1.</source>
         <translation>L&apos;importation a échoué. Impossible d&apos;écrire des données raster dans le répertoire %1.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="392"/>
+        <source>Manually Imported</source>
+        <translation type="unfinished">Importé manuellement</translation>
     </message>
 </context>
 <context>

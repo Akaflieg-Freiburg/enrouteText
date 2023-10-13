@@ -847,9 +847,8 @@ anderes dazu sagen können.&lt;/p&gt;
 <context>
     <name>DataManagement</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="392"/>
         <source>Manually Imported</source>
-        <translation>Manuell importiert</translation>
+        <translation type="vanished">Manuell importiert</translation>
     </message>
 </context>
 <context>
@@ -912,8 +911,9 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation>Import fehlgeschlagen. Kann keine Rasterdaten ins Verzeichnis %1 schreiben.</translation>
     </message>
     <message>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="392"/>
         <source>Manually Imported</source>
-        <translation type="vanished">Manuell importiert</translation>
+        <translation>Manuell importiert</translation>
     </message>
     <message>
         <source>Internal Map Data</source>
