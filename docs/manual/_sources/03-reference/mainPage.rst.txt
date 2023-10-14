@@ -290,8 +290,8 @@ path to the next waypoint is highlighted in dark red.  The image
 :ref:`movingMapFlt` shows how this will look.
 
 
-Waypoints
-^^^^^^^^^
+Waypoints and NOTAMs
+^^^^^^^^^^^^^^^^^^^^
 
 The moving map show waypoints using the following standard ICAO symbols. In
 addition, it highlights locations with active or future NOTAMs.
@@ -321,3 +321,20 @@ Symbol                                      Function
 .. image:: VORTAC.png                       VORTAC
 .. image:: WP.png                           Generic waypoint (from flight route or waypoint library)
 =========================================== ========
+
+.. note:: **Enroute Flight Navigation** only displays NOTAMs located near your 
+  present position, along your flight route, and near locations for which 
+  the waypoint dialog has been opened.
+
+
+Procedures and traffic circuits
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Traffic circuits for motorized aircraft are shown as blue lines. Traffic circuits
+for gliders or Ultralight aircraft are shown as red lines. Entry and exit routes
+to traffic pattern are indicated by open ends of the pattern. The traffic
+circuit will show the traffic circuit altitude when the information is
+available.
+
+Entry routes into control zones, transversal routes as well as holding patterns
+are shown as solid blue lines. Exit routes are shown as dashed blue lines.
