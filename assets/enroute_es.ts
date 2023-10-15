@@ -825,12 +825,12 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="278"/>
         <source>Error reading TripKip: No charts imported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al leer TripKip: No se importaron cartas.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="282"/>
         <source>Error reading TripKip: Only %1 out of %2 charts were successfully imported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al leer TripKip: solo %1 de %2 gráficos se importaron correctamente.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="320"/>
@@ -840,7 +840,7 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="392"/>
         <source>Manually Imported</source>
-        <translation type="unfinished">Importado manualmente</translation>
+        <translation>Importado manualmente</translation>
     </message>
 </context>
 <context>
@@ -2141,7 +2141,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="98"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; seems to contain an zip file without the data required in a tripkit.</source>
-        <translation type="unfinished"></translation>
+        <translation>El archivo &lt;strong&gt;%1&lt;/strong&gt; parece contener un archivo zip sin los datos requeridos en un tripkit.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="237"/>
@@ -2241,7 +2241,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="531"/>
         <source>Extracting and converting files from the trip kit. Please do not interrupt or close the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Extracción y conversión de archivos del kit de viaje. No interrumpa ni cierre la aplicación.</translation>
     </message>
     <message>
         <source>Extracting and converting files from the trip kit.</source>
@@ -3924,97 +3924,113 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/TripKit.cpp" line="81"/>
         <source>The zip archive does not contain the required file &apos;toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::TripKit</translatorcomment>
+        <translation>El archivo zip no contiene el archivo requerido &apos;toc.json&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="86"/>
         <source>The file &apos;toc.json&apos; from the zip archive cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::TripKit</translatorcomment>
+        <translation>El archivo &apos;toc.json&apos; del archivo zip no se puede interpretar.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="96"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished">El archivo zip %1 no contiene el archivo requerido &apos;charts/charts_toc.json&apos;.</translation>
+        <translatorcomment>Formatos de archivo::TripKit</translatorcomment>
+        <translation>El archivo zip %1 no contiene el archivo requerido &apos;charts/charts_toc.json&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="101"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished">El archivo &apos;charts/charts_toc.json&apos; del archivo zip %1 no se puede interpretar.</translation>
+        <translatorcomment>Formatos de archivo::TripKit</translatorcomment>
+        <translation>El archivo &apos;charts/charts_toc.json&apos; del archivo zip %1 no se puede interpretar.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="107"/>
         <source>The trip kit does not contain any charts.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::TripKit</translatorcomment>
+        <translation>El kit de viaje no contiene mapas.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="136"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::TripKit</translatorcomment>
+        <translation>Las coordenadas de la entrada &apos;%1&apos; en el kit de viaje no son válidas.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/ZipFile.cpp" line="35"/>
         <source>Cannot open zip file %1 for reading.</source>
         <comment>FileFormats::ZipFile</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::ZipFile</translatorcomment>
+        <translation>No se puede abrir el archivo zip %1 para leerlo.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="57"/>
         <source>Found corrupt data while reading the data stream.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::ZGeoTIFF</translatorcomment>
+        <translation>Se encontraron datos corruptos al leer el flujo de datos.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="59"/>
         <source>Read past end of data stream.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>Leer el final del flujo de datos.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="61"/>
         <source>Error writing to data stream.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>Error al escribir en el flujo de datos.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="120"/>
         <source>Found invalid TIFF file data.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>Se encontraron datos de archivo TIFF no válidos.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="128"/>
         <source>BigTIFF files are not supported.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>Los archivos BigTIFF no son compatibles.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="132"/>
         <source>Found an unsupported TIFF version.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>Se encontró una versión TIFF no compatible.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="149"/>
         <source>Found more than 100 tags in the TIFF file. Reading only the first 100.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>Se encontraron más de 100 etiquetas en el archivo TIFF. Leyendo solo los primeros 100.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="238"/>
         <source>Cannot read data.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>No se pueden leer datos.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="287"/>
         <source>No data for tag 270.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>No hay datos para la etiqueta 270.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="299"/>
@@ -4023,13 +4039,15 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="317"/>
         <source>Invalid data for tag 33922.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>Datos no válidos para la etiqueta 33922.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="323"/>
         <source>Tag 33922 is not set.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>La etiqueta 33922 no está configurada.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="336"/>
@@ -4037,55 +4055,64 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="347"/>
         <source>Invalid data for tag 33550.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>Datos no válidos para la etiqueta 33550.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="352"/>
         <source>Tag 33550 is not set.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>La etiqueta 33550 no está configurada.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="364"/>
         <source>No data for tag 256.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>No hay datos para la etiqueta 256.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="370"/>
         <source>Invalid data for tag 256.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>Datos no válidos para la etiqueta 256.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="375"/>
         <source>Tag 256 is not set.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>La etiqueta 256 no está configurada.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="387"/>
         <source>No data for tag 257.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>No hay datos para la etiqueta 257.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="393"/>
         <source>Invalid data for tag 257.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>Datos no válidos para la etiqueta 257.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="398"/>
         <source>Tag 257 is not set.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>No hay datos para la etiqueta 257.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="416"/>
         <source>The bounding box is invalid.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
+        <translation>El cuadro delimitador no es válido.</translation>
     </message>
 </context>
 <context>
