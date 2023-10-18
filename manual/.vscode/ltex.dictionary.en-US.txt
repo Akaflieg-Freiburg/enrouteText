@@ -29,3 +29,8 @@ Doppler-VORTAC
 VORTAC
 METAR
 Topobathy
+GDAL
+VACs
+Georeferencing
+gdal
+georeferenced
