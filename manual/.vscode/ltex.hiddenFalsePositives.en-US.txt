@@ -52,3 +52,6 @@
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QType \"SDKShell\" and press Enter, this sets the paths\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qgdal_translate -a_srs EPSG:4326 -a_ullr <upper_left_longitude> <upper_left_latitude> <lower_right_longitude> <lower_right_latitude> -co COMPRESS=LZW input.png output.tif\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qgdal_translate -a_srs EPSG:4326 -a_ullr -6.620555 43.982777 -5.736666 43.387222 -co COMPRESS=LZW input.png output.tif\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qgdal_translate -a_srs EPSG:4326 -a_ullr <upper_left_longitude> <upper_left_latitude> <lower_right_longitude> <lower_right_latitude> -mo \"TIFFTAG_IMAGEDESCRIPTION=Chart Name\" -co COMPRESS=LZW input.png output.tif\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qgdal_translate -a_srs EPSG:4326 -a_ullr -6.620555 43.982777 -5.736666 43.387222 -mo \"TIFFTAG_IMAGEDESCRIPTION=Chart Name\" -co COMPRESS=LZW input.png output.tif\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qgdal_translate -a_srs EPSG:4326 -a_ullr -6.620555 43.982777 -5.736666 43.387222 -mo \"TIFFTAG_IMAGEDESCRIPTION=Asturias\" -co COMPRESS=LZW input.png output.tif\\E$"}
