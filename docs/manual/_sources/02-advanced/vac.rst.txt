@@ -121,6 +121,7 @@ open the approach chart page automatically.
   install some approach charts first.
 
 .. _gdal:
+
 Appendix: Create VACs with GDAL
 -------------------------------
 
@@ -178,15 +179,12 @@ computer, using command line utilities.
 
 13. Convert the PNG file to GeoTIFF format using a GDAL command as follows::
 
-      gdal_translate -a_srs EPSG:4326 -a_ullr <upper_left_longitude> <upper_left_latitude> <lower_right_longitude> <lower_right_latitude> -co COMPRESS=LZW input.png output.tif
+      gdal_translate -a_srs EPSG:4326 -a_ullr <upper_left_longitude> <upper_left_latitude> <lower_right_longitude> <lower_right_latitude> -mo "TIFFTAG_IMAGEDESCRIPTION=Chart Name" -co COMPRESS=LZW input.png output.tif
     
     In the coordinates, north is positive, south is negative, east is positive,
     west is negative.  A call for a map in norther Spain could read as follows::
 
-      gdal_translate -a_srs EPSG:4326 -a_ullr -6.620555 43.982777 -5.736666 43.387222 -co COMPRESS=LZW input.png output.tif
+      gdal_translate -a_srs EPSG:4326 -a_ullr -6.620555 43.982777 -5.736666 43.387222 -mo "TIFFTAG_IMAGEDESCRIPTION=Asturias" -co COMPRESS=LZW input.png output.tif
 
 14. Copy the output.tif file to your mobile device and import it into **Enroute
     Flight Navigation** as described above.
-
-
-
