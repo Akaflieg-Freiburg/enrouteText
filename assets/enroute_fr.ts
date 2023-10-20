@@ -1105,9 +1105,6 @@ données de manière publique et gratuite.&lt;/p&gt;
     </message>
 </context>
 <context>
-    <name>DataManagement::UpdateNotifier</name>
-</context>
-<context>
     <name>DataManagerPage</name>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="36"/>
