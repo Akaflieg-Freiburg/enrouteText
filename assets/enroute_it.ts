@@ -2151,7 +2151,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="31"/>
         <source>Flight Route Library</source>
-        <translation>Archivio itinerari</translation>
+        <translation>Archivio piani di volo</translation>
     </message>
     <message>
         <source>Info …</source>
@@ -2190,7 +2190,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="251"/>
         <source>… in GeoJSON format</source>
-        <translation>in formato GeoJSON</translation>
+        <translation>... in formato GeoJSON</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="205"/>
@@ -2275,7 +2275,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="357"/>
         <source>Loading flight route &lt;strong&gt;%1&lt;/strong&gt;</source>
-        <translation>Caricamento rotta di volo &lt;strong&gt;%1&lt;/strong&gt;</translation>
+        <translation>Caricamento piano di volo &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
         <source>An error occurred…</source>
@@ -2321,7 +2321,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="123"/>
         <source>Filter</source>
-        <translation>Flitro</translation>
+        <translation>Filtro</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="290"/>
