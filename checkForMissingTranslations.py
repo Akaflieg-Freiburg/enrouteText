@@ -17,7 +17,8 @@ issueNumbers = {
     "es": 22,
     "fr": 7,
     "it": 16,
-    "pl": 9
+    "pl": 9,
+    "pt": 49
     }
 
 
