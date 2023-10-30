@@ -3040,6 +3040,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Wir verarbeiten keinerlei persönliche Daten von Ihnen. In die App eingegebene Datem wie z.B. Routen, Wegpunkte und Luftfahrzeugmerkmale liegen nur lokal auf Ihrem Gerät. Sie gelangen nicht zu uns und werden damit auch nicht von uns verarbeitet.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="240"/>
+        <source>Our flight club &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; has received the renowned Niethammer Innovation Award 2023. The award recognizes our work on &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. But above all, we owe this prize to our many contributors and supporters. None of this would have been possible without the incredible work of the communities at &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, who supply us with aviation data. Thanks to all of you! We will use the award money to finance our infrastructure and purchase urgently needed development hardware.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Privacy Policies</source>
         <translation type="vanished">Datenschutz</translation>
     </message>
@@ -3066,11 +3071,6 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <location filename="../../../src/Librarian.cpp" line="206"/>
         <source>The app shows NOTAMs for places near your current location and near your currently planned route. It also shows NOTAMs for all waypoints that you open in the app. In order to provide this functionality, your current location, your currently planned route, waypoint coordinates, and your device&apos;s IP address must be transmitted to web services at the &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administration&lt;/a&gt;. Knowledge of the IP address is necessary for the web services to respond. The web services cannot read any other data from your device in the process. However, you must expect that the IP address of your device will be stored together with the transmitted position data. The web services are operated by the US government and are beyond our control. Detailed information about these web services can be found at &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</source>
         <translation>Die App zeigt Ihnen NOTAMs für Orte nahe Ihres aktuellen Standorts und Ihrer aktuell geplante Route an. Die App zeigt zusätzlich NOTAMs für alle Wegpunkte an, die Sie in der App öffnen. Um diese Funktionalität anzubieten, muss die App Ihren aktuellen Standort, Ihre aktuell geplante Route, Wegpunktkoordinaten und die IP-Adresse Ihres Geräts an Webservices der &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administration&lt;/a&gt; übermitteln. Die Webservices benötigen die IP-Adresse, um ihrem Gerät zu antworten. Die Webservices können keine weiteren Daten Ihres Gerätes auslesen. Allerdings müssen Sie damit rechnen, dass die IP-Adresse Ihres Gerätes zusammen mit den übermittelten Positionsdaten gespeichert wird. Die Webservices werden von der US-Regierung betrieben und entziehen sich unserer Kontrolle. Detaillierte Informationen zu den Webservices finden Sie unter &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="240"/>
-        <source>Our flight club &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; has received the reowned Niethammer Innovation Award 2023. The award recognises our work on &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. But above all, we owe this prize to our many contributers and supporters. None of this would have been possible with the incredible work of the communities at &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, who supply us with aviation data. Thanks to all of you! The award money will be used to finance our infrastructure and purchase urgently-needed development hardware.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="246"/>
