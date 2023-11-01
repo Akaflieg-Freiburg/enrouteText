@@ -914,17 +914,17 @@ anderes dazu sagen können.&lt;/p&gt;
         <location filename="../../../src/dataManagement/DataManager.cpp" line="341"/>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="361"/>
         <source>An approach chart with name %1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es gibt bereits eine Anflugkarte mit dem Namen %1.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="365"/>
         <source>Cannot copy file %1 to %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann Datei %1 nicht nach Datei %2 kopieren.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="376"/>
         <source>Approach chart %1 could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anflugkarte %1 wurde nicht gefunden.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="441"/>
@@ -3587,7 +3587,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/items/MapSet.qml" line="142"/>
         <source>Rename</source>
-        <translation type="unfinished">Umbenennen</translation>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MapSet.qml" line="155"/>
@@ -4951,27 +4951,27 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="33"/>
         <source>Rename Approach Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Anflugkarte umbenennen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="43"/>
         <source>Enter new name for the approach chart &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Geben Sie für die Anflugkarte &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="69"/>
         <source>Rename</source>
-        <translation type="unfinished">Umbenennen</translation>
+        <translation>Umbenennen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="78"/>
         <source>Flight route renamed</source>
-        <translation type="unfinished">Route umbenannt</translation>
+        <translation>Route umbenannt</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="80"/>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: %1</translation>
     </message>
 </context>
 <context>
