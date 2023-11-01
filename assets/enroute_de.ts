@@ -6356,7 +6356,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="148"/>
         <source>In order to manage your collection of visual approach charts, go back to the main map view, open the main menu and go to &apos;Library/Maps and Data&apos;.</source>
-        <translation>Zur Verwaltung Ihrer gesammelten Sichtanflugkarten wählen Sie im Hauptmenü der Hauptansicht der App &apos;Bibliothek/Karten und Daten&apos;.</translation>
+        <translation>Zur Verwaltung Ihrer gesammelten Sichtanflugkarten wählen Sie im Hauptmenü der App den Menüpunkt &apos;Bibliothek/Karten und Daten&apos;.</translation>
     </message>
 </context>
 <context>
