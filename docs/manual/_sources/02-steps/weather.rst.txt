@@ -78,7 +78,7 @@ Depending on screen size, you might have to scroll down in order to read the
 full weather forecast.
 
 
-Page footer 
+Page Footer 
 -----------
 
 The footer of the page shows the following data.
@@ -88,11 +88,11 @@ The footer of the page shows the following data.
 * Remaining time until sunset
 
 
-Three-dot menu
+Refresh Button
 --------------
 
-The three-dot menu at the top right of the page allows to do the following.
-
-* Check for updates of METAR and TAF data
-* Disallow the internet connection to the "Aviation Weather Center" in case of
-  privacy concerns
+The refresh button in the title bar at the top right of the page allows checking
+for updates of METAR and TAF data.  **Enroute Flight Navigation** checks for
+updates at regular intervals, so that there is no need to trigger an update
+manually.  The refresh button might however be useful to force an update in
+setting where the device had no internet connection for a while.
