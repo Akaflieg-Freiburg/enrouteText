@@ -807,17 +807,17 @@ données de manière publique et gratuite.&lt;/p&gt;
         <location filename="../../../src/dataManagement/DataManager.cpp" line="341"/>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="361"/>
         <source>An approach chart with name %1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une carte d&apos;approche portant le nom %1 existe déjà.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="365"/>
         <source>Cannot copy file %1 to %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible de copier le fichier %1 vers %2.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="376"/>
         <source>Approach chart %1 could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>La carte d&apos;approche %1 est introuvable.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="441"/>
@@ -2347,7 +2347,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="240"/>
         <source>Our flight club &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; has received the renowned Niethammer Innovation Award 2023. The award recognizes our work on &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. But above all, we owe this prize to our many contributors and supporters. None of this would have been possible without the incredible work of the communities at &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, who supply us with aviation data. Thanks to all of you! We will use the award money to finance our infrastructure and purchase urgently needed development hardware.</source>
-        <translation type="unfinished"></translation>
+        <translation>Notre aéroclub &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; a reçu le célèbre Niethammer Innovation Award 2023. Ce prix récompense notre travail sur la &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. Mais nous devons avant tout ce prix à nos nombreux contributeurs et sympathisants. Rien de tout cela n&apos;aurait été possible sans le travail incroyable des communautés de &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; et &lt;a href=&apos;https://www.openflightmaps. org&apos;&gt;open flightmaps&lt;/a&gt;, qui nous fournissent des données aéronautiques. Merci à tous! Nous utiliserons l’argent du prix pour financer notre infrastructure et acheter le matériel de développement dont nous avons un besoin urgent.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="246"/>
@@ -2495,7 +2495,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/MapSet.qml" line="142"/>
         <source>Rename</source>
-        <translation type="unfinished">Renommer</translation>
+        <translation>Renommer</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MapSet.qml" line="155"/>
@@ -3581,27 +3581,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="33"/>
         <source>Rename Approach Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Renommer le carte d&apos;approcehe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="43"/>
         <source>Enter new name for the approach chart &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Entrez le nouveau nom de la carte d&apos;approche &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="69"/>
         <source>Rename</source>
-        <translation type="unfinished">Renommer</translation>
+        <translation>Renommer</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="78"/>
         <source>Flight route renamed</source>
-        <translation type="unfinished">Route renommée</translation>
+        <translation>Route renommée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="80"/>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur: %1</translation>
     </message>
 </context>
 <context>
@@ -5207,7 +5207,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="162"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the refresh button at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Désolé&#xa0;!&lt;/h3&gt;&lt;p&gt;Aucune donnée METAR/TAF disponible. Vous pouvez redémarrer le téléchargement manuellement en utilisant le bouton d&apos;actualisation dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="188"/>
