@@ -399,8 +399,9 @@ below.&lt;/p&gt;
         <translation>
 &lt;h4&gt;Datos de aviación&lt;/h4&gt;
 
-&lt;p&gt;Si desea informar problemas con otros datos 
-(como frecuencias de aeródromo incorrectas, patrones de tráfico desactualizado, ayudas a la navegación que faltan,...),
+&lt;p&gt;Si desea informar problemas con otros
+datos (como frecuencias de aeródromo incorrectas, patrones de tráfico 
+desactualizado, ayudas a la navegación que faltan,...),
  utilice los botones abajo.&lt;/p&gt;</translation>
     </message>
     <message>
@@ -841,17 +842,17 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
         <location filename="../../../src/dataManagement/DataManager.cpp" line="341"/>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="361"/>
         <source>An approach chart with name %1 already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ya existe una carta de aproximación con el nombre %1.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="365"/>
         <source>Cannot copy file %1 to %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede copiar el archivo %1 a %2.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="376"/>
         <source>Approach chart %1 could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo encontrar la carta de aproximación %1.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="441"/>
@@ -2534,7 +2535,7 @@ con los datos de la cuenta bancaria.</translation>
 
 &lt;p&gt;Please understand that we program this free app in our spare time, as a service to the community. Sadly, I should point out that sending us impolite demands is not likely to give the result that you desire.&lt;/p&gt;</source>
         <translation>
-&lt;p&gt;Recibimos nuestros datos de aviación de &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. Esta es una organización sin fines de lucro donde los voluntarios recopilan datos de aviación para muchos países. Si openAIP cubre su país, es posible que podamos generar mapas para él. Primero, sin embargo, debemos estar razonablemente seguros de que los datos de openAIP son precisos y completos. Eche un vistazo a los &lt;a href=&quot;http://maps.openaip.net&quot;&gt;mapas openAIP&lt;/a&gt; y compare la visualización con un mapa de aviación oficial de su país. ¿Están los aeródromos? ¿Son correctas las longitudes/orientaciones y frecuencias de las pistas? ¿Se muestran correctamente las ayudas a la navegación, con los códigos y las frecuencias correctos? ¿Y los espacios aéreos?&lt;/p&gt;
+&lt;p&gt;Recibimos nuestros datos de aviación de &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. Esta es una organización sin fines de lucro donde los voluntarios recopilan datos de aviación para muchos países. Si openAIP cubre su país, es posible que podamos generar mapas para él. Primero, sin embargo, debemos estar razonablemente seguros de que los datos de openAIP son precisos y completos. Eche un vistazo a los &lt;a href=&quot;http://maps.openaip.net&quot;&gt;openAIP maps&lt;/a&gt; y compare la visualización con un mapa de aviación oficial de su país. ¿Están los aeródromos? ¿Son correctas las longitudes/orientaciones y frecuencias de las pistas? ¿Se muestran correctamente las ayudas a la navegación, con los códigos y las frecuencias correctos? ¿Y los espacios aéreos?&lt;/p&gt;
 
 &lt;p&gt;Si está convencido de que los datos son lo suficientemente buenos como para agregarlos, puede solicitar agregar el país. Vaya a &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enrouteServer/issues&quot;&gt;este sitio web&lt;/a&gt; y abra una solicitud. Díganos quién es usted, a dónde vuela y cómo se convenció de que los datos son buenos. Si encuentra que los datos no son lo suficientemente buenos, puede unirse al proyecto openAIP y ayudar a mejorar los datos.&lt;/p&gt;
 
@@ -2548,7 +2549,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="240"/>
         <source>Our flight club &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; has received the renowned Niethammer Innovation Award 2023. The award recognizes our work on &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. But above all, we owe this prize to our many contributors and supporters. None of this would have been possible without the incredible work of the communities at &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, who supply us with aviation data. Thanks to all of you! We will use the award money to finance our infrastructure and purchase urgently needed development hardware.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nuestro club de vuelo &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; ha recibido el renombrado Premio a la Innovación Niethammer 2023. El premio reconoce nuestro trabajo en la &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; . Pero, sobre todo, debemos este premio a nuestros numerosos contribuyentes y partidarios. Nada de esto hubiera sido posible sin el increíble trabajo de las comunidades de &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; y &lt;a href=&apos;https://www.openflightmaps. org&apos;&gt;open Flightmaps&lt;/a&gt;, quienes nos proporcionan datos de aviación. ¡Gracias a todos ustedes! Utilizaremos el dinero del premio para financiar nuestra infraestructura y comprar hardware de desarrollo que se necesita con urgencia.</translation>
     </message>
     <message>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data not transmitted to us and is not processed by us.</source>
@@ -2957,7 +2958,7 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/qml/items/MapSet.qml" line="142"/>
         <source>Rename</source>
-        <translation type="unfinished">Renombrar</translation>
+        <translation>Renombrar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MapSet.qml" line="155"/>
@@ -4160,27 +4161,27 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="33"/>
         <source>Rename Approach Chart</source>
-        <translation type="unfinished"></translation>
+        <translation>Cambiar el nombre de la carta de aproximación</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="43"/>
         <source>Enter new name for the approach chart &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ingrese un nuevo nombre para la carta de aproximación &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="69"/>
         <source>Rename</source>
-        <translation type="unfinished">Renombrar</translation>
+        <translation>Renombrar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="78"/>
         <source>Flight route renamed</source>
-        <translation type="unfinished">Ruta de vuelo renombrada</translation>
+        <translation>Ruta de vuelo renombrada</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="80"/>
         <source>Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Error: %1</translation>
     </message>
 </context>
 <context>
@@ -5132,12 +5133,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="46"/>
         <source>Connected.</source>
-        <translation>Connectado</translation>
+        <translation>Connectado.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="53"/>
         <source>Not connected.</source>
-        <translation>No está connectado</translation>
+        <translation>No está connectado.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.h" line="57"/>
@@ -5945,7 +5946,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="162"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the refresh button at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay datos METAR/TAF disponibles. Puedes reiniciar la descarga manualmente usando el botón de actualización en la esquina superior derecha de la pantalla.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="188"/>
