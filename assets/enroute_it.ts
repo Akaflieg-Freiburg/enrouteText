@@ -2990,7 +2990,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="240"/>
         <source>Our flight club &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; has received the renowned Niethammer Innovation Award 2023. The award recognizes our work on &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. But above all, we owe this prize to our many contributors and supporters. None of this would have been possible without the incredible work of the communities at &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, who supply us with aviation data. Thanks to all of you! We will use the award money to finance our infrastructure and purchase urgently needed development hardware.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il nostro club di volo &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; ha ricevuto il rinomato Niethammer Innovation Award 2023. Il premio riconosce il nostro lavoro sulla &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. Ma soprattutto dobbiamo questo premio ai nostri numerosi contributori e sostenitori. Niente di tutto questo sarebbe stato possibile senza l&apos;incredibile lavoro delle comunità su &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; e &lt;a href=&apos;https://www.openflightmaps. org&apos;&gt;open flightmaps&lt;/a&gt;, che ci fornisce dati sull&apos;aviazione. Grazie a tutti voi! Utilizzeremo il denaro del premio per finanziare la nostra infrastruttura e acquistare l&apos;hardware di sviluppo urgentemente necessario.</translation>
     </message>
     <message>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data not transmitted to us and is not processed by us.</source>
@@ -6929,7 +6929,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="162"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the refresh button at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Spiacente!&lt;/h3&gt;&lt;p&gt;Nessun dato METAR/TAF disponibile. Puoi riavviare il download manualmente utilizzando il pulsante di aggiornamento nell&apos;angolo in alto a destra dello schermo.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="188"/>
