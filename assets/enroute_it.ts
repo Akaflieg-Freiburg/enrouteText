@@ -3942,7 +3942,7 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="108"/>
         <source>Test notification</source>
-        <translation>Notifiche di testo</translation>
+        <translation>Prova di notifica</translation>
     </message>
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="116"/>
@@ -6480,7 +6480,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="464"/>
         <source>Insert</source>
-        <translation>Inserire</translation>
+        <translation>Inserisci</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="482"/>
