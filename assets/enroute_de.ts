@@ -1856,12 +1856,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="156"/>
         <source>Please grant location permissions, so we can suggest maps to download.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte gewähren Sie Zugriff auf Ihren Standort, damit wir Karten zum Download vorschlagen können.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="161"/>
         <source>We&apos;re unable to suggest maps to download because the location permission was denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ohne die Berechtigung, Ihren Standort zu erfahren, sind keine Kartenvorschläge möglich.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="205"/>
