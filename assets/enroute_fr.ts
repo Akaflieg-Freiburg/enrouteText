@@ -1384,12 +1384,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="156"/>
         <source>Please grant location permissions, so we can suggest maps to download.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez accorder les autorisations de localisation afin que nous puissions vous suggérer des cartes à télécharger.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="161"/>
         <source>We&apos;re unable to suggest maps to download because the location permission was denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous ne sommes pas en mesure de suggérer des cartes à télécharger, car l&apos;autorisation de localisation a été refusée.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="205"/>
