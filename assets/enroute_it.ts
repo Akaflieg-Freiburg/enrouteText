@@ -1869,12 +1869,12 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="156"/>
         <source>Please grant location permissions, so we can suggest maps to download.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per favore garantisci i permessi locali, così possiamo suggerirti le mappe da scaricare.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="161"/>
         <source>We&apos;re unable to suggest maps to download because the location permission was denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non è stato possibile suggerire le mappe da scaricare perchè i permessi locali sono stati declinati.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="205"/>
