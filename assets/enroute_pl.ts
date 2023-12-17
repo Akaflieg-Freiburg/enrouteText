@@ -1871,12 +1871,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="156"/>
         <source>Please grant location permissions, so we can suggest maps to download.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przyznaj uprawnienia do lokalizacji, abyśmy mogli zaproponować mapy do pobrania.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="161"/>
         <source>We&apos;re unable to suggest maps to download because the location permission was denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie możemy sugerować map do pobrania, ponieważ nie przyznano pozwolenia na lokalizację.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="205"/>
