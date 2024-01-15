@@ -3,7 +3,7 @@ name: Check for missing translations
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '17 0 * * 0'
+    - cron:  '17 23 * * 5'
 
 jobs:
   build:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: Check for missing translations
       run: |
         ./checkForMissingTranslations.py ${{ secrets.GITHUB_TOKEN }}
