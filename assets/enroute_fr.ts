@@ -1115,10 +1115,6 @@ données de manière publique et gratuite.&lt;/p&gt;
         <translation>Sur les anciens appareils Android, le problème est probablement dû à des certificats de sécurité obsolètes dans votre système. Les certificats ne peuvent être installés que par le fabricant du matériel via des mises à jour du système. Si votre appareil n&apos;a reçu aucune mise à jour de sécurité du système depuis un certain temps, les connexions Internet sécurisées ne sont plus possibles. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/06-referenceTechnology/02-platformNotes.html#network-security-problems-on-outdated-devices&apos;&gt;Voir les notes sur la plate-forme dans le manuel&lt; /a&gt; pour plus de détails.</translation>
     </message>
     <message>
-        <source>On older Android devices, the problem is most likely caused by outdated security certificates in your system.  Certificates can only be installed by the hardware manufacturer via system updates. If your device has not received any system security updates in a while, then secure internet connections are no longer possible. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteText/manual/03-reference/platform.html#network-security-problems&apos;&gt;See the platform notes in the manual&lt;/a&gt; for more details.</source>
-        <translation type="vanished">Sur les vieux appareils Android, le problème est probablement causé par la présence de certificats de sécurités périmés sur votre système. Les certificats peuvent uniquement être installés par le producteur de votre appareil via des mises à jour. Si votre appareil n&apos;a pas été mis à jour récemment, alors il ne peut plus se connecter à internet de manière sécurisée. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteText/manual/03-reference/platform.html#network-security-problems&apos;&gt;Référez-vous au manuel&lt;/a&gt; pour plus de détails.</translation>
-    </message>
-    <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="76"/>
         <source>On recent devices, this problem is a strong indication that your internet connection is being manipulated.</source>
         <translation>Si votre appareil est récent, il est fortement possible que votre connexion soit manipulée.</translation>
@@ -1132,21 +1128,9 @@ données de manière publique et gratuite.&lt;/p&gt;
         <translation>Bibliothèque de cartes et de données</translation>
     </message>
     <message>
-        <source>Info</source>
-        <translation type="vanished">Info</translation>
-    </message>
-    <message>
-        <source>Uninstall</source>
-        <translation type="vanished">Désinstaller</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="473"/>
         <source>Download Error</source>
         <translation>Erreur de téléchargement</translation>
-    </message>
-    <message>
-        <source>&lt;p&gt;Failed to download &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Reason: %2.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;p&gt;Echec du téléchargement de &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Cause: %2.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="116"/>
@@ -1376,14 +1360,6 @@ Message: Enroute Flight Navigation
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="90"/>
         <source>Please take a minute to review our privacy policies.</source>
         <translation>Veuillez prendre une minute pour consulter nos politiques de confidentialité.</translation>
-    </message>
-    <message>
-        <source>Permissions</source>
-        <translation type="vanished">Autorisations</translation>
-    </message>
-    <message>
-        <source>Please grant the following permissions when prompted.</source>
-        <translation type="vanished">Veuillez accorder l&apos;autorisation suivante lorsque vous y êtes invité.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="139"/>
@@ -2462,10 +2438,6 @@ Message: Enroute Flight Navigation
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est désormais capable d&apos;afficher des cartes d&apos;approche visuelles sur la carte mobile. Les utilisateurs en Allemagne peuvent télécharger les VAC officiels de la Deutsche Flugsicherung (DFS) à l&apos;aide du très pratique &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. . Veuillez consulter le manuel pour plus de détails.</translation>
     </message>
     <message>
-        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; for iOS is now available on the Apple &lt;a href=&apos;https://apps.apple.com/de/app/enroute-flight-navigation/id6448892176&apos;&gt;App Store&lt;/a&gt;.</source>
-        <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; pour iOS est désormais disponible sur l&apos;Apple &lt;a href=&apos;https://apps.apple.com/de/app/enroute-flight-navigation/id6448892176&apos;&gt;App Store&lt;/ un&gt;.</translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="253"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Nous avons besoin d&apos;aide avec des graphiques promotionnels pour les app stores et avec des vidéos explicatives. Si vous êtes un artiste graphique/vidéo et que vous souhaitez aider, n&apos;hésitez pas à nous contacter.</translation>
@@ -3017,18 +2989,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <source>unknown network name</source>
         <translation>nom de réseau inconnu</translation>
     </message>
-    <message>
-        <source>Enroute Flight Navigation needs to access your precise location. The app uses this data to show your position on the moving map and to provide relevant aeronautical information.</source>
-        <translation type="vanished">Enroute Flight Navigation doit accéder à votre emplacement précis. L&apos;application utilise ces données pour afficher votre position sur la carte mobile et pour fournir des informations aéronautiques pertinentes.</translation>
-    </message>
-    <message>
-        <source>The app uses notifications, for instance to inform the user about critial updates of aviation data.</source>
-        <translation type="vanished">L&apos;application utilise des notifications, par exemple pour informer l&apos;utilisateur des mises à jour critiques des données aéronautiques.</translation>
-    </message>
-    <message>
-        <source>Some permissions have previously been denied. The system might not show the permission dialog again. In that case, use the system settings to grant the necessary permissions. Some users find the settings hard to navigate and prefer to re-install the app.</source>
-        <translation type="vanished">Certaines autorisations ont déjà été refusées. Le système peut ne plus afficher la boîte de dialogue d&apos;autorisation. Dans ce cas, utilisez les paramètres système pour accorder les autorisations nécessaires. Certains utilisateurs trouvent les paramètres difficiles à naviguer et préfèrent réinstaller l&apos;application.</translation>
-    </message>
 </context>
 <context>
     <name>Positioning</name>
@@ -3357,12 +3317,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <comment>NOTAM::NotamList</comment>
         <translatorcomment>NOTAM::NotamList</translatorcomment>
         <translation>Mise à jour demandée.</translation>
-    </message>
-    <message>
-        <source>Data potentially outdated. Update requested.</source>
-        <comment>NOTAM::NotamList</comment>
-        <translatorcomment>NOTAM::NotamList</translatorcomment>
-        <translation type="vanished">Données potentiellement obsolètes. Mise à jour demandée.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="56"/>
@@ -5326,10 +5280,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/Weather.qml" line="32"/>
         <source>Weather</source>
         <translation>Météo</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the item &apos;Update METAR/TAF&apos; from the three-dot menu at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Désolé!&lt;/h3&gt;&lt;p&gt;METAR/TAF non disponible. Vous pouvez les télécharger manuellement en utilisant la fonction &apos;Mettre à jour METAR/TAF&apos; dans le menu à trois points situé dans le coin supérieur droit de l&apos;écran.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="162"/>
