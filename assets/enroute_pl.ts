@@ -1399,7 +1399,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="67"/>
         <source>On older Android devices, the problem is most likely caused by outdated security certificates in your system.  Certificates can only be installed by the hardware manufacturer via system updates. If your device has not received any system security updates in a while, then secure internet connections are no longer possible. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/06-referenceTechnology/02-platformNotes.html#network-security-problems-on-outdated-devices&apos;&gt;See the platform notes in the manual&lt;/a&gt; for more details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na starszych urządzeniach z Androidem problem jest najprawdopodobniej spowodowany nieaktualnymi certyfikatami bezpieczeństwa w systemie. Certyfikaty mogą być instalowane wyłącznie przez producenta sprzętu poprzez aktualizacje systemu. Jeśli od jakiegoś czasu Twoje urządzenie nie otrzymało żadnych aktualizacji zabezpieczeń systemu, bezpieczne połączenia internetowe nie będą już możliwe. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/06-referenceTechnology/02-platformNotes.html#network-security-problems-on-outdated-devices&apos;&gt;Zobacz uwagi dotyczące platformy w podręczniku&lt;/a&gt;, aby uzyskać więcej szczegółów.</translation>
     </message>
     <message>
         <source>On older Android devices, the problem is most likely caused by outdated security certificates in your system.  Certificates can only be installed by the hardware manufacturer via system updates. If your device has not received any system security updates in a while, then secure internet connections are no longer possible. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteText/manual/03-reference/platform.html#network-security-problems&apos;&gt;See the platform notes in the manual&lt;/a&gt; for more details.</source>
@@ -1574,37 +1574,37 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="143"/>
         <source>Import…</source>
-        <translation type="unfinished"></translation>
+        <translation>Import...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="154"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Import</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="155"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="161"/>
         <source>OpenAir Airspace Data (*.txt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane przestrzeni powietrznej OpenAir (*.txt)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="162"/>
         <source>Raster and Vector Maps (*.mbtiles)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapy rastrowe i wektorowe (*.mbtiles)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="163"/>
         <source>Trip Kits (*.zip)</source>
-        <translation type="unfinished"></translation>
+        <translation>Zestawy wycieczki (*.zip)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="164"/>
         <source>Visual Approach Charts (*.tif *.tiff)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wykresy podejścia wizualnego (*.tif *.tiff)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="181"/>
@@ -2139,22 +2139,22 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="261"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Import</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="262"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="268"/>
         <source>GeoJSON File (*.geojson *.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik GeoJSON (*.geojson *.json)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="269"/>
         <source>GPX File (*.gpx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik GPX (*.gpx)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="284"/>
@@ -2401,32 +2401,32 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="105"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Import</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="106"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="112"/>
         <source>GeoJSON File (*.geojson *.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik GeoJSON (*.geojson *.json)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="113"/>
         <source>GPX File (*.gpx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik GPX (*.gpx)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="122"/>
         <source>File Import Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd importu pliku</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="130"/>
         <source>Flight Route Imported</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaimportowano trasę lotu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="161"/>
@@ -3154,12 +3154,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="240"/>
         <source>The manual has been updated, modernized and rewritten in part. We do hope that you find it helpful.</source>
-        <translation type="unfinished"></translation>
+        <translation>Podręcznik został częściowo zaktualizowany, unowocześniony i przepisany. Mamy nadzieję, że uznasz to za pomocne.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="242"/>
         <source>The technology underlying &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; has been updated. Please report any issues or inconsistencies that you may find!</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaktualizowano technologię leżącą u podstaw &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. Prosimy o zgłaszanie wszelkich problemów lub niespójności, jakie możesz znaleźć!</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="244"/>
@@ -6884,27 +6884,27 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="108"/>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Import</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="109"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="115"/>
         <source>CUP File (*.cup *.txt)</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik CUP (*.cup *.txt)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="116"/>
         <source>GeoJSON File (*.geojson *.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik GeoJSON (*.geojson *.json)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="117"/>
         <source>GPX File (*.gpx)</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik GPX (*.gpx)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="132"/>
