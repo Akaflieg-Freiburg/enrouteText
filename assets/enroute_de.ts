@@ -3617,52 +3617,52 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
 &lt;p&gt;Zur Installation einer Karte finden Sie im Menü links oben über den Punkt &lt;strong&gt;Bibliothek/Karten und Daten&lt;/strong&gt; das Kartenmanagement.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="586"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="606"/>
         <source>There is no aviation map installed.</source>
         <translation>Es ist keine Luftfahrtkarte installiert.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="588"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="608"/>
         <source>Please wait for the download to complete.</source>
         <translation>Bitte warten Sie den Abschluss des Downloads ab.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="589"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="609"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
         <translation>Eine Karte installieren Sie über das Menü in der Ecke links oben.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="590"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="610"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
         <translation>Öffnen Sie die Kartenverwaltung über &lt;a href=&apos;xx&apos;&gt;Bibliothek/Karten und Daten&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="625"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="645"/>
         <source>Airspaces up to %1</source>
         <translation>Lufträume bis %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="660"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="680"/>
         <source>Map Mode: Track Up</source>
         <translation>Kartenmodus: Flugrichtung oben</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="663"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="683"/>
         <source>Map Mode: North Up</source>
         <translation>Kartenmodus: Norden oben</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="683"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="703"/>
         <source>Map Mode: Autopan</source>
         <translation>Kartenmodus: automatisch zentrieren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="789"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="809"/>
         <source>Map Data Copyright Info</source>
         <translation>Copyright der Kartendaten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="792"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="812"/>
         <source>Map Data Copyright Information</source>
         <translation>Copyright-Information zu den Kartendaten</translation>
     </message>

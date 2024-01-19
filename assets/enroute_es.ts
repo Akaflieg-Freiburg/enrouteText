@@ -2983,52 +2983,52 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
 Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la página de administración de mapas.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="586"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="606"/>
         <source>There is no aviation map installed.</source>
         <translation>No hay ningún mapa de aviación instalado.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="588"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="608"/>
         <source>Please wait for the download to complete.</source>
         <translation>Por favor espere a que se complete la descarga.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="589"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="609"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
         <translation>Para instalar un mapa, abra el menú usando el botón de menú en la esquina superior izquierda de esta pantalla.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="590"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="610"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
         <translation>Elija &lt;a href=&apos;xx&apos;&gt;Biblioteca/Mapas y datos&lt;/a&gt; para abrir la página de gestión de mapas.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="625"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="645"/>
         <source>Airspaces up to %1</source>
         <translation>Espacios aéreo hasta %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="660"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="680"/>
         <source>Map Mode: Track Up</source>
         <translation>Mapa en modo: Seguimiento</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="663"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="683"/>
         <source>Map Mode: North Up</source>
         <translation>Mapa en modo: Norte arriba</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="683"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="703"/>
         <source>Map Mode: Autopan</source>
         <translation>Mapa en modo: paneo automático</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="789"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="809"/>
         <source>Map Data Copyright Info</source>
         <translation>Información de derechos de autor de los datos del mapa</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="792"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="812"/>
         <source>Map Data Copyright Information</source>
         <translation>Información de derechos de autor de los datos del mapa</translation>
     </message>
