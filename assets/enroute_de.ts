@@ -5023,19 +5023,19 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/geomaps/CUP.cpp" line="217"/>
         <source>Direction: %1°</source>
         <comment>GeoMaps::CUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Richtung: %1°</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/CUP.cpp" line="221"/>
         <source>Length: %1</source>
         <comment>GeoMaps::CUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Länge: %1</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/CUP.cpp" line="225"/>
         <source>Frequency: %1</source>
         <comment>GeoMaps::CUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Frequenz: %1</translation>
     </message>
 </context>
 <context>
