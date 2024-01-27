@@ -4239,6 +4239,24 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
         <translation>El cuadro delimitador no es válido.</translation>
     </message>
+    <message>
+        <location filename="../../../src/geomaps/CUP.cpp" line="217"/>
+        <source>Direction: %1°</source>
+        <comment>GeoMaps::CUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/CUP.cpp" line="221"/>
+        <source>Length: %1</source>
+        <comment>GeoMaps::CUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/CUP.cpp" line="225"/>
+        <source>Frequency: %1</source>
+        <comment>GeoMaps::CUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RemainingRouteBar</name>

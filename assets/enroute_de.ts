@@ -5019,6 +5019,24 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translatorcomment>--??? Vielleicht besser: Die Grenzen sind ungültig?</translatorcomment>
         <translation>Der Begrenzungsrahmen ist ungültig.</translation>
     </message>
+    <message>
+        <location filename="../../../src/geomaps/CUP.cpp" line="217"/>
+        <source>Direction: %1°</source>
+        <comment>GeoMaps::CUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/CUP.cpp" line="221"/>
+        <source>Length: %1</source>
+        <comment>GeoMaps::CUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/CUP.cpp" line="225"/>
+        <source>Frequency: %1</source>
+        <comment>GeoMaps::CUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RemainingRoute</name>

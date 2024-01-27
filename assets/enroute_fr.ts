@@ -3613,6 +3613,24 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Le cadre de délimitation n&apos;est pas valide.</translation>
     </message>
+    <message>
+        <location filename="../../../src/geomaps/CUP.cpp" line="217"/>
+        <source>Direction: %1°</source>
+        <comment>GeoMaps::CUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/CUP.cpp" line="221"/>
+        <source>Length: %1</source>
+        <comment>GeoMaps::CUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/CUP.cpp" line="225"/>
+        <source>Frequency: %1</source>
+        <comment>GeoMaps::CUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RemainingRouteBar</name>
