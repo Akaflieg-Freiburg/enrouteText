@@ -3632,7 +3632,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CSV.cpp" line="134"/>
+        <location filename="../../../src/fileFormats/CSV.cpp" line="135"/>
         <source>Cannot open CSV file %1 for reading.</source>
         <comment>FileFormats::CSV</comment>
         <translation type="unfinished"></translation>

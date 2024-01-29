@@ -5044,7 +5044,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CSV.cpp" line="134"/>
+        <location filename="../../../src/fileFormats/CSV.cpp" line="135"/>
         <source>Cannot open CSV file %1 for reading.</source>
         <comment>FileFormats::CSV</comment>
         <translation type="unfinished"></translation>

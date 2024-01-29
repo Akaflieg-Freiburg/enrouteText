@@ -5043,7 +5043,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Frequenz: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CSV.cpp" line="134"/>
+        <location filename="../../../src/fileFormats/CSV.cpp" line="135"/>
         <source>Cannot open CSV file %1 for reading.</source>
         <comment>FileFormats::CSV</comment>
         <translation>Kann die CSV-Datei %1 nicht zum Lesen öffnen.</translation>

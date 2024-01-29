@@ -4258,7 +4258,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CSV.cpp" line="134"/>
+        <location filename="../../../src/fileFormats/CSV.cpp" line="135"/>
         <source>Cannot open CSV file %1 for reading.</source>
         <comment>FileFormats::CSV</comment>
         <translation type="unfinished"></translation>
