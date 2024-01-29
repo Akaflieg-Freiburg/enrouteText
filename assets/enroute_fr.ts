@@ -3469,166 +3469,172 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Impossible d&apos;ouvrir le fichier zip %1 pour le lire.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="58"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="57"/>
         <source>Found corrupt data while reading the data stream.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Données corrompues détectées lors de la lecture du flux de données.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="60"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="59"/>
         <source>Read past end of data stream.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Lire la fin du flux de données.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="62"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="61"/>
         <source>Error writing to data stream.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Erreur d&apos;écriture dans le flux de données.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="121"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="120"/>
         <source>Found invalid TIFF file data.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Données de fichier TIFF non valides trouvées.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="129"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="128"/>
         <source>BigTIFF files are not supported.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Les fichiers BigTIFF ne sont pas pris en charge.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="133"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="132"/>
         <source>Found an unsupported TIFF version.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Une version TIFF non prise en charge a été trouvée.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="150"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="149"/>
         <source>Found more than 100 tags in the TIFF file. Reading only the first 100.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Plus de 100 balises trouvées dans le fichier TIFF. Lire uniquement les 100 premiers.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="239"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="238"/>
         <source>Cannot read data.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Impossible de lire les données.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="288"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="287"/>
         <source>No data for tag 270.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Aucune donnée pour l&apos;étiquette 270.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="300"/>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="307"/>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="312"/>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="318"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="299"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="306"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="311"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="317"/>
         <source>Invalid data for tag 33922.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Données invalides pour l&apos;étiquette 33922.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="324"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="323"/>
         <source>Tag 33922 is not set.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>L&apos;étiquette 33922 n&apos;est pas définie.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="337"/>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="343"/>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="348"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="336"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="342"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="347"/>
         <source>Invalid data for tag 33550.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Données invalides pour l&apos;étiquette 33550.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="353"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="352"/>
         <source>Tag 33550 is not set.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>L&apos;étiquette 33550 n&apos;est pas définie.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="365"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="364"/>
         <source>No data for tag 256.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Aucune donnée pour l&apos;étiquette 256.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="371"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="370"/>
         <source>Invalid data for tag 256.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Données invalides pour l&apos;étiquette 256.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="376"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="375"/>
         <source>Tag 256 is not set.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>L&apos;étiquette 256 n&apos;est pas définie.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="388"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="387"/>
         <source>No data for tag 257.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Aucune donnée pour l&apos;étiquette 257.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="394"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="393"/>
         <source>Invalid data for tag 257.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Données invalides pour l&apos;étiquette 256.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="399"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="398"/>
         <source>Tag 257 is not set.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>L&apos;étiquette 257 n&apos;est pas définie.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="417"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="416"/>
         <source>The bounding box is invalid.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Le cadre de délimitation n&apos;est pas valide.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/CUP.cpp" line="217"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="123"/>
         <source>Direction: %1°</source>
         <comment>GeoMaps::CUP</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/CUP.cpp" line="221"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="127"/>
         <source>Length: %1</source>
         <comment>GeoMaps::CUP</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/CUP.cpp" line="225"/>
-        <source>Frequency: %1</source>
-        <comment>GeoMaps::CUP</comment>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="169"/>
+        <source>Error reading line %1 in the CUP file %2.</source>
+        <comment>FileFormats::CUP</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/CSV.cpp" line="134"/>
+        <source>Cannot open CSV file %1 for reading.</source>
+        <comment>FileFormats::CSV</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
