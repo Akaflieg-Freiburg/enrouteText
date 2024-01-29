@@ -5035,7 +5035,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/fileFormats/CUP.cpp" line="169"/>
         <source>Error reading line %1 in the CUP file %2.</source>
         <comment>FileFormats::CUP</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Lesen der Zeile %1 in der CUP-Datei %2.</translation>
     </message>
     <message>
         <source>Frequency: %1</source>
@@ -5046,7 +5046,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/fileFormats/CSV.cpp" line="134"/>
         <source>Cannot open CSV file %1 for reading.</source>
         <comment>FileFormats::CSV</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kann die CSV-Datei %1 nicht zum Lesen öffnen.</translation>
     </message>
 </context>
 <context>
