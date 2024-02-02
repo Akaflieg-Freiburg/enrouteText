@@ -3144,22 +3144,167 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="180"/>
-        <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
-        <translation>Wir verarbeiten keinerlei persönliche Daten von Ihnen. In die App eingegebene Datem wie z.B. Routen, Wegpunkte und Luftfahrzeugmerkmale liegen nur lokal auf Ihrem Gerät. Sie gelangen nicht zu uns und werden damit auch nicht von uns verarbeitet.</translation>
+        <location filename="../../../src/Librarian.cpp" line="181"/>
+        <source>We do not collect our users&apos; personal data.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="182"/>
+        <source>We do not store any personally identifiable information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="183"/>
+        <source>However, to ensure functionality, the app must transmit the following data items to servers on the internet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="187"/>
+        <source>1. Map and Data Download Server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="191"/>
+        <source>The app regularly checks for updates and allows downloading maps and data from a &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;server at the University of Freiburg&lt;/a&gt; to your device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="192"/>
+        <source>Your device&apos;s IP address must be transmitted to the server to provide this functionality.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="193"/>
+        <location filename="../../../src/Librarian.cpp" line="216"/>
+        <location filename="../../../src/Librarian.cpp" line="247"/>
+        <source>Knowledge of the IP address is necessary for the server to respond.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="194"/>
+        <location filename="../../../src/Librarian.cpp" line="217"/>
+        <location filename="../../../src/Librarian.cpp" line="248"/>
+        <source>However, the server does not store any personal data about you in its log files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="195"/>
+        <location filename="../../../src/Librarian.cpp" line="218"/>
+        <location filename="../../../src/Librarian.cpp" line="249"/>
+        <source>In particular, it does not store the IP address of your device in its log files.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="196"/>
+        <location filename="../../../src/Librarian.cpp" line="219"/>
+        <location filename="../../../src/Librarian.cpp" line="250"/>
+        <source>We can assure this because the server is under our control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="199"/>
+        <source>2. METAR and TAF Server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="203"/>
+        <source>The app shows METARs and TAFs for airfields near your current location and your currently planned route. </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="204"/>
+        <source>It also shows METARs and TAFs for all waypoints you open in the app.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="205"/>
+        <location filename="../../../src/Librarian.cpp" line="236"/>
+        <source>To provide this functionality, a request containing the following data is transmitted to a &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;server at the University of Freiburg&lt;/a&gt;:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="209"/>
         <location filename="../../../src/Librarian.cpp" line="240"/>
+        <source>Your current location</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="210"/>
+        <location filename="../../../src/Librarian.cpp" line="241"/>
+        <source>The currently planned route</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="211"/>
+        <location filename="../../../src/Librarian.cpp" line="242"/>
+        <source>Waypoint coordinates</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="212"/>
+        <location filename="../../../src/Librarian.cpp" line="243"/>
+        <source>Your device&apos;s IP address</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="220"/>
+        <location filename="../../../src/Librarian.cpp" line="251"/>
+        <source>The server cannot read any other data from your device in the process.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="224"/>
+        <location filename="../../../src/Librarian.cpp" line="255"/>
+        <source>The server forwards the request to a web service at the %1 but hides your IP address, so the web service will never see it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="225"/>
+        <source>The web services at the Aviation Weather Center are operated by the US government and are beyond our control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="226"/>
+        <location filename="../../../src/Librarian.cpp" line="257"/>
+        <source>Detailed information can be found at %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="230"/>
+        <source>3. NOTAM Server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="234"/>
+        <source>The app shows NOTAMs for places near your current location and your currently planned route.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="235"/>
+        <source>It also shows NOTAMs for all waypoints you open in the app.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="256"/>
+        <source>The web services at the Federal Aviation Administration are operated by the US government and are beyond our control.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
+        <translation type="vanished">Wir verarbeiten keinerlei persönliche Daten von Ihnen. In die App eingegebene Datem wie z.B. Routen, Wegpunkte und Luftfahrzeugmerkmale liegen nur lokal auf Ihrem Gerät. Sie gelangen nicht zu uns und werden damit auch nicht von uns verarbeitet.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>The manual has been updated, modernized and rewritten in part. We do hope that you find it helpful.</source>
         <translation>Das Handbuch wurde aktualisiert, modernisiert und teilweise neu geschrieben. Wir hoffen, das ist hilfreich für Sie.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="242"/>
+        <location filename="../../../src/Librarian.cpp" line="289"/>
         <source>The technology underlying &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; has been updated. Please report any issues or inconsistencies that you may find!</source>
         <translation>Die Technologie unter &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; wurde aktualisiert. Bitte melden Sie uns gern alle Probleme und Auffälligkeiten, die auftreten.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="244"/>
+        <location filename="../../../src/Librarian.cpp" line="291"/>
         <source>Our flight club &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; has received the renowned Niethammer Innovation Award 2023. The award recognizes our work on &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. But above all, we owe this prize to our many contributors and supporters. None of this would have been possible without the incredible work of the communities at &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, who supply us with aviation data. Thanks to all of you! We will use the award money to finance our infrastructure and purchase urgently needed development hardware.</source>
         <translation>Unser Luftsportverein &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; hat den renommierten Niethammer-Innovationspreis 2023 erhalten, der unsere Arbeit an &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; würdigt. Aber vor allen Dingen gilt dieser Preis unseren vielen Helfern und Unterstützern. Nichts davon wäre möglich gewesen ohne die unglaubliche Arbeit der Gemeinschaften &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; und &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, die uns mit Luftfahrtdaten versorgen. Ihnen allen vielen Dank! Wir werden das Preisgeld zur Finanzierung unserer Infrastruktur und zum Kauf dringend benötigter Hardware verwenden.</translation>
     </message>
@@ -3172,31 +3317,27 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Wir verarbeiten keine personenbezogenen Daten von Ihnen. Daten, die Sie in dieser App eingeben (wie zum Beispiel Routen, Wegpunkte und Luftfahrzeugdaten), werden nur lokal auf dem Gerät abgelegt. Die Daten werden nicht an uns übermittelt und nicht von uns verarbeitet.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="183"/>
         <source>However, to ensure the functionality, the app must transmit following data to servers on the internet.</source>
-        <translation>Um die Funktionalität der App gewährleisten zu können müssen allerdings folgende Daten an Server im Internet übermittelt werden.</translation>
+        <translation type="vanished">Um die Funktionalität der App gewährleisten zu können müssen allerdings folgende Daten an Server im Internet übermittelt werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="186"/>
         <source>The app regularly checks for updates and allows downloading maps and data from a &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;server at the University of Freiburg&lt;/a&gt; to your device. In order to provide this functionality, your device&apos;s IP address must be transmitted to the server. Knowledge of the IP address is necessary for the server to respond. However, the server does not store any personal data about you in its log files. In particular, it does not store the IP address of your device in its log files. We can assure this because the server is under our control.</source>
-        <translation>Die App sucht regelmäßig nach Updates und bietet die Möglichkeit, Karten und Daten von einem &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;Server der Universität Freiburg&lt;/a&gt; auf Ihr Gerät herunterzuladen. Um diese Funktionalität anzubieten, muss die IP-Adresse ihres Geräts an den Server übertragen werden. Der Server benötigt die IP-Adresse, um ihrem Gerät zu antworten. Der Server speichert aber keine personenbezogenen Daten von Ihnen in den Loggdateien. Dies gilt insbesondere für die IP-Adresse Ihres Geräts. Wir können dies zusichern, weil sich der Server unter unserer Kontrolle befindet.</translation>
+        <translation type="vanished">Die App sucht regelmäßig nach Updates und bietet die Möglichkeit, Karten und Daten von einem &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;Server der Universität Freiburg&lt;/a&gt; auf Ihr Gerät herunterzuladen. Um diese Funktionalität anzubieten, muss die IP-Adresse ihres Geräts an den Server übertragen werden. Der Server benötigt die IP-Adresse, um ihrem Gerät zu antworten. Der Server speichert aber keine personenbezogenen Daten von Ihnen in den Loggdateien. Dies gilt insbesondere für die IP-Adresse Ihres Geräts. Wir können dies zusichern, weil sich der Server unter unserer Kontrolle befindet.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="194"/>
         <source>The app shows METARs and TAFs for airfields near your current location and near your currently planned route. It also shows METARs and TAFs for all waypoints that you open in the app. In order to provide this functionality, your current location, your currently planned route, waypoint coordinates, and your device&apos;s IP address must be transmitted to web services at the &lt;a href=&apos;https://www.aviationweather.gov&apos;&gt;Aviation Weather Center&lt;/a&gt;. Knowledge of the IP address is necessary for the web services to respond. The web services cannot read any other data from your device in the process. However, you must expect that your device&apos;s IP address will be stored together with the transmitted position data. The web services are operated by the US government and are beyond our control. Detailed information about these web services can be found at &lt;a href=&apos;https://www.aviationweather.gov/dataserver&apos;&gt;https://www.aviationweather.gov/dataserver&lt;/a&gt;.</source>
-        <translation>Die App zeigt Ihnen METARs und TAFs für Landeplätze nahe Ihrem aktuellen Standort und Ihrer geplanten Route an. Die App zeigt zusätzlich METARs und TAFs für alle Wegpunkte an, die Sie in der App öffnen. Um diese Funktionalität anzubieten, muss die App Ihren aktuellen Standort, Ihre geplante Route, Wegpunktkoordinaten und die IP-Adresse Ihres Geräts an Webservices des &lt;a href=&apos;https://www.aviationweather.gov&apos;&gt;Aviation Weather Center&lt;/a&gt; übermitteln. Die Webservices benötigen die IP-Adresse, um ihrem Gerät zu antworten. Die Webservices können keine weiteren Daten Ihres Gerätes auslesen. Allerdings müssen Sie damit rechnen, dass die IP-Adresse Ihres Gerätes zusammen mit den übermittelten Positionsdaten gespeichert wird. Die Webservices werden von der US-Regierung betrieben und entziehen sich unserer Kontrolle. Detaillierte Informationen zu den Webservices finden Sie unter &lt;a href=&apos;https://www.aviationweather.gov/dataserver&apos;&gt;https://www.aviationweather.gov/dataserver&lt;/a&gt;.</translation>
+        <translation type="vanished">Die App zeigt Ihnen METARs und TAFs für Landeplätze nahe Ihrem aktuellen Standort und Ihrer geplanten Route an. Die App zeigt zusätzlich METARs und TAFs für alle Wegpunkte an, die Sie in der App öffnen. Um diese Funktionalität anzubieten, muss die App Ihren aktuellen Standort, Ihre geplante Route, Wegpunktkoordinaten und die IP-Adresse Ihres Geräts an Webservices des &lt;a href=&apos;https://www.aviationweather.gov&apos;&gt;Aviation Weather Center&lt;/a&gt; übermitteln. Die Webservices benötigen die IP-Adresse, um ihrem Gerät zu antworten. Die Webservices können keine weiteren Daten Ihres Gerätes auslesen. Allerdings müssen Sie damit rechnen, dass die IP-Adresse Ihres Gerätes zusammen mit den übermittelten Positionsdaten gespeichert wird. Die Webservices werden von der US-Regierung betrieben und entziehen sich unserer Kontrolle. Detaillierte Informationen zu den Webservices finden Sie unter &lt;a href=&apos;https://www.aviationweather.gov/dataserver&apos;&gt;https://www.aviationweather.gov/dataserver&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="206"/>
         <source>The app shows NOTAMs for places near your current location and near your currently planned route. It also shows NOTAMs for all waypoints that you open in the app. In order to provide this functionality, your current location, your currently planned route, waypoint coordinates, and your device&apos;s IP address must be transmitted to web services at the &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administration&lt;/a&gt;. Knowledge of the IP address is necessary for the web services to respond. The web services cannot read any other data from your device in the process. However, you must expect that the IP address of your device will be stored together with the transmitted position data. The web services are operated by the US government and are beyond our control. Detailed information about these web services can be found at &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</source>
-        <translation>Die App zeigt Ihnen NOTAMs für Orte nahe Ihres aktuellen Standorts und Ihrer aktuell geplante Route an. Die App zeigt zusätzlich NOTAMs für alle Wegpunkte an, die Sie in der App öffnen. Um diese Funktionalität anzubieten, muss die App Ihren aktuellen Standort, Ihre aktuell geplante Route, Wegpunktkoordinaten und die IP-Adresse Ihres Geräts an Webservices der &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administration&lt;/a&gt; übermitteln. Die Webservices benötigen die IP-Adresse, um ihrem Gerät zu antworten. Die Webservices können keine weiteren Daten Ihres Gerätes auslesen. Allerdings müssen Sie damit rechnen, dass die IP-Adresse Ihres Gerätes zusammen mit den übermittelten Positionsdaten gespeichert wird. Die Webservices werden von der US-Regierung betrieben und entziehen sich unserer Kontrolle. Detaillierte Informationen zu den Webservices finden Sie unter &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</translation>
+        <translation type="vanished">Die App zeigt Ihnen NOTAMs für Orte nahe Ihres aktuellen Standorts und Ihrer aktuell geplante Route an. Die App zeigt zusätzlich NOTAMs für alle Wegpunkte an, die Sie in der App öffnen. Um diese Funktionalität anzubieten, muss die App Ihren aktuellen Standort, Ihre aktuell geplante Route, Wegpunktkoordinaten und die IP-Adresse Ihres Geräts an Webservices der &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administration&lt;/a&gt; übermitteln. Die Webservices benötigen die IP-Adresse, um ihrem Gerät zu antworten. Die Webservices können keine weiteren Daten Ihres Gerätes auslesen. Allerdings müssen Sie damit rechnen, dass die IP-Adresse Ihres Gerätes zusammen mit den übermittelten Positionsdaten gespeichert wird. Die Webservices werden von der US-Regierung betrieben und entziehen sich unserer Kontrolle. Detaillierte Informationen zu den Webservices finden Sie unter &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</translation>
     </message>
     <message>
         <source>Our flight club &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; has received the reowned Niethammer Innovation Award 2023. The award recognises our work on &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. But above all, we owe this prize to our many contributers and supporters. None of this would have been possible with the incredible work of the communities at &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, who supply us with aviation data. Thanks to all of you! The award money will be used to finance our infrastructure and purchase urgently-needed development hardware.</source>
         <translation type="vanished">Unser Luftsportverein &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; hat den renommierten Niethammer-Innovationspreis 2023 erhalten, der unsere Arbeit an &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; würdigt. Aber vor allen Dingen gilt dieser Preis unseren vielen Helfern und Unterstützern. Nichts davon wäre möglich gewesen ohne die unglaubliche Arbeit der Gemeinschaften &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; und &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, die uns mit Luftfahrtdaten versorgen. Ihnen allen vielen Dank! Wir werden das Preisgeld zur Finanzierung unserer Infrastruktur und zum Kauf dringend benötigter Hardware verwenden.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="250"/>
+        <location filename="../../../src/Librarian.cpp" line="297"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to show visual approach charts within the moving map. Users in Germany can download official VACs from Deutsche Flugsicherung (DFS) using Michael Paus&apos; very convenient &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. Please check the manual for details.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; kann nun Sichtanflugkarten in der Moving Map darstellen. Anwender in Deutschland können offizielle Sichtanflugkarten der Deutsche Flugsicherung (DFS) mittels Michael Paus&apos; komfortablem &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP-Browser DE&lt;/a&gt; herunterladen. Details siehe Handbuch.</translation>
     </message>
@@ -3221,7 +3362,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; für iOS steht auf &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt; für einen Betatest bereit. Auch die &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;Homepage dieser App&lt;/a&gt; enthält einen Link zu TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="253"/>
+        <location filename="../../../src/Librarian.cpp" line="300"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Wir könnten Hilfe bei Werbegrafiken für die App-Stores und bei erklärenden Videos gebrauchen. Sollten Sie das können und uns helfen wollen, hören wir gern von Ihnen!</translation>
     </message>
@@ -3299,12 +3440,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Bitte erteilen Sie die Erlaubnis zum Zugriff auf den genauen Standort, wenn Sie dazu aufgefordert werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="219"/>
+        <location filename="../../../src/Librarian.cpp" line="261"/>
         <source>Responsible</source>
         <translation>Verantwortlich</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="224"/>
+        <location filename="../../../src/Librarian.cpp" line="271"/>
         <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
 
 &lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
