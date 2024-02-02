@@ -3290,13 +3290,17 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="287"/>
+        <source>For enhanced privacy, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; routes requests for METAR/TAF and NOTAM data through our servers. This hides your IP address from the web services that provide the data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
         <translation type="vanished">Wir verarbeiten keinerlei persönliche Daten von Ihnen. In die App eingegebene Datem wie z.B. Routen, Wegpunkte und Luftfahrzeugmerkmale liegen nur lokal auf Ihrem Gerät. Sie gelangen nicht zu uns und werden damit auch nicht von uns verarbeitet.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>The manual has been updated, modernized and rewritten in part. We do hope that you find it helpful.</source>
-        <translation>Das Handbuch wurde aktualisiert, modernisiert und teilweise neu geschrieben. Wir hoffen, das ist hilfreich für Sie.</translation>
+        <translation type="vanished">Das Handbuch wurde aktualisiert, modernisiert und teilweise neu geschrieben. Wir hoffen, das ist hilfreich für Sie.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="289"/>
@@ -3304,9 +3308,8 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Die Technologie unter &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; wurde aktualisiert. Bitte melden Sie uns gern alle Probleme und Auffälligkeiten, die auftreten.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="291"/>
         <source>Our flight club &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; has received the renowned Niethammer Innovation Award 2023. The award recognizes our work on &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. But above all, we owe this prize to our many contributors and supporters. None of this would have been possible without the incredible work of the communities at &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, who supply us with aviation data. Thanks to all of you! We will use the award money to finance our infrastructure and purchase urgently needed development hardware.</source>
-        <translation>Unser Luftsportverein &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; hat den renommierten Niethammer-Innovationspreis 2023 erhalten, der unsere Arbeit an &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; würdigt. Aber vor allen Dingen gilt dieser Preis unseren vielen Helfern und Unterstützern. Nichts davon wäre möglich gewesen ohne die unglaubliche Arbeit der Gemeinschaften &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; und &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, die uns mit Luftfahrtdaten versorgen. Ihnen allen vielen Dank! Wir werden das Preisgeld zur Finanzierung unserer Infrastruktur und zum Kauf dringend benötigter Hardware verwenden.</translation>
+        <translation type="vanished">Unser Luftsportverein &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; hat den renommierten Niethammer-Innovationspreis 2023 erhalten, der unsere Arbeit an &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; würdigt. Aber vor allen Dingen gilt dieser Preis unseren vielen Helfern und Unterstützern. Nichts davon wäre möglich gewesen ohne die unglaubliche Arbeit der Gemeinschaften &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; und &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, die uns mit Luftfahrtdaten versorgen. Ihnen allen vielen Dank! Wir werden das Preisgeld zur Finanzierung unserer Infrastruktur und zum Kauf dringend benötigter Hardware verwenden.</translation>
     </message>
     <message>
         <source>Privacy Policies</source>
@@ -3337,7 +3340,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Unser Luftsportverein &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; hat den renommierten Niethammer-Innovationspreis 2023 erhalten, der unsere Arbeit an &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; würdigt. Aber vor allen Dingen gilt dieser Preis unseren vielen Helfern und Unterstützern. Nichts davon wäre möglich gewesen ohne die unglaubliche Arbeit der Gemeinschaften &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; und &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, die uns mit Luftfahrtdaten versorgen. Ihnen allen vielen Dank! Wir werden das Preisgeld zur Finanzierung unserer Infrastruktur und zum Kauf dringend benötigter Hardware verwenden.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="297"/>
+        <location filename="../../../src/Librarian.cpp" line="291"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to show visual approach charts within the moving map. Users in Germany can download official VACs from Deutsche Flugsicherung (DFS) using Michael Paus&apos; very convenient &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. Please check the manual for details.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; kann nun Sichtanflugkarten in der Moving Map darstellen. Anwender in Deutschland können offizielle Sichtanflugkarten der Deutsche Flugsicherung (DFS) mittels Michael Paus&apos; komfortablem &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP-Browser DE&lt;/a&gt; herunterladen. Details siehe Handbuch.</translation>
     </message>
@@ -3362,7 +3365,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; für iOS steht auf &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt; für einen Betatest bereit. Auch die &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;Homepage dieser App&lt;/a&gt; enthält einen Link zu TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="300"/>
+        <location filename="../../../src/Librarian.cpp" line="294"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Wir könnten Hilfe bei Werbegrafiken für die App-Stores und bei erklärenden Videos gebrauchen. Sollten Sie das können und uns helfen wollen, hören wir gern von Ihnen!</translation>
     </message>

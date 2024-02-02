@@ -2413,9 +2413,8 @@ Message: Enroute Flight Navigation
         <translation type="vanished">L&apos;application affiche les NOTAM des lieux proches de votre position actuelle et de votre itinéraire actuellement planifié. Il affiche également les NOTAM pour tous les waypoints que vous ouvrez dans l&apos;application. Afin de fournir cette fonctionnalité, votre emplacement actuel, votre itinéraire actuellement planifié, les coordonnées du point de cheminement et l&apos;adresse IP de votre appareil doivent être transmis aux services Web à l&apos;adresse &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administratif&lt;/a&gt;. La connaissance de l&apos;adresse IP est nécessaire pour que les services Web répondent. Les services Web ne peuvent pas lire d&apos;autres données de votre appareil au cours du processus. Cependant, vous devez vous attendre à ce que l&apos;adresse IP de votre appareil soit stockée avec les données de position transmises. Les services Web sont exploités par le gouvernement américain et échappent à notre contrôle. Des informations détaillées sur ces services Web sont disponibles sur &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>The manual has been updated, modernized and rewritten in part. We do hope that you find it helpful.</source>
-        <translation>Le manuel a été mis à jour, modernisé et réécrit en partie. Nous espérons que cela vous sera utile.</translation>
+        <translation type="vanished">Le manuel a été mis à jour, modernisé et réécrit en partie. Nous espérons que cela vous sera utile.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="289"/>
@@ -2423,17 +2422,16 @@ Message: Enroute Flight Navigation
         <translation>La technologie sous-jacente à la &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; a été mise à jour. Veuillez signaler tout problème ou incohérence que vous pourriez rencontrer&#xa0;!</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="291"/>
         <source>Our flight club &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; has received the renowned Niethammer Innovation Award 2023. The award recognizes our work on &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. But above all, we owe this prize to our many contributors and supporters. None of this would have been possible without the incredible work of the communities at &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, who supply us with aviation data. Thanks to all of you! We will use the award money to finance our infrastructure and purchase urgently needed development hardware.</source>
-        <translation>Notre aéroclub &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; a reçu le célèbre Niethammer Innovation Award 2023. Ce prix récompense notre travail sur la &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. Mais nous devons avant tout ce prix à nos nombreux contributeurs et sympathisants. Rien de tout cela n&apos;aurait été possible sans le travail incroyable des communautés de &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; et &lt;a href=&apos;https://www.openflightmaps. org&apos;&gt;open flightmaps&lt;/a&gt;, qui nous fournissent des données aéronautiques. Merci à tous! Nous utiliserons l’argent du prix pour financer notre infrastructure et acheter le matériel de développement dont nous avons un besoin urgent.</translation>
+        <translation type="vanished">Notre aéroclub &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; a reçu le célèbre Niethammer Innovation Award 2023. Ce prix récompense notre travail sur la &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. Mais nous devons avant tout ce prix à nos nombreux contributeurs et sympathisants. Rien de tout cela n&apos;aurait été possible sans le travail incroyable des communautés de &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; et &lt;a href=&apos;https://www.openflightmaps. org&apos;&gt;open flightmaps&lt;/a&gt;, qui nous fournissent des données aéronautiques. Merci à tous! Nous utiliserons l’argent du prix pour financer notre infrastructure et acheter le matériel de développement dont nous avons un besoin urgent.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="297"/>
+        <location filename="../../../src/Librarian.cpp" line="291"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to show visual approach charts within the moving map. Users in Germany can download official VACs from Deutsche Flugsicherung (DFS) using Michael Paus&apos; very convenient &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. Please check the manual for details.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est désormais capable d&apos;afficher des cartes d&apos;approche visuelles sur la carte mobile. Les utilisateurs en Allemagne peuvent télécharger les VAC officiels de la Deutsche Flugsicherung (DFS) à l&apos;aide du très pratique &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. . Veuillez consulter le manuel pour plus de détails.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="300"/>
+        <location filename="../../../src/Librarian.cpp" line="294"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Nous avons besoin d&apos;aide avec des graphiques promotionnels pour les app stores et avec des vidéos explicatives. Si vous êtes un artiste graphique/vidéo et que vous souhaitez aider, n&apos;hésitez pas à nous contacter.</translation>
     </message>
@@ -2612,6 +2610,11 @@ Message: Enroute Flight Navigation
 &lt;p&gt;D&apos;autre part, l&apos;application sera plus performante si elle ne doit pas traiter des tonnes de données d&apos;un seul coup.&lt;/p&gt;
 
 &lt;p&gt;Nous faisons notre possible pour éviter d&apos;imposer une limite sur le nombre de cartes. Merci d&apos;être compréhensifs et de nous y aider.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="287"/>
+        <source>For enhanced privacy, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; routes requests for METAR/TAF and NOTAM data through our servers. This hides your IP address from the web services that provide the data.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="104"/>

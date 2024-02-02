@@ -3226,13 +3226,17 @@ con i dati del conto bancario.
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="287"/>
+        <source>For enhanced privacy, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; routes requests for METAR/TAF and NOTAM data through our servers. This hides your IP address from the web services that provide the data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
         <translation type="vanished">Non elaboriamo alcun dato personale. I dati che inserisci nell&apos;app (incluse rotte, waypoint e specifiche del velivolo) vengono memorizzati localmente sul tuo dispositivo. I dati non ci vengono trasmessi e non vengono elaborati da noi.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>The manual has been updated, modernized and rewritten in part. We do hope that you find it helpful.</source>
-        <translation>Il manuale è stato aggiornato, modernizzato e riscritto in parte. Speriamo che vi sia di aiuto.</translation>
+        <translation type="vanished">Il manuale è stato aggiornato, modernizzato e riscritto in parte. Speriamo che vi sia di aiuto.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="289"/>
@@ -3240,9 +3244,8 @@ con i dati del conto bancario.
         <translation>La tecnologia di base di &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è stata aggiornata. Per favore riportate eventuali problemi o inconsistenze!</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="291"/>
         <source>Our flight club &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; has received the renowned Niethammer Innovation Award 2023. The award recognizes our work on &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. But above all, we owe this prize to our many contributors and supporters. None of this would have been possible without the incredible work of the communities at &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, who supply us with aviation data. Thanks to all of you! We will use the award money to finance our infrastructure and purchase urgently needed development hardware.</source>
-        <translation>Il nostro club di volo &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; ha ricevuto il rinomato Niethammer Innovation Award 2023. Il premio riconosce il nostro lavoro sulla &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. Ma soprattutto dobbiamo questo premio ai nostri numerosi contributori e sostenitori. Niente di tutto questo sarebbe stato possibile senza l&apos;incredibile lavoro delle comunità su &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; e &lt;a href=&apos;https://www.openflightmaps. org&apos;&gt;open flightmaps&lt;/a&gt;, che ci fornisce dati sull&apos;aviazione. Grazie a tutti voi! Utilizzeremo il denaro del premio per finanziare la nostra infrastruttura e acquistare l&apos;hardware di sviluppo urgentemente necessario.</translation>
+        <translation type="vanished">Il nostro club di volo &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; ha ricevuto il rinomato Niethammer Innovation Award 2023. Il premio riconosce il nostro lavoro sulla &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. Ma soprattutto dobbiamo questo premio ai nostri numerosi contributori e sostenitori. Niente di tutto questo sarebbe stato possibile senza l&apos;incredibile lavoro delle comunità su &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; e &lt;a href=&apos;https://www.openflightmaps. org&apos;&gt;open flightmaps&lt;/a&gt;, che ci fornisce dati sull&apos;aviazione. Grazie a tutti voi! Utilizzeremo il denaro del premio per finanziare la nostra infrastruttura e acquistare l&apos;hardware di sviluppo urgentemente necessario.</translation>
     </message>
     <message>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data not transmitted to us and is not processed by us.</source>
@@ -3265,7 +3268,7 @@ con i dati del conto bancario.
         <translation type="vanished">L&apos;app mostra i NOTAM per i luoghi vicini alla posizione corrente e al percorso attualmente pianificato. Mostra anche i NOTAM per tutti i waypoint che apri nell&apos;app. Per fornire questa funzionalità, la tua posizione attuale, il tuo percorso attualmente pianificato, le coordinate del waypoint e l&apos;indirizzo IP del tuo dispositivo devono essere trasmessi ai servizi web all&apos;&lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Amministrazione&lt;/a&gt;. La conoscenza dell&apos;indirizzo IP è necessaria affinché i servizi Web possano rispondere. I servizi Web non possono leggere altri dati dal tuo dispositivo durante il processo. Tuttavia, devi aspettarti che l&apos;indirizzo IP del tuo dispositivo venga memorizzato insieme ai dati sulla posizione trasmessi. I servizi Web sono gestiti dal governo degli Stati Uniti e sono al di fuori del nostro controllo. Informazioni dettagliate su questi servizi Web sono disponibili all&apos;indirizzo &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="297"/>
+        <location filename="../../../src/Librarian.cpp" line="291"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to show visual approach charts within the moving map. Users in Germany can download official VACs from Deutsche Flugsicherung (DFS) using Michael Paus&apos; very convenient &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. Please check the manual for details.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è adesso capace di visualizzare le mappe di avvicinamento (VAC) con la mappa mobile. Gli utenti in Germania possono scaricare le VAC ufficiali da Deutsche Flugsicherung (DFS) usando il browser di Michael Paus &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. Consulta il manuale per i dettagli.</translation>
     </message>
@@ -3290,7 +3293,7 @@ con i dati del conto bancario.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è disponibileper beta testing pubblico per iOS su&lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;homepage di questa app&lt;/a&gt; contiene anche il link per TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="300"/>
+        <location filename="../../../src/Librarian.cpp" line="294"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Abbiamo bisogno di grafica promozionale per la app store e con video di spiegazione. Contattaci se sei un artista video/grafico e vorresti aiutare.</translation>
     </message>
