@@ -1861,12 +1861,12 @@ z danymi konta bankowego.
         <translation type="vanished">Po wyświetleniu monitu należy udzielić następujących uprawnień.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="139"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="140"/>
         <source>Based on your location, we reckon that that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
         <translation>Na podstawie Twojej lokalizacji uważamy, że poniższa mapa może być dla Ciebie odpowiednia. Kliknij mapę, aby rozpocząć pobieranie, a następnie kliknij &apos;Gotowe&apos;, aby zamknąć to okno dialogowe.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="141"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="142"/>
         <source>Based on your location, we reckon that that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
         <translation>Na podstawie Twojej lokalizacji uważamy, że poniższe mapy mogą być dla Ciebie odpowiednie. Kliknij dowolną mapę, aby rozpocząć pobieranie, a następnie kliknij &apos;Gotowe&apos;, aby zamknąć to okno dialogowe.</translation>
     </message>
@@ -1875,17 +1875,17 @@ z danymi konta bankowego.
         <translation type="vanished">Po wyświetleniu monitu należy udzielić następujących uprawnień.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="117"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="118"/>
         <source>Download Maps</source>
         <translation>Pobierz Mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="128"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="129"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; needs geographic maps to work.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; potrzebuje do działania map geograficznych.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="137"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="138"/>
         <source>Regretfully, we do not offer maps for your present location (%1).</source>
         <translation>Niestety, nie oferujemy map dla Twojej obecnej lokalizacji (%1).</translation>
     </message>
@@ -1898,37 +1898,37 @@ z danymi konta bankowego.
         <translation type="vanished">W oparciu o Twoją lokalizację, uważamy, że następujące mapy mogą być dla Ciebie istotne. Kliknij na dowolną mapę, aby rozpocząć pobieranie, a następnie kliknij na &apos;Akceptuj&apos;, aby zamknąć to okno dialogowe.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="145"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="146"/>
         <source>We&apos;re waiting for SatNav position infoformation to suggest maps that might be relevant for you. Please stand by.</source>
         <translation>Czekamy na informacje o pozycji SatNav, aby zaproponować mapy, które mogą być dla Ciebie istotne. Proszę czekać.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="150"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="151"/>
         <source>We&apos;re downloading the list of available maps. Please stand by.</source>
         <translation>Pobieramy listę dostępnych map. Proszę czekać.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="156"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="157"/>
         <source>Please grant location permissions, so we can suggest maps to download.</source>
         <translation>Przyznaj uprawnienia do lokalizacji, abyśmy mogli zaproponować mapy do pobrania.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="161"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="162"/>
         <source>We&apos;re unable to suggest maps to download because the location permission was denied.</source>
         <translation>Nie możemy sugerować map do pobrania, ponieważ nie przyznano pozwolenia na lokalizację.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="205"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="206"/>
         <source>For the full list of maps, close this dialog, open the main menu and go to &apos;Library/Maps and Data&apos;. It is also possible to import raster maps into this app. Check the manual for details.</source>
         <translation>Aby uzyskać pełną listę map, zamknij to okno dialogowe, otwórz menu główne i przejdź do &apos;Biblioteka/Mapy i dane&apos;. Możliwe jest również importowanie map rastrowych do tej aplikacji. Sprawdź instrukcję obsługi, aby uzyskać szczegóły.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="260"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="261"/>
         <source>Done</source>
         <translation>Ukończone</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="261"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="262"/>
         <source>Accept</source>
         <translation>Zaakceptuj</translation>
     </message>
@@ -10401,53 +10401,53 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Wyjście</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="629"/>
+        <location filename="../../../src/qml/main.qml" line="636"/>
         <source>Update required!</source>
         <translation>Wymagana aktualizacja!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="764"/>
+        <location filename="../../../src/qml/main.qml" line="771"/>
         <source>Connected to traffic receiver.</source>
         <translation>Podłączony do odbiornika ruchu lotniczego.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="766"/>
+        <location filename="../../../src/qml/main.qml" line="773"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Utracono połączenie do odbiornika ruchu lotniczego.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="815"/>
+        <location filename="../../../src/qml/main.qml" line="822"/>
         <source>Exit…?</source>
         <translation>Wyjść...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="816"/>
+        <location filename="../../../src/qml/main.qml" line="823"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Czy chesz wyjść z &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="642"/>
-        <location filename="../../../src/qml/main.qml" line="656"/>
+        <location filename="../../../src/qml/main.qml" line="649"/>
+        <location filename="../../../src/qml/main.qml" line="663"/>
         <source>What&apos;s new…?</source>
         <translation>Co nowego...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="883"/>
+        <location filename="../../../src/qml/main.qml" line="886"/>
         <source>You have chosen to ignore network security errors in the future.</source>
         <translation>Wybrałeś ignorowanie błędów bezpieczeństwa sieci w przyszłości.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="884"/>
+        <location filename="../../../src/qml/main.qml" line="887"/>
         <source>This poses a security risk.</source>
         <translation>Stanowi to zagrożenie dla bezpieczeństwa.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="885"/>
+        <location filename="../../../src/qml/main.qml" line="888"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Przejdź do strony &apos;Ustawienia&apos;, jeśli chcesz przywrócić oryginalne, bezpieczne zachowanie tej aplikacji.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="915"/>
+        <location filename="../../../src/qml/main.qml" line="918"/>
         <source>Error!</source>
         <translation>Błąd!</translation>
     </message>
@@ -10456,27 +10456,27 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Co nowego ...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="847"/>
+        <location filename="../../../src/qml/main.qml" line="850"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Obecnie pokazywanie przestrzeni do %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="849"/>
+        <location filename="../../../src/qml/main.qml" line="852"/>
         <source>Now showing all airspaces.</source>
         <translation>Obecnie pokazywanie wszystkich przestrzeni.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="929"/>
+        <location filename="../../../src/qml/main.qml" line="932"/>
         <source>Starting map update</source>
         <translation>Rozpoczęcie aktualizacji mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="870"/>
+        <location filename="../../../src/qml/main.qml" line="873"/>
         <source>Network security error</source>
         <translation>Błąd bezpieczeństwa sieci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="882"/>
+        <location filename="../../../src/qml/main.qml" line="885"/>
         <source>Network security settings</source>
         <translation>Ustawienia bezpieczeństwa sieci</translation>
     </message>
