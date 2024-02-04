@@ -2641,153 +2641,153 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="181"/>
         <source>We do not collect our users&apos; personal data.</source>
-        <translation type="unfinished"></translation>
+        <translation>No recopilamos datos personales de nuestros usuarios.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="182"/>
         <source>We do not store any personally identifiable information.</source>
-        <translation type="unfinished"></translation>
+        <translation>No almacenamos ninguna información de identificación personal.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="183"/>
         <source>However, to ensure functionality, the app must transmit the following data items to servers on the internet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin embargo, para garantizar la funcionalidad, la aplicación debe transmitir los siguientes elementos de datos a servidores en Internet.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="187"/>
         <source>1. Map and Data Download Server</source>
-        <translation type="unfinished"></translation>
+        <translation>1. Servidor de descarga de mapas y datos</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="191"/>
         <source>The app regularly checks for updates and allows downloading maps and data from a &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;server at the University of Freiburg&lt;/a&gt; to your device.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación busca periódicamente actualizaciones y permite descargar mapas y datos desde un &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;servidor de la Universidad de Friburgo&lt;/a&gt; a su dispositivo.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="192"/>
         <source>Your device&apos;s IP address must be transmitted to the server to provide this functionality.</source>
-        <translation type="unfinished"></translation>
+        <translation>La dirección IP de su dispositivo debe transmitirse al servidor para proporcionar esta funcionalidad.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="193"/>
         <location filename="../../../src/Librarian.cpp" line="216"/>
         <location filename="../../../src/Librarian.cpp" line="247"/>
         <source>Knowledge of the IP address is necessary for the server to respond.</source>
-        <translation type="unfinished"></translation>
+        <translation>El conocimiento de la dirección IP es necesario para que el servidor responda.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="194"/>
         <location filename="../../../src/Librarian.cpp" line="217"/>
         <location filename="../../../src/Librarian.cpp" line="248"/>
         <source>However, the server does not store any personal data about you in its log files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sin embargo, el servidor no almacena ningún dato personal sobre usted en sus archivos de registro.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="195"/>
         <location filename="../../../src/Librarian.cpp" line="218"/>
         <location filename="../../../src/Librarian.cpp" line="249"/>
         <source>In particular, it does not store the IP address of your device in its log files.</source>
-        <translation type="unfinished"></translation>
+        <translation>En particular, no almacena la dirección IP de su dispositivo en sus archivos de registro.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="196"/>
         <location filename="../../../src/Librarian.cpp" line="219"/>
         <location filename="../../../src/Librarian.cpp" line="250"/>
         <source>We can assure this because the server is under our control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esto lo podemos asegurar porque el servidor está bajo nuestro control.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="199"/>
         <source>2. METAR and TAF Server</source>
-        <translation type="unfinished"></translation>
+        <translation>2. Servidor METAR y TAF</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="203"/>
         <source>The app shows METARs and TAFs for airfields near your current location and your currently planned route. </source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación muestra METAR y TAF para aeródromos cercanos a su ubicación actual y su ruta planificada actualmente.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="204"/>
         <source>It also shows METARs and TAFs for all waypoints you open in the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>También muestra METAR y TAF para todos los waypoints que abres en la aplicación.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="205"/>
         <location filename="../../../src/Librarian.cpp" line="236"/>
         <source>To provide this functionality, a request containing the following data is transmitted to a &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;server at the University of Freiburg&lt;/a&gt;:</source>
-        <translation type="unfinished"></translation>
+        <translation>Para proporcionar esta funcionalidad, se transmite una solicitud que contiene los siguientes datos a un &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;servidor de la Universidad de Friburgo&lt;/a&gt;:</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="209"/>
         <location filename="../../../src/Librarian.cpp" line="240"/>
         <source>Your current location</source>
-        <translation type="unfinished"></translation>
+        <translation>Su ubicación actual</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="210"/>
         <location filename="../../../src/Librarian.cpp" line="241"/>
         <source>The currently planned route</source>
-        <translation type="unfinished"></translation>
+        <translation>La ruta actualmente planificada</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="211"/>
         <location filename="../../../src/Librarian.cpp" line="242"/>
         <source>Waypoint coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Coordenadas del punto de ruta</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="212"/>
         <location filename="../../../src/Librarian.cpp" line="243"/>
         <source>Your device&apos;s IP address</source>
-        <translation type="unfinished"></translation>
+        <translation>La dirección IP de su dispositivo</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="220"/>
         <location filename="../../../src/Librarian.cpp" line="251"/>
         <source>The server cannot read any other data from your device in the process.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servidor no puede leer ningún otro dato de su dispositivo en el proceso.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="224"/>
         <location filename="../../../src/Librarian.cpp" line="255"/>
         <source>The server forwards the request to a web service at the %1 but hides your IP address, so the web service will never see it.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servidor reenvía la solicitud a un servicio web en %1 pero oculta su dirección IP, por lo que el servicio web nunca la verá.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="225"/>
         <source>The web services at the Aviation Weather Center are operated by the US government and are beyond our control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los servicios web del Aviation Weather Center son operados por el gobierno de EE. UU. y están fuera de nuestro control.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="226"/>
         <location filename="../../../src/Librarian.cpp" line="257"/>
         <source>Detailed information can be found at %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puede encontrar información detallada en %1.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="230"/>
         <source>3. NOTAM Server</source>
-        <translation type="unfinished"></translation>
+        <translation>3. Servidor NOTAM</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="234"/>
         <source>The app shows NOTAMs for places near your current location and your currently planned route.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación muestra NOTAM de lugares cercanos a su ubicación actual y su ruta planificada actualmente.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="235"/>
         <source>It also shows NOTAMs for all waypoints you open in the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>También muestra NOTAM para todos los puntos de referencia que abre en la aplicación.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="256"/>
         <source>The web services at the Federal Aviation Administration are operated by the US government and are beyond our control.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los servicios web de la Administración Federal de Aviación son operados por el gobierno de EE. UU. y están fuera de nuestro control.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>For enhanced privacy, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; routes requests for METAR/TAF and NOTAM data through our servers. This hides your IP address from the web services that provide the data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para mayor privacidad, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; enruta solicitudes de datos METAR/TAF y NOTAM a través de nuestros servidores. Esto oculta su dirección IP de los servicios web que proporcionan los datos.</translation>
     </message>
     <message>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
@@ -4387,25 +4387,29 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/CUP.cpp" line="123"/>
         <source>Direction: %1°</source>
         <comment>GeoMaps::CUP</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>GeoMapas::CUP</translatorcomment>
+        <translation>Dirección: %1°</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUP.cpp" line="127"/>
         <source>Length: %1</source>
         <comment>GeoMaps::CUP</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>GeoMapas::Cup</translatorcomment>
+        <translation>Longitud: %1</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUP.cpp" line="169"/>
         <source>Error reading line %1 in the CUP file %2.</source>
         <comment>FileFormats::CUP</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::CUP</translatorcomment>
+        <translation>Error al leer la línea %1 en el archivo CUP %2.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CSV.cpp" line="135"/>
         <source>Cannot open CSV file %1 for reading.</source>
         <comment>FileFormats::CSV</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::CSV</translatorcomment>
+        <translation>No se puede abrir el archivo CSV %1 para leerlo.</translation>
     </message>
 </context>
 <context>
