@@ -3817,17 +3817,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Entrez le nouveau nom de la carte d&apos;approche &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="70"/>
+        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="69"/>
         <source>Rename</source>
         <translation>Renommer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="79"/>
+        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="78"/>
         <source>Flight route renamed</source>
         <translation>Route renommée</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="81"/>
+        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="80"/>
         <source>Error: %1</source>
         <translation>Erreur: %1</translation>
     </message>

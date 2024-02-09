@@ -4443,17 +4443,17 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Ingrese un nuevo nombre para la carta de aproximación &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="70"/>
+        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="69"/>
         <source>Rename</source>
         <translation>Renombrar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="79"/>
+        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="78"/>
         <source>Flight route renamed</source>
         <translation>Ruta de vuelo renombrada</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="81"/>
+        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="80"/>
         <source>Error: %1</source>
         <translation>Error: %1</translation>
     </message>

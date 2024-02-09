@@ -5247,17 +5247,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Inserisci il nome per l&apos;approcio &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="70"/>
+        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="69"/>
         <source>Rename</source>
         <translation>Rinomina</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="79"/>
+        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="78"/>
         <source>Flight route renamed</source>
         <translation>Piano di volo rinominato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="81"/>
+        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="80"/>
         <source>Error: %1</source>
         <translation>Errore: %1</translation>
     </message>

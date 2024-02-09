@@ -5239,17 +5239,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Geben Sie für die Anflugkarte &lt;strong&gt;%1&lt;/strong&gt; einen neuen Namen ein.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="70"/>
+        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="69"/>
         <source>Rename</source>
         <translation>Umbenennen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="79"/>
+        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="78"/>
         <source>Flight route renamed</source>
         <translation>Route umbenannt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="81"/>
+        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="80"/>
         <source>Error: %1</source>
         <translation>Fehler: %1</translation>
     </message>
