@@ -267,7 +267,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="497"/>
         <source>U.S. Gallons</source>
-        <translation>Galloni U.S.</translation>
+        <translation>Galloni USA</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="502"/>
@@ -456,7 +456,6 @@ data (such as wrong airfield frequencies, outdated traffic
 patterns, missing navaids,…), then please use the buttons
 below.&lt;/p&gt;
 </source>
-        <translatorcomment>Entry stays yellow. Please remove &apos;enter&apos; at the end of the ENG version (or add it at the end of ITA one).</translatorcomment>
         <translation>
 &lt;h4&gt;Dati di aviazione&lt;/h4&gt;
 
@@ -3008,8 +3007,7 @@ con i dati del conto bancario.
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translatorcomment>Entry stays yellos. Please remove the doble space before the word &apos;Antonio&apos; in the ENG version.</translatorcomment>
-        <translation>&lt;li&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella e Antonio Fardella. Antonio è un aviatore navale con la passione per tutto ciò che è entusiasmante.&lt;/li&gt;</translation>
+        <translation>&lt;li&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella e Antonio Fardella.  Antonio è un aviatore navale con la passione per tutto ciò che è entusiasmante.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="75"/>
@@ -3102,8 +3100,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="191"/>
         <source>The app regularly checks for updates and allows downloading maps and data from a &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;server at the University of Freiburg&lt;/a&gt; to your device.</source>
-        <translatorcomment>Please check the position of the markers &lt;a&gt; and &lt;/a&gt; as well as the brackets.</translatorcomment>
-        <translation type="unfinished">La app controlla regolarmente gli aggiornamenti e consente di scaricare mappe e dati dal server di &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt; presso l&apos;Università di Freiburg &lt;/a&gt; sul tuo dispositivo.</translation>
+        <translation>La app controlla regolarmente gli aggiornamenti e consente di scaricare mappe e dati dal server di &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt; presso l&apos;Università di Freiburg &lt;/a&gt; sul tuo dispositivo.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="192"/>
@@ -3198,8 +3195,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="225"/>
         <source>The web services at the Aviation Weather Center are operated by the US government and are beyond our control.</source>
-        <translatorcomment>If the sentence is too long you can cut off &quot;(Centro Meteo dell&apos;Aviazione)&quot;.</translatorcomment>
-        <translation type="unfinished">I servizi web presso l&apos;Aviation Weather Center (Centro Meteo dell&apos;Aviazione) sono operati dal governo USA e non sono sotto il nostro controllo.</translation>
+        <translation>I servizi web presso l&apos;Aviation Weather Center (Centro Meteo dell&apos;Aviazione) sono operati dal governo USA e non sono sotto il nostro controllo.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="226"/>
@@ -3225,8 +3221,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="256"/>
         <source>The web services at the Federal Aviation Administration are operated by the US government and are beyond our control.</source>
-        <translatorcomment>If the sentence is too long you can cut off &quot;(Amministrazione Federale per l&apos;Aviazione)&quot;.</translatorcomment>
-        <translation type="unfinished">I servizi web presso la Federal Aviation Administration (Amministrazione Federale per l&apos;Aviazione) sono operati dal governo USA e non sono sotto il nostro controllo.</translation>
+        <translation>I servizi web presso la Federal Aviation Administration (Amministrazione Federale per l&apos;Aviazione) sono operati dal governo USA e non sono sotto il nostro controllo.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
@@ -5192,7 +5187,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/fileFormats/CUP.cpp" line="169"/>
         <source>Error reading line %1 in the CUP file %2.</source>
         <comment>FileFormats::CUP</comment>
-        <translation>Errore di lettura della linea %1 nel file CUP %2</translation>
+        <translation>Errore di lettura della linea %1 nel file CUP %2.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CSV.cpp" line="135"/>
