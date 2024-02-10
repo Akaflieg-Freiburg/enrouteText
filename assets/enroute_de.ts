@@ -3151,7 +3151,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="182"/>
         <source>We do not store any personally identifiable information.</source>
-        <translation>Wir speichern keinerlei Informationen zur persönlichen Identifikation.</translation>
+        <translation>Wir speichern keinerlei personenbezogene Daten.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="183"/>
@@ -3185,7 +3185,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <location filename="../../../src/Librarian.cpp" line="217"/>
         <location filename="../../../src/Librarian.cpp" line="248"/>
         <source>However, the server does not store any personal data about you in its log files.</source>
-        <translation>Der Server speichert aber keinerlei persönliche Daten über Sie in seinen Loggdateien.</translation>
+        <translation>Der Server speichert aber keinerlei personenbezogenen Daten über Sie in seinen Loggdateien.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="195"/>
