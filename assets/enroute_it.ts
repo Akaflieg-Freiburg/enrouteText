@@ -876,64 +876,64 @@ la nostra App.&lt;/p&gt;
         <translation type="vanished">I dati della mappa sono stati compilati dalle seguenti fonti.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="186"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="185"/>
         <source>Unable to recognize map file format.</source>
         <translation>Impossibile riconoscere il formato file della mappa.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="191"/>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="232"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="190"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="231"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>Impossibile creae la cartella &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="198"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="197"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Impossibile copiare il file mappa nella cartella.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="220"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="219"/>
         <source>Errors</source>
         <translation>Errori</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="244"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="243"/>
         <source>Error writing file &apos;%1&apos;: %2.</source>
         <translation>Errore di scrittura di &apos;%1&apos;: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="279"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="278"/>
         <source>Error reading TripKip: No charts imported.</source>
         <translation>Errore di lettura di TripKip: Nessuna mappa importata.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="283"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="282"/>
         <source>Error reading TripKip: Only %1 out of %2 charts were successfully imported.</source>
         <translation>Errore di lettura di TripKip: Solo %1 di %2 mappe sono state importate.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="321"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="320"/>
         <source>Import failed. Unable to write raster data to directory %1.</source>
         <translation>Caricamento fallito. Impossibile scrivere dati raster nella cartella %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="342"/>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="362"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="341"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="361"/>
         <source>An approach chart with name %1 already exists.</source>
         <translation>Esiste già uno approcio di nome %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="366"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="365"/>
         <source>Cannot copy file %1 to %2.</source>
         <translation>Impossibile copiare il file %1 in %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="377"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="376"/>
         <source>Approach chart %1 could not be found.</source>
         <translation>Approcio %1 non trovato.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="442"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="441"/>
         <source>Manually Imported</source>
         <translation>Importata manualmente</translation>
     </message>
@@ -5194,6 +5194,18 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <source>Cannot open CSV file %1 for reading.</source>
         <comment>FileFormats::CSV</comment>
         <translation>Non è possibile aprire il file CSV %1 in lettura.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/MBTILES.cpp" line="39"/>
+        <source>Unable to open database connection to MBTILES file.</source>
+        <comment>FileFormats::MBTILES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/MBTILES.cpp" line="46"/>
+        <source>Unable to read metadata table from MBTILES file.</source>
+        <comment>FileFormats::MBTILES</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

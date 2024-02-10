@@ -763,64 +763,64 @@ données de manière publique et gratuite.&lt;/p&gt;
 <context>
     <name>DataManagement::DataManager</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="186"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="185"/>
         <source>Unable to recognize map file format.</source>
         <translation>Impossible de reconnaitre le format du fichier de carte.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="191"/>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="232"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="190"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="231"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>Impossible de créer le dossier &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="198"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="197"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Impossible de copier le fichier de carte vers le dossier de données.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="220"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="219"/>
         <source>Errors</source>
         <translation>Erreurs</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="244"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="243"/>
         <source>Error writing file &apos;%1&apos;: %2.</source>
         <translation>Erreur lors de l&apos;écriture du fichier &apos;%1&apos;&#xa0;: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="279"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="278"/>
         <source>Error reading TripKip: No charts imported.</source>
         <translation>Erreur de lecture de TripKip&#xa0;:&#xa0;aucune carte importée.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="283"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="282"/>
         <source>Error reading TripKip: Only %1 out of %2 charts were successfully imported.</source>
         <translation>Erreur de lecture de TripKip&#xa0;: seuls %1 des %2 graphiques ont été importés avec succès.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="321"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="320"/>
         <source>Import failed. Unable to write raster data to directory %1.</source>
         <translation>L&apos;importation a échoué. Impossible d&apos;écrire des données raster dans le répertoire %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="342"/>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="362"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="341"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="361"/>
         <source>An approach chart with name %1 already exists.</source>
         <translation>Une carte d&apos;approche portant le nom %1 existe déjà.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="366"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="365"/>
         <source>Cannot copy file %1 to %2.</source>
         <translation>Impossible de copier le fichier %1 vers %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="377"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="376"/>
         <source>Approach chart %1 could not be found.</source>
         <translation>La carte d&apos;approche %1 est introuvable.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="442"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="441"/>
         <source>Manually Imported</source>
         <translation>Importé manuellement</translation>
     </message>
@@ -3784,6 +3784,18 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <comment>FileFormats::CSV</comment>
         <translatorcomment>Formats de fichiers :: CSV</translatorcomment>
         <translation>Impossible d&apos;ouvrir le fichier CSV %1 pour la lecture.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/MBTILES.cpp" line="39"/>
+        <source>Unable to open database connection to MBTILES file.</source>
+        <comment>FileFormats::MBTILES</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/MBTILES.cpp" line="46"/>
+        <source>Unable to read metadata table from MBTILES file.</source>
+        <comment>FileFormats::MBTILES</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
