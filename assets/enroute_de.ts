@@ -3209,7 +3209,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="203"/>
         <source>The app shows METARs and TAFs for airfields near your current location and your currently planned route. </source>
-        <translation>Die App zeigt METARs und TAFs für Flugplätze nahe Ihrer aktuellen Position und der zzt. geplanten Route.</translation>
+        <translation>Die App zeigt METARs und TAFs für Flugplätze nahe Ihrer aktuellen Position und der jeweils geplanten Route.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="204"/>
@@ -3277,7 +3277,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="234"/>
         <source>The app shows NOTAMs for places near your current location and your currently planned route.</source>
-        <translation>Die App zeigt NOTAMs für Orte nahe Ihrer aktuellen Position und Ihrer zzt. geplanten Route.</translation>
+        <translation>Die App zeigt NOTAMs für Orte nahe Ihrer aktuellen Position und Ihrer jeweils geplanten Route.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="235"/>
@@ -5196,13 +5196,13 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/fileFormats/MBTILES.cpp" line="39"/>
         <source>Unable to open database connection to MBTILES file.</source>
         <comment>FileFormats::MBTILES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kann keine Datenbankverbindung zur MBTILES-Datei herstellen.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/MBTILES.cpp" line="46"/>
         <source>Unable to read metadata table from MBTILES file.</source>
         <comment>FileFormats::MBTILES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kann die Metadaten der MBTILES-Datei nicht lesen.</translation>
     </message>
 </context>
 <context>
