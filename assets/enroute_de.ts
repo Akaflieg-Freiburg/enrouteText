@@ -3185,7 +3185,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <location filename="../../../src/Librarian.cpp" line="217"/>
         <location filename="../../../src/Librarian.cpp" line="248"/>
         <source>However, the server does not store any personal data about you in its log files.</source>
-        <translation>Der Server speichert aber keinerlei personenbezogenen Daten über Sie in seinen Loggdateien.</translation>
+        <translation>Der Server speichert aber keinerlei personenbezogene Daten über Sie in seinen Loggdateien.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="195"/>
