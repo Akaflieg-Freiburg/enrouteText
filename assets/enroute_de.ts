@@ -4996,37 +4996,37 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Die Geodaten für die Datei %1 legen eine Bilddiagonale über 50 km nahe, was nicht für eine Anflugkarte spricht.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="81"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="97"/>
         <source>The zip archive does not contain the required file &apos;toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Im ZIP-Archiv fehlt die benötigte Datei &apos;toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="86"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="102"/>
         <source>The file &apos;toc.json&apos; from the zip archive cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Die Datei &apos;toc.json&apos; aus dem ZIP-Archiv kann nicht interpretiert werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="96"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="112"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Das ZIP-Archiv %1 enthält nicht die benötigte Datei &apos;charts/charts_toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="101"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="117"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Die Datei &apos;charts/charts_toc.json&apos; aus dem ZIP-Archiv %1 kann nicht interpretiert werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="107"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="123"/>
         <source>The trip kit does not contain any charts.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Das Tripkit enthält keinerlei Karten.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="136"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="152"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Die Koordinaten für den Eintrag &apos;%1&apos; im Tripkit sind ungültig.</translation>
@@ -5164,19 +5164,19 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Der Begrenzungsrahmen ist ungültig.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CUP.cpp" line="123"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="122"/>
         <source>Direction: %1°</source>
         <comment>GeoMaps::CUP</comment>
         <translation>Richtung: %1°</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CUP.cpp" line="127"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="126"/>
         <source>Length: %1</source>
         <comment>GeoMaps::CUP</comment>
         <translation>Länge: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CUP.cpp" line="169"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="168"/>
         <source>Error reading line %1 in the CUP file %2.</source>
         <comment>FileFormats::CUP</comment>
         <translation>Fehler beim Lesen der Zeile %1 in der CUP-Datei %2.</translation>
@@ -6520,17 +6520,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Entfernung %1 mil</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/Warning.cpp" line="134"/>
+        <location filename="../../../src/traffic/Warning.cpp" line="135"/>
         <source>Same altitude</source>
         <translation>Gleiche Höhe</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/Warning.cpp" line="137"/>
+        <location filename="../../../src/traffic/Warning.cpp" line="138"/>
         <source>%1 below</source>
         <translation>%1 unterhalb</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/Warning.cpp" line="139"/>
+        <location filename="../../../src/traffic/Warning.cpp" line="140"/>
         <source>%1 above</source>
         <translation>%1 oberhalb</translation>
     </message>

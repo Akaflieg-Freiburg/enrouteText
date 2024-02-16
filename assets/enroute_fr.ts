@@ -3564,42 +3564,42 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Les données de géoréférencement du fichier %1 suggèrent que la diagonale de l&apos;image est supérieure à 50&#xa0;km, ce qui rend peu probable qu&apos;il s&apos;agisse d&apos;une carte d&apos;approche.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="81"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="97"/>
         <source>The zip archive does not contain the required file &apos;toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translatorcomment>Formats de fichiers :: TripKit</translatorcomment>
         <translation>L&apos;archive zip ne contient pas le fichier requis « toc.json ».</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="86"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="102"/>
         <source>The file &apos;toc.json&apos; from the zip archive cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translatorcomment>Formats de fichiers :: TripKit</translatorcomment>
         <translation>Le fichier &apos;toc.json&apos; de l&apos;archive zip ne peut pas être interprété.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="96"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="112"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translatorcomment>Formats de fichiers :: TripKit</translatorcomment>
         <translation>L&apos;archive zip %1 ne contient pas le fichier requis « charts/charts_toc.json ».</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="101"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="117"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translatorcomment>Formats de fichiers :: TripKit</translatorcomment>
         <translation>Le fichier «charts/charts_toc.json» de l&apos;archive zip %1 ne peut pas être interprété.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="107"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="123"/>
         <source>The trip kit does not contain any charts.</source>
         <comment>FileFormats::TripKit</comment>
         <translatorcomment>Formats de fichiers :: TripKit</translatorcomment>
         <translation>Le kit de voyage ne contient aucune carte.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="136"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="152"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
         <translatorcomment>Formats de fichiers :: TripKit</translatorcomment>
@@ -3758,21 +3758,21 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Le cadre de délimitation n&apos;est pas valide.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CUP.cpp" line="123"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="122"/>
         <source>Direction: %1°</source>
         <comment>GeoMaps::CUP</comment>
         <translatorcomment>GeoMaps::CUP</translatorcomment>
         <translation>Direction: %1°</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CUP.cpp" line="127"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="126"/>
         <source>Length: %1</source>
         <comment>GeoMaps::CUP</comment>
         <translatorcomment>GeoMaps::CUP</translatorcomment>
         <translation>Longueur&#xa0;:&#xa0;%1</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CUP.cpp" line="169"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="168"/>
         <source>Error reading line %1 in the CUP file %2.</source>
         <comment>FileFormats::CUP</comment>
         <translatorcomment>Formats de fichiers :: CUP</translatorcomment>
@@ -4978,17 +4978,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Distance %1 sm</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/Warning.cpp" line="134"/>
+        <location filename="../../../src/traffic/Warning.cpp" line="135"/>
         <source>Same altitude</source>
         <translation>Même altitude</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/Warning.cpp" line="137"/>
+        <location filename="../../../src/traffic/Warning.cpp" line="138"/>
         <source>%1 below</source>
         <translation>%1 en-dessous</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/Warning.cpp" line="139"/>
+        <location filename="../../../src/traffic/Warning.cpp" line="140"/>
         <source>%1 above</source>
         <translation>%1 au-dessus</translation>
     </message>

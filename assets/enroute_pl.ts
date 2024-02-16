@@ -5003,37 +5003,37 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Dane georeferencyjne dla pliku %1 sugerują, że przekątna obrazu wynosi ponad 50 km, co sprawia, że jest mało prawdopodobne, że jest to mapa podejścia.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="81"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="97"/>
         <source>The zip archive does not contain the required file &apos;toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Archiwum zip nie zawiera wymaganego pliku &apos;toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="86"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="102"/>
         <source>The file &apos;toc.json&apos; from the zip archive cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Plik &apos;toc.json&apos; z archiwum zip nie może być zinterpretowany.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="96"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="112"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Archiwum zip %1 nie zawiera wymaganego pliku &apos;charts/charts_toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="101"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="117"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Nie można zinterpretować pliku &apos;charts/charts_toc.json&apos; z archiwum zip %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="107"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="123"/>
         <source>The trip kit does not contain any charts.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Pakiet trasy nie zawiera żadnych diagramów.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="136"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="152"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Koordynaty dla wpisu &apos;%1&apos; w pakiecie trasy są niepoprawne.</translation>
@@ -5170,19 +5170,19 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Ograniczenie wymiarów jest niepoprawne.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CUP.cpp" line="123"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="122"/>
         <source>Direction: %1°</source>
         <comment>GeoMaps::CUP</comment>
         <translation>Kierunek: %1°</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CUP.cpp" line="127"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="126"/>
         <source>Length: %1</source>
         <comment>GeoMaps::CUP</comment>
         <translation>Długość: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CUP.cpp" line="169"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="168"/>
         <source>Error reading line %1 in the CUP file %2.</source>
         <comment>FileFormats::CUP</comment>
         <translation>Błąd odczytu linii %1 w pliku CUP %2.</translation>
@@ -6513,17 +6513,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Odległość %1 mil</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/Warning.cpp" line="134"/>
+        <location filename="../../../src/traffic/Warning.cpp" line="135"/>
         <source>Same altitude</source>
         <translation>Taka sama wysokość</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/Warning.cpp" line="137"/>
+        <location filename="../../../src/traffic/Warning.cpp" line="138"/>
         <source>%1 below</source>
         <translation>%1 poniżej</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/Warning.cpp" line="139"/>
+        <location filename="../../../src/traffic/Warning.cpp" line="140"/>
         <source>%1 above</source>
         <translation>%1 powyżej</translation>
     </message>
