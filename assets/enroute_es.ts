@@ -4415,13 +4415,15 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/MBTILES.cpp" line="39"/>
         <source>Unable to open database connection to MBTILES file.</source>
         <comment>FileFormats::MBTILES</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::MBTILES</translatorcomment>
+        <translation>No se puede abrir la conexión de la base de datos al archivo MBTILES.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/MBTILES.cpp" line="46"/>
         <source>Unable to read metadata table from MBTILES file.</source>
         <comment>FileFormats::MBTILES</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::MBTILES</translatorcomment>
+        <translation>No se puede leer la tabla de metadatos del archivo MBTILES.</translation>
     </message>
 </context>
 <context>
