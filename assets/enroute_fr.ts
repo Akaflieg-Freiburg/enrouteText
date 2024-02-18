@@ -3789,13 +3789,15 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/fileFormats/MBTILES.cpp" line="39"/>
         <source>Unable to open database connection to MBTILES file.</source>
         <comment>FileFormats::MBTILES</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers : MBTILES</translatorcomment>
+        <translation>Impossible d&apos;ouvrir la connexion à la base de données au fichier MBTILES.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/MBTILES.cpp" line="46"/>
         <source>Unable to read metadata table from MBTILES file.</source>
         <comment>FileFormats::MBTILES</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers : MBTILES</translatorcomment>
+        <translation>Impossible de lire la table de métadonnées du fichier MBTILES.</translation>
     </message>
 </context>
 <context>
