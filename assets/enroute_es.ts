@@ -798,64 +798,64 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
 <context>
     <name>DataManagement::DataManager</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="185"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="180"/>
         <source>Unable to recognize map file format.</source>
         <translation>No se puede reconocer el formato de archivo de mapa</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="190"/>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="231"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="185"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="226"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>No se puede crear el directorio &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="197"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="192"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>No se puede copiar el archivo de mapa al directorio de datos.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="219"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="214"/>
         <source>Errors</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="243"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="238"/>
         <source>Error writing file &apos;%1&apos;: %2.</source>
         <translation>Error al escribir el archivo &apos;%1&apos;: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="278"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="292"/>
         <source>Error reading TripKip: No charts imported.</source>
         <translation>Error al leer TripKip: No se importaron cartas.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="282"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="296"/>
         <source>Error reading TripKip: Only %1 out of %2 charts were successfully imported.</source>
         <translation>Error al leer TripKip: solo %1 de %2 gráficos se importaron correctamente.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="320"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="335"/>
         <source>Import failed. Unable to write raster data to directory %1.</source>
         <translation>La importación falló. No se pueden escribir datos ráster en el directorio %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="341"/>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="361"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="353"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="373"/>
         <source>An approach chart with name %1 already exists.</source>
         <translation>Ya existe una carta de aproximación con el nombre %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="365"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="377"/>
         <source>Cannot copy file %1 to %2.</source>
         <translation>No se puede copiar el archivo %1 a %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="376"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="388"/>
         <source>Approach chart %1 could not be found.</source>
         <translation>No se pudo encontrar la carta de aproximación %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="441"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="521"/>
         <source>Manually Imported</source>
         <translation>Importado manualmente</translation>
     </message>
@@ -863,48 +863,48 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
 <context>
     <name>DataManagement::Downloadable_MultiFile</name>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="48"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="50"/>
         <source>Visual Approach Chart</source>
         <translation>Carta de aproximación visual</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="51"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="89"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="53"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="91"/>
         <source>Aviation Map</source>
         <translation>Mapa de aviación</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="54"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="95"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="56"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="97"/>
         <source>Base Map</source>
         <translation>Mapa de base</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="57"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="92"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="59"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="94"/>
         <source>Raster Map</source>
         <translation>Mapa ráster</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="60"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="98"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="62"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="100"/>
         <source>Data</source>
         <translation>Datos</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="63"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="104"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="65"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="106"/>
         <source>Terrain Map</source>
         <translation>Mapa del terreno</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="66"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="101"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="68"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="103"/>
         <source>Map Set</source>
         <translation>Conjuntos de mapa</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="107"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="109"/>
         <source>Visual Approach ChartTerrain Map</source>
         <translation>Mapa de terreno de la carta de aproximación visual </translation>
     </message>
@@ -1245,7 +1245,7 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
         <translation type="vanished">Desinstallar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="476"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="484"/>
         <source>Download Error</source>
         <translation>Error de descarga</translation>
     </message>
@@ -1314,52 +1314,52 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
         <translation>Datos</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="300"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="308"/>
         <source>There are no approach charts installed. The &lt;a href=&apos;x&apos;&gt;manual&lt;/a&gt; explains how to install and use them.</source>
         <translation>No hay cartas de aproximación instaladas. El &lt;a href=&apos;x&apos;&gt;manual&lt;/a&gt; explica cómo instalarlos y utilizarlos.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="348"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="356"/>
         <source>&lt;h3&gt;Update required!&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Actualizacion necessaria!&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="369"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="377"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;La lista de mapas disponibles aún no se ha descargado del servidor. Puede reiniciar la descarga manualmente usando el botón de abajo. &lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="400"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="408"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Descarga en curso...&lt;/h3&gt;&lt;p&gt;Por favor espere mientras descargamos la lista de mapas disponibles del servidor...&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="447"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="455"/>
         <source>Download list of maps…</source>
         <translation>Descargar lista de mapas</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="461"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="469"/>
         <source>Update</source>
         <translation>Actualizar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="477"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="485"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;No se pudo descargar la lista de mapas de aviación. &lt;/p&gt;&lt;p&gt;Razón: %1. &lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="486"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="494"/>
         <source>Clear approach chart Library?</source>
         <translation>¿Borrar la biblioteca de las cartas de aproximación visual?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="489"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="497"/>
         <source>Once cleared, the approach charts cannot be restored.</source>
         <translation>Una vez borrados, las cartas de aproximación no se pueden restaurar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="494"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="502"/>
         <source>Approach chart library cleared</source>
         <translation>Biblioteca de cartas de aproximación borrada</translation>
     </message>
@@ -4190,42 +4190,42 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Los datos de georreferenciación del archivo %1 sugieren que la diagonal de la imagen es de más de 50 km, lo que hace poco probable que se trate de una carta de aproximación.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="97"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="102"/>
         <source>The zip archive does not contain the required file &apos;toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translatorcomment>Formatos de archivo::TripKit</translatorcomment>
         <translation>El archivo zip no contiene el archivo requerido &apos;toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="102"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="107"/>
         <source>The file &apos;toc.json&apos; from the zip archive cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translatorcomment>Formatos de archivo::TripKit</translatorcomment>
         <translation>El archivo &apos;toc.json&apos; del archivo zip no se puede interpretar.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="112"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="117"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translatorcomment>Formatos de archivo::TripKit</translatorcomment>
         <translation>El archivo zip %1 no contiene el archivo requerido &apos;charts/charts_toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="117"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="122"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translatorcomment>Formatos de archivo::TripKit</translatorcomment>
         <translation>El archivo &apos;charts/charts_toc.json&apos; del archivo zip %1 no se puede interpretar.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="123"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="128"/>
         <source>The trip kit does not contain any charts.</source>
         <comment>FileFormats::TripKit</comment>
         <translatorcomment>Formatos de archivo::TripKit</translatorcomment>
         <translation>El kit de viaje no contiene mapas.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="152"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="157"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
         <translatorcomment>Formatos de archivo::TripKit</translatorcomment>
