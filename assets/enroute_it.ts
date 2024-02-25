@@ -5199,13 +5199,13 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/fileFormats/MBTILES.cpp" line="39"/>
         <source>Unable to open database connection to MBTILES file.</source>
         <comment>FileFormats::MBTILES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aprire la connessione del database con il file MBTILES.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/MBTILES.cpp" line="46"/>
         <source>Unable to read metadata table from MBTILES file.</source>
         <comment>FileFormats::MBTILES</comment>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile leggere la connessione del database con il file MBTILES.</translation>
     </message>
 </context>
 <context>
