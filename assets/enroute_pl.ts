@@ -2621,42 +2621,42 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="151"/>
         <source>Privacy warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostrzeżenie dotyczące prywatności</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="167"/>
         <source>You have shared a Google Map location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Udostępniłeś lokalizację na Mapie Google.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="168"/>
         <source>In order to find the relevant geographic coordinate, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; must briefly open the website &lt;strong&gt;%1&lt;/strong&gt; in an embedded web browser window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby znaleźć odpowiednie współrzędne geograficzne, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; musi na krótko otworzyć witrynę &lt;strong&gt;%1&lt;/strong&gt; we wbudowanym oknie przeglądarki internetowej.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="169"/>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control this website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorzy &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; nie kontrolują tej witryny.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="170"/>
         <source>They do not know what data it collects or how that data is processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie wiedzą, jakie dane zbiera i w jaki sposób są przetwarzane.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="173"/>
         <source>With the click on OK, you consent to Enroute accessing &lt;strong&gt;%1&lt;/strong&gt; from your device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Klikając OK, wyrażasz zgodę na dostęp Enroute do &lt;strong&gt;%1&lt;/strong&gt; z Twojego urządzenia.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="174"/>
         <source>Click OK only if you agree with the terms and privacy policies of that site.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknij OK tylko wtedy, gdy zgadzasz się z warunkami i polityką prywatności tej witryny.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="192"/>
         <source>Always open external web sites, do not ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Zawsze otwieraj zewnętrzne strony internetowe, nie pytaj ponownie</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="209"/>
@@ -3335,7 +3335,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>As requested by the search-and-rescue community, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to accept location shares from Google Maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgodnie z prośbą społeczności poszukiwawczo-ratowniczej &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; może teraz akceptować udostępnianie lokalizacji z Map Google.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
@@ -5252,7 +5252,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/MapURL.cpp" line="116"/>
         <source>Cannot extract valid coordinates from the URL.</source>
         <comment>FileFormats::CSV</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można wyodrębnić prawidłowych współrzędnych z adresu URL.</translation>
     </message>
 </context>
 <context>
@@ -5522,17 +5522,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="367"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="380"/>
         <source>Show Privacy Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż ostrzeżenia dotyczące prywatności</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="371"/>
         <source>Privacy warnings will be shown again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostrzeżenia dotyczące prywatności zostaną wyświetlone ponownie.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="381"/>
         <source>This entry is visible if you have disabled privacy warnings by selecting &apos;Do not ask again&apos; in an appropriate dialog. Tap on this entry to re-enable all warnings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten element jest widoczny, jeśli wyłączyłeś komunikaty dotyczące prywatności poprzez ustawienie opcji „Nie pytaj ponownie” w wyłączonym oknie dialogowym. Stuknij w ten wpis, aby ponownie włączyć wszystkie powiadomienia.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="398"/>
@@ -6658,22 +6658,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="31"/>
         <source>Google Map View</source>
-        <translation type="unfinished"></translation>
+        <translation>Widok mapy Google</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="85"/>
         <source>This page features an embedded web browser, accessing Google Maps in order to retrieve geographic coordinates for locations defined by Google Map shares.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta strona zawiera wbudowaną przeglądarkę internetową, uzyskującą dostęp do Map Google w celu pobrania współrzędnych geograficznych lokalizacji określonych przez udostępnienia Google Map.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="88"/>
         <source>This page should close automatically within a few seconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta strona powinna zamknąć się automatycznie w ciągu kilku sekund.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="90"/>
         <source>If it remains open for longer than 30 seconds, then either user interaction is required, or the coordinate lookup has failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli pozostaje otwarte dłużej niż 30 sekund, wymagana jest interwencja użytkownika lub wyszukiwanie współrzędnych nie powiodło się.</translation>
     </message>
 </context>
 <context>
