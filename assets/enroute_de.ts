@@ -2606,12 +2606,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="131"/>
         <source>Unable to import text item</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann Text nicht importieren</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="132"/>
         <source>The text item could not be interpreted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieser Text konnte nicht interpretiert werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="161"/>
