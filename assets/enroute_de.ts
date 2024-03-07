@@ -2629,12 +2629,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="178"/>
         <source>You have shared a location with &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sie haben eine Position mit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; geteilt.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="179"/>
         <source>In order to find the relevant geographic coordinate, the website &lt;strong&gt;%1&lt;/strong&gt; must briefly be opened in an embedded web browser window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zum Auffinden der geographischen Koordinaten muss die Webseite &lt;strong&gt;%1&lt;/strong&gt; kurz  in einem eingebetteten Browserfenster geöffnet werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="180"/>
@@ -3350,7 +3350,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>As requested by the search-and-rescue community, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to accept location shares from Google Maps.</source>
-        <translation>Wie von der Search-and-Rescue-Organisation verlangt, kann &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; jetzt geteilte Positionen aus Google Maps verarbeiten.</translation>
+        <translation type="unfinished">Wie von Piloten aus dem Such- und Rettungsdienst vorgeschlagen, kann &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; jetzt Positionsdaten von Google Maps übernehmen.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
@@ -6691,12 +6691,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="31"/>
         <source>Resolve Coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Koordinaten auffinden</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="85"/>
         <source>This page features an embedded web browser, accessing an external web site in order to retrieve geographic coordinates for locations shared with &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Seite öffnet einen eingebetteten Webbrowser, um geografische Koordinaten für Positionen abzurufen, die von anderen Apps mit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; geteilt wurden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="88"/>
