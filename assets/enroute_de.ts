@@ -3350,7 +3350,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>As requested by the search-and-rescue community, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to accept location shares from Google Maps.</source>
-        <translation type="unfinished">Wie von Piloten aus dem Such- und Rettungsdienst vorgeschlagen, kann &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; jetzt Positionsdaten von Google Maps übernehmen.</translation>
+        <translation>Wie von Piloten aus dem Such- und Rettungsdienst vorgeschlagen, kann &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; jetzt Positionsdaten von Google Maps übernehmen.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
