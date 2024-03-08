@@ -2621,12 +2621,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="131"/>
         <source>Unable to import text item</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zaimportować tekstu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="132"/>
         <source>The text item could not be interpreted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zinterpretować tekstu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="162"/>
@@ -2644,12 +2644,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="178"/>
         <source>You have shared a location with &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Udostępniłeś lokalizację dla &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="179"/>
         <source>In order to find the relevant geographic coordinate, the website &lt;strong&gt;%1&lt;/strong&gt; must briefly be opened in an embedded web browser window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby znaleźć odpowiednie współrzędne geograficzne, strona internetowa &lt;strong&gt;%1&lt;/strong&gt; musi być na krótko otwarta we wbudowanym oknie przeglądarki internetowej.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="180"/>
@@ -6684,12 +6684,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="31"/>
         <source>Resolve Coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Określ współrzędne</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="85"/>
         <source>This page features an embedded web browser, accessing an external web site in order to retrieve geographic coordinates for locations shared with &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ta strona zawiera wbudowaną przeglądarkę internetową, która umożliwia dostęp do zewnętrznej witryny internetowej w celu pobrania współrzędnych geograficznych lokalizacji udostępnionych &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="88"/>
