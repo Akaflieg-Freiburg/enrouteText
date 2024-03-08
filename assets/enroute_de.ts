@@ -2739,7 +2739,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="412"/>
         <source>To avoid conflicts, vector maps will be not be shown while raster maps are installed.</source>
-        <translation>Zur Vermeidung von Konflikten werden keine Vektorkarten mehr angezeigt solange Rasterkarten installiert sind.</translation>
+        <translation>Zur Vermeidung von Konflikten werden keine Vektorkarten mehr angezeigt, solange Rasterkarten installiert sind.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="502"/>
