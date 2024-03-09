@@ -1944,42 +1944,42 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="131"/>
         <source>Unable to import text item</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;importer l&apos;élément texte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="132"/>
         <source>The text item could not be interpreted.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;élément texte n&apos; pas pu être importé.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="162"/>
         <source>Privacy warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissement de confidentialité</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="180"/>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control this website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les auteurs de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ne contrôlent pas ce site web.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="181"/>
         <source>They do not know what data it collects or how that data is processed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ils ne peuvent pas savoir quelles données sont collectées et comment elles sont traitées.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="184"/>
         <source>With the click on OK, you consent to Enroute accessing &lt;strong&gt;%1&lt;/strong&gt; from your device.</source>
-        <translation type="unfinished"></translation>
+        <translation>En appuyant sur OK, vous consentez à ce que Enroute accès de à &lt;strong&gt;%1&lt;/strong&gt; sur votre appareil.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="185"/>
         <source>Click OK only if you agree with the terms and privacy policies of that site.</source>
-        <translation type="unfinished"></translation>
+        <translation>Appuyez sur OK si vous êtes d&apos;accord avec les termes de confidentialité de ce site.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="203"/>
         <source>Always open external web sites, do not ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Toujours ouvrir les liens menant vers des sites extérieurs, ne plus me demander</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="220"/>
@@ -2051,12 +2051,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="178"/>
         <source>You have shared a location with &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous avez partagé des coordonnées avec &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="179"/>
         <source>In order to find the relevant geographic coordinate, the website &lt;strong&gt;%1&lt;/strong&gt; must briefly be opened in an embedded web browser window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afin de trouver les coordonnées, le site web &lt;strong&gt;%1&lt;/strong&gt; doit être ouvert dans une nouvelle fenêtre de navigation;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="433"/>
@@ -3856,7 +3856,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/fileFormats/MapURL.cpp" line="146"/>
         <source>Cannot extract valid coordinates from the URL.</source>
         <comment>FileFormats::CSV</comment>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d&apos;extraire les coordonnées depuis l&apos;URL.</translation>
     </message>
 </context>
 <context>
@@ -4015,17 +4015,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="367"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="380"/>
         <source>Show Privacy Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher les avertissements de confidentialité</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="371"/>
         <source>Privacy warnings will be shown again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les avertissements de confidentialité resteront affichés.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="381"/>
         <source>This entry is visible if you have disabled privacy warnings by selecting &apos;Do not ask again&apos; in an appropriate dialog. Tap on this entry to re-enable all warnings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette options est visible car vous avez désactivé les avertissements de confidentialité en choississant &apos;Ne plus demander&apos; dans le dialogue. Appuyez sur cette option pour ré-activer les avertissements.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="398"/>
@@ -5123,7 +5123,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="31"/>
         <source>Resolve Coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation>Résoudre les coordonnées.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="85"/>
@@ -5133,12 +5133,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="88"/>
         <source>This page should close automatically within a few seconds.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette page devrait se fermer automatiquement dans quelques secondes.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="90"/>
         <source>If it remains open for longer than 30 seconds, then either user interaction is required, or the coordinate lookup has failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si cette page reste ouverte plus de 30 secondes, une action de l&apos;utilisateur est requise, ou la recherche de coordonnées a échoué.</translation>
     </message>
 </context>
 <context>
