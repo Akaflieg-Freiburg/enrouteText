@@ -3348,12 +3348,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Die Web-Dienste der Federal Aviation Administration werden von der US-Regierung betrieben und sind jenseits unserer Kontrolle.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="287"/>
+        <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>As requested by the search-and-rescue community, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to accept location shares from Google Maps.</source>
         <translation>Wie von Piloten aus dem Such- und Rettungsdienst vorgeschlagen, kann &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; jetzt Positionsdaten von Google Maps übernehmen.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="288"/>
+        <location filename="../../../src/Librarian.cpp" line="290"/>
         <source>For enhanced privacy, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; routes requests for METAR/TAF and NOTAM data through our servers. This hides your IP address from the web services that provide the data.</source>
         <translation>Zur Verbesserung des Datenschutzes leitet &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; METAR/TAF- und NOTAM-Anfragen über unsere Server. Dies verbirgt Ihre IP-Adresse vor den Web-Diensten, die die Daten liefern.</translation>
     </message>
@@ -3426,7 +3426,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; für iOS steht auf &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt; für einen Betatest bereit. Auch die &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;Homepage dieser App&lt;/a&gt; enthält einen Link zu TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <location filename="../../../src/Librarian.cpp" line="292"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Wir könnten Hilfe bei Werbegrafiken für die App-Stores und bei erklärenden Videos gebrauchen. Sollten Sie das können und uns helfen wollen, hören wir gern von Ihnen!</translation>
     </message>
@@ -5266,7 +5266,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Kann die Metadaten der MBTILES-Datei nicht lesen.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/MapURL.cpp" line="146"/>
+        <location filename="../../../src/fileFormats/MapURL.cpp" line="130"/>
         <source>Cannot extract valid coordinates from the URL.</source>
         <comment>FileFormats::CSV</comment>
         <translation>Kann der URL keine gültigen Koordinaten entnehmen.</translation>

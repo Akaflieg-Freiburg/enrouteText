@@ -3274,12 +3274,12 @@ con i dati del conto bancario.
         <translation>I servizi web presso la Federal Aviation Administration (Amministrazione Federale per l&apos;Aviazione) sono operati dal governo USA e non sono sotto il nostro controllo.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="287"/>
+        <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>As requested by the search-and-rescue community, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to accept location shares from Google Maps.</source>
         <translation>Come richiesto dalla comunità di ricerca-e-soccorso, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è adesso in grado di accettare la condivisione di posizioni da Google Maps.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="288"/>
+        <location filename="../../../src/Librarian.cpp" line="290"/>
         <source>For enhanced privacy, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; routes requests for METAR/TAF and NOTAM data through our servers. This hides your IP address from the web services that provide the data.</source>
         <translation>Per garantire la privacy, METAR/TAF e NOTAM di &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; lungo il piano di volo vengono richiesti attraverso i nostri server. Questo nasconde il tuo indirizzo IP dal servizio web che fornisce i dati.</translation>
     </message>
@@ -3344,7 +3344,7 @@ con i dati del conto bancario.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è disponibileper beta testing pubblico per iOS su&lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;homepage di questa app&lt;/a&gt; contiene anche il link per TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <location filename="../../../src/Librarian.cpp" line="292"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Abbiamo bisogno di grafica promozionale per la app store e con video di spiegazione. Contattaci se sei un artista video/grafico e vorresti aiutare.</translation>
     </message>
@@ -5261,7 +5261,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Impossibile leggere la connessione del database con il file MBTILES.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/MapURL.cpp" line="146"/>
+        <location filename="../../../src/fileFormats/MapURL.cpp" line="130"/>
         <source>Cannot extract valid coordinates from the URL.</source>
         <comment>FileFormats::CSV</comment>
         <translation>Non è possibile estrarre coordinate valide dall&apos;indirizzo.</translation>
