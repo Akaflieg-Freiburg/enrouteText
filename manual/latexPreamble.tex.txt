@@ -1,4 +1,0 @@
-\usepackage{newunicodechar}
-
-\newunicodechar{☰}{\ensuremath{\equiv}}
-
