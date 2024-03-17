@@ -2662,7 +2662,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>As requested by the search-and-rescue community, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to accept location shares from Google Maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>À la demande de la communauté de recherche et de sauvetage, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est désormais en mesure d&apos;accepter les partages de position depuis Google&#xa0;Maps.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="290"/>
@@ -5136,7 +5136,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="85"/>
         <source>This page features an embedded web browser, accessing an external web site in order to retrieve geographic coordinates for locations shared with &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette page comporte un navigateur Web intégré, accédant à un site Web externe afin de récupérer les coordonnées géographiques des emplacements partagés avec &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/URLResolver.qml" line="88"/>
