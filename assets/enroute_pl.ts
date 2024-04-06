@@ -474,33 +474,33 @@ poniżej. &lt;/p&gt;
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="90"/>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="265"/>
         <source>Report a bug or make a suggestion for improvement</source>
-        <translation type="unfinished"></translation>
+        <translation>Zgłoś błąd lub zasugeruj ulepszenia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="93"/>
         <source>We aim to provide high-quality software.</source>
-        <translation type="unfinished"></translation>
+        <translation>Naszym celem jest dostarczanie oprogramowania wysokiej jakości.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="94"/>
         <source>Fixing errors is therefore always our first priority.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dlatego naprawianie błędów jest zawsze naszym priorytetem.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="95"/>
         <source>We are grateful for every report that we get, and we would also like to hear your suggestions for improvement.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jesteśmy wdzięczni za każdy otrzymany raport i chcielibyśmy usłyszeć także Twoje sugestie dotyczące ulepszeń.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="98"/>
         <source>Please choose one of the buttons below, depending on whether you would like to report an issue with the app, or with the aviation data presented by the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wybierz jeden z poniższych przycisków, w zależności od tego, czy chcesz zgłosić problem z aplikacją, czy z danymi lotniczymi prezentowanymi przez aplikację.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="114"/>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="268"/>
         <source>Aviation Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane lotnicze</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="123"/>
@@ -609,37 +609,37 @@ jest na pierwszym miejscu! &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="271"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; displays aviation data provided by the projects &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;http://openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; wyświetla dane lotnicze dostarczone przez projekty &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; i &lt;a href=&apos;http://openflightmaps.org&apos; &gt;open flightmaps&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="272"/>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not have write access to any of these databases.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autorzy &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; nie mają dostępu do zapisu w żadnej z tych baz danych.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="275"/>
         <source>Please contact &lt;a href=&apos;mailto:peter.kemme@openflightmaps.org?subject=Enroute Flight Navigation, Issue Report&apos;&gt;Peter Kemme&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Prosimy o kontakt z &lt;a href=&apos;mailto:peter.kemme@openflightmaps.org?subject=Enroute Flight Navigation, Issue Report&apos;&gt;Peterem Kemme&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="276"/>
         <source>Peter is active in both projects and  has kindly volunteered to help our users in his spare time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Peter jest aktywny w obu projektach i w wolnym czasie zgłosił się na ochotnika, aby pomagać naszym użytkownikom.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="277"/>
         <source>Peter speaks English and German.</source>
-        <translation type="unfinished"></translation>
+        <translation>Peter mówi po angielsku i niemiecku.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="285"/>
         <source>Send E-Mail</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysłać email</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="294"/>
         <source>Thank you for your help!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dziękuję za pomoc!</translation>
     </message>
     <message>
         <source>
@@ -1585,7 +1585,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="116"/>
         <source>Rename</source>
-        <translation type="unfinished">Zmień nazwę</translation>
+        <translation>Zmień nazwę</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="128"/>
@@ -1619,12 +1619,12 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="235"/>
         <source>Import files</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuj pliki</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="236"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź swój plik w przeglądarce, wybierz opcję „Otwórz za pomocą” z menu udostępniania i wybierz opcję Enroute</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="247"/>
@@ -2189,12 +2189,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="266"/>
         <source>Import files</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuj pliki</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="267"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź swój plik w przeglądarce, wybierz opcję „Otwórz za pomocą” z menu udostępniania i wybierz opcję Enroute</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="277"/>
@@ -2624,52 +2624,52 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="109"/>
         <source>Unable to open TripKit file &lt;strong&gt;%1&lt;/strong&gt;. Error: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć pliku TripKit &lt;strong&gt;%1&lt;/strong&gt;. Błąd: %2.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="143"/>
         <source>Error reading TripKip: No charts imported.</source>
-        <translation type="unfinished">Błąd odczytu TripKip: Nie zaimportowano diagramów.</translation>
+        <translation>Błąd odczytu TripKip: Nie zaimportowano diagramów.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="147"/>
         <source>Error reading TripKip: Only %1 out of %2 charts were successfully imported.</source>
-        <translation type="unfinished">Błąd odczytu TripKip: Tylko %1 z %2 diagramów zostało poprawnie zaimportowanych.</translation>
+        <translation>Błąd odczytu TripKip: Tylko %1 z %2 diagramów zostało poprawnie zaimportowanych.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="162"/>
         <source>Input file &lt;strong&gt;%1&lt;/strong&gt; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik wejściowy &lt;strong&gt;%1&lt;/strong&gt; nie istnieje.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="167"/>
         <source>Input file &lt;strong&gt;%1&lt;/strong&gt; does not contain a valid chart.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik wejściowy &lt;strong&gt;%1&lt;/strong&gt; nie zawiera prawidłowego wykresu.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="172"/>
         <source>Unable to read raster image data from the input file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można odczytać danych obrazu rastrowego z pliku wejściowego &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="199"/>
         <source>Error: Unable to copy the VAC file &lt;strong&gt;%1&lt;/strong&gt; to destination &lt;strong&gt;%2&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd: Nie można skopiować pliku VAC &lt;strong&gt;%1&lt;/strong&gt; do miejsca docelowego &lt;strong&gt;%2&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="206"/>
         <source>Error: Unable to write the VAC file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd: Nie można zapisać pliku VAC &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="249"/>
         <source>VAC &lt;strong&gt;%1&lt;/strong&gt; does not exist.</source>
-        <translation type="unfinished"></translation>
+        <translation>VAC &lt;strong&gt;%1&lt;/strong&gt; nie istnieje.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="256"/>
         <source>VAC file renaming failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmiana nazwy pliku VAC nie powiodła się.</translation>
     </message>
 </context>
 <context>
@@ -5273,25 +5273,25 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="195"/>
         <source>Invalid data for tag 34264.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowe dane dla tagu 34264.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="212"/>
         <source>No raster size data.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych o rozmiarze rastra.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="218"/>
         <source>No transformation data.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Brak danych transformacji.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="234"/>
         <source>Invalid coordinate data.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nieprawidłowe dane współrzędnych.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="99"/>
@@ -5401,103 +5401,103 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/TIFF.cpp" line="59"/>
         <source>Found corrupt data while reading the data stream.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Wykryto uszkodzone dane podczas odczytu strumienia danych.</translation>
+        <translation>Wykryto uszkodzone dane podczas odczytu strumienia danych.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="61"/>
         <source>Read past end of data stream.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Odczyt poza zakresem danych strumienia.</translation>
+        <translation>Odczyt poza zakresem danych strumienia.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="63"/>
         <source>Error writing to data stream.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Błąd zapisu do strumienia danych.</translation>
+        <translation>Błąd zapisu do strumienia danych.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="124"/>
         <source>Found invalid TIFF file data.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Znaleziono nipoprawne dane pliku TIFF.</translation>
+        <translation>Znaleziono nipoprawne dane pliku TIFF.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="132"/>
         <source>BigTIFF files are not supported.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Duże pliki TIFF nie są wspierane.</translation>
+        <translation>Duże pliki TIFF nie są wspierane.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="136"/>
         <source>Found an unsupported TIFF version.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Znaleziono niewspieraną wersję TIFF.</translation>
+        <translation>Znaleziono niewspieraną wersję TIFF.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="153"/>
         <source>Found more than 100 tags in the TIFF file. Reading only the first 100.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Znaleziono ponad 100 tagów w pliku TIFF. Odczytywanie tylko pierwszych 100.</translation>
+        <translation>Znaleziono ponad 100 tagów w pliku TIFF. Odczytywanie tylko pierwszych 100.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="243"/>
         <source>Cannot read data.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Nie można odczytać danych.</translation>
+        <translation>Nie można odczytać danych.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="295"/>
         <source>No data for tag 256.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Brak danych dla tagu 256.</translation>
+        <translation>Brak danych dla tagu 256.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="301"/>
         <source>Invalid data for tag 256.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Niepoprawne dane dla tagu 256.</translation>
+        <translation>Niepoprawne dane dla tagu 256.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="306"/>
         <source>Tag 256 is not set.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Tag 256 nie jest ustawiony.</translation>
+        <translation>Tag 256 nie jest ustawiony.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="318"/>
         <source>No data for tag 257.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Brak danych dla tagu 257.</translation>
+        <translation>Brak danych dla tagu 257.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="324"/>
         <source>Invalid data for tag 257.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Niepoprawne dane dla tagu 257.</translation>
+        <translation>Niepoprawne dane dla tagu 257.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="329"/>
         <source>Tag 257 is not set.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished">Tag 257 nie jest ustawiony.</translation>
+        <translation>Tag 257 nie jest ustawiony.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="78"/>
         <source>Installed</source>
         <comment>VAC</comment>
-        <translation type="unfinished">Zainstalowana</translation>
+        <translation>Zainstalowana</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="80"/>
         <source>File Size</source>
         <comment>VAC</comment>
-        <translation type="unfinished">Rozmiar pliku</translation>
+        <translation>Rozmiar pliku</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="86"/>
         <source>manually imported</source>
         <comment>VAC</comment>
-        <translation type="unfinished">ręcznie zaimportowany</translation>
+        <translation>ręcznie zaimportowany</translation>
     </message>
 </context>
 <context>
@@ -7405,12 +7405,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="105"/>
         <source>Import files</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuj pliki</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="106"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź swój plik w przeglądarce, wybierz opcję „Otwórz za pomocą” z menu udostępniania i wybierz opcję Enroute</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="117"/>
