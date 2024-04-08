@@ -6106,22 +6106,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Verkehrsdatenempfänger</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="443"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="444"/>
         <source>Receiving heartbeat.</source>
         <translation>Empfange Heartbeat</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="446"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="447"/>
         <source>Receiving position info.</source>
         <translation>Empfange Positionsdaten.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="450"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="451"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Empfange barometrische Höhe.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="457"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="458"/>
         <source>Not receiving heartbeat.</source>
         <translation>Empfange keinen Heartbeat</translation>
     </message>

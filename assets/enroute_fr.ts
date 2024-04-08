@@ -4566,22 +4566,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Récepteur de traffic</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="443"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="444"/>
         <source>Receiving heartbeat.</source>
         <translation>Réception.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="446"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="447"/>
         <source>Receiving position info.</source>
         <translation>Réception des information sur la position.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="450"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="451"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Réception de l&apos;altitude baramétrique.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="457"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="458"/>
         <source>Not receiving heartbeat.</source>
         <translation>Aucune réception.</translation>
     </message>

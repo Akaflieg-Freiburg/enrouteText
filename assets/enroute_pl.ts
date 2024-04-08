@@ -6099,22 +6099,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Odbiornik danych ruchu lotniczego</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="443"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="444"/>
         <source>Receiving heartbeat.</source>
         <translation>Odbieranie odświeżenia.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="446"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="447"/>
         <source>Receiving position info.</source>
         <translation>Odbieranie informacji o pozycji.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="450"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="451"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Odbieranie informacji o wysokości barometrycznej.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="457"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="458"/>
         <source>Not receiving heartbeat.</source>
         <translation>Brak odbioru odświeżenia.</translation>
     </message>

@@ -6095,22 +6095,22 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Dati del ricevitore di traffico</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="443"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="444"/>
         <source>Receiving heartbeat.</source>
         <translation>Rilevazione dei battiti.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="446"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="447"/>
         <source>Receiving position info.</source>
         <translation>Ricezione informazioni di posizione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="450"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="451"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Ricezione info barometriche di altitudine.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="457"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="458"/>
         <source>Not receiving heartbeat.</source>
         <translation>Mancata rilevazione dei battiti.</translation>
     </message>

@@ -5213,22 +5213,22 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Receptor de datos de tráfico</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="443"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="444"/>
         <source>Receiving heartbeat.</source>
         <translation>Recibiendo pulcaciones.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="446"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="447"/>
         <source>Receiving position info.</source>
         <translation>Recibiendo información de posición</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="450"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="451"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Recibiendo información de altitud barométrica.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="457"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="458"/>
         <source>Not receiving heartbeat.</source>
         <translation>No se estan recibiendo pulcaciones.</translation>
     </message>
