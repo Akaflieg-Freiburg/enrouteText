@@ -3388,12 +3388,12 @@ con i dati del conto bancario.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
-        <source>The moving map has been updated to follow the style of the ICAO maps more closely.  Vertical airspace boundaries are now shown directly in the map.</source>
+        <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
-        <source>In addition to distance and QUJ, the app now shows the gliding ration required to reach a waypoint (arrival height 300 m AGL, no consideration of terrain).</source>
+        <source>In addition to distance and QUJ, the app shows the gliding ratio required to reach a waypoint (arrival height 300 m AGL, no terrain consideration).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
