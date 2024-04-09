@@ -2948,14 +2948,22 @@ con los datos de la cuenta bancaria.</translation>
         <translation>Los servicios web de la Administración Federal de Aviación son operados por el gobierno de EE. UU. y están fuera de nuestro control.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="288"/>
-        <source>As requested by the search-and-rescue community, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to accept location shares from Google Maps.</source>
-        <translation>Según lo solicitado por la comunidad de búsqueda y rescate, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ahora puede aceptar ubicaciones compartidas de Google Maps.</translation>
+        <location filename="../../../src/Librarian.cpp" line="287"/>
+        <source>The moving map has been updated to follow the style of the ICAO maps more closely.  Vertical airspace boundaries are now shown directly in the map.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <location filename="../../../src/Librarian.cpp" line="288"/>
+        <source>In addition to distance and QUJ, the app now shows the gliding ration required to reach a waypoint (arrival height 300 m AGL, no consideration of terrain).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>As requested by the search-and-rescue community, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to accept location shares from Google Maps.</source>
+        <translation type="vanished">Según lo solicitado por la comunidad de búsqueda y rescate, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ahora puede aceptar ubicaciones compartidas de Google Maps.</translation>
+    </message>
+    <message>
         <source>For enhanced privacy, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; routes requests for METAR/TAF and NOTAM data through our servers. This hides your IP address from the web services that provide the data.</source>
-        <translation>Para mayor privacidad, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; enruta solicitudes de datos METAR/TAF y NOTAM a través de nuestros servidores. Esto oculta su dirección IP de los servicios web que proporcionan los datos.</translation>
+        <translation type="vanished">Para mayor privacidad, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; enruta solicitudes de datos METAR/TAF y NOTAM a través de nuestros servidores. Esto oculta su dirección IP de los servicios web que proporcionan los datos.</translation>
     </message>
     <message>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
@@ -3018,7 +3026,7 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; para iOS está disponible para pruebas beta públicas en &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;página de inicio de esta aplicación&lt;/a&gt; también contiene un enlace a TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="292"/>
+        <location filename="../../../src/Librarian.cpp" line="289"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Necesitamos ayuda con gráficos promocionales para los app stores y con videos explicativos. Si eres un artista gráfico o de video y te gustaría ayudar, por favor ponte en contacto.</translation>
     </message>
@@ -3529,17 +3537,18 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
         <translation type="vanished">REP</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Nearby.qml" line="93"/>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="94"/>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="115"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aerodrome data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay datos de aeródromo disponibles. Asegúrese de tener instalado un mapa de aviación.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Nearby.qml" line="114"/>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="136"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No navaid data available.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay datos de ayuda a la navegación disponibles.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Nearby.qml" line="135"/>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="157"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No reporting point data available.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay datos de puntos de notificación disponibles.&lt;/p&gt;</translation>
     </message>
@@ -4182,27 +4191,27 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="167"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="200"/>
         <source>Unable to open the file &apos;%1&apos; for reading.</source>
         <translation>No se puede abrir el archivo &apos;%1&apos; para leerlo.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="183"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="216"/>
         <source>JSON document contains no data.</source>
         <translation>El documento JSON no contiene datos</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="187"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="220"/>
         <source>JSON document does not describe an aircraft.</source>
         <translation>El documento JSON no describe un avión.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="225"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="258"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>No se puede abrir el archivo &apos;%1&apos; para escribir.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="231"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="264"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>No se puede escribir en el archivo &apos;%1&apos;.</translation>
     </message>
