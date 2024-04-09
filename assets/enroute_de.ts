@@ -3463,12 +3463,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Moving Map nähert sich nach einem Update dem Stil der ICAO-Karten an. Vertikale Luftraumgrenzen werden dort nun direkt angezeigt.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>In addition to distance and QUJ, the app shows the gliding ratio required to reach a waypoint (arrival height 300 m AGL, no terrain consideration).</source>
-        <translation type="unfinished"></translation>
+        <translation>Zusätzlich zu Entfernung und QUJ zeigt die App die Gleitzahl an, mit der ein Wegpunkt erreicht werden kann (Ankunftshöhe 300 m AGL ohne Berücksichtigung des Geländes).</translation>
     </message>
     <message>
         <source>As requested by the search-and-rescue community, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to accept location shares from Google Maps.</source>
