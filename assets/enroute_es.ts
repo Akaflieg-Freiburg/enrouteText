@@ -9778,22 +9778,22 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Actualización necessaria</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="774"/>
+        <location filename="../../../src/qml/main.qml" line="778"/>
         <source>Connected to traffic receiver.</source>
         <translation>Connectado al receptor de tráfico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="776"/>
+        <location filename="../../../src/qml/main.qml" line="780"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Conexión pérdida con el receptor de tráfico.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="825"/>
+        <location filename="../../../src/qml/main.qml" line="829"/>
         <source>Exit…?</source>
         <translation>Salida...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="826"/>
+        <location filename="../../../src/qml/main.qml" line="830"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Quiere salir de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
@@ -9804,42 +9804,42 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Que hay de nuevo...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="862"/>
+        <location filename="../../../src/qml/main.qml" line="866"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Ahora mostrando espacios aéreos hasta %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="864"/>
+        <location filename="../../../src/qml/main.qml" line="868"/>
         <source>Now showing all airspaces.</source>
         <translation>Ahora mostrando todos los espacios aéreos.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="898"/>
+        <location filename="../../../src/qml/main.qml" line="902"/>
         <source>You have chosen to ignore network security errors in the future.</source>
         <translation>Ha elegido ignorar los errores de seguridad de la red en el futuro.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="899"/>
+        <location filename="../../../src/qml/main.qml" line="903"/>
         <source>This poses a security risk.</source>
         <translation>Esto supone un riesgo de seguridad.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="900"/>
+        <location filename="../../../src/qml/main.qml" line="904"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Vaya a la página &quot;Configuración&quot; si desea restaurar el comportamiento original y seguro de esta aplicación.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="930"/>
+        <location filename="../../../src/qml/main.qml" line="934"/>
         <source>Error!</source>
         <translation>¡Error!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="944"/>
+        <location filename="../../../src/qml/main.qml" line="948"/>
         <source>Starting map update</source>
         <translation>Iniciando actualización de mapas</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="885"/>
+        <location filename="../../../src/qml/main.qml" line="889"/>
         <source>Network security error</source>
         <translation>Error de seguridad de la red</translation>
     </message>
@@ -9849,7 +9849,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Posicionamiento de navegación por satélite</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="897"/>
+        <location filename="../../../src/qml/main.qml" line="901"/>
         <source>Network security settings</source>
         <translation>Configuración de seguridad de la red</translation>
     </message>

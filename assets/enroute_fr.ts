@@ -8960,22 +8960,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Mise à jour requise !</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="774"/>
+        <location filename="../../../src/qml/main.qml" line="778"/>
         <source>Connected to traffic receiver.</source>
         <translation>Connecté au récepteur de traffic.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="776"/>
+        <location filename="../../../src/qml/main.qml" line="780"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Connexion au récepteur de traffic perdue.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="825"/>
+        <location filename="../../../src/qml/main.qml" line="829"/>
         <source>Exit…?</source>
         <translation>Quitter ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="826"/>
+        <location filename="../../../src/qml/main.qml" line="830"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Voulez-vous vraiment quitter &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ?</translation>
     </message>
@@ -8986,47 +8986,47 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Nouveautés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="862"/>
+        <location filename="../../../src/qml/main.qml" line="866"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Affichage des espaces aériens jusqu&apos;à %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="864"/>
+        <location filename="../../../src/qml/main.qml" line="868"/>
         <source>Now showing all airspaces.</source>
         <translation>Affichage de tous les espaces aériens.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="898"/>
+        <location filename="../../../src/qml/main.qml" line="902"/>
         <source>You have chosen to ignore network security errors in the future.</source>
         <translation>Vous avez choisi d&apos;ignorer les prochaines erreurs de sécurité réseau.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="899"/>
+        <location filename="../../../src/qml/main.qml" line="903"/>
         <source>This poses a security risk.</source>
         <translation>Risque de sécurité.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="900"/>
+        <location filename="../../../src/qml/main.qml" line="904"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Allez sur la page &apos;Réglages&apos; si vous souhaitez restaurer les paramètres originaux et sécurisé de l&apos;application.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="930"/>
+        <location filename="../../../src/qml/main.qml" line="934"/>
         <source>Error!</source>
         <translation>Erreur!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="944"/>
+        <location filename="../../../src/qml/main.qml" line="948"/>
         <source>Starting map update</source>
         <translation>Mise à jour des cartes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="885"/>
+        <location filename="../../../src/qml/main.qml" line="889"/>
         <source>Network security error</source>
         <translation>Erreur de sécurité réseau</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="897"/>
+        <location filename="../../../src/qml/main.qml" line="901"/>
         <source>Network security settings</source>
         <translation>Paramètres de sécurité réseau</translation>
     </message>
