@@ -3466,12 +3466,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ruchoma mapa została zaktualizowana, aby bardziej odzwierciedlała styl map ICAO. Pionowe granice przestrzeni powietrznej są teraz wyświetlane bezpośrednio na mapie.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>In addition to distance and QUJ, the app shows the gliding ratio required to reach a waypoint (arrival height 300 m AGL, no terrain consideration).</source>
-        <translation type="unfinished"></translation>
+        <translation>Oprócz odległości i QUJ aplikacja pokazuje współczynnik szybowania wymagany do dotarcia do punktu orientacyjnego (wysokość dolotu 300 m AGL, bez uwzględnienia terenu).</translation>
     </message>
     <message>
         <source>As requested by the search-and-rescue community, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to accept location shares from Google Maps.</source>
