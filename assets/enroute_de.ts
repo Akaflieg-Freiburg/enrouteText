@@ -4315,7 +4315,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="115"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Wegpunkte vorhanden.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="137"/>
