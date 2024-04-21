@@ -2667,7 +2667,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="256"/>
         <source>VAC file renaming failed.</source>
-        <translation type="unfinished">Impossibile rinominare il file VAC.</translation>
+        <translation>Impossibile rinominare il file VAC.</translation>
     </message>
 </context>
 <context>
@@ -4317,7 +4317,7 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="115"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Mi dispiace!&lt;/h3&gt;&lt;p&gt;Non ci sono waypoints disponibili.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="137"/>
