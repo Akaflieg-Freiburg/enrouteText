@@ -5828,7 +5828,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="274"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is therefore able to read notification texts in addition to showing them on the screen.</source>
-        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ist kann daher Benachrichtigungen zusätzlich zur Bildschirmanzeige auch vorlesen.</translation>
+        <translation type="unfinished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; kann daher Benachrichtigungen zusätzlich zur Bildschirmanzeige auch vorlesen.</translation>
     </message>
     <message>
         <source>Since we expect that not everybody likes this feature, his button allows switching voice notification on and off.</source>
