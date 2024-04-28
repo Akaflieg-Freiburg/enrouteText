@@ -3032,7 +3032,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="32"/>
         <source>Nearby Waypoints</source>
-        <translation>A proximité</translation>
+        <translation>Points de route à proximité</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="93"/>
@@ -3042,7 +3042,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="115"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Désolé&#xa0;!&lt;/h3&gt;&lt;p&gt;Aucun point de route disponible.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="137"/>
