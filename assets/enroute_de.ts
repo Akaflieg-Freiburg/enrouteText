@@ -4093,12 +4093,12 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="70"/>
         <source>Showing Alitude Above Ground Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Höhe über Grund an</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="72"/>
         <source>Showing Alitude Above Main Sea Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Höhe über dem Meer (MSL) an</translation>
     </message>
 </context>
 <context>
