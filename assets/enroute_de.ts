@@ -6,7 +6,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="32"/>
         <source>Add Bluetooth Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth-Gerät hinzufügen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="43"/>
@@ -6910,42 +6910,43 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="121"/>
         <source>The socket is querying connection parameters.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Der Anschluss fragt nach Verbindungsparametern.</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="124"/>
         <source>The socket is attempting to connect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Anschluss versucht sich zu verbinden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="127"/>
         <source>The socket is connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Anschluss wurde verbunden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="130"/>
         <source>The socket is bound to a local address and port.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Anschluss ist mit lokaler Adresse und lokalem Port verbunden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="133"/>
         <source>The socket is connected and will be closed once all pending data is written to the socket.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Anschluss ist verbunden und wird geschlossen werden, sobald alle anstehenden Daten dorthin geschrieben wurden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="136"/>
         <source>The socket is listening for incoming connections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Anschluss wartet auf eingehende Verbindungen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="155"/>
         <source>Unnamed Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerät ohne Namen</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="157"/>
         <source>Bluetooth Classic connection to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth-Classic-Verbindung zu %1</translation>
     </message>
 </context>
 <context>
@@ -6953,97 +6954,97 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="79"/>
         <source>An unknown error has occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbekannter Fehler aufgetreten.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="82"/>
         <source>The remote Bluetooth Low Energy device with the address passed to the constructor of this class cannot be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Klassenkonstruktor kann die Adresse nicht finden, die vom entfernten Bluetooth-Low-Energy-Gerät angegeben wurde.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="85"/>
         <source>The attempt to read from or write to the remote device failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schreibt–/Leseversuche zum bzw. vom entfernten Gerät sind fehlgeschlagen. </translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="88"/>
         <source>The local Bluetooth device with the address passed to the constructor of this class cannot be found or there is no local Bluetooth device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Es gibt kein lokales Bluetooth-Gerät, oder seine übermittelte Adresse kann vom Konstruktor dieser Klasse nicht gefunden werden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="91"/>
         <source>The attempt to connect to the remote device failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbindungsversuch mit entferntem Gerät fehlgeschlagen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="94"/>
         <source>The attempt to start advertising failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Versuch, Werbung zu starten, ist fehlgeschlagen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="97"/>
         <source>The remote device closed the connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das entfernte Gerät hat die Verbindung beendet.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="100"/>
         <source>The local Bluetooth device closed the connection due to insufficient authorization.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das lokale Bluetooth-Gerät hat die Verbindung wegen ungenügender Berechtigungen geschlossen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="103"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Betriebssystem verlangt Berechtigungen, die vom Benutzer nicht gewährt wurden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="106"/>
         <source>An attempt to read RSSI (received signal strength indicator) of a remote device finished with error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ein Versuch, RSSI (received signal strength indicator) von einem entfernten Gerät zu lesen, endete mit einem Fehler.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="118"/>
         <source>The controller is not connected to a remote device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Controller ist nicht mit einem entfernten Gerät verbunden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="121"/>
         <source>The controller is attempting to connect to a remote device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Controller versucht sich mit einem entfernten Gerät zu verbinden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="124"/>
         <source>The controller is connected to a remote device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Controller ist mit einem entfernten Gerät verbunden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="127"/>
         <source>The controller is retrieving the list of services offered by the remote device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Controller ruft ab, welche Dienste das entfernte Gerät anbietet.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="130"/>
         <source>The controller has discovered all services offered by the remote device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Controller kennt jetzt alle Dienste, die das entfernte Gerät anbietet.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="133"/>
         <source>The controller is about to be disconnected from the remote device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Controller wird gleich die Verbindung zum entfernten Gerät lösen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="136"/>
         <source>The controller is currently advertising data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Controller kündigt im Moment Daten an.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="152"/>
         <source>Unnamed Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerät ohne Namen</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="154"/>
         <source>Bluetooth LE connection to %1 (not implemented yet, please ignore)</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth LE-Verbindung zu %1 (noch nicht implementiert, bitte ignorieren)</translation>
     </message>
 </context>
 <context>
@@ -7170,7 +7171,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Udp.cpp" line="95"/>
         <source>Receiving Data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfangene Daten.</translation>
     </message>
 </context>
 <context>
@@ -7397,22 +7398,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="188"/>
         <source>Disconnecting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Löse die Verbindung ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="190"/>
         <source>Reconnecting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbinde erneut ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="191"/>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbinde erneut</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="215"/>
         <source>Configure Data Connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguriere Datenverbindungen</translation>
     </message>
     <message>
         <source>Connect</source>
