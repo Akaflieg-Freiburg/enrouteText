@@ -11,32 +11,32 @@
     <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="43"/>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="51"/>
         <source>No Device Found</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Gerät gefunden</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="80"/>
         <source>Adding Connection: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Füge verbindung %1 hinzu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="89"/>
         <source>Scanning…</source>
-        <translation type="unfinished"></translation>
+        <translation>Scanne…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="89"/>
         <source>Scan for Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Scanne nach Geräten</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="99"/>
         <source>Error Adding Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler beim Hinzufügen eines Geräts</translation>
     </message>
 </context>
 <context>
@@ -927,42 +927,42 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="34"/>
         <source>Data Connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenverbindungen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="90"/>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="111"/>
         <source>Remove…</source>
-        <translation type="unfinished"></translation>
+        <translation>Entfernen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="114"/>
         <source>Removing Connection: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Entferne Verbindung %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="136"/>
         <source>Disconnecting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Löse Verbindung...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="138"/>
         <source>Reconnecting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbinde erneut ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="139"/>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbinde erneut</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="163"/>
         <source>Add Bluetooth Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth-Gerät hinzufügen</translation>
     </message>
 </context>
 <context>
@@ -5608,91 +5608,92 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="45"/>
         <source>Unnamed Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gerät ohne Namen</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="55"/>
         <source>Bluetooth Low Energy Device (unsupported)</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Low-Energy-Bluetooth-Gerät (nicht unterstützt)</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="62"/>
         <source>Miscellaneous Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>???</translatorcomment>
+        <translation>Verschiedenerlei Gerät</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="65"/>
         <source>Computer or PDA Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Computer oder PDA</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="68"/>
         <source>Telephone Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Telefon</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="71"/>
         <source>Network Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Netzwerkgerät</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="74"/>
         <source>Audio/Video Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Audio/Video-Gerät</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="77"/>
         <source>Peripheral Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Peripheriegerät</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="80"/>
         <source>Imaging Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Bildgebendes Gerät</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="83"/>
         <source>Wearable Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Wearable</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="86"/>
         <source>Toy Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Spielzeug</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="89"/>
         <source>Health Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gesundheitsgerät</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="92"/>
         <source>Uncategorized Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Gerät ohne Einordnung</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="97"/>
         <source>Serial Port Service</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dienst am seriellen Port</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.h" line="237"/>
         <source>Invalid Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiges Gerät</translation>
     </message>
 </context>
 <context>
@@ -6041,17 +6042,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="293"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="305"/>
         <source>Data Connections</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenverbindungen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="306"/>
         <source>Configure data connections to peripheral devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfiguriere Datenverbindungen zu Peripheriegeräten.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="307"/>
         <source>Use this item to register traffic data receivers that connect via Bluetooth.</source>
-        <translation type="unfinished"></translation>
+        <translation>Registrieren Sie hier Verkehrsdatenempfänger, die über Bluetooth arbeiten.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="358"/>
@@ -6296,72 +6297,72 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="33"/>
         <source>Due to platform limitations, Bluetooth is not supported on iOS.</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS unterstützt hier keine Bluetooth-Geräte.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="53"/>
         <source>Waiting for permissions.</source>
-        <translation type="unfinished"></translation>
+        <translation>Warte auf Berechtigungen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="55"/>
         <source>Necessary permissions have been denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die nötigen Berechtigungen wurden verweigert.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="63"/>
         <source>No Bluetooth adaptor has been found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Bluetooth-Adapter gefunden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="67"/>
         <source>Bluetooth is powered off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth ist ausgeschaltet.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="108"/>
         <source>The Bluetooth adaptor is powered off. Power it on before doing discovery.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Bluetooth-Adapter ist ausgeschaltet. Bitte zunächst einschalten.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="111"/>
         <source>Read/Write error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Schreib-/Lesefehler.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="114"/>
         <source>Invalid Bluetooth adaptor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiger Bluetooth-Adapter.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="117"/>
         <source>Device discovery is not possible or implemented on the current platform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Gerät kann auf der aktuellen Plattform nicht gefunden werden oder ist nicht implementiert.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="120"/>
         <source>One of the requested discovery methods is not supported by the current platform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Eine der gewünschten Erkennungsmethoden wird von der aktuellen Plattform nicht unterstützt.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="123"/>
         <source>The location service is turned off. Usage of Bluetooth is not possible when location service is turned off.</source>
-        <translation type="unfinished"></translation>
+        <translation>Der Ortungsdienst ist ausgeschaltet. Dies verhindert die Bluetooth-Nutzung.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="126"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Betriebssystem verlangt Berechtigungen, die der Benutzer nicht gewährt hat.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="129"/>
         <source>An unknown error has occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbekannter Fehler aufgetreten.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="157"/>
         <source>Necessary permission have been denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erforderliche Berechtigungen wurden verweigert.</translation>
     </message>
 </context>
 <context>
@@ -6384,27 +6385,27 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="118"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="35"/>
         <source>Invalid connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Verbindung.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="123"/>
         <source>Unable to add TCP connection. This is not implemented at the moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann keine TCP-Verbindung hinzufügen. Diese ist zzt. nicht implementiert.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="125"/>
         <source>Unable to add UDP connection. This is not implemented at the moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann keine UDP-Verbindung hinzufügen. Diese ist zzt. nicht implementiert.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="127"/>
         <source>Unable to add serial port connection. This is not implemented at the moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann keine serielle Verbindung hinzufügen. Diese ist zzt. nicht implementiert.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="129"/>
         <source>Unable to add FLARM simulator file connection. This is not implemented at the moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kann keine Verbindung zur FLARM-Simulatordatei hinzufügen. Diese ist zzt. nicht implementiert.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="541"/>
@@ -6424,7 +6425,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="555"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Empfange über keine konfigurierte Datenverbindung den Heartbeat eines Verkehrsdatenempfängers.</translation>
     </message>
     <message>
         <source>Not receiving heartbeat.</source>
@@ -6433,17 +6434,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="28"/>
         <source>Due to platform limitation, connections to Bluetooth Classic devices are not supported in iOS.</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS unterstützt hier keine Verbindungen zu Bluetooth-Classic-Geräten.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="46"/>
         <source>A connection to this device already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zu diesem Gerät besteht schon eine Verbindung.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothLowEnergy.cpp" line="26"/>
         <source>Connections to Bluetooth Low Energy devices are currently not supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbindungen zu Low-Energy-Bluetooth-Geräten werden zzt. nicht unterstützt.</translation>
     </message>
 </context>
 <context>
@@ -6849,62 +6850,62 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="48"/>
         <source>Due to platform limitations, Bluetooth Classic is not supported on iOS.</source>
-        <translation type="unfinished"></translation>
+        <translation>iOS unterstützt Bluetooth Classic nicht.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="58"/>
         <source>Necessary permission have been denied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erforderliche Berechtigungen wurden verweigert.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="83"/>
         <source>An unknown error has occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unbekannter Fehler aufgetreten.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="86"/>
         <source>No error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Fehler.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="89"/>
         <source>Could not find the remote host.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konnte entfernten Host nicht finden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="92"/>
         <source>Could not find the service UUID on remote host.</source>
-        <translation type="unfinished"></translation>
+        <translation>Konnte den Dienst UUID auf dem entfernten Host nicht finden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="95"/>
         <source>Attempt to read or write from socket returned an error</source>
-        <translation type="unfinished"></translation>
+        <translation>Schreib- oder Leseversuch ergab Socket-Fehler</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="98"/>
         <source>The Protocol is not supported on this platform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Plattform untertützt das Protokoll nicht.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="101"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
-        <translation type="unfinished">Eine Operation wurde versucht, während der Socket in einem Status war, der das nicht zuließ.</translation>
+        <translation>Eine Operation wurde versucht, während der Socket in einem Status war, der das nicht zuließ.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="104"/>
         <source>The remote host closed the connection.</source>
-        <translation type="unfinished">Die Gegenseite hat die Verbindung geschlossen.</translation>
+        <translation>Die Gegenseite hat die Verbindung geschlossen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="107"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Betriebssystem verlangte Berechtigungen, die der Benutzer nicht gewährte.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="118"/>
         <source>The socket is not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Anschluss nicht verbunden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="121"/>
