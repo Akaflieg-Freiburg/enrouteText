@@ -3544,7 +3544,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to connected to your traffic data receiver via Bluetooth radio. At the moment, Enroute supports only the &apos;Bluetooth Classic&apos; radio standard, &apos;Bluetooth Low Energy&apos; is are not supported. Due to platform limitations, Bluetooth is not supported on iOS devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; kann nun über Bluetooth mit Ihrem Verkehrsdatenempfänger verbunden werden. Bisher unterstützt Enroute nur den Funkstandard &apos;Bluetooth Classic&apos;, aber nicht &apos;Bluetooth Low Energy&apos;. Wegen Beschränkungen der Plattform iOS wird Bluetooth auf solchen Geräten nicht unterstützt.</translation>
     </message>
     <message>
         <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
