@@ -6000,12 +6000,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="58"/>
         <source>Necessary permission have been denied.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Se ha negado el permiso necesario.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="83"/>
         <source>An unknown error has occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un error desconocido a ocurrido.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="86"/>
@@ -6045,7 +6045,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="107"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El sistema operativo solicita permisos que no fueron otorgados por el usuario.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="118"/>
@@ -6085,7 +6085,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="155"/>
         <source>Unnamed Device</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dispositivo sin nombre</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="157"/>
@@ -6098,7 +6098,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="79"/>
         <source>An unknown error has occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Un error desconocido a ocurrido.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="82"/>
@@ -6138,7 +6138,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="103"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">El sistema operativo solicita permisos que no fueron otorgados por el usuario.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="106"/>
@@ -6183,7 +6183,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="152"/>
         <source>Unnamed Device</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dispositivo sin nombre</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="154"/>
@@ -6542,17 +6542,17 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="188"/>
         <source>Disconnecting...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Desconectando...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="190"/>
         <source>Reconnecting...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reconectando...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="191"/>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Reconectar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="215"/>
