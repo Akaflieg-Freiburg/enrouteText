@@ -4189,12 +4189,12 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <name>NavBar</name>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="70"/>
-        <source>Showing Alitude Above Ground Level</source>
+        <source>Showing Altitude Above Ground Level</source>
         <translation>Pokazywanie wysokości nad poziomem gruntu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="72"/>
-        <source>Showing Alitude Above Main Sea Level</source>
+        <source>Showing Altitude Above Main Sea Level</source>
         <translation>Pokazywanie wysokości nad poziomem morza</translation>
     </message>
 </context>

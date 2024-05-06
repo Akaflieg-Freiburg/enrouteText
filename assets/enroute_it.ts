@@ -4178,13 +4178,13 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <name>NavBar</name>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="70"/>
-        <source>Showing Alitude Above Ground Level</source>
+        <source>Showing Altitude Above Ground Level</source>
         <translatorcomment>Please check the spelling for &quot;Altitude&quot; in the English version (now it is ALItude).</translatorcomment>
         <translation>E&apos; mostrata la quota (AGL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="72"/>
-        <source>Showing Alitude Above Main Sea Level</source>
+        <source>Showing Altitude Above Main Sea Level</source>
         <translatorcomment>Please check the spelling for &quot;Altitude&quot; in the English version (now it is ALItude).</translatorcomment>
         <translation>E&apos; mostrata l&apos;altitudine (AMSL)</translation>
     </message>

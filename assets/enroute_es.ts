@@ -3495,12 +3495,12 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <name>NavBar</name>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="70"/>
-        <source>Showing Alitude Above Ground Level</source>
+        <source>Showing Altitude Above Ground Level</source>
         <translation>Mostrando altitud sobre el nivel del suelo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="72"/>
-        <source>Showing Alitude Above Main Sea Level</source>
+        <source>Showing Altitude Above Main Sea Level</source>
         <translation>Mostrando altitud sobre el nivel del mar</translation>
     </message>
 </context>
