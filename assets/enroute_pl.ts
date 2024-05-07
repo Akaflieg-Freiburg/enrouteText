@@ -11173,7 +11173,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="553"/>
-        <source>Bug report</source>
+        <source>Bug Report</source>
         <translation>Zgłoszenie błędu</translation>
     </message>
     <message>

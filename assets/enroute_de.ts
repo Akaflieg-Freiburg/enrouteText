@@ -11220,7 +11220,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="553"/>
-        <source>Bug report</source>
+        <source>Bug Report</source>
         <translation>Fehlermeldung</translation>
     </message>
     <message>

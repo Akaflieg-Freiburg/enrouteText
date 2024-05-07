@@ -10339,7 +10339,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="553"/>
-        <source>Bug report</source>
+        <source>Bug Report</source>
         <translation>Informe de error</translation>
     </message>
     <message>

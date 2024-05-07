@@ -9400,7 +9400,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="553"/>
-        <source>Bug report</source>
+        <source>Bug Report</source>
         <translation>Signaler un bug</translation>
     </message>
     <message>
