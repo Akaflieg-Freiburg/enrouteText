@@ -4171,12 +4171,12 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="70"/>
         <source>Showing Alitude Above Ground Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Höhe über Grund an (AGL)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="72"/>
         <source>Showing Alitude Above Main Sea Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige Höhe über dem Meer an (MSL)</translation>
     </message>
 </context>
 <context>
@@ -11218,7 +11218,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="553"/>
         <source>Bug report</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlermeldung</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="578"/>
