@@ -4,32 +4,39 @@
 <context>
     <name>AddBTDeviceDialog</name>
     <message>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="32"/>
         <source>Add Bluetooth Device</source>
-        <translation type="vanished">Agregar dispositivo Bluetooth</translation>
+        <translation>Agregar dispositivo Bluetooth</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="43"/>
         <source>Error</source>
-        <translation type="vanished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="51"/>
         <source>No Device Found</source>
-        <translation type="vanished">Ningún dispositivo encontrado</translation>
+        <translation>Ningún dispositivo encontrado</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="80"/>
         <source>Adding Connection: %1</source>
-        <translation type="vanished">Agregando conexión: %1</translation>
+        <translation>Agregando conexión: %1</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="89"/>
         <source>Scanning…</source>
-        <translation type="vanished">Escanenado....</translation>
+        <translation>Escanenado....</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="89"/>
         <source>Scan for Devices</source>
-        <translation type="vanished">Buscar dispositivos</translation>
+        <translation>Buscar dispositivos</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="99"/>
         <source>Error Adding Device</source>
-        <translation type="vanished">Error al agregar dispositivo</translation>
+        <translation>Error al agregar dispositivo</translation>
     </message>
 </context>
 <context>
@@ -862,36 +869,44 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
 <context>
     <name>ConnectionManager</name>
     <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="34"/>
         <source>Data Connections</source>
-        <translation type="vanished">Conexiones de datos</translation>
+        <translation>Conexiones de datos</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="90"/>
         <source>Error</source>
-        <translation type="vanished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="111"/>
         <source>Remove…</source>
-        <translation type="vanished">Eliminar...</translation>
+        <translation>Eliminar...</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="114"/>
         <source>Removing Connection: %1</source>
-        <translation type="vanished">Eliminando conexión: %1</translation>
+        <translation>Eliminando conexión: %1</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="136"/>
         <source>Disconnecting...</source>
-        <translation type="vanished">Desconectando...</translation>
+        <translation>Desconectando...</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="138"/>
         <source>Reconnecting...</source>
-        <translation type="vanished">Reconectando...</translation>
+        <translation>Reconectando...</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="139"/>
         <source>Reconnect</source>
-        <translation type="vanished">Reconectar</translation>
+        <translation>Reconectar</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="163"/>
         <source>Add Bluetooth Device</source>
-        <translation type="vanished">Agregar dispositivo Bluetooth</translation>
+        <translation>Agregar dispositivo Bluetooth</translation>
     </message>
 </context>
 <context>
@@ -3014,18 +3029,17 @@ con los datos de la cuenta bancaria.</translation>
         <translation>Los servicios web de la Administración Federal de Aviación son operados por el gobierno de EE. UU. y están fuera de nuestro control.</translation>
     </message>
     <message>
-        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to connected to your traffic data receiver via Bluetooth radio. At the moment, Enroute supports only the &apos;Bluetooth Classic&apos; radio standard, &apos;Bluetooth Low Energy&apos; is are not supported. Due to platform limitations, Bluetooth is not supported on iOS devices.</source>
-        <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ahora puede conectarse a su receptor de datos de tráfico a través de la radio Bluetooth. Por el momento, Enroute solo admite el estándar de radio &apos;Bluetooth Classic&apos;; no es compatible con &apos;Bluetooth Low Energy&apos;. Debido a limitaciones de la plataforma, Bluetooth no es compatible con dispositivos iOS.</translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="287"/>
-        <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
-        <translation>El mapa en movimiento se ha actualizado para seguir más de cerca el estilo de los mapas de la OACI. Los límites verticales del espacio aéreo ahora se muestran directamente en el mapa.</translation>
+        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to connected to your traffic data receiver via Bluetooth radio. At the moment, Enroute supports only the &apos;Bluetooth Classic&apos; radio standard, &apos;Bluetooth Low Energy&apos; is are not supported. Due to platform limitations, Bluetooth is not supported on iOS devices.</source>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ahora puede conectarse a su receptor de datos de tráfico a través de la radio Bluetooth. Por el momento, Enroute solo admite el estándar de radio &apos;Bluetooth Classic&apos;; no es compatible con &apos;Bluetooth Low Energy&apos;. Debido a limitaciones de la plataforma, Bluetooth no es compatible con dispositivos iOS.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="288"/>
+        <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
+        <translation type="vanished">El mapa en movimiento se ha actualizado para seguir más de cerca el estilo de los mapas de la OACI. Los límites verticales del espacio aéreo ahora se muestran directamente en el mapa.</translation>
+    </message>
+    <message>
         <source>In addition to distance and QUJ, the app shows the gliding ratio required to reach a waypoint (arrival height 300 m AGL, no terrain consideration).</source>
-        <translation>Además de la distancia y QUJ, la aplicación muestra la relación de planeo necesaria para alcanzar un punto de referencia (altura de llegada 300 m AGL, sin consideración del terreno).</translation>
+        <translation type="vanished">Además de la distancia y QUJ, la aplicación muestra la relación de planeo necesaria para alcanzar un punto de referencia (altura de llegada 300 m AGL, sin consideración del terreno).</translation>
     </message>
     <message>
         <source>As requested by the search-and-rescue community, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to accept location shares from Google Maps.</source>
@@ -3096,7 +3110,7 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; para iOS está disponible para pruebas beta públicas en &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;página de inicio de esta aplicación&lt;/a&gt; también contiene un enlace a TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="289"/>
+        <location filename="../../../src/Librarian.cpp" line="290"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Necesitamos ayuda con gráficos promocionales para los app stores y con videos explicativos. Si eres un artista gráfico o de video y te gustaría ayudar, por favor ponte en contacto.</translation>
     </message>
@@ -3480,22 +3494,14 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
 <context>
     <name>NavBar</name>
     <message>
-        <source>Showing Altitude Above Ground Level</source>
-        <translation type="vanished">Mostrando altitud sobre el nivel del suelo</translation>
-    </message>
-    <message>
-        <source>Showing Altitude Above Main Sea Level</source>
-        <translation type="vanished">Mostrando altitud sobre el nivel del mar</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="70"/>
-        <source>Showing Alitude Above Ground Level</source>
-        <translation type="unfinished"></translation>
+        <source>Showing Altitude Above Ground Level</source>
+        <translation>Mostrando altitud sobre el nivel del suelo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="72"/>
-        <source>Showing Alitude Above Main Sea Level</source>
-        <translation type="unfinished"></translation>
+        <source>Showing Altitude Above Main Sea Level</source>
+        <translation>Mostrando altitud sobre el nivel del mar</translation>
     </message>
 </context>
 <context>
@@ -4837,94 +4843,109 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Importado manualmente</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="45"/>
         <source>Unnamed Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo sin nombre</translation>
+        <translation>Dispositivo sin nombre</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="55"/>
         <source>Bluetooth Low Energy Device (unsupported)</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo Bluetooth de bajo consumo (no compatible)</translation>
+        <translation>Dispositivo Bluetooth de bajo consumo (no compatible)</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="62"/>
         <source>Miscellaneous Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo varios</translation>
+        <translation>Dispositivo varios</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="65"/>
         <source>Computer or PDA Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo informático o PDA</translation>
+        <translation>Dispositivo informático o PDA</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="68"/>
         <source>Telephone Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo telefónico</translation>
+        <translation>Dispositivo telefónico</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="71"/>
         <source>Network Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo de red</translation>
+        <translation>Dispositivo de red</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="74"/>
         <source>Audio/Video Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo de audio/vídeo</translation>
+        <translation>Dispositivo de audio/vídeo</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="77"/>
         <source>Peripheral Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo periférico</translation>
+        <translation>Dispositivo periférico</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="80"/>
         <source>Imaging Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo de imagen</translation>
+        <translation>Dispositivo de imagen</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="83"/>
         <source>Wearable Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo portátil</translation>
+        <translation>Dispositivo portátil</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="86"/>
         <source>Toy Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo de juguete</translation>
+        <translation>Dispositivo de juguete</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="89"/>
         <source>Health Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo de salud</translation>
+        <translation>Dispositivo de salud</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="92"/>
         <source>Uncategorized Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo sin categoría</translation>
+        <translation>Dispositivo sin categoría</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="97"/>
         <source>Serial Port Service</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Servicio de puerto serie</translation>
+        <translation>Servicio de puerto serie</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionInfo.h" line="237"/>
         <source>Invalid Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation type="vanished">Dispositivo no válido</translation>
+        <translation>Dispositivo no válido</translation>
     </message>
 </context>
 <context>
@@ -5016,7 +5037,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="146"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="504"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="526"/>
         <source>Airspace Altitude Limit</source>
         <translation>Límite de altitud del espacio aéreo</translation>
     </message>
@@ -5076,7 +5097,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="186"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="198"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="468"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="490"/>
         <source>Font Size</source>
         <translation>tamaño del texto</translation>
     </message>
@@ -5153,7 +5174,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="229"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="241"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="629"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="651"/>
         <source>Voice Notifications</source>
         <translation>Notificaciones de voz</translation>
     </message>
@@ -5168,57 +5189,61 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Por lo tanto, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; puede leer los textos de notificación además de mostrarlos en la pantalla.</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="293"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="305"/>
         <source>Data Connections</source>
-        <translation type="vanished">Conexiones de datos</translation>
+        <translation>Conexiones de datos</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="306"/>
         <source>Configure data connections to peripheral devices.</source>
-        <translation type="vanished">Configurar conexiones de datos a dispositivos periféricos.</translation>
+        <translation>Configurar conexiones de datos a dispositivos periféricos.</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="307"/>
         <source>Use this item to register traffic data receivers that connect via Bluetooth.</source>
-        <translation type="vanished">Utilice este elemento para registrar receptores de datos de tráfico que se conectan mediante Bluetooth.</translation>
+        <translation>Utilice este elemento para registrar receptores de datos de tráfico que se conectan mediante Bluetooth.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="292"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="309"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="314"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="331"/>
         <source>Ignore Network Security Errors</source>
         <translation>Ignorar errores de seguridad de la red</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="310"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="332"/>
         <source>This entry is visible if you have asked the app to download data via insecure internet connections after a secure connection attempt failed. Uncheck this item to revert to the standard policy, which enforces secure connections.</source>
         <translation>Esta entrada es visible si le ha pedido a la aplicación que descargue datos a través de conexiones de Internet no seguras después de que falló un intento de conexión segura. Desmarque este elemento para volver a la política estándar, que impone conexiones seguras.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="318"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="327"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="340"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="349"/>
         <source>Clear Password Storage</source>
         <translation>Borrar almacenamiento de contraseña</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="328"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="350"/>
         <source>This entry is visible if you have connected to a traffic data receiver that requires a password in addition to the Wi-Fi password and if you have asked the app to remember the password. Tap on this entry to clear the password storage.</source>
         <translation>Esta entrada es visible si se ha conectado a un receptor de datos de tráfico que requiere una contraseña además de la contraseña de Wi-Fi y si le ha pedido a la aplicación que recuerde la contraseña. Toque esta entrada para borrar el almacenamiento de la contraseña.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="336"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="349"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="358"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="371"/>
         <source>Show Privacy Warnings</source>
         <translation>Mostrar advertencias de privacidad</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="340"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="362"/>
         <source>Privacy warnings will be shown again.</source>
         <translation>Las advertencias de privacidad se mostrarán nuevamente.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="350"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="372"/>
         <source>This entry is visible if you have disabled privacy warnings by selecting &apos;Do not ask again&apos; in an appropriate dialog. Tap on this entry to re-enable all warnings.</source>
         <translation>Esta entrada es visible si ha desactivado las advertencias de privacidad seleccionando &quot;No volver a preguntar&quot; en el cuadro de diálogo correspondiente. Toque esta entrada para volver a habilitar todas las advertencias.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="358"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="380"/>
         <source>Help</source>
         <translation>Ayuda</translation>
     </message>
@@ -5231,143 +5256,143 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Cómo conectar el simulador de vuelo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="406"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="428"/>
         <source>Terrain Data Missing</source>
         <translation>Faltan datos del terreno</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="407"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="429"/>
         <source>The height above ground level cannot be computed for your current position, because the relevant terrain maps for your region have not been installed.</source>
         <translation>La altura sobre el nivel del suelo no se puede calcular para su posición actual porque no se han instalado los mapas de terreno relevantes para su región.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="411"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="433"/>
         <source>Install now</source>
         <translation>Instalar ahora</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="415"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="450"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="437"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="472"/>
         <source>Cancel</source>
         <translation>Cancelar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="437"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="459"/>
         <source>Clear Password Storage?</source>
         <translation>¿Borrar almacenamiento de contraseña?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="440"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="462"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
         <translation>Una vez que se borra el almacenamiento, las contraseñas ya no se pueden recuperar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="445"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="467"/>
         <source>Clear</source>
         <translation>Limpiar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="458"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="480"/>
         <source>Password storage cleared</source>
         <translation>Almacenamiento de contraseña borrado</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="489"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="511"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="494"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="516"/>
         <source>Huge</source>
         <translation>Enorme</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="514"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="536"/>
         <source>Set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit.</source>
         <translation>Establezca un límite de altitud para mejorar la legibilidad del mapa en movimiento. Una vez configurada, la aplicación mostrará solo los espacios aéreos por debajo de ese límite.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="522"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="544"/>
         <source>Set altitude limit</source>
         <translation>Establecer límite de altitud</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="548"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="570"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
         <translation>Mostrar espacios aéreos hasta %1 pie / %2 m.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="550"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="572"/>
         <source>No limit, all airspaces shown</source>
         <translation>Sin límite, se muestran todos los espacios aéreos</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="559"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="581"/>
         <source>Cannot set reasonable airspaces altitude limit because the present own altitude is too high.</source>
         <translation>No se puede establecer un límite de altitud razonable en los espacios aéreos porque la altitud propia actual es demasiado alta.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="588"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="610"/>
         <source>Position Data Source</source>
         <translation>Fuente de datos de posición</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="595"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="617"/>
         <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
         <translation>La mayoría de los usuarios elegirán el receptor de navegación por satélite incorporado. Elija el receptor de datos de tráfico cuando el receptor de navegación por satélite de su dispositivo tiene problemas de recepción, o cuando utilice esta aplicación junto con un simulador de vuelo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="602"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="624"/>
         <source>Built-in satnav receiver</source>
         <translation>Receptor de navegación por satélite incorporado</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="610"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="632"/>
         <source>Traffic data reveiver (when available)</source>
         <translation>Receptor de datos de tráfico (cuando esté disponible)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="649"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="671"/>
         <source>Choose the category of voice notifications that you would like to hear.</source>
         <translation>Elija la categoría de notificaciones de voz que le gustaría escuchar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="656"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="678"/>
         <source>Voice Test</source>
         <translation>Prueba de voz</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="674"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="696"/>
         <source>Speech engine not yet initialized.</source>
         <translation>Motor de voz aún no inicializado.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="678"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="700"/>
         <source>Error</source>
         <translation>Error</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="691"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="713"/>
         <source>Information • Generic</source>
         <translation>Información • Genérica</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="696"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="718"/>
         <source>Information • Navigation</source>
         <translation>Información • Navegación</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="701"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="723"/>
         <source>Warning • Generic</source>
         <translation>Advertencia • Genérica</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="706"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="728"/>
         <source>Warning • Navigation</source>
         <translation>Advertencia • Navegación</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="711"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="733"/>
         <source>Alert</source>
         <translation>Alerta</translation>
     </message>
@@ -5376,17 +5401,17 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Esta configuración se aplica al altímetro en la barra de navegación, en la parte inferior de la pantalla del mapa en movimiento.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="367"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="389"/>
         <source>Connect to a traffic receiver…</source>
         <translation>Conectarse a un receptor de tráfico...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="375"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="397"/>
         <source>Connect to the SafeSky app…</source>
         <translation>Conéctese a la aplicación SafeSky...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="383"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="405"/>
         <source>Connect to a flight simulator…</source>
         <translation>Conectarse a un simulador de vuelo...</translation>
     </message>
@@ -5415,60 +5440,74 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Traffic::ConnectionScanner_Bluetooth</name>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="33"/>
         <source>Due to platform limitations, Bluetooth is not supported on iOS.</source>
-        <translation type="vanished">Debido a limitaciones de la plataforma, Bluetooth no es compatible con iOS.</translation>
+        <translation>Debido a limitaciones de la plataforma, Bluetooth no es compatible con iOS.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="53"/>
         <source>Waiting for permissions.</source>
-        <translation type="vanished">Esperando permisos.</translation>
+        <translation>Esperando permisos.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="55"/>
         <source>Necessary permissions have been denied.</source>
-        <translation type="vanished">Se han denegado los permisos necesarios.</translation>
+        <translation>Se han denegado los permisos necesarios.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="63"/>
         <source>No Bluetooth adaptor has been found.</source>
-        <translation type="vanished">No se ha encontrado ningún adaptador Bluetooth.</translation>
+        <translation>No se ha encontrado ningún adaptador Bluetooth.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="67"/>
         <source>Bluetooth is powered off.</source>
-        <translation type="vanished">Bluetooth está apagado.</translation>
+        <translation>Bluetooth está apagado.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="108"/>
         <source>The Bluetooth adaptor is powered off. Power it on before doing discovery.</source>
-        <translation type="vanished">El adaptador Bluetooth está apagado. Enciéndalo antes de realizar el descubrimiento.</translation>
+        <translation>El adaptador Bluetooth está apagado. Enciéndalo antes de realizar el descubrimiento.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="111"/>
         <source>Read/Write error.</source>
-        <translation type="vanished">Error de lectura/escritura.</translation>
+        <translation>Error de lectura/escritura.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="114"/>
         <source>Invalid Bluetooth adaptor.</source>
-        <translation type="vanished">Adaptador Bluetooth no válido.</translation>
+        <translation>Adaptador Bluetooth no válido.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="117"/>
         <source>Device discovery is not possible or implemented on the current platform.</source>
-        <translation type="vanished">La detección de dispositivos no es posible ni está implementada en la plataforma actual.</translation>
+        <translation>La detección de dispositivos no es posible ni está implementada en la plataforma actual.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="120"/>
         <source>One of the requested discovery methods is not supported by the current platform.</source>
-        <translation type="vanished">Uno de los métodos de descubrimiento solicitados no es compatible con la plataforma actual.</translation>
+        <translation>Uno de los métodos de descubrimiento solicitados no es compatible con la plataforma actual.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="123"/>
         <source>The location service is turned off. Usage of Bluetooth is not possible when location service is turned off.</source>
-        <translation type="vanished">El servicio de localización está desactivado. El uso de Bluetooth no es posible cuando el servicio de ubicación está desactivado.</translation>
+        <translation>El servicio de localización está desactivado. El uso de Bluetooth no es posible cuando el servicio de ubicación está desactivado.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="126"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
-        <translation type="vanished">El sistema operativo solicita permisos que no fueron otorgados por el usuario.</translation>
+        <translation>El sistema operativo solicita permisos que no fueron otorgados por el usuario.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="129"/>
         <source>An unknown error has occurred.</source>
-        <translation type="vanished">Un error desconocido a ocurrido.</translation>
+        <translation>Un error desconocido a ocurrido.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="157"/>
         <source>Necessary permission have been denied.</source>
-        <translation type="vanished">Se ha negado el permiso necesario.</translation>
+        <translation>Se ha negado el permiso necesario.</translation>
     </message>
 </context>
 <context>
@@ -5483,29 +5522,74 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Traffic::TrafficDataProvider</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="50"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="45"/>
         <source>Traffic data receiver</source>
         <translation>Receptor de datos de tráfico</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="444"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="118"/>
+        <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="35"/>
+        <source>Invalid connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="123"/>
+        <source>Unable to add TCP connection. This is not implemented at the moment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="125"/>
+        <source>Unable to add UDP connection. This is not implemented at the moment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="127"/>
+        <source>Unable to add serial port connection. This is not implemented at the moment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="129"/>
+        <source>Unable to add FLARM simulator file connection. This is not implemented at the moment.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="541"/>
         <source>Receiving heartbeat.</source>
         <translation>Recibiendo pulcaciones.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="447"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="544"/>
         <source>Receiving position info.</source>
         <translation>Recibiendo información de posición</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="451"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="548"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Recibiendo información de altitud barométrica.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="458"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="555"/>
+        <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Not receiving heartbeat.</source>
-        <translation>No se estan recibiendo pulcaciones.</translation>
+        <translation type="vanished">No se estan recibiendo pulcaciones.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="28"/>
+        <source>Due to platform limitation, connections to Bluetooth Classic devices are not supported in iOS.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="46"/>
+        <source>A connection to this device already exists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataProvider_BluetoothLowEnergy.cpp" line="26"/>
+        <source>Connections to Bluetooth Low Energy devices are currently not supported.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5756,152 +5840,152 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Traffic::TrafficDataSource_AbstractSocket</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="41"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="40"/>
         <source>The connection was refused by the peer (or timed out).</source>
         <translation>La conexión fue rechazada por el compañero (o se agotó el tiempo de espera).</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="44"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="43"/>
         <source>The remote host closed the connection.</source>
         <translation>El host remoto cerró la conexión.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="47"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="46"/>
         <source>The host address was not found.</source>
         <translation>No se encontró la dirección del host.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="50"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="49"/>
         <source>The socket operation failed because the application lacked the required privileges.</source>
         <translation>La operación de socket falló porque la aplicación carecía de los privilegios necesarios.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="53"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="52"/>
         <source>The local system ran out of resources.</source>
         <translation>El sistema local se quedó sin recursos.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="56"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="55"/>
         <source>The socket operation timed out.</source>
         <translation>Se agotó el tiempo de espera de la operación de socket.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="59"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="58"/>
         <source>The datagram was larger than the operating system&apos;s limit.</source>
         <translation>El datagrama era más grande que el límite del sistema operativo.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="62"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="61"/>
         <source>An error occurred with the network.</source>
         <translation>Se ha producido un error con la red.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="65"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="64"/>
         <source>The address specified to QAbstractSocket::bind() is already in use and was set to be exclusive.</source>
         <translation>La dirección especificada para QAbstractSocket::bind() ya está en uso y se configuró como exclusiva.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="68"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="67"/>
         <source>The address specified to QAbstractSocket::bind() does not belong to the host.</source>
         <translation>La dirección especificada para QAbstractSocket::bind() no pertenece al host.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="71"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="70"/>
         <source>The requested socket operation is not supported by the local operating system.</source>
         <translation>El sistema operativo local no admite la operación de socket solicitada.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="74"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="73"/>
         <source>The socket is using a proxy, and the proxy requires authentication.</source>
         <translation>El socket está usando un proxy y el proxy requiere autenticación.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="77"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="76"/>
         <source>The SSL/TLS handshake failed, so the connection was closed.</source>
         <translation>El protocolo de enlace SSL/TLS falló, por lo que se cerró la conexión.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="80"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="79"/>
         <source>The last operation attempted has not finished yet (still in progress in the background).</source>
         <translation>La última operación intentada aún no ha finalizado (todavía en curso en segundo plano).</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="83"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="82"/>
         <source>Could not contact the proxy server because the connection to that server was denied.</source>
         <translation>No se pudo contactar con el servidor proxy porque se denegó la conexión a ese servidor.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="86"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="85"/>
         <source>The connection to the proxy server was closed unexpectedly (before the connection to the final peer was established).</source>
         <translation>La conexión con el servidor proxy se cerró inesperadamente (antes de que se estableciera la conexión con el par final).</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="89"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="88"/>
         <source>The connection to the proxy server timed out or the proxy server stopped responding in the authentication phase.</source>
         <translation>Se agotó el tiempo de espera de la conexión con el servidor proxy o el servidor proxy dejó de responder en la fase de autenticación.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="92"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="91"/>
         <source>The proxy address set with setProxy() (or the application proxy) was not found.</source>
         <translation>No se encontró la dirección de proxy configurada con setProxy() (o el proxy de la aplicación).</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="95"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="94"/>
         <source>The connection negotiation with the proxy server failed, because the response from the proxy server could not be understood.</source>
         <translation>La negociación de la conexión con el servidor proxy falló porque no se pudo entender la respuesta del servidor proxy.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="98"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="97"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
         <translation>Se intentó una operación mientras el socket estaba en un estado que no lo permitía.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="101"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="100"/>
         <source>The SSL library being used reported an internal error. This is probably the result of a bad installation or misconfiguration of the library.</source>
         <translation>La biblioteca SSL que se está utilizando ha reportado un error interno. Esto es probablemente el resultado de una mala instalación o mala configuración de la biblioteca.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="104"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="103"/>
         <source>Invalid data (certificate, key, cypher, etc.) was provided and its use resulted in an error in the SSL library.</source>
         <translation>Se proporcionaron datos no válidos (certificado, clave, cifrado, etc.) y su uso resultó en un error en la biblioteca SSL.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="107"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="106"/>
         <source>A temporary error occurred (e.g., operation would block and socket is non-blocking).</source>
         <translation>Ocurrió un error temporal (por ejemplo, la operación se bloquearía y el socket no bloquea).</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="110"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="109"/>
         <source>An unidentified error occurred.</source>
         <translation>Se produjo un error no identificado.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="130"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="129"/>
         <source>Performing host name lookup.</source>
         <translation>Realización de búsqueda de nombre de host.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="133"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="132"/>
         <source>Trying to establish a connection.</source>
         <translation>Intentando establecer una conexión.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="136"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="135"/>
         <source>Connected.</source>
         <translation>Connectado</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="139"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="138"/>
         <source>Bound to an address and port, but not connected yet.</source>
         <translation>Vinculado a una dirección y puerta, pero aún no conectado.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="142"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="141"/>
         <source>Closing.</source>
         <translation>Cierrando</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="145"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="144"/>
         <source>Not connected.</source>
         <translation>No está connectado</translation>
     </message>
@@ -5909,129 +5993,288 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Traffic::TrafficDataSource_BluetoothClassic</name>
     <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="48"/>
+        <source>Due to platform limitations, Bluetooth Classic is not supported on iOS.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="58"/>
         <source>Necessary permission have been denied.</source>
-        <translation type="obsolete">Se ha negado el permiso necesario.</translation>
+        <translation type="unfinished">Se ha negado el permiso necesario.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="83"/>
         <source>An unknown error has occurred.</source>
-        <translation type="obsolete">Un error desconocido a ocurrido.</translation>
+        <translation type="unfinished">Un error desconocido a ocurrido.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="86"/>
+        <source>No error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="89"/>
+        <source>Could not find the remote host.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="92"/>
+        <source>Could not find the service UUID on remote host.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="95"/>
+        <source>Attempt to read or write from socket returned an error</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="98"/>
+        <source>The Protocol is not supported on this platform.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="101"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
-        <translation type="obsolete">Se intentó una operación mientras el socket estaba en un estado que no lo permitía.</translation>
+        <translation type="unfinished">Se intentó una operación mientras el socket estaba en un estado que no lo permitía.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="104"/>
         <source>The remote host closed the connection.</source>
-        <translation type="obsolete">El host remoto cerró la conexión.</translation>
+        <translation type="unfinished">El host remoto cerró la conexión.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="107"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
-        <translation type="obsolete">El sistema operativo solicita permisos que no fueron otorgados por el usuario.</translation>
+        <translation type="unfinished">El sistema operativo solicita permisos que no fueron otorgados por el usuario.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="118"/>
+        <source>The socket is not connected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="121"/>
+        <source>The socket is querying connection parameters.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="124"/>
+        <source>The socket is attempting to connect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="127"/>
+        <source>The socket is connected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="130"/>
+        <source>The socket is bound to a local address and port.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="133"/>
+        <source>The socket is connected and will be closed once all pending data is written to the socket.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="136"/>
+        <source>The socket is listening for incoming connections.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="155"/>
         <source>Unnamed Device</source>
-        <translation type="obsolete">Dispositivo sin nombre</translation>
+        <translation type="unfinished">Dispositivo sin nombre</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="157"/>
+        <source>Bluetooth Classic connection to %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Traffic::TrafficDataSource_BluetoothLowEnergy</name>
     <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="79"/>
         <source>An unknown error has occurred.</source>
-        <translation type="obsolete">Un error desconocido a ocurrido.</translation>
+        <translation type="unfinished">Un error desconocido a ocurrido.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="82"/>
+        <source>The remote Bluetooth Low Energy device with the address passed to the constructor of this class cannot be found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="85"/>
+        <source>The attempt to read from or write to the remote device failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="88"/>
+        <source>The local Bluetooth device with the address passed to the constructor of this class cannot be found or there is no local Bluetooth device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="91"/>
+        <source>The attempt to connect to the remote device failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="94"/>
+        <source>The attempt to start advertising failed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="97"/>
+        <source>The remote device closed the connection.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="100"/>
+        <source>The local Bluetooth device closed the connection due to insufficient authorization.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="103"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
-        <translation type="obsolete">El sistema operativo solicita permisos que no fueron otorgados por el usuario.</translation>
+        <translation type="unfinished">El sistema operativo solicita permisos que no fueron otorgados por el usuario.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="106"/>
+        <source>An attempt to read RSSI (received signal strength indicator) of a remote device finished with error.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="118"/>
+        <source>The controller is not connected to a remote device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="121"/>
+        <source>The controller is attempting to connect to a remote device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="124"/>
+        <source>The controller is connected to a remote device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="127"/>
+        <source>The controller is retrieving the list of services offered by the remote device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="130"/>
+        <source>The controller has discovered all services offered by the remote device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="133"/>
+        <source>The controller is about to be disconnected from the remote device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="136"/>
+        <source>The controller is currently advertising data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="152"/>
         <source>Unnamed Device</source>
-        <translation type="obsolete">Dispositivo sin nombre</translation>
+        <translation type="unfinished">Dispositivo sin nombre</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="154"/>
+        <source>Bluetooth LE connection to %1 (not implemented yet, please ignore)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>Traffic::TrafficDataSource_File</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="143"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="144"/>
         <source>Connected.</source>
         <translation>Connectado</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="145"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="146"/>
         <source>Not connected.</source>
         <translation>No está connectado</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="154"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="155"/>
         <source>An error occurred when reading from the file.</source>
         <translation>Ocurrió un error al leer del archivo.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="157"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="158"/>
         <source>An error occurred when writing to the file.</source>
         <translation>Ocurrió un error al escribir el archivo.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="160"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="161"/>
         <source>A fatal error occurred.</source>
         <translation>Ocurrió un error fatal.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="163"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="164"/>
         <source>Out of resources (e.g., too many open files, out of memory, etc.)</source>
         <translation>Sin recursos (por ejemplo, demasiados archivos abiertos, sin memoria, etc.)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="166"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="167"/>
         <source>The file could not be opened.</source>
         <translation>No se pudo abrir el acrchivo</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="169"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="170"/>
         <source>The operation was aborted.</source>
         <translation>La operación ha sido abortada</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="172"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="173"/>
         <source>A timeout occurred.</source>
         <translation>Tiempo de espera agotado</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="175"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="176"/>
         <source>An unspecified error occurred.</source>
         <translation>Se produjo un error no especificado</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="178"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="179"/>
         <source>The file could not be removed.</source>
         <translation>El archivo no se puede eliminar</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="181"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="182"/>
         <source>The file could not be renamed.</source>
         <translation>El archivo no se puede renombrar</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="184"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="185"/>
         <source>The position in the file could not be changed.</source>
         <translation>No se pudo cambiar la posición en el archivo.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="187"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="188"/>
         <source>The file could not be resized.</source>
         <translation>No se pudo cambiar el tamaño del archivo.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="190"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="191"/>
         <source>The file could not be accessed.</source>
         <translation>No se pudo acceder al archivo.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="193"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="194"/>
         <source>The file could not be copied.</source>
         <translation>No se pudo copiar el archivo.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.h" line="68"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.h" line="79"/>
         <source>Simulator file %1</source>
         <translation>Archivo de simulador %1</translation>
     </message>
@@ -6049,7 +6292,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>No está connectado.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Simulate.h" line="57"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Simulate.h" line="68"/>
         <source>Simulator data</source>
         <translation>Simulador de datos</translation>
     </message>
@@ -6057,7 +6300,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Traffic::TrafficDataSource_Tcp</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Tcp.h" line="68"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Tcp.h" line="79"/>
         <source>TCP connection to %1 port %2</source>
         <translation>Connexion TCP desde la puerta %1 a la puerta %2</translation>
     </message>
@@ -6065,9 +6308,14 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Traffic::TrafficDataSource_Udp</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp.h" line="66"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp.h" line="77"/>
         <source>UDP connection to port %1</source>
         <translation>Connexion UDP a la puerta %1</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp.cpp" line="95"/>
+        <source>Receiving Data.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6282,49 +6530,56 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Estado de la conexión</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="95"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="94"/>
         <source>Traffic Data Receiver Status</source>
         <translation>Estado del receptor de datos de tráfico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="125"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="124"/>
         <source>No problem reported</source>
         <translation>Ninguin problema reportado</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="188"/>
         <source>Disconnecting...</source>
-        <translation type="obsolete">Desconectando...</translation>
+        <translation type="unfinished">Desconectando...</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="190"/>
         <source>Reconnecting...</source>
-        <translation type="obsolete">Reconectando...</translation>
+        <translation type="unfinished">Reconectando...</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="191"/>
         <source>Reconnect</source>
-        <translation type="obsolete">Reconectar</translation>
+        <translation type="unfinished">Reconectar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="141"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="215"/>
+        <source>Configure Data Connections</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Connect</source>
-        <translation>Connectado</translation>
+        <translation type="vanished">Connectado</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="163"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="145"/>
         <source>Help</source>
         <translation>Ayuda</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="172"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="154"/>
         <source>Connect to a traffic receiver…</source>
         <translation>Conectarse a un receptor de tráfico...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="180"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="162"/>
         <source>Connect to the SafeSky app…</source>
         <translation>Conéctese a la aplicación SafeSky...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="188"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="170"/>
         <source>Connect to a flight simulator…</source>
         <translation>Conectarse a un simulador de vuelo...</translation>
     </message>
@@ -6851,57 +7106,57 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Filtrar los nombres de puntos de ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="340"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="339"/>
         <source>Remove…</source>
         <translation>Eliminar...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="389"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="388"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;No hay punto de ruta disponible. Para agregar un punto de ruta aquí, toque dos veces en un punto del mapa&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="390"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="389"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta que coincidan con los criterios de filtro.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="406"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="405"/>
         <source>Error Exporting Data…</source>
         <translation>Error exportando datos ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="415"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="414"/>
         <source>Remove from Device?</source>
         <translation>¿Quitar del dispositivo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="416"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="415"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Una vez que se elimina el punto de ruta &lt;strong&gt;%1&lt;/strong&gt;, no se puede restaurar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="424"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="423"/>
         <source>Waypoint removed from device</source>
         <translation>Punto de ruta eliminado del disposotivo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="437"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="436"/>
         <source>Clear Waypoint Library?</source>
         <translation>¿Borrar el punto de ruta de la biblioteca?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="440"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="439"/>
         <source>Once cleared, the library cannot be restored.</source>
         <translation>Una vez borrada, la biblioteca no se puede restaurar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="446"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="445"/>
         <source>Waypoint library cleared</source>
         <translation>Punto de ruta borrado</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="460"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="459"/>
         <source>Waypoint modified</source>
         <translation>Punto de ruta modificado</translation>
     </message>
@@ -10068,102 +10323,98 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Leer el manual</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="501"/>
+        <location filename="../../../src/qml/main.qml" line="500"/>
         <source>Open in browser</source>
         <translation>Avrir en el navegador</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="516"/>
+        <location filename="../../../src/qml/main.qml" line="515"/>
         <source>Download as ebook</source>
         <translation>Descargar como ebook</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="530"/>
+        <location filename="../../../src/qml/main.qml" line="529"/>
         <source>Download as PDF</source>
         <translation>Descargar como pdf</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/main.qml" line="552"/>
         <source>Bug Report</source>
-        <translation type="vanished">Informe de error</translation>
+        <translation>Informe de error</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="578"/>
+        <location filename="../../../src/qml/main.qml" line="577"/>
         <source>Exit</source>
         <translation>Salida</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="636"/>
+        <location filename="../../../src/qml/main.qml" line="635"/>
         <source>Update required!</source>
         <translation>Actualización necessaria</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="776"/>
+        <location filename="../../../src/qml/main.qml" line="775"/>
         <source>Connected to traffic receiver.</source>
         <translation>Connectado al receptor de tráfico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="778"/>
+        <location filename="../../../src/qml/main.qml" line="777"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Conexión pérdida con el receptor de tráfico.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="827"/>
+        <location filename="../../../src/qml/main.qml" line="826"/>
         <source>Exit…?</source>
         <translation>Salida...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="828"/>
+        <location filename="../../../src/qml/main.qml" line="827"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Quiere salir de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="649"/>
-        <location filename="../../../src/qml/main.qml" line="663"/>
+        <location filename="../../../src/qml/main.qml" line="648"/>
+        <location filename="../../../src/qml/main.qml" line="662"/>
         <source>What&apos;s new…?</source>
         <translation>Que hay de nuevo...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="553"/>
-        <source>Bug report</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/main.qml" line="864"/>
+        <location filename="../../../src/qml/main.qml" line="863"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Ahora mostrando espacios aéreos hasta %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="866"/>
+        <location filename="../../../src/qml/main.qml" line="865"/>
         <source>Now showing all airspaces.</source>
         <translation>Ahora mostrando todos los espacios aéreos.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="900"/>
+        <location filename="../../../src/qml/main.qml" line="899"/>
         <source>You have chosen to ignore network security errors in the future.</source>
         <translation>Ha elegido ignorar los errores de seguridad de la red en el futuro.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="901"/>
+        <location filename="../../../src/qml/main.qml" line="900"/>
         <source>This poses a security risk.</source>
         <translation>Esto supone un riesgo de seguridad.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="902"/>
+        <location filename="../../../src/qml/main.qml" line="901"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Vaya a la página &quot;Configuración&quot; si desea restaurar el comportamiento original y seguro de esta aplicación.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="932"/>
+        <location filename="../../../src/qml/main.qml" line="931"/>
         <source>Error!</source>
         <translation>¡Error!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="946"/>
+        <location filename="../../../src/qml/main.qml" line="945"/>
         <source>Starting map update</source>
         <translation>Iniciando actualización de mapas</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="887"/>
+        <location filename="../../../src/qml/main.qml" line="886"/>
         <source>Network security error</source>
         <translation>Error de seguridad de la red</translation>
     </message>
@@ -10173,7 +10424,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Posicionamiento de navegación por satélite</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="899"/>
+        <location filename="../../../src/qml/main.qml" line="898"/>
         <source>Network security settings</source>
         <translation>Configuración de seguridad de la red</translation>
     </message>
