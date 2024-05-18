@@ -6436,7 +6436,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="555"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
-        <translation>Empfange über keine konfigurierte Datenverbindung den Heartbeat eines Verkehrsdatenempfängers.</translation>
+        <translation>Empfange über keine der konfigurierten Datenverbindungen den Heartbeat eines Verkehrsdatenempfängers.</translation>
     </message>
     <message>
         <source>Not receiving heartbeat.</source>
@@ -6921,8 +6921,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="121"/>
         <source>The socket is querying connection parameters.</source>
-        <translatorcomment>Erfrage Verbindungsparameter.</translatorcomment>
-        <translation></translation>
+        <translation>Der Anschluss erfragt Verbindungsparameter.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="124"/>
