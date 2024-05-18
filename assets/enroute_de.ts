@@ -5632,7 +5632,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <source>Miscellaneous Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>???</translatorcomment>
-        <translation>Verschiedenerlei Gerät</translation>
+        <translation type="unfinished">Generisches Bluetooth-Gerät</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="65"/>
@@ -6308,7 +6308,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="33"/>
         <source>Due to platform limitations, Bluetooth is not supported on iOS.</source>
-        <translation>iOS unterstützt hier keine Bluetooth-Geräte.</translation>
+        <translation>Aufgrund von Beschränkungen in iOS werden Bluetooth-Verbindungen auf Ihrem Gerät nicht unterstützt.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="53"/>
@@ -6921,7 +6921,8 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="121"/>
         <source>The socket is querying connection parameters.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Erfrage Verbindungsparameter.</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="124"/>
