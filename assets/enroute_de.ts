@@ -5632,7 +5632,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <source>Miscellaneous Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>???</translatorcomment>
-        <translation type="unfinished">Generisches Bluetooth-Gerät</translation>
+        <translation>Generisches Bluetooth-Gerät</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="65"/>
