@@ -968,12 +968,12 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="263"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="306"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Standardverbindung kann vom Anwender nicht entfernt werden.</translation>
     </message>
 </context>
 <context>
