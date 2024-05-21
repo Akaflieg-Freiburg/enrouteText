@@ -973,7 +973,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="304"/>
         <source>Data Format: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenformat: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="306"/>
