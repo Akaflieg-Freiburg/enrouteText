@@ -7664,7 +7664,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="388"/>
         <source>Satellite View</source>
-        <translation type="unfinished"></translation>
+        <translation>Satellitensicht</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="484"/>
