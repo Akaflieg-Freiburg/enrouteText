@@ -977,6 +977,11 @@ la nostra App.&lt;/p&gt;
         <translation>Aggiungere un dispositivo Bluetooth</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="237"/>
+        <source>Connection Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="263"/>
         <source>Status</source>
         <translation type="unfinished">Stato</translation>

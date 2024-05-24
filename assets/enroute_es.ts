@@ -915,6 +915,11 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
         <translation>Agregar dispositivo Bluetooth</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="237"/>
+        <source>Connection Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="263"/>
         <source>Status</source>
         <translation type="unfinished">Estado</translation>

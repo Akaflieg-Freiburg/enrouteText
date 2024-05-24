@@ -887,6 +887,11 @@ données de manière publique et gratuite.&lt;/p&gt;
         <translation>Ajouter un appareil Bluetooth</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="237"/>
+        <source>Connection Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="263"/>
         <source>Status</source>
         <translation type="unfinished">Statut</translation>

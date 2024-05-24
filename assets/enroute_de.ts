@@ -971,6 +971,11 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation>Bluetooth-Gerät hinzufügen</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="237"/>
+        <source>Connection Info</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="263"/>
         <source>Status</source>
         <translation>Status</translation>
