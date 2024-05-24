@@ -9,32 +9,32 @@
         <translation>Dodaj urządzenie Bluetooth</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="43"/>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="45"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="51"/>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="53"/>
         <source>No Device Found</source>
         <translation>Nie znaleziono urządzenia</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="80"/>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="82"/>
         <source>Adding Connection: %1</source>
         <translation>Dodawanie połączenia: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="89"/>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="91"/>
         <source>Scanning…</source>
         <translation>Skanowanie...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="89"/>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="91"/>
         <source>Scan for Devices</source>
         <translation>Skanuj urządzenia</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="99"/>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="101"/>
         <source>Error Adding Device</source>
         <translation>Błąd dodawania urządzenia</translation>
     </message>
@@ -939,43 +939,55 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
         <translation>Połączenia danych</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="90"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="139"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="265"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="111"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="165"/>
         <source>Remove…</source>
         <translation>Usuń...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="114"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="168"/>
         <source>Removing Connection: %1</source>
         <translation>Usuwanie połączenia: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="136"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="191"/>
         <source>Disconnecting...</source>
         <translation>Rozłączanie...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="138"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="193"/>
         <source>Reconnecting...</source>
         <translation>Łączenie ponowne...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="139"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="194"/>
         <source>Reconnect</source>
         <translation>Połącz ponownie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="163"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="218"/>
         <source>Add Bluetooth Device</source>
         <translation>Dodaj urządzenie Bluetooth</translation>
     </message>
     <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="263"/>
         <source>Status</source>
-        <translation type="obsolete">Status</translation>
+        <translation type="unfinished">Status</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="304"/>
+        <source>Data Format: %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="306"/>
+        <source>This is a standard connection that cannot be deleted by the user.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7128,7 +7140,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Plik nie może być skopiowany.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_File.h" line="79"/>
+        <location filename="../../../src/traffic/TrafficDataSource_File.h" line="85"/>
         <source>Simulator file %1</source>
         <translation>Plik symulatora %1</translation>
     </message>
@@ -7146,7 +7158,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Nie połączony.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Simulate.h" line="68"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Simulate.h" line="74"/>
         <source>Simulator data</source>
         <translation>Dane symulatora</translation>
     </message>
@@ -7154,7 +7166,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Tcp</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Tcp.h" line="79"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Tcp.h" line="85"/>
         <source>TCP connection to %1 port %2</source>
         <translation>Połączenie TCP do %1 port %2</translation>
     </message>
@@ -7162,7 +7174,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Udp</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp.h" line="77"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp.h" line="83"/>
         <source>UDP connection to port %1</source>
         <translation>Połączenie UDP do portu %1</translation>
     </message>
@@ -7394,22 +7406,22 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Nie wykryto błędu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="188"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="180"/>
         <source>Disconnecting...</source>
         <translation>Rozłączanie...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="190"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="182"/>
         <source>Reconnecting...</source>
         <translation>Łączenie ponowne...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="191"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="183"/>
         <source>Reconnect</source>
         <translation>Połącz ponownie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="215"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="207"/>
         <source>Configure Data Connections</source>
         <translation>Skonfiguruj dane połączeń</translation>
     </message>
@@ -7428,12 +7440,11 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Połącz do odbiornika ruchu lotniczego...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="162"/>
         <source>Connect to the SafeSky app…</source>
-        <translation>Połącz do aplikacji SafeSky...</translation>
+        <translation type="vanished">Połącz do aplikacji SafeSky...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="170"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="162"/>
         <source>Connect to a flight simulator…</source>
         <translation>Połącz do symulatora lotu...</translation>
     </message>
