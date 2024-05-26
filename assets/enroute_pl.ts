@@ -941,7 +941,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="102"/>
         <source>Traffic Data Receivers</source>
-        <translation type="unfinished"></translation>
+        <translation>Odbiorniki ruchu lotniczego</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="139"/>
@@ -982,22 +982,22 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="237"/>
         <source>Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informacja dot. połączenia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="263"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="304"/>
         <source>Data Format: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Format danych: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="306"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>To jest standardowe połączenie i nie może być usunięte przez użytkownika.</translation>
     </message>
 </context>
 <context>
@@ -7660,7 +7660,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="388"/>
         <source>Satellite View</source>
-        <translation type="unfinished"></translation>
+        <translation>Widok satelitarny</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="484"/>
