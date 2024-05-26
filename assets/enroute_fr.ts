@@ -848,7 +848,7 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="102"/>
         <source>Traffic Data Receivers</source>
-        <translation type="unfinished"></translation>
+        <translation>Récepteurs de données de trafic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="139"/>
@@ -889,22 +889,22 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="237"/>
         <source>Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Informations de connexion</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="263"/>
         <source>Status</source>
-        <translation type="unfinished">Statut</translation>
+        <translation>Statut</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="304"/>
         <source>Data Format: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Format des données&#xa0;: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="306"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il s&apos;agit d&apos;une connexion standard qui ne peut pas être supprimée par l&apos;utilisateur.</translation>
     </message>
 </context>
 <context>
@@ -6037,7 +6037,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="388"/>
         <source>Satellite View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vue satellite</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="447"/>
@@ -9555,7 +9555,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="552"/>
         <source>Bug Report</source>
-        <translation type="unfinished">Signaler un bug</translation>
+        <translation>Signaler un bug</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="577"/>
