@@ -876,7 +876,7 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="102"/>
         <source>Traffic Data Receivers</source>
-        <translation type="unfinished"></translation>
+        <translation>Receptores de datos de tráfico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="139"/>
@@ -917,22 +917,22 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="237"/>
         <source>Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Información de conexión</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="263"/>
         <source>Status</source>
-        <translation type="unfinished">Estado</translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="304"/>
         <source>Data Format: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Formato de datos: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="306"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation>Esta es una conexión estándar que el usuario no puede eliminar.</translation>
     </message>
 </context>
 <context>
@@ -6692,7 +6692,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="388"/>
         <source>Satellite View</source>
-        <translation type="unfinished"></translation>
+        <translation>Vista satelital</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="447"/>
@@ -10409,7 +10409,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/main.qml" line="552"/>
         <source>Bug Report</source>
-        <translation type="unfinished">Informe de error</translation>
+        <translation>Informe de error</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="863"/>
