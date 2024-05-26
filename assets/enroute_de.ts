@@ -932,7 +932,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="102"/>
         <source>Traffic Data Receivers</source>
-        <translation type="unfinished"></translation>
+        <translation>Verkehrsdatenempfänger</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="139"/>
@@ -973,7 +973,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="237"/>
         <source>Connection Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Verbindungs-Info</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="263"/>
