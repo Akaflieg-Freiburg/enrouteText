@@ -4,9 +4,13 @@
 <context>
     <name>AddBTDeviceDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="32"/>
         <source>Add Bluetooth Device</source>
-        <translation>Dodaj urządzenie Bluetooth</translation>
+        <translation type="vanished">Dodaj urządzenie Bluetooth</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="32"/>
+        <source>Add Bluetooth Connection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="45"/>
@@ -945,7 +949,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="139"/>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="265"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="316"/>
         <source>Error</source>
         <translation>Błąd</translation>
     </message>
@@ -976,26 +980,131 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="218"/>
-        <source>Add Bluetooth Device</source>
-        <translation>Dodaj urządzenie Bluetooth</translation>
+        <source>New Connection</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="237"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
+        <source>Bluetooth Classic</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="242"/>
+        <source>Serial Port Connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="252"/>
+        <source>TCP Connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="261"/>
+        <source>UDP Connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="279"/>
+        <source>Error Adding Connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="371"/>
+        <source>Add UDP Connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="381"/>
+        <source>Please enter the port used by your traffic data receiver.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="383"/>
+        <source>This is a number between 0 and 65535.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="390"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="462"/>
+        <source>Port</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="417"/>
+        <source>Adding UDP Connection: Port %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="427"/>
+        <source>Add TCP Connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="441"/>
+        <source>Please enter the host name and port number used by your traffic data receiver.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="443"/>
+        <source>The host is typically an IPv4 address of the form &apos;192.168.4.1&apos;, but can be any internet address.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="445"/>
+        <source>The port is a number between 0 and 65535.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="452"/>
+        <source>Host</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="492"/>
+        <source>Adding TCP Connection to %1, Port %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="503"/>
+        <source>Add Serial Port Connection</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="514"/>
+        <source>No Device Found</source>
+        <translation type="unfinished">Nie znaleziono urządzenia</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="543"/>
+        <source>Adding Connection: %1</source>
+        <translation type="unfinished">Dodawanie połączenia: %1</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="552"/>
+        <source>Scan for Devices</source>
+        <translation type="unfinished">Skanuj urządzenia</translation>
+    </message>
+    <message>
+        <source>Add Bluetooth Device</source>
+        <translation type="vanished">Dodaj urządzenie Bluetooth</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="288"/>
         <source>Connection Info</source>
         <translation>Informacja dot. połączenia</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="263"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="314"/>
         <source>Status</source>
         <translation>Status</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="304"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="355"/>
         <source>Data Format: %1.</source>
         <translation>Format danych: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="306"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="357"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
         <translation>To jest standardowe połączenie i nie może być usunięte przez użytkownika.</translation>
     </message>
@@ -5546,72 +5655,78 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="63"/>
+        <source>Data is larger than supported by the current platform.</source>
+        <comment>FileFormats::TIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="65"/>
         <source>Error writing to data stream.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Błąd zapisu do strumienia danych.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="124"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="126"/>
         <source>Found invalid TIFF file data.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Znaleziono nipoprawne dane pliku TIFF.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="132"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="134"/>
         <source>BigTIFF files are not supported.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Duże pliki TIFF nie są wspierane.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="136"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="138"/>
         <source>Found an unsupported TIFF version.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Znaleziono niewspieraną wersję TIFF.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="153"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="155"/>
         <source>Found more than 100 tags in the TIFF file. Reading only the first 100.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Znaleziono ponad 100 tagów w pliku TIFF. Odczytywanie tylko pierwszych 100.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="243"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="245"/>
         <source>Cannot read data.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Nie można odczytać danych.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="295"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="297"/>
         <source>No data for tag 256.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Brak danych dla tagu 256.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="301"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="303"/>
         <source>Invalid data for tag 256.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Niepoprawne dane dla tagu 256.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="306"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="308"/>
         <source>Tag 256 is not set.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Tag 256 nie jest ustawiony.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="318"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="320"/>
         <source>No data for tag 257.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Brak danych dla tagu 257.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="324"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="326"/>
         <source>Invalid data for tag 257.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Niepoprawne dane dla tagu 257.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="329"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="331"/>
         <source>Tag 257 is not set.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Tag 257 nie jest ustawiony.</translation>
@@ -5635,91 +5750,109 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>ręcznie zaimportowany</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="45"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="44"/>
         <source>Unnamed Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Nienazwane urządzenie</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="55"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="54"/>
         <source>Bluetooth Low Energy Device (unsupported)</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Urządzenie Bluetooth o niskim zużyciu energii (nieobsługiwane)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="62"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="61"/>
         <source>Miscellaneous Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Inne urządzenie</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="65"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="64"/>
         <source>Computer or PDA Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Komputer lub urządzenie PDA</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="68"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="67"/>
         <source>Telephone Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Telefon</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="71"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="70"/>
         <source>Network Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Urządzenie sieciowe</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="74"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="73"/>
         <source>Audio/Video Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Urządzenie Audio/Video</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="77"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="76"/>
         <source>Peripheral Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Urządzenie peryferyjne</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="80"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="79"/>
         <source>Imaging Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Urządzenie obrazowania</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="83"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="82"/>
         <source>Wearable Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Urządzenie ubieralne</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="86"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="85"/>
         <source>Toy Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Zabawka</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="89"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="88"/>
         <source>Health Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Urządzenie medyczne</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="92"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="91"/>
         <source>Uncategorized Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Nieskategoryzowane urządzenie</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="97"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="96"/>
         <source>Serial Port Service</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Usługa portu szeregowego</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.h" line="237"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="144"/>
+        <source>Serial Port Connection to %1</source>
+        <comment>Traffic::ConnectionInfo</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="153"/>
+        <source>UDP Connection to Port %1</source>
+        <comment>Traffic::ConnectionInfo</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="161"/>
+        <source>TCP Connection to %1, Port %1</source>
+        <comment>Traffic::ConnectionInfo</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/ConnectionInfo.h" line="286"/>
         <source>Invalid Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Nieprawidłowe urządzenie</translation>
@@ -6397,53 +6530,56 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataProvider</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="45"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="48"/>
         <source>Traffic data receiver</source>
         <translation>Odbiornik danych ruchu lotniczego</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="118"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="122"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="35"/>
         <source>Invalid connection.</source>
         <translation>Nieprawidłowe połączenie.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="123"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="127"/>
         <source>Unable to add TCP connection. This is not implemented at the moment.</source>
         <translation>Nie można dodać połączenia TCP. W tej chwili nie jest to realizowane.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="125"/>
         <source>Unable to add UDP connection. This is not implemented at the moment.</source>
-        <translation>Nie można dodać połączenia UDP. W tej chwili nie jest to realizowane.</translation>
+        <translation type="vanished">Nie można dodać połączenia UDP. W tej chwili nie jest to realizowane.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="127"/>
         <source>Unable to add serial port connection. This is not implemented at the moment.</source>
-        <translation>Nie można dodać połączenia przez port szeregowy. W tej chwili nie jest to realizowane.</translation>
+        <translation type="vanished">Nie można dodać połączenia przez port szeregowy. W tej chwili nie jest to realizowane.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="129"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="133"/>
         <source>Unable to add FLARM simulator file connection. This is not implemented at the moment.</source>
         <translation>Nie można dodać połączenia do symulatora FLARM. W tej chwili nie jest to realizowane.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="541"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="180"/>
+        <source>Serial ports are not supported on this platform.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="610"/>
         <source>Receiving heartbeat.</source>
         <translation>Odbieranie odświeżenia.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="544"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="613"/>
         <source>Receiving position info.</source>
         <translation>Odbieranie informacji o pozycji.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="548"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="617"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Odbieranie informacji o wysokości barometrycznej.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="555"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="624"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
         <translation>Brak sygnału pulsu odbiornika ruchu przez żadne ze skonfigurowanych połączeń danych.</translation>
     </message>
@@ -6457,6 +6593,9 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Ze względu na ograniczenia platformy połączenia z urządzeniami Bluetooth Classic nie są obsługiwane w systemie iOS.</translation>
     </message>
     <message>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="148"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="170"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="194"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="46"/>
         <source>A connection to this device already exists.</source>
         <translation>Połączenie z tym urządzeniem już istnieje.</translation>
@@ -7155,6 +7294,84 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     </message>
 </context>
 <context>
+    <name>Traffic::TrafficDataSource_SerialPort</name>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="44"/>
+        <source>Due to platform limitations, serial ports are not supported on iOS.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="55"/>
+        <source>Connected.</source>
+        <translation type="unfinished">Połączony.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="68"/>
+        <source>Not connected.</source>
+        <translation type="unfinished">Nie połączony.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="79"/>
+        <source>Non-existing device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="82"/>
+        <source>Attempting to open an already opened device by another process or a user not having enough permission and credentials to open.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="85"/>
+        <source>An error occurred while attempting to open an already opened device in this object.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="88"/>
+        <source>Attempted to execute an operation that can only be successfully performed if the device is open.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="91"/>
+        <source>I/O error while writing data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="94"/>
+        <source>I/O error while reading data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="97"/>
+        <source>I/O error occurred when a resource becomes unavailable, e.g. when the device is unexpectedly removed from the system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="100"/>
+        <source>Device operation unsupported or prohibited by the operating system.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="103"/>
+        <source>A timeout error occurred.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="106"/>
+        <source>An unidentified error occurred.</source>
+        <translation type="unfinished">Wystąpił niezidentyfikowany błąd.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="125"/>
+        <source>Unnamed Device</source>
+        <translation type="unfinished">Nienazwane urządzenie</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="127"/>
+        <source>Serial port connection to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Traffic::TrafficDataSource_Simulate</name>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="46"/>
@@ -7175,7 +7392,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Tcp</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Tcp.h" line="85"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Tcp.h" line="120"/>
         <source>TCP connection to %1 port %2</source>
         <translation>Połączenie TCP do %1 port %2</translation>
     </message>
@@ -7183,7 +7400,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Udp</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp.h" line="83"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp.h" line="105"/>
         <source>UDP connection to port %1</source>
         <translation>Połączenie UDP do portu %1</translation>
     </message>
