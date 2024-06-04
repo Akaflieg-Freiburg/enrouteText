@@ -4254,90 +4254,90 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Lire la fin du flux de données.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="63"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="64"/>
         <source>Data is larger than supported by the current platform.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="65"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="67"/>
         <source>Error writing to data stream.</source>
         <comment>FileFormats::TIFF</comment>
         <translatorcomment>Formats de fichiers::TIFF</translatorcomment>
         <translation>Erreur d&apos;écriture dans le flux de données.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="126"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="128"/>
         <source>Found invalid TIFF file data.</source>
         <comment>FileFormats::TIFF</comment>
         <translatorcomment>Formats de fichiers::TIFF</translatorcomment>
         <translation>Données de fichier TIFF non valides trouvées.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="134"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="136"/>
         <source>BigTIFF files are not supported.</source>
         <comment>FileFormats::TIFF</comment>
         <translatorcomment>Formats de fichiers::TIFF</translatorcomment>
         <translation>Les fichiers BigTIFF ne sont pas pris en charge.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="138"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="140"/>
         <source>Found an unsupported TIFF version.</source>
         <comment>FileFormats::TIFF</comment>
         <translatorcomment>Formats de fichiers::TIFF</translatorcomment>
         <translation>Une version TIFF non prise en charge a été trouvée.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="155"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="157"/>
         <source>Found more than 100 tags in the TIFF file. Reading only the first 100.</source>
         <comment>FileFormats::TIFF</comment>
         <translatorcomment>Formats de fichiers::TIFF</translatorcomment>
         <translation>Plus de 100 balises trouvées dans le fichier TIFF. Lire uniquement les 100 premiers.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="245"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="247"/>
         <source>Cannot read data.</source>
         <comment>FileFormats::TIFF</comment>
         <translatorcomment>Formats de fichiers::TIFF</translatorcomment>
         <translation>Impossible de lire les données.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="297"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="299"/>
         <source>No data for tag 256.</source>
         <comment>FileFormats::TIFF</comment>
         <translatorcomment>Formats de fichiers::TIFF</translatorcomment>
         <translation>Aucune donnée pour l&apos;étiquette 256.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="303"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="305"/>
         <source>Invalid data for tag 256.</source>
         <comment>FileFormats::TIFF</comment>
         <translatorcomment>Formats de fichiers::TIFF</translatorcomment>
         <translation>Données invalides pour l&apos;étiquette 256.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="308"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="310"/>
         <source>Tag 256 is not set.</source>
         <comment>FileFormats::TIFF</comment>
         <translatorcomment>Formats de fichiers::TIFF</translatorcomment>
         <translation>L&apos;étiquette 256 n&apos;est pas définie.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="320"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="322"/>
         <source>No data for tag 257.</source>
         <comment>FileFormats::TIFF</comment>
         <translatorcomment>Formats de fichiers::TIFF</translatorcomment>
         <translation>Aucune donnée pour l&apos;étiquette 257.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="326"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="328"/>
         <source>Invalid data for tag 257.</source>
         <comment>FileFormats::TIFF</comment>
         <translatorcomment>Formats de fichiers::TIFF</translatorcomment>
         <translation>Données invalides pour l&apos;étiquette 256.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="331"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="333"/>
         <source>Tag 257 is not set.</source>
         <comment>FileFormats::TIFF</comment>
         <translatorcomment>Formats de fichiers::TIFF</translatorcomment>
