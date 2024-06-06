@@ -3685,6 +3685,11 @@ z danymi konta bankowego.
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; może teraz łączyć się z odbiornikiem danych o ruchu drogowym za pośrednictwem połączenia Bluetooth. W tej chwili Enroute obsługuje tylko standard radiowy „Bluetooth Classic”, „Bluetooth Low Energy” nie jest obsługiwany. Ze względu na ograniczenia platformy, Bluetooth nie jest obsługiwany na urządzeniach z systemem iOS.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <source>Users with nonstandard hardware can now configure IP adresses for their traffic data receivers. Serial port connections are also supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
         <translation type="vanished">Ruchoma mapa została zaktualizowana, aby bardziej odzwierciedlała styl map ICAO. Pionowe granice przestrzeni powietrznej są teraz wyświetlane bezpośrednio na mapie.</translation>
     </message>
@@ -3761,7 +3766,7 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; na iOS jest dostępna do publicznych testów beta na &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;strona główna tej aplikacji&lt;/a&gt; zawiera również link do TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <location filename="../../../src/Librarian.cpp" line="292"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Potrzebujemy pomocy z grafiką promocyjną dla sklepów z aplikacjami i filmami instruktażowymi. Jeśli jesteś grafikiem/video artystą i chciałbyś pomóc, skontaktuj się z nami.</translation>
     </message>

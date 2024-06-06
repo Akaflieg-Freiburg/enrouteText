@@ -3682,6 +3682,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; kann nun über Bluetooth mit Ihrem Verkehrsdatenempfänger verbunden werden. Bisher unterstützt Enroute nur den Funkstandard &apos;Bluetooth Classic&apos;, aber nicht &apos;Bluetooth Low Energy&apos;. Wegen Beschränkungen der Plattform iOS wird Bluetooth auf solchen Geräten nicht unterstützt.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <source>Users with nonstandard hardware can now configure IP adresses for their traffic data receivers. Serial port connections are also supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
         <translation type="vanished">Die Moving Map nähert sich nach einem Update dem Stil der ICAO-Karten an. Vertikale Luftraumgrenzen werden dort nun direkt angezeigt.</translation>
     </message>
@@ -3766,7 +3771,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; für iOS steht auf &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt; für einen Betatest bereit. Auch die &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;Homepage dieser App&lt;/a&gt; enthält einen Link zu TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <location filename="../../../src/Librarian.cpp" line="292"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Wir könnten Hilfe bei Werbegrafiken für die App-Stores und bei erklärenden Videos gebrauchen. Sollten Sie das können und uns helfen wollen, hören wir gern von Ihnen!</translation>
     </message>

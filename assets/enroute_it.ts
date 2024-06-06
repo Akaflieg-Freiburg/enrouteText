@@ -3608,6 +3608,11 @@ con i dati del conto bancario.
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; può adesso connettere il tuo ricevitore di dati di traffico via Bluetooth. Al momento, Enroute supporta solo il Bluetooth stardard classico, il &apos;Bluetooth a bassa energia&apos; non è supportato. A causa delle limitazioni della piattaforma, il Bluetooth non è supportato su dispositivi iOS.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <source>Users with nonstandard hardware can now configure IP adresses for their traffic data receivers. Serial port connections are also supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
         <translation type="vanished">La mappa mobile è stata aggiornata per essere più simile allo stile mappe ICAO. I limiti verticali degli spazi aerei sono adesso mostrati direttamete sulla mappa.</translation>
     </message>
@@ -3684,7 +3689,7 @@ con i dati del conto bancario.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è disponibileper beta testing pubblico per iOS su&lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;homepage di questa app&lt;/a&gt; contiene anche il link per TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <location filename="../../../src/Librarian.cpp" line="292"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Abbiamo bisogno di grafica promozionale per la app store e con video di spiegazione. Contattaci se sei un artista video/grafico e vorresti aiutare.</translation>
     </message>

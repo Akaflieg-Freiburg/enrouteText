@@ -3169,6 +3169,11 @@ con los datos de la cuenta bancaria.</translation>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ahora puede conectarse a su receptor de datos de tráfico a través de la radio Bluetooth. Por el momento, Enroute solo admite el estándar de radio &apos;Bluetooth Classic&apos;; no es compatible con &apos;Bluetooth Low Energy&apos;. Debido a limitaciones de la plataforma, Bluetooth no es compatible con dispositivos iOS.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <source>Users with nonstandard hardware can now configure IP adresses for their traffic data receivers. Serial port connections are also supported.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
         <translation type="vanished">El mapa en movimiento se ha actualizado para seguir más de cerca el estilo de los mapas de la OACI. Los límites verticales del espacio aéreo ahora se muestran directamente en el mapa.</translation>
     </message>
@@ -3245,7 +3250,7 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; para iOS está disponible para pruebas beta públicas en &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;página de inicio de esta aplicación&lt;/a&gt; también contiene un enlace a TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <location filename="../../../src/Librarian.cpp" line="292"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Necesitamos ayuda con gráficos promocionales para los app stores y con videos explicativos. Si eres un artista gráfico o de video y te gustaría ayudar, por favor ponte en contacto.</translation>
     </message>

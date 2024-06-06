@@ -2816,7 +2816,7 @@ Message: Enroute Flight Navigation
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est désormais capable d&apos;afficher des cartes d&apos;approche visuelles sur la carte mobile. Les utilisateurs en Allemagne peuvent télécharger les VAC officiels de la Deutsche Flugsicherung (DFS) à l&apos;aide du très pratique &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. . Veuillez consulter le manuel pour plus de détails.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <location filename="../../../src/Librarian.cpp" line="292"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Nous avons besoin d&apos;aide avec des graphiques promotionnels pour les app stores et avec des vidéos explicatives. Si vous êtes un artiste graphique/vidéo et que vous souhaitez aider, n&apos;hésitez pas à nous contacter.</translation>
     </message>
@@ -3000,6 +3000,11 @@ Message: Enroute Flight Navigation
         <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to connected to your traffic data receiver via Bluetooth radio. At the moment, Enroute supports only the &apos;Bluetooth Classic&apos; radio standard, &apos;Bluetooth Low Energy&apos; is are not supported. Due to platform limitations, Bluetooth is not supported on iOS devices.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; peut désormais se connecter à votre récepteur de données de trafic via la radio Bluetooth. Pour le moment, Enroute ne prend en charge que la norme radio « Bluetooth Classic », « Bluetooth Low Energy » n&apos;est pas pris en charge. En raison des limitations de la plate-forme, Bluetooth n&apos;est pas pris en charge sur les appareils iOS.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <source>Users with nonstandard hardware can now configure IP adresses for their traffic data receivers. Serial port connections are also supported.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
