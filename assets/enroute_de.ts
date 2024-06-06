@@ -3684,7 +3684,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="290"/>
         <source>Users with nonstandard hardware can now configure IP adresses for their traffic data receivers. Serial port connections are also supported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Weicht Ihr Gerät vom Standard ab, können Sie jetzt die IP-Adresse Ihres Verkehrsdatenempfängers einstellen. Serielle Ports werden auch unterstützt.</translation>
     </message>
     <message>
         <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
