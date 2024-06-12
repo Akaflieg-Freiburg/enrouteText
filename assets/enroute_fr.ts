@@ -10,7 +10,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="32"/>
         <source>Add Bluetooth Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter une connexion Bluetooth</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="45"/>
@@ -888,108 +888,108 @@ données de manière publique et gratuite.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="218"/>
         <source>New Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Nouvelle connexion</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
         <source>Bluetooth Classic</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth Classique</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="242"/>
         <source>Serial Port Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexion du port série</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="252"/>
         <source>TCP Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexion TCP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="261"/>
         <source>UDP Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexion UDP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="279"/>
         <source>Error Adding Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur lors de l&apos;ajout de la connexion</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="371"/>
         <source>Add UDP Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter une connexion UDP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="381"/>
         <source>Please enter the port used by your traffic data receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez saisir le port utilisé par votre récepteur de données de trafic.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="383"/>
         <source>This is a number between 0 and 65535.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il s&apos;agit d&apos;un nombre compris entre 0 et 65535.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="390"/>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="462"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="417"/>
         <source>Adding UDP Connection: Port %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajout d&apos;une connexion UDP&#xa0;: port %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="427"/>
         <source>Add TCP Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter une connexion TCP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="441"/>
         <source>Please enter the host name and port number used by your traffic data receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Veuillez saisir le nom d&apos;hôte et le numéro de port utilisés par votre récepteur de données de trafic.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="443"/>
         <source>The host is typically an IPv4 address of the form &apos;192.168.4.1&apos;, but can be any internet address.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;hôte est généralement une adresse IPv4 de la forme &apos;192.168.4.1&apos;, mais peut être n&apos;importe quelle adresse Internet.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="445"/>
         <source>The port is a number between 0 and 65535.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le port est un nombre compris entre 0 et 65535.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="452"/>
         <source>Host</source>
-        <translation type="unfinished"></translation>
+        <translation>Hôte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="492"/>
         <source>Adding TCP Connection to %1, Port %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajout d&apos;une connexion TCP à %1, port %2</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="502"/>
         <source>Add Serial Port Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajouter une connexion au port série</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="513"/>
         <source>No Device Found</source>
-        <translation type="unfinished">Aucun appareil trouvé</translation>
+        <translation>Aucun appareil trouvé</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="542"/>
         <source>Adding Connection: %1</source>
-        <translation type="unfinished">Ajout d&apos;une connexion&#xa0;: %1</translation>
+        <translation>Ajout d&apos;une connexion&#xa0;: %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="551"/>
         <source>Scan for Devices</source>
-        <translation type="unfinished">Rechercher des appareils</translation>
+        <translation>Rechercher des appareils</translation>
     </message>
     <message>
         <source>Add Bluetooth Device</source>
@@ -4257,7 +4257,8 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/fileFormats/TIFF.cpp" line="64"/>
         <source>Data is larger than supported by the current platform.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers ::TIFF</translatorcomment>
+        <translation>Les données sont plus volumineuses que celles prises en charge par la plate-forme actuelle.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="67"/>
@@ -4466,19 +4467,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="144"/>
         <source>Serial Port Connection to %1</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Trafic ::Informations de connexion</translatorcomment>
+        <translation>Connexion du port série à %1</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="153"/>
         <source>UDP Connection to Port %1</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Trafic ::Informations de connexion</translatorcomment>
+        <translation>Connexion UDP au port %1</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="161"/>
         <source>TCP Connection to %1, Port %1</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Trafic ::Informations de connexion</translatorcomment>
+        <translation>Connexion TCP au port %1</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.h" line="286"/>
@@ -5064,7 +5068,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="180"/>
         <source>Serial ports are not supported on this platform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les ports série ne sont pas pris en charge sur cette plateforme.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="610"/>
@@ -5801,77 +5805,77 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="44"/>
         <source>Due to platform limitations, serial ports are not supported on iOS.</source>
-        <translation type="unfinished"></translation>
+        <translation>En raison des limitations de la plateforme, les ports série ne sont pas pris en charge sur iOS.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="55"/>
         <source>Connected.</source>
-        <translation type="unfinished">Connecté.</translation>
+        <translation>Connecté.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="68"/>
         <source>Not connected.</source>
-        <translation type="unfinished">Non connecté.</translation>
+        <translation>Non connecté.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="79"/>
         <source>Non-existing device</source>
-        <translation type="unfinished"></translation>
+        <translation>Appareil inexistant</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="82"/>
         <source>Attempting to open an already opened device by another process or a user not having enough permission and credentials to open.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentative d&apos;ouverture d&apos;un appareil déjà ouvert par un autre processus ou par un utilisateur ne disposant pas de suffisamment d&apos;autorisations et d&apos;informations d&apos;identification pour l&apos;ouvrir.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="85"/>
         <source>An error occurred while attempting to open an already opened device in this object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur s&apos;est produite lors de la tentative d&apos;ouverture d&apos;un périphérique déjà ouvert dans cet objet.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="88"/>
         <source>Attempted to execute an operation that can only be successfully performed if the device is open.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tentative d&apos;exécution d&apos;une opération qui ne peut être effectuée avec succès que si le périphérique est ouvert.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="91"/>
         <source>I/O error while writing data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur d&apos;I/O lors de l&apos;écriture des données.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="94"/>
         <source>I/O error while reading data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Erreur d&apos;I/O lors de la lecture des données.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="97"/>
         <source>I/O error occurred when a resource becomes unavailable, e.g. when the device is unexpectedly removed from the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur d&apos;E/S se produit lorsqu&apos;une ressource devient indisponible, par ex. lorsque le périphérique est supprimé de manière inattendue du système.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="100"/>
         <source>Device operation unsupported or prohibited by the operating system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fonctionnement de l&apos;appareil non pris en charge ou interdit par le système d&apos;exploitation.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="103"/>
         <source>A timeout error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Une erreur de délai d&apos;attente s&apos;est produite.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="106"/>
         <source>An unidentified error occurred.</source>
-        <translation type="unfinished">Erreur non-identifiée.</translation>
+        <translation>Erreur non-identifiée.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="125"/>
         <source>Unnamed Device</source>
-        <translation type="unfinished">Appareil sans nom</translation>
+        <translation>Appareil sans nom</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="127"/>
         <source>Serial port connection to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexion du port série à %1</translation>
     </message>
 </context>
 <context>
