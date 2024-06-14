@@ -2523,54 +2523,53 @@ con los datos de la cuenta bancaria.</translation>
         <translation>No se puede reconocer el tipo de archivo del archivo &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="178"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="125"/>
         <source>You have shared a location with &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</source>
         <translation>Has compartido una ubicación con &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="179"/>
         <source>In order to find the relevant geographic coordinate, the website &lt;strong&gt;%1&lt;/strong&gt; must briefly be opened in an embedded web browser window.</source>
-        <translation>Para encontrar la coordenada geográfica relevante, se debe abrir el sitio web &lt;strong&gt;%1&lt;/strong&gt; en una ventana del navegador web integrado.</translation>
+        <translation type="vanished">Para encontrar la coordenada geográfica relevante, se debe abrir el sitio web &lt;strong&gt;%1&lt;/strong&gt; en una ventana del navegador web integrado.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="220"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="224"/>
         <source>Import Waypoint Data</source>
         <translation>Importando datos de puntos de ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="221"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="225"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
         <translation>Tl archivo contiene una lista de puntos de ruta. ¿Importar como ruta de vuelo o agregar a la biblioteca de puntos de ruta?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="229"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="233"/>
         <source>Route</source>
         <translation>Ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="244"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="248"/>
         <source>Library</source>
         <translation>Biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="262"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="266"/>
         <source>Import Airspace Data</source>
         <translation>Importar datos del espacio aéreo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="316"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="320"/>
         <source>Airspace data imported</source>
         <translation>Datos del espacio aéreo importados</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="377"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="381"/>
         <source>Import Raster Map</source>
         <translation>Importar mapa ráster</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="272"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="387"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="448"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="276"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="391"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="452"/>
         <source>Enter a name for this map.</source>
         <translation>Introduzca un nombre para este mapa.</translation>
     </message>
@@ -2593,142 +2592,141 @@ con los datos de la cuenta bancaria.</translation>
         <translation>El archivo &lt;strong&gt;%1&lt;/strong&gt; parece contener un archivo zip sin los datos requeridos en un tripkit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="131"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="126"/>
+        <source>In order to find the relevant geographic coordinate, the website &lt;strong&gt;Google Maps&lt;/strong&gt; must briefly be opened in an embedded web browser window.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="135"/>
         <source>Unable to import text item</source>
         <translation>No se puede importar un elemento de texto</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="132"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="136"/>
         <source>The text item could not be interpreted.</source>
         <translation>El elemento de texto no se pudo interpretar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="162"/>
         <source>Privacy warning</source>
-        <translation>Advertencia de privacidad</translation>
+        <translation type="vanished">Advertencia de privacidad</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="180"/>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control this website.</source>
-        <translation>Los autores de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; no controlan este sitio web.</translation>
+        <translation type="vanished">Los autores de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; no controlan este sitio web.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="181"/>
         <source>They do not know what data it collects or how that data is processed.</source>
-        <translation>No saben qué datos recopila ni cómo se procesan.</translation>
+        <translation type="vanished">No saben qué datos recopila ni cómo se procesan.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="184"/>
         <source>With the click on OK, you consent to Enroute accessing &lt;strong&gt;%1&lt;/strong&gt; from your device.</source>
-        <translation>Al hacer clic en Aceptar, aceptas que Enroute acceda a &lt;strong&gt;%1&lt;/strong&gt; desde tu dispositivo.</translation>
+        <translation type="vanished">Al hacer clic en Aceptar, aceptas que Enroute acceda a &lt;strong&gt;%1&lt;/strong&gt; desde tu dispositivo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="185"/>
         <source>Click OK only if you agree with the terms and privacy policies of that site.</source>
-        <translation>Acepte solo si está de acuerdo con los términos y políticas de privacidad de ese sitio.</translation>
+        <translation type="vanished">Acepte solo si está de acuerdo con los términos y políticas de privacidad de ese sitio.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="203"/>
         <source>Always open external web sites, do not ask again</source>
-        <translation>Abrir siempre sitios web externos, no volver a preguntar</translation>
+        <translation type="vanished">Abrir siempre sitios web externos, no volver a preguntar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="323"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="327"/>
         <source>Import Visual Approach Chart</source>
         <translation>Importar carta de aproximación visual</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="338"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="342"/>
         <source>Enter a name for this chart. Existing approach charts with the same name will be overwritten.</source>
         <translation>Introduzca un nombre para este gráfico. Se sobrescribirán las cartas de aproximación existentes con el mismo nombre.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="370"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="374"/>
         <source>Visual approach chart data imported</source>
         <translation>Datos de la carta de aproximación visual importados</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="410"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="414"/>
         <source>To avoid conflicts, vector maps will be not be shown while raster maps are installed.</source>
         <translation>Para evitar conflictos, los mapas vectoriales no se mostrarán mientras estén instaladas los mapas ráster.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="431"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="435"/>
         <source>Raster map imported</source>
         <translation>Mapa ráster importada</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="438"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="442"/>
         <source>Import Vector Map</source>
         <translation>Mapa vectorial importado</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="471"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="475"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
         <translation>Para evitar conflictos entre mapas ráster y vectoriales, se desinstalarán todos los mapas ráster.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="492"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="496"/>
         <source>Vector map imported</source>
         <translation>Mapa vectorial importada</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="500"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="504"/>
         <source>Import Waypoint Library</source>
         <translation>Importar biblioteca de puntos de ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="512"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="516"/>
         <source>Skip over waypoint that already exist in the library</source>
         <translation>Omitir puntos de ruta que ya existen en la biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="531"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="535"/>
         <source>Waypoints imported</source>
         <translation>Puntos de ruta importados</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="538"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="542"/>
         <source>Import Flight Route?</source>
         <translation>¿Importar ruta de vuelo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="542"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="546"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Esto sobrescribirá la ruta actual. Una vez sobrescrita, la ruta de vuelo actual no se puede restaurar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="561"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="565"/>
         <source>Flight route imported</source>
         <translation>Ruta de vuelo importada</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="568"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="572"/>
         <source>Import Trip Kit?</source>
         <translation>¿Importar kit de viaje?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="572"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="576"/>
         <source>This might overwrite some approach charts.</source>
         <translation>Esto podría sobrescribir algunas cartas de aproximación.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="584"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="588"/>
         <source>Trip kit imported</source>
         <translation>Kit de viaje importado</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="594"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="598"/>
         <source>Data Import Error</source>
         <translation>Error de importación de datos</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="608"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="612"/>
         <source>Stand by</source>
         <translation>En espera</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="620"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="624"/>
         <source>Extracting and converting files from the trip kit. Please do not interrupt or close the app.</source>
         <translation>Extracción y conversión de archivos del kit de viaje. No interrumpa ni cierre la aplicación.</translation>
     </message>
@@ -4421,6 +4419,39 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/qml/pages/PrivacyPage.qml" line="28"/>
         <source>Privacy Policy</source>
         <translation>Política de privacidad</translation>
+    </message>
+</context>
+<context>
+    <name>PrivacyWarning</name>
+    <message>
+        <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="39"/>
+        <source>Privacy warning</source>
+        <translation type="unfinished">Advertencia de privacidad</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="56"/>
+        <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control the external website.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="57"/>
+        <source>They do not know what data it collects or how that data is processed.</source>
+        <translation type="unfinished">No saben qué datos recopila ni cómo se procesan.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="60"/>
+        <source>With the click on OK, you consent to Enroute accessing the external site from your device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="61"/>
+        <source>Click OK only if you agree with the terms and privacy policies of that site.</source>
+        <translation type="unfinished">Acepte solo si está de acuerdo con los términos y políticas de privacidad de ese sitio.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="79"/>
+        <source>Always open external web sites, do not ask again</source>
+        <translation type="unfinished">Abrir siempre sitios web externos, no volver a preguntar</translation>
     </message>
 </context>
 <context>
@@ -6916,108 +6947,143 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Vista satelital</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="449"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="452"/>
         <source>Route</source>
         <translation>Ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="461"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="464"/>
         <source>Direct</source>
         <translation>Directo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="472"/>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="619"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="475"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="685"/>
         <source>New flight route: direct to %1.</source>
         <translation>Nueva ruta: direct a %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="486"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="489"/>
         <source>Append</source>
         <translation>Añadir</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="499"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="502"/>
         <source>Added %1 to route.</source>
         <translation>Añadir a la ruta %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="504"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="507"/>
         <source>Insert</source>
         <translation>Introducir</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="517"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="520"/>
         <source>Inserted %1 into route.</source>
         <translation>Introducido %1 en la ruta.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="522"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="525"/>
         <source>Remove</source>
         <translation>Eliminar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="538"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="541"/>
         <source>Removed %1 from route.</source>
         <translation>Eliminado 1% de la ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="545"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="548"/>
         <source>Library</source>
         <translation>Biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="558"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="561"/>
         <source>Add…</source>
         <translation>Añadir ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="570"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="573"/>
         <source>Remove…</source>
         <translation>Eliminar...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="588"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="591"/>
         <source>Edit…</source>
         <translation>Editar ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="608"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="617"/>
+        <source>Privacy warning</source>
+        <translation type="unfinished">Advertencia de privacidad</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="633"/>
+        <source>In order to show a satellite view, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open Google Maps in an external web browser or a dedicated app.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="634"/>
+        <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control Google Maps.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="635"/>
+        <source>They do not know what data it collects or how that data is processed.</source>
+        <translation type="unfinished">No saben qué datos recopila ni cómo se procesan.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="638"/>
+        <source>With the click on OK, you consent to opening Google Maps on your device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="639"/>
+        <source>Click OK only if you agree with the terms and privacy policies of that site.</source>
+        <translation type="unfinished">Acepte solo si está de acuerdo con los términos y políticas de privacidad de ese sitio.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="657"/>
+        <source>Always open external web sites, do not ask again</source>
+        <translation type="unfinished">Abrir siempre sitios web externos, no volver a preguntar</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="674"/>
         <source>Overwrite Current Flight Route?</source>
         <translation>¿Sobrescribir la ruta de vuelo actual?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="609"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="675"/>
         <source>Once overwritten, the current flight route cannot be restored.</source>
         <translation>Una vez sobrescrita, la ruta de vuelo actual no se puede restaurar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="643"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="709"/>
         <source>Modified entry %1 in library.</source>
         <translation>Entrada modificada %1 en la biblioteca.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="650"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="716"/>
         <source>Add Waypoint to Library</source>
         <translation>Añadir el punto de ruta en la biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="659"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="725"/>
         <source>Added %1 to waypoint library.</source>
         <translation>Añadido %1 a la biblioteca de los puntos de ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="668"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="734"/>
         <source>Remove from Device?</source>
         <translation>¿Quitar del dispositivo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="669"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="735"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Una vez que se elimina el punto de ruta &lt;strong&gt;%1&lt;/strong&gt;, no se puede restaurar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="676"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="742"/>
         <source>Waypoint removed from device</source>
         <translation>Punto de ruta eliminado de su dispositivo.</translation>
     </message>
@@ -10578,12 +10644,23 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Avrir en el navegador</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="515"/>
+        <location filename="../../../src/qml/main.qml" line="518"/>
+        <source>In order to show the manual, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open an external web site hosted by GitHub.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="527"/>
         <source>Download as ebook</source>
         <translation>Descargar como ebook</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="529"/>
+        <location filename="../../../src/qml/main.qml" line="545"/>
+        <location filename="../../../src/qml/main.qml" line="571"/>
+        <source>In order to download the manual, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open an external web site hosted by GitHub.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="553"/>
         <source>Download as PDF</source>
         <translation>Descargar como pdf</translation>
     </message>
@@ -10592,83 +10669,83 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Informe de error</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="577"/>
+        <location filename="../../../src/qml/main.qml" line="612"/>
         <source>Exit</source>
         <translation>Salida</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="635"/>
+        <location filename="../../../src/qml/main.qml" line="670"/>
         <source>Update required!</source>
         <translation>Actualización necessaria</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="775"/>
+        <location filename="../../../src/qml/main.qml" line="810"/>
         <source>Connected to traffic receiver.</source>
         <translation>Connectado al receptor de tráfico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="777"/>
+        <location filename="../../../src/qml/main.qml" line="812"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Conexión pérdida con el receptor de tráfico.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="826"/>
+        <location filename="../../../src/qml/main.qml" line="861"/>
         <source>Exit…?</source>
         <translation>Salida...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="827"/>
+        <location filename="../../../src/qml/main.qml" line="862"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Quiere salir de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="648"/>
-        <location filename="../../../src/qml/main.qml" line="662"/>
+        <location filename="../../../src/qml/main.qml" line="683"/>
+        <location filename="../../../src/qml/main.qml" line="697"/>
         <source>What&apos;s new…?</source>
         <translation>Que hay de nuevo...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="552"/>
+        <location filename="../../../src/qml/main.qml" line="587"/>
         <source>Bug Report</source>
         <translation>Informe de error</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="863"/>
+        <location filename="../../../src/qml/main.qml" line="898"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Ahora mostrando espacios aéreos hasta %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="865"/>
+        <location filename="../../../src/qml/main.qml" line="900"/>
         <source>Now showing all airspaces.</source>
         <translation>Ahora mostrando todos los espacios aéreos.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="899"/>
+        <location filename="../../../src/qml/main.qml" line="934"/>
         <source>You have chosen to ignore network security errors in the future.</source>
         <translation>Ha elegido ignorar los errores de seguridad de la red en el futuro.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="900"/>
+        <location filename="../../../src/qml/main.qml" line="935"/>
         <source>This poses a security risk.</source>
         <translation>Esto supone un riesgo de seguridad.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="901"/>
+        <location filename="../../../src/qml/main.qml" line="936"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Vaya a la página &quot;Configuración&quot; si desea restaurar el comportamiento original y seguro de esta aplicación.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="931"/>
+        <location filename="../../../src/qml/main.qml" line="966"/>
         <source>Error!</source>
         <translation>¡Error!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="945"/>
+        <location filename="../../../src/qml/main.qml" line="980"/>
         <source>Starting map update</source>
         <translation>Iniciando actualización de mapas</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="886"/>
+        <location filename="../../../src/qml/main.qml" line="921"/>
         <source>Network security error</source>
         <translation>Error de seguridad de la red</translation>
     </message>
@@ -10678,7 +10755,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Posicionamiento de navegación por satélite</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="898"/>
+        <location filename="../../../src/qml/main.qml" line="933"/>
         <source>Network security settings</source>
         <translation>Configuración de seguridad de la red</translation>
     </message>
@@ -10687,39 +10764,39 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Ha elegido ignorar los errores de seguridad de la red en el futuro. **Esto representa un riesgo de seguridad.** Vaya a la página &quot;Configuración&quot; si desea restaurar el comportamiento original y seguro de esta aplicación.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="139"/>
+        <location filename="../../../src/main.cpp" line="143"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation es una aplicación de navegación gratuita para pilotos VFR,
 desarrollado como un proyecto de Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="144"/>
+        <location filename="../../../src/main.cpp" line="148"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
         <translation>Eecutar simulador y generar capturas de pantalla para GooglePlay</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="149"/>
+        <location filename="../../../src/main.cpp" line="153"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Ejecute el simulador y genere capturas de pantalla para iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="153"/>
+        <location filename="../../../src/main.cpp" line="157"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Ejecutar simulador y generar capturas de pantalla para el manual</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="158"/>
+        <location filename="../../../src/main.cpp" line="162"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>busque una cadena de código usando Librarian::getStringFromRessource e imprímala en stdout</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="160"/>
+        <location filename="../../../src/main.cpp" line="164"/>
         <source>string name</source>
         <translation>Nombre de la cadena de código</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="162"/>
+        <location filename="../../../src/main.cpp" line="166"/>
         <source>File to import.</source>
         <translation>Archivo a importar.</translation>
     </message>
