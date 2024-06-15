@@ -2451,7 +2451,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="126"/>
         <source>In order to find the relevant geographic coordinate, the website &lt;strong&gt;Google Maps&lt;/strong&gt; must briefly be opened in an embedded web browser window.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afin de trouver les coordonnées géographiques pertinentes, le site Web &lt;strong&gt;Google Maps&lt;/strong&gt; doit être brièvement ouvert dans une fenêtre de navigateur Web intégré.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="414"/>
@@ -3844,32 +3844,32 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="39"/>
         <source>Privacy warning</source>
-        <translation type="unfinished">Avertissement de confidentialité</translation>
+        <translation>Avertissement de confidentialité</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="56"/>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control the external website.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les auteurs de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ne contrôlent pas le site Web externe.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="57"/>
         <source>They do not know what data it collects or how that data is processed.</source>
-        <translation type="unfinished">Ils ne peuvent pas savoir quelles données sont collectées et comment elles sont traitées.</translation>
+        <translation>Ils ne peuvent pas savoir quelles données sont collectées et comment elles sont traitées.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="60"/>
         <source>With the click on OK, you consent to Enroute accessing the external site from your device.</source>
-        <translation type="unfinished"></translation>
+        <translation>En cliquant sur OK, vous consentez à ce qu&apos;Enroute accède au site externe depuis votre appareil.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="61"/>
         <source>Click OK only if you agree with the terms and privacy policies of that site.</source>
-        <translation type="unfinished">Appuyez sur OK si vous êtes d&apos;accord avec les termes de confidentialité de ce site.</translation>
+        <translation>Appuyez sur OK si vous êtes d&apos;accord avec les termes de confidentialité de ce site.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="79"/>
         <source>Always open external web sites, do not ask again</source>
-        <translation type="unfinished">Toujours ouvrir les liens menant vers des sites extérieurs, ne plus me demander</translation>
+        <translation>Toujours ouvrir les liens menant vers des sites extérieurs, ne plus me demander</translation>
     </message>
 </context>
 <context>
@@ -6335,37 +6335,37 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="617"/>
         <source>Privacy warning</source>
-        <translation type="unfinished">Avertissement de confidentialité</translation>
+        <translation>Avertissement de confidentialité</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="633"/>
         <source>In order to show a satellite view, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open Google Maps in an external web browser or a dedicated app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afin d&apos;afficher une vue satellite, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; demandera à votre système d&apos;ouvrir Google Maps dans un navigateur Web externe ou une application dédiée.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="634"/>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control Google Maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les auteurs de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ne contrôlent pas Google Maps.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="635"/>
         <source>They do not know what data it collects or how that data is processed.</source>
-        <translation type="unfinished">Ils ne peuvent pas savoir quelles données sont collectées et comment elles sont traitées.</translation>
+        <translation>Ils ne peuvent pas savoir quelles données sont collectées et comment elles sont traitées.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="638"/>
         <source>With the click on OK, you consent to opening Google Maps on your device.</source>
-        <translation type="unfinished"></translation>
+        <translation>En cliquant sur OK, vous consentez à ouvrir Google Maps sur votre appareil.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="639"/>
         <source>Click OK only if you agree with the terms and privacy policies of that site.</source>
-        <translation type="unfinished">Appuyez sur OK si vous êtes d&apos;accord avec les termes de confidentialité de ce site.</translation>
+        <translation>Appuyez sur OK si vous êtes d&apos;accord avec les termes de confidentialité de ce site.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="657"/>
         <source>Always open external web sites, do not ask again</source>
-        <translation type="unfinished">Toujours ouvrir les liens menant vers des sites extérieurs, ne plus me demander</translation>
+        <translation>Toujours ouvrir les liens menant vers des sites extérieurs, ne plus me demander</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="716"/>
@@ -9832,7 +9832,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="518"/>
         <source>In order to show the manual, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open an external web site hosted by GitHub.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afin d&apos;afficher le manuel, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; demandera à votre système d&apos;ouvrir un site Web externe hébergé par GitHub.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="527"/>
@@ -9843,7 +9843,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/main.qml" line="545"/>
         <location filename="../../../src/qml/main.qml" line="571"/>
         <source>In order to download the manual, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open an external web site hosted by GitHub.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afin de télécharger le manuel, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; demandera à votre système d&apos;ouvrir un site Web externe hébergé par GitHub.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="553"/>
