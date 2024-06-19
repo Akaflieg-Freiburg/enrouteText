@@ -3041,52 +3041,52 @@ Message: Enroute Flight Navigation
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="616"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="580"/>
         <source>There is no aviation map installed.</source>
         <translation>Aucune carte de données aéronautiques installée.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="618"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="582"/>
         <source>Please wait for the download to complete.</source>
         <translation>Merci d&apos;attendre que le téléchargement soit terminé.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="619"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="583"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
         <translation>Pour installer une carte, ouvrez le menu via le boutton dans le coin supérieur gauche.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="620"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="584"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
         <translation>Choisissez &lt;a href=&apos;xx&apos;&gt;Bibliothèque/Cartes et Données&lt;/a&gt; Pour ouvrir la page de gestion des cartes.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="655"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="619"/>
         <source>Airspaces up to %1</source>
         <translation>Espaces aériens jusqu&apos;à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="690"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="654"/>
         <source>Map Mode: Track Up</source>
         <translation>Mode : Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="693"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="657"/>
         <source>Map Mode: North Up</source>
         <translation>Mode : Nord</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="713"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="677"/>
         <source>Map Mode: Autopan</source>
         <translation>Mode : Auto</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="820"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="784"/>
         <source>Map Data Copyright Info</source>
         <translation>Info copyright sur les données de carte</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="823"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="787"/>
         <source>Map Data Copyright Information</source>
         <translation>Info copyright sur les données de carte</translation>
     </message>
