@@ -5,12 +5,12 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-3.0+</project_license>
   <name>Enroute Flight Navigation</name>
-  <summary>A flight navigation app for VFR pilots</summary>
-  <summary xml:lang="de">Flugnavigation für VFR-Piloten</summary>
-  <summary xml:lang="es">Una aplicación de navegación de vuelos para pilotos VFR</summary>
-  <summary xml:lang="fr">Une application de navigation VFR</summary>
-  <summary xml:lang="it">Un'app di navigazione di volo per i piloti VFR</summary>
-  <summary xml:lang="pl">Aplikacja do nawigacji lotniczej dla pilotów VFR</summary>
+  <summary>Flight Navigation App</summary>
+  <summary xml:lang="de">Flugnavigation</summary>
+  <summary xml:lang="es">Navegación de vuelos</summary>
+  <summary xml:lang="fr">Navigation VFR</summary>
+  <summary xml:lang="it">Navigazione di volo</summary>
+  <summary xml:lang="pl">Aplikacja do nawigacji lotniczej</summary>
   <description>
     <p>Enroute Flight Navigation is a flight navigation app for VFR pilots. The
     app runs primarily on mobile devices.  It is free, open source, 100%
@@ -50,23 +50,28 @@
   <releases>
     <release version="${PROJECT_VERSION}" date="${GIT_DATE}"/>
   </releases>
-  <developer_name>
-    Akaflieg Freiburg
-  </developer_name>
+  <developer id="de.akaflieg-freiburg">
+    <name>Akaflieg Freiburg</name>
+  </developer>
   <screenshots>
     <screenshot type="default">
+      <caption>Flight Map Overview.</caption>
       <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/00-Desktop.png</image>
     </screenshot>
     <screenshot>
+      <caption>Detail Map.</caption>
       <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/01-Desktop.png</image>
     </screenshot>
     <screenshot>
+      <caption>Airfield Information.</caption>
       <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/02-Desktop.png</image>
     </screenshot>
     <screenshot>
+      <caption>NavAid Information.</caption>
       <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/03-Desktop.png</image>
     </screenshot>
     <screenshot>
+      <caption>Flight Planning.</caption>
       <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/04-Desktop.png</image>
     </screenshot>
   </screenshots>
