@@ -3463,208 +3463,211 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="181"/>
         <source>This Privacy Policy outlines the data handling practices for the app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa Privacy Policy evidenzia il processo di gestione dei dati per &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="182"/>
         <source>We prioritize your privacy and do not collect or store personally identifiable information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diamo priorità alla tua privacy e non raccogliamo o immagazziniamo nessun dato personale.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="183"/>
         <source>However, for the app to function properly, it must communicate with certain servers on the Internet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Comunque, per far funzionare bene, la app deve comunicare con certi servers su internet.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="184"/>
         <source>The following sections list the servers that &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; communicates with and explain the communication purposes.</source>
-        <translation type="unfinished"></translation>
+        <translation>La sezione seguente elenca i servers con cui &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; comunica e spiega gli scopi della comunicazione.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="188"/>
         <source>By using Enroute Flight Navigation, you agree to this Privacy Policy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usando Enroute Flight Navigation, sei daccordo con questa Privacy Policy.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="189"/>
         <source>We may update this policy periodically, and any changes will be posted within the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Potremmo aggiornare questa policy periodicamente, e ogni modifica sarà evidenziata nella app.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="193"/>
         <source>1. Data and Anonymization Server (enroute-data)</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>&quot;Anonymity&quot; is a better term.</translatorcomment>
+        <translation>1. Dati e anonimato dei server (dati di Enroute)</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="197"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; regularly communicates with the server &lt;strong&gt;enroute-data.akaflieg-freiburg.de&lt;/strong&gt; (referred to as &lt;strong&gt;enroute-data&lt;/strong&gt;), operated by Hetzner Online GmbH on behalf of Akaflieg Freiburg.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; comunica regolarmente con il server di &lt;strong&gt;enroute-data.akaflieg-freiburg.de&lt;/strong&gt; (chiamato anche &lt;strong&gt;enroute-data&lt;/strong&gt;), operato per conto di Akaflieg Freiburs da Hetzner Online GmbH.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="198"/>
         <source>The server&apos;s primary role is to facilitate the app&apos;s functionality while maintaining user privacy.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il ruolo primario del server è di facilitare le funzionalità della app preservando la privacy dell&apos;utente.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="202"/>
         <source>1.1. Data Collected</source>
-        <translation type="unfinished"></translation>
+        <translation>1.1. Raccolta dati</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="206"/>
         <source>In every communication with &lt;strong&gt;enroute-data&lt;/strong&gt;, your device&apos;s IP address is transmitted to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>In ogni comunicazione con &lt;strong&gt;enroute-data&lt;/strong&gt;, l&apos;indirizzo IP del tuo dispositivo è trasmesso al server.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="207"/>
         <source>The server needs to know the IP address to respond.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il server ha bisogno di conoscere l&apos;indirizzo IP per rispondere.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="211"/>
         <source>The server stores the following data items in its log files.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il server immagazzina i seguenti dati per proprio file log.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="215"/>
         <source>&lt;strong&gt;Pseudonymized IP Address&lt;/strong&gt;: The last byte of your IP address is replaced with a random number, ensuring it cannot identify you.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Indirizzo IP pseudonimo&lt;/strong&gt;: L&apos;ultimo byte del tuo IP è rimpiazzato con un numero casuale, per garantire l&apos;anonimato.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="216"/>
         <source>&lt;strong&gt;Access Data&lt;/strong&gt;: Date and time of access, error codes, and data sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Accesso ai Dati&lt;/strong&gt;: Data e ora dell&apos;accesso, codici di errore e dati inviati.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="217"/>
         <source>&lt;strong&gt;Software Information&lt;/strong&gt;: The name of the web browser or software in use if the visitor’s software provides this information to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Informazioni sul Software&lt;/strong&gt;: Il nome del browser web o del software in uso se il software del visitatore fornisce queste informazioni al server.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="218"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; does not provide this information and sends a standard text (&apos;Mozilla/5.0&apos;) instead.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; non fornisce queste informazioni, invia invece un testo standart (&apos;Mozilla/5.0&apos;).</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="219"/>
         <source>&lt;strong&gt;Operating System:&lt;/strong&gt; The operating system&apos;s name if the visitor’s software provides this information to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Operating System:&lt;/strong&gt;: Il nome del sistema operativo se il software del visitatore fornisce questa informazione al server.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="220"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; does not provide this information. </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; non fornisce questa informazione. </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="224"/>
         <source>1.2. Communication: Data Download</source>
-        <translation type="unfinished"></translation>
+        <translation>1.2. Comunicazione: scaricamento di dati</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="228"/>
         <source>The app checks for updates and downloads data from &lt;strong&gt;enroute-data&lt;/strong&gt; to provide current maps and aviation data.</source>
-        <translation type="unfinished"></translation>
+        <translation>La app controlla gli aggiornamenti e lo scaricamento dei dati da &lt;strong&gt;enroute-data&lt;/strong&gt; per fornire le mappe installate e dati aeronautici.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="229"/>
         <source>Your IP address is transmitted in the process.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il tuo indirizzo IP è fornito nel processo.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="233"/>
         <source>1.3. Communication: NOTAM, METAR and TAF </source>
-        <translation type="unfinished"></translation>
+        <translation>1.3. Comunicazioni: NOTAM, METAR e TAF </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="237"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; shows NOTAMs, METARs, and TAFs for airfields near your current location and your currently planned route.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; mostra NOTAM, METAR e TAF per gli aeroporti vicini alla tua posizione corrente e la tua rotta pianificata.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="238"/>
         <source>It also shows NOTAMs, METARs, and TAFs for all waypoints you open in the app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mostra anche NOTAM, METAR e TAF per tutti i punti intermedi che apri nella app.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="239"/>
         <source>To provide this functionality, requests are transmitted to the server &lt;strong&gt;enroute-data&lt;/strong&gt; at regular intervals and whenever new data is requested.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per fornire questa funzione, le richieste sono trasmesse ai server di &lt;strong&gt;enroute-data&lt;/strong&gt; ad intervalli regolari o ogni volta che un nuovo dato viere richiesto.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="240"/>
         <source>In addition to your device&apos;s IP address, the following data items will be sent.</source>
-        <translation type="unfinished"></translation>
+        <translation>Oltre all&apos;IP del dispositivo, vengono trasmessi i seguenti dati.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="250"/>
         <source>The server forwards requests for METARs and TAFs to a web service at the Aviation Weather Center but hides your IP address, so the web service will never see it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il server inoltra la richiesta di METAR e TAF a un servizio web presso l&apos;Aviation Weather Center ma nasconde il tuo IP, in questo modo il servizio web non lo vedrà.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="251"/>
         <source>The web services at the Aviation Weather Center are operated by the US government.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il servizio web presso l&apos;Aviation Weather Center è operato dal governo USA.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="252"/>
         <location filename="../../../src/Librarian.cpp" line="259"/>
         <source>We do not control the data handling practices of these external services.</source>
-        <translation type="unfinished"></translation>
+        <translation>Noi non controlliamo la gestione dei dati di questi server esterni.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="253"/>
         <source>Detailed information can be found at &lt;strong&gt;www.aviationweather.gov/dataserver&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni più dettagliate possono essere trovate su &lt;strong&gt;www.aviationweather.gov/dataserver&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="257"/>
         <source>The server forwards requests for NOTAMs to a Federal Aviation Administration web service but hides your IP address, so the service will never see it.</source>
-        <translation type="unfinished"></translation>
+        <translation>il server inoltra la richiesta di NOTAM ai servizi web della Federal Aviation Administration ma nasconde il tuo IP,così il servizio non può vederlo.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="258"/>
         <source>The Federal Aviation Administration&apos;s web services are operated by the US government.</source>
-        <translation type="unfinished"></translation>
+        <translation>I servizi web della Federal Aviation Administration sono operati dal governo USA.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="260"/>
         <source>Detailed information can be found at &lt;strong&gt;api.faa.gov&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Informazioni più dettagliate possono essere trovate su &lt;strong&gt;api.faa.gov&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="264"/>
         <source>Other Servers </source>
-        <translation type="unfinished"></translation>
+        <translation>Altri server </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="268"/>
         <source>At the user&apos;s request, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; may display external websites in an embedded browser window or ask the operating system to open external apps such as Google Maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>A seguito della richiesta dell&apos;utente, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; può mostrare siti web esterni in un browser incorporato o chiedere al sistema operativo di aprire una app esterna come Google Maps.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="269"/>
         <source>These external sites and apps are beyond our control and may collect their own data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questi siti esterni e app sono oltre il nostro controllo e potrebbero raccogliere i tuoi dati.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="273"/>
         <source>Users expect web browsers to follow hyperlinks immediately but may not expect the same behavior elsewhere in the app.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>This sentence is not very clear.</translatorcomment>
+        <translation>Gli utenti si aspettano che il browser segua il link immediatamente ma lo stesso comportamento non deve essere atteso in altre parti della app.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="274"/>
         <source>To account for these expectations, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; operates as follows.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per giustificare queste aspettative, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; opera come segue.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;strong&gt;Embedded Browser Windows&lt;/strong&gt;: Clicking a hyperlink is considered authorization to open the external site.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Finestra del Browser integrato&lt;/strong&gt;: Cliccare su un link è considerato come una autorizzazione ad aprire il sito esterno.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
         <source>&lt;strong&gt;Outside Embedded Browser Windows&lt;/strong&gt;: The app will ask for explicit user authorization before opening any external site or app.</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>&quot;outside embedded&quot; does not clearly indicate what it is. My personal opinion.</translatorcomment>
+        <translation>&lt;strong&gt;Finestra di un browser integrato esterno&lt;/strong&gt;: La app chiederà esplicitamente all&apos;utente l&apos;autorizzazione prima di aprire qualsiasi sito esterno o app.</translation>
     </message>
     <message>
         <source>We do not collect our users&apos; personal data.</source>
