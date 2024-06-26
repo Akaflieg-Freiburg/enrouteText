@@ -3536,22 +3536,22 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="182"/>
         <source>We prioritize your privacy and do not collect or store personally identifiable information.</source>
-        <translation>Wir bewerten Datenschutz sehr hoch und sammeln oder speichern nichts zur Identifikation Ihrer Person.</translation>
+        <translation>Wir legen großen Wert auf Ihre Privatsphäre und sammeln und speichern keine persönlich identifizierbaren Informationen.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="183"/>
         <source>However, for the app to function properly, it must communicate with certain servers on the Internet.</source>
-        <translation>Die Funktion der App erfordert allerdings einen Datenaustausch mit bestimmten Servern im Internet.</translation>
+        <translation>Damit die App jedoch ordnungsgemäß funktioniert, muss sie mit bestimmten Servern im Internet kommunizieren.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="184"/>
         <source>The following sections list the servers that &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; communicates with and explain the communication purposes.</source>
-        <translation>Im Folgenden sehen Sie die Server, mit denen &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; kommuniziert und zu welchem Zweck.</translation>
+        <translation>In den folgenden Abschnitten werden die Server aufgeführt, mit denen &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; kommuniziert, und die Zwecke der Kommunikation erläutert.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="188"/>
         <source>By using Enroute Flight Navigation, you agree to this Privacy Policy.</source>
-        <translation>Mit der Verwendung von Enroute Flight Navigation stimmen Sie unserer Datenschutzrichtlinie zu.</translation>
+        <translation>Mit der Verwendung von Enroute Flight Navigation stimmen Sie dieser Datenschutzrichtlinie zu.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="189"/>
