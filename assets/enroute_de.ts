@@ -3571,7 +3571,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="198"/>
         <source>The server&apos;s primary role is to facilitate the app&apos;s functionality while maintaining user privacy.</source>
-        <translation>In erster Linie unterstützt der Server die App-Funktionen bei gleichzeitiger Wahrung des Datenschutzes.</translation>
+        <translation type="unfinished">Die Hauptaufgabe des Servers besteht darin, die Funktionalität der App zu ermöglichen und gleichzeitig die Privatsphäre der Nutzer zu schützen.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="202"/>
@@ -3707,32 +3707,32 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="268"/>
         <source>At the user&apos;s request, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; may display external websites in an embedded browser window or ask the operating system to open external apps such as Google Maps.</source>
-        <translation>Auf Anforderung des Benutzers kann &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; externe Webseiten eingebettet im Browserfenster anzeigen oder über das Betriebssystem externe Apps wie z.B. Google Maps öffnen.</translation>
+        <translation>Auf Anforderung des Benutzers kann &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; externe Webseiten öffnen. Diese werden enteder in einem eingebetteten Browser angezeigt, oder das Betriebssystem wird eine externe App (wie z.B. Google Maps) öffnen.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="269"/>
         <source>These external sites and apps are beyond our control and may collect their own data.</source>
-        <translation>Diese externen Webseiten sind jenseits unserer Kontrolle und sammeln evtl. Daten auf ihre Weise.</translation>
+        <translation>Diese externen Webseiten entziehen sich unserer Kontrolle und sammeln eventuell Daten.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="273"/>
         <source>Users expect web browsers to follow hyperlinks immediately but may not expect the same behavior elsewhere in the app.</source>
-        <translation>Benutzer erwarten, dass Browser Links sofort öffnen, aber an anderen Stellen der App kann das anders sein.</translation>
+        <translation>Benutzer erwarten, dass der eingebette Browser jeden Link sofort öffnet. Ausserhalb des eingebetten Browsers werden die Benutzer unter Umständen ein anderes Verhalten erwarten.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="274"/>
         <source>To account for these expectations, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; operates as follows.</source>
-        <translation>Um diesen Erwartungen zu begegenen, verhält sich &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; folgendermaßen.</translation>
+        <translation>Um diesen Erwartungen zu entsprechen, verhält sich &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; folgendermaßen.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>&lt;strong&gt;Embedded Browser Windows&lt;/strong&gt;: Clicking a hyperlink is considered authorization to open the external site.</source>
-        <translation>&lt;strong&gt;Eingebettete Browserfenster&lt;/strong&gt;: Einen Link anklicken bedeutet die Berechtigung, eine externe Seite aufzurufen.</translation>
+        <translation>&lt;strong&gt;Innerhalb des eingebetteten Browsers&lt;/strong&gt;: Ein Klick auf einen Link wird als Autorisierung gewertet, die externe Seite sofort zu öffnen.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
         <source>&lt;strong&gt;Outside Embedded Browser Windows&lt;/strong&gt;: The app will ask for explicit user authorization before opening any external site or app.</source>
-        <translation>&lt;strong&gt;Außerhalb eines eingebetteten Browserfensters&lt;/strong&gt;: Die App fragt ausdrücklich nach Berechtigung, bevor sie eine externe Seite oder App öffnet.</translation>
+        <translation>&lt;strong&gt;Außerhalb des eingebetteten Browsers&lt;/strong&gt;: Die App fragt ausdrücklich nach Berechtigung, bevor sie eine externe Seite oder App öffnet.</translation>
     </message>
     <message>
         <source>We do not collect our users&apos; personal data.</source>
