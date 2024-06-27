@@ -3571,7 +3571,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="198"/>
         <source>The server&apos;s primary role is to facilitate the app&apos;s functionality while maintaining user privacy.</source>
-        <translation type="unfinished">Die Hauptaufgabe des Servers besteht darin, die Funktionalität der App zu ermöglichen und gleichzeitig die Privatsphäre der Nutzer zu schützen.</translation>
+        <translation>Die Hauptaufgabe des Servers besteht darin, die Funktionalität der App zu ermöglichen und gleichzeitig die Privatsphäre der Nutzer zu schützen.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="202"/>
