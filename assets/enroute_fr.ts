@@ -10104,38 +10104,38 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Paramètres de sécurité réseau</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="143"/>
+        <location filename="../../../src/main.cpp" line="145"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation est une application de navigation VFR gratuite dévelopée en tant que projet de l&apos;aéroclub Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="148"/>
+        <location filename="../../../src/main.cpp" line="150"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
         <translation>Exécuter le simulateur et générer des captures d’écran pour GooglePlay</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="153"/>
+        <location filename="../../../src/main.cpp" line="155"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Exécuter le simulateur et générer des captures d’écran pour iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="157"/>
+        <location filename="../../../src/main.cpp" line="159"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Exécuter le simulateur et générer des captures d’écran pour le manuel</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="162"/>
+        <location filename="../../../src/main.cpp" line="164"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>rechercher une chaîne de code à l&apos;aide de Librarian :: getStringFromRessource et l&apos;imprimer sur stdout</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="164"/>
+        <location filename="../../../src/main.cpp" line="166"/>
         <source>string name</source>
         <translation>Nom de la chaîne de code</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="166"/>
+        <location filename="../../../src/main.cpp" line="168"/>
         <source>File to import.</source>
         <translation>Fichier à importer</translation>
     </message>

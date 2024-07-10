@@ -10931,39 +10931,39 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Ha elegido ignorar los errores de seguridad de la red en el futuro. **Esto representa un riesgo de seguridad.** Vaya a la página &quot;Configuración&quot; si desea restaurar el comportamiento original y seguro de esta aplicación.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="143"/>
+        <location filename="../../../src/main.cpp" line="145"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation es una aplicación de navegación gratuita para pilotos VFR,
 desarrollado como un proyecto de Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="148"/>
+        <location filename="../../../src/main.cpp" line="150"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
         <translation>Eecutar simulador y generar capturas de pantalla para GooglePlay</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="153"/>
+        <location filename="../../../src/main.cpp" line="155"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Ejecute el simulador y genere capturas de pantalla para iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="157"/>
+        <location filename="../../../src/main.cpp" line="159"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Ejecutar simulador y generar capturas de pantalla para el manual</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="162"/>
+        <location filename="../../../src/main.cpp" line="164"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>busque una cadena de código usando Librarian::getStringFromRessource e imprímala en stdout</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="164"/>
+        <location filename="../../../src/main.cpp" line="166"/>
         <source>string name</source>
         <translation>Nombre de la cadena de código</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="166"/>
+        <location filename="../../../src/main.cpp" line="168"/>
         <source>File to import.</source>
         <translation>Archivo a importar.</translation>
     </message>

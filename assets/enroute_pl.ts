@@ -11886,34 +11886,34 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Wybrałeś, aby ignorować w przyszłości błędy bezpieczeństwa sieci. **To zwiększa ryzyko przewania zabezpieczeń.** Przejdź do strony &apos;Ustawienia&apos; jeśli chcesz przywrócić oryginalne, bezpieczne zachowanie tej aplikacji.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="143"/>
+        <location filename="../../../src/main.cpp" line="145"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation to darmowa nawigacja lotnicza dla pilotów VFR,
 rozwijana jako projekt Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="148"/>
+        <location filename="../../../src/main.cpp" line="150"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
         <translation>Uruchom symulator i wygeneruj zrzuty ekranu dla GooglePlay</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="153"/>
+        <location filename="../../../src/main.cpp" line="155"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Uruchom symulator i wygeneruj zrzuty ekranu dla iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="157"/>
+        <location filename="../../../src/main.cpp" line="159"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Uruchom symulator i wygeneruj zrzuty ekranu do podręcznika</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="162"/>
+        <location filename="../../../src/main.cpp" line="164"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>pobiera ciąg znaków za pomocą Librarian::getStringFromRessource i wypisuje go na standardowe wyjście</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="164"/>
+        <location filename="../../../src/main.cpp" line="166"/>
         <source>string name</source>
         <translation>nazwa ciągu znaków</translation>
     </message>
@@ -11922,7 +11922,7 @@ rozwijana jako projekt Akaflieg Freiburg.</translation>
         <translation type="vanished">Uruchom symulator i generuj ekrany dla instrukcji użytkownika</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="166"/>
+        <location filename="../../../src/main.cpp" line="168"/>
         <source>File to import.</source>
         <translation>Plik do zaimportowania.</translation>
     </message>

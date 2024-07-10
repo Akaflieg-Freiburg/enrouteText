@@ -11907,34 +11907,34 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Sie haben entschieden, Netzwerksicherheits-Fehler zukünftig zu ignorieren. **Dies stellt ein Sicherheitsrisiko dar.** In den Einstellungen können Sie auf Wunsch das ursprüngliche, sichere Verhalten der App wiederherstellen.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="143"/>
+        <location filename="../../../src/main.cpp" line="145"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation ist eine kostenlose Navigations-App für VFR-Piloten,
 entwickelt als Projekt der Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="148"/>
+        <location filename="../../../src/main.cpp" line="150"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
         <translation>Simulator starten und Screenshot für GooglePlay erzeugen.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="153"/>
+        <location filename="../../../src/main.cpp" line="155"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Simulator starten und Screenshots für iOS erzeugen</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="157"/>
+        <location filename="../../../src/main.cpp" line="159"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Simulator starten und Screenshot fürs Handbuch erzeugen</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="162"/>
+        <location filename="../../../src/main.cpp" line="164"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>Textstring mittels Librarian::getStringFromRessource abrufen und nach stdout ausgeben</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="164"/>
+        <location filename="../../../src/main.cpp" line="166"/>
         <source>string name</source>
         <translation>Name der Zeichenkette</translation>
     </message>
@@ -11943,7 +11943,7 @@ entwickelt als Projekt der Akaflieg Freiburg.</translation>
         <translation type="vanished">Simulator starten und Screenshots für das Handbuch erzeugen</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="166"/>
+        <location filename="../../../src/main.cpp" line="168"/>
         <source>File to import.</source>
         <translation>Datei zum Importieren.</translation>
     </message>
