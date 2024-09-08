@@ -4754,12 +4754,12 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="148"/>
         <source>Only showing NOTAMs centered nearby. Other NOTAMs may apply.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Liste zeigt NOTAMs mit Zentrum nahe des Wegpunktes. Weitere NOTAMs können ebenfalls relevant sein.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="149"/>
         <source>Dismiss this warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Deaktiviere diese Warnung.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="196"/>
@@ -6520,17 +6520,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="252"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="266"/>
         <source>Show All Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeige alle Warnungen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="257"/>
         <source>Warnings will be shown again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Warnungen werden wieder angezeigt werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="267"/>
         <source>This entry is visible if you have previously disabled warnings. Tap on this entry to show all warnings again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dieser Eintrag ist dann sichtbar, wenn Sie zuvor Warnungen deaktiviert haben. Wählen Sie den Eintrag, um wieder alle Warnungen anzuzeigen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="337"/>
