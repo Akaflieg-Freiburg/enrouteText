@@ -4357,12 +4357,12 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="693"/>
         <source>Downloading Maps and Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Lade Karten und Daten herunter</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="718"/>
         <source>ⓒ Map Data</source>
-        <translation type="unfinished"></translation>
+        <translation>ⓒ Kartendaten</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="764"/>
@@ -11597,7 +11597,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="282"/>
         <source>%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="285"/>
