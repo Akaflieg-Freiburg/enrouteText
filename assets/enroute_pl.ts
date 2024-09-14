@@ -4366,12 +4366,12 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="693"/>
         <source>Downloading Maps and Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Pobieranie map i danych</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="718"/>
         <source>ⓒ Map Data</source>
-        <translation type="unfinished"></translation>
+        <translation>ⓒ Dane mapy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="764"/>
@@ -4764,12 +4764,12 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="148"/>
         <source>Only showing NOTAMs centered nearby. Other NOTAMs may apply.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokazywanie komunikatów NOTAM wycentrowanych w pobliżu. Inne NOTAM mogą być w mocy.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="149"/>
         <source>Dismiss this warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Odrzuć to ostrzeżenie.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="196"/>
@@ -6589,17 +6589,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="252"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="266"/>
         <source>Show All Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokaż wszystkie ostrzeżenia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="257"/>
         <source>Warnings will be shown again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ostrzeżenia będą ponownie pokazywane.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="267"/>
         <source>This entry is visible if you have previously disabled warnings. Tap on this entry to show all warnings again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ten wpis jest widoczny, jeśli wcześniej wyłączyłeś ostrzeżenia. Stuknij ten wpis, aby ponownie wyświetlić wszystkie ostrzeżenia.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="316"/>
@@ -11580,7 +11580,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="282"/>
         <source>%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="285"/>
