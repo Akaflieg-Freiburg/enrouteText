@@ -3228,12 +3228,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="693"/>
         <source>Downloading Maps and Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement de cartes et de données</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="718"/>
         <source>ⓒ Map Data</source>
-        <translation type="unfinished"></translation>
+        <translation>ⓒ Données cartographiques</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="764"/>
@@ -3474,12 +3474,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="148"/>
         <source>Only showing NOTAMs centered nearby. Other NOTAMs may apply.</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage uniquement des NOTAM centrés à proximité. D&apos;autres NOTAM peuvent s&apos;appliquer.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="149"/>
         <source>Dismiss this warning.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ignorez cet avertissement.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="196"/>
@@ -5071,17 +5071,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="252"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="266"/>
         <source>Show All Warnings</source>
-        <translation type="unfinished"></translation>
+        <translation>Afficher tous les avertissements</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="257"/>
         <source>Warnings will be shown again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les avertissements seront à nouveau affichés.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="267"/>
         <source>This entry is visible if you have previously disabled warnings. Tap on this entry to show all warnings again.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cette entrée est visible si vous avez précédemment désactivé les avertissements. Appuyez sur cette entrée pour afficher à nouveau tous les avertissements.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="308"/>
@@ -9845,7 +9845,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="282"/>
         <source>%1 %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="285"/>
