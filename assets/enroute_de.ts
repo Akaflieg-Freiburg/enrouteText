@@ -1126,28 +1126,28 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation type="vanished">Die Kartendaten stammen aus folgenden Quellen:</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="164"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="168"/>
         <source>Unable to recognize map file format.</source>
         <translation>Erkenne Dateiformat der Karte nicht.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="169"/>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="210"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="173"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="214"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>Kann Verzeichnis &apos;%1&apos; nicht anlegen.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="176"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="180"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Kann Kartendatei nicht ins Datenverzeichnis kopieren.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="198"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="202"/>
         <source>Errors</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="222"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="226"/>
         <source>Error writing file &apos;%1&apos;: %2.</source>
         <translation>Fehler beim Schreiben der Datei &apos;%1&apos;: %2.</translation>
     </message>
@@ -1176,7 +1176,7 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation type="vanished">Anflugkarte %1 wurde nicht gefunden.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="290"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="294"/>
         <source>Manually Imported</source>
         <translation>Manuell importiert</translation>
     </message>
@@ -4350,27 +4350,27 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <translation>Öffnen Sie die Kartenverwaltung über &lt;a href=&apos;xx&apos;&gt;Bibliothek/Karten und Daten&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="690"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="691"/>
         <source>Airspaces up to %1</source>
         <translation>Lufträume bis %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="693"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="694"/>
         <source>Downloading Maps and Data</source>
         <translation>Lade Karten und Daten herunter</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="718"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="720"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Kartendaten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="764"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="766"/>
         <source>Map Mode: Track Up</source>
         <translation>Kartenmodus: Flugrichtung oben</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="767"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="769"/>
         <source>Map Mode: North Up</source>
         <translation>Kartenmodus: Norden oben</translation>
     </message>
@@ -4384,7 +4384,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <translation type="vanished">Copyright der Kartendaten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="726"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="728"/>
         <source>Map Data Copyright Information</source>
         <translation>Copyright-Information zu den Kartendaten</translation>
     </message>
@@ -4482,6 +4482,19 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <source>Unable to open data in other app.</source>
         <translation type="vanished">Kann die Daten nicht in anderer App öffnen.</translation>
+    </message>
+</context>
+<context>
+    <name>NOTAM::NotamProvider</name>
+    <message>
+        <location filename="../../../src/notam/NotamProvider.cpp" line="588"/>
+        <source>NOTAMs not current around own position, requesting update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/notam/NotamProvider.cpp" line="592"/>
+        <source>NOTAMs not current around route, requesting update</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4994,16 +5007,20 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Alle Dateien (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
-        <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="57"/>
         <source>Export flight route</source>
-        <translation>Exportiere Route</translation>
+        <translation type="vanished">Exportiere Route</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="57"/>
         <source>%1 (*.%2);;All files (*)</source>
         <translation>%1 (*.%2);;Alle Dateien (*)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
+        <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="57"/>
+        <source>Export Data</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="65"/>
