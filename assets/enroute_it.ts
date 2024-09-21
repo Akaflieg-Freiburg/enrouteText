@@ -4494,12 +4494,12 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/notam/NotamProvider.cpp" line="588"/>
         <source>NOTAMs not current around own position, requesting update</source>
-        <translation type="unfinished"></translation>
+        <translation>I NOTAMs vicino la tua posizione non sono aggiornati, sto richiedendo aggiornamenti</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamProvider.cpp" line="592"/>
         <source>NOTAMs not current around route, requesting update</source>
-        <translation type="unfinished"></translation>
+        <translation>I NOTAMs sulla rotta non sono aggiornati, sto richiedendo aggiornamenti</translation>
     </message>
 </context>
 <context>
@@ -4754,12 +4754,12 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="157"/>
         <source>Filter by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtra per Nome</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="184"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Mi dispiace!&lt;/h3&gt;&lt;p&gt;Non ci sono waypoints secondo il filtro.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No reporting point data available.&lt;/p&gt;</source>
@@ -5029,7 +5029,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="57"/>
         <source>Export Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Esporta i Dati</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="65"/>
