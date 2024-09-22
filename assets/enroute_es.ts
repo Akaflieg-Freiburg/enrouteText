@@ -2122,32 +2122,32 @@ con los datos de la cuenta bancaria.</translation>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="705"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="836"/>
         <source>Add Waypoint to Route</source>
-        <translation type="unfinished">Agregar punto de ruta a la Ruta</translation>
+        <translation>Agregar punto de ruta a la Ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="734"/>
         <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Elija un punto de referencia de la lista a continuación o &lt;a href=&apos;xx&apos;&gt;ingrese las coordenadas manualmente&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="755"/>
         <source>Filter by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar por nombre</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="775"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de referencia que coincidan con tu filtro.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="812"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation type="unfinished">&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta disponibles. Asegúrese de tener instalado un mapa de aviación.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta disponibles. Asegúrese de tener instalado un mapa de aviación.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="813"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de referencia que coincidan con tus criterios de filtro.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="854"/>
@@ -3831,12 +3831,12 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/notam/NotamProvider.cpp" line="595"/>
         <source>NOTAMs not current around own position, requesting update</source>
-        <translation type="unfinished"></translation>
+        <translation>NOTAM no actualizados en esta posición, se solicita actualización</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NotamProvider.cpp" line="599"/>
         <source>NOTAMs not current around route, requesting update</source>
-        <translation type="unfinished"></translation>
+        <translation>NOTAM no actualizados en esta ruta, se solicita actualización</translation>
     </message>
 </context>
 <context>
@@ -3999,12 +3999,12 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="157"/>
         <source>Filter by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar por nombre</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="184"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de referencia que coincidan con tu filtro.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No reporting point data available.&lt;/p&gt;</source>
@@ -4269,7 +4269,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="57"/>
         <source>Export Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportar datos</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="65"/>
@@ -7414,12 +7414,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="368"/>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="374"/>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation>OK</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="269"/>
@@ -7670,28 +7670,28 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="336"/>
         <source>Filter by Name</source>
-        <translation type="unfinished"></translation>
+        <translation>Filtrar por nombre</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="375"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, choose &apos;Add Waypoint&apos; below or double-tap on a point in the moving map.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay ningún punto de referencia disponible. Para agregar un punto de referencia aquí, seleccione &quot;Agregar punto de referencia&quot; a continuación o toque dos veces un punto en el mapa en movimiento.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="376"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de referencia que coincidan con tu filtro.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="393"/>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="477"/>
         <source>Add Waypoint</source>
-        <translation type="unfinished">Añadir punto de ruta</translation>
+        <translation>Añadir punto de ruta</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="486"/>
         <source>Waypoint added</source>
-        <translation type="unfinished"></translation>
+        <translation>Punto de referencia añadido</translation>
     </message>
     <message>
         <source>Filter</source>
