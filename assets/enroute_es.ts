@@ -1903,14 +1903,12 @@ con los datos de la cuenta bancaria.</translation>
 <context>
     <name>FlightRouteAddWPDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="31"/>
         <source>Add Waypoint to Route</source>
-        <translation>Agregar punto de ruta a la Ruta</translation>
+        <translation type="vanished">Agregar punto de ruta a la Ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="60"/>
         <source>Choose a waypoint from the list below.</source>
-        <translation>Elija un punto de ruta de la siguiente lista.</translation>
+        <translation type="vanished">Elija un punto de ruta de la siguiente lista.</translation>
     </message>
     <message>
         <source>Waypoint Name</source>
@@ -1921,14 +1919,12 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">Filtrar los nombres de Waypoint</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="112"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta disponibles. Asegúrese de tener instalado un mapa de aviación.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta disponibles. Asegúrese de tener instalado un mapa de aviación.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteAddWPDialog.qml" line="113"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;Ningún puntos de ruta coincide con sus criterios de filtro.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;Ningún puntos de ruta coincide con sus criterios de filtro.&lt;/p&gt;</translation>
     </message>
 </context>
 <context>
@@ -2123,22 +2119,53 @@ con los datos de la cuenta bancaria.</translation>
         <translation>Añadir punto de ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="718"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="705"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="836"/>
+        <source>Add Waypoint to Route</source>
+        <translation type="unfinished">Agregar punto de ruta a la Ruta</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="734"/>
+        <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="755"/>
+        <source>Filter by Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="775"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="812"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
+        <translation type="unfinished">&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta disponibles. Asegúrese de tener instalado un mapa de aviación.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="813"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="854"/>
         <source>Clear Route?</source>
         <translation>Limpiar ruta ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="721"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="857"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>Una vez borrada, la ruta actual no se puede ssr recuperada</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="726"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="862"/>
         <source>Flight route cleared</source>
         <translation>Ruta despejada</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="748"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="884"/>
         <source>Error Exporting Data…</source>
         <translation>Error exportando datos ...</translation>
     </message>
@@ -3802,12 +3829,12 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
 <context>
     <name>NOTAM::NotamProvider</name>
     <message>
-        <location filename="../../../src/notam/NotamProvider.cpp" line="588"/>
+        <location filename="../../../src/notam/NotamProvider.cpp" line="595"/>
         <source>NOTAMs not current around own position, requesting update</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NotamProvider.cpp" line="592"/>
+        <location filename="../../../src/notam/NotamProvider.cpp" line="599"/>
         <source>NOTAMs not current around route, requesting update</source>
         <translation type="unfinished"></translation>
     </message>
@@ -7327,85 +7354,95 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">indefinido</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="97"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="98"/>
         <source>Notes</source>
         <translation>Notas</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="204"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="205"/>
         <source>Latitude</source>
         <translation>Latitud</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="221"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="220"/>
         <source>Longitude</source>
         <translation>Longitud</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="242"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="239"/>
         <source>Format</source>
         <translation>Formato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="128"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="169"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="252"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="129"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="170"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="249"/>
         <source>Degrees</source>
         <translation>Grados</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="130"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="174"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="252"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="131"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="175"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="249"/>
         <source>Degrees and Minutes</source>
         <translation>Grados y minutos</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="132"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="179"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="252"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="133"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="180"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="249"/>
         <source>Degrees, Minutes and Seconds</source>
         <translation>Grados, minutos y segundos</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="134"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="147"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="135"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="148"/>
         <source>Coordinate Format</source>
         <translation>Formato de coordenadas</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="136"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="274"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="137"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="271"/>
         <source>Currently using: %1</source>
         <translation>Actualmente usando: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="336"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="333"/>
         <source>Elevation</source>
         <translation>Elevación</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="272"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="285"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="368"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Cancelar</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="374"/>
+        <source>OK</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="269"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="282"/>
         <source>Elevation Unit</source>
         <translation>Unidad de altitud</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="351"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="348"/>
         <source>Unit</source>
         <translation>Unidad</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="268"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="308"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="361"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="265"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="305"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="358"/>
         <source>Feet</source>
         <translation>Pies</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="270"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="313"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="361"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="267"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="310"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="358"/>
         <source>Meter</source>
         <translation>Metros</translation>
     </message>
@@ -7631,9 +7668,34 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Limpiar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="263"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="336"/>
+        <source>Filter by Name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="375"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, choose &apos;Add Waypoint&apos; below or double-tap on a point in the moving map.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="376"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="393"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="477"/>
+        <source>Add Waypoint</source>
+        <translation type="unfinished">Añadir punto de ruta</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="486"/>
+        <source>Waypoint added</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Filter</source>
-        <translation>Filtrar</translation>
+        <translation type="vanished">Filtrar</translation>
     </message>
     <message>
         <source>Waypoint Names</source>
@@ -7644,57 +7706,55 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Filtrar los nombres de puntos de ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="339"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="303"/>
         <source>Remove…</source>
         <translation>Eliminar...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="388"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;No hay punto de ruta disponible. Para agregar un punto de ruta aquí, toque dos veces en un punto del mapa&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;No hay punto de ruta disponible. Para agregar un punto de ruta aquí, toque dos veces en un punto del mapa&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="389"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta que coincidan con los criterios de filtro.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta que coincidan con los criterios de filtro.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="405"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="416"/>
         <source>Error Exporting Data…</source>
         <translation>Error exportando datos ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="414"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="425"/>
         <source>Remove from Device?</source>
         <translation>¿Quitar del dispositivo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="415"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="426"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Una vez que se elimina el punto de ruta &lt;strong&gt;%1&lt;/strong&gt;, no se puede restaurar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="423"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="434"/>
         <source>Waypoint removed from device</source>
         <translation>Punto de ruta eliminado del disposotivo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="436"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="446"/>
         <source>Clear Waypoint Library?</source>
         <translation>¿Borrar el punto de ruta de la biblioteca?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="439"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="449"/>
         <source>Once cleared, the library cannot be restored.</source>
         <translation>Una vez borrada, la biblioteca no se puede restaurar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="445"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="455"/>
         <source>Waypoint library cleared</source>
         <translation>Punto de ruta borrado</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="459"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="469"/>
         <source>Waypoint modified</source>
         <translation>Punto de ruta modificado</translation>
     </message>
