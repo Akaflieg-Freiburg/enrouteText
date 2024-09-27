@@ -3829,12 +3829,12 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
 <context>
     <name>NOTAM::NotamProvider</name>
     <message>
-        <location filename="../../../src/notam/NotamProvider.cpp" line="595"/>
+        <location filename="../../../src/notam/NotamProvider.cpp" line="311"/>
         <source>NOTAMs not current around own position, requesting update</source>
         <translation>NOTAM no actualizados en esta posición, se solicita actualización</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NotamProvider.cpp" line="599"/>
+        <location filename="../../../src/notam/NotamProvider.cpp" line="313"/>
         <source>NOTAMs not current around route, requesting update</source>
         <translation>NOTAM no actualizados en esta ruta, se solicita actualización</translation>
     </message>
@@ -3855,27 +3855,27 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
 <context>
     <name>Navigation::Clock</name>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="59"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="58"/>
         <source>just now</source>
         <translation>justo ahora</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="73"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="72"/>
         <source>%1 ago</source>
         <translation>hace %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="75"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="74"/>
         <source>in %1</source>
         <translation>en 1%</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="93"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="92"/>
         <source>yesterday %1</source>
         <translation>ayer %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="97"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="96"/>
         <source>tomorrow %1</source>
         <translation>mañana %1</translation>
     </message>
@@ -3883,58 +3883,58 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
 <context>
     <name>Navigation::FlightRoute</name>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="139"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="138"/>
         <source>Total: %1</source>
         <translation>Total: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="154"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="153"/>
         <source>Cruise speed not specified.</source>
         <translation>Velocidad de crucero no especificada.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="158"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="157"/>
         <source>Fuel consumption not specified.</source>
         <translation>Consumo de combustible no especificado.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="162"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="161"/>
         <source>Wind speed not specified.</source>
         <translation>Velocidad del viento no especificada.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="166"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="165"/>
         <source>Wind direction not specified.</source>
         <translation>Dirección del viento no especificada.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="171"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="170"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Cálculo incompleto. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="427"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="442"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>No se puede abrir el archivo &apos;%1&apos; para escribir.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="434"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="449"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>No se puede escribir en el archivo &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="444"/>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="501"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="459"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="516"/>
         <source>Flight Route</source>
         <translation>Ruta de vuelo</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="320"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="321"/>
         <source>Error reading file &apos;%1&apos;</source>
         <translation>Error al leer el archivo &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="324"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="325"/>
         <source>The file &apos;%1&apos; contains too many waypoints. Flight routes with more than 100 waypoints are not supported.</source>
         <translation>El archivo &apos;%1&apos; contiene demasiados puntos de ruta. Las rutas de vuelo con más de 100 puntos no son compatibles.</translation>
     </message>
@@ -4533,23 +4533,23 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Recibiendo la pression de altitud</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="251"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="258"/>
         <source>Source</source>
         <translation>Fuente</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="252"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="259"/>
         <source>Receiving position information</source>
         <translation>Recibiendo information sobre la posicion</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="258"/>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="260"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="265"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="267"/>
         <source>Not receiving position information</source>
         <translation>No se estan recibiendo informaciones de posición</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="260"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="267"/>
         <source>Traffic receiver</source>
         <translation>Receptor de tráfico</translation>
     </message>
