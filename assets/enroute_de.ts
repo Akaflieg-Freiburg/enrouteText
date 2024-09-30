@@ -4516,12 +4516,12 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/notam/NOTAMProvider.cpp" line="459"/>
         <source>NOTAMs not current around own position, requesting update</source>
-        <translation type="unfinished">Die NOTAMs um die aktuelle Position sind nicht aktuell, Update wird angefordert</translation>
+        <translation>Die NOTAMs um die aktuelle Position sind nicht aktuell, Update wird angefordert</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NOTAMProvider.cpp" line="466"/>
         <source>NOTAMs not current around waypoint, requesting update</source>
-        <translation type="unfinished"></translation>
+        <translation>Die NOTAMs um den Wegpunkt sind nicht aktuell, Update wird angefordert</translation>
     </message>
 </context>
 <context>
