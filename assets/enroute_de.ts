@@ -4357,52 +4357,52 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
 &lt;p&gt;Zur Installation einer Karte finden Sie im Menü links oben über den Punkt &lt;strong&gt;Bibliothek/Karten und Daten&lt;/strong&gt; das Kartenmanagement.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="578"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="586"/>
         <source>There is no aviation map installed.</source>
         <translation>Es ist keine Luftfahrtkarte installiert.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="580"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="588"/>
         <source>Please wait for the download to complete.</source>
         <translation>Bitte warten Sie den Abschluss des Downloads ab.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="581"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="589"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
         <translation>Eine Karte installieren Sie über das Menü in der Ecke links oben.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="582"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="590"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
         <translation>Öffnen Sie die Kartenverwaltung über &lt;a href=&apos;xx&apos;&gt;Bibliothek/Karten und Daten&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="691"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="704"/>
         <source>Airspaces up to %1</source>
         <translation>Lufträume bis %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="694"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="707"/>
         <source>Downloading Maps and Data</source>
         <translation>Lade Karten und Daten herunter</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="720"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="733"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Kartendaten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="766"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="786"/>
         <source>Map Mode: Track Up</source>
         <translation>Kartenmodus: Flugrichtung oben</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="769"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="789"/>
         <source>Map Mode: North Up</source>
         <translation>Kartenmodus: Norden oben</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="646"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="659"/>
         <source>Map Mode: Autopan</source>
         <translation>Kartenmodus: automatisch zentrieren</translation>
     </message>
@@ -4411,7 +4411,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <translation type="vanished">Copyright der Kartendaten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="728"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="741"/>
         <source>Map Data Copyright Information</source>
         <translation>Copyright-Information zu den Kartendaten</translation>
     </message>
@@ -4512,16 +4512,27 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     </message>
 </context>
 <context>
-    <name>NOTAM::NotamProvider</name>
+    <name>NOTAM::NOTAMProvider</name>
     <message>
-        <location filename="../../../src/notam/NotamProvider.cpp" line="311"/>
+        <location filename="../../../src/notam/NOTAMProvider.cpp" line="459"/>
         <source>NOTAMs not current around own position, requesting update</source>
-        <translation>Die NOTAMs um die aktuelle Position sind nicht aktuell, Update wird angefordert</translation>
+        <translation type="unfinished">Die NOTAMs um die aktuelle Position sind nicht aktuell, Update wird angefordert</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NotamProvider.cpp" line="313"/>
+        <location filename="../../../src/notam/NOTAMProvider.cpp" line="466"/>
+        <source>NOTAMs not current around waypoint, requesting update</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>NOTAM::NotamProvider</name>
+    <message>
+        <source>NOTAMs not current around own position, requesting update</source>
+        <translation type="vanished">Die NOTAMs um die aktuelle Position sind nicht aktuell, Update wird angefordert</translation>
+    </message>
+    <message>
         <source>NOTAMs not current around route, requesting update</source>
-        <translation>Die NOTAMs um die aktuelle Route sind nicht aktuell, Update wird angefordert</translation>
+        <translation type="vanished">Die NOTAMs um die aktuelle Route sind nicht aktuell, Update wird angefordert</translation>
     </message>
 </context>
 <context>
@@ -4833,7 +4844,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
 <context>
     <name>Notifications::Notification</name>
     <message>
-        <location filename="../../../src/notification/Notification.h" line="305"/>
+        <location filename="../../../src/notification/Notification.h" line="303"/>
         <source>Dismiss</source>
         <translation>Ablehnen</translation>
     </message>
@@ -5569,19 +5580,19 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Keine NOTAMs</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NotamList.cpp" line="92"/>
+        <location filename="../../../src/notam/NOTAMList.cpp" line="92"/>
         <source>No NOTAMs known</source>
         <comment>NOTAM::NotamList</comment>
         <translation>Keine NOTAMs bekannt</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NotamList.cpp" line="96"/>
+        <location filename="../../../src/notam/NOTAMList.cpp" line="96"/>
         <source>NOTAMs available</source>
         <comment>NOTAM::NotamList</comment>
         <translation>NOTAMs vorhanden</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NotamList.cpp" line="101"/>
+        <location filename="../../../src/notam/NOTAMList.cpp" line="101"/>
         <source>Update requested.</source>
         <comment>NOTAM::NotamList</comment>
         <translation>Update angefordert.</translation>
