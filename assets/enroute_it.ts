@@ -4521,12 +4521,12 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/notam/NOTAMProvider.cpp" line="459"/>
         <source>NOTAMs not current around own position, requesting update</source>
-        <translation type="unfinished">I NOTAMs vicino la tua posizione non sono aggiornati, sto richiedendo aggiornamenti</translation>
+        <translation>I NOTAMs vicino la tua posizione non sono aggiornati, sto richiedendo aggiornamenti</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NOTAMProvider.cpp" line="466"/>
         <source>NOTAMs not current around waypoint, requesting update</source>
-        <translation type="unfinished"></translation>
+        <translation>I NOTAMs vicino i waypoint non sono aggiornati, sto richiedendo aggiornamenti</translation>
     </message>
 </context>
 <context>
