@@ -3341,23 +3341,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/notam/NOTAMProvider.cpp" line="459"/>
         <source>NOTAMs not current around own position, requesting update</source>
-        <translation type="unfinished">Les NOTAM ne sont pas à jour autour de votre position, demande de mise à jour</translation>
+        <translation>Les NOTAM autour de votre position ne sont pas à jour, demande de mise à jour</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NOTAMProvider.cpp" line="466"/>
         <source>NOTAMs not current around waypoint, requesting update</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>NOTAM::NotamProvider</name>
-    <message>
-        <source>NOTAMs not current around own position, requesting update</source>
-        <translation type="vanished">Les NOTAM ne sont pas à jour autour de votre position, demande de mise à jour</translation>
-    </message>
-    <message>
-        <source>NOTAMs not current around route, requesting update</source>
-        <translation type="vanished">Les NOTAM ne sont pas à jour autour de l&apos;itinéraire, demande de mise à jour</translation>
+        <translation>Les NOTAM autour du point tournant ne sont pas à jour, demande de mise à jour</translation>
     </message>
 </context>
 <context>
