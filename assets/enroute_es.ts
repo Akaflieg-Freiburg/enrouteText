@@ -3831,12 +3831,12 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/notam/NOTAMProvider.cpp" line="459"/>
         <source>NOTAMs not current around own position, requesting update</source>
-        <translation type="unfinished">NOTAM no actualizados en esta posición, se solicita actualización</translation>
+        <translation>NOTAM no actualizados en esta posición, se solicita actualización</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NOTAMProvider.cpp" line="466"/>
         <source>NOTAMs not current around waypoint, requesting update</source>
-        <translation type="unfinished"></translation>
+        <translation>NOTAM no actualizados alrededor del punto de ruta, se solicita actualización</translation>
     </message>
 </context>
 <context>
