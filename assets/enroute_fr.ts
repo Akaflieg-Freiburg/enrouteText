@@ -10209,7 +10209,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Erreur!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="980"/>
+        <location filename="../../../src/qml/main.qml" line="978"/>
+        <source>Language Change</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="979"/>
+        <source>The operating system requested a change of the app language. Please restart &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; for the language change to take effect.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="992"/>
         <source>Starting map update</source>
         <translation>Mise à jour des cartes</translation>
     </message>
