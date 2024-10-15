@@ -12021,12 +12021,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="978"/>
         <source>Language Change</source>
-        <translation type="unfinished"></translation>
+        <translation>Sprache ändern</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="979"/>
         <source>The operating system requested a change of the app language. Please restart &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; for the language change to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Das Betriebssystem verlangte, die Sprache der App zu ändern. Bitte starten Sie &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; dafür neu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="992"/>
