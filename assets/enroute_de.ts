@@ -12019,17 +12019,15 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Zeige jetzt alle Lufträume an.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="978"/>
         <source>Language Change</source>
-        <translation>Sprache ändern</translation>
+        <translation type="vanished">Sprache ändern</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="979"/>
         <source>The operating system requested a change of the app language. Please restart &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; for the language change to take effect.</source>
-        <translation>Das Betriebssystem verlangte, die Sprache der App zu ändern. Bitte starten Sie &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; dafür neu.</translation>
+        <translation type="vanished">Das Betriebssystem verlangte, die Sprache der App zu ändern. Bitte starten Sie &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; dafür neu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="992"/>
+        <location filename="../../../src/qml/main.qml" line="981"/>
         <source>Starting map update</source>
         <translation>Beginne Kartenupdate</translation>
     </message>
