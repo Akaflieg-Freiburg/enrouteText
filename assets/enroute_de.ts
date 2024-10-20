@@ -3764,7 +3764,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="294"/>
         <source>As requested by our users, the setting &apos;font size&apos; now affects aviation-related text in the moving map display in addition to text in the user interface.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wie von unseren Benutzern gewünscht, steuert die Einstellung &apos;Schriftgröße&apos; jetzt neben dem Text der Benutzeroberfläche auch Luftfahrt-bezogene Texte in der Karte.</translation>
     </message>
     <message>
         <source>We do not collect our users&apos; personal data.</source>
