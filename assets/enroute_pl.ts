@@ -3765,6 +3765,11 @@ z danymi konta bankowego.
         <translation>&lt;strong&gt;Poza oknem wbudowanej przeglądarki&lt;/strong&gt;: aplikacja poprosi użytkownika o wyraźną autoryzację przed otwarciem jakiejkolwiek zewnętrznej witryny lub aplikacji.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="294"/>
+        <source>As requested by our users, the setting &apos;font size&apos; now affects aviation-related text in the moving map display in addition to text in the user interface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>We do not collect our users&apos; personal data.</source>
         <translation type="vanished">Nie zbieramy danych osobowych naszych użytkowników.</translation>
     </message>
@@ -3872,9 +3877,8 @@ z danymi konta bankowego.
         <translation type="vanished">Usługi internetowe Federalnej Administracji Lotniczej są obsługiwane przez rząd Stanów Zjednoczonych i pozostają poza naszą kontrolą.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="294"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to connected to your traffic data receiver via Bluetooth radio. At the moment, Enroute supports only the &apos;Bluetooth Classic&apos; radio standard, &apos;Bluetooth Low Energy&apos; is are not supported. Due to platform limitations, Bluetooth is not supported on iOS devices.</source>
-        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; może teraz łączyć się z odbiornikiem danych o ruchu drogowym za pośrednictwem połączenia Bluetooth. W tej chwili Enroute obsługuje tylko standard radiowy „Bluetooth Classic”, „Bluetooth Low Energy” nie jest obsługiwany. Ze względu na ograniczenia platformy, Bluetooth nie jest obsługiwany na urządzeniach z systemem iOS.</translation>
+        <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; może teraz łączyć się z odbiornikiem danych o ruchu drogowym za pośrednictwem połączenia Bluetooth. W tej chwili Enroute obsługuje tylko standard radiowy „Bluetooth Classic”, „Bluetooth Low Energy” nie jest obsługiwany. Ze względu na ograniczenia platformy, Bluetooth nie jest obsługiwany na urządzeniach z systemem iOS.</translation>
     </message>
     <message>
         <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
@@ -3953,7 +3957,7 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; na iOS jest dostępna do publicznych testów beta na &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;strona główna tej aplikacji&lt;/a&gt; zawiera również link do TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="301"/>
+        <location filename="../../../src/Librarian.cpp" line="299"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Potrzebujemy pomocy z grafiką promocyjną dla sklepów z aplikacjami i filmami instruktażowymi. Jeśli jesteś grafikiem/video artystą i chciałbyś pomóc, skontaktuj się z nami.</translation>
     </message>

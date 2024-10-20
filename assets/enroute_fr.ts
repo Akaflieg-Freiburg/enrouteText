@@ -3011,6 +3011,11 @@ Message: Enroute Flight Navigation
         <translation>&lt;strong&gt;En dehors  du navigateur intégré de Windows&lt;/strong&gt;: l&apos;application demandera l&apos;autorisation explicite de l&apos;utilisateur avant d&apos;ouvrir un site ou une application externe.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="294"/>
+        <source>As requested by our users, the setting &apos;font size&apos; now affects aviation-related text in the moving map display in addition to text in the user interface.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
         <translation type="vanished">Nous ne traitons aucune donnée personnelle vous concernant. Les données que vous entrez dans l&apos;application (y compris les itinéraires, les waypoints et les spécificités de l&apos;avion) sont stockées localement sur votre appareil. Les données ne nous sont pas transmises et ne sont pas traitées par nous.</translation>
     </message>
@@ -3047,7 +3052,7 @@ Message: Enroute Flight Navigation
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est désormais capable d&apos;afficher des cartes d&apos;approche visuelles sur la carte mobile. Les utilisateurs en Allemagne peuvent télécharger les VAC officiels de la Deutsche Flugsicherung (DFS) à l&apos;aide du très pratique &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. . Veuillez consulter le manuel pour plus de détails.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="301"/>
+        <location filename="../../../src/Librarian.cpp" line="299"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Nous avons besoin d&apos;aide avec des graphiques promotionnels pour les app stores et avec des vidéos explicatives. Si vous êtes un artiste graphique/vidéo et que vous souhaitez aider, n&apos;hésitez pas à nous contacter.</translation>
     </message>
@@ -3188,9 +3193,8 @@ Message: Enroute Flight Navigation
 &lt;p&gt;Nous faisons notre possible pour éviter d&apos;imposer une limite sur le nombre de cartes. Merci d&apos;être compréhensifs et de nous y aider.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="294"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to connected to your traffic data receiver via Bluetooth radio. At the moment, Enroute supports only the &apos;Bluetooth Classic&apos; radio standard, &apos;Bluetooth Low Energy&apos; is are not supported. Due to platform limitations, Bluetooth is not supported on iOS devices.</source>
-        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; peut désormais se connecter à votre récepteur de données de trafic via la radio Bluetooth. Pour le moment, Enroute ne prend en charge que la norme radio « Bluetooth Classic », « Bluetooth Low Energy » n&apos;est pas pris en charge. En raison des limitations de la plate-forme, Bluetooth n&apos;est pas pris en charge sur les appareils iOS.</translation>
+        <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; peut désormais se connecter à votre récepteur de données de trafic via la radio Bluetooth. Pour le moment, Enroute ne prend en charge que la norme radio « Bluetooth Classic », « Bluetooth Low Energy » n&apos;est pas pris en charge. En raison des limitations de la plate-forme, Bluetooth n&apos;est pas pris en charge sur les appareils iOS.</translation>
     </message>
     <message>
         <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
