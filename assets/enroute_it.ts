@@ -3074,7 +3074,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="516"/>
         <source>Skip over waypoints that already exist in the library</source>
-        <translation type="unfinished"></translation>
+        <translation>Salta i waypoint già presenti in archivio</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="612"/>
@@ -3697,7 +3697,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="294"/>
         <source>As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to import flight routes in FPL and PLN formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Come richiesto dai nostri utenti, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; può adesso importare anche piani di volo in formato FPL e PLN.</translation>
     </message>
     <message>
         <source>We do not collect our users&apos; personal data.</source>
@@ -6154,103 +6154,105 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/fileFormats/FPL.cpp" line="57"/>
         <source>Cannot open FPL file %1 for reading.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Non posso aprire in lettura il file FPL %1.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="66"/>
         <source>Cannot parse FPL file %1 for XML. Reason: %2</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Non posso analizzare il file FPL %1 per XML. Motivo: %2</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="73"/>
         <source>File %1 does not contain a flight plan</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il file %1 non contiene un piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="84"/>
         <source>File %1 does not contain a waypoint</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il file %1 non contiene un waypoint</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="92"/>
         <source>Waypoint %1 does not have a unique identifier</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il waypoint %1 non ha un identificatore univoco</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="100"/>
         <source>Waypoint %1 does not have a unique latitude</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il waypoint %1 non ha una latitudine univoca</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="106"/>
         <source>Waypoint %1 does not have a valid latitude</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il waypoint %1 non ha una latitudine univoca</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="113"/>
         <source>Waypoint %1 does not have a unique longitude</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il waypoint %1 non ha una longitudine univoca</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="119"/>
         <source>Waypoint %1 does not have a valid longitude</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il waypoint %1 non ha una longitudine valida</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="147"/>
         <source>File %1 does not contain a route</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il file %1 non contiene un piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="155"/>
         <source>Route point %1 does not have a unique waypoint identifier</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>What do you mean as &quot;route point&quot;? Is it a route or a waypoint?</translatorcomment>
+        <translation type="unfinished">Il punto rotta %1 non ha un identificatore waypoint unico</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="162"/>
         <source>Waypoint identifier for route point %1 does not exist</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Please check all the &quot;.&quot; (full stops/periods) at the end of the sentences. Sometimes they are there, sometimes they are not.</translatorcomment>
+        <translation type="unfinished">L&apos;identificatore waypoint del piano di volo %1 non esiste</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="77"/>
         <source>Cannot open PLN file %1 for reading.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Non posso aprire il file PLN %1 in lettura.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="86"/>
         <source>Cannot parse PLN file %1 for XML. Reason: %2</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Non posso analizzare il file PLN %1 per XML. Motivo: %2</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="94"/>
         <source>File %1 does not contain a flight plan</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il file %1 non contiene un piano di volo</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="104"/>
         <source>Waypoint %1 does not have a unique position</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Il waypoint %1 non ha una posizione univoca</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="126"/>
         <source>Position of waypoint %1 is not a valid position</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation>La posizione del waypoint %1 non è valida</translation>
     </message>
 </context>
 <context>
