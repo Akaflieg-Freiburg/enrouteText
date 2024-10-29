@@ -3083,7 +3083,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="516"/>
         <source>Skip over waypoints that already exist in the library</source>
-        <translation type="unfinished"></translation>
+        <translation>Pomiń punkty orientacyjne, które już istnieją w bibliotece</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="612"/>
@@ -3655,7 +3655,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="220"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; does not provide this information. </source>
-        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; nie udostępnia tych informacji.</translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; nie udostępnia tych informacji. </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="224"/>
@@ -3675,7 +3675,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="233"/>
         <source>1.3. Communication: NOTAM, METAR and TAF </source>
-        <translation>1.3. Komunikacja: NOTAM, METAR i TAF</translation>
+        <translation>1.3. Komunikacja: NOTAM, METAR i TAF </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="237"/>
@@ -3771,7 +3771,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="294"/>
         <source>As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to import flight routes in FPL and PLN formats.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na prośbę naszych użytkowników &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; może teraz importować trasy lotów w formatach FPL i PLN.</translation>
     </message>
     <message>
         <source>We do not collect our users&apos; personal data.</source>
@@ -6150,103 +6150,103 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/FPL.cpp" line="57"/>
         <source>Cannot open FPL file %1 for reading.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć pliku FPL %1 do odczytu.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="66"/>
         <source>Cannot parse FPL file %1 for XML. Reason: %2</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można przeanalizować pliku FPL %1 pod kątem XML. Powód: %2</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="73"/>
         <source>File %1 does not contain a flight plan</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plik %1 nie zawiera planu lotu</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="84"/>
         <source>File %1 does not contain a waypoint</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plik %1 nie zawiera punktu trasy</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="92"/>
         <source>Waypoint %1 does not have a unique identifier</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punkt orientacyjny %1 nie ma unikalnego identyfikatora</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="100"/>
         <source>Waypoint %1 does not have a unique latitude</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punkt trasy %1 nie ma unikalnej szerokości geograficznej</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="106"/>
         <source>Waypoint %1 does not have a valid latitude</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punkt trasy %1 nie ma prawidłowej szerokości geograficznej</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="113"/>
         <source>Waypoint %1 does not have a unique longitude</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punkt trasy %1 nie ma unikalnej długości geograficznej</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="119"/>
         <source>Waypoint %1 does not have a valid longitude</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punkt trasy %1 nie ma prawidłowej długości geograficznej</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="147"/>
         <source>File %1 does not contain a route</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plik %1 nie zawiera trasy</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="155"/>
         <source>Route point %1 does not have a unique waypoint identifier</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punkt trasy %1 nie ma unikalnego identyfikatora punktu trasy</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="162"/>
         <source>Waypoint identifier for route point %1 does not exist</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Identyfikator punktu trasy dla punktu %1 nie istnieje</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="77"/>
         <source>Cannot open PLN file %1 for reading.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć pliku PLN %1 do odczytu.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="86"/>
         <source>Cannot parse PLN file %1 for XML. Reason: %2</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Nie można przeanalizować pliku PLN %1 pod kątem XML. Powód: %2</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="94"/>
         <source>File %1 does not contain a flight plan</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plik %1 nie zawiera planu lotu</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="104"/>
         <source>Waypoint %1 does not have a unique position</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punkt orientacyjny %1 nie ma unikalnej pozycji</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="126"/>
         <source>Position of waypoint %1 is not a valid position</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation>Pozycja punktu %1 jest nieprawidłowa</translation>
     </message>
 </context>
 <context>
@@ -7603,7 +7603,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="154"/>
         <source>Bluetooth LE connection to %1 (not implemented yet, please ignore)</source>
-        <translation>Połączenie Bluetooth LE z % 1 (jeszcze nie zaimplementowane, proszę zignorować)</translation>
+        <translation>Połączenie Bluetooth LE z %1 (jeszcze nie zaimplementowane, proszę zignorować)</translation>
     </message>
 </context>
 <context>
