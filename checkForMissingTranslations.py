@@ -13,6 +13,7 @@ headers = {'Authorization': 'token {}'.format(sys.argv[1])}
 # Languages and associated issue numbers are defined here
 
 issueNumbers = {
+    "cz": 53,
     "de": 5,
     "es": 22,
     "fr": 7,
