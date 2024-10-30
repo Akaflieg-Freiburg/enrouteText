@@ -3567,7 +3567,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="182"/>
         <source>We prioritize your privacy and do not collect or store personally identifiable information.</source>
-        <translation>Wir legen großen Wert auf Ihre Privatsphäre und sammeln und speichern keine persönlich identifizierbaren Informationen.</translation>
+        <translation>Wir legen großen Wert auf Ihre Privatsphäre und sammeln und speichern keine personenbezogenen Daten.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="183"/>
