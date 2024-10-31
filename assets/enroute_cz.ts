@@ -328,7 +328,7 @@
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="30"/>
         <source>Bug Report</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nahlásit chybu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="49"/>
@@ -1145,7 +1145,7 @@ comes first!&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="30"/>
         <source>Donate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přispět</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="57"/>
@@ -1844,37 +1844,37 @@ Message: Enroute Flight Navigation
 <context>
     <name>GeoMaps::WaypointLibrary</name>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="134"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="136"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
         <translation>Soubor &apos;%1&apos; nelze otevřít pro čtení.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="139"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="141"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
         <translation>Nelze načíst údaje ze souboru &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="147"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="149"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
         <translation>Nelze načíst obsah souboru &apos;%1&apos;. Důvod: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="156"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="158"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation>Nelze načíst obsah souboru &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="180"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="200"/>
         <source>Error reading waypoints from file &apos;%1&apos;.</source>
         <translation>Chyba při načítání navigačních bodů ze souboru&apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="253"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="273"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Soubor &apos;%1&apos; nelze otevřít pro zápis.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="260"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="280"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Nelze zapisovat do souboru &apos;%1&apos;.</translation>
     </message>
@@ -1929,12 +1929,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="233"/>
         <source>Route</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trať</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="248"/>
         <source>Library</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Knihovna</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="266"/>
@@ -2005,7 +2005,7 @@ Message: Enroute Flight Navigation
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="516"/>
-        <source>Skip over waypoint that already exist in the library</source>
+        <source>Skip over waypoints that already exist in the library</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2219,7 +2219,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="90"/>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Návod</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="91"/>
@@ -2541,7 +2541,7 @@ Message: Enroute Flight Navigation
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="294"/>
-        <source>As requested by our users, the setting &apos;font size&apos; now affects aviation-related text in the moving map display in addition to text in the user interface.</source>
+        <source>As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to import flight routes in FPL and PLN formats.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2714,58 +2714,58 @@ Message: Enroute Flight Navigation
 <context>
     <name>Navigation::FlightRoute</name>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="138"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="140"/>
         <source>Total: %1</source>
         <translation>Celkem: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="153"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="155"/>
         <source>Cruise speed not specified.</source>
         <translation>Cestovní rychlost neuvedena.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="157"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="159"/>
         <source>Fuel consumption not specified.</source>
         <translation>Spotřeba paliva neuvedena.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="161"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="163"/>
         <source>Wind speed not specified.</source>
         <translation>Rychlost větru neuvedena.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="165"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="167"/>
         <source>Wind direction not specified.</source>
         <translation>Směr větru neuveden.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="170"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="172"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Výpočet nekompletní. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="321"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="341"/>
         <source>Error reading file &apos;%1&apos;</source>
         <translation>Chyba při načítání souboru &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="325"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="345"/>
         <source>The file &apos;%1&apos; contains too many waypoints. Flight routes with more than 100 waypoints are not supported.</source>
         <translation>Soubor &apos;%1&apos; obsahuje příliš mnoho navigačních bodů. Tratě s více než 100 body nejsou podporovány.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="442"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="462"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Nelze otevřít soubor &apos;%1&apos; pro zápis.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="449"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="469"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Nelze zapisovat do souboru &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="459"/>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="516"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="479"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="536"/>
         <source>Flight Route</source>
         <translation>Trať</translation>
     </message>
@@ -3692,19 +3692,19 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <location filename="../../../src/geomaps/VAC.cpp" line="78"/>
         <source>Installed</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nainstalováno</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="80"/>
         <source>File Size</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velikost souboru</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="86"/>
         <source>manually imported</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ručně naimportováno</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="200"/>
@@ -3729,7 +3729,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="264"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze zapisovat do souboru &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NOTAMList.cpp" line="92"/>
@@ -3855,6 +3855,152 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <location filename="../../../src/traffic/ConnectionInfo.h" line="286"/>
         <source>Invalid Device</source>
         <comment>Traffic::ConnectionInfo</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="35"/>
+        <source>Cannot open FPL file %1 for reading.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="42"/>
+        <source>Cannot parse FPL file %1 for XML.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="47"/>
+        <source>File %1 does not contain a flight plan</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="77"/>
+        <source>Waypoint %1 has more than one identifier</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="86"/>
+        <source>Waypoint %1 has more than one latitude</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="93"/>
+        <source>Waypoint %1 does not have a valid latitude</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="101"/>
+        <source>Waypoint %1 has more than one longitude</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="108"/>
+        <source>Waypoint %1 does not have a valid longitude</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="116"/>
+        <source>Waypoint %1 has more than one elevation</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="123"/>
+        <source>Waypoint %1 does not have a valid elevation</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="134"/>
+        <source>Waypoint %1 does not have an identifier</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="139"/>
+        <source>Waypoint %1 does not have valid coordinats</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="147"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="198"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="209"/>
+        <source>File %1 does not contain a waypoint</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="180"/>
+        <source>Route point %1 does not have a unique waypoint identifier</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="190"/>
+        <source>Waypoint identifier for route point %1 does not exist</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="214"/>
+        <source>File %1 does not contain a route</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="75"/>
+        <source>Cannot open PLN file %1 for reading.</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="81"/>
+        <source>Cannot parse PLN file %1 for XML.</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="86"/>
+        <source>File %1 does not contain a flight plan</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="126"/>
+        <source>Position of waypoint %1 invalid</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="136"/>
+        <source>Position of waypoint %1 is not a valid position</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="143"/>
+        <source>Waypoint %1 does not have a unique position</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="150"/>
+        <source>File %1 does not contain way points</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="158"/>
+        <source>File %1 does not contain a unique flight plan</source>
+        <comment>FileFormats::PLN</comment>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4390,7 +4536,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="610"/>
         <source>Receiving heartbeat.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dostávám heartbeat</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="613"/>
@@ -5227,7 +5373,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="108"/>
         <source>Aircraft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Letadla</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="111"/>
@@ -5287,7 +5433,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="144"/>
         <source>Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Provoz</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="149"/>
@@ -5300,7 +5446,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="67"/>
         <source>Aircraft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Letadla</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="70"/>
@@ -5360,7 +5506,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="103"/>
         <source>Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Provoz</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="108"/>
@@ -5446,32 +5592,32 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="145"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nápověda</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="154"/>
         <source>Connect to a traffic receiver…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Připojit k přijímači leteckého provozu...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="162"/>
         <source>Connect to a flight simulator…</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Připojit k leteckému limulátoru...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="180"/>
         <source>Disconnecting...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odpojuji...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="182"/>
         <source>Reconnecting...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znovu připojuji...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="183"/>
         <source>Reconnect</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Znovu připojit</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="207"/>
@@ -8043,7 +8189,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2324"/>
         <source>CAVOK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CAVOK</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2327"/>
