@@ -3773,7 +3773,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="295"/>
         <source>We thank Heinz Blöchinger for help with the implementation!</source>
-        <translation type="unfinished"></translation>
+        <translation>Wir danken Heinz Blöchinger für seine Hilfe bei der Implementierung!</translation>
     </message>
     <message>
         <source>As requested by our users, the setting &apos;font size&apos; now affects aviation-related text in the moving map display in addition to text in the user interface.</source>
