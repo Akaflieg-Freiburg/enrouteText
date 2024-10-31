@@ -1772,12 +1772,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="123"/>
         <source>Add to waypoint library</source>
-        <translation>Ajouter à la bibiothèque des points tournants</translation>
+        <translation>Ajouter à la bibiothèque des points de cheminement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="136"/>
         <source>Added %1 to waypoint library.</source>
-        <translation>%1 ajouté à la bibiothèque des points tournants</translation>
+        <translation>%1 ajouté à la bibiothèque des points de cheminement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="328"/>
@@ -1807,7 +1807,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="465"/>
         <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below or double click on any point in the moving map.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Route vide&lt;/h3&gt;&lt;p&gt;Utilisez le bouton &lt;strong&gt;Ajouter point tournant&lt;/strong&gt; ci-dessous ou double-cliquez sur la carte.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Route vide&lt;/h3&gt;&lt;p&gt;Utilisez le bouton &lt;strong&gt;Ajouter point de cheminement&lt;/strong&gt; ci-dessous ou double-cliquez sur la carte.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="540"/>
@@ -1905,18 +1905,18 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="665"/>
         <source>One waypoint: direct route from ownship position</source>
-        <translation>Un point tournant : route directe depuis la position actuelle</translation>
+        <translation>Un point de cheminement : route directe depuis la position actuelle</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="691"/>
         <source>Add Waypoint</source>
-        <translation>Ajouter un point tournant</translation>
+        <translation>Ajouter un point de cheminement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="705"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="836"/>
         <source>Add Waypoint to Route</source>
-        <translation>Ajouter un point tournant à la route</translation>
+        <translation>Ajouter un point de cheminement à la route</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="734"/>
@@ -1936,12 +1936,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="812"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant n&apos;a été trouvé. Assurez-vous qu&apos;une carte aéronautique a été installée.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point de cheminement n&apos;a été trouvé. Assurez-vous qu&apos;une carte aéronautique a été installée.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="813"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point de cheminement ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="884"/>
@@ -2285,7 +2285,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="200"/>
         <source>Error reading waypoints from file &apos;%1&apos;.</source>
-        <translation>Erreur lors de la lecture des points tournants depuis le fichier &apos;%1&apos;.</translation>
+        <translation>Erreur lors de la lecture des points cheminement depuis le fichier &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="273"/>
@@ -2342,12 +2342,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="224"/>
         <source>Import Waypoint Data</source>
-        <translation>Importer des points tournants</translation>
+        <translation>Importer des points cheminement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="225"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
-        <translation>Le fichier contient une liste de points tournants. Importer en tant que route, ou ajouter à la bibiothèque des points tournants ?</translation>
+        <translation>Le fichier contient une liste de points de cheminement. Importer en tant que route, ou ajouter à la bibiothèque des points de cheminement ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="233"/>
@@ -2392,7 +2392,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="516"/>
         <source>Skip over waypoints that already exist in the library</source>
-        <translation>Ignorer les waypoints qui existent déjà dans la bibliothèque</translation>
+        <translation>Ignorer les points de cheminement qui existent déjà dans la bibliothèque</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="612"/>
@@ -2443,7 +2443,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="504"/>
         <source>Import Waypoint Library</source>
-        <translation>Importer une bibiothèque de points tournants</translation>
+        <translation>Importer une bibiothèque de points de cheminement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="572"/>
@@ -2492,7 +2492,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="535"/>
         <source>Waypoints imported</source>
-        <translation>Points tournants importés</translation>
+        <translation>Points de cheminement importés</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="542"/>
@@ -2931,7 +2931,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="238"/>
         <source>It also shows NOTAMs, METARs, and TAFs for all waypoints you open in the app.</source>
-        <translation>Il affiche également les NOTAM, METAR et TAF pour tous les waypoints que vous ouvrez dans l&apos;application.</translation>
+        <translation>Il affiche également les NOTAM, METAR et TAF pour tous les points de cheminement que vous ouvrez dans l&apos;application.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="239"/>
@@ -3022,7 +3022,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="295"/>
         <source>We thank Heinz Blöchinger for help with the implementation!</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous remercions Heinz Blöchinger pour son aide à la mise en œuvre !</translation>
     </message>
     <message>
         <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
@@ -3359,7 +3359,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/notam/NOTAMProvider.cpp" line="466"/>
         <source>NOTAMs not current around waypoint, requesting update</source>
-        <translation>Les NOTAM autour du point tournant ne sont pas à jour, demande de mise à jour</translation>
+        <translation>Les NOTAM autour du point de cheminement ne sont pas à jour, demande de mise à jour</translation>
     </message>
 </context>
 <context>
@@ -3459,7 +3459,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="345"/>
         <source>The file &apos;%1&apos; contains too many waypoints. Flight routes with more than 100 waypoints are not supported.</source>
-        <translation>Le fichier &apos;%1&apos; contient trop de points tournants. Les routes contenant plus de 100 points ne sont pas supportées.</translation>
+        <translation>Le fichier &apos;%1&apos; contient trop de points de cheminement. Les routes contenant plus de 100 points ne sont pas supportées.</translation>
     </message>
 </context>
 <context>
@@ -3490,7 +3490,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="32"/>
         <source>Nearby Waypoints</source>
-        <translation>Points de route à proximité</translation>
+        <translation>Points de cheminement à proximité</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="94"/>
@@ -3500,7 +3500,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="116"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Désolé&#xa0;!&lt;/h3&gt;&lt;p&gt;Aucun point de route disponible.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Désolé&#xa0;!&lt;/h3&gt;&lt;p&gt;Aucun point de cheminement disponible.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="138"/>
@@ -4801,7 +4801,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <source>File %1 does not contain a waypoint</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le fichier %1 ne contient pas de waypoint</translation>
+        <translation>Le fichier %1 ne contient pas des points de cheminement</translation>
     </message>
     <message>
         <source>Waypoint %1 does not have a unique identifier</source>
@@ -4820,7 +4820,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <source>Waypoint %1 does not have a valid latitude</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le waypoint %1 n&apos;a pas de latitude valide</translation>
+        <translation>Le point de cheminement %1 n&apos;a pas de latitude valide</translation>
     </message>
     <message>
         <source>Waypoint %1 does not have a unique longitude</source>
@@ -4833,7 +4833,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <source>Waypoint %1 does not have a valid longitude</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le waypoint %1 n&apos;a pas de longitude valide</translation>
+        <translation>Le point de cheminement %1 n&apos;a pas de longitude valide</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="214"/>
@@ -4853,56 +4853,64 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/fileFormats/FPL.cpp" line="42"/>
         <source>Cannot parse FPL file %1 for XML.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="77"/>
         <source>Waypoint %1 has more than one identifier</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
+        <translation>Le point de cheminement %1 a plus d&apos;un identifiant</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="86"/>
         <source>Waypoint %1 has more than one latitude</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
+        <translation>Le point de cheminement %1 a plus d&apos;une latitude</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="101"/>
         <source>Waypoint %1 has more than one longitude</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
+        <translation>Le point de cheminement %1 a plus d&apos;une longitude</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="116"/>
         <source>Waypoint %1 has more than one elevation</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
+        <translation>Le point de cheminement %1 a plus d&apos;une altitude</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="123"/>
         <source>Waypoint %1 does not have a valid elevation</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
+        <translation>Le point de cheminement %1 n&apos;a pas d&apos;altitude valide</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="134"/>
         <source>Waypoint %1 does not have an identifier</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
+        <translation>Le point de cheminement %1 n&apos;a pas d&apos;identifiant</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="139"/>
         <source>Waypoint %1 does not have valid coordinats</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
+        <translation>Le point de cheminement %1 n&apos;a pas de coordonnées valides</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="190"/>
         <source>Waypoint identifier for route point %1 does not exist</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>L&apos;identifiant du waypoint pour le point de route %1 n&apos;existe pas</translation>
+        <translation>L&apos;identifiant du point de cheminement pour le point de route %1 n&apos;existe pas</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="75"/>
@@ -4921,7 +4929,8 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/fileFormats/PLN.cpp" line="81"/>
         <source>Cannot parse PLN file %1 for XML.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
+        <translation>Impossible d&apos;analyser le fichier PLN %1 pour XML</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="86"/>
@@ -4934,33 +4943,36 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/fileFormats/PLN.cpp" line="126"/>
         <source>Position of waypoint %1 invalid</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
+        <translation>Position du point de cheminement %1 non valide</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="143"/>
         <source>Waypoint %1 does not have a unique position</source>
         <comment>FileFormats::PLN</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le waypoint %1 n&apos;a pas de position unique</translation>
+        <translation>Le point de cheminement %1 n&apos;a pas de position unique</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="150"/>
         <source>File %1 does not contain way points</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
+        <translation>Le fichier %1 ne contient pas de points de cheminement</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="158"/>
         <source>File %1 does not contain a unique flight plan</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
+        <translation>Le fichier %1 ne contient pas de plan de vol unique</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="136"/>
         <source>Position of waypoint %1 is not a valid position</source>
         <comment>FileFormats::PLN</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>La position du waypoint %1 n&apos;est pas une position valide</translation>
+        <translation>La position du point de cheminement %1 n&apos;est pas une position valide</translation>
     </message>
 </context>
 <context>
@@ -6820,7 +6832,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="720"/>
         <source>Add Waypoint to Library</source>
-        <translation>Ajouter un point tournant à la bibliothèque</translation>
+        <translation>Ajouter un point de cheminement à la bibliothèque</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="738"/>
@@ -6830,12 +6842,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="739"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation>Une fois le point tournant &lt;strong&gt;%1&lt;/strong&gt; effacé, il ne peut pas être restauré.</translation>
+        <translation>Une fois le point de cheminement &lt;strong&gt;%1&lt;/strong&gt; effacé, il ne peut pas être restauré.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="746"/>
         <source>Waypoint removed from device</source>
-        <translation>Point tournant effacé de l&apos;appareil</translation>
+        <translation>Point de cheminement effacé de l&apos;appareil</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="493"/>
@@ -6880,7 +6892,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="729"/>
         <source>Added %1 to waypoint library.</source>
-        <translation>%1 ajouté à la bibiothèque des points tournants.</translation>
+        <translation>%1 ajouté à la bibiothèque des point de cheminement</translation>
     </message>
 </context>
 <context>
@@ -6981,7 +6993,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="48"/>
         <source>Edit Waypoint</source>
-        <translation>Modifier le point tournant</translation>
+        <translation>Modifier le point de cheminement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="220"/>
@@ -6996,7 +7008,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="151"/>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="175"/>
         <source>Waypoint Library</source>
-        <translation>Bibliothèque des points tournants</translation>
+        <translation>Bibliothèque des points de cheminement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="97"/>
@@ -7063,13 +7075,13 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="162"/>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="186"/>
         <source>Waypoint library shared</source>
-        <translation>Bibliothèque des points tournants partagée</translation>
+        <translation>Bibliothèque des points de cheminement partagée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="164"/>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="188"/>
         <source>Waypoint library exported</source>
-        <translation>Bibliothèque des points tournants exportée</translation>
+        <translation>Bibliothèque des points de cheminement exportée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="169"/>
@@ -7090,7 +7102,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="210"/>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="227"/>
         <source>Waypoint library opened in other app</source>
-        <translation>Bibliothèque des points tournants ouverte dans une autre application</translation>
+        <translation>Bibliothèque des points de cheminement ouverte dans une autre application</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="215"/>
@@ -7121,7 +7133,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="393"/>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="477"/>
         <source>Add Waypoint</source>
-        <translation>Ajouter un point tournant</translation>
+        <translation>Ajouter un point de cheminement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="486"/>
@@ -7158,17 +7170,17 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="426"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation>Une fois le waypoint &lt;strong&gt;%1&lt;/strong&gt; supprimé, il ne peut pas être restauré.</translation>
+        <translation>Une fois le point de cheminement &lt;strong&gt;%1&lt;/strong&gt; sera supprimé, il ne peut pas être restauré.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="434"/>
         <source>Waypoint removed from device</source>
-        <translation>Point tournant effacé de l&apos;appareil</translation>
+        <translation>Point de cheminement effacé de l&apos;appareil</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="446"/>
         <source>Clear Waypoint Library?</source>
-        <translation>Effacer le point tournant de la bibiothèque ?</translation>
+        <translation>Effacer le point de cheminement de la bibiothèque ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="449"/>
@@ -7178,12 +7190,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="455"/>
         <source>Waypoint library cleared</source>
-        <translation>Bibliothèque des points tournants effacée</translation>
+        <translation>Bibliothèque des points de cheminement effacée</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="469"/>
         <source>Waypoint modified</source>
-        <translation>Point tournant modifié</translation>
+        <translation>Point de cheminement modifié</translation>
     </message>
 </context>
 <context>
@@ -10170,7 +10182,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="175"/>
         <source>Nearby Waypoints</source>
-        <translation>Points de route à proximité</translation>
+        <translation>Points de cheminement à proximité</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="193"/>
@@ -10275,7 +10287,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="270"/>
         <source>Waypoints</source>
-        <translation>Points tournants</translation>
+        <translation>Points de cheminement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="328"/>
