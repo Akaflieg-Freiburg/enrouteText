@@ -3771,6 +3771,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Wie von unseren Benutzern gewünscht, kann &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; jetzt Routen in den Formaten FPL und PLN importieren.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="295"/>
+        <source>We thank Heinz Blöchinger for help with the implementation!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>As requested by our users, the setting &apos;font size&apos; now affects aviation-related text in the moving map display in addition to text in the user interface.</source>
         <translation type="vanished">Wie von unseren Benutzern gewünscht, steuert die Einstellung &apos;Schriftgröße&apos; jetzt neben dem Text der Benutzeroberfläche auch Luftfahrt-bezogene Texte in der Karte.</translation>
     </message>
@@ -3974,7 +3979,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; für iOS steht auf &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt; für einen Betatest bereit. Auch die &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;Homepage dieser App&lt;/a&gt; enthält einen Link zu TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="299"/>
+        <location filename="../../../src/Librarian.cpp" line="300"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Wir könnten Hilfe bei Werbegrafiken für die App-Stores und bei erklärenden Videos gebrauchen. Sollten Sie das können und uns helfen wollen, hören wir gern von Ihnen!</translation>
     </message>
