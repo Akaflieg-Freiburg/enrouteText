@@ -2280,19 +2280,19 @@ z danymi konta bankowego.
         <translation type="vanished">Export ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="304"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="307"/>
         <source>… to GeoJSON file</source>
         <translation>... do pliku GeoJSON</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="312"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="336"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="315"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="339"/>
         <source>Aborted</source>
         <translation>Przerwane</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="321"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="345"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="324"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="348"/>
         <source>Flight route shared</source>
         <translation>Plan lotu przekazany dalej</translation>
     </message>
@@ -2301,22 +2301,22 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;h3&gt;Pusta Trasa&lt;/h3&gt;&lt;p&gt;Użyj przycisku &lt;strong&gt;Dodaj Punkt&lt;/strong&gt; poniżej.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="665"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="668"/>
         <source>One waypoint: direct route from ownship position</source>
         <translation>Jeden punkt trasy: bezpośrednia trasa z własnej pozycji</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="854"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="857"/>
         <source>Clear Route?</source>
         <translation>Wyczyścić plan lotu?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="862"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="865"/>
         <source>Flight route cleared</source>
         <translation>Plan lotu wyczyszczony</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="328"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="331"/>
         <source>… to GPX file</source>
         <translation>... do pliku GPX</translation>
     </message>
@@ -2340,27 +2340,27 @@ z danymi konta bankowego.
         <translation type="vanished">Otwórz w innej aplikacji ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="357"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="360"/>
         <source>… in GeoJSON format</source>
         <translation>... w formacie GeoJSON</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="374"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="377"/>
         <source>… in GPX format</source>
         <translation>... w formacie GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="395"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="398"/>
         <source>Clear</source>
         <translation>Wyczyść</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="407"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="410"/>
         <source>Reverse</source>
         <translation>Odwróć</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="432"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="435"/>
         <source>Route</source>
         <translation>Trasa</translation>
     </message>
@@ -2369,7 +2369,7 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;h2&gt;Pusta Trasa&lt;/h2&gt;&lt;p&gt;Użyj przycisku &lt;strong&gt;Dodaj Punkt&lt;/strong&gt; poniżej.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="540"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="543"/>
         <source>Direction from</source>
         <translation>Kierunek z</translation>
     </message>
@@ -2378,8 +2378,8 @@ z danymi konta bankowego.
         <translation type="vanished">niezdefiniowano</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="433"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="530"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="436"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="533"/>
         <source>Wind</source>
         <translation>Wiatr</translation>
     </message>
@@ -2419,85 +2419,95 @@ z danymi konta bankowego.
         <translation>Anuluj</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="284"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="285"/>
+        <source>FPL File (*.fpl)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="286"/>
         <source>GeoJSON File (*.geojson *.json)</source>
         <translation>Plik GeoJSON (*.geojson *.json)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="285"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="287"/>
         <source>GPX File (*.gpx)</source>
         <translation>Plik GPX (*.gpx)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="300"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="288"/>
+        <source>PLN File (*.pln)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="303"/>
         <source>Share…</source>
         <translation>Udostępnij ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="300"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="303"/>
         <source>Export…</source>
         <translation>Export ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="323"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="347"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="326"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="350"/>
         <source>Flight route exported</source>
         <translation>Plan lotu wyeksportowany</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="353"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="356"/>
         <source>Open in Other App…</source>
         <translation>Otwórz w innej aplikacji ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="369"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="386"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="372"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="389"/>
         <source>Flight route opened in other app</source>
         <translation>Plan lotu otwarty w innej aplikacji</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="414"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="417"/>
         <source>Flight route reversed</source>
         <translation>Plan lotu odwrócony</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="465"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="468"/>
         <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below or double click on any point in the moving map.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Pusta trasa&lt;/h3&gt;&lt;p&gt;Użyj przycisku &lt;strong&gt;Dodaj punkt trasy&lt;/strong&gt; poniżej lub podwójnie kliknij na dowolnym punkcie na mapie.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="705"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="836"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="708"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="839"/>
         <source>Add Waypoint to Route</source>
         <translation>Dodaj Punkt Orientacyjny do Trasy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="734"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="737"/>
         <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
         <translation>Wybierz punkt trasy z poniższej listy lub &lt;a href=&apos;xx&apos;&gt;wprowadź współrzędne ręcznie&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="755"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="758"/>
         <source>Filter by Name</source>
         <translation>Filtruj po nazwie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="775"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="778"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Żaden punkt trasy nie odpowiada Twojemu filtrowi.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="812"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="815"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Nie ma żadnych punktów orientacyjnych. Upewnij się, że mapa lotnicza jest zainstalowana.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="813"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="816"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Brak punktów trasy odpowiadających kryteriom filtrowania.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="884"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="887"/>
         <source>Error Exporting Data…</source>
         <translation>Błąd przy eksportowaniu danych...</translation>
     </message>
@@ -2506,12 +2516,12 @@ z danymi konta bankowego.
         <translation type="vanished">Kierunek</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="572"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="575"/>
         <source>Speed</source>
         <translation>Prędkość</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="691"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="694"/>
         <source>Add Waypoint</source>
         <translation>Dodaj Punkt</translation>
     </message>
@@ -2520,7 +2530,7 @@ z danymi konta bankowego.
         <translation type="vanished">Wyczyścić plan lotu?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="857"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="860"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>Raz wymazana, obecna trasa nie będzie mogła zostać przywrócona.</translation>
     </message>
@@ -3448,9 +3458,13 @@ z danymi konta bankowego.
         <translation>Programowanie</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="64"/>
         <source>Heinz Blöchinger has helped us with OpenAir support. After 15 years of alpine gliding, Heinz has fulfilled a big dream and now flies helicopters.</source>
-        <translation>Heinz Blöchinger pomógł nam w obsłudze OpenAir. Po 15 latach szybownictwa alpejskiego Heinz spełnił wielkie marzenie i teraz lata helikopterami.</translation>
+        <translation type="vanished">Heinz Blöchinger pomógł nam w obsłudze OpenAir. Po 15 latach szybownictwa alpejskiego Heinz spełnił wielkie marzenie i teraz lata helikopterami.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="64"/>
+        <source>Heinz Blöchinger has helped us with file import functionality. After 15 years of alpine gliding, Heinz has fulfilled a big dream and now flies helicopters.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="69"/>
