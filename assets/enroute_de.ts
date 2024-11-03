@@ -2363,7 +2363,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="285"/>
         <source>FPL File (*.fpl)</source>
-        <translation type="unfinished"></translation>
+        <translation>FPL-Datei (*.fpl)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="286"/>
@@ -2378,7 +2378,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="288"/>
         <source>PLN File (*.pln)</source>
-        <translation type="unfinished"></translation>
+        <translation>PLN-Datei (*.pln)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="303"/>
@@ -3411,7 +3411,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="64"/>
         <source>Heinz Blöchinger has helped us with file import functionality. After 15 years of alpine gliding, Heinz has fulfilled a big dream and now flies helicopters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Heinz Blöchinger hat uns mit der Funktion für den Dateiimport unterstützt. Nach 15 Jahren alpinen Segelfliegens erfüllte er sich einen großen Traum und fliegt jetzt Hubschrauber.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="71"/>
