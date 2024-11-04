@@ -1997,7 +1997,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="285"/>
         <source>FPL File (*.fpl)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo FPL (*.gpx)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="286"/>
@@ -2012,7 +2012,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="288"/>
         <source>PLN File (*.pln)</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo PLN (*.pln)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="303"/>
@@ -2950,7 +2950,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="64"/>
         <source>Heinz Blöchinger has helped us with file import functionality. After 15 years of alpine gliding, Heinz has fulfilled a big dream and now flies helicopters.</source>
-        <translation type="unfinished"></translation>
+        <translation>Heinz Blöchinger nos ha ayudado con funcionalidad de importación de archivos.. Después de 15 años de planeador, Heinz ha cumplido su gran sueño y ahora es piloto de helicópteros.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="65"/>
