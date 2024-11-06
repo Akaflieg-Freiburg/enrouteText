@@ -2582,7 +2582,7 @@ Message: Enroute Flight Navigation
 <context>
     <name>Librarian</name>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="152"/>
+        <location filename="../../../src/Librarian.cpp" line="164"/>
         <source>
 &lt;h3&gt;License&lt;/h3&gt;
 
@@ -2601,7 +2601,7 @@ Message: Enroute Flight Navigation
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="163"/>
+        <location filename="../../../src/Librarian.cpp" line="175"/>
         <source>
 &lt;h4&gt;Software and data included in the program&lt;/h4&gt;
 
@@ -2633,12 +2633,27 @@ Message: Enroute Flight Navigation
         <translation>&lt;p&gt;Cette version de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est obselète et ne recevra plus de mise à jour de cartes. &lt;strong&gt;Veuillez mettre à jour l&apos;application.&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="64"/>
+        <location filename="../../../src/Librarian.cpp" line="65"/>
+        <source>The app has been ported to iOS by Simon Schneider, who also maintains the iOS port. Simon received his PPL license in 2024. Like Stefan, he is a member of the Akaflieg Freiburg flight club.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="68"/>
         <source>Heinz Blöchinger has helped us with file import functionality. After 15 years of alpine gliding, Heinz has fulfilled a big dream and now flies helicopters.</source>
         <translation>Heinz Blöchinger nous a aidé avec fonctionnalité d&apos;importation de fichiers. Après 15 ans de planeur, Heinz a réalisé un grand rêve et pilote maintenant des hélicoptères.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="65"/>
+        <location filename="../../../src/Librarian.cpp" line="71"/>
+        <source>Christian Engelhardt started the implementation of height density calculation. Christian is a PPL pilot in southern germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="74"/>
+        <source>Tom Linz completed height density calculation. He received his PPL license in late 2024. Tom works as a development engineer for safety systems.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="77"/>
         <source>
 &lt;h3&gt;Translations&lt;/h3&gt;
 </source>
@@ -2660,17 +2675,18 @@ Message: Enroute Flight Navigation
         <translation>Contributions</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="63"/>
+        <location filename="../../../src/Librarian.cpp" line="65"/>
         <source>iOS Version</source>
         <translation>Version iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="63"/>
         <source>The app has been ported to iOS by Simon Schneider. Simon is currently student pilot (PPL) and member of the Akaflieg Freiburg flight club, just like Stefan.</source>
-        <translation>L&apos;application a été portée sur iOS par Simon Schneider. Simon est actuellement élève-pilote (PPL) et membre du club de vol Akaflieg Freiburg, tout comme Stefan.</translation>
+        <translation type="vanished">L&apos;application a été portée sur iOS par Simon Schneider. Simon est actuellement élève-pilote (PPL) et membre du club de vol Akaflieg Freiburg, tout comme Stefan.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="64"/>
+        <location filename="../../../src/Librarian.cpp" line="68"/>
+        <location filename="../../../src/Librarian.cpp" line="71"/>
+        <location filename="../../../src/Librarian.cpp" line="74"/>
         <source>Programming</source>
         <translation>La programmation</translation>
     </message>
@@ -2679,14 +2695,14 @@ Message: Enroute Flight Navigation
         <translation type="vanished">Heinz Blöchinger nous a aidé avec le support OpenAir. Après 15 ans de planeur, Heinz a réalisé un grand rêve et pilote maintenant des hélicoptères.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="69"/>
+        <location filename="../../../src/Librarian.cpp" line="81"/>
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato and Luca Riva. Both are private pilots and aerospace engineers. Luca is also doing aerobatics.&lt;/li&gt;
 </source>
         <translation>&lt;li&gt;&lt;strong&gt;Freançais:&lt;/strong&gt;Adrien Crovato et Luca Riva. Les deux sont des pilotes privés et des ingénieurs aérospatiaux. Luca est également&lt;/li&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="71"/>
+        <location filename="../../../src/Librarian.cpp" line="83"/>
         <source>
 &lt;li&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/li&gt;
 </source>
@@ -2695,14 +2711,14 @@ Message: Enroute Flight Navigation
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="73"/>
+        <location filename="../../../src/Librarian.cpp" line="85"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
         <translation>&lt;li&gt;&lt;strong&gt;Italien:&lt;/strong&gt; Ivan Battistella et Antonio Fardella.  Antonio est pilote aéro et est passioné par tous types de challenge.&lt;/li&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="75"/>
+        <location filename="../../../src/Librarian.cpp" line="87"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/li&gt;
 </source>
@@ -2711,14 +2727,14 @@ Message: Enroute Flight Navigation
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="81"/>
+        <location filename="../../../src/Librarian.cpp" line="93"/>
         <source>
 &lt;h3&gt;Alumni&lt;/h3&gt;
 </source>
         <translation>&lt;h3&gt;Alumni&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="85"/>
+        <location filename="../../../src/Librarian.cpp" line="97"/>
         <source>
 &lt;li&gt;Luca Bertoncello (Italian translation)&lt;/li&gt;
 </source>
@@ -2727,7 +2743,7 @@ Message: Enroute Flight Navigation
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="87"/>
+        <location filename="../../../src/Librarian.cpp" line="99"/>
         <source>
 &lt;li&gt;Adrien Crovato (Integration of weather information)&lt;/li&gt;
 </source>
@@ -2736,12 +2752,12 @@ Message: Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="90"/>
+        <location filename="../../../src/Librarian.cpp" line="102"/>
         <source>Manual</source>
         <translation>Manuel</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="91"/>
+        <location filename="../../../src/Librarian.cpp" line="103"/>
         <source>
 &lt;li&gt;Szymon Kocur (Polish translation)&lt;/li&gt;
 </source>
@@ -2750,7 +2766,7 @@ Message: Enroute Flight Navigation
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="93"/>
+        <location filename="../../../src/Librarian.cpp" line="105"/>
         <source>
 &lt;li&gt;Heiner Tholen (User interface)&lt;/li&gt;
 </source>
@@ -2759,7 +2775,7 @@ Message: Enroute Flight Navigation
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="95"/>
+        <location filename="../../../src/Librarian.cpp" line="107"/>
         <source>
 &lt;li&gt;Johannes Zellner (Geoid correction for altitude)&lt;/li&gt;
 </source>
@@ -2768,7 +2784,7 @@ Message: Enroute Flight Navigation
         </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="119"/>
+        <location filename="../../../src/Librarian.cpp" line="131"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -2823,218 +2839,228 @@ Message: Enroute Flight Navigation
 		</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="181"/>
+        <location filename="../../../src/Librarian.cpp" line="193"/>
         <source>This Privacy Policy outlines the data handling practices for the app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</source>
         <translation>Cette politique de confidentialité décrit les pratiques de traitement des données pour l&apos;application &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="182"/>
+        <location filename="../../../src/Librarian.cpp" line="194"/>
         <source>We prioritize your privacy and do not collect or store personally identifiable information.</source>
         <translation>Nous accordons la priorité à votre vie privée et ne collectons ni ne stockons d’informations personnelles identifiables.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="183"/>
+        <location filename="../../../src/Librarian.cpp" line="195"/>
         <source>However, for the app to function properly, it must communicate with certain servers on the Internet.</source>
         <translation>Cependant, pour que l’application fonctionne correctement, elle doit communiquer avec certains serveurs sur Internet.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="184"/>
+        <location filename="../../../src/Librarian.cpp" line="196"/>
         <source>The following sections list the servers that &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; communicates with and explain the communication purposes.</source>
         <translation>Les sections suivantes répertorient les serveurs avec lesquels &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; communique et expliquent les objectifs de la communication.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="188"/>
+        <location filename="../../../src/Librarian.cpp" line="200"/>
         <source>By using Enroute Flight Navigation, you agree to this Privacy Policy.</source>
         <translation>En utilisant Enroute Flight Navigation, vous acceptez cette politique de confidentialité.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="189"/>
+        <location filename="../../../src/Librarian.cpp" line="201"/>
         <source>We may update this policy periodically, and any changes will be posted within the app.</source>
         <translation>Nous pouvons mettre à jour cette politique périodiquement et toute modification sera publiée dans l&apos;application.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="193"/>
+        <location filename="../../../src/Librarian.cpp" line="205"/>
         <source>1. Data and Anonymization Server (enroute-data)</source>
         <translation>1. Serveur de données et d&apos;anonymisation (enroute-data)</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="197"/>
+        <location filename="../../../src/Librarian.cpp" line="209"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; regularly communicates with the server &lt;strong&gt;enroute-data.akaflieg-freiburg.de&lt;/strong&gt; (referred to as &lt;strong&gt;enroute-data&lt;/strong&gt;), operated by Hetzner Online GmbH on behalf of Akaflieg Freiburg.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; communique régulièrement avec le serveur &lt;strong&gt;enroute-data.akaflieg-freiburg.de&lt;/strong&gt; (appelé &lt;strong&gt;enroute-data&lt;/strong&gt;), exploité par Hetzner Online GmbH pour le compte d&apos;Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="198"/>
+        <location filename="../../../src/Librarian.cpp" line="210"/>
         <source>The server&apos;s primary role is to facilitate the app&apos;s functionality while maintaining user privacy.</source>
         <translation>Le rôle principal du serveur est de faciliter les fonctionnalités de l&apos;application tout en préservant la confidentialité des utilisateurs.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="202"/>
+        <location filename="../../../src/Librarian.cpp" line="214"/>
         <source>1.1. Data Collected</source>
         <translation>1.1. Données collectées</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="206"/>
+        <location filename="../../../src/Librarian.cpp" line="218"/>
         <source>In every communication with &lt;strong&gt;enroute-data&lt;/strong&gt;, your device&apos;s IP address is transmitted to the server.</source>
         <translation>Dans chaque communication avec &lt;strong&gt;enroute-data&lt;/strong&gt;, l&apos;adresse IP de votre appareil est transmise au serveur.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="207"/>
+        <location filename="../../../src/Librarian.cpp" line="219"/>
         <source>The server needs to know the IP address to respond.</source>
         <translation>Le serveur doit connaître l&apos;adresse IP pour répondre.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="211"/>
+        <location filename="../../../src/Librarian.cpp" line="223"/>
         <source>The server stores the following data items in its log files.</source>
         <translation>Le serveur stocke les éléments de données suivants dans ses fichiers journaux.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="215"/>
+        <location filename="../../../src/Librarian.cpp" line="227"/>
         <source>&lt;strong&gt;Pseudonymized IP Address&lt;/strong&gt;: The last byte of your IP address is replaced with a random number, ensuring it cannot identify you.</source>
         <translation>&lt;strong&gt;Adresse IP pseudonymisée&lt;/strong&gt;: le dernier byte de votre adresse IP est remplacé par un nombre aléatoire, garantissant ainsi qu&apos;elle ne peut pas vous identifier.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="216"/>
+        <location filename="../../../src/Librarian.cpp" line="228"/>
         <source>&lt;strong&gt;Access Data&lt;/strong&gt;: Date and time of access, error codes, and data sent.</source>
         <translation>&lt;strong&gt;Données d&apos;accès&lt;/strong&gt;: date et heure d&apos;accès, codes d&apos;erreur et données envoyées.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="217"/>
+        <location filename="../../../src/Librarian.cpp" line="229"/>
         <source>&lt;strong&gt;Software Information&lt;/strong&gt;: The name of the web browser or software in use if the visitor’s software provides this information to the server.</source>
         <translation>&lt;strong&gt;Informations sur le logiciel&lt;/strong&gt;: le nom du navigateur Web ou du logiciel utilisé si le logiciel du visiteur fournit ces informations au serveur.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="218"/>
+        <location filename="../../../src/Librarian.cpp" line="230"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; does not provide this information and sends a standard text (&apos;Mozilla/5.0&apos;) instead.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ne fournit pas ces informations et envoie un texte standard (« Mozilla/5.0 ») à la place.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="219"/>
+        <location filename="../../../src/Librarian.cpp" line="231"/>
         <source>&lt;strong&gt;Operating System:&lt;/strong&gt; The operating system&apos;s name if the visitor’s software provides this information to the server.</source>
         <translation>&lt;strong&gt;Système d&apos;exploitation:&lt;/strong&gt; Le nom du système d&apos;exploitation si le logiciel du visiteur fournit ces informations au serveur.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="220"/>
+        <location filename="../../../src/Librarian.cpp" line="232"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; does not provide this information. </source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ne fournit pas ces informations.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="224"/>
+        <location filename="../../../src/Librarian.cpp" line="236"/>
         <source>1.2. Communication: Data Download</source>
         <translation>1.2. Communication: téléchargement de données</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="228"/>
+        <location filename="../../../src/Librarian.cpp" line="240"/>
         <source>The app checks for updates and downloads data from &lt;strong&gt;enroute-data&lt;/strong&gt; to provide current maps and aviation data.</source>
         <translation>L&apos;application vérifie les mises à jour et télécharge les données de &lt;strong&gt;enroute-data&lt;/strong&gt; pour fournir des cartes et des données aéronautiques actuelles.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="229"/>
+        <location filename="../../../src/Librarian.cpp" line="241"/>
         <source>Your IP address is transmitted in the process.</source>
         <translation>Votre adresse IP est transmise au cours du processus.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="233"/>
+        <location filename="../../../src/Librarian.cpp" line="245"/>
         <source>1.3. Communication: NOTAM, METAR and TAF </source>
         <translation>1.3. Communication: NOTAM, METAR et TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="237"/>
+        <location filename="../../../src/Librarian.cpp" line="249"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; shows NOTAMs, METARs, and TAFs for airfields near your current location and your currently planned route.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; affiche les NOTAM, METAR et TAF pour les aérodromes proches de votre position actuelle et votre itinéraire actuellement prévu.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="238"/>
+        <location filename="../../../src/Librarian.cpp" line="250"/>
         <source>It also shows NOTAMs, METARs, and TAFs for all waypoints you open in the app.</source>
         <translation>Il affiche également les NOTAM, METAR et TAF pour tous les points de cheminement que vous ouvrez dans l&apos;application.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="239"/>
+        <location filename="../../../src/Librarian.cpp" line="251"/>
         <source>To provide this functionality, requests are transmitted to the server &lt;strong&gt;enroute-data&lt;/strong&gt; at regular intervals and whenever new data is requested.</source>
         <translation>Pour fournir cette fonctionnalité, des requêtes sont transmises au serveur &lt;strong&gt;enroute-data&lt;/strong&gt; à intervalles réguliers et chaque fois que de nouvelles données sont demandées.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="240"/>
+        <location filename="../../../src/Librarian.cpp" line="252"/>
         <source>In addition to your device&apos;s IP address, the following data items will be sent.</source>
         <translation>En plus de l&apos;adresse IP de votre appareil, les éléments de données suivants seront envoyés.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="250"/>
+        <location filename="../../../src/Librarian.cpp" line="262"/>
         <source>The server forwards requests for METARs and TAFs to a web service at the Aviation Weather Center but hides your IP address, so the web service will never see it.</source>
         <translation>Le serveur transmet les demandes de METAR et de TAF à un service Web du centre météorologique de l&apos;aviation, mais masque votre adresse IP afin que le service Web ne la voie jamais.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="251"/>
+        <location filename="../../../src/Librarian.cpp" line="263"/>
         <source>The web services at the Aviation Weather Center are operated by the US government.</source>
         <translation>Les services Web de l&apos;Aviation Weather Center sont gérés par le gouvernement américain.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="252"/>
-        <location filename="../../../src/Librarian.cpp" line="259"/>
+        <location filename="../../../src/Librarian.cpp" line="264"/>
+        <location filename="../../../src/Librarian.cpp" line="271"/>
         <source>We do not control the data handling practices of these external services.</source>
         <translation>Nous ne contrôlons pas les pratiques de traitement des données de ces services externes.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="253"/>
+        <location filename="../../../src/Librarian.cpp" line="265"/>
         <source>Detailed information can be found at &lt;strong&gt;www.aviationweather.gov/dataserver&lt;/strong&gt;.</source>
         <translation>Des informations détaillées sont disponibles sur &lt;strong&gt;www.aviationweather.gov/dataserver&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="257"/>
+        <location filename="../../../src/Librarian.cpp" line="269"/>
         <source>The server forwards requests for NOTAMs to a Federal Aviation Administration web service but hides your IP address, so the service will never see it.</source>
         <translation>Le serveur transmet les demandes de NOTAM à un service Web de la Federal Aviation Administration, mais masque votre adresse IP afin que le service ne la voie jamais.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="258"/>
+        <location filename="../../../src/Librarian.cpp" line="270"/>
         <source>The Federal Aviation Administration&apos;s web services are operated by the US government.</source>
         <translation>Les services Web de la Federal Aviation Administration sont gérés par le gouvernement américain.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="260"/>
+        <location filename="../../../src/Librarian.cpp" line="272"/>
         <source>Detailed information can be found at &lt;strong&gt;api.faa.gov&lt;/strong&gt;.</source>
         <translation>Des informations détaillées sont disponibles sur &lt;strong&gt;api.faa.gov&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="264"/>
+        <location filename="../../../src/Librarian.cpp" line="276"/>
         <source>Other Servers </source>
         <translation>Autres serveurs</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="268"/>
+        <location filename="../../../src/Librarian.cpp" line="280"/>
         <source>At the user&apos;s request, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; may display external websites in an embedded browser window or ask the operating system to open external apps such as Google Maps.</source>
         <translation>À la demande de l&apos;utilisateur, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; peut afficher des sites Web externes dans une fenêtre de navigateur intégrée ou demander au système d&apos;exploitation d&apos;ouvrir des applications externes telles que Google Maps.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="269"/>
+        <location filename="../../../src/Librarian.cpp" line="281"/>
         <source>These external sites and apps are beyond our control and may collect their own data.</source>
         <translation>Ces sites et applications externes échappent à notre contrôle et peuvent collecter leurs propres données.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="273"/>
+        <location filename="../../../src/Librarian.cpp" line="285"/>
         <source>Users expect web browsers to follow hyperlinks immediately but may not expect the same behavior elsewhere in the app.</source>
         <translation>Les utilisateurs s&apos;attendent à ce que les navigateurs Web suivent immédiatement les hyperliens, mais ne s&apos;attendent pas nécessairement au même comportement ailleurs dans l&apos;application.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="274"/>
+        <location filename="../../../src/Librarian.cpp" line="286"/>
         <source>To account for these expectations, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; operates as follows.</source>
         <translation>Pour répondre à ces attentes, la &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; fonctionne comme suit.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="278"/>
+        <location filename="../../../src/Librarian.cpp" line="290"/>
         <source>&lt;strong&gt;Embedded Browser Windows&lt;/strong&gt;: Clicking a hyperlink is considered authorization to open the external site.</source>
         <translation>&lt;strong&gt;Navigateur intégré Windows&lt;/strong&gt;: cliquer sur un lien hypertexte est considéré comme une autorisation d&apos;ouvrir le site externe.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="279"/>
+        <location filename="../../../src/Librarian.cpp" line="291"/>
         <source>&lt;strong&gt;Outside Embedded Browser Windows&lt;/strong&gt;: The app will ask for explicit user authorization before opening any external site or app.</source>
         <translation>&lt;strong&gt;En dehors  du navigateur intégré de Windows&lt;/strong&gt;: l&apos;application demandera l&apos;autorisation explicite de l&apos;utilisateur avant d&apos;ouvrir un site ou une application externe.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="294"/>
+        <location filename="../../../src/Librarian.cpp" line="306"/>
+        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density height from METAR data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="307"/>
+        <source>We thank Christian Engelhardt and Tom Linz for the implementation!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="309"/>
         <source>As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to import flight routes in FPL and PLN formats.</source>
         <translation>À la demande de nos utilisateurs, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est désormais capable d&apos;importer des itinéraires de vol aux formats FPL et PLN.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="295"/>
+        <location filename="../../../src/Librarian.cpp" line="310"/>
         <source>We thank Heinz Blöchinger for help with the implementation!</source>
         <translation>Nous remercions Heinz Blöchinger pour son aide à la mise en œuvre !</translation>
     </message>
@@ -3075,12 +3101,12 @@ Message: Enroute Flight Navigation
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est désormais capable d&apos;afficher des cartes d&apos;approche visuelles sur la carte mobile. Les utilisateurs en Allemagne peuvent télécharger les VAC officiels de la Deutsche Flugsicherung (DFS) à l&apos;aide du très pratique &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. . Veuillez consulter le manuel pour plus de détails.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="300"/>
+        <location filename="../../../src/Librarian.cpp" line="315"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Nous avons besoin d&apos;aide avec des graphiques promotionnels pour les app stores et avec des vidéos explicatives. Si vous êtes un artiste graphique/vidéo et que vous souhaitez aider, n&apos;hésitez pas à nous contacter.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="283"/>
+        <location filename="../../../src/Librarian.cpp" line="295"/>
         <source>Responsible</source>
         <translation>Responsable</translation>
     </message>
@@ -3141,17 +3167,17 @@ Message: Enroute Flight Navigation
         <translation type="vanished">Pour fournir cette fonctionnalité, une requête contenant les données suivantes est transmise à un &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;serveur de l&apos;Université de Fribourg&lt;/a&gt;&#xa0;:</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="244"/>
+        <location filename="../../../src/Librarian.cpp" line="256"/>
         <source>Your current location</source>
         <translation>Votre position actuelle</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="245"/>
+        <location filename="../../../src/Librarian.cpp" line="257"/>
         <source>The currently planned route</source>
         <translation>L&apos;itinéraire actuellement prévu</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="246"/>
+        <location filename="../../../src/Librarian.cpp" line="258"/>
         <source>Waypoint coordinates</source>
         <translation>Coordonnées du point de cheminement</translation>
     </message>
@@ -3236,7 +3262,7 @@ Message: Enroute Flight Navigation
         <translation type="vanished">Pour une confidentialité renforcée, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; achemine les demandes de données METAR/TAF et NOTAM via nos serveurs. Cela masque votre adresse IP aux services Web qui fournissent les données.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="104"/>
+        <location filename="../../../src/Librarian.cpp" line="116"/>
         <source>
 &lt;p&gt;We receive our aviation data from &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. This is a not-for-profit organisation where volunteers compile aviation data for many countries. If openAIP covers your country, we might be able to generate maps for it. First, however, we need to be reasonably sure that the openAIP data is accurate and complete. Please have a look at the &lt;a href=&quot;http://maps.openaip.net&quot;&gt;openAIP maps&lt;/a&gt; and compare the display with an official aviation map of your country. Are the airfields there? Are runway lengths/orientations and frequencies correct? Are NavAids correctly displayed, with correct codes and frequencies? And what about airspaces?&lt;/p&gt;
 
@@ -3393,26 +3419,29 @@ Message: Enroute Flight Navigation
     <name>Navigation::Clock</name>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="58"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="89"/>
         <source>just now</source>
         <translation>maintenant</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="72"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="103"/>
         <source>%1 ago</source>
         <translation>il y a %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="74"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="105"/>
         <source>in %1</source>
         <translation>dans %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="92"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="123"/>
         <source>yesterday %1</source>
         <translation>hier %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="96"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="127"/>
         <source>tomorrow %1</source>
         <translation>demain %1</translation>
     </message>
@@ -4796,26 +4825,108 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Impossible d&apos;ouvrir le fichier FPL %1 en lecture.</translation>
     </message>
     <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="47"/>
+        <source>File %1 does not contain a flight plan.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="77"/>
+        <source>Waypoint %1 has more than one identifier.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="86"/>
+        <source>Waypoint %1 has more than one latitude.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="93"/>
+        <source>Waypoint %1 does not have a valid latitude.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="101"/>
+        <source>Waypoint %1 has more than one longitude.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="108"/>
+        <source>Waypoint %1 does not have a valid longitude.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="116"/>
+        <source>Waypoint %1 has more than one elevation.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="123"/>
+        <source>Waypoint %1 does not have a valid elevation.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="134"/>
+        <source>Waypoint %1 does not have an identifier.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="139"/>
+        <source>Waypoint %1 does not have valid coordinates.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="147"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="198"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="209"/>
+        <source>File %1 does not contain a waypoint.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="180"/>
+        <source>Route point %1 does not have a unique waypoint identifier.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="190"/>
+        <source>Waypoint identifier for point %1 of the flight route does not exist.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="214"/>
+        <source>File %1 does not contain a route.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Cannot parse FPL file %1 for XML. Reason: %2</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
         <translation type="vanished">Impossible d&apos;analyser le fichier FPL %1 pour XML. Raison&#xa0;: %2</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="47"/>
         <source>File %1 does not contain a flight plan</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le fichier %1 ne contient pas de plan de vol</translation>
+        <translation type="vanished">Le fichier %1 ne contient pas de plan de vol</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="147"/>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="198"/>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="209"/>
         <source>File %1 does not contain a waypoint</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le fichier %1 ne contient pas des points de cheminement</translation>
+        <translation type="vanished">Le fichier %1 ne contient pas des points de cheminement</translation>
     </message>
     <message>
         <source>Waypoint %1 does not have a unique identifier</source>
@@ -4830,11 +4941,10 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation type="vanished">Le waypoint %1 n&apos;a pas de latitude unique</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="93"/>
         <source>Waypoint %1 does not have a valid latitude</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le point de cheminement %1 n&apos;a pas de latitude valide</translation>
+        <translation type="vanished">Le point de cheminement %1 n&apos;a pas de latitude valide</translation>
     </message>
     <message>
         <source>Waypoint %1 does not have a unique longitude</source>
@@ -4843,25 +4953,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation type="vanished">Le waypoint %1 n&apos;a pas de longitude unique</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="108"/>
         <source>Waypoint %1 does not have a valid longitude</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le point de cheminement %1 n&apos;a pas de longitude valide</translation>
+        <translation type="vanished">Le point de cheminement %1 n&apos;a pas de longitude valide</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="214"/>
         <source>File %1 does not contain a route</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le fichier %1 ne contient pas d&apos;itinéraire</translation>
+        <translation type="vanished">Le fichier %1 ne contient pas d&apos;itinéraire</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="180"/>
         <source>Route point %1 does not have a unique waypoint identifier</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le point d&apos;itinéraire %1 n&apos;a pas d&apos;identifiant de point de cheminement unique</translation>
+        <translation type="vanished">Le point d&apos;itinéraire %1 n&apos;a pas d&apos;identifiant de point de cheminement unique</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="42"/>
@@ -4871,60 +4978,52 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="77"/>
         <source>Waypoint %1 has more than one identifier</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le point de cheminement %1 a plus d&apos;un identifiant</translation>
+        <translation type="vanished">Le point de cheminement %1 a plus d&apos;un identifiant</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="86"/>
         <source>Waypoint %1 has more than one latitude</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le point de cheminement %1 a plus d&apos;une latitude</translation>
+        <translation type="vanished">Le point de cheminement %1 a plus d&apos;une latitude</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="101"/>
         <source>Waypoint %1 has more than one longitude</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le point de cheminement %1 a plus d&apos;une longitude</translation>
+        <translation type="vanished">Le point de cheminement %1 a plus d&apos;une longitude</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="116"/>
         <source>Waypoint %1 has more than one elevation</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le point de cheminement %1 a plus d&apos;une altitude</translation>
+        <translation type="vanished">Le point de cheminement %1 a plus d&apos;une altitude</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="123"/>
         <source>Waypoint %1 does not have a valid elevation</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le point de cheminement %1 n&apos;a pas d&apos;altitude valide</translation>
+        <translation type="vanished">Le point de cheminement %1 n&apos;a pas d&apos;altitude valide</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="134"/>
         <source>Waypoint %1 does not have an identifier</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le point de cheminement %1 n&apos;a pas d&apos;identifiant</translation>
+        <translation type="vanished">Le point de cheminement %1 n&apos;a pas d&apos;identifiant</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="139"/>
         <source>Waypoint %1 does not have valid coordinats</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le point de cheminement %1 n&apos;a pas de coordonnées valides</translation>
+        <translation type="vanished">Le point de cheminement %1 n&apos;a pas de coordonnées valides</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="190"/>
         <source>Waypoint identifier for route point %1 does not exist</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>L&apos;identifiant du point de cheminement pour le point de route %1 n&apos;existe pas</translation>
+        <translation type="vanished">L&apos;identifiant du point de cheminement pour le point de route %1 n&apos;existe pas</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="75"/>
@@ -4932,6 +5031,37 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <comment>FileFormats::PLN</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
         <translation>Impossible d&apos;ouvrir le fichier PLN %1 en lecture.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="86"/>
+        <source>File %1 does not contain a flight plan.</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="126"/>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="136"/>
+        <source>Position of waypoint %1 is invalid.</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="143"/>
+        <source>More than one position specified for waypoint %1.</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="150"/>
+        <source>File %1 does not contain waypoints.</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="158"/>
+        <source>File %1 contains more than one flight plan.</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cannot parse PLN file %1 for XML. Reason: %2</source>
@@ -4947,46 +5077,40 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Impossible d&apos;analyser le fichier PLN %1 pour XML</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/PLN.cpp" line="86"/>
         <source>File %1 does not contain a flight plan</source>
         <comment>FileFormats::PLN</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le fichier %1 ne contient pas de plan de vol</translation>
+        <translation type="vanished">Le fichier %1 ne contient pas de plan de vol</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/PLN.cpp" line="126"/>
         <source>Position of waypoint %1 invalid</source>
         <comment>FileFormats::PLN</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Position du point de cheminement %1 non valide</translation>
+        <translation type="vanished">Position du point de cheminement %1 non valide</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/PLN.cpp" line="143"/>
         <source>Waypoint %1 does not have a unique position</source>
         <comment>FileFormats::PLN</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le point de cheminement %1 n&apos;a pas de position unique</translation>
+        <translation type="vanished">Le point de cheminement %1 n&apos;a pas de position unique</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/PLN.cpp" line="150"/>
         <source>File %1 does not contain way points</source>
         <comment>FileFormats::PLN</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le fichier %1 ne contient pas de points de cheminement</translation>
+        <translation type="vanished">Le fichier %1 ne contient pas de points de cheminement</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/PLN.cpp" line="158"/>
         <source>File %1 does not contain a unique flight plan</source>
         <comment>FileFormats::PLN</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>Le fichier %1 ne contient pas de plan de vol unique</translation>
+        <translation type="vanished">Le fichier %1 ne contient pas de plan de vol unique</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/PLN.cpp" line="136"/>
         <source>Position of waypoint %1 is not a valid position</source>
         <comment>FileFormats::PLN</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation>La position du point de cheminement %1 n&apos;est pas une position valide</translation>
+        <translation type="vanished">La position du point de cheminement %1 n&apos;est pas une position valide</translation>
     </message>
 </context>
 <context>
@@ -9123,12 +9247,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/weather/Decoder.cpp" line="2793"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2832"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2844"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2874"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2966"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2976"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="3085"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="3210"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="3262"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2867"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2959"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2969"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3078"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3203"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3255"/>
         <source>Invalid data</source>
         <translation>donnée invalide</translation>
     </message>
@@ -9309,7 +9433,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2381"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="3066"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3059"/>
         <source>Distance %1.</source>
         <translation>Distance %1.</translation>
     </message>
@@ -9650,426 +9774,425 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Temperature à la surface de l&apos;eau : %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2853"/>
         <source>Temperature %1, Dew point %2, Humidity %3%</source>
-        <translation>Température %1, point de rosée %2, humidité %3</translation>
+        <translation type="vanished">Température %1, point de rosée %2, humidité %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2857"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2850"/>
         <source>Temperature %1, Dew point %2</source>
         <translation>Température %1, point de rosée %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2885"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2878"/>
         <source>No significant weather changes expected</source>
         <translation>Aucun changement significatif prévu</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2888"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2881"/>
         <source>Gradually changing</source>
         <translation>Changement graduel</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2891"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2908"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2884"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2901"/>
         <source>from %1</source>
         <translation>De %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2895"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2912"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2888"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2905"/>
         <source>until %1</source>
         <translation>à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2899"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2916"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2892"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2909"/>
         <source>at %1</source>
         <translation>à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2905"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2898"/>
         <source>Temporarily</source>
         <translation>Temporairement</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2925"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2918"/>
         <source>Forecast: rapid weather change at %1</source>
         <translation>Prévision : changement rapide de météo à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2930"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2923"/>
         <source>Forecast until %1</source>
         <translation>Prévision jusqu&apos;à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2935"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2928"/>
         <source>Forecast for %1</source>
         <translation>Prévision pour %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2942"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2935"/>
         <source>Forecast from %1 to %2 (%3)</source>
         <translation>Prévision de %1 à %2 (%3)</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2949"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2942"/>
         <source>Forecast from %1 to %2</source>
         <translation>Prévision de %1 à %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2956"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2949"/>
         <source>Forecast %1</source>
         <translation>Prévision %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2969"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2962"/>
         <source>Not recognised by parser: %1</source>
         <translation>Non reconnu: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2984"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2977"/>
         <source>Thunderstorm</source>
         <translation>Orage</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2988"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2981"/>
         <source>Cumulonimbus cloud(s)</source>
         <translation>Cumulonimbus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2992"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2985"/>
         <source>Cumulonimbus cloud(s) with mammatus</source>
         <translation>Cumulonimbus avec mammatus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2996"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2989"/>
         <source>Towering cumulus cloud(s)</source>
         <translation>Cumulus bourgeonnant(s)</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3000"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2993"/>
         <source>Altocumulus cloud(s)</source>
         <translation>Altocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3004"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2997"/>
         <source>Stratocumulus standing lenticular cloud(s)</source>
         <translation>Nuage(s) lenticulaire(s) Stratocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3008"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3001"/>
         <source>Altocumulus standing lenticular cloud(s)</source>
         <translation>Nuage(s) lenticulaire(s) Altocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3012"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3005"/>
         <source>Cirrocumulus standing lenticular cloud(s)</source>
         <translation>Nuage(s) lenticulaire(s) Cirrocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3016"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3009"/>
         <source>Rotor cloud(s)</source>
         <translation>Nuages rotors</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3020"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3013"/>
         <source>Virga</source>
         <translation>Virga</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3024"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3017"/>
         <source>Precipitation</source>
         <translation>Précipitation</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3028"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3021"/>
         <source>Fog</source>
         <translation>Brouillard</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3032"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3025"/>
         <source>Shallow fog</source>
         <translation>Brouillard superficiel</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3036"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3029"/>
         <source>Patches of fog</source>
         <translation>Bancs de brouillard</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3040"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3033"/>
         <source>Haze</source>
         <translation>Brume sèche</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3044"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3037"/>
         <source>Smoke</source>
         <translation>Fumée</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3048"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3041"/>
         <source>Blowing snow</source>
         <translation>Chasse haute de neige</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3052"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3045"/>
         <source>Blowing sand</source>
         <translation>Chasse haute de sable</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3056"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3049"/>
         <source>Blowing dust</source>
         <translation>Chasse haute de poussière</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3062"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3055"/>
         <source>%1 observed.</source>
         <translation>%1 observé.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3070"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3063"/>
         <source>Directions: %1</source>
         <translation>Directions : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3075"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3068"/>
         <source>Moving towards %1.</source>
         <extracomment>%1 is string like &apos;west&apos;</extracomment>
         <translation>%1 est comme &apos;Ouest&apos;</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3091"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3084"/>
         <source>Visibility is %1</source>
         <translation>Visibilité %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3095"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3088"/>
         <source>Visibility is %1. Station cannot differentiate the directional variation of visibility</source>
         <translation>Visibilité %1. La station ne peut prédire les changements directionels de la visibilité</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3099"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3092"/>
         <source>Visibility toward %1 is %2</source>
         <translation>Visibilité vers %1 de %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3104"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3097"/>
         <source>Visibility for %1 is %2</source>
         <translation>Visibilité pour %1 de %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3114"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3107"/>
         <source>Runway visual range for %1 is %2 and the trend is %3</source>
         <translation>Porté visuelle de piste pour %1 de %2 et la tendance est %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3119"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3112"/>
         <source>Runway visual range for %1 is %2</source>
         <translation>Porté visuelle de piste pour %1 de %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3124"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3117"/>
         <source>Visibility at surface level is %1</source>
         <translation>Visbilité à la surface de %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3128"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3121"/>
         <source>Visibility from air traffic control tower is %1</source>
         <translation>Visbilité depuis la tour de contrôle de %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3132"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3125"/>
         <source>Sector visibility is %1 in the following directions %2</source>
         <translation>Visbilité des secteurs %2 de %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3137"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3130"/>
         <source>Visibility is variable from %1 to %2</source>
         <translation>Visbilité variable de %1 à %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3142"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3135"/>
         <source>Directional visibility toward %1 is variable from %2 to %3</source>
         <translation>Visbilité directionelle vers %1 variable de %2 à %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3148"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3141"/>
         <source>Visibility for %1 is variable from %2 to %3</source>
         <translation>Visbilité pour %1 variable de %2 à %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3156"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3149"/>
         <source>Runway visual range for %1 is variable from %2 to %3 and the trend is %4</source>
         <translation>Portée visuelle de la piste pour %1 variable de %2 à %3, tendance %4</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3162"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3155"/>
         <source>Runway visual range for %1 is variable from %2 to %3</source>
         <translation>Portée visuelle de la pisté</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3168"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3161"/>
         <source>Sector visibility is variable from %1 to %2 in the following directions: %3</source>
         <translation>Visibilité des secteurs %3 variable de %1 à %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3174"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3167"/>
         <source>Visibility data missing</source>
         <translation>Données de visbilité manquantes</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3177"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3170"/>
         <source>Runway visual range data is missing</source>
         <translation>Portée visuelle de piste manquante</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3180"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3173"/>
         <source>Runway visual range should be reported but is missing</source>
         <translation>Portée visuelle de piste manquante</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3187"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3180"/>
         <source>Visibility data not available for %1 in the direction of %2</source>
         <translation>Données de visibilité indisponibles pour %1 dans la direction %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3193"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3186"/>
         <source>Visibility data not available for %1</source>
         <translation>Données de visibilité indisponibles pour %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3198"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3191"/>
         <source>Visibility data not available in the direction of %1</source>
         <translation>Données de visibilité indisponibles dans la direction %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3201"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3194"/>
         <source>Visibility data not awailable</source>
         <translation>Données de visibilité indisponibles</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3234"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3227"/>
         <source>Recent weather: %1</source>
         <translation>Météo récente : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3237"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3230"/>
         <source>Precipitation beginning/ending time: %1</source>
         <translation>Temps de début/fin des pécipitations : %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3240"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3233"/>
         <source>No significant weather</source>
         <translation>Pas de phénomène significatif</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3243"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3236"/>
         <source>Automated weather identifier INOP</source>
         <translation>Identifiant de la station automatique INOP</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3246"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3239"/>
         <source>Lightning detector INOP</source>
         <translation>Détecteur de foudre INOP</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3249"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3242"/>
         <source>Weather phenomena data is missing</source>
         <translation>Données de phénomène météo manquantes</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3252"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3245"/>
         <source>Thunderstorm / lightning data is missing</source>
         <translation>Données orage / foudre manquantes</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3268"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3261"/>
         <source>No wind</source>
         <translation>Pas de vent</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3273"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3266"/>
         <source>Wind direction %1, wind speed %2, gusts at %3</source>
         <translation>Direction du vent %1, vitesse %2, rafales à %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3278"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3271"/>
         <source>Wind direction %1, wind speed %2</source>
         <translation>Direction du vent %1, vitesse %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3283"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3276"/>
         <source>Variable wind direction %1 -- %2</source>
         <translation>Direction du vent variable entre %1 -- %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3290"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3283"/>
         <source>Wind direction %1 (%2 -- %3), wind speed %4, gusts at %5</source>
         <translation>Direction du vent %1 (%2 -- %3), vitesse %4, rafales à %5</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3297"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3290"/>
         <source>Wind direction %1 (%2 -- %3), wind speed %4</source>
         <translation>Direction du vent %1 (%2 -- %3), vitesse %4</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3305"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3298"/>
         <source>Wind shear at %1 AGL, wind direction %2, wind speed %3, gusts at %4</source>
         <translation>Cisaillement de vent à %1 AGL, direction %2, vitesse %3, rafales à %4</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3311"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3304"/>
         <source>Wind shear at %1 AGL, wind direction %2, wind speed %3</source>
         <translation>Cisaillement de vent à %1 AGL, direction %2, vitesse %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3320"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3313"/>
         <source>Wind direction changed at %1</source>
         <translation>Changement dans la direction du vent à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3322"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3315"/>
         <source>Wind direction changed recently</source>
         <translation>Changement récent dans la direction du vent</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3327"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3320"/>
         <source>Wind direction changed at %1 because of weather front passage</source>
         <translation>Changement dans la direction du vent à %1 à cause de passage de front</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3329"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3322"/>
         <source>Wind directed changed recently because of weather front passage</source>
         <translation>Changement récent dans la direction du vent à cause de paggae de front</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3332"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3325"/>
         <source>Peak wind observed at %1, wind direction %2, wind speed %3</source>
         <translation>Pic de vent à %1, direction %2, vitesse %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3340"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3333"/>
         <source>Wind shear between runway level and 1.600 ft at runway %1</source>
         <translation>Cisaillement de vent entre le niveau de la piste %1 et 1600 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3342"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3335"/>
         <source>Wind shear between runway level and 1.600 ft</source>
         <translation>Cisaillement de vent entre le niveau de la piste et 1600 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3345"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3338"/>
         <source>Potential wind shear</source>
         <translation>Possibilité de cisaillement de vent</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3348"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3341"/>
         <source>Wind data is missing</source>
         <translation>Données de vent manquantes</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2862"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2855"/>
         <source>Temperature data is missing</source>
         <translation>Données de tempréature manquantes</translation>
     </message>
@@ -10094,7 +10217,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Code ROUGE : visibilité &lt;800 m ou base de nuage &lt;200 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2865"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2858"/>
         <source>Dew point data is missing</source>
         <translation>Données de point de rosée manquantes</translation>
     </message>
@@ -10102,69 +10225,84 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Weather::METAR</name>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="232"/>
+        <location filename="../../../src/weather/METAR.cpp" line="264"/>
         <source>VMC</source>
         <translation>VMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="230"/>
+        <location filename="../../../src/weather/METAR.cpp" line="260"/>
         <source>CAVOK</source>
         <translation>CAVOK</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="236"/>
+        <location filename="../../../src/weather/METAR.cpp" line="268"/>
         <source>marginal VMC</source>
         <translation>MVMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="239"/>
+        <location filename="../../../src/weather/METAR.cpp" line="271"/>
         <source>IMC</source>
         <translation>IMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="242"/>
+        <location filename="../../../src/weather/METAR.cpp" line="274"/>
         <source>low IMC</source>
         <translation>LIMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="252"/>
+        <location filename="../../../src/weather/METAR.cpp" line="286"/>
         <source>gusts of %1 km/h</source>
         <translation>rafales de %1 km/h</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="255"/>
+        <location filename="../../../src/weather/METAR.cpp" line="289"/>
         <source>gusts of %1 mph</source>
         <translation>rafales de %1 mph</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="258"/>
+        <location filename="../../../src/weather/METAR.cpp" line="292"/>
         <source>gusts of %1 kn</source>
         <translation>rafales de %1 kn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="264"/>
+        <location filename="../../../src/weather/METAR.cpp" line="301"/>
         <source>wind at %1 km/h</source>
         <translation>vent à %1 km/h</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="267"/>
+        <location filename="../../../src/weather/METAR.cpp" line="304"/>
         <source>wind at %1 mph</source>
         <translation>vent à %1 mph</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="270"/>
+        <location filename="../../../src/weather/METAR.cpp" line="307"/>
         <source>wind at %1 kn</source>
         <translation>vent à %1 kn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="282"/>
+        <location filename="../../../src/weather/METAR.cpp" line="321"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="285"/>
+        <location filename="../../../src/weather/METAR.cpp" line="324"/>
         <source>%1 %2: %3</source>
         <translation>%1 %2: %3</translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="333"/>
+        <source>Density Altitude: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="338"/>
+        <source>Relative Humidity: %1%</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="347"/>
+        <source>Derived Data</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
