@@ -11946,82 +11946,82 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>Weather::METAR</name>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="264"/>
+        <location filename="../../../src/weather/METAR.cpp" line="251"/>
         <source>VMC</source>
         <translation>VMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="260"/>
+        <location filename="../../../src/weather/METAR.cpp" line="247"/>
         <source>CAVOK</source>
         <translation>CAVOK</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="268"/>
+        <location filename="../../../src/weather/METAR.cpp" line="255"/>
         <source>marginal VMC</source>
         <translation>VMC marginale</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="271"/>
+        <location filename="../../../src/weather/METAR.cpp" line="258"/>
         <source>IMC</source>
         <translation>IMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="274"/>
+        <location filename="../../../src/weather/METAR.cpp" line="261"/>
         <source>low IMC</source>
         <translation>IMC scarso</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="286"/>
+        <location filename="../../../src/weather/METAR.cpp" line="274"/>
         <source>gusts of %1 km/h</source>
         <translation>raffiche a %1 km/h</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="289"/>
+        <location filename="../../../src/weather/METAR.cpp" line="277"/>
         <source>gusts of %1 mph</source>
         <translation>raffiche a %1 mph</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="292"/>
+        <location filename="../../../src/weather/METAR.cpp" line="280"/>
         <source>gusts of %1 kn</source>
         <translation>raffiche a %1 kn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="301"/>
+        <location filename="../../../src/weather/METAR.cpp" line="289"/>
         <source>wind at %1 km/h</source>
         <translation>vento a %1 km/h</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="304"/>
+        <location filename="../../../src/weather/METAR.cpp" line="292"/>
         <source>wind at %1 mph</source>
         <translation>vento a %1 mph</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="307"/>
+        <location filename="../../../src/weather/METAR.cpp" line="295"/>
         <source>wind at %1 kn</source>
         <translation>vento a %1kn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="321"/>
+        <location filename="../../../src/weather/METAR.cpp" line="309"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="324"/>
+        <location filename="../../../src/weather/METAR.cpp" line="312"/>
         <source>%1 %2: %3</source>
         <translation>%1 %2: %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="333"/>
+        <location filename="../../../src/weather/METAR.cpp" line="321"/>
         <source>Density Altitude: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="338"/>
+        <location filename="../../../src/weather/METAR.cpp" line="326"/>
         <source>Relative Humidity: %1%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="347"/>
+        <location filename="../../../src/weather/METAR.cpp" line="335"/>
         <source>Derived Data</source>
         <translation type="unfinished"></translation>
     </message>
