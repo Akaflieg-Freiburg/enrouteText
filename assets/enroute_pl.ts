@@ -11892,74 +11892,78 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Weather::METAR</name>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="251"/>
+        <location filename="../../../src/weather/METAR.cpp" line="248"/>
         <source>VMC</source>
         <translation>VMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="247"/>
+        <location filename="../../../src/weather/METAR.cpp" line="244"/>
         <source>CAVOK</source>
         <translation>CAVOK</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="255"/>
+        <location filename="../../../src/weather/METAR.cpp" line="252"/>
         <source>marginal VMC</source>
         <translation>graniczne VMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="258"/>
+        <location filename="../../../src/weather/METAR.cpp" line="255"/>
         <source>IMC</source>
         <translation>IMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="261"/>
+        <location filename="../../../src/weather/METAR.cpp" line="258"/>
         <source>low IMC</source>
         <translation>niskie IMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="274"/>
+        <location filename="../../../src/weather/METAR.cpp" line="270"/>
         <source>gusts of %1 km/h</source>
         <translation>porywy %1 km/h</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="277"/>
+        <location filename="../../../src/weather/METAR.cpp" line="273"/>
         <source>gusts of %1 mph</source>
         <translation>porywy %1 mph</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="280"/>
+        <location filename="../../../src/weather/METAR.cpp" line="276"/>
         <source>gusts of %1 kn</source>
         <translation>porywy %1 kn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="289"/>
+        <location filename="../../../src/weather/METAR.cpp" line="285"/>
         <source>wind at %1 km/h</source>
         <translation>wiatr %1 km/h</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="292"/>
+        <location filename="../../../src/weather/METAR.cpp" line="288"/>
         <source>wind at %1 mph</source>
         <translation>wiatr %1 mph</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="295"/>
+        <location filename="../../../src/weather/METAR.cpp" line="291"/>
         <source>wind at %1 kn</source>
         <translation>wiatr %1 kn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="309"/>
+        <location filename="../../../src/weather/METAR.cpp" line="305"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="312"/>
+        <location filename="../../../src/weather/METAR.cpp" line="308"/>
         <source>%1 %2: %3</source>
         <translation>%1 %2: %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="321"/>
+        <location filename="../../../src/weather/METAR.cpp" line="318"/>
+        <source>Density Altitude: %1 (Δ %2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Density Altitude: %1</source>
-        <translation>Wysokość gęstościowa:%1</translation>
+        <translation type="vanished">Wysokość gęstościowa:%1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="326"/>
