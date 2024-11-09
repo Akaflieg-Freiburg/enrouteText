@@ -3473,9 +3473,8 @@ z danymi konta bankowego.
         <translation>Heinz Blöchinger pomógł nam z funkcjonalnością importu plików. Po 15 latach alpejskiego szybownictwa Heinz spełnił wielkie marzenie i teraz lata śmigłowcami.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="71"/>
         <source>Christian Engelhardt started the implementation of height density calculation. Christian is a PPL pilot in southern germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
-        <translation>Christian Engelhardt rozpoczął implementację obliczeń gęstości wg. wysokości. Christian jest pilotem PPL w południowych Niemczech, studiował elektrotechnikę i pracuje jako programista systemów wbudowanych.</translation>
+        <translation type="vanished">Christian Engelhardt rozpoczął implementację obliczeń gęstości wg. wysokości. Christian jest pilotem PPL w południowych Niemczech, studiował elektrotechnikę i pracuje jako programista systemów wbudowanych.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="74"/>
@@ -3501,13 +3500,24 @@ z danymi konta bankowego.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="85"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translation>
+        <translation type="vanished">
 &lt;li&gt;&lt;strong&gt;Włoski:&lt;/strong&gt; Ivan Battistella i Antonio Fardella.  Antonio jest lotnikiem morskim z pasją do wszystkiego co wymagające.&lt;/li&gt;
 </translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="71"/>
+        <source>Christian Engelhardt started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="85"/>
+        <source>
+&lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is an ultralight pilot with a passion for everything challenging.&lt;/li&gt;
+</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="87"/>
@@ -3800,8 +3810,12 @@ z danymi konta bankowego.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="306"/>
+        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density height from METAR data.</source>
-        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; od teraz oblicza wysokość gęstości na podstawie danych METAR.</translation>
+        <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; od teraz oblicza wysokość gęstości na podstawie danych METAR.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="307"/>
@@ -6201,10 +6215,9 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Nie można otworzyć pliku FPL %1 do odczytu.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="47"/>
         <source>File %1 does not contain a flight plan.</source>
         <comment>FileFormats::FPL</comment>
-        <translation>Plik %1 nie zawiera planu lotu.</translation>
+        <translation type="vanished">Plik %1 nie zawiera planu lotu.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="77"/>
@@ -6264,15 +6277,25 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/FPL.cpp" line="147"/>
         <location filename="../../../src/fileFormats/FPL.cpp" line="198"/>
         <location filename="../../../src/fileFormats/FPL.cpp" line="209"/>
-        <source>File %1 does not contain a waypoint.</source>
+        <source>File %1 does not contain waypoints.</source>
         <comment>FileFormats::FPL</comment>
-        <translation>Plik %1 nie zawiera punktu trasy.</translation>
+        <translation type="unfinished">Plik %1 nie zawiera punktów trasy.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="180"/>
+        <source>Waypoint %1 does not have a unique waypoint identifier.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File %1 does not contain a waypoint.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="vanished">Plik %1 nie zawiera punktu trasy.</translation>
+    </message>
+    <message>
         <source>Route point %1 does not have a unique waypoint identifier.</source>
         <comment>FileFormats::FPL</comment>
-        <translation>Punkt trasy %1 nie ma unikalnego identyfikatora punktu trasy.</translation>
+        <translation type="vanished">Punkt trasy %1 nie ma unikalnego identyfikatora punktu trasy.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="190"/>
@@ -6281,6 +6304,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Identyfikator punktu trasy dla punktu %1 trasy lotu nie istnieje.</translation>
     </message>
     <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="47"/>
         <location filename="../../../src/fileFormats/FPL.cpp" line="214"/>
         <source>File %1 does not contain a route.</source>
         <comment>FileFormats::FPL</comment>
@@ -6354,10 +6378,15 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Nie można otworzyć pliku PLN %1 do odczytu.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/PLN.cpp" line="86"/>
         <source>File %1 does not contain a flight plan.</source>
         <comment>FileFormats::PLN</comment>
-        <translation>Plik %1 nie zawiera planu lotu.</translation>
+        <translation type="vanished">Plik %1 nie zawiera planu lotu.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="86"/>
+        <source>File %1 does not contain a route.</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished">Plik %1 nie zawiera trasy.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="126"/>

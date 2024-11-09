@@ -3422,10 +3422,9 @@ con i dati del conto bancario.
         <translation>Heinz Blöchinge ci aiuta con la funzione di importazione. Dopo 15 anni di gliding alpino, Heinz ha realizzato il grande sogno e adesso pilota elicotteri.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="71"/>
         <source>Christian Engelhardt started the implementation of height density calculation. Christian is a PPL pilot in southern germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
         <translatorcomment>Please check the capital letter for the word &quot;Germany&quot;.</translatorcomment>
-        <translation>Christian Engelhardt ha iniziato l&apos;implementazione del calcolo dell&apos;altitudine di densità. Christian è un pilota PPL nel sud della Germania, ha studiato ingegneria elettronica e lavora come Ingegnere Sowtware Incorporato.</translation>
+        <translation type="vanished">Christian Engelhardt ha iniziato l&apos;implementazione del calcolo dell&apos;altitudine di densità. Christian è un pilota PPL nel sud della Germania, ha studiato ingegneria elettronica e lavora come Ingegnere Sowtware Incorporato.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="74"/>
@@ -3442,12 +3441,23 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="85"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translation type="unfinished">
+        <translation type="obsolete">
 &lt;li&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella e Antonio Fardella.  Antonio è un pilota ultraleggeri con la passione per tutto ciò che è entusiasmante.&lt;/li&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="71"/>
+        <source>Christian Engelhardt started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="85"/>
+        <source>
+&lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is an ultralight pilot with a passion for everything challenging.&lt;/li&gt;
+</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="87"/>
@@ -3728,8 +3738,12 @@ con i dati del conto bancario.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="306"/>
+        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density height from METAR data.</source>
-        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; adesso calcola l&apos;altitudine di densità dai dati METAR.</translation>
+        <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; adesso calcola l&apos;altitudine di densità dai dati METAR.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="307"/>
@@ -6207,10 +6221,9 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Non posso aprire in lettura il file FPL %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="47"/>
         <source>File %1 does not contain a flight plan.</source>
         <comment>FileFormats::FPL</comment>
-        <translation>Il file %1 non contiene un piano di volo.</translation>
+        <translation type="vanished">Il file %1 non contiene un piano di volo.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="77"/>
@@ -6270,15 +6283,25 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/fileFormats/FPL.cpp" line="147"/>
         <location filename="../../../src/fileFormats/FPL.cpp" line="198"/>
         <location filename="../../../src/fileFormats/FPL.cpp" line="209"/>
-        <source>File %1 does not contain a waypoint.</source>
+        <source>File %1 does not contain waypoints.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished">Il file %1 non contiene un waypoint.</translation>
+        <translation type="unfinished">Il file %1 non contiene waypoint.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="180"/>
+        <source>Waypoint %1 does not have a unique waypoint identifier.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File %1 does not contain a waypoint.</source>
+        <comment>FileFormats::FPL</comment>
+        <translation type="obsolete">Il file %1 non contiene un waypoint.</translation>
+    </message>
+    <message>
         <source>Route point %1 does not have a unique waypoint identifier.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished">Il waypoint %1 non ha un identificatore unico.</translation>
+        <translation type="obsolete">Il waypoint %1 non ha un identificatore unico.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="190"/>
@@ -6287,6 +6310,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>L&apos;identificatore del punto %1 del piano di volo, non esiste.</translation>
     </message>
     <message>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="47"/>
         <location filename="../../../src/fileFormats/FPL.cpp" line="214"/>
         <source>File %1 does not contain a route.</source>
         <comment>FileFormats::FPL</comment>
@@ -6398,10 +6422,15 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Non posso aprire il file PLN %1 in lettura.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/PLN.cpp" line="86"/>
         <source>File %1 does not contain a flight plan.</source>
         <comment>FileFormats::PLN</comment>
-        <translation>Il file %1 non contiene un piano di volo.</translation>
+        <translation type="vanished">Il file %1 non contiene un piano di volo.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/PLN.cpp" line="86"/>
+        <source>File %1 does not contain a route.</source>
+        <comment>FileFormats::PLN</comment>
+        <translation type="unfinished">Il file %1 non contiene un piano di volo.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="126"/>
