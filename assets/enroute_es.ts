@@ -2951,7 +2951,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="65"/>
         <source>The app has been ported to iOS by Simon Schneider, who also maintains the iOS port. Simon received his PPL license in 2024. Like Stefan, he is a member of the Akaflieg Freiburg flight club.</source>
-        <translation type="unfinished"></translation>
+        <translation>La aplicación ha sido portada a iOS por Simon Schneider, quien también mantiene la versión iOS. Simon obtuvo su licencia PPL en 2024. Al igual que Stefan, es miembro del club de vuelo Akaflieg de Friburgo.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="68"/>
@@ -2961,7 +2961,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="74"/>
         <source>Tom Linz completed height density calculation. He received his PPL license in late 2024. Tom works as a development engineer for safety systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tom Linz completó el cálculo de la densidad de altura. Recibió su licencia PPL a finales de 2024. Tom trabaja como ingeniero de desarrollo de sistemas de seguridad.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="77"/>
@@ -2997,14 +2997,14 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="71"/>
         <source>Christian Engelhardt started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Christian Engelhardt inició la implementación del cálculo de la densidad de altura. Christian es piloto de PPL en el sur de Alemania, estudió ingeniería eléctrica y trabaja como ingeniero de software integrado.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="85"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is an ultralight pilot with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;li&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella y Antonio Fardella.  Antonio es un piloto de ultraligeros apasionado por todo lo desafiante.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="87"/>
@@ -3291,12 +3291,12 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="306"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ahora calcula la altitud de densidad a partir de los datos METAR.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="307"/>
         <source>We thank Christian Engelhardt and Tom Linz for the implementation!</source>
-        <translation type="unfinished"></translation>
+        <translation>¡Agradecemos a Christian Engelhardt y Tom Linz por la implementación!</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="309"/>
@@ -5464,55 +5464,64 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/FPL.cpp" line="77"/>
         <source>Waypoint %1 has more than one identifier.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::FPL</translatorcomment>
+        <translation>El punto de ruta %1 tiene más de un identificador</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="86"/>
         <source>Waypoint %1 has more than one latitude.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::FPL</translatorcomment>
+        <translation>El punto de ruta %1 tiene más de una latitud</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="93"/>
         <source>Waypoint %1 does not have a valid latitude.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::FPL</translatorcomment>
+        <translation>El waypoint %1 no tiene una latitud válida</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="101"/>
         <source>Waypoint %1 has more than one longitude.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::FPL</translatorcomment>
+        <translation>El punto de ruta %1 tiene más de una longitud</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="108"/>
         <source>Waypoint %1 does not have a valid longitude.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::FPL</translatorcomment>
+        <translation>El waypoint %1 no tiene una longitud válida</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="116"/>
         <source>Waypoint %1 has more than one elevation.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::FPL</translatorcomment>
+        <translation>El punto de ruta %1 tiene más de una elevación</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="123"/>
         <source>Waypoint %1 does not have a valid elevation.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::FPL</translatorcomment>
+        <translation>El punto de ruta %1 no tiene una elevación válida</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="134"/>
         <source>Waypoint %1 does not have an identifier.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::FPL</translatorcomment>
+        <translation>El punto de ruta %1 no tiene un identificador</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="139"/>
         <source>Waypoint %1 does not have valid coordinates.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::FPL</translatorcomment>
+        <translation>El punto de ruta %1 no tiene coordenadas válidas</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="147"/>
@@ -5520,26 +5529,30 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/FPL.cpp" line="209"/>
         <source>File %1 does not contain waypoints.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::FPL</translatorcomment>
+        <translation>El archivo %1 no contiene puntos de ruta</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="180"/>
         <source>Waypoint %1 does not have a unique waypoint identifier.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::FPL</translatorcomment>
+        <translation>El punto de ruta %1 no tiene un identificador de punto de ruta único</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="190"/>
         <source>Waypoint identifier for point %1 of the flight route does not exist.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::FPL</translatorcomment>
+        <translation>El identificador de punto de ruta para el punto %1 de la ruta de vuelo no existe.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="47"/>
         <location filename="../../../src/fileFormats/FPL.cpp" line="214"/>
         <source>File %1 does not contain a route.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::FPL</translatorcomment>
+        <translation>El archivo %1 no contiene una ruta</translation>
     </message>
     <message>
         <source>Cannot parse FPL file %1 for XML. Reason: %2</source>
@@ -5667,32 +5680,37 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/PLN.cpp" line="86"/>
         <source>File %1 does not contain a route.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::PLN</translatorcomment>
+        <translation>El archivo %1 no contiene una ruta</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="126"/>
         <location filename="../../../src/fileFormats/PLN.cpp" line="136"/>
         <source>Position of waypoint %1 is invalid.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::PLN</translatorcomment>
+        <translation>La posición del punto de ruta %1 no es válida</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="143"/>
         <source>More than one position specified for waypoint %1.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::PLN</translatorcomment>
+        <translation>Más de una posición especificada para el punto de ruta %1.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="150"/>
         <source>File %1 does not contain waypoints.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::PLN</translatorcomment>
+        <translation>El archivo %1 no contiene puntos de ruta</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="158"/>
         <source>File %1 contains more than one flight plan.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Formatos de archivo::PLN</translatorcomment>
+        <translation>El archivo %1 contiene más de un plan de vuelo.</translation>
     </message>
     <message>
         <source>Cannot parse PLN file %1 for XML. Reason: %2</source>
@@ -11091,17 +11109,17 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="318"/>
         <source>Density Altitude: %1 (Δ %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitud de densidad: %1 (Δ %2)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="326"/>
         <source>Relative Humidity: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Humedad relativa: %1%</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="335"/>
         <source>Derived Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos derivados</translation>
     </message>
 </context>
 <context>
