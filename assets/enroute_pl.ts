@@ -3510,14 +3510,14 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="71"/>
         <source>Christian Engelhardt started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Christian Engelhardt rozpoczął implementację obliczeń wysokości wg. gęstości. Christian jest pilotem PPL w południowych Niemczech, studiował elektrotechnikę i pracuje jako Embedded SW Engineer.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="85"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is an ultralight pilot with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;li&gt;&lt;strong&gt;Włoski:&lt;/strong&gt; Ivan Battistella i Antonio Fardella. Antonio jest pilotem ultralekkiego samolotu, który pasjonuje się wszystkim, co wymagające.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="87"/>
@@ -3811,7 +3811,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="306"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; teraz oblicza wysokość gęstościową na podstawie danych METAR.</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density height from METAR data.</source>
@@ -5518,7 +5518,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="133"/>
         <source>Density altitude is the altitude at which an aircraft flying in the ICAO standard atmosphere experiences an air density equal to the density measured by the ambient pressure/temperature sensors of your device.</source>
-        <translation>Wysokość gęstości to wysokość, na której samolot lecący w standardowej atmosferze ICAO doświadcza gęstości powietrza równej gęstości zmierzonej przez czujniki ciśnienia/temperatury otoczenia urządzenia.</translation>
+        <translation>Wysokość gęstościowa to wysokość, na której samolot lecący w standardowej atmosferze ICAO doświadcza gęstości powietrza równej gęstości zmierzonej przez czujniki ciśnienia/temperatury otoczenia urządzenia.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="134"/>
@@ -5538,7 +5538,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="166"/>
         <source>Density Altitude</source>
-        <translation>Wysokość gęstości</translation>
+        <translation>Wysokość gęstościowa</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="174"/>
@@ -6279,13 +6279,13 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/FPL.cpp" line="209"/>
         <source>File %1 does not contain waypoints.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished">Plik %1 nie zawiera punktów trasy.</translation>
+        <translation>Plik %1 nie zawiera punktów trasy.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="180"/>
         <source>Waypoint %1 does not have a unique waypoint identifier.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation>Punkt trasy %1 nie ma unikalnego identyfikatora punktu trasy.</translation>
     </message>
     <message>
         <source>File %1 does not contain a waypoint.</source>
@@ -6386,7 +6386,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/PLN.cpp" line="86"/>
         <source>File %1 does not contain a route.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished">Plik %1 nie zawiera trasy.</translation>
+        <translation>Plik %1 nie zawiera trasy.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="126"/>
@@ -11231,7 +11231,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2539"/>
         <source>Density altitude is %1 feet</source>
-        <translation>Wysokość gęstnienia to %1 stóp</translation>
+        <translation>Wysokość gęstościowa to %1 stóp</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2546"/>
@@ -11988,7 +11988,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="318"/>
         <source>Density Altitude: %1 (Δ %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Wysokość gęstościowa: %1 (Δ %2)</translation>
     </message>
     <message>
         <source>Density Altitude: %1</source>
