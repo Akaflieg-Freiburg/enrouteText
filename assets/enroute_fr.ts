@@ -4,10 +4,6 @@
 <context>
     <name>AddBTDeviceDialog</name>
     <message>
-        <source>Add Bluetooth Device</source>
-        <translation type="vanished">Ajouter un appareil Bluetooth</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="32"/>
         <source>Add Bluetooth Connection</source>
         <translation>Ajouter une connexion Bluetooth</translation>
@@ -335,100 +331,14 @@
         <translation>Signaler un bug</translation>
     </message>
     <message>
-        <source>
-&lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
-
-&lt;p&gt;We aim to provide high-quality software. Fixing errors
-is therefore always our first priority. We are grateful for
-every report that we get, and we would also like to hear
-your suggestions for improvement.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;h3&gt;Signaler un bug ou suggérer des améliorations&lt;/h3&gt;
-
-&lt;p&gt;Nous sommes soucieux de vous fournir une application de haute qualité. 
-Notre priorité première est donc de corriger les bugs. Nous vous remecions d&apos;avance pour votre rapport et nous restons ouverts à toute suggestion d&apos;amélioration que vous pourriez proposer.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="105"/>
         <source>Main application</source>
         <translation>Application</translation>
     </message>
     <message>
-        <source>
-&lt;h4&gt;Main Application&lt;/h4&gt;
-
-&lt;p&gt;Use this button to report an issue in the main
-application.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;h4&gt;Application&lt;/h4&gt;
-
-&lt;p&gt;Appuyez sur ce bouton pour signaler un problème dans l&apos;application.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="49"/>
         <source>Go back in bug report</source>
         <translation>Retour au rapport</translation>
-    </message>
-    <message>
-        <source>
-&lt;h4&gt;Airspaces&lt;/h4&gt;
-
-&lt;p&gt;If you would like to report problems with airspaces
-(such as wrong missing airspaces, wrong vertical limits,
-…), then please use the buttons below.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;h4&gt;Espaces aériens&lt;/h4&gt;
-
-&lt;p&gt;Utilisez le bouton ci-dessous pour signaler un problème concernant les
-espaces aériens (espaces manquants ou erronés, limites verticales erronées…).&lt;/p&gt;
-</translation>
-    </message>
-    <message>
-        <source>Flight Information Regions</source>
-        <translation type="vanished">Régions d&apos;information de vol</translation>
-    </message>
-    <message>
-        <source>Nature Reserve Areas</source>
-        <translation type="vanished">Espaces naturels protégés</translation>
-    </message>
-    <message>
-        <source>All Other Airspaces</source>
-        <translation type="vanished">Autres types d&apos;espace</translation>
-    </message>
-    <message>
-        <source>
-&lt;h4&gt;Aviation Data&lt;/h4&gt;
-
-&lt;p&gt;If you would like to report problems with other aviation
-data (such as wrong airfield frequencies, outdated traffic
-patterns, missing navaids,…), then please use the buttons
-below.&lt;/p&gt;
-</source>
-        <translation type="vanished">&lt;h4&gt;Données aéronautiques&lt;/h4&gt;
-
-&lt;p&gt;Utilisez le bouton ci-dessous pour signaler un problème concernant les
-données aéronautiques (fréquences erronées, aides à la navigation manquantes…).&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>Airfields</source>
-        <translation type="vanished">Aérodromes</translation>
-    </message>
-    <message>
-        <source>NavAids</source>
-        <translation type="vanished">Aides à la navigation</translation>
-    </message>
-    <message>
-        <source>Procedures/Traffic circuits</source>
-        <translation type="vanished">Circuit d&apos;aérodrome</translation>
-    </message>
-    <message>
-        <source>Reporting points</source>
-        <translation type="vanished">Point de report</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="90"/>
@@ -595,252 +505,6 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
         <source>Thank you for your help!</source>
         <translation>Merci pour ton aide!</translation>
     </message>
-    <message>
-        <source>
-&lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
-
-&lt;h4&gt;Aviation Data&lt;/h4&gt;
-
-&lt;p&gt;The aviation data concerned in your report comes from
-&lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt;, a free aviation
-database operated by Garrecht Avionik GmbH in Germany.&lt;/p&gt;
-
-&lt;p&gt;To correct the data in openAIP, we ask for your help.
-Please go to the openAIP web site, create an account and
-log in. You can then suggest corrections. Once your
-suggestion is approved, the correction will appear in
-&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; within a
-week.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;h3&gt;Signaler un bug ou suggérer des améliorations&lt;/h3&gt;
-
-&lt;h4&gt;Donnés aéronautiques&lt;/h4&gt;
-
-&lt;p&gt;Les données aéronautiques viennent de
-&lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt;, 
-une base de données gratuite gérée par Garrecht Avionik GmbH en Allemagne.&lt;/p&gt;
-
-&lt;p&gt;Si vous notez une erreur dans les données openAIP, 
-nous vous demandons de signaler le problème directement à OpenAIP.
-Aller sur leur site web, creéz un compte et connectez-vous pour signaler l&apos;erreur. 
-Dès qu&apos;elle sera approuvée, la suggestion apparaitra dans
-&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; endéans la semaine.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
-        <source>Open openAIP web site</source>
-        <translation type="vanished">Aller sur le site OpenAIP</translation>
-    </message>
-    <message>
-        <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to openAIP: https//openaip.net</source>
-        <translation type="vanished">mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Lien vers openAIP : https//openaip.net</translation>
-    </message>
-    <message>
-        <source>
-&lt;p&gt;If you have difficulties with the openAIP web site, you
-can contact
-&lt;a href=&apos;mailto:peter.kemme@openflightmaps.org?subject=Enroute
-Flight Navigation, Issue Report&apos;&gt;Peter Kemme&lt;/a&gt; by e-mail,
-who has kindly volunteered to help our users in his spare
-time. Peter speaks English and German.&lt;/p&gt;
-
-&lt;h3&gt;Thank you for your help!&lt;/h3&gt;
-</source>
-        <translation type="vanished">
-&lt;p&gt;Si vous rencontrez des soucis concernant le site web OpenAIP, 
-vous pouvez contacter 
-&lt;a href=&apos;mailto:peter.kemme@openflightmaps.org?subject=Enroute
-Flight Navigation, Issue Report&apos;&gt;Peter Kemme&lt;/a&gt; via e-mail,
-qui s&apos;est porté volontaire afin d&apos;aider les utilisateurs durant son temps libre. 
-Peter parle anglais et allemand.&lt;/p&gt;
-
-&lt;h3&gt;TMerci pour votre aide !&lt;/h3&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
-
-&lt;h4&gt;Airspace Data&lt;/h4&gt;
-
-&lt;p&gt;Airspace data in &lt;strong&gt;Enroute Flight
-Navigation&lt;/strong&gt; comes from
-&lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt;, a free aviation
-database operated by Garrecht Avionik GmbH in Germany.&lt;/p&gt;
-
-&lt;p&gt;Airspace data can only be edited by the administrators
-of openAIP. Please contact
-&lt;a href=&apos;mailto:peter.kemme@openflightmaps.org?subject=Enroute
-Flight Navigation, Issue Report&apos;&gt;Peter Kemme&lt;/a&gt; by e-mail,
-who knows openAIP and has kindly volunteered to help our
-users in his spare time. Peter speaks English and German.
-Alternatively, you could open an account with openAIP and
-discuss your issue in the forum there.&lt;/p&gt;
-
-&lt;h3&gt;Thank you for your help!&lt;/h3&gt;
-</source>
-        <translation type="vanished">
-&lt;h3&gt;Signaler un bug ou suggérer des améliorations&lt;/h3&gt;
-
-&lt;h4&gt;Données sur les espaces aériens&lt;/h4&gt;
-
-&lt;p&gt;Les données concernant les espaces aériens viennent de
-&lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt;, 
-une base de données gratuite gérée par Garrecht Avionik GmbH en Allemagne.&lt;/p&gt;
-
-&lt;p&gt;Ces données peuvent être éditées uniquement par les administrateurs de 
-openAIP. Contactez 
-&lt;a href=&apos;mailto:peter.kemme@openflightmaps.org?subject=Enroute
-Flight Navigation, Issue Report&apos;&gt;Peter Kemme&lt;/a&gt; via e-mail,
-qui connait openAIP et s&apos;est porté volontaire pour aider les utilisateurs 
-durant sont temps libre. Peter parle anglais et allemand.
-Vous pouvez également créer un compte sur OpenAIP et discuter du problème sur leur forum.&lt;/p&gt;
-
-&lt;h3&gt;Merci pour votre aide !&lt;/h3&gt;
-</translation>
-    </message>
-    <message>
-        <source>
-&lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
-
-&lt;h4&gt;Aviation Data&lt;/h4&gt;
-
-&lt;p&gt;Does your report concern aviation data in one of the
-following countries?&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Austria&lt;/li&gt;
-&lt;li&gt;Belgium&lt;/li&gt;
-&lt;li&gt;Bulgaria&lt;/li&gt;
-&lt;li&gt;Croatia&lt;/li&gt;
-&lt;li&gt;Czech Republic&lt;/li&gt;
-&lt;li&gt;Denmark&lt;/li&gt;
-&lt;li&gt;Finland&lt;/li&gt;
-&lt;li&gt;Germany&lt;/li&gt;
-&lt;li&gt;Greece&lt;/li&gt;
-&lt;li&gt;Hungary&lt;/li&gt;
-&lt;li&gt;Italy&lt;/li&gt;
-&lt;li&gt;Namibia&lt;/li&gt;
-&lt;li&gt;Netherlands&lt;/li&gt;
-&lt;li&gt;Malta&lt;/li&gt;
-&lt;li&gt;Poland&lt;/li&gt;
-&lt;li&gt;Romania&lt;/li&gt;
-&lt;li&gt;Slovakia&lt;/li&gt;
-&lt;li&gt;Slovenia&lt;/li&gt;
-&lt;li&gt;South Africa&lt;/li&gt;
-&lt;li&gt;Sweden&lt;/li&gt;
-&lt;li&gt;Switzerland&lt;/li&gt;
-&lt;/ul&gt;</source>
-        <translation type="vanished">
-&lt;h3&gt;Signaler un bug ou suggérer des améliorations&lt;/h3&gt;
-
-&lt;h4&gt;Donnée aéronautiques&lt;/h4&gt;
-
-&lt;p&gt;Votre rapport concerne-t-il l&apos; des pays suivants ?&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Autriche&lt;/li&gt;
-&lt;li&gt;Belgique&lt;/li&gt;
-&lt;li&gt;Bulgarie&lt;/li&gt;
-&lt;li&gt;Croatie&lt;/li&gt;
-&lt;li&gt;Republique Tchèque&lt;/li&gt;
-&lt;li&gt;Danemark&lt;/li&gt;
-&lt;li&gt;Finlande&lt;/li&gt;
-&lt;li&gt;Allemagne&lt;/li&gt;
-&lt;li&gt;Grèce&lt;/li&gt;
-&lt;li&gt;Hongrie&lt;/li&gt;
-&lt;li&gt;Italie&lt;/li&gt;
-&lt;li&gt;Nambie&lt;/li&gt;
-&lt;li&gt;Pays-Bas&lt;/li&gt;
-&lt;li&gt;Malte&lt;/li&gt;
-&lt;li&gt;Pologne&lt;/li&gt;
-&lt;li&gt;Romanie&lt;/li&gt;
-&lt;li&gt;Slovaquie&lt;/li&gt;
-&lt;li&gt;Slovenie&lt;/li&gt;
-&lt;li&gt;Afrique du Sud&lt;/li&gt;
-&lt;li&gt;Suède&lt;/li&gt;
-&lt;li&gt;Swisse&lt;/li&gt;
-&lt;/ul&gt;
-</translation>
-    </message>
-    <message>
-        <source>Yes</source>
-        <translation type="vanished">Oui</translation>
-    </message>
-    <message>
-        <source>No</source>
-        <translation type="vanished">Non</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Thank you for your help!&lt;/h3&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Merci pour votre aide !&lt;/h3&gt;</translation>
-    </message>
-    <message>
-        <source>
-&lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
-
-&lt;h4&gt;Airspace Data&lt;/h4&gt;
-
-&lt;p&gt;The aviation data concerned in your report comes from
-&lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open
-flightmaps&lt;/a&gt;, an open source aviation database operated
-by the open flightmaps association in Austria.&lt;/p&gt;
-
-&lt;p&gt;Please use the error report form at open flightmaps to
-report your issue. If you prefer to work on your desktop
-computer, you can also send yourself a link by e-mail.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;h3&gt;Signaler un bug ou suggérer des améliorations&lt;/h3&gt;
-
-&lt;h4&gt;Données sur les espaces aériens&lt;/h4&gt;
-
-&lt;p&gt;Les données concernées par votre rapport viennent de 
-&lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open
-flightmaps&lt;/a&gt;, une base de données open-source gérée
-par l&apos;association open flightmaps basée en Austria.&lt;/p&gt;
-
-&lt;p&gt;Veuillez utiliser le rapport d&apos;erreur d&apos;open flightmaps. 
-Si vous préférez travailler depuis votre odrinateur, utilisez le bouton ci-dessous pour vous envoyer un lien.&lt;/p&gt;
-</translation>
-    </message>
-    <message>
-        <source>Open error report form</source>
-        <translation type="vanished">Ouvrir le rapport d&apos;erreur</translation>
-    </message>
-    <message>
-        <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to open flightmaps error report form: https://docs.google.com/a/openflightmaps.org/forms/d/e/1FAIpQLSeBiqRbqioUaAp6H-FUtYMFduLGQmzOm1G3Dxyh2XALl5r3Nw/viewform</source>
-        <translation type="vanished">mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Lien vers le rapport d&apos;erreur open flightmaps : https://docs.google.com/a/openflightmaps.org/forms/d/e/1FAIpQLSeBiqRbqioUaAp6H-FUtYMFduLGQmzOm1G3Dxyh2XALl5r3Nw/viewform</translation>
-    </message>
-    <message>
-        <source>
-&lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
-
-&lt;h4&gt;Aviation Data&lt;/h4&gt;
-
-&lt;p&gt;The aviation data that you mentioned (procedures or
-reporting points) is available from open flightmaps for
-some regions, but not for your country. We are not aware of
-any free, publicly available and reliable source for this
-type of information that we could use in our app.&lt;/p&gt;
-
-&lt;p&gt;There is nothing that we can do. We regret that we have
-no better news.&lt;/p&gt;
-</source>
-        <translation type="vanished">
-&lt;h3&gt;Signaler un bug ou suggérer des améliorations&lt;/h3&gt;
-
-&lt;h4&gt;Données aéronautiques&lt;/h4&gt;
-
-&lt;p&gt;Les données concernées (procédures ou points de report) sont 
-disponibles sur open flightmaps, mais pas pour votre pays. 
-Nous ne connaissons malheureusement pas de d&apos;autres sources qui fournissent ces 
-données de manière publique et gratuite.&lt;/p&gt;
-
-&lt;p&gt;Nous regrettons de ne ne pas pouvoir vous aider pour le moment.&lt;/p&gt;
-</translation>
-    </message>
 </context>
 <context>
     <name>ConnectionManager</name>
@@ -992,10 +656,6 @@ données de manière publique et gratuite.&lt;/p&gt;
         <translation>Rechercher des appareils</translation>
     </message>
     <message>
-        <source>Add Bluetooth Device</source>
-        <translation type="vanished">Ajouter un appareil Bluetooth</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="288"/>
         <source>Connection Info</source>
         <translation>Informations de connexion</translation>
@@ -1043,30 +703,6 @@ données de manière publique et gratuite.&lt;/p&gt;
         <location filename="../../../src/dataManagement/DataManager.cpp" line="226"/>
         <source>Error writing file &apos;%1&apos;: %2.</source>
         <translation>Erreur lors de l&apos;écriture du fichier &apos;%1&apos;&#xa0;: %2.</translation>
-    </message>
-    <message>
-        <source>Error reading TripKip: No charts imported.</source>
-        <translation type="vanished">Erreur de lecture de TripKip&#xa0;:&#xa0;aucune carte importée.</translation>
-    </message>
-    <message>
-        <source>Error reading TripKip: Only %1 out of %2 charts were successfully imported.</source>
-        <translation type="vanished">Erreur de lecture de TripKip&#xa0;: seuls %1 des %2 graphiques ont été importés avec succès.</translation>
-    </message>
-    <message>
-        <source>Import failed. Unable to write raster data to directory %1.</source>
-        <translation type="vanished">L&apos;importation a échoué. Impossible d&apos;écrire des données raster dans le répertoire %1.</translation>
-    </message>
-    <message>
-        <source>An approach chart with name %1 already exists.</source>
-        <translation type="vanished">Une carte d&apos;approche portant le nom %1 existe déjà.</translation>
-    </message>
-    <message>
-        <source>Cannot copy file %1 to %2.</source>
-        <translation type="vanished">Impossible de copier le fichier %1 vers %2.</translation>
-    </message>
-    <message>
-        <source>Approach chart %1 could not be found.</source>
-        <translation type="vanished">La carte d&apos;approche %1 est introuvable.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/DataManager.cpp" line="294"/>
@@ -1697,25 +1333,6 @@ Message: Enroute Flight Navigation
     </message>
 </context>
 <context>
-    <name>FlightRouteAddWPDialog</name>
-    <message>
-        <source>Add Waypoint to Route</source>
-        <translation type="vanished">Ajouter un point tournant à la route</translation>
-    </message>
-    <message>
-        <source>Choose a waypoint from the list below.</source>
-        <translation type="vanished">Choisissez un point tournant depuis la liste ci-dessous.</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant n&apos;a été trouvé. Assurez-vous qu&apos;une carte aéronautique a été installée.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
-    </message>
-</context>
-<context>
     <name>FlightRouteEditor</name>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="82"/>
@@ -2326,30 +1943,6 @@ Message: Enroute Flight Navigation
         <translation>L&apos;élément texte n&apos; pas pu être importé.</translation>
     </message>
     <message>
-        <source>Privacy warning</source>
-        <translation type="vanished">Avertissement de confidentialité</translation>
-    </message>
-    <message>
-        <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control this website.</source>
-        <translation type="vanished">Les auteurs de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ne contrôlent pas ce site web.</translation>
-    </message>
-    <message>
-        <source>They do not know what data it collects or how that data is processed.</source>
-        <translation type="vanished">Ils ne peuvent pas savoir quelles données sont collectées et comment elles sont traitées.</translation>
-    </message>
-    <message>
-        <source>With the click on OK, you consent to Enroute accessing &lt;strong&gt;%1&lt;/strong&gt; from your device.</source>
-        <translation type="vanished">En appuyant sur OK, vous consentez à ce que Enroute accès de à &lt;strong&gt;%1&lt;/strong&gt; sur votre appareil.</translation>
-    </message>
-    <message>
-        <source>Click OK only if you agree with the terms and privacy policies of that site.</source>
-        <translation type="vanished">Appuyez sur OK si vous êtes d&apos;accord avec les termes de confidentialité de ce site.</translation>
-    </message>
-    <message>
-        <source>Always open external web sites, do not ask again</source>
-        <translation type="vanished">Toujours ouvrir les liens menant vers des sites extérieurs, ne plus me demander</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="224"/>
         <source>Import Waypoint Data</source>
         <translation>Importer des points cheminement</translation>
@@ -2427,10 +2020,6 @@ Message: Enroute Flight Navigation
         <translation>Vous avez partagé des coordonnées avec &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <source>In order to find the relevant geographic coordinate, the website &lt;strong&gt;%1&lt;/strong&gt; must briefly be opened in an embedded web browser window.</source>
-        <translation type="vanished">Afin de trouver les coordonnées, le site web &lt;strong&gt;%1&lt;/strong&gt; doit être ouvert dans une nouvelle fenêtre de navigation;</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="435"/>
         <source>Raster map imported</source>
         <translation>Cartes matricielles importées</translation>
@@ -2474,10 +2063,6 @@ Message: Enroute Flight Navigation
         <location filename="../../../src/qml/items/ImportManager.qml" line="598"/>
         <source>Data Import Error</source>
         <translation>Erreur lors de l&apos;importation des données</translation>
-    </message>
-    <message>
-        <source>Skip over waypoint that already exist in the library</source>
-        <translation type="vanished">Ignorer les points tournants qui existent déjà dans la bibiothèque</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="85"/>
@@ -2675,19 +2260,11 @@ Message: Enroute Flight Navigation
         <translation>Version iOS</translation>
     </message>
     <message>
-        <source>The app has been ported to iOS by Simon Schneider. Simon is currently student pilot (PPL) and member of the Akaflieg Freiburg flight club, just like Stefan.</source>
-        <translation type="vanished">L&apos;application a été portée sur iOS par Simon Schneider. Simon est actuellement élève-pilote (PPL) et membre du club de vol Akaflieg Freiburg, tout comme Stefan.</translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="68"/>
         <location filename="../../../src/Librarian.cpp" line="71"/>
         <location filename="../../../src/Librarian.cpp" line="74"/>
         <source>Programming</source>
         <translation>La programmation</translation>
-    </message>
-    <message>
-        <source>Heinz Blöchinger has helped us with OpenAir support. After 15 years of alpine gliding, Heinz has fulfilled a big dream and now flies helicopters.</source>
-        <translation type="vanished">Heinz Blöchinger nous a aidé avec le support OpenAir. Après 15 ans de planeur, Heinz a réalisé un grand rêve et pilote maintenant des hélicoptères.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="81"/>
@@ -2704,12 +2281,6 @@ Message: Enroute Flight Navigation
         <translation>
 &lt;li&gt;&lt;strong&gt;Allemand:&lt;/strong&gt; Markus Sachs. Markus pilote des deltaplanes et est un &apos;co-pilote&apos; enthousiate sur tout autre type d&apos;appareil.&lt;/li&gt;
         </translation>
-    </message>
-    <message>
-        <source>
-&lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
-</source>
-        <translation type="vanished">&lt;li&gt;&lt;strong&gt;Italien:&lt;/strong&gt; Ivan Battistella et Antonio Fardella.  Antonio est pilote aéro et est passioné par tous types de challenge.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="71"/>
@@ -3073,42 +2644,6 @@ Message: Enroute Flight Navigation
         <translation>Nous remercions Heinz Blöchinger pour son aide à la mise en œuvre !</translation>
     </message>
     <message>
-        <source>We do not process any personal data from you. Data that you enter into the app (including routes, waypoints, and aircraft specifics) is stored locally on your device. The data is not transmitted to us and is not processed by us.</source>
-        <translation type="vanished">Nous ne traitons aucune donnée personnelle vous concernant. Les données que vous entrez dans l&apos;application (y compris les itinéraires, les waypoints et les spécificités de l&apos;avion) sont stockées localement sur votre appareil. Les données ne nous sont pas transmises et ne sont pas traitées par nous.</translation>
-    </message>
-    <message>
-        <source>However, to ensure the functionality, the app must transmit following data to servers on the internet.</source>
-        <translation type="vanished">Cependant, pour assurer la fonctionnalité, l&apos;application doit transmettre les données suivantes aux serveurs sur Internet.</translation>
-    </message>
-    <message>
-        <source>The app regularly checks for updates and allows downloading maps and data from a &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;server at the University of Freiburg&lt;/a&gt; to your device. In order to provide this functionality, your device&apos;s IP address must be transmitted to the server. Knowledge of the IP address is necessary for the server to respond. However, the server does not store any personal data about you in its log files. In particular, it does not store the IP address of your device in its log files. We can assure this because the server is under our control.</source>
-        <translation type="vanished">L&apos;application vérifie régulièrement les mises à jour et permet de télécharger des cartes et des données depuis un &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;serveur de l&apos;Université de Fribourg&lt;/a&gt; sur votre appareil. Afin de fournir cette fonctionnalité, l&apos;adresse IP de votre appareil doit être transmise au serveur. La connaissance de l&apos;adresse IP est nécessaire pour que le serveur réponde. Cependant, le serveur ne stocke aucune donnée personnelle vous concernant dans ses fichiers journaux. En particulier, il ne stocke pas l&apos;adresse IP de votre appareil dans ses fichiers journaux. Nous pouvons l&apos;assurer car le serveur est sous notre contrôle.</translation>
-    </message>
-    <message>
-        <source>The app shows METARs and TAFs for airfields near your current location and near your currently planned route. It also shows METARs and TAFs for all waypoints that you open in the app. In order to provide this functionality, your current location, your currently planned route, waypoint coordinates, and your device&apos;s IP address must be transmitted to web services at the &lt;a href=&apos;https://www.aviationweather.gov&apos;&gt;Aviation Weather Center&lt;/a&gt;. Knowledge of the IP address is necessary for the web services to respond. The web services cannot read any other data from your device in the process. However, you must expect that your device&apos;s IP address will be stored together with the transmitted position data. The web services are operated by the US government and are beyond our control. Detailed information about these web services can be found at &lt;a href=&apos;https://www.aviationweather.gov/dataserver&apos;&gt;https://www.aviationweather.gov/dataserver&lt;/a&gt;.</source>
-        <translation type="vanished">L&apos;application affiche les METAR et les TAF pour les aérodromes à proximité de votre position actuelle et à proximité de votre itinéraire actuellement planifié. Il affiche également les METAR et les TAF pour tous les waypoints que vous ouvrez dans l&apos;application. Afin de fournir cette fonctionnalité, votre emplacement actuel, votre itinéraire actuellement planifié, les coordonnées du point de cheminement et l&apos;adresse IP de votre appareil doivent être transmis aux services Web à l&apos;adresse &lt;a href=&apos;https://www.aviationweather.gov&apos;&gt;Aviation Weather Centre&lt;/a&gt;. La connaissance de l&apos;adresse IP est nécessaire pour que les services Web répondent. Les services Web ne peuvent pas lire d&apos;autres données de votre appareil au cours du processus. Cependant, vous devez vous attendre à ce que l&apos;adresse IP de votre appareil soit stockée avec les données de position transmises. Les services Web sont exploités par le gouvernement américain et échappent à notre contrôle. Des informations détaillées sur ces services Web sont disponibles sur &lt;a href=&apos;https://www.aviationweather.gov/dataserver&apos;&gt;https://www.aviationweather.gov/dataserver&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <source>The app shows NOTAMs for places near your current location and near your currently planned route. It also shows NOTAMs for all waypoints that you open in the app. In order to provide this functionality, your current location, your currently planned route, waypoint coordinates, and your device&apos;s IP address must be transmitted to web services at the &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administration&lt;/a&gt;. Knowledge of the IP address is necessary for the web services to respond. The web services cannot read any other data from your device in the process. However, you must expect that the IP address of your device will be stored together with the transmitted position data. The web services are operated by the US government and are beyond our control. Detailed information about these web services can be found at &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</source>
-        <translation type="vanished">L&apos;application affiche les NOTAM des lieux proches de votre position actuelle et de votre itinéraire actuellement planifié. Il affiche également les NOTAM pour tous les waypoints que vous ouvrez dans l&apos;application. Afin de fournir cette fonctionnalité, votre emplacement actuel, votre itinéraire actuellement planifié, les coordonnées du point de cheminement et l&apos;adresse IP de votre appareil doivent être transmis aux services Web à l&apos;adresse &lt;a href=&apos;https://api.faa.gov&apos;&gt;Federal Aviation Administratif&lt;/a&gt;. La connaissance de l&apos;adresse IP est nécessaire pour que les services Web répondent. Les services Web ne peuvent pas lire d&apos;autres données de votre appareil au cours du processus. Cependant, vous devez vous attendre à ce que l&apos;adresse IP de votre appareil soit stockée avec les données de position transmises. Les services Web sont exploités par le gouvernement américain et échappent à notre contrôle. Des informations détaillées sur ces services Web sont disponibles sur &lt;a href=&apos;https://api.faa.gov/s&apos;&gt;https://api.faa.gov/s&lt;/a&gt;.</translation>
-    </message>
-    <message>
-        <source>The manual has been updated, modernized and rewritten in part. We do hope that you find it helpful.</source>
-        <translation type="vanished">Le manuel a été mis à jour, modernisé et réécrit en partie. Nous espérons que cela vous sera utile.</translation>
-    </message>
-    <message>
-        <source>The technology underlying &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; has been updated. Please report any issues or inconsistencies that you may find!</source>
-        <translation type="vanished">La technologie sous-jacente à la &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; a été mise à jour. Veuillez signaler tout problème ou incohérence que vous pourriez rencontrer&#xa0;!</translation>
-    </message>
-    <message>
-        <source>Our flight club &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; has received the renowned Niethammer Innovation Award 2023. The award recognizes our work on &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. But above all, we owe this prize to our many contributors and supporters. None of this would have been possible without the incredible work of the communities at &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;, who supply us with aviation data. Thanks to all of you! We will use the award money to finance our infrastructure and purchase urgently needed development hardware.</source>
-        <translation type="vanished">Notre aéroclub &lt;a href=&apos;https://akaflieg-freiburg.de&apos;&gt;Akaflieg Freiburg&lt;/a&gt; a reçu le célèbre Niethammer Innovation Award 2023. Ce prix récompense notre travail sur la &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;. Mais nous devons avant tout ce prix à nos nombreux contributeurs et sympathisants. Rien de tout cela n&apos;aurait été possible sans le travail incroyable des communautés de &lt;a href=&apos;https://www.openaip.net&apos;&gt;openAIP&lt;/a&gt; et &lt;a href=&apos;https://www.openflightmaps. org&apos;&gt;open flightmaps&lt;/a&gt;, qui nous fournissent des données aéronautiques. Merci à tous! Nous utiliserons l’argent du prix pour financer notre infrastructure et acheter le matériel de développement dont nous avons un besoin urgent.</translation>
-    </message>
-    <message>
-        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to show visual approach charts within the moving map. Users in Germany can download official VACs from Deutsche Flugsicherung (DFS) using Michael Paus&apos; very convenient &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. Please check the manual for details.</source>
-        <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est désormais capable d&apos;afficher des cartes d&apos;approche visuelles sur la carte mobile. Les utilisateurs en Allemagne peuvent télécharger les VAC officiels de la Deutsche Flugsicherung (DFS) à l&apos;aide du très pratique &lt;a href=&apos;https://mpmediasoft.de/products/AIPBrowserDE/help/AIPBrowserDE.html&apos;&gt;AIP Browser DE&lt;/a&gt;. . Veuillez consulter le manuel pour plus de détails.</translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="315"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Nous avons besoin d&apos;aide avec des graphiques promotionnels pour les app stores et avec des vidéos explicatives. Si vous êtes un artiste graphique/vidéo et que vous souhaitez aider, n&apos;hésitez pas à nous contacter.</translation>
@@ -3117,62 +2652,6 @@ Message: Enroute Flight Navigation
         <location filename="../../../src/Librarian.cpp" line="295"/>
         <source>Responsible</source>
         <translation>Responsable</translation>
-    </message>
-    <message>
-        <source>We do not collect our users&apos; personal data.</source>
-        <translation type="vanished">Nous ne collectons pas les données personnelles de nos utilisateurs.</translation>
-    </message>
-    <message>
-        <source>We do not store any personally identifiable information.</source>
-        <translation type="vanished">Nous ne stockons aucune information personnelle.</translation>
-    </message>
-    <message>
-        <source>However, to ensure functionality, the app must transmit the following data items to servers on the internet.</source>
-        <translation type="vanished">Cependant, pour assurer la fonctionnalité, l&apos;application doit transmettre les données suivantes aux serveurs sur Internet.</translation>
-    </message>
-    <message>
-        <source>1. Map and Data Download Server</source>
-        <translation type="vanished">1. Serveur de téléchargement de cartes et de données</translation>
-    </message>
-    <message>
-        <source>The app regularly checks for updates and allows downloading maps and data from a &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;server at the University of Freiburg&lt;/a&gt; to your device.</source>
-        <translation type="vanished">L&apos;application vérifie régulièrement les mises à jour et permet de télécharger des cartes et des données depuis un &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;serveur de l&apos;Université de Fribourg&lt;/a&gt; sur votre appareil.</translation>
-    </message>
-    <message>
-        <source>Your device&apos;s IP address must be transmitted to the server to provide this functionality.</source>
-        <translation type="vanished">L&apos;adresse IP de votre appareil doit être transmise au serveur pour fournir cette fonctionnalité.</translation>
-    </message>
-    <message>
-        <source>Knowledge of the IP address is necessary for the server to respond.</source>
-        <translation type="vanished">La connaissance de l&apos;adresse IP est nécessaire pour que le serveur puisse répondre.</translation>
-    </message>
-    <message>
-        <source>However, the server does not store any personal data about you in its log files.</source>
-        <translation type="vanished">Cependant, le serveur ne stocke aucune donnée personnelle vous concernant dans ses fichiers journaux.</translation>
-    </message>
-    <message>
-        <source>In particular, it does not store the IP address of your device in its log files.</source>
-        <translation type="vanished">En particulier, il ne stocke pas l&apos;adresse IP de votre appareil dans ses fichiers journaux.</translation>
-    </message>
-    <message>
-        <source>We can assure this because the server is under our control.</source>
-        <translation type="vanished">Nous pouvons l&apos;assurer car le serveur est sous notre contrôle.</translation>
-    </message>
-    <message>
-        <source>2. METAR and TAF Server</source>
-        <translation type="vanished">2. Serveur METAR et TAF</translation>
-    </message>
-    <message>
-        <source>The app shows METARs and TAFs for airfields near your current location and your currently planned route. </source>
-        <translation type="vanished">L&apos;application affiche les METAR et les TAF des aérodromes proches de votre position actuelle et de votre itinéraire actuellement prévu.</translation>
-    </message>
-    <message>
-        <source>It also shows METARs and TAFs for all waypoints you open in the app.</source>
-        <translation type="vanished">Il affiche également les METAR et les TAF pour tous les waypoints que vous ouvrez dans l&apos;application.</translation>
-    </message>
-    <message>
-        <source>To provide this functionality, a request containing the following data is transmitted to a &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;server at the University of Freiburg&lt;/a&gt;:</source>
-        <translation type="vanished">Pour fournir cette fonctionnalité, une requête contenant les données suivantes est transmise à un &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt;serveur de l&apos;Université de Fribourg&lt;/a&gt;&#xa0;:</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="256"/>
@@ -3188,86 +2667,6 @@ Message: Enroute Flight Navigation
         <location filename="../../../src/Librarian.cpp" line="258"/>
         <source>Waypoint coordinates</source>
         <translation>Coordonnées du point de cheminement</translation>
-    </message>
-    <message>
-        <source>Your device&apos;s IP address</source>
-        <translation type="vanished">L&apos;adresse IP de votre appareil</translation>
-    </message>
-    <message>
-        <source>The server cannot read any other data from your device in the process.</source>
-        <translation type="vanished">Le serveur ne peut lire aucune autre donnée de votre appareil au cours du processus.</translation>
-    </message>
-    <message>
-        <source>The server forwards the request to a web service at the %1 but hides your IP address, so the web service will never see it.</source>
-        <translation type="vanished">Le serveur transmet la demande à un service Web au %1 mais masque votre adresse IP afin que le service Web ne la voie jamais.</translation>
-    </message>
-    <message>
-        <source>The web services at the Aviation Weather Center are operated by the US government and are beyond our control.</source>
-        <translation type="vanished">Les services Web de l&apos;Aviation Weather Center sont exploités par le gouvernement des Etats-Unis et sont hors de notre contrôle.</translation>
-    </message>
-    <message>
-        <source>Detailed information can be found at %1.</source>
-        <translation type="vanished">Des informations détaillées peuvent être trouvées sur %1.</translation>
-    </message>
-    <message>
-        <source>3. NOTAM Server</source>
-        <translation type="vanished">3. Serveur NOTAM</translation>
-    </message>
-    <message>
-        <source>The app shows NOTAMs for places near your current location and your currently planned route.</source>
-        <translation type="vanished">L&apos;application affiche les NOTAM pour les lieux proches de votre position actuelle et de votre itinéraire actuellement prévu.</translation>
-    </message>
-    <message>
-        <source>It also shows NOTAMs for all waypoints you open in the app.</source>
-        <translation type="vanished">Il affiche également les NOTAM pour tous les waypoints que vous ouvrez dans l&apos;application.</translation>
-    </message>
-    <message>
-        <source>The web services at the Federal Aviation Administration are operated by the US government and are beyond our control.</source>
-        <translation type="vanished">Les services Web de la Federal Aviation Administration sont exploités par le gouvernement des Etats-Unis et échappent à notre contrôle.</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Too many maps&lt;/h3&gt;
-
-&lt;p&gt;Thank you for using Enroute Flight Navigation, we appreciate your engagement very much.&lt;/p&gt;
-
-&lt;p&gt;However, we&apos;d like to ask you &lt;strong&gt;to download only the maps that you really need.&lt;/strong&gt;
-
-&lt;p&gt;On the one hand, the bandwidth for map downloads is kindly sponsored by the University of Freiburg, under the assumption that &lt;strong&gt;the costs stays within reasonable limits.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;On the other, the app will perform much better if it doesn&apos;t have to process many megabytes of map data.&lt;/p&gt;
-
-&lt;p&gt;We are trying our best to avoid a hard limit on the number of maps in the future. Please help us with that.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Trop de cartes&lt;/h3&gt;
-
-&lt;p&gt;Merci d&apos;utiliser Enroute Flight Navigation, votre engouement nous touche beaucoup.&lt;/p&gt;
-
-&lt;p&gt;Cependant, nous vous demandons de bien vouloir &lt;strong&gt;télécharger uniquement les cartes dont vous avez besoin.&lt;/strong&gt;
-
-&lt;p&gt;D&apos;une part, la bande passante requise pour télécharger les cartes est fournie par l&apos;Université de Freiburg, à la condition que &lt;strong&gt;les coups restent raisonnables.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;D&apos;autre part, l&apos;application sera plus performante si elle ne doit pas traiter des tonnes de données d&apos;un seul coup.&lt;/p&gt;
-
-&lt;p&gt;Nous faisons notre possible pour éviter d&apos;imposer une limite sur le nombre de cartes. Merci d&apos;être compréhensifs et de nous y aider.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to connected to your traffic data receiver via Bluetooth radio. At the moment, Enroute supports only the &apos;Bluetooth Classic&apos; radio standard, &apos;Bluetooth Low Energy&apos; is are not supported. Due to platform limitations, Bluetooth is not supported on iOS devices.</source>
-        <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; peut désormais se connecter à votre récepteur de données de trafic via la radio Bluetooth. Pour le moment, Enroute ne prend en charge que la norme radio « Bluetooth Classic », « Bluetooth Low Energy » n&apos;est pas pris en charge. En raison des limitations de la plate-forme, Bluetooth n&apos;est pas pris en charge sur les appareils iOS.</translation>
-    </message>
-    <message>
-        <source>The moving map has been updated to more closely follow the style of the ICAO maps. Vertical airspace boundaries are now shown directly on the map.</source>
-        <translation type="vanished">La carte mobile a été mise à jour pour suivre plus fidèlement le style des cartes de l&apos;OACI. Les limites verticales de l&apos;espace aérien sont désormais affichées directement sur la carte.</translation>
-    </message>
-    <message>
-        <source>In addition to distance and QUJ, the app shows the gliding ratio required to reach a waypoint (arrival height 300 m AGL, no terrain consideration).</source>
-        <translation type="vanished">En plus de la distance et du QUJ, l&apos;application affiche la finesse nécessaire pour atteindre un waypoint (hauteur d&apos;arrivée 300 m AGL, aucune considération de terrain).</translation>
-    </message>
-    <message>
-        <source>As requested by the search-and-rescue community, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to accept location shares from Google Maps.</source>
-        <translation type="vanished">À la demande de la communauté de recherche et de sauvetage, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est désormais en mesure d&apos;accepter les partages de position depuis Google&#xa0;Maps.</translation>
-    </message>
-    <message>
-        <source>For enhanced privacy, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; routes requests for METAR/TAF and NOTAM data through our servers. This hides your IP address from the web services that provide the data.</source>
-        <translation type="vanished">Pour une confidentialité renforcée, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; achemine les demandes de données METAR/TAF et NOTAM via nos serveurs. Cela masque votre adresse IP aux services Web qui fournissent les données.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="116"/>
@@ -3337,10 +2736,6 @@ Message: Enroute Flight Navigation
         <location filename="../../../src/qml/items/MFM.qml" line="659"/>
         <source>Map Mode: Autopan</source>
         <translation>Mode : Auto</translation>
-    </message>
-    <message>
-        <source>Map Data Copyright Info</source>
-        <translation type="vanished">Info copyright sur les données de carte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="741"/>
@@ -3567,10 +2962,6 @@ Message: Enroute Flight Navigation
         <location filename="../../../src/qml/pages/Nearby.qml" line="184"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé&#xa0;!&lt;/h3&gt;&lt;p&gt;Aucun point de cheminement ne correspond à votre filtre.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No reporting point data available.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point de report disponible.</translation>
     </message>
 </context>
 <context>
@@ -3806,10 +3197,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="44"/>
         <source>All files (*)</source>
         <translation>Tous les fichiers (*)</translation>
-    </message>
-    <message>
-        <source>Export flight route</source>
-        <translation type="vanished">Exporter la route</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
@@ -4296,30 +3683,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Erreur dans la ligne %1&#xa0;: %2&#xa0;; espace aérien %3 ignoré.</translation>
     </message>
     <message>
-        <source>Unable to find georeferencing data for the file %1.</source>
-        <comment>VAC</comment>
-        <translatorcomment>VAC</translatorcomment>
-        <translation type="vanished">Impossible de trouver les données de géoréférencement pour le fichier %1.</translation>
-    </message>
-    <message>
-        <source>Unable to load raster data from file %1.</source>
-        <comment>VAC</comment>
-        <translatorcomment>VAC</translatorcomment>
-        <translation type="vanished">Impossible de charger les données raster à partir du fichier %1.</translation>
-    </message>
-    <message>
-        <source>The georeferencing data for the file %1 suggests that the image diagonal is less than 200m, which makes it unlikely that this is an approach chart.</source>
-        <comment>VAC</comment>
-        <translatorcomment>VAC</translatorcomment>
-        <translation type="vanished">Les données de géoréférencement du fichier %1 suggèrent que la diagonale de l&apos;image est inférieure à 200 m, ce qui rend peu probable qu&apos;il s&apos;agisse d&apos;une carte d&apos;approche.</translation>
-    </message>
-    <message>
-        <source>The georeferencing data for the file %1 suggests that the image diagonal is more than 50km, which makes it unlikely that this is an approach chart.</source>
-        <comment>VAC</comment>
-        <translatorcomment>VAC</translatorcomment>
-        <translation type="vanished">Les données de géoréférencement du fichier %1 suggèrent que la diagonale de l&apos;image est supérieure à 50&#xa0;km, ce qui rend peu probable qu&apos;il s&apos;agisse d&apos;une carte d&apos;approche.</translation>
-    </message>
-    <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="132"/>
         <source>The zip archive does not contain the required file &apos;toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
@@ -4369,54 +3732,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Impossible d&apos;ouvrir le fichier zip %1 pour le lire.</translation>
     </message>
     <message>
-        <source>Found corrupt data while reading the data stream.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">Données corrompues détectées lors de la lecture du flux de données.</translation>
-    </message>
-    <message>
-        <source>Read past end of data stream.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">Lire la fin du flux de données.</translation>
-    </message>
-    <message>
-        <source>Error writing to data stream.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">Erreur d&apos;écriture dans le flux de données.</translation>
-    </message>
-    <message>
-        <source>Found invalid TIFF file data.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">Données de fichier TIFF non valides trouvées.</translation>
-    </message>
-    <message>
-        <source>BigTIFF files are not supported.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">Les fichiers BigTIFF ne sont pas pris en charge.</translation>
-    </message>
-    <message>
-        <source>Found an unsupported TIFF version.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">Une version TIFF non prise en charge a été trouvée.</translation>
-    </message>
-    <message>
-        <source>Found more than 100 tags in the TIFF file. Reading only the first 100.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">Plus de 100 balises trouvées dans le fichier TIFF. Lire uniquement les 100 premiers.</translation>
-    </message>
-    <message>
-        <source>Cannot read data.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">Impossible de lire les données.</translation>
-    </message>
-    <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="140"/>
         <source>No data for tag 270.</source>
         <comment>FileFormats::GeoTIFF</comment>
@@ -4464,66 +3779,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Données invalides pour l&apos;étiquette 33922.</translation>
     </message>
     <message>
-        <source>Tag 33922 is not set.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">L&apos;étiquette 33922 n&apos;est pas définie.</translation>
-    </message>
-    <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="155"/>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="168"/>
         <source>Invalid data for tag 33550.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
         <translation>Données invalides pour l&apos;étiquette 33550.</translation>
-    </message>
-    <message>
-        <source>Tag 33550 is not set.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">L&apos;étiquette 33550 n&apos;est pas définie.</translation>
-    </message>
-    <message>
-        <source>No data for tag 256.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">Aucune donnée pour l&apos;étiquette 256.</translation>
-    </message>
-    <message>
-        <source>Invalid data for tag 256.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">Données invalides pour l&apos;étiquette 256.</translation>
-    </message>
-    <message>
-        <source>Tag 256 is not set.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">L&apos;étiquette 256 n&apos;est pas définie.</translation>
-    </message>
-    <message>
-        <source>No data for tag 257.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">Aucune donnée pour l&apos;étiquette 257.</translation>
-    </message>
-    <message>
-        <source>Invalid data for tag 257.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">Données invalides pour l&apos;étiquette 256.</translation>
-    </message>
-    <message>
-        <source>Tag 257 is not set.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">L&apos;étiquette 257 n&apos;est pas définie.</translation>
-    </message>
-    <message>
-        <source>The bounding box is invalid.</source>
-        <comment>FileFormats::GeoTIFF</comment>
-        <translatorcomment>Formats de fichiers ::GeoTIFF</translatorcomment>
-        <translation type="vanished">Le cadre de délimitation n&apos;est pas valide.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUP.cpp" line="122"/>
@@ -4927,119 +4188,11 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Le fichier %1 ne contient pas d&apos;itinéraire</translation>
     </message>
     <message>
-        <source>Cannot parse FPL file %1 for XML. Reason: %2</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Impossible d&apos;analyser le fichier FPL %1 pour XML. Raison&#xa0;: %2</translation>
-    </message>
-    <message>
-        <source>File %1 does not contain a flight plan</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le fichier %1 ne contient pas de plan de vol</translation>
-    </message>
-    <message>
-        <source>File %1 does not contain a waypoint</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le fichier %1 ne contient pas des points de cheminement</translation>
-    </message>
-    <message>
-        <source>Waypoint %1 does not have a unique identifier</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le waypoint %1 n&apos;a pas d&apos;identifiant unique</translation>
-    </message>
-    <message>
-        <source>Waypoint %1 does not have a unique latitude</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le waypoint %1 n&apos;a pas de latitude unique</translation>
-    </message>
-    <message>
-        <source>Waypoint %1 does not have a valid latitude</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le point de cheminement %1 n&apos;a pas de latitude valide</translation>
-    </message>
-    <message>
-        <source>Waypoint %1 does not have a unique longitude</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le waypoint %1 n&apos;a pas de longitude unique</translation>
-    </message>
-    <message>
-        <source>Waypoint %1 does not have a valid longitude</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le point de cheminement %1 n&apos;a pas de longitude valide</translation>
-    </message>
-    <message>
-        <source>File %1 does not contain a route</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le fichier %1 ne contient pas d&apos;itinéraire</translation>
-    </message>
-    <message>
-        <source>Route point %1 does not have a unique waypoint identifier</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le point d&apos;itinéraire %1 n&apos;a pas d&apos;identifiant de point de cheminement unique</translation>
-    </message>
-    <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="42"/>
         <source>Cannot parse FPL file %1 for XML.</source>
         <comment>FileFormats::FPL</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation></translation>
-    </message>
-    <message>
-        <source>Waypoint %1 has more than one identifier</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le point de cheminement %1 a plus d&apos;un identifiant</translation>
-    </message>
-    <message>
-        <source>Waypoint %1 has more than one latitude</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le point de cheminement %1 a plus d&apos;une latitude</translation>
-    </message>
-    <message>
-        <source>Waypoint %1 has more than one longitude</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le point de cheminement %1 a plus d&apos;une longitude</translation>
-    </message>
-    <message>
-        <source>Waypoint %1 has more than one elevation</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le point de cheminement %1 a plus d&apos;une altitude</translation>
-    </message>
-    <message>
-        <source>Waypoint %1 does not have a valid elevation</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le point de cheminement %1 n&apos;a pas d&apos;altitude valide</translation>
-    </message>
-    <message>
-        <source>Waypoint %1 does not have an identifier</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le point de cheminement %1 n&apos;a pas d&apos;identifiant</translation>
-    </message>
-    <message>
-        <source>Waypoint %1 does not have valid coordinats</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le point de cheminement %1 n&apos;a pas de coordonnées valides</translation>
-    </message>
-    <message>
-        <source>Waypoint identifier for route point %1 does not exist</source>
-        <comment>FileFormats::FPL</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">L&apos;identifiant du point de cheminement pour le point de route %1 n&apos;existe pas</translation>
+        <translation>Impossible de lire le fichier FPL %1 en XML.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="75"/>
@@ -5085,53 +4238,11 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Le fichier %1 contient plusieurs plans de vol.</translation>
     </message>
     <message>
-        <source>Cannot parse PLN file %1 for XML. Reason: %2</source>
-        <comment>FileFormats::PLN</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Impossible d&apos;analyser le fichier PLN %1 pour XML. Raison&#xa0;: %2</translation>
-    </message>
-    <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="81"/>
         <source>Cannot parse PLN file %1 for XML.</source>
         <comment>FileFormats::PLN</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
         <translation>Impossible d&apos;analyser le fichier PLN %1 pour XML</translation>
-    </message>
-    <message>
-        <source>File %1 does not contain a flight plan</source>
-        <comment>FileFormats::PLN</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le fichier %1 ne contient pas de plan de vol</translation>
-    </message>
-    <message>
-        <source>Position of waypoint %1 invalid</source>
-        <comment>FileFormats::PLN</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Position du point de cheminement %1 non valide</translation>
-    </message>
-    <message>
-        <source>Waypoint %1 does not have a unique position</source>
-        <comment>FileFormats::PLN</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le point de cheminement %1 n&apos;a pas de position unique</translation>
-    </message>
-    <message>
-        <source>File %1 does not contain way points</source>
-        <comment>FileFormats::PLN</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le fichier %1 ne contient pas de points de cheminement</translation>
-    </message>
-    <message>
-        <source>File %1 does not contain a unique flight plan</source>
-        <comment>FileFormats::PLN</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">Le fichier %1 ne contient pas de plan de vol unique</translation>
-    </message>
-    <message>
-        <source>Position of waypoint %1 is not a valid position</source>
-        <comment>FileFormats::PLN</comment>
-        <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
-        <translation type="vanished">La position du point de cheminement %1 n&apos;est pas une position valide</translation>
     </message>
 </context>
 <context>
@@ -5236,14 +4347,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Dans certaines régions, les régulations permettent souvent aux planeurs de voler dans des espaces qui ne sont pas nécessairement accessibles. La carte affiche ces “Secteurs pour planeurs” en jaune clair. Si vous ne volez pas en planeur, ces zones ne vous intéresseront probablement pas, et les cacher améliorera sans doute la lisibilité de la carte.</translation>
     </message>
     <message>
-        <source>Navigation Bar</source>
-        <translation type="vanished">Barre de navigation</translation>
-    </message>
-    <message>
-        <source>Altimeter Mode</source>
-        <translation type="vanished">Mode altimètre</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="186"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="198"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="483"/>
@@ -5299,25 +4402,9 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Utilisez cet élément pour enregistrer les récepteurs de données routières qui se connectent via Bluetooth.</translation>
     </message>
     <message>
-        <source>Show Privacy Warnings</source>
-        <translation type="vanished">Afficher les avertissements de confidentialité</translation>
-    </message>
-    <message>
-        <source>Privacy warnings will be shown again.</source>
-        <translation type="vanished">Les avertissements de confidentialité resteront affichés.</translation>
-    </message>
-    <message>
-        <source>This entry is visible if you have disabled privacy warnings by selecting &apos;Do not ask again&apos; in an appropriate dialog. Tap on this entry to re-enable all warnings.</source>
-        <translation type="vanished">Cette options est visible car vous avez désactivé les avertissements de confidentialité en choississant &apos;Ne plus demander&apos; dans le dialogue. Appuyez sur cette option pour ré-activer les avertissements.</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="390"/>
         <source>Connect to a traffic receiver…</source>
         <translation>Connectez-vous à un récepteur d&apos;info-trafic…</translation>
-    </message>
-    <message>
-        <source>Connect to the SafeSky app…</source>
-        <translation type="vanished">Connectez-vous à l&apos;application SafeSky…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="398"/>
@@ -5444,18 +4531,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Secteurs pour planeurs</translation>
     </message>
     <message>
-        <source>Currently showing altitude AMSL</source>
-        <translation type="vanished">Affichage de l&apos;altitude AMSL</translation>
-    </message>
-    <message>
-        <source>Currently showing altitude AGL</source>
-        <translation type="vanished">Affichage de l&apos;altitude AGL</translation>
-    </message>
-    <message>
-        <source>Use this settings item to chose if the altimeter shows height above ground level (AGL) or height above main sea level (AMSL).</source>
-        <translation type="vanished">Utilisez ce bouton pour choisir si l&apos;altimètre affiche l&apos;altitude par rapport au sol (AGL) ou par rapport au niveau de la mer (AMSL).</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="289"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="305"/>
         <source>Primary Position Data Source</source>
@@ -5576,32 +4651,9 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Récepteur de données de traffic (si disponible)</translation>
     </message>
     <message>
-        <source>This setting applies to the altimeter in the Navigation Bar, at the bottom of the moving map screen.</source>
-        <translation type="vanished">Ce paramètre permet de régler la barre de navigation au bas de la carte.</translation>
-    </message>
-    <message>
-        <source>Height above ground level (AGL)</source>
-        <translation type="vanished">Hauteur par rappor au sol (AGL)</translation>
-    </message>
-    <message>
-        <source>Height above main sea level (AMSL)</source>
-        <translation type="vanished">Altitude au dessus du niveau moyen des mers (AMSL)</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="275"/>
         <source>System</source>
         <translation>Système</translation>
-    </message>
-</context>
-<context>
-    <name>TooManyDownloadsDialog</name>
-    <message>
-        <source>Download anyways</source>
-        <translation type="vanished">Télécharger quand même</translation>
-    </message>
-    <message>
-        <source>Cancel</source>
-        <translation type="vanished">Annuler</translation>
     </message>
 </context>
 <context>
@@ -5705,14 +4757,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Impossible d&apos;ajouter une connexion TCP. Ceci n’est pas mis en œuvre pour le moment.</translation>
     </message>
     <message>
-        <source>Unable to add UDP connection. This is not implemented at the moment.</source>
-        <translation type="vanished">Impossible d&apos;ajouter une connexion UDP. Ceci n’est pas mis en œuvre pour le moment.</translation>
-    </message>
-    <message>
-        <source>Unable to add serial port connection. This is not implemented at the moment.</source>
-        <translation type="vanished">Impossible d&apos;ajouter une connexion au port série. Ceci n’est pas mis en œuvre pour le moment.</translation>
-    </message>
-    <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="133"/>
         <source>Unable to add FLARM simulator file connection. This is not implemented at the moment.</source>
         <translation>Impossible d&apos;ajouter la connexion au fichier du simulateur FLARM. Ceci n’est pas mis en œuvre pour le moment.</translation>
@@ -5741,10 +4785,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="624"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
         <translation>Ne reçoi pas le récepteur de trafic via les connexions de données configurées.</translation>
-    </message>
-    <message>
-        <source>Not receiving heartbeat.</source>
-        <translation type="vanished">Aucune réception.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="28"/>
@@ -6811,10 +5851,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Configurer les connexions de données</translation>
     </message>
     <message>
-        <source>Connect</source>
-        <translation type="vanished">Connecter</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="145"/>
         <source>Help</source>
         <translation>Aide</translation>
@@ -6823,10 +5859,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="154"/>
         <source>Connect to a traffic receiver…</source>
         <translation>Connectez-vous à un récepteur d&apos;info-trafic…</translation>
-    </message>
-    <message>
-        <source>Connect to the SafeSky app…</source>
-        <translation type="vanished">Connectez-vous à l&apos;application SafeSky…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="162"/>
@@ -7300,21 +6332,9 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Point de cheminement ajouté</translation>
     </message>
     <message>
-        <source>Filter</source>
-        <translation type="vanished">Filtrer</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="303"/>
         <source>Remove…</source>
         <translation>Retirer</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant disponible. Pour ajouter un point tournant, tapper sur la carte.&lt;/p&gt;</translation>
-    </message>
-    <message>
-        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point tournant ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="416"/>
@@ -9795,10 +8815,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Temperature à la surface de l&apos;eau : %1, %2</translation>
     </message>
     <message>
-        <source>Temperature %1, Dew point %2, Humidity %3%</source>
-        <translation type="vanished">Température %1, point de rosée %2, humidité %3</translation>
-    </message>
-    <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2873"/>
         <source>Temperature %1, Dew point %2</source>
         <translation>Température %1, point de rosée %2</translation>
@@ -10401,10 +9417,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/qml/main.qml" line="436"/>
         <source>Donate</source>
         <translation>Faire un don</translation>
-    </message>
-    <message>
-        <source>Bug report</source>
-        <translation type="vanished">Signaler un bug</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="423"/>
