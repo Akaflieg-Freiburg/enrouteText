@@ -3740,8 +3740,12 @@ con i dati del conto bancario.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="308"/>
+        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data and shows warnings when density altitude affects aircraft performance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data.</source>
-        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ora calcola l&apos;altitudine di densità utilizzando i dati METAR.</translation>
+        <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ora calcola l&apos;altitudine di densità utilizzando i dati METAR.</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density height from METAR data.</source>
@@ -6645,7 +6649,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Dimentica la password</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="381"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="388"/>
         <source>Help</source>
         <translation>Aiuto</translation>
     </message>
@@ -6658,18 +6662,18 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Dimenticare la password memorizzata?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="455"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="462"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
         <translation>Una volta che la memoria è stata cancellata, la password non può essere più recuperata.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="460"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="467"/>
         <source>Clear</source>
         <translation>Pulisci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="430"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="465"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="437"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="472"/>
         <source>Cancel</source>
         <translation>Cancella</translation>
     </message>
@@ -6716,7 +6720,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="229"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="241"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="644"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="651"/>
         <source>Voice Notifications</source>
         <translation>Notifiche vocali</translation>
     </message>
@@ -6735,19 +6739,19 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Visto che ci aspettiamo che non a tutti piace questa funzione, il suo pulsante permette di attivare o disattivare le notifiche vocali.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="337"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="354"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="344"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="361"/>
         <source>Ignore Network Security Errors</source>
         <translation>Ignora errori di sicurezza di rete</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="355"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="362"/>
         <source>This entry is visible if you have asked the app to download data via insecure internet connections after a secure connection attempt failed. Uncheck this item to revert to the standard policy, which enforces secure connections.</source>
         <translation>Questa opzione è visibile se hai chiesto alla app di scaricare dati attraverso una connessione non sicura dopo un tentativo fallito di connessione sicura. Deseleziona questo elemento per tornare alla policy standard, che obbliga a connessioni sicure.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="363"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="372"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="370"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="379"/>
         <source>Clear Password Storage</source>
         <translation>Cancella la memoria delle password</translation>
     </message>
@@ -6764,7 +6768,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Questa riga è visibile se hai disabilitato gli avvisi di privacy selezionando &apos;Non chiedere di nuovo&apos; nella finestra di dialogo relativa. Tocca questa riga per riabilitare tutti gli avvisi.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="390"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="397"/>
         <source>Connect to a traffic receiver…</source>
         <translation>Connessione a un ricevitore di traffico...</translation>
     </message>
@@ -6773,112 +6777,112 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Connessione alla app SafeSky...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="398"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="405"/>
         <source>Connect to a flight simulator…</source>
         <translation>Connessione a un simulatore di volo...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="421"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="428"/>
         <source>Terrain Data Missing</source>
         <translation>Dati del terreno mancanti</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="422"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="429"/>
         <source>The height above ground level cannot be computed for your current position, because the relevant terrain maps for your region have not been installed.</source>
         <translation>L&apos;altezza dal suolo non può essere calcolata per la posizione corrente perchè le mappe del terreno relative non sono state installate.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="426"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="433"/>
         <source>Install now</source>
         <translation>Installa adesso</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="452"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="459"/>
         <source>Clear Password Storage?</source>
         <translation>Cancella la memoria delle password?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="473"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="480"/>
         <source>Password storage cleared</source>
         <translation>Password cancellata</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="504"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="511"/>
         <source>Normal</source>
         <translation>Normale</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="509"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="516"/>
         <source>Huge</source>
         <translation>Enorme</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="529"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="536"/>
         <source>Set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit.</source>
         <translation>Imposta una quota limite per aumentare la leggibilità della mappa in movimento. Una volta impostata, la app mostrerà solo gli spazi aerei al di sotto di quel limite.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="537"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="544"/>
         <source>Set altitude limit</source>
         <translation>Imposta quota limite</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="563"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="570"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
         <translation>Mostra spazi aerei fino a %1ft / %2 m.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="574"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="581"/>
         <source>Cannot set reasonable airspaces altitude limit because the present own altitude is too high.</source>
         <translation>Non posso impostare una limite ragionevole dello spazio aereo perchè la quota attuale è troppo alta.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="603"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="610"/>
         <source>Position Data Source</source>
         <translation>Posizione sorgente dati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="664"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="671"/>
         <source>Choose the category of voice notifications that you would like to hear.</source>
         <translation>Scegli la categoria di notifiche vocali che vorresti sentire.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="671"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="678"/>
         <source>Voice Test</source>
         <translation>Test vocale</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="689"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="696"/>
         <source>Speech engine not yet initialized.</source>
         <translation>Motore vocale non ancora inzializzato.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="693"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="700"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="706"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="713"/>
         <source>Information • Generic</source>
         <translation>Informazione • Generico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="711"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="718"/>
         <source>Information • Navigation</source>
         <translation>Informazione • Navigazione</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="716"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="723"/>
         <source>Warning • Generic</source>
         <translation>Pericolo • Generico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="721"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="728"/>
         <source>Warning • Navigation</source>
         <translation>Pericolo • Navigazione</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="726"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="733"/>
         <source>Alert</source>
         <translation>Attenzione</translation>
     </message>
@@ -6889,7 +6893,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="186"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="198"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="483"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="490"/>
         <source>Font Size</source>
         <translation>Dimensione carattere</translation>
     </message>
@@ -6916,12 +6920,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Posizione della sorgente dati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="610"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="617"/>
         <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
         <translation>La maggior parte degli utenti sceglierà il ricevitore GPS del dispositivo. Scegli il ricevitore dati del traffico quando il ricevitore GPS del tuo dispositivo ha problemi di ricezione, o quando usi la app con un simulatore di volo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="625"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="632"/>
         <source>Traffic data reveiver (when available)</source>
         <translatorcomment>There is a typo in the solurce text: reCeiver (instead of &quot;reveiver&quot;).</translatorcomment>
         <translation>Dati del ricevitore di traffico (quando disponibile)</translation>
@@ -6993,33 +6997,33 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Utilizzare questa opzione per ingrandire i caratteri per una migliore leggibilità.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="285"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="292"/>
         <source>Currently using traffic data receiver</source>
         <translation>Ricevitore di traffico in uso</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="287"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="294"/>
         <source>Currently using built-in satnav receiver</source>
         <translation>Ricevitore satnav integrato utilizzato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="289"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="305"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="296"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="312"/>
         <source>Primary Position Data Source</source>
         <translation>Sorgente primaria dati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="306"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="313"/>
         <source>Enroute Flight Navigation can either use the built-in satnav receiver of your device or a connected traffic receiver as a primary position data source. This setting is essential if your device has reception problems or if you use Enroute Flight Navigation together with a flight simulator.</source>
         <translation>Enroute Flight Navigation può usare o il sistema integrato di ricezione segnale satellitare del tuo dispositivo, o da un ricevitore di traffico connesso, come fonte primaria di dati di posizione. Questa impostazione è essenziale se il tuo dispositivo ha problemi di ricezione o se usi Enroute Flight Navigation con un simulatore di volo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="307"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="314"/>
         <source>You will most likely prefer the built-in satnav receiver for actual flight. The built-in receiver provides one position update per second on a typical Android system, while traffic receivers do not always provide timely position updates.</source>
         <translation>Preferirai probabilmente il sistema integrato di ricezione segnale satellitare per un volo reale. Il sistema integrato fornisce l&apos;aggiornamento della posizione ogni secondo su un sistema tipico Android, mentre il ricevitore di traffico non fornisce sempre l&apos;aggiornamento della posizione regolarmente.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="308"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="315"/>
         <source>If you use Enroute Flight Navigation together with a flight simulator, you must choose the traffic receiver as a primary position data source. Flight simulators broadcast position information of simulated aircraft via Wi-Fi, using the same protocol that a traffic data receiver would use in a real plane. As long as the built-in satnav receiver is selected, all position information provided by your flight simulator is ignored.</source>
         <translation>Se usi Enroute Flight Navigation con un simulatore di volo, devi scegliere il ricevitore di traffico come fonte primaria di dati di posizione. I simulatori di volo rendono disponibile le informazioni della posizione sulla rete Wi.Fi, usando lo stesso protocollo che un ricevitore di traffico userebbe su un aereo reale. Se è selezionato il ricevitore di traffico integrato, tutte le informazioni di posizione fornite dal simulatore di volo saranno ignorate.</translation>
     </message>
@@ -7029,44 +7033,44 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>La &quot;Modalità Notturna&quot; di Enroute Flight Navigation è simile alla &quot;modalità Scura&quot; trovata in tante altre app. Abbiamo progettato la modalità notturna per piloti che volano VFR di notte, i cui occhi si devono adattare all&apos;oscurità. Paragonata con altre app, troverai che il display è infatti molto scuro.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="252"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="266"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="254"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="273"/>
         <source>Show All Warnings</source>
         <translation>Mostra tutti gli avvisi</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="257"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="261"/>
         <source>Warnings will be shown again.</source>
         <translation>Gli avvisi verranno mostrati nuovamente.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="267"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="274"/>
         <source>This entry is visible if you have previously disabled warnings. Tap on this entry to show all warnings again.</source>
         <translation>Questa voce è visibile se hai precedentemente disabilitato gli avvisi. Tocca questa voce per mostrare nuovamente tutti gli avvisi.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="316"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="328"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="323"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="335"/>
         <source>Data Connections</source>
         <translation>Connessione dati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="329"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="336"/>
         <source>Configure data connections to peripheral devices.</source>
         <translation>Configura la connessione dati per la periferica.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="330"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="337"/>
         <source>Use this item to register traffic data receivers that connect via Bluetooth.</source>
         <translation>Usa questo elemento per registrare dispositivi di dati di traffico connessi via Bluetooth.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="373"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="380"/>
         <source>This entry is visible if you have connected to a traffic data receiver that requires a password in addition to the Wi-Fi password and if you have asked the app to remember the password. Tap on this entry to clear the password storage.</source>
         <translation>Questa opzione è visibile se hai un ricevutore di traffico che richiede una password in aggiunta alla passoword della rete Wi.Fi e se hai chiesto alla app di ricordare la password. Tocca questa opzione per cancellare le password memorizzate.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="565"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="572"/>
         <source>No limit, all airspaces shown</source>
         <translation>Nessun limite, tutti gli spazi aerei sono mostrati</translation>
     </message>
@@ -7077,7 +7081,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="146"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="519"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="526"/>
         <source>Airspace Altitude Limit</source>
         <translation>Limite Quota Spazio Aereo</translation>
     </message>
@@ -7090,7 +7094,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Dati del ricevitore di traffico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="617"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="624"/>
         <source>Built-in satnav receiver</source>
         <translatorcomment>It was just a typo. &quot;ricevUtore&quot; instead of &quot;ricevItore&quot;</translatorcomment>
         <translation>Ricevitore GPS</translation>
@@ -7104,7 +7108,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Modalità notturna</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="275"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="282"/>
         <source>System</source>
         <translation>Sistema</translation>
     </message>
@@ -12022,64 +12026,105 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>IMC scarso</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="271"/>
+        <location filename="../../../src/weather/METAR.cpp" line="268"/>
+        <source>gusts of %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="272"/>
+        <source>wind at %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>gusts of %1 km/h</source>
-        <translation>raffiche a %1 km/h</translation>
+        <translation type="vanished">raffiche a %1 km/h</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="274"/>
         <source>gusts of %1 mph</source>
-        <translation>raffiche a %1 mph</translation>
+        <translation type="vanished">raffiche a %1 mph</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="277"/>
         <source>gusts of %1 kn</source>
-        <translation>raffiche a %1 kn</translation>
+        <translation type="vanished">raffiche a %1 kn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="286"/>
         <source>wind at %1 km/h</source>
-        <translation>vento a %1 km/h</translation>
+        <translation type="vanished">vento a %1 km/h</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="289"/>
         <source>wind at %1 mph</source>
-        <translation>vento a %1 mph</translation>
+        <translation type="vanished">vento a %1 mph</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="292"/>
         <source>wind at %1 kn</source>
-        <translation>vento a %1kn</translation>
+        <translation type="vanished">vento a %1kn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="306"/>
+        <location filename="../../../src/weather/METAR.cpp" line="284"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="309"/>
+        <location filename="../../../src/weather/METAR.cpp" line="287"/>
         <source>%1 %2: %3</source>
         <translation>%1 %2: %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="319"/>
         <source>Density Altitude: %1 (Δ %2)</source>
-        <translation>Altitudine densità: %1 (Δ %2)</translation>
+        <translation type="vanished">Altitudine densità: %1 (Δ %2)</translation>
     </message>
     <message>
+        <location filename="../../../src/weather/METAR.cpp" line="299"/>
         <source>Density Altitude: %1</source>
-        <translation type="vanished">Altitudine di densità: %1</translation>
+        <translation>Altitudine di densità: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="327"/>
+        <location filename="../../../src/weather/METAR.cpp" line="311"/>
         <source>Relative Humidity: %1%</source>
         <translatorcomment>Please check the second percentage symbol. It seems strange that they are two and not only one before the number 1.</translatorcomment>
         <translation>Umidità relativa: %1%</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="336"/>
+        <location filename="../../../src/weather/METAR.cpp" line="331"/>
+        <location filename="../../../src/weather/METAR.cpp" line="342"/>
+        <location filename="../../../src/weather/METAR.cpp" line="349"/>
+        <source>Performance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="333"/>
+        <source>Expect %1% increase in takeoff distance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="344"/>
+        <source>Expect %1% decrease in climb rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="351"/>
+        <source>Expect drastic decrease in climb rate. Flying might be inadvisable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="362"/>
         <source>Derived Data</source>
         <translation>Dati derivati</translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="377"/>
+        <source>Percentages are rough estimates, comparing performance of typical SEP aircraft at density altitude to standard sea level values. Runway conditions might further degrade performance. Always consult the flight manual for exact values.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="380"/>
+        <source>Hide this explanation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="385"/>
+        <source>Hide performance warnings.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

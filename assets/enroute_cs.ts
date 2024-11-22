@@ -2563,7 +2563,7 @@ Message: Enroute Flight Navigation
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="308"/>
-        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data.</source>
+        <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data and shows warnings when density altitude affects aircraft performance.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4123,7 +4123,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="146"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="519"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="526"/>
         <source>Airspace Altitude Limit</source>
         <translation>Výšková hranice vzdušného prostoru</translation>
     </message>
@@ -4156,7 +4156,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="186"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="198"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="483"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="490"/>
         <source>Font Size</source>
         <translation>Velikost písma</translation>
     </message>
@@ -4179,7 +4179,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="229"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="241"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="644"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="651"/>
         <source>Voice Notifications</source>
         <translation>Hlasové notifikace</translation>
     </message>
@@ -4199,248 +4199,248 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation>Protože předpokládáme, že ne všem může tato funkce vyhovovat, toto tlačítko umožňuje vypnutí a zapnutí hlasových notifikací.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="252"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="266"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="254"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="273"/>
         <source>Show All Warnings</source>
         <translation>Zobrazit všechna varování</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="257"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="261"/>
         <source>Warnings will be shown again.</source>
         <translation>Varování budou opět zobrazována</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="267"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="274"/>
         <source>This entry is visible if you have previously disabled warnings. Tap on this entry to show all warnings again.</source>
         <translation>Tato položka se zobrazuje, pokud jste v minulosti zneaktivnili varování. Klikněte na tuto položku pro jejich opětovnou aktivaci.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="275"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="282"/>
         <source>System</source>
         <translation>System</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="285"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="292"/>
         <source>Currently using traffic data receiver</source>
         <translation>Připojit k přijímači leteckého provozu...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="287"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="294"/>
         <source>Currently using built-in satnav receiver</source>
         <translation>Aktuálně používáno vestavěné GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="289"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="305"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="296"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="312"/>
         <source>Primary Position Data Source</source>
         <translation>Primární zdroj polohy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="306"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="313"/>
         <source>Enroute Flight Navigation can either use the built-in satnav receiver of your device or a connected traffic receiver as a primary position data source. This setting is essential if your device has reception problems or if you use Enroute Flight Navigation together with a flight simulator.</source>
         <translation>Enroute Flight Navigation může jako hlavní zdroj polohových údajů použít buďto vestavěný GPS přijímač vašeho zařízení, nebo polohové údaje z připojeného přijímače leteckého provozu. Toto nastavení je důležité v případě, že vaše zařízení mívá problémy s příjmem GPS signálu, nebo pokud používáte Enroute Flight Navigation spolu s leteckým simulátorem.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="307"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="314"/>
         <source>You will most likely prefer the built-in satnav receiver for actual flight. The built-in receiver provides one position update per second on a typical Android system, while traffic receivers do not always provide timely position updates.</source>
         <translation>Ve většině případů pravděpodobně budete preferovat vestavěný GPS přijímač. Vestavěné přijímače obvykle poskytují jeden polohový údaj za vteřinu na typickém Android telefonu, zatímco přijímače leteckého provozu nemusí poskytovat tak časté polohové údaje.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="308"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="315"/>
         <source>If you use Enroute Flight Navigation together with a flight simulator, you must choose the traffic receiver as a primary position data source. Flight simulators broadcast position information of simulated aircraft via Wi-Fi, using the same protocol that a traffic data receiver would use in a real plane. As long as the built-in satnav receiver is selected, all position information provided by your flight simulator is ignored.</source>
         <translation>Pokud používáte Enroute Flight Navigation s leteckým simulátorem, je nutné zvolit přijímač leteckého provozu jako hlavní zdroj polohových údajů. Letecké simulátory vysílají polohové údaje simulovaných letadel přes WiFi, skrze stejný protokol, jako využívají přijímače leteckého provozu ve skutečných letadlech. Pokud by byla nastavena jako zdroj polohových údajů vaše vestavěná GPS, polohové údaje z vašeho leteckého simulátoru by byly ignorovány.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="316"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="328"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="323"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="335"/>
         <source>Data Connections</source>
         <translation>Datová propojení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="329"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="336"/>
         <source>Configure data connections to peripheral devices.</source>
         <translation>Nastavit připojení k externím zařízením.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="330"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="337"/>
         <source>Use this item to register traffic data receivers that connect via Bluetooth.</source>
         <translation>Touto položkou přidáte přijímače leteckého rovozu, připojované přes Bluetooth.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="337"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="354"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="344"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="361"/>
         <source>Ignore Network Security Errors</source>
         <translation>Ignorovat chyby zabezpečení síťové komunikace</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="355"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="362"/>
         <source>This entry is visible if you have asked the app to download data via insecure internet connections after a secure connection attempt failed. Uncheck this item to revert to the standard policy, which enforces secure connections.</source>
         <translation>Tato položka se zobrazuje, pokud jste v aplikaci zvolili stahování přes nezabezpečené připojení poté, co pokus o zabezpečené připojení selhal. Odznačte tuto položku, pokud se chcete vrátit k používání zabezpečeného připojení.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="363"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="372"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="370"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="379"/>
         <source>Clear Password Storage</source>
         <translation>Smazat všechna uložená hesla</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="373"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="380"/>
         <source>This entry is visible if you have connected to a traffic data receiver that requires a password in addition to the Wi-Fi password and if you have asked the app to remember the password. Tap on this entry to clear the password storage.</source>
         <translation>Tato položka se zobrazuje, pokud jste se připojili k přijímačí leteckého provozu, který kromě WiFi hesla vyžaduje vlastní heslo, a pokud jste zvolili, aby si aplikace heslo zapamatovala. Kliknutím na tuto položku uložená hesla odstraníte.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="381"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="388"/>
         <source>Help</source>
         <translation>Nápověda</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="390"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="397"/>
         <source>Connect to a traffic receiver…</source>
         <translation>Připojit k přijímači leteckého provozu...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="398"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="405"/>
         <source>Connect to a flight simulator…</source>
         <translation>Připojit k leteckému limulátoru...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="421"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="428"/>
         <source>Terrain Data Missing</source>
         <translation>Chybí údaje o terénu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="422"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="429"/>
         <source>The height above ground level cannot be computed for your current position, because the relevant terrain maps for your region have not been installed.</source>
         <translation>Výška nad zemí pro vaší současnou polohu nemůže být vypočítána, protože nebyly nainstalovány odpovídající mapy s  údaji o terénu pro váší oblast.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="426"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="433"/>
         <source>Install now</source>
         <translation>Teď nainstalovat</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="430"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="465"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="437"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="472"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="452"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="459"/>
         <source>Clear Password Storage?</source>
         <translation>Smazat všechna uložená hesla?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="455"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="462"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
         <translation>Jakmile budou hesla smazána, již nebudou moci být použita.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="460"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="467"/>
         <source>Clear</source>
         <translation>Smazat vše</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="473"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="480"/>
         <source>Password storage cleared</source>
         <translation>Hesla odstraněna</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="504"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="511"/>
         <source>Normal</source>
         <translation>Normální</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="509"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="516"/>
         <source>Huge</source>
         <translation>Obří</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="529"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="536"/>
         <source>Set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit.</source>
         <translation>Nastavit výškové omezení pro zlepšení přehlednosti pohyblivé mapy. Po nastavení bude aplikace zobrazovat pouze vzdušné prostory pod tímto limitem.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="537"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="544"/>
         <source>Set altitude limit</source>
         <translation>Nastavit výškový limit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="563"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="570"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
         <translation>Zobrazit vzdušné prostory do %1 ft / %2 m.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="565"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="572"/>
         <source>No limit, all airspaces shown</source>
         <translation>Bez omezení, zobrazeny všechny vzdušné prostory</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="574"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="581"/>
         <source>Cannot set reasonable airspaces altitude limit because the present own altitude is too high.</source>
         <translation>Nelze nastavit rozumný výškový limit vzdušnách prostorů - současná výška je příliš velká.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="603"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="610"/>
         <source>Position Data Source</source>
         <translation>Zdroj polohy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="610"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="617"/>
         <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
         <translation>Většina uživatelů volí vestavěnou GPS. Použijte přijímač leteckého provozu v případě, že vaše vestavěná GPS má problémy s příjmem signálu, nebo pokud používáte tuto aplikaci v kombinaci s leteckým simulátorem.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="617"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="624"/>
         <source>Built-in satnav receiver</source>
         <translation>Vestavěné GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="625"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="632"/>
         <source>Traffic data reveiver (when available)</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="664"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="671"/>
         <source>Choose the category of voice notifications that you would like to hear.</source>
         <translation>Vyberte hlasové notifikace, které byste rádi slyšeli.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="671"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="678"/>
         <source>Voice Test</source>
         <translation>Test hlasových notifikací</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="689"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="696"/>
         <source>Speech engine not yet initialized.</source>
         <translation>Hlasový generátor neinicializován.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="693"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="700"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="706"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="713"/>
         <source>Information • Generic</source>
         <translation>Informace • Obecné</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="711"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="718"/>
         <source>Information • Navigation</source>
         <translation>Informace • Navigační</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="716"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="723"/>
         <source>Warning • Generic</source>
         <translation>Varování • Obecné</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="721"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="728"/>
         <source>Warning • Navigation</source>
         <translation>Varování • Navigační</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="726"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="733"/>
         <source>Alert</source>
         <translation>Upozornění</translation>
     </message>
@@ -9076,57 +9076,98 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation>minimální IMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="271"/>
+        <location filename="../../../src/weather/METAR.cpp" line="268"/>
+        <source>gusts of %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="272"/>
+        <source>wind at %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="299"/>
+        <source>Density Altitude: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="377"/>
+        <source>Percentages are rough estimates, comparing performance of typical SEP aircraft at density altitude to standard sea level values. Runway conditions might further degrade performance. Always consult the flight manual for exact values.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="380"/>
+        <source>Hide this explanation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="385"/>
+        <source>Hide performance warnings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>gusts of %1 km/h</source>
-        <translation>nárazy větru do %1 km/h</translation>
+        <translation type="vanished">nárazy větru do %1 km/h</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="274"/>
         <source>gusts of %1 mph</source>
-        <translation>nárazy větru do %1 mph</translation>
+        <translation type="vanished">nárazy větru do %1 mph</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="277"/>
         <source>gusts of %1 kn</source>
-        <translation>nárazy větru do %1 kn</translation>
+        <translation type="vanished">nárazy větru do %1 kn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="286"/>
         <source>wind at %1 km/h</source>
-        <translation>Vítr %1 km/h</translation>
+        <translation type="vanished">Vítr %1 km/h</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="289"/>
         <source>wind at %1 mph</source>
-        <translation>Vítr %1 mph</translation>
+        <translation type="vanished">Vítr %1 mph</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="292"/>
         <source>wind at %1 kn</source>
-        <translation>Vítr %1 kn</translation>
+        <translation type="vanished">Vítr %1 kn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="306"/>
+        <location filename="../../../src/weather/METAR.cpp" line="284"/>
         <source>%1 %2</source>
         <translation>%1 %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="309"/>
+        <location filename="../../../src/weather/METAR.cpp" line="287"/>
         <source>%1 %2: %3</source>
         <translation>%1 %2: %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="319"/>
-        <source>Density Altitude: %1 (Δ %2)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/weather/METAR.cpp" line="327"/>
+        <location filename="../../../src/weather/METAR.cpp" line="311"/>
         <source>Relative Humidity: %1%</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="336"/>
+        <location filename="../../../src/weather/METAR.cpp" line="331"/>
+        <location filename="../../../src/weather/METAR.cpp" line="342"/>
+        <location filename="../../../src/weather/METAR.cpp" line="349"/>
+        <source>Performance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="333"/>
+        <source>Expect %1% increase in takeoff distance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="344"/>
+        <source>Expect %1% decrease in climb rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="351"/>
+        <source>Expect drastic decrease in climb rate. Flying might be inadvisable.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="362"/>
         <source>Derived Data</source>
         <translation type="unfinished"></translation>
     </message>
