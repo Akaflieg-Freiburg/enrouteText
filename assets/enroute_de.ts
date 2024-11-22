@@ -3810,7 +3810,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="308"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data and shows warnings when density altitude affects aircraft performance.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; errechnet nun die Dichtehöhe aus METAR-Daten und warnt, wenn sie die Flugzeugleistung beeinträchtigen kann.</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data.</source>
@@ -12025,12 +12025,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="268"/>
         <source>gusts of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Böen von %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="272"/>
         <source>wind at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Wind aus %1</translation>
     </message>
     <message>
         <source>gusts of %1 km/h</source>
@@ -12085,22 +12085,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/weather/METAR.cpp" line="342"/>
         <location filename="../../../src/weather/METAR.cpp" line="349"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Leistung</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="333"/>
         <source>Expect %1% increase in takeoff distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechnen Sie mit %1% mehr Startstrecke</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="344"/>
         <source>Expect %1% decrease in climb rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechnen Sie mit %1% geringerer Steigrate</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="351"/>
         <source>Expect drastic decrease in climb rate. Flying might be inadvisable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Rechnen Sie mit drastisch geringerer Steigrate. Evtl. ist vom Fliegen abzuraten.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="362"/>
@@ -12110,17 +12110,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="377"/>
         <source>Percentages are rough estimates, comparing performance of typical SEP aircraft at density altitude to standard sea level values. Runway conditions might further degrade performance. Always consult the flight manual for exact values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Werte sind grobe Schätzungen, gehen von einer typischen Kolben-Einmot auf Meereshöhe aus. Der Pistenzustand kann die Leistung zusätzlich verschlechtern. Arbeiten Sie immer mit den genauen Werten des Flughandbuchs.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="380"/>
         <source>Hide this explanation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Erklärung ausblenden.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="385"/>
         <source>Hide performance warnings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Leistungs-Warnungen ausblenden.</translation>
     </message>
 </context>
 <context>
