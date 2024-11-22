@@ -12079,50 +12079,60 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Altitudine di densità: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="311"/>
+        <location filename="../../../src/weather/METAR.cpp" line="304"/>
+        <source>Density Altitude: %1, %2 above airfield elevation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="308"/>
+        <source>Density Altitude: %1, %2 below airfield elevation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/METAR.cpp" line="318"/>
         <source>Relative Humidity: %1%</source>
         <translatorcomment>Please check the second percentage symbol. It seems strange that they are two and not only one before the number 1.</translatorcomment>
         <translation>Umidità relativa: %1%</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="331"/>
-        <location filename="../../../src/weather/METAR.cpp" line="342"/>
+        <location filename="../../../src/weather/METAR.cpp" line="338"/>
         <location filename="../../../src/weather/METAR.cpp" line="349"/>
+        <location filename="../../../src/weather/METAR.cpp" line="356"/>
         <source>Performance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="333"/>
+        <location filename="../../../src/weather/METAR.cpp" line="340"/>
         <source>Expect %1% increase in takeoff distance</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="344"/>
+        <location filename="../../../src/weather/METAR.cpp" line="351"/>
         <source>Expect %1% decrease in climb rate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="351"/>
+        <location filename="../../../src/weather/METAR.cpp" line="358"/>
         <source>Expect drastic decrease in climb rate. Flying might be inadvisable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="362"/>
+        <location filename="../../../src/weather/METAR.cpp" line="369"/>
         <source>Derived Data</source>
         <translation>Dati derivati</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="377"/>
+        <location filename="../../../src/weather/METAR.cpp" line="384"/>
         <source>Percentages are rough estimates, comparing performance of typical SEP aircraft at density altitude to standard sea level values. Runway conditions might further degrade performance. Always consult the flight manual for exact values.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="380"/>
+        <location filename="../../../src/weather/METAR.cpp" line="387"/>
         <source>Hide this explanation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="385"/>
+        <location filename="../../../src/weather/METAR.cpp" line="392"/>
         <source>Hide performance warnings.</source>
         <translation type="unfinished"></translation>
     </message>
