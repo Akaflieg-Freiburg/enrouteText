@@ -12078,12 +12078,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="304"/>
         <source>Density Altitude: %1, %2 above airfield elevation</source>
-        <translation type="unfinished"></translation>
+        <translation>Dichtehöhe: %1, %2 über Flugplatzhöhe</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="308"/>
         <source>Density Altitude: %1, %2 below airfield elevation</source>
-        <translation type="unfinished"></translation>
+        <translation>Dichtehöhe: %1, %2 unterhalb Flugplatzhöhe</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="318"/>
