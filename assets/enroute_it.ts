@@ -3960,7 +3960,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="317"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
-        <translation>Abbiamo bisogno di grafica promozionale per l&apos;app store e con il video di spiegazione. Contattaci se sei un artista video/grafico e vorresti aiutare.</translation>
+        <translation>Abbiamo bisogno di aiuto con la grafica promozionale per gli app store e con i video esplicativi. Se sei un grafico/video artista e vuoi aiutarci, contattaci.</translation>
     </message>
     <message>
         <source>The app connects to &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage/&apos;&gt;servers at the University of Freiburg&lt;/a&gt; to check for updates and to download maps and data.</source>
