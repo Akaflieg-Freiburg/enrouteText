@@ -3291,7 +3291,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="308"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data and shows warnings when density altitude affects aircraft performance.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ahora calcula la altitud de densidad a partir de los datos METAR y muestra advertencias cuando la altitud de densidad afecta el rendimiento de la aeronave.</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data.</source>
@@ -11073,42 +11073,42 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="268"/>
         <source>gusts of %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ráfagas de %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="272"/>
         <source>wind at %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Viento de %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="299"/>
         <source>Density Altitude: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitud de densidad: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="304"/>
         <source>Density Altitude: %1, %2 above airfield elevation</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitud de densidad: %1, %2 por encima de la elevación del aeródromo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="308"/>
         <source>Density Altitude: %1, %2 below airfield elevation</source>
-        <translation type="unfinished"></translation>
+        <translation>Altitud de densidad: %1, %2 por debajo de la elevación del aeródromo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="384"/>
         <source>Percentages are rough estimates, comparing performance of typical SEP aircraft at density altitude to standard sea level values. Runway conditions might further degrade performance. Always consult the flight manual for exact values.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los porcentajes son estimaciones aproximadas que comparan el rendimiento de una aeronave SEP típica a una altitud de densidad con los valores estándar a nivel del mar. Las condiciones de la pista pueden degradar aún más el rendimiento. Consulte siempre el manual de vuelo para conocer los valores exactos.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="387"/>
         <source>Hide this explanation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar esta explicación.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="392"/>
         <source>Hide performance warnings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocultar advertencias de rendimiento.</translation>
     </message>
     <message>
         <source>gusts of %1 km/h</source>
@@ -11158,22 +11158,22 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/weather/METAR.cpp" line="349"/>
         <location filename="../../../src/weather/METAR.cpp" line="356"/>
         <source>Performance</source>
-        <translation type="unfinished"></translation>
+        <translation>Rebndimiento</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="340"/>
         <source>Expect %1% increase in takeoff distance</source>
-        <translation type="unfinished"></translation>
+        <translation>Se espera un aumento del %1% en la distancia de despegue</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="351"/>
         <source>Expect %1% decrease in climb rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Se espera una disminución del 1% en la tasa de ascenso</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="358"/>
         <source>Expect drastic decrease in climb rate. Flying might be inadvisable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se espera una reducción drástica de la velocidad de ascenso. Volar podría no ser aconsejable.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="369"/>
