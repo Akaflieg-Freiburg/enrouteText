@@ -1132,28 +1132,28 @@ la nostra App.&lt;/p&gt;
         <translation type="vanished">I dati della mappa sono stati compilati dalle seguenti fonti.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="169"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="170"/>
         <source>Unable to recognize map file format.</source>
         <translation>Impossibile riconoscere il formato file della mappa.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="174"/>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="215"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="175"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="216"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>Impossibile creae la cartella &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="181"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="182"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Impossibile copiare il file mappa nella cartella.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="203"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="204"/>
         <source>Errors</source>
         <translation>Errori</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="227"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="228"/>
         <source>Error writing file &apos;%1&apos;: %2.</source>
         <translation>Errore di scrittura di &apos;%1&apos;: %2.</translation>
     </message>
@@ -1182,7 +1182,7 @@ la nostra App.&lt;/p&gt;
         <translation type="vanished">Approcio %1 non trovato.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="295"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="296"/>
         <source>Manually Imported</source>
         <translation>Importata manualmente</translation>
     </message>
@@ -3272,7 +3272,7 @@ con i dati del conto bancario.
 <context>
     <name>Librarian</name>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="118"/>
+        <location filename="../../../src/Librarian.cpp" line="119"/>
         <source>
 &lt;p&gt;We receive our aviation data from &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. This is a not-for-profit organisation where volunteers compile aviation data for many countries. If openAIP covers your country, we might be able to generate maps for it. First, however, we need to be reasonably sure that the openAIP data is accurate and complete. Please have a look at the &lt;a href=&quot;http://maps.openaip.net&quot;&gt;openAIP maps&lt;/a&gt; and compare the display with an official aviation map of your country. Are the airfields there? Are runway lengths/orientations and frequencies correct? Are NavAids correctly displayed, with correct codes and frequencies? And what about airspaces?&lt;/p&gt;
 
@@ -3370,7 +3370,7 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="79"/>
+        <location filename="../../../src/Librarian.cpp" line="80"/>
         <source>
 &lt;h3&gt;Translations&lt;/h3&gt;
 </source>
@@ -3387,12 +3387,12 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="64"/>
+        <location filename="../../../src/Librarian.cpp" line="65"/>
         <source>Contributions</source>
         <translation>Contributi</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="67"/>
+        <location filename="../../../src/Librarian.cpp" line="68"/>
         <source>iOS Version</source>
         <translation>Versione iOS</translation>
     </message>
@@ -3401,9 +3401,9 @@ con i dati del conto bancario.
         <translation type="vanished">La app è stata importata su iOS da Simon Schneider. Simon è al momento uno studente pilota PPL e membro del aereoclub Akaflieg Freiburg, come Stefan.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="70"/>
-        <location filename="../../../src/Librarian.cpp" line="73"/>
-        <location filename="../../../src/Librarian.cpp" line="76"/>
+        <location filename="../../../src/Librarian.cpp" line="71"/>
+        <location filename="../../../src/Librarian.cpp" line="74"/>
+        <location filename="../../../src/Librarian.cpp" line="77"/>
         <source>Programming</source>
         <translation>Programmazione</translation>
     </message>
@@ -3412,12 +3412,12 @@ con i dati del conto bancario.
         <translation type="vanished">Heinz Blöchinger ci ha aiutati con il supporto per OpenAir. Dopo 15 anni di aliante alpino, Heinz ha realizzato un grande sogno e adesso vola con gli elicotteri.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="67"/>
+        <location filename="../../../src/Librarian.cpp" line="68"/>
         <source>The app has been ported to iOS by Simon Schneider, who also maintains the iOS port. Simon received his PPL license in 2024. Like Stefan, he is a member of the Akaflieg Freiburg flight club.</source>
         <translation>L&apos;app è stata portata in iOS da Simon Schneider, che gestisce anche il portale iOS. Simon ha conseguito il suo PPL nel 2024. Come Stefan, è un membro del club di volo Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="70"/>
+        <location filename="../../../src/Librarian.cpp" line="71"/>
         <source>Heinz Blöchinger has helped us with file import functionality. After 15 years of alpine gliding, Heinz has fulfilled a big dream and now flies helicopters.</source>
         <translation>Heinz Blöchinge ci aiuta con la funzione di importazione. Dopo 15 anni di gliding alpino, Heinz ha realizzato il grande sogno e adesso pilota elicotteri.</translation>
     </message>
@@ -3427,12 +3427,12 @@ con i dati del conto bancario.
         <translation type="vanished">Christian Engelhardt ha iniziato l&apos;implementazione del calcolo dell&apos;altitudine di densità. Christian è un pilota PPL nel sud della Germania, ha studiato ingegneria elettronica e lavora come Ingegnere Sowtware Incorporato.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="76"/>
+        <location filename="../../../src/Librarian.cpp" line="77"/>
         <source>Tom Linz completed height density calculation. He received his PPL license in late 2024. Tom works as a development engineer for safety systems.</source>
         <translation>Tom Linz ha completato il calcolo dell&apos;altitudine di densità. Ha ricevuto la sua licenza PPLalla fine del 2024. Tom lavora come Ingegnere dello sviluppo per sistemi di sicurezza.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="85"/>
+        <location filename="../../../src/Librarian.cpp" line="86"/>
         <source>
 &lt;li&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/li&gt;
 </source>
@@ -3448,12 +3448,12 @@ con i dati del conto bancario.
 &lt;li&gt;&lt;strong&gt;Italiano:&lt;/strong&gt; Ivan Battistella e Antonio Fardella.  Antonio è un pilota ultraleggeri con la passione per tutto ciò che è entusiasmante.&lt;/li&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="73"/>
+        <location filename="../../../src/Librarian.cpp" line="74"/>
         <source>Christian Engelhardt started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
         <translation>Christian Engelhardt ha avviato l&apos;implementazione del calcolo della densità di altezza. Christian è un pilota PPL nella Germania meridionale, ha studiato ingegneria elettrica e lavora come Embedded SW Engineer.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="87"/>
+        <location filename="../../../src/Librarian.cpp" line="88"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is an ultralight pilot with a passion for everything challenging.&lt;/li&gt;
 </source>
@@ -3462,7 +3462,7 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="89"/>
+        <location filename="../../../src/Librarian.cpp" line="90"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/li&gt;
 </source>
@@ -3471,7 +3471,7 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="95"/>
+        <location filename="../../../src/Librarian.cpp" line="96"/>
         <source>
 &lt;h3&gt;Alumni&lt;/h3&gt;
 </source>
@@ -3480,7 +3480,7 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="99"/>
+        <location filename="../../../src/Librarian.cpp" line="100"/>
         <source>
 &lt;li&gt;Luca Bertoncello (Italian translation)&lt;/li&gt;
 </source>
@@ -3489,7 +3489,7 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="101"/>
+        <location filename="../../../src/Librarian.cpp" line="102"/>
         <source>
 &lt;li&gt;Adrien Crovato (Integration of weather information)&lt;/li&gt;
 </source>
@@ -3498,12 +3498,12 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="104"/>
+        <location filename="../../../src/Librarian.cpp" line="105"/>
         <source>Manual</source>
         <translation>Manuale</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="105"/>
+        <location filename="../../../src/Librarian.cpp" line="106"/>
         <source>
 &lt;li&gt;Szymon Kocur (Polish translation)&lt;/li&gt;
 </source>
@@ -3512,7 +3512,7 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="107"/>
+        <location filename="../../../src/Librarian.cpp" line="108"/>
         <source>
 &lt;li&gt;Heiner Tholen (User interface)&lt;/li&gt;
 </source>
@@ -3521,7 +3521,7 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="109"/>
+        <location filename="../../../src/Librarian.cpp" line="110"/>
         <source>
 &lt;li&gt;Johannes Zellner (Geoid correction for altitude)&lt;/li&gt;
 </source>
@@ -3530,216 +3530,216 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="195"/>
+        <location filename="../../../src/Librarian.cpp" line="196"/>
         <source>This Privacy Policy outlines the data handling practices for the app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</source>
         <translation>Questa Privacy Policy evidenzia il processo di gestione dei dati per &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="196"/>
+        <location filename="../../../src/Librarian.cpp" line="197"/>
         <source>We prioritize your privacy and do not collect or store personally identifiable information.</source>
         <translation>Diamo priorità alla tua privacy e non raccogliamo o immagazziniamo nessun dato personale.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="197"/>
+        <location filename="../../../src/Librarian.cpp" line="198"/>
         <source>However, for the app to function properly, it must communicate with certain servers on the Internet.</source>
         <translation>Comunque, per far funzionare bene, la app deve comunicare con certi servers su internet.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="198"/>
+        <location filename="../../../src/Librarian.cpp" line="199"/>
         <source>The following sections list the servers that &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; communicates with and explain the communication purposes.</source>
         <translation>La sezione seguente elenca i servers con cui &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; comunica e spiega gli scopi della comunicazione.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="202"/>
+        <location filename="../../../src/Librarian.cpp" line="203"/>
         <source>By using Enroute Flight Navigation, you agree to this Privacy Policy.</source>
         <translation>Usando Enroute Flight Navigation, sei daccordo con questa Privacy Policy.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="203"/>
+        <location filename="../../../src/Librarian.cpp" line="204"/>
         <source>We may update this policy periodically, and any changes will be posted within the app.</source>
         <translation>Potremmo aggiornare questa policy periodicamente, e ogni modifica sarà evidenziata nella app.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="207"/>
+        <location filename="../../../src/Librarian.cpp" line="208"/>
         <source>1. Data and Anonymization Server (enroute-data)</source>
         <translatorcomment>&quot;Anonymity&quot; is a better term.</translatorcomment>
         <translation>1. Dati e anonimato dei server (dati di Enroute)</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="211"/>
+        <location filename="../../../src/Librarian.cpp" line="212"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; regularly communicates with the server &lt;strong&gt;enroute-data.akaflieg-freiburg.de&lt;/strong&gt; (referred to as &lt;strong&gt;enroute-data&lt;/strong&gt;), operated by Hetzner Online GmbH on behalf of Akaflieg Freiburg.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; comunica regolarmente con il server di &lt;strong&gt;enroute-data.akaflieg-freiburg.de&lt;/strong&gt; (chiamato anche &lt;strong&gt;enroute-data&lt;/strong&gt;), operato per conto di Akaflieg Freiburs da Hetzner Online GmbH.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="212"/>
+        <location filename="../../../src/Librarian.cpp" line="213"/>
         <source>The server&apos;s primary role is to facilitate the app&apos;s functionality while maintaining user privacy.</source>
         <translation>Il ruolo primario del server è di facilitare le funzionalità della app preservando la privacy dell&apos;utente.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="216"/>
+        <location filename="../../../src/Librarian.cpp" line="217"/>
         <source>1.1. Data Collected</source>
         <translation>1.1. Raccolta dati</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="220"/>
+        <location filename="../../../src/Librarian.cpp" line="221"/>
         <source>In every communication with &lt;strong&gt;enroute-data&lt;/strong&gt;, your device&apos;s IP address is transmitted to the server.</source>
         <translation>In ogni comunicazione con &lt;strong&gt;enroute-data&lt;/strong&gt;, l&apos;indirizzo IP del tuo dispositivo è trasmesso al server.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="221"/>
+        <location filename="../../../src/Librarian.cpp" line="222"/>
         <source>The server needs to know the IP address to respond.</source>
         <translation>Il server ha bisogno di conoscere l&apos;indirizzo IP per rispondere.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="225"/>
+        <location filename="../../../src/Librarian.cpp" line="226"/>
         <source>The server stores the following data items in its log files.</source>
         <translation>Il server immagazzina i seguenti dati per proprio file log.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="229"/>
+        <location filename="../../../src/Librarian.cpp" line="230"/>
         <source>&lt;strong&gt;Pseudonymized IP Address&lt;/strong&gt;: The last byte of your IP address is replaced with a random number, ensuring it cannot identify you.</source>
         <translation>&lt;strong&gt;Indirizzo IP pseudonimo&lt;/strong&gt;: L&apos;ultimo byte del tuo IP è rimpiazzato con un numero casuale, per garantire l&apos;anonimato.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="230"/>
+        <location filename="../../../src/Librarian.cpp" line="231"/>
         <source>&lt;strong&gt;Access Data&lt;/strong&gt;: Date and time of access, error codes, and data sent.</source>
         <translation>&lt;strong&gt;Accesso ai Dati&lt;/strong&gt;: Data e ora dell&apos;accesso, codici di errore e dati inviati.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="231"/>
+        <location filename="../../../src/Librarian.cpp" line="232"/>
         <source>&lt;strong&gt;Software Information&lt;/strong&gt;: The name of the web browser or software in use if the visitor’s software provides this information to the server.</source>
         <translation>&lt;strong&gt;Informazioni sul Software&lt;/strong&gt;: Il nome del browser web o del software in uso se il software del visitatore fornisce queste informazioni al server.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="232"/>
+        <location filename="../../../src/Librarian.cpp" line="233"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; does not provide this information and sends a standard text (&apos;Mozilla/5.0&apos;) instead.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; non fornisce queste informazioni, invia invece un testo standart (&apos;Mozilla/5.0&apos;).</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="233"/>
+        <location filename="../../../src/Librarian.cpp" line="234"/>
         <source>&lt;strong&gt;Operating System:&lt;/strong&gt; The operating system&apos;s name if the visitor’s software provides this information to the server.</source>
         <translation>&lt;strong&gt;Operating System:&lt;/strong&gt;: Il nome del sistema operativo se il software del visitatore fornisce questa informazione al server.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="234"/>
+        <location filename="../../../src/Librarian.cpp" line="235"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; does not provide this information. </source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; non fornisce questa informazione. </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="238"/>
+        <location filename="../../../src/Librarian.cpp" line="239"/>
         <source>1.2. Communication: Data Download</source>
         <translation>1.2. Comunicazione: scaricamento di dati</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="242"/>
+        <location filename="../../../src/Librarian.cpp" line="243"/>
         <source>The app checks for updates and downloads data from &lt;strong&gt;enroute-data&lt;/strong&gt; to provide current maps and aviation data.</source>
         <translation>La app controlla gli aggiornamenti e lo scaricamento dei dati da &lt;strong&gt;enroute-data&lt;/strong&gt; per fornire le mappe installate e dati aeronautici.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="243"/>
+        <location filename="../../../src/Librarian.cpp" line="244"/>
         <source>Your IP address is transmitted in the process.</source>
         <translation>Il tuo indirizzo IP è fornito nel processo.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="247"/>
+        <location filename="../../../src/Librarian.cpp" line="248"/>
         <source>1.3. Communication: NOTAM, METAR and TAF </source>
         <translation>1.3. Comunicazioni: NOTAM, METAR e TAF </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="251"/>
+        <location filename="../../../src/Librarian.cpp" line="252"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; shows NOTAMs, METARs, and TAFs for airfields near your current location and your currently planned route.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; mostra NOTAM, METAR e TAF per gli aeroporti vicini alla tua posizione corrente e la tua rotta pianificata.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="252"/>
+        <location filename="../../../src/Librarian.cpp" line="253"/>
         <source>It also shows NOTAMs, METARs, and TAFs for all waypoints you open in the app.</source>
         <translation>Mostra anche NOTAM, METAR e TAF per tutti i punti intermedi che apri nella app.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="253"/>
+        <location filename="../../../src/Librarian.cpp" line="254"/>
         <source>To provide this functionality, requests are transmitted to the server &lt;strong&gt;enroute-data&lt;/strong&gt; at regular intervals and whenever new data is requested.</source>
         <translation>Per fornire questa funzione, le richieste sono trasmesse ai server di &lt;strong&gt;enroute-data&lt;/strong&gt; ad intervalli regolari o ogni volta che un nuovo dato viere richiesto.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="254"/>
+        <location filename="../../../src/Librarian.cpp" line="255"/>
         <source>In addition to your device&apos;s IP address, the following data items will be sent.</source>
         <translation>Oltre all&apos;IP del dispositivo, vengono trasmessi i seguenti dati.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="264"/>
+        <location filename="../../../src/Librarian.cpp" line="265"/>
         <source>The server forwards requests for METARs and TAFs to a web service at the Aviation Weather Center but hides your IP address, so the web service will never see it.</source>
         <translation>Il server inoltra la richiesta di METAR e TAF a un servizio web presso l&apos;Aviation Weather Center ma nasconde il tuo IP, in questo modo il servizio web non lo vedrà.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="265"/>
+        <location filename="../../../src/Librarian.cpp" line="266"/>
         <source>The web services at the Aviation Weather Center are operated by the US government.</source>
         <translation>Il servizio web presso l&apos;Aviation Weather Center è operato dal governo USA.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="266"/>
-        <location filename="../../../src/Librarian.cpp" line="273"/>
+        <location filename="../../../src/Librarian.cpp" line="267"/>
+        <location filename="../../../src/Librarian.cpp" line="274"/>
         <source>We do not control the data handling practices of these external services.</source>
         <translation>Noi non controlliamo la gestione dei dati di questi server esterni.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="267"/>
+        <location filename="../../../src/Librarian.cpp" line="268"/>
         <source>Detailed information can be found at &lt;strong&gt;www.aviationweather.gov/dataserver&lt;/strong&gt;.</source>
         <translation>Informazioni più dettagliate possono essere trovate su &lt;strong&gt;www.aviationweather.gov/dataserver&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="271"/>
+        <location filename="../../../src/Librarian.cpp" line="272"/>
         <source>The server forwards requests for NOTAMs to a Federal Aviation Administration web service but hides your IP address, so the service will never see it.</source>
         <translation>il server inoltra la richiesta di NOTAM ai servizi web della Federal Aviation Administration ma nasconde il tuo IP,così il servizio non può vederlo.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="272"/>
+        <location filename="../../../src/Librarian.cpp" line="273"/>
         <source>The Federal Aviation Administration&apos;s web services are operated by the US government.</source>
         <translation>I servizi web della Federal Aviation Administration sono operati dal governo USA.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="274"/>
+        <location filename="../../../src/Librarian.cpp" line="275"/>
         <source>Detailed information can be found at &lt;strong&gt;api.faa.gov&lt;/strong&gt;.</source>
         <translation>Informazioni più dettagliate possono essere trovate su &lt;strong&gt;api.faa.gov&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="278"/>
+        <location filename="../../../src/Librarian.cpp" line="279"/>
         <source>Other Servers </source>
         <translation>Altri server </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="282"/>
+        <location filename="../../../src/Librarian.cpp" line="283"/>
         <source>At the user&apos;s request, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; may display external websites in an embedded browser window or ask the operating system to open external apps such as Google Maps.</source>
         <translation>A seguito della richiesta dell&apos;utente, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; può mostrare siti web esterni in un browser incorporato o chiedere al sistema operativo di aprire una app esterna come Google Maps.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="283"/>
+        <location filename="../../../src/Librarian.cpp" line="284"/>
         <source>These external sites and apps are beyond our control and may collect their own data.</source>
         <translation>Questi siti esterni e app sono oltre il nostro controllo e potrebbero raccogliere i tuoi dati.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="287"/>
+        <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>Users expect web browsers to follow hyperlinks immediately but may not expect the same behavior elsewhere in the app.</source>
         <translatorcomment>This sentence is not very clear.</translatorcomment>
         <translation>Gli utenti si aspettano che il browser segua il link immediatamente ma lo stesso comportamento non deve essere atteso in altre parti della app.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="288"/>
+        <location filename="../../../src/Librarian.cpp" line="289"/>
         <source>To account for these expectations, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; operates as follows.</source>
         <translation>Per giustificare queste aspettative, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; opera come segue.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="292"/>
+        <location filename="../../../src/Librarian.cpp" line="293"/>
         <source>&lt;strong&gt;Embedded Browser Windows&lt;/strong&gt;: Clicking a hyperlink is considered authorization to open the external site.</source>
         <translation>&lt;strong&gt;Finestra del Browser integrato&lt;/strong&gt;: Cliccare su un link è considerato come una autorizzazione ad aprire il sito esterno.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="293"/>
+        <location filename="../../../src/Librarian.cpp" line="294"/>
         <source>&lt;strong&gt;Outside Embedded Browser Windows&lt;/strong&gt;: The app will ask for explicit user authorization before opening any external site or app.</source>
         <translatorcomment>&quot;outside embedded&quot; does not clearly indicate what it is. My personal opinion.</translatorcomment>
         <translation>&lt;strong&gt;Finestra di un browser integrato esterno&lt;/strong&gt;: La app chiederà esplicitamente all&apos;utente l&apos;autorizzazione prima di aprire qualsiasi sito esterno o app.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="308"/>
+        <location filename="../../../src/Librarian.cpp" line="309"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data and shows warnings when density altitude affects aircraft performance.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; adesso calcola l&apos;altitudine di densità dai dati METAR e mostra avvisi quando l&apos;altitudine di densità influisce sulle prestazioni dell&apos;aereo.</translation>
     </message>
@@ -3752,17 +3752,17 @@ con i dati del conto bancario.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; adesso calcola l&apos;altitudine di densità dai dati METAR.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="309"/>
+        <location filename="../../../src/Librarian.cpp" line="310"/>
         <source>We thank Christian Engelhardt and Tom Linz for the implementation!</source>
         <translation>Grazie a Christian Engelhardt e Tom Linz per l&apos;implementazione!</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="311"/>
+        <location filename="../../../src/Librarian.cpp" line="312"/>
         <source>As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to import flight routes in FPL and PLN formats.</source>
         <translation>Come richiesto dai nostri utenti, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; può adesso importare anche piani di volo in formato FPL e PLN.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="312"/>
+        <location filename="../../../src/Librarian.cpp" line="313"/>
         <source>We thank Heinz Blöchinger for help with the implementation!</source>
         <translation>Grazie a Heinz Blöchinger per l&apos;aiuto con l&apos;implementazione!</translation>
     </message>
@@ -3823,17 +3823,17 @@ con i dati del conto bancario.
         <translation type="vanished">Per fornire questa funzionalità, viene trasmessa una richiesta contenente i seguenti dati al server &lt;a href=&apos;https://cplx.vm.uni-freiburg.de/storage&apos;&gt; all&apos;Università di Freiburg&lt;/a&gt;:</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="258"/>
+        <location filename="../../../src/Librarian.cpp" line="259"/>
         <source>Your current location</source>
         <translation>La tua posizione corrente</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="259"/>
+        <location filename="../../../src/Librarian.cpp" line="260"/>
         <source>The currently planned route</source>
         <translation>Il piano di volo corrente</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="260"/>
+        <location filename="../../../src/Librarian.cpp" line="261"/>
         <source>Waypoint coordinates</source>
         <translation>Coordinate dei waypoints</translation>
     </message>
@@ -3958,7 +3958,7 @@ con i dati del conto bancario.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è disponibileper beta testing pubblico per iOS su&lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;homepage di questa app&lt;/a&gt; contiene anche il link per TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="317"/>
+        <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Abbiamo bisogno di aiuto con la grafica promozionale per gli app store e con i video esplicativi. Se sei un grafico/video artista e vuoi aiutarci, contattaci.</translation>
     </message>
@@ -4023,7 +4023,7 @@ con i dati del conto bancario.
 &lt;p&gt;Gli itinerari possono venir letti da altri programmi, come app di backup o sincronia files.  Questo aiuta nel condividere gli itinerari con altri dispositivi.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="133"/>
+        <location filename="../../../src/Librarian.cpp" line="134"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -4105,7 +4105,7 @@ con i dati del conto bancario.
         <translation type="vanished">Concedi l&apos;autorizzazione per accedere alla posizione precisa quando richiesto.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="297"/>
+        <location filename="../../../src/Librarian.cpp" line="298"/>
         <source>Responsible</source>
         <translation>Responsabile</translation>
     </message>
@@ -4223,7 +4223,7 @@ con i dati del conto bancario.
         <translation type="vanished">&lt;p&gt;&lt;strong&gt;Innovation Award 2021&lt;/strong&gt; I lettori del magazine tedesco &apos;Aerokurier&apos; hanno nominato &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; come una delle top 3 innovazioni dell&apos;anno della categoria &apos;Avionics&apos;. Grazie a tutti per aver reso tutto ciò possibile!&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="166"/>
+        <location filename="../../../src/Librarian.cpp" line="167"/>
         <source>
 &lt;h3&gt;License&lt;/h3&gt;
 
@@ -4247,7 +4247,7 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="177"/>
+        <location filename="../../../src/Librarian.cpp" line="178"/>
         <source>
 &lt;h4&gt;Software and data included in the program&lt;/h4&gt;
 
@@ -4372,7 +4372,7 @@ con i dati del conto bancario.
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="56"/>
+        <location filename="../../../src/Librarian.cpp" line="57"/>
         <source>&lt;p&gt;This version of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is outdated and will no longer receive map updates. &lt;strong&gt;Please update this app at your earliest convencience.&lt;/strong&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;Questa versione di &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è obsoleta e non riceverà più aggiornamenti delle mappe. &lt;strong&gt;Aggiorna questa app il prima possibile.&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
@@ -4381,12 +4381,12 @@ con i dati del conto bancario.
         <translation type="vanished">Autori</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="62"/>
+        <location filename="../../../src/Librarian.cpp" line="63"/>
         <source>The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.</source>
         <translation>La app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è stata scritta da Stefan Kebekus, entusiasta del volo dal 1986 e membro del club Akaflieg Freiburg Flight. Stefan vola alianti e aerei a motore.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="63"/>
+        <location filename="../../../src/Librarian.cpp" line="64"/>
         <source>Address</source>
         <translation>Indirizzi</translation>
     </message>
@@ -4401,7 +4401,7 @@ con i dati del conto bancario.
 &lt;p&gt;La app è stata importata su iOS da Simon Schneider. Simon è al momento uno studente pilota (PPL) e membro del club Akaflieg Freiburg flight club, come Stefan.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="83"/>
+        <location filename="../../../src/Librarian.cpp" line="84"/>
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato and Luca Riva. Both are private pilots and aerospace engineers. Luca is also doing aerobatics.&lt;/li&gt;
 </source>
@@ -4594,12 +4594,12 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
 <context>
     <name>NOTAM::NOTAMProvider</name>
     <message>
-        <location filename="../../../src/notam/NOTAMProvider.cpp" line="459"/>
+        <location filename="../../../src/notam/NOTAMProvider.cpp" line="460"/>
         <source>NOTAMs not current around own position, requesting update</source>
         <translation>I NOTAMs vicino la tua posizione non sono aggiornati, sto richiedendo aggiornamenti</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NOTAMProvider.cpp" line="466"/>
+        <location filename="../../../src/notam/NOTAMProvider.cpp" line="467"/>
         <source>NOTAMs not current around waypoint, requesting update</source>
         <translation>I NOTAMs vicino i waypoint non sono aggiornati, sto richiedendo aggiornamenti</translation>
     </message>
@@ -5621,27 +5621,27 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="200"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="202"/>
         <source>Unable to open the file &apos;%1&apos; for reading.</source>
         <translation>Impossibile aprire il file %1 per la lettura.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="216"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="218"/>
         <source>JSON document contains no data.</source>
         <translation>Il documento JSON non contiene alcun dato.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="220"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="222"/>
         <source>JSON document does not describe an aircraft.</source>
         <translation>Il documento JSON non descrive un aereo.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="258"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="260"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Impossibile aprire il file &apos;%1&apos; in scrittura.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="264"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="266"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Impossibile scrivere nel file &apos;%1&apos;.</translation>
     </message>
@@ -12469,34 +12469,34 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Hai scelto di ignorare gli errori di sicurezza della rete in futuro. **Ciò rappresenta un rischio per la sicurezza.** Vai alla pagina &quot;Impostazioni&quot; se desideri ripristinare il comportamento originale e sicuro di questa app.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="145"/>
+        <location filename="../../../src/main.cpp" line="146"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation è un&apos;app di navigazione per piloti VFR,
 sviluppata e progettata da Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="150"/>
+        <location filename="../../../src/main.cpp" line="151"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
         <translation>Esegui il simulatore e genera screenshots per Google Play</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="155"/>
+        <location filename="../../../src/main.cpp" line="156"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Esegui la simulazione e genera screenshots per iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="159"/>
+        <location filename="../../../src/main.cpp" line="160"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Esegui il simulatore e genera screenshots per il manuale</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="164"/>
+        <location filename="../../../src/main.cpp" line="165"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>cerca la stringa usando Librarian::getStringFromRessource e stampala su stdout</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="166"/>
+        <location filename="../../../src/main.cpp" line="167"/>
         <source>string name</source>
         <translation>nome stringa</translation>
     </message>
@@ -12505,7 +12505,7 @@ sviluppata e progettata da Akaflieg Freiburg.</translation>
         <translation type="vanished">Esegui il simulatore e genera uno screenshots per il manuale</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="168"/>
+        <location filename="../../../src/main.cpp" line="169"/>
         <source>File to import.</source>
         <translation>File da importare.</translation>
     </message>
