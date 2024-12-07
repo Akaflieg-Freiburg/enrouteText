@@ -12074,12 +12074,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="303"/>
         <source>METAR %1</source>
-        <translation type="unfinished"></translation>
+        <translation>METAR %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="306"/>
         <source>METAR %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>METAR %1: %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="324"/>
