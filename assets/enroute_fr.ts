@@ -9299,12 +9299,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="303"/>
         <source>METAR %1</source>
-        <translation type="unfinished"></translation>
+        <translation>METAR %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="306"/>
         <source>METAR %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>METAR %1: %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="324"/>
@@ -9335,14 +9335,6 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/weather/METAR.cpp" line="417"/>
         <source>Hide performance warnings.</source>
         <translation>Masquer les avertissements sur les performances.</translation>
-    </message>
-    <message>
-        <source>%1 %2</source>
-        <translation type="vanished">%1 %2</translation>
-    </message>
-    <message>
-        <source>%1 %2: %3</source>
-        <translation type="vanished">%1 %2: %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="343"/>
