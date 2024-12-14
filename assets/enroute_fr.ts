@@ -715,7 +715,7 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
     <message>
         <location filename="../../../src/dataManagement/Downloadable_Abstract.cpp" line="36"/>
         <source>Installed</source>
-        <translation type="unfinished">Installée</translation>
+        <translation>Installée</translation>
     </message>
 </context>
 <context>
@@ -3486,7 +3486,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="140"/>
         <source>Pressure Altitude</source>
-        <translation>Altitude de pression</translation>
+        <translation>Altitude pression</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="148"/>
@@ -3494,13 +3494,9 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Altitude</translation>
     </message>
     <message>
-        <source>Density Altitude</source>
-        <translation type="vanished">Altitude de densité</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="166"/>
         <source>Cabin Altitude</source>
-        <translation>Altitude de la cabin</translation>
+        <translation>Altitude cabine</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="176"/>
