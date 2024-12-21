@@ -4483,7 +4483,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="624"/>
-        <source>Built-in satnav receiver</source>
+        <source>Built-in Satnav Receiver</source>
         <translation>Récepteur satellite natif</translation>
     </message>
     <message>
@@ -4650,7 +4650,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="632"/>
-        <source>Traffic data reveiver (when available)</source>
+        <source>Traffic Data Receiver (when available)</source>
         <translation>Récepteur de données de traffic (si disponible)</translation>
     </message>
     <message>

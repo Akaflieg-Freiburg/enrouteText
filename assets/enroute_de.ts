@@ -6656,7 +6656,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="624"/>
-        <source>Built-in satnav receiver</source>
+        <source>Built-in Satnav Receiver</source>
         <translation>Eingebauter GPS-Empfänger</translation>
     </message>
     <message>
@@ -7092,7 +7092,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="632"/>
-        <source>Traffic data reveiver (when available)</source>
+        <source>Traffic Data Receiver (when available)</source>
         <translation>Verkehrsdatenempfänger (wenn verfügbar)</translation>
     </message>
     <message>

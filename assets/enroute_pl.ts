@@ -6572,7 +6572,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="624"/>
-        <source>Built-in satnav receiver</source>
+        <source>Built-in Satnav Receiver</source>
         <translation>Wbudowany odbiornik satnav</translation>
     </message>
     <message>
@@ -6840,7 +6840,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="632"/>
-        <source>Traffic data reveiver (when available)</source>
+        <source>Traffic Data Receiver (when available)</source>
         <translation>Odbiornik ruchu lotniczego (gdy dostępne)</translation>
     </message>
     <message>

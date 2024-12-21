@@ -4398,12 +4398,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="624"/>
-        <source>Built-in satnav receiver</source>
+        <source>Built-in Satnav Receiver</source>
         <translation>Vestavěné GPS</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="632"/>
-        <source>Traffic data reveiver (when available)</source>
+        <source>Traffic Data Receiver (when available)</source>
         <translation></translation>
     </message>
     <message>

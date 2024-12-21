@@ -6180,12 +6180,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="624"/>
-        <source>Built-in satnav receiver</source>
+        <source>Built-in Satnav Receiver</source>
         <translation>Receptor de navegación por satélite incorporado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="632"/>
-        <source>Traffic data reveiver (when available)</source>
+        <source>Traffic Data Receiver (when available)</source>
         <translation>Receptor de datos de tráfico (cuando esté disponible)</translation>
     </message>
     <message>
