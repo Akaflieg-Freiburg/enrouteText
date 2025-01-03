@@ -1366,7 +1366,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable_Abstract.cpp" line="36"/>
         <source>Installed</source>
-        <translation type="unfinished">Zainstalowana</translation>
+        <translation>Zainstalowana</translation>
     </message>
 </context>
 <context>
@@ -3525,7 +3525,9 @@ z danymi konta bankowego.
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is an ultralight pilot with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translation>&lt;li&gt;&lt;strong&gt;Włoski:&lt;/strong&gt; Ivan Battistella i Antonio Fardella. Antonio jest pilotem ultralekkiego samolotu, który pasjonuje się wszystkim, co wymagające.&lt;/li&gt;</translation>
+        <translation>
+&lt;li&gt;&lt;strong&gt;Włoski:&lt;/strong&gt; Ivan Battistella i Antonio Fardella. Antonio jest pilotem ultralekkiego samolotu, który pasjonuje się wszystkim, co wymagające.&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="90"/>
@@ -6664,10 +6666,6 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <source>Traffic Data Receiver</source>
         <translation type="vanished">Odbiornik ruchu lotniczego</translation>
-    </message>
-    <message>
-        <source>Built-in Satnav Receiver</source>
-        <translation type="vanished">Wbudowany odbiornik nawigacji satelitarnej</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="206"/>
