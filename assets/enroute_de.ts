@@ -6750,10 +6750,6 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Verkehrsdatenempfänger</translation>
     </message>
     <message>
-        <source>Built-in Satnav Receiver</source>
-        <translation type="vanished">Eingebauter GPS-Empfänger</translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="147"/>
         <source>If you never fly higher than 5.000ft, you will probably not be interested in airspaces that begin above FL100. Enroute Flight Navigation allows you to set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit. Tap on the entry “Airspace Altitude Limit” to set or unset the altitude limit.</source>
         <translation>Fliegen Sie nie höher als 5.000 ft, interessieren Sie die Lufträume über FL100 wahrscheinlich nicht. Enroute Flight Navigation erlaubt die Festsetzung eines Höhenlimits, um die Lesbarkeit der Karte zu verbessern. So eingestellt zeigt die App nur Lufträume unterhalb dieses Limits an. Sie setzen oder löschen dieses Limit über den Menüpunkt “Luftraumobergrenze”.</translation>
@@ -12037,7 +12033,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="291"/>
         <source>wind at %1</source>
-        <translation>Wind aus %1</translation>
+        <translation>Wind von %1</translation>
     </message>
     <message>
         <source>gusts of %1 km/h</source>
