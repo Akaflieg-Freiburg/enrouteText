@@ -1641,8 +1641,8 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
 <context>
     <name>DecoratedListView</name>
     <message>
-        <location filename="../../../src/qml/items/DecoratedListView.qml" line="50"/>
-        <location filename="../../../src/qml/items/DecoratedListView.qml" line="72"/>
+        <location filename="../../../src/qml/items/DecoratedListView.qml" line="52"/>
+        <location filename="../../../src/qml/items/DecoratedListView.qml" line="74"/>
         <source>more</source>
         <translation>más</translation>
     </message>
@@ -3226,78 +3226,74 @@ con los datos de la cuenta bancaria.</translation>
         <translation>Además de la dirección IP de su dispositivo, se enviarán los siguientes elementos de datos.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="265"/>
         <source>The server forwards requests for METARs and TAFs to a web service at the Aviation Weather Center but hides your IP address, so the web service will never see it.</source>
-        <translation>El servidor reenvía solicitudes de METAR y TAF a un servicio web en el Aviation Weather Center, pero oculta su dirección IP, por lo que el servicio web nunca la verá.</translation>
+        <translation type="vanished">El servidor reenvía solicitudes de METAR y TAF a un servicio web en el Aviation Weather Center, pero oculta su dirección IP, por lo que el servicio web nunca la verá.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="266"/>
         <source>The web services at the Aviation Weather Center are operated by the US government.</source>
-        <translation>Los servicios web del Aviation Weather Center son operados por el gobierno de EE. UU.</translation>
+        <translation type="vanished">Los servicios web del Aviation Weather Center son operados por el gobierno de EE. UU.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="267"/>
-        <location filename="../../../src/Librarian.cpp" line="274"/>
         <source>We do not control the data handling practices of these external services.</source>
         <translation>No controlamos las prácticas de manejo de datos de estos servicios externos.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="268"/>
         <source>Detailed information can be found at &lt;strong&gt;www.aviationweather.gov/dataserver&lt;/strong&gt;.</source>
-        <translation>Puede encontrar información detallada en &lt;strong&gt;www.aviationweather.gov/dataserver&lt;/strong&gt;.</translation>
+        <translation type="vanished">Puede encontrar información detallada en &lt;strong&gt;www.aviationweather.gov/dataserver&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="272"/>
+        <location filename="../../../src/Librarian.cpp" line="265"/>
         <source>The server forwards requests for NOTAMs to a Federal Aviation Administration web service but hides your IP address, so the service will never see it.</source>
         <translation>El servidor reenvía solicitudes de NOTAM a un servicio web de la Administración Federal de Aviación, pero oculta su dirección IP, por lo que el servicio nunca la verá.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="273"/>
+        <location filename="../../../src/Librarian.cpp" line="266"/>
         <source>The Federal Aviation Administration&apos;s web services are operated by the US government.</source>
         <translation>Los servicios web de la Administración Federal de Aviación son operados por el gobierno de EE. UU.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="275"/>
+        <location filename="../../../src/Librarian.cpp" line="268"/>
         <source>Detailed information can be found at &lt;strong&gt;api.faa.gov&lt;/strong&gt;.</source>
         <translation>Puede encontrar información detallada en &lt;strong&gt;api.faa.gov&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="279"/>
+        <location filename="../../../src/Librarian.cpp" line="272"/>
         <source>Other Servers </source>
         <translation>Otros servidores</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="283"/>
+        <location filename="../../../src/Librarian.cpp" line="276"/>
         <source>At the user&apos;s request, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; may display external websites in an embedded browser window or ask the operating system to open external apps such as Google Maps.</source>
         <translation>A petición del usuario, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; puede mostrar sitios web externos en una ventana integrada del navegador o solicitar al sistema operativo que abra aplicaciones externas como Google Maps.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="284"/>
+        <location filename="../../../src/Librarian.cpp" line="277"/>
         <source>These external sites and apps are beyond our control and may collect their own data.</source>
         <translation>Estos sitios y aplicaciones externos están fuera de nuestro control y pueden recopilar sus propios datos.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="288"/>
+        <location filename="../../../src/Librarian.cpp" line="281"/>
         <source>Users expect web browsers to follow hyperlinks immediately but may not expect the same behavior elsewhere in the app.</source>
         <translation>Los usuarios esperan que los navegadores web abran los hipervínculos inmediatamente, pero es posible que no tengan el mismo comportamiento en otras partes de la aplicación.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="289"/>
+        <location filename="../../../src/Librarian.cpp" line="282"/>
         <source>To account for these expectations, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; operates as follows.</source>
         <translation>Para tener en cuenta estas expectativas, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; funciona de la siguiente manera.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="293"/>
+        <location filename="../../../src/Librarian.cpp" line="286"/>
         <source>&lt;strong&gt;Embedded Browser Windows&lt;/strong&gt;: Clicking a hyperlink is considered authorization to open the external site.</source>
         <translation>&lt;strong&gt;Navegador integrado de Windows&lt;/strong&gt;: hacer clic en un hipervínculo se considera autorización para abrir el sitio externo.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="294"/>
+        <location filename="../../../src/Librarian.cpp" line="287"/>
         <source>&lt;strong&gt;Outside Embedded Browser Windows&lt;/strong&gt;: The app will ask for explicit user authorization before opening any external site or app.</source>
         <translation>&lt;strong&gt;Windows externo del navegador integrado&lt;/strong&gt;: la aplicación solicitará autorización explícita del usuario antes de abrir cualquier sitio o aplicación externa.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="309"/>
+        <location filename="../../../src/Librarian.cpp" line="302"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data and shows warnings when density altitude affects aircraft performance.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ahora calcula la altitud de densidad a partir de los datos METAR y muestra advertencias cuando la altitud de densidad afecta el rendimiento de la aeronave.</translation>
     </message>
@@ -3306,17 +3302,17 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ahora calcula la altitud de densidad a partir de los datos METAR.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="310"/>
+        <location filename="../../../src/Librarian.cpp" line="303"/>
         <source>We thank Christian Engelhardt and Tom Linz for the implementation!</source>
         <translation>¡Agradecemos a Christian Engelhardt y Tom Linz por la implementación!</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="312"/>
+        <location filename="../../../src/Librarian.cpp" line="305"/>
         <source>As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to import flight routes in FPL and PLN formats.</source>
         <translation>Según lo solicitado por nuestros usuarios, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ahora puede importar rutas de vuelo en formatos FPL y PLN.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="313"/>
+        <location filename="../../../src/Librarian.cpp" line="306"/>
         <source>We thank Heinz Blöchinger for help with the implementation!</source>
         <translation>¡Agradecemos a Heinz Blöchinger por su ayuda con la implementación!</translation>
     </message>
@@ -3508,7 +3504,7 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; para iOS está disponible para pruebas beta públicas en &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;página de inicio de esta aplicación&lt;/a&gt; también contiene un enlace a TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="318"/>
+        <location filename="../../../src/Librarian.cpp" line="311"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Necesitamos ayuda con gráficos promocionales para los app stores y con videos explicativos. Si eres un artista gráfico o de video y te gustaría ayudar, por favor ponte en contacto.</translation>
     </message>
@@ -3726,7 +3722,7 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">Otorgue permiso para acceder a la ubicación precisa cuando se le solicite.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="298"/>
+        <location filename="../../../src/Librarian.cpp" line="291"/>
         <source>Responsible</source>
         <translation>Responsable</translation>
     </message>
@@ -3802,32 +3798,32 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
         <translation>Elija &lt;a href=&apos;xx&apos;&gt;Biblioteca/Mapas y datos&lt;/a&gt; para abrir la página de gestión de mapas.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="701"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="704"/>
         <source>Airspaces up to %1</source>
         <translation>Espacios aéreo hasta %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="704"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="707"/>
         <source>Downloading Maps and Data</source>
         <translation>Descarga de mapas y datos</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="730"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="733"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Datos del mapa</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="783"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="786"/>
         <source>Map Mode: Track Up</source>
         <translation>Mapa en modo: Seguimiento</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="786"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="789"/>
         <source>Map Mode: North Up</source>
         <translation>Mapa en modo: Norte arriba</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="656"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="657"/>
         <source>Map Mode: Autopan</source>
         <translation>Mapa en modo: paneo automático</translation>
     </message>
@@ -3836,7 +3832,7 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
         <translation type="vanished">Información de derechos de autor de los datos del mapa</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="738"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="741"/>
         <source>Map Data Copyright Information</source>
         <translation>Información de derechos de autor de los datos del mapa</translation>
     </message>
@@ -7572,84 +7568,84 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>WaypointDescription</name>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="100"/>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="147"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="103"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="150"/>
         <source>full report</source>
         <translation>reporte completp</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="101"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="104"/>
         <source>read TAF</source>
         <translation>Leyendo TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="403"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="409"/>
         <source>Satellite View</source>
         <translation>Vista satelital</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="469"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="470"/>
         <source>Route</source>
         <translation>Ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="481"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="482"/>
         <source>Direct</source>
         <translation>Directo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="492"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="493"/>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="702"/>
         <source>New flight route: direct to %1.</source>
         <translation>Nueva ruta: direct a %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="506"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="507"/>
         <source>Append</source>
         <translation>Añadir</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="519"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="520"/>
         <source>Added %1 to route.</source>
         <translation>Añadir a la ruta %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="524"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="525"/>
         <source>Insert</source>
         <translation>Introducir</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="537"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="538"/>
         <source>Inserted %1 into route.</source>
         <translation>Introducido %1 en la ruta.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="542"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="543"/>
         <source>Remove</source>
         <translation>Eliminar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="558"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="559"/>
         <source>Removed %1 from route.</source>
         <translation>Eliminado 1% de la ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="565"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="566"/>
         <source>Library</source>
         <translation>Biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="578"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="579"/>
         <source>Add…</source>
         <translation>Añadir ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="590"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="591"/>
         <source>Remove…</source>
         <translation>Eliminar...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="608"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="609"/>
         <source>Edit…</source>
         <translation>Editar ...</translation>
     </message>
@@ -7660,13 +7656,31 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="650"/>
-        <source>In order to show a satellite view, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open Google Maps in an external web browser or a dedicated app.</source>
-        <translation>Para mostrar una vista satelital, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; le pedirá a su sistema que abra Google Maps en un navegador web externo o en una aplicación dedicada.</translation>
+        <source>In order to show a satellite view, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open Google Earth or Google Maps in an external web browser or a dedicated app.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="651"/>
+        <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control Google Earth or Google Maps.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="655"/>
+        <source>With the click on OK, you consent to opening Google Earth or Google Maps on your device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="674"/>
+        <source>Always open external web sites and apps, do not ask again</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>In order to show a satellite view, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open Google Maps in an external web browser or a dedicated app.</source>
+        <translation type="vanished">Para mostrar una vista satelital, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; le pedirá a su sistema que abra Google Maps en un navegador web externo o en una aplicación dedicada.</translation>
+    </message>
+    <message>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control Google Maps.</source>
-        <translation>Los autores de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; no controlan Google Maps.</translation>
+        <translation type="vanished">Los autores de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; no controlan Google Maps.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="652"/>
@@ -7674,9 +7688,8 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>No saben qué datos recopila ni cómo se procesan.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="655"/>
         <source>With the click on OK, you consent to opening Google Maps on your device.</source>
-        <translation>Al hacer clic en Aceptar, acepta abrir Google Maps en su dispositivo.</translation>
+        <translation type="vanished">Al hacer clic en Aceptar, acepta abrir Google Maps en su dispositivo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="656"/>
@@ -7684,9 +7697,8 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Acepte solo si está de acuerdo con los términos y políticas de privacidad de ese sitio.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="674"/>
         <source>Always open external web sites, do not ask again</source>
-        <translation>Abrir siempre sitios web externos, no volver a preguntar</translation>
+        <translation type="vanished">Abrir siempre sitios web externos, no volver a preguntar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="691"/>
@@ -8167,24 +8179,32 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;No hay datos METAR/TAF disponibles. Puede reiniciar la descarga manualmente usando el elemento &apos;Actualizar METAR/TAF&apos; desde el menú de tres puntos en la esquina superior derecha de la pantalla.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="166"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. You can restart the download manually using the refresh button at the top right corner of the screen.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay datos METAR/TAF disponibles. Puedes reiniciar la descarga manualmente usando el botón de actualización en la esquina superior derecha de la pantalla.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay datos METAR/TAF disponibles. Puedes reiniciar la descarga manualmente usando el botón de actualización en la esquina superior derecha de la pantalla.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="192"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAF data from the Aviation Weather Center…&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Descarga en curso&lt;/h3&gt;&lt;p&gt;Por favor espere mientras descargamos los datos de METAR/TAF de Aviation Weather...&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Descarga en curso&lt;/h3&gt;&lt;p&gt;Por favor espere mientras descargamos los datos de METAR/TAF de Aviation Weather...&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="256"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="156"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. Updates will be requested automatically.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Weather.qml" line="180"/>
         <source>&lt;p&gt;Failed to update the list of weather stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;No se pudo actualizar la lista de estaciones meteorológicas.&lt;/p&gt;&lt;p&gt;Motivo: %1.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="257"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="181"/>
         <source>Update Error</source>
         <translation>Error de actualización</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/Weather.qml" line="230"/>
+        <source>Downloading data...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11053,77 +11073,77 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Weather::METAR</name>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="264"/>
+        <location filename="../../../src/weather/METAR.cpp" line="245"/>
         <source>CAVOK</source>
         <translation>CAVOK</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="268"/>
+        <location filename="../../../src/weather/METAR.cpp" line="249"/>
         <source>VMC</source>
         <translation>VMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="272"/>
+        <location filename="../../../src/weather/METAR.cpp" line="253"/>
         <source>marginal VMC</source>
         <translation>VMC marginal</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="275"/>
+        <location filename="../../../src/weather/METAR.cpp" line="256"/>
         <source>IMC</source>
         <translation>IMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="278"/>
+        <location filename="../../../src/weather/METAR.cpp" line="259"/>
         <source>low IMC</source>
         <translation>IMC baja</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="287"/>
+        <location filename="../../../src/weather/METAR.cpp" line="268"/>
         <source>gusts of %1</source>
         <translation>Ráfagas de %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="291"/>
+        <location filename="../../../src/weather/METAR.cpp" line="272"/>
         <source>wind at %1</source>
         <translation>Viento de %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="303"/>
+        <location filename="../../../src/weather/METAR.cpp" line="284"/>
         <source>METAR %1</source>
         <translation>METAR %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="306"/>
+        <location filename="../../../src/weather/METAR.cpp" line="287"/>
         <source>METAR %1: %2</source>
         <translation>METAR %1: %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="324"/>
+        <location filename="../../../src/weather/METAR.cpp" line="305"/>
         <source>Density Altitude: %1</source>
         <translation>Altitud de densidad: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="329"/>
+        <location filename="../../../src/weather/METAR.cpp" line="310"/>
         <source>Density Altitude: %1, %2 above airfield elevation</source>
         <translation>Altitud de densidad: %1, %2 por encima de la elevación del aeródromo</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="333"/>
+        <location filename="../../../src/weather/METAR.cpp" line="314"/>
         <source>Density Altitude: %1, %2 below airfield elevation</source>
         <translation>Altitud de densidad: %1, %2 por debajo de la elevación del aeródromo</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="409"/>
+        <location filename="../../../src/weather/METAR.cpp" line="390"/>
         <source>Percentages are rough estimates, comparing performance of typical SEP aircraft at density altitude to standard sea level values. Runway conditions might further degrade performance. Always consult the flight manual for exact values.</source>
         <translation>Los porcentajes son estimaciones aproximadas que comparan el rendimiento de una aeronave SEP típica a una altitud de densidad con los valores estándar a nivel del mar. Las condiciones de la pista pueden degradar aún más el rendimiento. Consulte siempre el manual de vuelo para conocer los valores exactos.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="412"/>
+        <location filename="../../../src/weather/METAR.cpp" line="393"/>
         <source>Hide this explanation.</source>
         <translation>Ocultar esta explicación.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="417"/>
+        <location filename="../../../src/weather/METAR.cpp" line="398"/>
         <source>Hide performance warnings.</source>
         <translation>Ocultar advertencias de rendimiento.</translation>
     </message>
@@ -11164,34 +11184,34 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Altitud de densidad: %1 (Δ %2)</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="343"/>
+        <location filename="../../../src/weather/METAR.cpp" line="324"/>
         <source>Relative Humidity: %1%</source>
         <translation>Humedad relativa: %1%</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="363"/>
-        <location filename="../../../src/weather/METAR.cpp" line="374"/>
-        <location filename="../../../src/weather/METAR.cpp" line="381"/>
+        <location filename="../../../src/weather/METAR.cpp" line="344"/>
+        <location filename="../../../src/weather/METAR.cpp" line="355"/>
+        <location filename="../../../src/weather/METAR.cpp" line="362"/>
         <source>Performance</source>
         <translation>Rebndimiento</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="365"/>
+        <location filename="../../../src/weather/METAR.cpp" line="346"/>
         <source>Expect %1% increase in takeoff distance</source>
         <translation>Se espera un aumento del %1% en la distancia de despegue</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="376"/>
+        <location filename="../../../src/weather/METAR.cpp" line="357"/>
         <source>Expect %1% decrease in climb rate</source>
         <translation>Se espera una disminución del 1% en la tasa de ascenso</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="383"/>
+        <location filename="../../../src/weather/METAR.cpp" line="364"/>
         <source>Expect drastic decrease in climb rate. Flying might be inadvisable.</source>
         <translation>Se espera una reducción drástica de la velocidad de ascenso. Volar podría no ser aconsejable.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="394"/>
+        <location filename="../../../src/weather/METAR.cpp" line="375"/>
         <source>Derived Data</source>
         <translation>Datos derivados</translation>
     </message>
@@ -11199,23 +11219,23 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Weather::WeatherDataProvider</name>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="413"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="353"/>
         <source>Waiting for precise position…</source>
         <translation>Esperando la posición precisa ...</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="466"/>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="472"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="406"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="412"/>
         <source>SR %1, %2</source>
         <translation>SR %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="470"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="410"/>
         <source>SS %1, %2</source>
         <translation>SS %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="570"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="501"/>
         <source>%1 hPa in %2, %3</source>
         <translation>%1 hPa en %2, %3</translation>
     </message>
@@ -11520,39 +11540,39 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Ha elegido ignorar los errores de seguridad de la red en el futuro. **Esto representa un riesgo de seguridad.** Vaya a la página &quot;Configuración&quot; si desea restaurar el comportamiento original y seguro de esta aplicación.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="136"/>
+        <location filename="../../../src/main.cpp" line="135"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation es una aplicación de navegación gratuita para pilotos VFR,
 desarrollado como un proyecto de Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="141"/>
+        <location filename="../../../src/main.cpp" line="140"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
         <translation>Eecutar simulador y generar capturas de pantalla para GooglePlay</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="146"/>
+        <location filename="../../../src/main.cpp" line="145"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Ejecute el simulador y genere capturas de pantalla para iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="150"/>
+        <location filename="../../../src/main.cpp" line="149"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Ejecutar simulador y generar capturas de pantalla para el manual</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="155"/>
+        <location filename="../../../src/main.cpp" line="154"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>busque una cadena de código usando Librarian::getStringFromRessource e imprímala en stdout</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="157"/>
+        <location filename="../../../src/main.cpp" line="156"/>
         <source>string name</source>
         <translation>Nombre de la cadena de código</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="159"/>
+        <location filename="../../../src/main.cpp" line="158"/>
         <source>File to import.</source>
         <translation>Archivo a importar.</translation>
     </message>
