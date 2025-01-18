@@ -1191,7 +1191,7 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="207"/>
         <source>downloading … %1% complete</source>
-        <translation>Descarga ... %1% completada</translation>
+        <translation>Descargando ... %1% completado</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="214"/>
@@ -3805,7 +3805,7 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="707"/>
         <source>Downloading Maps and Data</source>
-        <translation>Descarga de mapas y datos</translation>
+        <translation>Descargando mapas y datos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="733"/>
@@ -7657,22 +7657,22 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="650"/>
         <source>In order to show a satellite view, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open Google Earth or Google Maps in an external web browser or a dedicated app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para mostrar una vista satelital, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; le pedirá a su sistema que abra Google Earth o Google Maps en un navegador web externo o una aplicación dedicada.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="651"/>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control Google Earth or Google Maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los autores de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; no controlan Google Earth ni Google Maps.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="655"/>
         <source>With the click on OK, you consent to opening Google Earth or Google Maps on your device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al hacer clic en Aceptar, usted acepta abrir Google Earth o Google Maps en su dispositivo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="674"/>
         <source>Always open external web sites and apps, do not ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Abrir siempre sitios web y aplicaciones externas y no vuelver a preguntar</translation>
     </message>
     <message>
         <source>In order to show a satellite view, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open Google Maps in an external web browser or a dedicated app.</source>
@@ -8189,7 +8189,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="156"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. Updates will be requested automatically.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay datos METAR/TAF disponibles. Se solicitarán actualizaciones automáticamente.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="180"/>
@@ -8204,7 +8204,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="230"/>
         <source>Downloading data...</source>
-        <translation type="unfinished"></translation>
+        <translation>Descargando datos</translation>
     </message>
 </context>
 <context>
