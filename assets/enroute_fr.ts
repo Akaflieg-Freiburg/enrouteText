@@ -6063,22 +6063,22 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="650"/>
         <source>In order to show a satellite view, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open Google Earth or Google Maps in an external web browser or a dedicated app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Afin d&apos;afficher une vue satellite, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; demandera à votre système d&apos;ouvrir Google Earth ou Google Maps dans un navigateur Web externe ou une application dédiée.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="651"/>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control Google Earth or Google Maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les auteurs de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ne contrôlent pas Google Earth ou Google Maps.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="655"/>
         <source>With the click on OK, you consent to opening Google Earth or Google Maps on your device.</source>
-        <translation type="unfinished"></translation>
+        <translation>En cliquant sur OK, vous consentez à ouvrir Google Earth ou Google Maps sur votre appareil.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="674"/>
         <source>Always open external web sites and apps, do not ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Ouvrez toujours les sites Web et les applications externes, ne demandez plus</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="691"/>
@@ -6410,7 +6410,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="156"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. Updates will be requested automatically.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Désolé&#xa0;!&lt;/h3&gt;&lt;p&gt;Aucune donnée METAR/TAF disponible. Les mises à jour seront demandées automatiquement.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="180"/>
@@ -6425,7 +6425,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="230"/>
         <source>Downloading data...</source>
-        <translation type="unfinished"></translation>
+        <translation>Téléchargement de données</translation>
     </message>
 </context>
 <context>
