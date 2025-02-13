@@ -2949,22 +2949,22 @@ con i dati del conto bancario.
         <translation>Impossibile analizzare il file &apos;%1&apos;. Motivo: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="158"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="159"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation>Impossibile analizzare il contenuto del file &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="200"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="201"/>
         <source>Error reading waypoints from file &apos;%1&apos;.</source>
         <translation>Errore di lettura waypoint dal file &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="273"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="274"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Impossibile aprire il file &apos;%1&apos; in scrittura.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="280"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="281"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Impossibile scrivere nel file &apos;%1&apos;.</translation>
     </message>
@@ -5659,19 +5659,19 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Nessun NOTAM</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NOTAMList.cpp" line="94"/>
+        <location filename="../../../src/notam/NOTAMList.cpp" line="93"/>
         <source>No NOTAMs known</source>
         <comment>NOTAM::NotamList</comment>
         <translation>Nessun NOTAM noto</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NOTAMList.cpp" line="98"/>
+        <location filename="../../../src/notam/NOTAMList.cpp" line="97"/>
         <source>NOTAMs available</source>
         <comment>NOTAM::NotamList</comment>
         <translation>NOTAM disponibili</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NOTAMList.cpp" line="103"/>
+        <location filename="../../../src/notam/NOTAMList.cpp" line="102"/>
         <source>Update requested.</source>
         <comment>NOTAM::NotamList</comment>
         <translation>Aggiornamento richiesto.</translation>
@@ -5820,7 +5820,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Il TripKit non contiene mappe.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="189"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="190"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
         <translation>Le coordinate per %1 nel TripKit non sono valide.</translation>

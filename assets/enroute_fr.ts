@@ -1913,22 +1913,22 @@ Message: Enroute Flight Navigation
         <translation>Analyse du fichier &apos;%1&apos; impossible. Cause: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="158"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="159"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation>Analyse du contenu du fichier &apos;%1&apos; impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="200"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="201"/>
         <source>Error reading waypoints from file &apos;%1&apos;.</source>
         <translation>Erreur lors de la lecture des points cheminement depuis le fichier &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="273"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="274"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Ouverture du fichier &apos;%1&apos; pour écriture impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="280"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="281"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Ecriture du fichier &apos;%1&apos; impossible.</translation>
     </message>
@@ -3589,20 +3589,20 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Ecriture du fichier &apos;%1&apos; impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NOTAMList.cpp" line="94"/>
+        <location filename="../../../src/notam/NOTAMList.cpp" line="93"/>
         <source>No NOTAMs known</source>
         <comment>NOTAM::NotamList</comment>
         <translation>Aucun NOTAM trouvé</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NOTAMList.cpp" line="98"/>
+        <location filename="../../../src/notam/NOTAMList.cpp" line="97"/>
         <source>NOTAMs available</source>
         <comment>NOTAM::NotamList</comment>
         <translatorcomment>NOTAM::NotamList</translatorcomment>
         <translation>NOTAM disponibles</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NOTAMList.cpp" line="103"/>
+        <location filename="../../../src/notam/NOTAMList.cpp" line="102"/>
         <source>Update requested.</source>
         <comment>NOTAM::NotamList</comment>
         <translatorcomment>NOTAM::NotamList</translatorcomment>
@@ -3717,7 +3717,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Le kit de voyage ne contient aucune carte.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="189"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="190"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
         <translatorcomment>Formats de fichiers :: TripKit</translatorcomment>
