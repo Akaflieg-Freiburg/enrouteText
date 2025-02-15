@@ -8174,12 +8174,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="98"/>
         <source>Relevant Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Traffico Rilevante</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="100"/>
         <source>Irrelevant Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Traffico Irrilevante</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="225"/>
@@ -8324,12 +8324,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="69"/>
         <source>hDist</source>
-        <translation type="unfinished"></translation>
+        <translation>hDist</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="71"/>
         <source>vDist</source>
-        <translation type="unfinished"></translation>
+        <translation>vDist</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="102"/>
@@ -8349,12 +8349,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="183"/>
         <source>Traffic</source>
-        <translation type="unfinished">Traffico</translation>
+        <translation>Traffico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="183"/>
         <source>Currently No Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun traffico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="255"/>
