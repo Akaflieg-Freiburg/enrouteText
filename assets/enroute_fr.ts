@@ -5691,12 +5691,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="98"/>
         <source>Relevant Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Traffic pertinent</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="100"/>
         <source>Irrelevant Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Traffic non-pertinent</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="225"/>
@@ -5840,12 +5840,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="69"/>
         <source>hDist</source>
-        <translation type="unfinished"></translation>
+        <translation>hDist</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="71"/>
         <source>vDist</source>
-        <translation type="unfinished"></translation>
+        <translation>vDist</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="102"/>
@@ -5865,12 +5865,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="183"/>
         <source>Traffic</source>
-        <translation type="unfinished">Traffic</translation>
+        <translation>Traffic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="183"/>
         <source>Currently No Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Pas de traffic actuellement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="255"/>
