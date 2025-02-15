@@ -7315,12 +7315,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="98"/>
         <source>Relevant Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Tráfico relevante</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="100"/>
         <source>Irrelevant Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Tráfico irrelevante</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="225"/>
@@ -7464,12 +7464,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="69"/>
         <source>hDist</source>
-        <translation type="unfinished"></translation>
+        <translation>hDist</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="71"/>
         <source>vDist</source>
-        <translation type="unfinished"></translation>
+        <translation>vDist</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="102"/>
@@ -7489,12 +7489,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="183"/>
         <source>Traffic</source>
-        <translation type="unfinished">Trafico</translation>
+        <translation>Trafico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="183"/>
         <source>Currently No Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente no hay tráfico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="255"/>
