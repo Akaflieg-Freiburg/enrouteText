@@ -3034,12 +3034,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="341"/>
         <source>Traffic data receiver problem</source>
-        <translation>Problème du récepteur de données de traffic</translation>
+        <translation>Problème du récepteur de données de trafic</translation>
     </message>
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="358"/>
         <source>Traffic data receiver self test error</source>
-        <translation>Erreur de l&apos;auto-test du récepteur de données de traffic</translation>
+        <translation>Erreur de l&apos;auto-test du récepteur de données de trafic</translation>
     </message>
 </context>
 <context>
@@ -3160,12 +3160,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="39"/>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now connected to the traffic data receiver in the WiFi network &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est maintenant connecté au récepteur de données de traffic du réseau WiFi &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est maintenant connecté au récepteur de données de trafic du réseau WiFi &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="40"/>
         <source>&lt;p&gt;Would you like to store the password for the traffic data receiver? Note that the stored password will not be encrypted. You can clear the password storage from the setting page.&lt;/p&gt;</source>
-        <translation>&lt;p&gt;Voulez-vous enregistrer ce mot de passe pour le récepteur de données de traffic? Veuillez noter que ce mot de passe ne sera pas crypté. Vous pouvez l&apos;effacer depuis la page des paramètres.&lt;/p&gt;</translation>
+        <translation>&lt;p&gt;Voulez-vous enregistrer ce mot de passe pour le récepteur de données de trafic? Veuillez noter que ce mot de passe ne sera pas crypté. Vous pouvez l&apos;effacer depuis la page des paramètres.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="48"/>
@@ -3424,7 +3424,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/positioning/PositionProvider.cpp" line="175"/>
         <source>Traffic receiver</source>
-        <translation>Récepteur de traffic</translation>
+        <translation>Récepteur de trafic</translation>
     </message>
 </context>
 <context>
@@ -4377,7 +4377,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="292"/>
         <source>Currently using traffic data receiver</source>
-        <translation>Utilisation du récepteur de données de traffic</translation>
+        <translation>Utilisation du récepteur de données de trafic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="294"/>
@@ -4742,7 +4742,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="52"/>
         <source>Traffic data receiver</source>
-        <translation>Récepteur de traffic</translation>
+        <translation>Récepteur de trafic</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="131"/>
@@ -5686,7 +5686,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="72"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="220"/>
         <source>Traffic</source>
-        <translation>Traffic</translation>
+        <translation>trafic</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="98"/>
@@ -5769,7 +5769,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="97"/>
         <source>Traffic</source>
-        <translation>Traffic</translation>
+        <translation>trafic</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="102"/>
@@ -5782,7 +5782,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="97"/>
         <source>Traffic</source>
-        <translation>Traffic</translation>
+        <translation>trafic</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="100"/>
@@ -5792,7 +5792,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="103"/>
         <source>Traffic advisory</source>
-        <translation>Information de traffic</translation>
+        <translation>Information de trafic</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/Warning.cpp" line="109"/>
@@ -5835,7 +5835,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="34"/>
         <source>Traffic Data Receiver</source>
-        <translation>Récepteur de données de traffic</translation>
+        <translation>Récepteur de données de trafic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="69"/>
@@ -5855,7 +5855,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="137"/>
         <source>Traffic Data Receiver Status</source>
-        <translation>Statut du récepteur de données de traffic</translation>
+        <translation>Statut du récepteur de données de trafic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="167"/>
@@ -5865,12 +5865,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="183"/>
         <source>Traffic</source>
-        <translation>Traffic</translation>
+        <translation>Trafic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="183"/>
         <source>Currently No Traffic</source>
-        <translation>Pas de traffic actuellement</translation>
+        <translation>Pas de trafic actuellement</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="255"/>
@@ -9519,7 +9519,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="370"/>
         <source>Traffic Receiver</source>
-        <translation>Récepteur de traffic</translation>
+        <translation>Récepteur de trafic</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="328"/>
@@ -9646,12 +9646,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="816"/>
         <source>Connected to traffic receiver.</source>
-        <translation>Connecté au récepteur de traffic.</translation>
+        <translation>Connecté au récepteur de trafic.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="818"/>
         <source>Lost connection to traffic receiver.</source>
-        <translation>Connexion au récepteur de traffic perdue.</translation>
+        <translation>Connexion au récepteur de trafic perdue.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="867"/>
