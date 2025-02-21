@@ -8470,7 +8470,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="123"/>
         <source>Filter by Name</source>
-        <translation type="unfinished">Nach Namen filtern</translation>
+        <translation>Nach Namen filtern</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="159"/>
