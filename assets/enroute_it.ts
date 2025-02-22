@@ -8474,7 +8474,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="123"/>
         <source>Filter by Name</source>
-        <translation type="unfinished">Filtra per Nome</translation>
+        <translation>Filtra per Nome</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="159"/>
