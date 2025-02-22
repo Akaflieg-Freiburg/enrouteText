@@ -8090,12 +8090,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="98"/>
         <source>Relevant Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Istotny ruch</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="100"/>
         <source>Irrelevant Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieistotny ruch</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="225"/>
@@ -8239,12 +8239,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="119"/>
         <source>hDist</source>
-        <translation type="unfinished"></translation>
+        <translation>hDist</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="121"/>
         <source>vDist</source>
-        <translation type="unfinished"></translation>
+        <translation>vDist</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="152"/>
@@ -8264,12 +8264,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="233"/>
         <source>Traffic</source>
-        <translation type="unfinished">Ruch</translation>
+        <translation>Ruch</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="233"/>
         <source>Currently No Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualnie brak ruchu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="305"/>
@@ -8396,7 +8396,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="123"/>
         <source>Filter by Name</source>
-        <translation type="unfinished">Filtruj po nazwie</translation>
+        <translation>Filtruj po nazwie</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="159"/>
