@@ -7590,7 +7590,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="123"/>
         <source>Filter by Name</source>
-        <translation type="unfinished">Filtrar por nombre</translation>
+        <translation>Filtrar por nombre</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="159"/>
