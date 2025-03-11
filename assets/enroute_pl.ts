@@ -984,9 +984,13 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
         <translation>Now połączenie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
         <source>Bluetooth Classic</source>
-        <translation>Bluetooth Classic</translation>
+        <translation type="vanished">Bluetooth Classic</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
+        <source>Bluetooth</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="242"/>
@@ -1797,27 +1801,27 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
 <context>
     <name>DataManagerPage</name>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="36"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="37"/>
         <source>Map and Data Library</source>
         <translation>Biblioteka map i danych</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="100"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="101"/>
         <source>Info</source>
         <translation>Informacja</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="114"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="115"/>
         <source>Rename</source>
         <translation>Zmień nazwę</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="126"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="127"/>
         <source>Uninstall</source>
         <translation>Odinstaluj</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="571"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="574"/>
         <source>Download Error</source>
         <translation>Błąd pobierania</translation>
     </message>
@@ -1826,122 +1830,122 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
         <translation type="vanished">&lt;p&gt;Błąd przy pobieraniu &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Powód: %2.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="198"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="199"/>
         <source>Update list of maps and data</source>
         <translation>Zaktualizuj listę map i danych</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="210"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="211"/>
         <source>Download all updates…</source>
         <translation>Pobierz wszystkie aktualizacje...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="225"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="226"/>
         <source>Import…</source>
         <translation>Import...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="233"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="234"/>
         <source>Import files</source>
         <translation>Importuj pliki</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="234"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="235"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
         <translation>Znajdź swój plik w przeglądarce, wybierz opcję „Otwórz za pomocą” z menu udostępniania i wybierz opcję Enroute</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="245"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="248"/>
         <source>Import</source>
         <translation>Import</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="246"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="249"/>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="252"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="255"/>
         <source>OpenAir Airspace Data (*.txt)</source>
         <translation>Dane przestrzeni powietrznej OpenAir (*.txt)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="253"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="256"/>
         <source>Raster and Vector Maps (*.mbtiles)</source>
         <translation>Mapy rastrowe i wektorowe (*.mbtiles)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="254"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="257"/>
         <source>Trip Kits (*.zip)</source>
         <translation>Zestawy wycieczki (*.zip)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="255"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="258"/>
         <source>Visual Approach Charts (*.tif *.tiff)</source>
         <translation>Wykresy podejścia wizualnego (*.tif *.tiff)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="272"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="275"/>
         <source>Clear VAC library…</source>
         <translation>Wyczyść bibliotekę VAC...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="300"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="303"/>
         <source>Maps</source>
         <translation>Mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="306"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="309"/>
         <source>Data</source>
         <translation>Dane</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="395"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="398"/>
         <source>There are no approach charts installed. The &lt;a href=&apos;x&apos;&gt;manual&lt;/a&gt; explains how to install and use them.</source>
         <translation>Nie ma zainstalowanych map podejścia. &lt;a href=&apos;x&apos;&gt;podręcznik&lt;/a&gt; wyjaśnia, jak je zainstalować i używać.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="443"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="446"/>
         <source>&lt;h3&gt;Update required!&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Wymagana aktualizacja!&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="464"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="467"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Lista dostępnych map nie została jeszcze pobrana z serwera. Możesz ponowić pobieranie ręcznie używając przycisku poniżej.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="495"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="498"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Pobieranie w toku...&lt;/h3&gt;&lt;p&gt;Proszę poczekaj, gdy aplikacja pobierze z serwera listę dostępnych map...&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="542"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="545"/>
         <source>Download list of maps…</source>
         <translation>Pobierz listę map...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="556"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="559"/>
         <source>Update</source>
         <translation>Aktualizacja</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="572"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="575"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Nie udało się pobrać listy map lotniczych.&lt;/p&gt;&lt;p&gt;Powód: %1.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="581"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="584"/>
         <source>Clear approach chart Library?</source>
         <translation>Wyczyścić bibliotekę map podejścia?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="584"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="587"/>
         <source>Once cleared, the approach charts cannot be restored.</source>
         <translation>Po wyczyszczeniu wykresy podejścia nie mogą zostać odtworzone.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="589"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="592"/>
         <source>Approach chart library cleared</source>
         <translation>Bilioteka map podejścia została wyczyszczona</translation>
     </message>
@@ -2288,19 +2292,19 @@ z danymi konta bankowego.
         <translation type="vanished">Export ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="307"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="309"/>
         <source>… to GeoJSON file</source>
         <translation>... do pliku GeoJSON</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="315"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="339"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="317"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="341"/>
         <source>Aborted</source>
         <translation>Przerwane</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="324"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="348"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="326"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="350"/>
         <source>Flight route shared</source>
         <translation>Plan lotu przekazany dalej</translation>
     </message>
@@ -2309,22 +2313,22 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;h3&gt;Pusta Trasa&lt;/h3&gt;&lt;p&gt;Użyj przycisku &lt;strong&gt;Dodaj Punkt&lt;/strong&gt; poniżej.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="676"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="678"/>
         <source>One waypoint: direct route from ownship position</source>
         <translation>Jeden punkt trasy: bezpośrednia trasa z własnej pozycji</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="865"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="867"/>
         <source>Clear Route?</source>
         <translation>Wyczyścić plan lotu?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="873"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="875"/>
         <source>Flight route cleared</source>
         <translation>Plan lotu wyczyszczony</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="331"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="333"/>
         <source>… to GPX file</source>
         <translation>... do pliku GPX</translation>
     </message>
@@ -2348,27 +2352,27 @@ z danymi konta bankowego.
         <translation type="vanished">Otwórz w innej aplikacji ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="360"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="362"/>
         <source>… in GeoJSON format</source>
         <translation>... w formacie GeoJSON</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="377"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="379"/>
         <source>… in GPX format</source>
         <translation>... w formacie GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="398"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="400"/>
         <source>Clear</source>
         <translation>Wyczyść</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="410"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="412"/>
         <source>Reverse</source>
         <translation>Odwróć</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="435"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="437"/>
         <source>Route</source>
         <translation>Trasa</translation>
     </message>
@@ -2377,7 +2381,7 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;h2&gt;Pusta Trasa&lt;/h2&gt;&lt;p&gt;Użyj przycisku &lt;strong&gt;Dodaj Punkt&lt;/strong&gt; poniżej.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="551"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="553"/>
         <source>Direction from</source>
         <translation>Kierunek z</translation>
     </message>
@@ -2386,8 +2390,8 @@ z danymi konta bankowego.
         <translation type="vanished">niezdefiniowano</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="436"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="541"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="438"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="543"/>
         <source>Wind</source>
         <translation>Wiatr</translation>
     </message>
@@ -2417,105 +2421,105 @@ z danymi konta bankowego.
         <translation>Znajdź swój plik w przeglądarce, wybierz opcję „Otwórz za pomocą” z menu udostępniania i wybierz opcję Enroute</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="277"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="279"/>
         <source>Import</source>
         <translation>Import</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="278"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="280"/>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="285"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="287"/>
         <source>FPL File (*.fpl)</source>
         <translation>Plik FPL (*.fpl)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="286"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="288"/>
         <source>GeoJSON File (*.geojson *.json)</source>
         <translation>Plik GeoJSON (*.geojson *.json)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="287"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="289"/>
         <source>GPX File (*.gpx)</source>
         <translation>Plik GPX (*.gpx)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="288"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="290"/>
         <source>PLN File (*.pln)</source>
         <translation>Plik PLN (*.pln)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="303"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="305"/>
         <source>Share…</source>
         <translation>Udostępnij ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="303"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="305"/>
         <source>Export…</source>
         <translation>Export ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="326"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="350"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="328"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="352"/>
         <source>Flight route exported</source>
         <translation>Plan lotu wyeksportowany</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="356"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="358"/>
         <source>Open in Other App…</source>
         <translation>Otwórz w innej aplikacji ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="372"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="389"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="374"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="391"/>
         <source>Flight route opened in other app</source>
         <translation>Plan lotu otwarty w innej aplikacji</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="417"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="419"/>
         <source>Flight route reversed</source>
         <translation>Plan lotu odwrócony</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="468"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="470"/>
         <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below or double click on any point in the moving map.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Pusta trasa&lt;/h3&gt;&lt;p&gt;Użyj przycisku &lt;strong&gt;Dodaj punkt trasy&lt;/strong&gt; poniżej lub podwójnie kliknij na dowolnym punkcie na mapie.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="716"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="847"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="718"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="849"/>
         <source>Add Waypoint to Route</source>
         <translation>Dodaj Punkt Orientacyjny do Trasy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="745"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="747"/>
         <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
         <translation>Wybierz punkt trasy z poniższej listy lub &lt;a href=&apos;xx&apos;&gt;wprowadź współrzędne ręcznie&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="766"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="768"/>
         <source>Filter by Name</source>
         <translation>Filtruj po nazwie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="786"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="788"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Żaden punkt trasy nie odpowiada Twojemu filtrowi.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="823"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="825"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Nie ma żadnych punktów orientacyjnych. Upewnij się, że mapa lotnicza jest zainstalowana.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="824"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="826"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Brak punktów trasy odpowiadających kryteriom filtrowania.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="895"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="897"/>
         <source>Error Exporting Data…</source>
         <translation>Błąd przy eksportowaniu danych...</translation>
     </message>
@@ -2524,12 +2528,12 @@ z danymi konta bankowego.
         <translation type="vanished">Kierunek</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="583"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="585"/>
         <source>Speed</source>
         <translation>Prędkość</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="702"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="704"/>
         <source>Add Waypoint</source>
         <translation>Dodaj Punkt</translation>
     </message>
@@ -2538,7 +2542,7 @@ z danymi konta bankowego.
         <translation type="vanished">Wyczyścić plan lotu?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="868"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="870"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>Raz wymazana, obecna trasa nie będzie mogła zostać przywrócona.</translation>
     </message>
@@ -2575,12 +2579,12 @@ z danymi konta bankowego.
         <translation type="vanished">Export ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="236"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="247"/>
         <source>… to GeoJSON file</source>
         <translation>... do pliku GeoJSON</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="261"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="272"/>
         <source>… to GPX file</source>
         <translation>... do pliku GPX</translation>
     </message>
@@ -2589,13 +2593,13 @@ z danymi konta bankowego.
         <translation type="vanished">Otwórz w innej aplikacji ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="291"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="302"/>
         <source>… in GeoJSON format</source>
         <translation>... w formacie GeoJSON</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="245"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="270"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="256"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="281"/>
         <source>Aborted</source>
         <translation>Przerwane</translation>
     </message>
@@ -2613,45 +2617,45 @@ z danymi konta bankowego.
         <translation type="vanished">Nazwa planu lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="233"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="244"/>
         <source>Share…</source>
         <translation>Udostępnij...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="233"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="244"/>
         <source>Export…</source>
         <translation>Export...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="254"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="279"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="265"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="290"/>
         <source>Flight route shared</source>
         <translation>Plan lotu przekazany dalej</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="256"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="281"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="267"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="292"/>
         <source>Flight route exported</source>
         <translation>Plan lotu wyeksportowany</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="287"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="298"/>
         <source>Open in Other App…</source>
         <translation>Otwórz w innej aplikacji...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="303"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="320"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="314"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="331"/>
         <source>Flight route opened in other app</source>
         <translation>Plan lotu otwarty w innej aplikacji</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="308"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="319"/>
         <source>… in GPX format</source>
         <translation>... w formacie GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="511"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="522"/>
         <source>Error Exporting Data…</source>
         <translation>Błąd przy eksportowaniu danych...</translation>
     </message>
@@ -2664,17 +2668,17 @@ z danymi konta bankowego.
         <translation type="vanished">Usuń ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="382"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="393"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes available. To add a route here, chose &apos;Flight Route&apos; from the main menu, edit a route and save it to the library.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszam!&lt;/h3&gt;&lt;p&gt;Nie ma dostępnych tras lotniczych. Aby dodać jedną, wybierz &apos;Trasa Lotnicza&apos; z głównego menu, edytuj trasę i zapisz ją do biblioteki.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="383"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="394"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszam!&lt;/h3&gt;&lt;p&gt;Żadna trasa lotnicza nie pasuje do Twoich kryteriów.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="397"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="408"/>
         <source>Loading flight route &lt;strong&gt;%1&lt;/strong&gt;</source>
         <translation>Wczytywanie planu lotu &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
@@ -2687,7 +2691,7 @@ z danymi konta bankowego.
         <translation type="vanished">Nadpisać obecną trasę?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="420"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="431"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Ładowanie trasy &lt;strong&gt;%1&lt;/strong&gt; nadpisze obecną. Raz nadpisana, nie będzie mogła zostać odzyskana.</translation>
     </message>
@@ -2696,12 +2700,12 @@ z danymi konta bankowego.
         <translation type="vanished">Usunąć z urządzenia?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="438"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="449"/>
         <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="444"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="455"/>
         <source>Flight route removed from device</source>
         <translation>Plan lotu usunięty z urządzenia</translation>
     </message>
@@ -2710,82 +2714,92 @@ z danymi konta bankowego.
         <translation type="vanished">Nowa nazwa planu lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="499"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="510"/>
         <source>Flight route renamed</source>
         <translation>Zmieniono nazwę planu lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="456"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="467"/>
         <source>Rename Flight Route</source>
         <translation>Zmień nazwę trasy lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="107"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="104"/>
+        <source>Import files</source>
+        <translation type="unfinished">Importuj pliki</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="105"/>
+        <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
+        <translation type="unfinished">Znajdź swój plik w przeglądarce, wybierz opcję „Otwórz za pomocą” z menu udostępniania i wybierz opcję Enroute</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="118"/>
         <source>Import</source>
         <translation>Import</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="108"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="119"/>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="114"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="125"/>
         <source>GeoJSON File (*.geojson *.json)</source>
         <translation>Plik GeoJSON (*.geojson *.json)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="115"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="126"/>
         <source>GPX File (*.gpx)</source>
         <translation>Plik GPX (*.gpx)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="124"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="135"/>
         <source>File Import Error</source>
         <translation>Błąd importu pliku</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="132"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="143"/>
         <source>Flight Route Imported</source>
         <translation>Zaimportowano trasę lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="163"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="174"/>
         <source>Filter</source>
         <translation>Filtr</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="330"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="341"/>
         <source>Rename…</source>
         <translation>Zmień nazwę...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="342"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="353"/>
         <source>Remove…</source>
         <translation>Usuń...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="410"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="421"/>
         <source>An Error Occurred…</source>
         <translation>Wystąpił błąd...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="417"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="428"/>
         <source>Overwrite Current Flight Route?</source>
         <translation>Nadpisać obecną trasę?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="435"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="446"/>
         <source>Remove from Device?</source>
         <translation>Usunąć z urządzenia?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="466"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="477"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Wpisz nową nazwę dla trasy &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="489"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="500"/>
         <source>Rename</source>
         <translation>Zmień nazwę</translation>
     </message>
@@ -3748,6 +3762,16 @@ z danymi konta bankowego.
         <translation>Oprócz adresu IP Twojego urządzenia przesłane zostaną następujące dane.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="303"/>
+        <source>Enroute Flight Navigation now offers ICAO and Glider Charts for Switzerland. To download these maps, open the main menu and go to Library/Maps and Data. We thank the swiss Federal Office of Topography and the Federal Office of Civil Aviation for making the maps publicly available. Use these maps for information only. The &lt;a href=&apos;https://www.geo.admin.ch/en/general-terms-of-use-fsdi&apos;&gt;license conditions&lt;/a&gt; do not allow operational use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="309"/>
+        <source>&lt;strong&gt;Technology Preview:&lt;/strong&gt; Enroute Flight Navigation is now able to connect to traffic data receivers via Bluetooth Low Energy. Please try the new feature and send us your feedback!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The server forwards requests for METARs and TAFs to a web service at the Aviation Weather Center but hides your IP address, so the web service will never see it.</source>
         <translation type="vanished">Serwer przekazuje żądania METAR i TAF do usługi internetowej w Aviation Weather Center, ale ukrywa Twój adres IP, więc usługa internetowa nigdy go nie zobaczy.</translation>
     </message>
@@ -3815,9 +3839,8 @@ z danymi konta bankowego.
         <translation>&lt;strong&gt;Poza oknem wbudowanej przeglądarki&lt;/strong&gt;: aplikacja poprosi użytkownika o wyraźną autoryzację przed otwarciem jakiejkolwiek zewnętrznej witryny lub aplikacji.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="302"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data and shows warnings when density altitude affects aircraft performance.</source>
-        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; oblicza teraz wysokość gęstościową na podstawie danych METAR i wyświetla ostrzeżenia, gdy wysokość gęstościowa wpływa na osiągi samolotu.</translation>
+        <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; oblicza teraz wysokość gęstościową na podstawie danych METAR i wyświetla ostrzeżenia, gdy wysokość gęstościowa wpływa na osiągi samolotu.</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; now computes the density altitude from METAR data.</source>
@@ -3828,19 +3851,16 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; od teraz oblicza wysokość gęstości na podstawie danych METAR.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="303"/>
         <source>We thank Christian Engelhardt and Tom Linz for the implementation!</source>
-        <translation>Dziękujemy Christianowi Engelhardtowi i Tomowi Linzowi za implementację!</translation>
+        <translation type="vanished">Dziękujemy Christianowi Engelhardtowi i Tomowi Linzowi za implementację!</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="305"/>
         <source>As requested by our users, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now able to import flight routes in FPL and PLN formats.</source>
-        <translation>Na prośbę naszych użytkowników &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; może teraz importować trasy lotów w formatach FPL i PLN.</translation>
+        <translation type="vanished">Na prośbę naszych użytkowników &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; może teraz importować trasy lotów w formatach FPL i PLN.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="306"/>
         <source>We thank Heinz Blöchinger for help with the implementation!</source>
-        <translation>Dziękujemy Heinzowi Blöchingerowi za pomoc w realizacji!</translation>
+        <translation type="vanished">Dziękujemy Heinzowi Blöchingerowi za pomoc w realizacji!</translation>
     </message>
     <message>
         <source>We do not collect our users&apos; personal data.</source>
@@ -4030,7 +4050,7 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; na iOS jest dostępna do publicznych testów beta na &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;strona główna tej aplikacji&lt;/a&gt; zawiera również link do TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="311"/>
+        <location filename="../../../src/Librarian.cpp" line="317"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Potrzebujemy pomocy z grafiką promocyjną dla sklepów z aplikacjami i filmami instruktażowymi. Jeśli jesteś grafikiem/video artystą i chciałbyś pomóc, skontaktuj się z nami.</translation>
     </message>
@@ -5709,33 +5729,33 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Niepoprawna zawartość dla zmiennej D (kierunek): %1</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="368"/>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="381"/>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="385"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="369"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="383"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="387"/>
         <source>Invalid coordinate found: %1</source>
         <comment>OpenAir</comment>
         <translation>Znaleziono niepoprawne koordynaty: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="491"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="493"/>
         <source>Warnings</source>
         <comment>OpenAir</comment>
         <translation>Ostrzeżenia</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="515"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="517"/>
         <source>Cannot open file %1</source>
         <comment>OpenAir</comment>
         <translation>Nie można otworzyć pliku %1</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="597"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="599"/>
         <source>Unrecognized record type in line %1: %2; Line ignored.</source>
         <comment>OpenAir</comment>
         <translation>Nierozpoznany typ rekordu w linii %1: %2; Linia zignorowana.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="602"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="604"/>
         <source>Error in line %1: %2; Airspace %3 ignored.</source>
         <comment>OpenAir</comment>
         <translation>Błąd w linii %1: %2; Przestrzeń powietrzna %3 zignorowana.</translation>
@@ -6110,103 +6130,108 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>ręcznie zaimportowany</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="45"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="46"/>
         <source>Unnamed Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Nienazwane urządzenie</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="55"/>
         <source>Bluetooth Low Energy Device (unsupported)</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation>Urządzenie Bluetooth o niskim zużyciu energii (nieobsługiwane)</translation>
+        <translation type="vanished">Urządzenie Bluetooth o niskim zużyciu energii (nieobsługiwane)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="62"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="56"/>
+        <source>Bluetooth Low Energy Device</source>
+        <comment>Traffic::ConnectionInfo</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="61"/>
         <source>Miscellaneous Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Inne urządzenie</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="65"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="64"/>
         <source>Computer or PDA Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Komputer lub urządzenie PDA</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="68"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="67"/>
         <source>Telephone Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Telefon</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="71"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="70"/>
         <source>Network Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Urządzenie sieciowe</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="74"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="73"/>
         <source>Audio/Video Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Urządzenie Audio/Video</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="77"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="76"/>
         <source>Peripheral Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Urządzenie peryferyjne</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="80"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="79"/>
         <source>Imaging Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Urządzenie obrazowania</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="83"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="82"/>
         <source>Wearable Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Urządzenie ubieralne</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="86"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="85"/>
         <source>Toy Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Zabawka</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="89"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="88"/>
         <source>Health Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Urządzenie medyczne</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="92"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="91"/>
         <source>Uncategorized Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Nieskategoryzowane urządzenie</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="97"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="96"/>
         <source>Serial Port Service</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Usługa portu szeregowego</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="145"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="136"/>
         <source>Serial Port Connection to %1</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Połączenie portu szeregowego do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="154"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="145"/>
         <source>UDP Connection to Port %1</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Połączenie UDP port %1</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="162"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="153"/>
         <source>TCP Connection to %1, Port %1</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Połączenie TCP z %1, port %1</translation>
@@ -7070,47 +7095,47 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Bluetooth jest wyłączony.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="108"/>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="113"/>
         <source>The Bluetooth adaptor is powered off. Power it on before doing discovery.</source>
         <translation>Adapter Bluetooth jest wyłączony. Włącz go przed rozpoczęciem wykrywania.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="111"/>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="116"/>
         <source>Read/Write error.</source>
         <translation>Błąd odczytu/zapisu.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="114"/>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="119"/>
         <source>Invalid Bluetooth adaptor.</source>
         <translation>Nieprawidłowy adapter Bluetooth.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="117"/>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="122"/>
         <source>Device discovery is not possible or implemented on the current platform.</source>
         <translation>Wykrywanie urządzeń nie jest możliwe ani zaimplementowane na obecnej platformie.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="120"/>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="125"/>
         <source>One of the requested discovery methods is not supported by the current platform.</source>
         <translation>Jedna z żądanych metod wykrywania nie jest obsługiwana przez obecną platformę.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="123"/>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="128"/>
         <source>The location service is turned off. Usage of Bluetooth is not possible when location service is turned off.</source>
         <translation>Usługa lokalizacji jest wyłączona. Korzystanie z funkcji Bluetooth nie jest możliwe, gdy usługa lokalizacji jest wyłączona.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="126"/>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="131"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
         <translation>System operacyjny żąda uprawnień, które nie zostały przyznane przez użytkownika.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="129"/>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="134"/>
         <source>An unknown error has occurred.</source>
         <translation>Wystąpił nieznany błąd.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="157"/>
+        <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="162"/>
         <source>Necessary permission have been denied.</source>
         <translation>Odmówiono niezbędnych zezwoleń.</translation>
     </message>
@@ -7134,11 +7159,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="131"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="35"/>
+        <location filename="../../../src/traffic/TrafficDataProvider_BluetoothLowEnergy.cpp" line="31"/>
         <source>Invalid connection.</source>
         <translation>Nieprawidłowe połączenie.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="136"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="137"/>
         <source>Unable to add TCP connection. This is not implemented at the moment.</source>
         <translation>Nie można dodać połączenia TCP. W tej chwili nie jest to realizowane.</translation>
     </message>
@@ -7151,32 +7177,32 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Nie można dodać połączenia przez port szeregowy. W tej chwili nie jest to realizowane.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="142"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="143"/>
         <source>Unable to add FLARM simulator file connection. This is not implemented at the moment.</source>
         <translation>Nie można dodać połączenia do symulatora FLARM. W tej chwili nie jest to realizowane.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="189"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="190"/>
         <source>Serial ports are not supported on this platform.</source>
         <translation>Porty szeregowe nie są obsługiwane na tej platformie.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="605"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="608"/>
         <source>Receiving heartbeat.</source>
         <translation>Odbieranie odświeżenia.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="608"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="611"/>
         <source>Receiving position info.</source>
         <translation>Odbieranie informacji o pozycji.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="612"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="615"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Odbieranie informacji o wysokości barometrycznej.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="618"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="621"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
         <translation>Brak sygnału pulsu odbiornika ruchu przez żadne ze skonfigurowanych połączeń danych.</translation>
     </message>
@@ -7190,250 +7216,250 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Ze względu na ograniczenia platformy połączenia z urządzeniami Bluetooth Classic nie są obsługiwane w systemie iOS.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="157"/>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="179"/>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="203"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="158"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="180"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="204"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="46"/>
+        <location filename="../../../src/traffic/TrafficDataProvider_BluetoothLowEnergy.cpp" line="42"/>
         <source>A connection to this device already exists.</source>
         <translation>Połączenie z tym urządzeniem już istnieje.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider_BluetoothLowEnergy.cpp" line="26"/>
         <source>Connections to Bluetooth Low Energy devices are currently not supported.</source>
-        <translation>Połączenia z urządzeniami Bluetooth Low Energy nie są obecnie obsługiwane.</translation>
+        <translation type="vanished">Połączenia z urządzeniami Bluetooth Low Energy nie są obecnie obsługiwane.</translation>
     </message>
 </context>
 <context>
     <name>Traffic::TrafficDataSource_Abstract</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="535"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="542"/>
         <source>No Error</source>
         <translation>Brak błędu</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="539"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="546"/>
         <source>Normal Operation</source>
         <translation>Normalne działanie</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="543"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="550"/>
         <source>Reduced Functionality</source>
         <translation>Ograniczona funkcjonalność</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="547"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="554"/>
         <source>Device INOP</source>
         <translation>Urządzenie INOP</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="552"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="559"/>
         <source>Error code: %1</source>
         <translation>Kod błędu: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="556"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="563"/>
         <source>Firmware expired</source>
         <translation>Oprogramowanie wbudowane wygasło</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="560"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="567"/>
         <source>Firmware update error</source>
         <translation>Błąd aktualizacji oprogramowania wbudowanego</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="564"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="571"/>
         <source>Power (Voltage &lt; 8V)</source>
         <translation>Zasilanie (Napięcie &lt; 8V)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="568"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="575"/>
         <source>UI error</source>
         <translation>Błąd interfejsu</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="572"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="579"/>
         <source>Audio error</source>
         <translation>Błąd audio</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="576"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="583"/>
         <source>ADC error</source>
         <translation>Błąd ADC</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="580"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="587"/>
         <source>SD card error</source>
         <translation>Błąd karty SD</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="584"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="591"/>
         <source>USB error</source>
         <translation>Błąd USB</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="588"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="595"/>
         <source>LED error</source>
         <translation>Błąd LED</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="592"/>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="604"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="599"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="611"/>
         <source>EEPROM error</source>
         <translation>Błąd EEPROM</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="596"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="603"/>
         <source>General hardware error</source>
         <translation>Ogólny błąd sprzętu</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="600"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="607"/>
         <source>Transponder receiver Mode-C/S/ADS-B unserviceable</source>
         <translation>Niedostępny tryb odbioru transpondera C/S/ADS-B</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="608"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="615"/>
         <source>GPIO error</source>
         <translation>Błąd GPIO</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="612"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="619"/>
         <source>GPS communication</source>
         <translation>Komunikacja GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="616"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="623"/>
         <source>Configuration of GPS module</source>
         <translation>Kofiguracja modułu GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="620"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="627"/>
         <source>GPS antenna</source>
         <translation>Antena GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="624"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="631"/>
         <source>RF communication</source>
         <translation>Komunikacja RF</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="628"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="635"/>
         <source>Another FLARM device with the same Radio ID is being received. Alarms are suppressed for the relevant device.</source>
         <translation>Inne urządzenie FLARM jest odbierane z tym samym identyfikatorem Radio ID. Alarmy zostaną wyciszone dla tego urządzenia.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="632"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="639"/>
         <source>Wrong ICAO 24-bit address or radio ID</source>
         <translation>Błędny adres ICAO 24bit lub ID radia</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="636"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="643"/>
         <source>Communication</source>
         <translation>Komunikacja</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="640"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="647"/>
         <source>Flash memory</source>
         <translation>Pamięć Flash</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="644"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="651"/>
         <source>Pressure sensor</source>
         <translation>Czujnik ciśnienia</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="648"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="655"/>
         <source>Obstacle database (e.g. incorrect file type)</source>
         <translation>Baza danych przeszkód (np. niepoprawny typ pliku)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="652"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="659"/>
         <source>Obstacle database expired.</source>
         <translation>Przeterminowana baza danych przeszkód.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="656"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="663"/>
         <source>Flight recorder</source>
         <translation>Rejestrator lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="660"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="667"/>
         <source>Engine-noise recording not possible</source>
         <translation>Niemożliwe zapisywanie dźwięków silnika</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="664"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="671"/>
         <source>Range analyzer</source>
         <translation>Analizator zasięgu</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="668"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="675"/>
         <source>Configuration error, e.g. while reading flarmcfg.txt from SD/USB.</source>
         <translation>Błąd konfiguracji, np. podczas odczytu pliku flarm.cfg z SD/USB.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="672"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="679"/>
         <source>Invalid obstacle database license (e.g. wrong serial number)</source>
         <translation>Nieprawidłowa licencja bazy danych przeszkód (np. zły numer seryjny)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="676"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="683"/>
         <source>Invalid IGC feature license</source>
         <translation>Nieprawidłowa licencja własności IGC</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="680"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="687"/>
         <source>Invalid AUD feature license</source>
         <translation>Nieprawidłowa licencja własności AUD</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="684"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="691"/>
         <source>Invalid ENL feature license</source>
         <translation>Nieprawidłowa licencja własności ENL</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="688"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="695"/>
         <source>Invalid RFB feature license</source>
         <translation>Nieprawidłowa licencja własności RFB</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="692"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="699"/>
         <source>Invalid TIS feature license</source>
         <translation>Nieprawidłowa licencja własności TIS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="696"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="703"/>
         <source>Generic error</source>
         <translation>Ogólny błąd</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="700"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="707"/>
         <source>Flash File System error</source>
         <translation>Błąd systemu plików pamięci Flash</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="704"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="711"/>
         <source>Failure updating firmware of external display</source>
         <translation>Błąd aktualizacji oprogramowania zewnętrznego wyświetlacza</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="708"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="715"/>
         <source>Device is operated outside the designated region. The device does not work.</source>
         <translation>Urządzenie jest używane poza wyznaczonym regionem. To urządzenie nie działa.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="745"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="752"/>
         <source>No FLARM transmission</source>
         <translation>Brak transmisji FLARM</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="750"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="757"/>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="251"/>
         <source>No GPS reception</source>
         <translation>Brak odbioru GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="755"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="762"/>
         <source>Under- or Overvoltage</source>
         <translation>Zubt małe lub duże napięcie</translation>
     </message>
@@ -7707,99 +7733,154 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_BluetoothLowEnergy</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="79"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="51"/>
+        <source>Bluetooth LE connection to %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="78"/>
+        <source>Necessary permission have been denied.</source>
+        <translation type="unfinished">Odmówiono niezbędnych zezwoleń.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="118"/>
         <source>An unknown error has occurred.</source>
         <translation>Wystąpił nieznany błąd.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="82"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="121"/>
         <source>The remote Bluetooth Low Energy device with the address passed to the constructor of this class cannot be found.</source>
         <translation>Nie można znaleźć zdalnego urządzenia Bluetooth Low Energy o adresie przekazanym konstruktorowi tej klasy.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="85"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="124"/>
         <source>The attempt to read from or write to the remote device failed.</source>
         <translation>Próba odczytu lub zapisu na urządzeniu zdalnym nie powiodła się.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="88"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="127"/>
         <source>The local Bluetooth device with the address passed to the constructor of this class cannot be found or there is no local Bluetooth device.</source>
         <translation>Nie można znaleźć lokalnego urządzenia Bluetooth o adresie przekazanym konstruktorowi tej klasy lub nie ma lokalnego urządzenia Bluetooth.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="91"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="130"/>
         <source>The attempt to connect to the remote device failed.</source>
         <translation>Próba połączenia się ze zdalnym urządzeniem nie powiodła się.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="94"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="133"/>
         <source>The attempt to start advertising failed.</source>
         <translation>Próba uruchomienia rozgłaszania się nie powiodła.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="97"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="136"/>
         <source>The remote device closed the connection.</source>
         <translation>Urządzenie zdalne zamknęło połączenie.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="100"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="139"/>
         <source>The local Bluetooth device closed the connection due to insufficient authorization.</source>
         <translation>Lokalne urządzenie Bluetooth zamknęło połączenie z powodu niewystarczającej autoryzacji.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="103"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="142"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
         <translation>System operacyjny żąda uprawnień, które nie zostały przyznane przez użytkownika.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="106"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="145"/>
         <source>An attempt to read RSSI (received signal strength indicator) of a remote device finished with error.</source>
         <translation>Próba odczytu RSSI (wskaźnika siły odebranego sygnału) urządzenia zdalnego zakończyła się błędem.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="118"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="154"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="161"/>
+        <source>No UART service found.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="165"/>
+        <source>UART service found. Requesting service characteristics.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="176"/>
+        <source>Invalid Service.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="179"/>
+        <source>Service details unknown.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="182"/>
+        <source>Requesting service details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="193"/>
+        <source>The NUS service does not contain the TX characteristic.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="199"/>
+        <source>Cannot open the client characteristic configuration descriptor.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="206"/>
+        <source>The NUS service is not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="210"/>
+        <source>Data transfer enabled.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="218"/>
         <source>The controller is not connected to a remote device.</source>
         <translation>Kontroler nie jest podłączony do zdalnego urządzenia.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="121"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="221"/>
         <source>The controller is attempting to connect to a remote device.</source>
         <translation>Kontroler próbuje połączyć się ze zdalnym urządzeniem.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="124"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="224"/>
         <source>The controller is connected to a remote device.</source>
         <translation>Kontroler jest podłączony do zdalnego urządzenia.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="127"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="227"/>
         <source>The controller is retrieving the list of services offered by the remote device.</source>
         <translation>Kontroler pobiera listę usług oferowanych przez urządzenie zdalne.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="130"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="230"/>
         <source>The controller has discovered all services offered by the remote device.</source>
         <translation>Kontroler odkrył wszystkie usługi oferowane przez urządzenie zdalne.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="133"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="233"/>
         <source>The controller is about to be disconnected from the remote device.</source>
         <translation>Kontroler zostanie wkrótce odłączony od urządzenia zdalnego.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="136"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="236"/>
         <source>The controller is currently advertising data.</source>
         <translation>Kontroler aktualnie rozgłasza dane.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="152"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="49"/>
         <source>Unnamed Device</source>
         <translation>Nienazwane urządzenie</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="154"/>
         <source>Bluetooth LE connection to %1 (not implemented yet, please ignore)</source>
-        <translation>Połączenie Bluetooth LE z %1 (jeszcze nie zaimplementowane, proszę zignorować)</translation>
+        <translation type="vanished">Połączenie Bluetooth LE z %1 (jeszcze nie zaimplementowane, proszę zignorować)</translation>
     </message>
 </context>
 <context>
@@ -8892,8 +8973,8 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <name>WaypointLibraryPage</name>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="39"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="151"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="175"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="153"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="177"/>
         <source>Waypoint Library</source>
         <translation>Biblioteka punktów orientacyjnych</translation>
     </message>
@@ -8913,117 +8994,117 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Znajdź swój plik w przeglądarce, wybierz opcję „Otwórz za pomocą” z menu udostępniania i wybierz opcję Enroute</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="117"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="119"/>
         <source>Import</source>
         <translation>Import</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="118"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="120"/>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="124"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="126"/>
         <source>CUP File (*.cup *.txt)</source>
         <translation>Plik CUP (*.cup *.txt)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="125"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="127"/>
         <source>GeoJSON File (*.geojson *.json)</source>
         <translation>Plik GeoJSON (*.geojson *.json)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="126"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="128"/>
         <source>GPX File (*.gpx)</source>
         <translation>Plik GPX (*.gpx)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="141"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="143"/>
         <source>Share…</source>
         <translation>Podziel się...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="141"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="143"/>
         <source>Export…</source>
         <translation>Eksportuj...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="145"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="147"/>
         <source>… to GeoJSON file</source>
         <translation>... do pliku GeoJSON</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="153"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="177"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="155"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="179"/>
         <source>Aborted</source>
         <translation>Przerwane</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="162"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="186"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="164"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="188"/>
         <source>Waypoint library shared</source>
         <translation>Biblioteka punktów podzielona</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="164"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="188"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="166"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="190"/>
         <source>Waypoint library exported</source>
         <translation>Biblioteka punktów wyeksportowana</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="169"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="171"/>
         <source>… to GPX file</source>
         <translation>... do pliku GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="194"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="196"/>
         <source>Open in Other App…</source>
         <translation>Otwórz w innej aplikacji...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="198"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="200"/>
         <source>… in GeoJSON format</source>
         <translation>... w formacie GeoJSON</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="210"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="227"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="212"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="229"/>
         <source>Waypoint library opened in other app</source>
         <translation>Biblioteka punktów otwarta w innej aplikacji</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="215"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="217"/>
         <source>… in GPX format</source>
         <translation>... w formacie GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="236"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="238"/>
         <source>Clear</source>
         <translation>Wyczyść</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="336"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="338"/>
         <source>Filter by Name</source>
         <translation>Filtruj po nazwie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="375"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="377"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, choose &apos;Add Waypoint&apos; below or double-tap on a point in the moving map.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Brak dostępnych punktów trasy. Aby dodać punkt trasy, wybierz „Dodaj punkt trasy&quot; poniżej lub dwukrotnie dotknij punktu na ruchomej mapie.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="376"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="378"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Żaden punkt trasy nie odpowiada Twojemu filtrowi.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="393"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="477"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="395"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="479"/>
         <source>Add Waypoint</source>
         <translation>Dodaj Punkt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="486"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="488"/>
         <source>Waypoint added</source>
         <translation>Punkt trasy został dodany</translation>
     </message>
@@ -9040,7 +9121,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Filtruj po nazwach Punktów Orientacyjnych</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="303"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="305"/>
         <source>Remove…</source>
         <translation>Usuń...</translation>
     </message>
@@ -9053,42 +9134,42 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Żaden punkt orientacyjny nie spełnia Twoich kryteriów filtrowania.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="416"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="418"/>
         <source>Error Exporting Data…</source>
         <translation>Błąd eksportowania danych...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="425"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="427"/>
         <source>Remove from Device?</source>
         <translation>Usunąć z urządzenia?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="426"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="428"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Po usunięciu punktu &lt;strong&gt;%1&lt;/strong&gt;, nie może być już odtworzony.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="434"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="436"/>
         <source>Waypoint removed from device</source>
         <translation>Punkt orientacyjny usunięty z urządzenia</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="446"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="448"/>
         <source>Clear Waypoint Library?</source>
         <translation>Wyczyścić bibliotekę punktów?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="449"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="451"/>
         <source>Once cleared, the library cannot be restored.</source>
         <translation>Po usunięciu, biblioteka nie może być odtworzona.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="455"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="457"/>
         <source>Waypoint library cleared</source>
         <translation>Biblioteka punktów wyczyszczona</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="469"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="471"/>
         <source>Waypoint modified</source>
         <translation>Punkt orientacyjny zmodyfikowany</translation>
     </message>
