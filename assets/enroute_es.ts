@@ -925,7 +925,7 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
         <source>Bluetooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="242"/>
@@ -2219,12 +2219,12 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="104"/>
         <source>Import files</source>
-        <translation type="unfinished">Importar archivos</translation>
+        <translation>Importar archivos</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="105"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
-        <translation type="unfinished">Localice su archivo en el navegador, luego seleccione &quot;Abrir con&quot; en el menú para compartir y elija Enroute.</translation>
+        <translation>Localice su archivo en el navegador, luego seleccione &quot;Abrir con&quot; en el menú para compartir y elija Enroute.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="118"/>
@@ -3242,12 +3242,12 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="303"/>
         <source>Enroute Flight Navigation now offers ICAO and Glider Charts for Switzerland. To download these maps, open the main menu and go to Library/Maps and Data. We thank the swiss Federal Office of Topography and the Federal Office of Civil Aviation for making the maps publicly available. Use these maps for information only. The &lt;a href=&apos;https://www.geo.admin.ch/en/general-terms-of-use-fsdi&apos;&gt;license conditions&lt;/a&gt; do not allow operational use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation ahora ofrece cartas OACI y de planeadores para Suiza. Para descargar estos mapas, abra el menú principal y vaya a Biblioteca/Mapas y Datos. Agradecemos a la Oficina Federal de Topografía y a la Oficina Federal de Aviación Civil de Suiza por poner los mapas a disposición del público. Úselos solo con fines informativos. Las &lt;a href=&apos;https://www.geo.admin.ch/en/general-terms-of-use-fsdi&apos;&gt;condiciones de la licencia&lt;/a&gt; no permiten su uso operativo.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="309"/>
         <source>&lt;strong&gt;Technology Preview:&lt;/strong&gt; Enroute Flight Navigation is now able to connect to traffic data receivers via Bluetooth Low Energy. Please try the new feature and send us your feedback!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Avance tecnológico:&lt;/strong&gt; Enroute Flight Navigation ahora puede conectarse a receptores de datos de tráfico mediante Bluetooth de bajo consumo. ¡Pruebe la nueva función y envíenos sus comentarios!</translation>
     </message>
     <message>
         <source>The server forwards requests for METARs and TAFs to a web service at the Aviation Weather Center but hides your IP address, so the web service will never see it.</source>
@@ -5371,7 +5371,8 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="56"/>
         <source>Bluetooth Low Energy Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Tráfico::Información de conexión</translatorcomment>
+        <translation>Dispositivo Bluetooth de bajo consumo</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="61"/>
@@ -6960,12 +6961,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="51"/>
         <source>Bluetooth LE connection to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Conexión Bluetooth LE a %1</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="78"/>
         <source>Necessary permission have been denied.</source>
-        <translation type="unfinished">Se ha negado el permiso necesario.</translation>
+        <translation>Se ha negado el permiso necesario.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="118"/>
@@ -7021,47 +7022,47 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="154"/>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="161"/>
         <source>No UART service found.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se encontró ningún servicio UART.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="165"/>
         <source>UART service found. Requesting service characteristics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Servicio UART encontrado. Se solicitan características del servicio.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="176"/>
         <source>Invalid Service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Servicio inválido.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="179"/>
         <source>Service details unknown.</source>
-        <translation type="unfinished"></translation>
+        <translation>Detalles del servicio desconocidos.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="182"/>
         <source>Requesting service details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Solicitando detalles del servicio.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="193"/>
         <source>The NUS service does not contain the TX characteristic.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servicio NUS no contiene la característica TX.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="199"/>
         <source>Cannot open the client characteristic configuration descriptor.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir el descriptor de configuración característico del cliente.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="206"/>
         <source>The NUS service is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servicio NUS no está disponible.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="210"/>
         <source>Data transfer enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Transferencia de datos habilitada.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="218"/>
