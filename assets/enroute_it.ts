@@ -987,7 +987,7 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
         <source>Bluetooth</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="242"/>
@@ -2724,12 +2724,12 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="104"/>
         <source>Import files</source>
-        <translation type="unfinished"></translation>
+        <translation>Importa file</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="105"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
-        <translation type="unfinished">Trova il tuo file nel browser, scegli &apos;Apri con&apos; dal menù Condividi, quindi scegli Enroute</translation>
+        <translation>Trova il tuo file nel browser, scegli &apos;Apri con&apos; dal menù Condividi, quindi scegli Enroute</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="118"/>
@@ -3690,12 +3690,12 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="303"/>
         <source>Enroute Flight Navigation now offers ICAO and Glider Charts for Switzerland. To download these maps, open the main menu and go to Library/Maps and Data. We thank the swiss Federal Office of Topography and the Federal Office of Civil Aviation for making the maps publicly available. Use these maps for information only. The &lt;a href=&apos;https://www.geo.admin.ch/en/general-terms-of-use-fsdi&apos;&gt;license conditions&lt;/a&gt; do not allow operational use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation adesso offre le carte alianti e ICAO per la Svizzera. Per scaricare queste mappe, apri il menu principare e vai su Archivio - Mappe e dati. Ringraziamo l&apos;Ufficio Federale della Topografia svizzero e l&apos;Ufficio Federale dell&apos;Aviazione Civile per rendere le mappe disponibili al pubblico. L&apos;uso di queste mappe è solo informativo. Le &lt;a href=&apos;https://www.geo.admin.ch/en/general-terms-of-use-fsdi&apos;&gt;condizioni della licenza&lt;/a&gt; non consentono l&apos;uso operativo.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="309"/>
         <source>&lt;strong&gt;Technology Preview:&lt;/strong&gt; Enroute Flight Navigation is now able to connect to traffic data receivers via Bluetooth Low Energy. Please try the new feature and send us your feedback!</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Anteprima tecnica:&lt;/strong&gt; Enroute Flight Navigation è adesso capace di connettersi a ricevitori di traffico via bluetooth a basso consumo. Prova la nuova capacità e inviaci il tuo feedback!</translation>
     </message>
     <message>
         <source>The server forwards requests for METARs and TAFs to a web service at the Aviation Weather Center but hides your IP address, so the web service will never see it.</source>
@@ -6149,7 +6149,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="56"/>
         <source>Bluetooth Low Energy Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo Bluetooth a basso consumo</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="61"/>
@@ -7816,12 +7816,12 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="51"/>
         <source>Bluetooth LE connection to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Connessione Bluetooth LE a %1</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="78"/>
         <source>Necessary permission have been denied.</source>
-        <translation type="unfinished">Il permesso necessario è stato negato.</translation>
+        <translation>Il permesso necessario è stato negato.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="118"/>
@@ -7877,47 +7877,47 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="154"/>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="161"/>
         <source>No UART service found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun servizio UART trovato.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="165"/>
         <source>UART service found. Requesting service characteristics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il servizio UART è stato trovato. Richiesta caratteristiche del servizio in corso.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="176"/>
         <source>Invalid Service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Servizio non valido.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="179"/>
         <source>Service details unknown.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dettagli del servizio sconosciuti.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="182"/>
         <source>Requesting service details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Richiesta caratteristiche del servizio in corso.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="193"/>
         <source>The NUS service does not contain the TX characteristic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il servizio NUS non contiene le caratteristiche TX.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="199"/>
         <source>Cannot open the client characteristic configuration descriptor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossibile aprire il descrittore della configurazione delle caratteristiche del client.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="206"/>
         <source>The NUS service is not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Servizio NUS non disponibile.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="210"/>
         <source>Data transfer enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Trasferimento dati abilitato.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="218"/>
