@@ -3245,7 +3245,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="310"/>
         <source>Due to a change in Google&apos;s policies, it is no longer possible to share locations from the apps &apos;Google Maps&apos; and &apos;Google Maps Go&apos; with Enroute Flight Navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Debido a un cambio en las políticas de Google, ya no es posible compartir ubicaciones de las aplicaciones &apos;Google Maps&apos; y &apos;Google Maps Go&apos; con Enroute Flight Navigation.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="313"/>
