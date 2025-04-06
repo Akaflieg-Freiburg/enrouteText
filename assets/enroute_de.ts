@@ -3763,7 +3763,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="310"/>
-        <source>Due to a change in Google&apos;s policies, it is no longer possible to share locations from the apps &apos;Google Maps&apos; and &apos;Google Maps Go&apos;″ with Enroute Flight Navigation.</source>
+        <source>Due to a change in Google&apos;s policies, it is no longer possible to share locations from the apps &apos;Google Maps&apos; and &apos;Google Maps Go&apos; with Enroute Flight Navigation.</source>
         <translatorcomment>im Originaltext ist ein &quot; zuviel</translatorcomment>
         <translation>Seit einer Änderung der Google-Richtlinien können leider keine Orte aus &apos;Google Maps&apos; und &apos;Google Maps Go&apos; mehr in Enroute Flight Navigation aufgerufen werden.</translation>
     </message>
