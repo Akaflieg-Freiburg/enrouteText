@@ -2580,7 +2580,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="310"/>
         <source>Due to a change in Google&apos;s policies, it is no longer possible to share locations from the apps &apos;Google Maps&apos; and &apos;Google Maps Go&apos; with Enroute Flight Navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>En raison d&apos;un changement dans les politiques de Google, il n&apos;est plus possible de partager les emplacements des applications «&#xa0;Google Maps&#xa0;» et «&#xa0;Google Maps Go&#xa0;» avec Enroute Flight Navigation.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="313"/>
