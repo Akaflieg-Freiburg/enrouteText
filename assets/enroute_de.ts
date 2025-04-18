@@ -6255,7 +6255,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="153"/>
         <source>TCP Connection to %1, Port %2</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>TCP-Verbindung zu %1, Port %2</translation>
     </message>
     <message>
         <source>TCP Connection to %1, Port %1</source>
