@@ -2257,17 +2257,17 @@ z danymi konta bankowego.
         <translation type="vanished">Trasa Lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="82"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="84"/>
         <source>Move Up</source>
         <translation>Przesuń do góry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="94"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="96"/>
         <source>Move Down</source>
         <translation>Przesuń w dół</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="106"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="108"/>
         <source>Remove</source>
         <translation>Usuń</translation>
     </message>
@@ -2292,19 +2292,19 @@ z danymi konta bankowego.
         <translation type="vanished">Export ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="309"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="311"/>
         <source>… to GeoJSON file</source>
         <translation>... do pliku GeoJSON</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="317"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="341"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="319"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="343"/>
         <source>Aborted</source>
         <translation>Przerwane</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="326"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="350"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="328"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="352"/>
         <source>Flight route shared</source>
         <translation>Plan lotu przekazany dalej</translation>
     </message>
@@ -2313,22 +2313,22 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;h3&gt;Pusta Trasa&lt;/h3&gt;&lt;p&gt;Użyj przycisku &lt;strong&gt;Dodaj Punkt&lt;/strong&gt; poniżej.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="678"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="680"/>
         <source>One waypoint: direct route from ownship position</source>
         <translation>Jeden punkt trasy: bezpośrednia trasa z własnej pozycji</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="867"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="870"/>
         <source>Clear Route?</source>
         <translation>Wyczyścić plan lotu?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="875"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="878"/>
         <source>Flight route cleared</source>
         <translation>Plan lotu wyczyszczony</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="333"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="335"/>
         <source>… to GPX file</source>
         <translation>... do pliku GPX</translation>
     </message>
@@ -2338,12 +2338,12 @@ z danymi konta bankowego.
         <translation>Plan lotu i wiatr</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="123"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="125"/>
         <source>Add to waypoint library</source>
         <translation>Dodaj do biblioteki punktów</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="136"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="138"/>
         <source>Added %1 to waypoint library.</source>
         <translation>Dodano %1 do biblioteki punktów.</translation>
     </message>
@@ -2352,27 +2352,27 @@ z danymi konta bankowego.
         <translation type="vanished">Otwórz w innej aplikacji ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="362"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="364"/>
         <source>… in GeoJSON format</source>
         <translation>... w formacie GeoJSON</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="379"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="381"/>
         <source>… in GPX format</source>
         <translation>... w formacie GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="400"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="402"/>
         <source>Clear</source>
         <translation>Wyczyść</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="412"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="414"/>
         <source>Reverse</source>
         <translation>Odwróć</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="437"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="439"/>
         <source>Route</source>
         <translation>Trasa</translation>
     </message>
@@ -2381,7 +2381,7 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;h2&gt;Pusta Trasa&lt;/h2&gt;&lt;p&gt;Użyj przycisku &lt;strong&gt;Dodaj Punkt&lt;/strong&gt; poniżej.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="553"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="555"/>
         <source>Direction from</source>
         <translation>Kierunek z</translation>
     </message>
@@ -2390,136 +2390,136 @@ z danymi konta bankowego.
         <translation type="vanished">niezdefiniowano</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="438"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="543"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="440"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="545"/>
         <source>Wind</source>
         <translation>Wiatr</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="233"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="235"/>
         <source>View Library…</source>
         <translation>Zobacz bibliotekę ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="242"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="244"/>
         <source>Save to library…</source>
         <translation>Zapisz do biblioteki ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="258"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="260"/>
         <source>Import…</source>
         <translation>Import ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="266"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="268"/>
         <source>Import files</source>
         <translation>Importuj pliki</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="267"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="269"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
         <translation>Znajdź swój plik w przeglądarce, wybierz opcję „Otwórz za pomocą” z menu udostępniania i wybierz opcję Enroute</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="279"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="281"/>
         <source>Import</source>
         <translation>Import</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="280"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="282"/>
         <source>Cancel</source>
         <translation>Anuluj</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="287"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="289"/>
         <source>FPL File (*.fpl)</source>
         <translation>Plik FPL (*.fpl)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="288"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="290"/>
         <source>GeoJSON File (*.geojson *.json)</source>
         <translation>Plik GeoJSON (*.geojson *.json)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="289"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="291"/>
         <source>GPX File (*.gpx)</source>
         <translation>Plik GPX (*.gpx)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="290"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="292"/>
         <source>PLN File (*.pln)</source>
         <translation>Plik PLN (*.pln)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="305"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="307"/>
         <source>Share…</source>
         <translation>Udostępnij ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="305"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="307"/>
         <source>Export…</source>
         <translation>Export ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="328"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="352"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="330"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="354"/>
         <source>Flight route exported</source>
         <translation>Plan lotu wyeksportowany</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="358"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="360"/>
         <source>Open in Other App…</source>
         <translation>Otwórz w innej aplikacji ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="374"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="391"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="376"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="393"/>
         <source>Flight route opened in other app</source>
         <translation>Plan lotu otwarty w innej aplikacji</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="419"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="421"/>
         <source>Flight route reversed</source>
         <translation>Plan lotu odwrócony</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="470"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="472"/>
         <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below or double click on any point in the moving map.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Pusta trasa&lt;/h3&gt;&lt;p&gt;Użyj przycisku &lt;strong&gt;Dodaj punkt trasy&lt;/strong&gt; poniżej lub podwójnie kliknij na dowolnym punkcie na mapie.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="718"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="849"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="721"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="852"/>
         <source>Add Waypoint to Route</source>
         <translation>Dodaj Punkt Orientacyjny do Trasy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="747"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="750"/>
         <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
         <translation>Wybierz punkt trasy z poniższej listy lub &lt;a href=&apos;xx&apos;&gt;wprowadź współrzędne ręcznie&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="768"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="771"/>
         <source>Filter by Name</source>
         <translation>Filtruj po nazwie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="788"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="791"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Żaden punkt trasy nie odpowiada Twojemu filtrowi.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="825"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="828"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Nie ma żadnych punktów orientacyjnych. Upewnij się, że mapa lotnicza jest zainstalowana.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="826"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="829"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Brak punktów trasy odpowiadających kryteriom filtrowania.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="897"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="900"/>
         <source>Error Exporting Data…</source>
         <translation>Błąd przy eksportowaniu danych...</translation>
     </message>
@@ -2528,12 +2528,12 @@ z danymi konta bankowego.
         <translation type="vanished">Kierunek</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="585"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="587"/>
         <source>Speed</source>
         <translation>Prędkość</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="704"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="706"/>
         <source>Add Waypoint</source>
         <translation>Dodaj Punkt</translation>
     </message>
@@ -2542,7 +2542,7 @@ z danymi konta bankowego.
         <translation type="vanished">Wyczyścić plan lotu?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="870"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="873"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>Raz wymazana, obecna trasa nie będzie mogła zostać przywrócona.</translation>
     </message>
@@ -3061,67 +3061,67 @@ z danymi konta bankowego.
         <translation type="vanished">Zawsze otwieraj zewnętrzne strony internetowe, nie pytaj ponownie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="207"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="143"/>
         <source>Import Waypoint Data</source>
         <translation>Import danych punktów orientacyjnych</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="208"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="144"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
         <translation>Plik zawiera listę punktów orientacyjnych. Importować jako trasę lotu lub dodać do biblioteki punktów orientacyjnych?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="216"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="152"/>
         <source>Route</source>
         <translation>Trasa</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="231"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="167"/>
         <source>Library</source>
         <translation>Biblioteka</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="249"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="185"/>
         <source>Import Airspace Data</source>
         <translation>Importuj dane przestrzeni powietrznych</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="303"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="239"/>
         <source>Airspace data imported</source>
         <translation>Dane przestrzeni powietrznych zaimportowane</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="310"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="246"/>
         <source>Import Visual Approach Chart</source>
         <translation>Importuj wykres podejścia wizualnego</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="325"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="261"/>
         <source>Enter a name for this chart. Existing approach charts with the same name will be overwritten.</source>
         <translation>Wprowadź nazwę tego wykresu. Istniejące mapy podejścia o tej samej nazwie zostaną nadpisane.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="357"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="293"/>
         <source>Visual approach chart data imported</source>
         <translation>Zaimportowano dane mapy podejścia z widocznością</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="364"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="300"/>
         <source>Import Raster Map</source>
         <translation>Importuj mapę rastrową</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="499"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="435"/>
         <source>Skip over waypoints that already exist in the library</source>
         <translation>Pomiń punkty orientacyjne, które już istnieją w bibliotece</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="595"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="531"/>
         <source>Stand by</source>
         <translation>Oczekiwanie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="607"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="543"/>
         <source>Extracting and converting files from the trip kit. Please do not interrupt or close the app.</source>
         <translation>Rozpakowywanie i konwersja plikóœ z pakietu trasy. Prosimy nie przerywać lub zamykać aplikacji.</translation>
     </message>
@@ -3130,9 +3130,9 @@ z danymi konta bankowego.
         <translation type="vanished">Wyodrębnianie i konwertowanie plików z zestawu podróżnego.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="259"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="374"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="435"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="195"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="310"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="371"/>
         <source>Enter a name for this map.</source>
         <translation>Wprowadź nazwę dla tej mapy.</translation>
     </message>
@@ -3141,32 +3141,32 @@ z danymi konta bankowego.
         <translation type="vanished">Nazwa mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="397"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="333"/>
         <source>To avoid conflicts, vector maps will be not be shown while raster maps are installed.</source>
         <translation>Aby uniknąć konfliktów, mapy wektorowe nie będą wyświetlane, gdy zainstalowane są mapy rastrowe.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="487"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="423"/>
         <source>Import Waypoint Library</source>
         <translation>Importuj bibliotekę punktów orientacyjnych</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="555"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="491"/>
         <source>Import Trip Kit?</source>
         <translation>Zaimportować zestaw podróżny?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="559"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="495"/>
         <source>This might overwrite some approach charts.</source>
         <translation>Może to nadpisać niektóre wykresy podejścia.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="571"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="507"/>
         <source>Trip kit imported</source>
         <translation>Zestaw podróżny zaimportowany</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="581"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="517"/>
         <source>Data Import Error</source>
         <translation>Błąd importu danych</translation>
     </message>
@@ -3179,22 +3179,22 @@ z danymi konta bankowego.
         <translation type="vanished">Aby uniknąć konfliktów pomiędzy mapami rastrowymi i wektorowymi, wszystkie mapy wektorowe zostaną odinstalowane.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="418"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="354"/>
         <source>Raster map imported</source>
         <translation>Mapa rastrowa została zaimportowana</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="425"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="361"/>
         <source>Import Vector Map</source>
         <translation>Importuj mapę wektorową</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="458"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="394"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
         <translation>Aby uniknąć konfliktów pomiędzy mapami rastrowymi i wektorowymi, wszystkie mapy rastrowe zostaną odinstalowane.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="479"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="415"/>
         <source>Vector map imported</source>
         <translation>Mapa wektorowa została zaimportowana</translation>
     </message>
@@ -3207,22 +3207,22 @@ z danymi konta bankowego.
         <translation type="vanished">Pomiń punkt orientacyjny, który już istnieje w bibliotece</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="518"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="454"/>
         <source>Waypoints imported</source>
         <translation>Punkty orientacyjne zaimportowane</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="525"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="461"/>
         <source>Import Flight Route?</source>
         <translation>Zaimportować plan lotu?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="529"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="465"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>To nadpisze obecną trasę. Raz nadpisana obecna trasa lotu nie może zostać odzyskana.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="548"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="484"/>
         <source>Flight route imported</source>
         <translation>Plan lotu zaimportowany</translation>
     </message>
@@ -4466,52 +4466,52 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
 Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stronę z zarządzaniem mapami.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="603"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="598"/>
         <source>There is no aviation map installed.</source>
         <translation>Brak zainstalowanych map lotnicznych.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="605"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="600"/>
         <source>Please wait for the download to complete.</source>
         <translation>Proszę zaczekaj na zakończenie pobierania.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="606"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="601"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
         <translation>Aby zainstalować mapę, otwórz menu za pomocą przycisku menu w lewym górnym rogu tego ekranu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="607"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="602"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
         <translation>Wybierz &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; aby otworzyć stronę zarządzania mapami.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="724"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="719"/>
         <source>Airspaces up to %1</source>
         <translation>Przestrzenie powietrzne do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="727"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="722"/>
         <source>Downloading Maps and Data</source>
         <translation>Pobieranie map i danych</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="753"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="748"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Dane mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="806"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="801"/>
         <source>Map Mode: Track Up</source>
         <translation>Tryb mapy: trasa u góry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="809"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="804"/>
         <source>Map Mode: North Up</source>
         <translation>Tryb mapy: Północ u góry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="677"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="672"/>
         <source>Map Mode: Autopan</source>
         <translation>Tryb mapy: Automatycznie</translation>
     </message>
@@ -4520,7 +4520,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
         <translation type="vanished">Dane mapy - informacje o prawach autorskich</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="761"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="756"/>
         <source>Map Data Copyright Information</source>
         <translation>Dane mapy - informacje o prawach autorskich</translation>
     </message>
@@ -6235,12 +6235,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="153"/>
-        <source>TCP Connection to %1, Port %1</source>
+        <source>TCP Connection to %1, Port %2</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation>Połączenie TCP z %1, port %1</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.h" line="288"/>
+        <source>TCP Connection to %1, Port %1</source>
+        <comment>Traffic::ConnectionInfo</comment>
+        <translation type="vanished">Połączenie TCP z %1, port %1</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/ConnectionInfo.h" line="302"/>
         <source>Invalid Device</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translation>Nieprawidłowe urządzenie</translation>
@@ -7167,9 +7172,8 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Nieprawidłowe połączenie.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="137"/>
         <source>Unable to add TCP connection. This is not implemented at the moment.</source>
-        <translation>Nie można dodać połączenia TCP. W tej chwili nie jest to realizowane.</translation>
+        <translation type="vanished">Nie można dodać połączenia TCP. W tej chwili nie jest to realizowane.</translation>
     </message>
     <message>
         <source>Unable to add UDP connection. This is not implemented at the moment.</source>
