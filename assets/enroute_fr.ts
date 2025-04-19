@@ -4104,7 +4104,8 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="153"/>
         <source>TCP Connection to %1, Port %2</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Trafic::Informations de connexion</translatorcomment>
+        <translation>Connexion TCP à %1, port %2</translation>
     </message>
     <message>
         <source>TCP Connection to %1, Port %1</source>
