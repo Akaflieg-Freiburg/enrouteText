@@ -4434,7 +4434,8 @@ con i dati del conto bancario.
 </source>
         <translatorcomment>Entry stays yellow. Please remove &apos;enter&apos; at the end of the ENG version (or add it at the end of ITA one).</translatorcomment>
         <translation>
-&lt;li&gt;&lt;strong&gt;Francese:&lt;/strong&gt; Adrien Crovato e Luca Riva. Entrambi sono piloti privati e ingegneri aerospaziali. Luca fa anche acrobazie.&lt;/li&gt;</translation>
+&lt;li&gt;&lt;strong&gt;Francese:&lt;/strong&gt; Adrien Crovato e Luca Riva. Entrambi sono piloti privati e ingegneri aerospaziali. Luca fa anche acrobazie.&lt;/li&gt;
+</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Privacy Warning&lt;/h3&gt;
@@ -6243,7 +6244,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="153"/>
         <source>TCP Connection to %1, Port %2</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Connessione TCP a %1, Porta %2</translation>
     </message>
     <message>
         <source>TCP Connection to %1, Port %1</source>
@@ -6527,7 +6528,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <source>Cannot parse PLN file %1 for XML.</source>
         <comment>FileFormats::PLN</comment>
         <translatorcomment>Formati file::PLN</translatorcomment>
-        <translation>Non posso elaborare il file %1 per XML</translation>
+        <translation>Non posso elaborare il file %1 per XML.</translation>
     </message>
     <message>
         <source>File %1 does not contain a flight plan</source>
