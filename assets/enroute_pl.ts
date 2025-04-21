@@ -6237,7 +6237,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="153"/>
         <source>TCP Connection to %1, Port %2</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Połączenie TCP do %1, Port %2</translation>
     </message>
     <message>
         <source>TCP Connection to %1, Port %1</source>
