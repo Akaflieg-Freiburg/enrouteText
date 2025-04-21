@@ -3441,7 +3441,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <source>Christian Engelhardt started the implementation of height density calculation. Christian is a PPL pilot in southern germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
-        <translation type="vanished">Christian Engelhardt machte den ersten Teil der Dichtehöhe-Berechnung. Er ist PPL-Pilot in Süddeutschland, studierter Ingenieur der Elektrotechnik und arbeitet als Softewareingenieur für eingebettete Systeme.</translation>
+        <translation type="vanished">Christian Engelhardt machte den ersten Teil der Dichtehöhe-Berechnung. Er ist PPL-Pilot in Süddeutschland, studierter Ingenieur der Elektrotechnik und arbeitet als Softwareingenieur für eingebettete Systeme.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="77"/>
@@ -3459,7 +3459,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <source>
-&lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Italienisch:&lt;/strong&gt; Ivan Battistella and Antonio Fardella.  Antonio is a naval aviator with a passion for everything challenging.&lt;/li&gt;
 </source>
         <translation type="vanished">&lt;li&gt;&lt;strong&gt;Italienisch:&lt;/strong&gt; Ivan Battistella und Antonio Fardella. Antonio ist Marineflieger mit einer Leidenschaft für Herausforderungen.&lt;/li&gt;</translation>
     </message>
