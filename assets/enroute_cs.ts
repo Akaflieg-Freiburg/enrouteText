@@ -1762,27 +1762,27 @@ Message: Enroute Flight Navigation
         <translation>Uložit trať…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="63"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="60"/>
         <source>Enter a name or choose an existing name from the list below.</source>
         <translation>Zadejte název, nebo vyberte stávající název ze seznamu níže.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="131"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="128"/>
         <source>Flight route %1 saved</source>
         <translation>Trať %1 uložena</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="137"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="134"/>
         <source>An Error Occurred…</source>
         <translation>Nastala chyba…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="144"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="141"/>
         <source>Overwrite Flight Route?</source>
         <translation>Přepsat trať?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="147"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="144"/>
         <source>The route &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
         <translation>Trať &lt;strong&gt;%1&lt;/strong&gt; již v knihovně existuje. Chcete jí přepsat?</translation>
     </message>
@@ -4113,7 +4113,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="146"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="526"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="495"/>
         <source>Airspace Altitude Limit</source>
         <translation>Výšková hranice vzdušného prostoru</translation>
     </message>
@@ -4146,7 +4146,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="186"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="198"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="490"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="459"/>
         <source>Font Size</source>
         <translation>Velikost písma</translation>
     </message>
@@ -4169,7 +4169,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="229"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="241"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="651"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="620"/>
         <source>Voice Notifications</source>
         <translation>Hlasové notifikace</translation>
     </message>
@@ -4294,143 +4294,139 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation>Připojit k leteckému limulátoru...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="428"/>
         <source>Terrain Data Missing</source>
-        <translation>Chybí údaje o terénu</translation>
+        <translation type="vanished">Chybí údaje o terénu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="429"/>
         <source>The height above ground level cannot be computed for your current position, because the relevant terrain maps for your region have not been installed.</source>
-        <translation>Výška nad zemí pro vaší současnou polohu nemůže být vypočítána, protože nebyly nainstalovány odpovídající mapy s  údaji o terénu pro váší oblast.</translation>
+        <translation type="vanished">Výška nad zemí pro vaší současnou polohu nemůže být vypočítána, protože nebyly nainstalovány odpovídající mapy s  údaji o terénu pro váší oblast.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="433"/>
         <source>Install now</source>
-        <translation>Teď nainstalovat</translation>
+        <translation type="vanished">Teď nainstalovat</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="437"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="472"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="441"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="459"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="428"/>
         <source>Clear Password Storage?</source>
         <translation>Smazat všechna uložená hesla?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="462"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="431"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
         <translation>Jakmile budou hesla smazána, již nebudou moci být použita.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="467"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="436"/>
         <source>Clear</source>
         <translation>Smazat vše</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="480"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="449"/>
         <source>Password storage cleared</source>
         <translation>Hesla odstraněna</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="511"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="480"/>
         <source>Normal</source>
         <translation>Normální</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="516"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="485"/>
         <source>Huge</source>
         <translation>Obří</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="536"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="505"/>
         <source>Set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit.</source>
         <translation>Nastavit výškové omezení pro zlepšení přehlednosti pohyblivé mapy. Po nastavení bude aplikace zobrazovat pouze vzdušné prostory pod tímto limitem.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="544"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="513"/>
         <source>Set altitude limit</source>
         <translation>Nastavit výškový limit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="570"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="539"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
         <translation>Zobrazit vzdušné prostory do %1 ft / %2 m.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="572"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="541"/>
         <source>No limit, all airspaces shown</source>
         <translation>Bez omezení, zobrazeny všechny vzdušné prostory</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="581"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="550"/>
         <source>Cannot set reasonable airspaces altitude limit because the present own altitude is too high.</source>
         <translation>Nelze nastavit rozumný výškový limit vzdušnách prostorů - současná výška je příliš velká.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="610"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="579"/>
         <source>Position Data Source</source>
         <translation>Zdroj polohy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="617"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="586"/>
         <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
         <translation>Většina uživatelů volí vestavěnou GPS. Použijte přijímač leteckého provozu v případě, že vaše vestavěná GPS má problémy s příjmem signálu, nebo pokud používáte tuto aplikaci v kombinaci s leteckým simulátorem.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="624"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="593"/>
         <source>Built-in Satnav Receiver</source>
         <translation>Vestavěné GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="632"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="601"/>
         <source>Traffic Data Receiver (when available)</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="671"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="640"/>
         <source>Choose the category of voice notifications that you would like to hear.</source>
         <translation>Vyberte hlasové notifikace, které byste rádi slyšeli.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="678"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="647"/>
         <source>Voice Test</source>
         <translation>Test hlasových notifikací</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="696"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="665"/>
         <source>Speech engine not yet initialized.</source>
         <translation>Hlasový generátor neinicializován.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="700"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="669"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="713"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="682"/>
         <source>Information • Generic</source>
         <translation>Informace • Obecné</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="718"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="687"/>
         <source>Information • Navigation</source>
         <translation>Informace • Navigační</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="723"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="692"/>
         <source>Warning • Generic</source>
         <translation>Varování • Obecné</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="728"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="697"/>
         <source>Warning • Navigation</source>
         <translation>Varování • Navigační</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="733"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="702"/>
         <source>Alert</source>
         <translation>Upozornění</translation>
     </message>

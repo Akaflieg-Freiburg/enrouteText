@@ -1798,27 +1798,27 @@ Message: Enroute Flight Navigation
         <translation>Sauvegarder la route…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="63"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="60"/>
         <source>Enter a name or choose an existing name from the list below.</source>
         <translation>Entrez un nom ou choisissez un nom existant depuis la liste ci-dessous.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="131"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="128"/>
         <source>Flight route %1 saved</source>
         <translation>Route %1 sauvée</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="137"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="134"/>
         <source>An Error Occurred…</source>
         <translation>Une erreur s&apos;est produite...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="144"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="141"/>
         <source>Overwrite Flight Route?</source>
         <translation>Ecraser la route ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="147"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="144"/>
         <source>The route &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
         <translation>La route &lt;strong&gt;%1&lt;/strong&gt; existe déjà. Voulez-vous l&apos;écraser ?</translation>
     </message>
@@ -4387,7 +4387,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="186"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="198"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="490"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="459"/>
         <source>Font Size</source>
         <translation>Taille de police</translation>
     </message>
@@ -4399,7 +4399,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="229"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="241"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="651"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="620"/>
         <source>Voice Notifications</source>
         <translation>Notifications vocales</translation>
     </message>
@@ -4450,74 +4450,74 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Connectez-vous à un simulateur de vol…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="511"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="480"/>
         <source>Normal</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="516"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="485"/>
         <source>Huge</source>
         <translation>Grand</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="572"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="541"/>
         <source>No limit, all airspaces shown</source>
         <translation>Pas de limite, tous les espaces aériens sont affichés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="671"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="640"/>
         <source>Choose the category of voice notifications that you would like to hear.</source>
         <translation>Choisissez la catégorie de notifications vocales que vous souhaitez entendre.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="678"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="647"/>
         <source>Voice Test</source>
         <translation>Essai vocal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="696"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="665"/>
         <source>Speech engine not yet initialized.</source>
         <translation>Moteur vocal pas encore installé.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="700"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="669"/>
         <source>Error</source>
         <translation>Erreur</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="713"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="682"/>
         <source>Information • Generic</source>
         <translation>Informations • Générique</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="718"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="687"/>
         <source>Information • Navigation</source>
         <translation>Informations • Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="723"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="692"/>
         <source>Warning • Generic</source>
         <translation>Avertissement • Générique</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="728"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="697"/>
         <source>Warning • Navigation</source>
         <translation>Avertissement • Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="733"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="702"/>
         <source>Alert</source>
         <translation>Alerte</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="146"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="526"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="495"/>
         <source>Airspace Altitude Limit</source>
         <translation>Limite d&apos;altitude pour les espaces aériens</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="624"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="593"/>
         <source>Built-in Satnav Receiver</source>
         <translation>Récepteur satellite natif</translation>
     </message>
@@ -4532,33 +4532,29 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Comme nous nous attendons à ce que tout le monde n&apos;aime pas cette fonctionnalité, son bouton permet d&apos;activer et de désactiver la notification vocale.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="428"/>
         <source>Terrain Data Missing</source>
-        <translation>Données de terrain manquantes</translation>
+        <translation type="vanished">Données de terrain manquantes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="429"/>
         <source>The height above ground level cannot be computed for your current position, because the relevant terrain maps for your region have not been installed.</source>
-        <translation>La hauteur au dessu du sol ne peut être calculée car les données de terrain sont manquantes.</translation>
+        <translation type="vanished">La hauteur au dessu du sol ne peut être calculée car les données de terrain sont manquantes.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="433"/>
         <source>Install now</source>
-        <translation>Installer maintenant</translation>
+        <translation type="vanished">Installer maintenant</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="462"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="431"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
         <translation>Une fois que les mots de passe ont été effacés, ils ne pourront plus être récupérés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="467"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="436"/>
         <source>Clear</source>
         <translation>Effacer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="437"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="472"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="441"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
@@ -4644,47 +4640,47 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Cette entrée est visible si vous vous êtes connecté à un récepteur de données de traffic nécessitant un mot de passe en plus du mot de passe du réseau WiFi, et si vous avez demandé à l&apos;app de retenir ce mot de passe. Appuyez sur cette entrée afin d&apos;effacer le mot de passe.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="459"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="428"/>
         <source>Clear Password Storage?</source>
         <translation>Effacer les mots de passe ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="480"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="449"/>
         <source>Password storage cleared</source>
         <translation>Mots de passe effacés</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="536"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="505"/>
         <source>Set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit.</source>
         <translation>Entrer une limite d&apos;altitude pour améliorer la lisibilité de la carte. Si une limité est entrée, l&apos;application n&apos;affichera que les espaces aériens sous cette limite.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="544"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="513"/>
         <source>Set altitude limit</source>
         <translation>Entrer une limite d&apos;altitude</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="570"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="539"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
         <translation>Afficher les espaces aériens jusqu&apos;à %1 ft / %2 m.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="581"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="550"/>
         <source>Cannot set reasonable airspaces altitude limit because the present own altitude is too high.</source>
         <translation>Impossible de régler la limite d&apos;altitude car l&apos;altitude propre est trop élevée.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="610"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="579"/>
         <source>Position Data Source</source>
         <translation>Source des données de positionement</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="617"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="586"/>
         <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
         <translation>Choisissez le récepteur de données de traffic si le système de positionement natif de votre appareil ne fonctionne pas ou si vous utilisez un simulateur de vol. Sinon, choissisez le système natif.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="632"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="601"/>
         <source>Traffic Data Receiver (when available)</source>
         <translation>Récepteur de données de traffic (si disponible)</translation>
     </message>
