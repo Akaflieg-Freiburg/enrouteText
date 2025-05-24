@@ -3688,7 +3688,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="303"/>
         <source>Enroute Flight Navigation is now available on Mac computers with Apple Silcon processor (M1 or newer). Download it on the App Store.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation è adesso disponibile per computer Mac con processore Apple Silcon (M1 o più nuovo). Scaricalo dalla App Store.</translation>
     </message>
     <message>
         <source>Enroute Flight Navigation now offers ICAO and Glider Charts for Switzerland. To download these maps, open the main menu and go to Library/Maps and Data. We thank the swiss Federal Office of Topography and the Federal Office of Civil Aviation for making the maps publicly available. Use these maps for information only. The &lt;a href=&apos;https://www.geo.admin.ch/en/general-terms-of-use-fsdi&apos;&gt;license conditions&lt;/a&gt; do not allow operational use.</source>
