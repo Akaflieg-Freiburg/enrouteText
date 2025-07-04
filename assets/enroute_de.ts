@@ -3829,6 +3829,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="303"/>
+        <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Consult the manual for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="307"/>
         <source>Enroute Flight Navigation is now available on Mac computers with Apple Silcon processor (M1 or newer). Download it on the App Store.</source>
         <translation>Enroute Flight Navigation gibt es nun auch für Mac-Computer mit dem Apple-Silcon-Prozessor (M1 oder neuer), herunterzuladen im App Store.</translation>
     </message>
@@ -3837,16 +3842,15 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Enroute Flight Navigation bietet nun ICAO- und Segelflugkarten für die Schweiz, zu laden über das Hauptmenü und dann Bibliothek/Karten und Daten. Wir danken Swisstopo und dem Schweizerischen Bundesamt für Zivilluftfahrt dafür, sie der Öffentlichkeit zur Verfügung zu stellen. Diese Karten dienen nur der Information. Die &lt;a href=&apos;https://www.geo.admin.ch/de/allgemeine-nutzungsbedingungen-bgdi&apos;&gt;Lizenzbedingungen&lt;/a&gt; erlauben keinen operativen Gebrauch.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="308"/>
+        <location filename="../../../src/Librarian.cpp" line="312"/>
         <source>Due to a change in Google&apos;s policies, it is no longer possible to share locations from the apps &apos;Google Maps&apos; and &apos;Google Maps Go&apos; with Enroute Flight Navigation.</source>
         <translatorcomment>im Originaltext ist ein &quot; zuviel</translatorcomment>
         <translation>Seit einer Änderung der Google-Richtlinien können leider keine Orte aus &apos;Google Maps&apos; und &apos;Google Maps Go&apos; mehr in Enroute Flight Navigation aufgerufen werden.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="311"/>
         <source>&lt;strong&gt;Technology Preview:&lt;/strong&gt; Enroute Flight Navigation is now able to connect to traffic data receivers via Bluetooth Low Energy. Please try the new feature and send us your feedback!</source>
         <translatorcomment>&quot;Preview&quot;, obwohl die Funktion doch schon da ist ... ?</translatorcomment>
-        <translation>&lt;strong&gt;Technik-Vorschau:&lt;/strong&gt; Enroute Flight Navigation kann sich jetzt über Bluetooth Low Energy mit Verkehrsdatenempfängern verbinden. Bitte testen Sie diese neue Funktion und geben Sie uns Rückmeldung!</translation>
+        <translation type="vanished">&lt;strong&gt;Technik-Vorschau:&lt;/strong&gt; Enroute Flight Navigation kann sich jetzt über Bluetooth Low Energy mit Verkehrsdatenempfängern verbinden. Bitte testen Sie diese neue Funktion und geben Sie uns Rückmeldung!</translation>
     </message>
     <message>
         <source>The server forwards requests for METARs and TAFs to a web service at the Aviation Weather Center but hides your IP address, so the web service will never see it.</source>

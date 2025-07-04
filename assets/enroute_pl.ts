@@ -3832,6 +3832,11 @@ z danymi konta bankowego.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="303"/>
+        <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Consult the manual for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="307"/>
         <source>Enroute Flight Navigation is now available on Mac computers with Apple Silcon processor (M1 or newer). Download it on the App Store.</source>
         <translation>Enroute Flight Navigation jest już dostępny na komputerach Mac z procesorem Apple Silicon (M1 lub nowszym). Pobierz go w App Store.</translation>
     </message>
@@ -3840,14 +3845,13 @@ z danymi konta bankowego.
         <translation type="vanished">Enroute Flight Navigation oferuje teraz mapy ICAO i Szybowcowe dla Szwajcarii. Aby pobrać te mapy, otwórz menu główne i przejdź do Biblioteka/Mapy i dane. Dziękujemy szwajcarskiemu Federalnemu biuru topografii i Federalnemu biuru lotnictwa cywilnego za udostępnienie map publicznie. Używaj tych map wyłącznie w celach informacyjnych. &lt;a href=&apos;https://www.geo.admin.ch/en/general-terms-of-use-fsdi&apos;&gt;warunki licencji&lt;/a&gt; nie zezwalają na użytkowanie operacyjne.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="308"/>
+        <location filename="../../../src/Librarian.cpp" line="312"/>
         <source>Due to a change in Google&apos;s policies, it is no longer possible to share locations from the apps &apos;Google Maps&apos; and &apos;Google Maps Go&apos; with Enroute Flight Navigation.</source>
         <translation>Ze względu na zmianę zasad Google nie jest już możliwe udostępnianie lokalizacji z aplikacji „Mapy Google” i „Google Maps Go” dla Enroute Flight Navigation.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="311"/>
         <source>&lt;strong&gt;Technology Preview:&lt;/strong&gt; Enroute Flight Navigation is now able to connect to traffic data receivers via Bluetooth Low Energy. Please try the new feature and send us your feedback!</source>
-        <translation>&lt;strong&gt;Podgląd technologiczny:&lt;/strong&gt; Enroute Flight Navigation może teraz łączyć się z odbiornikami danych o ruchu lotniczym za pośrednictwem Bluetooth Low Energy. Wypróbuj nową funkcję i prześlij nam swoją opinię!</translation>
+        <translation type="vanished">&lt;strong&gt;Podgląd technologiczny:&lt;/strong&gt; Enroute Flight Navigation może teraz łączyć się z odbiornikami danych o ruchu lotniczym za pośrednictwem Bluetooth Low Energy. Wypróbuj nową funkcję i prześlij nam swoją opinię!</translation>
     </message>
     <message>
         <source>The server forwards requests for METARs and TAFs to a web service at the Aviation Weather Center but hides your IP address, so the web service will never see it.</source>

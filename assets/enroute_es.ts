@@ -3310,6 +3310,11 @@ con los datos de la cuenta bancaria.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="303"/>
+        <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Consult the manual for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="307"/>
         <source>Enroute Flight Navigation is now available on Mac computers with Apple Silcon processor (M1 or newer). Download it on the App Store.</source>
         <translatorcomment>Enroute Flight Navigation est maintenant disponible sur les ordinateurs Mac équipés d&apos;un processeur Apple Silcon (M1 ou supérieur). Téléchargez-le sur l&apos;App Store.</translatorcomment>
         <translation>Enroute Flight Navigation está disponible para ordenadores Mac con procesador Apple Silcon (M1 o superior). Descárgalo en la App Store.</translation>
@@ -3319,14 +3324,13 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">Enroute Flight Navigation ahora ofrece cartas OACI y de planeadores para Suiza. Para descargar estos mapas, abra el menú principal y vaya a Biblioteca/Mapas y Datos. Agradecemos a la Oficina Federal de Topografía y a la Oficina Federal de Aviación Civil de Suiza por poner los mapas a disposición del público. Úselos solo con fines informativos. Las &lt;a href=&apos;https://www.geo.admin.ch/en/general-terms-of-use-fsdi&apos;&gt;condiciones de la licencia&lt;/a&gt; no permiten su uso operativo.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="308"/>
+        <location filename="../../../src/Librarian.cpp" line="312"/>
         <source>Due to a change in Google&apos;s policies, it is no longer possible to share locations from the apps &apos;Google Maps&apos; and &apos;Google Maps Go&apos; with Enroute Flight Navigation.</source>
         <translation>Debido a un cambio en las políticas de Google, ya no es posible compartir ubicaciones de las aplicaciones &apos;Google Maps&apos; y &apos;Google Maps Go&apos; con Enroute Flight Navigation.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="311"/>
         <source>&lt;strong&gt;Technology Preview:&lt;/strong&gt; Enroute Flight Navigation is now able to connect to traffic data receivers via Bluetooth Low Energy. Please try the new feature and send us your feedback!</source>
-        <translation>&lt;strong&gt;Avance tecnológico:&lt;/strong&gt; Enroute Flight Navigation ahora puede conectarse a receptores de datos de tráfico mediante Bluetooth de bajo consumo. ¡Pruebe la nueva función y envíenos sus comentarios!</translation>
+        <translation type="vanished">&lt;strong&gt;Avance tecnológico:&lt;/strong&gt; Enroute Flight Navigation ahora puede conectarse a receptores de datos de tráfico mediante Bluetooth de bajo consumo. ¡Pruebe la nueva función y envíenos sus comentarios!</translation>
     </message>
     <message>
         <source>The server forwards requests for METARs and TAFs to a web service at the Aviation Weather Center but hides your IP address, so the web service will never see it.</source>
