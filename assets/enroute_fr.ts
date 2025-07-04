@@ -615,11 +615,6 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="298"/>
-        <source>We strongly feel that no responsible pilot should ever fly without a proper traffic data receicer, such as a FLARM or ADS-B device.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="313"/>
         <source>Privacy Warning</source>
         <translation type="unfinished"></translation>
@@ -734,6 +729,11 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
         <source>Bluetooth</source>
         <translation>Bluetooth</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="298"/>
+        <source>We strongly feel that no responsible pilot should ever fly without a proper traffic data receiver, such as a FLARM or ADS-B device.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="375"/>

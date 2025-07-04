@@ -1040,9 +1040,13 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation>Sie werden für andere nicht sichtbar sein.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="298"/>
         <source>We strongly feel that no responsible pilot should ever fly without a proper traffic data receicer, such as a FLARM or ADS-B device.</source>
-        <translation>Nach unserer Überzeugung sollte kein verantwortungsbewusster Pilot jemals ohne geeigneten Verkehrsdatenempfänger wie z.B. FLARM oder ADS-B fliegen.</translation>
+        <translation type="vanished">Nach unserer Überzeugung sollte kein verantwortungsbewusster Pilot jemals ohne geeigneten Verkehrsdatenempfänger wie z.B. FLARM oder ADS-B fliegen.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="298"/>
+        <source>We strongly feel that no responsible pilot should ever fly without a proper traffic data receiver, such as a FLARM or ADS-B device.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="313"/>

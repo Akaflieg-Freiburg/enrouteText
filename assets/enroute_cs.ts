@@ -590,7 +590,7 @@ comes first!&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="298"/>
-        <source>We strongly feel that no responsible pilot should ever fly without a proper traffic data receicer, such as a FLARM or ADS-B device.</source>
+        <source>We strongly feel that no responsible pilot should ever fly without a proper traffic data receiver, such as a FLARM or ADS-B device.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
