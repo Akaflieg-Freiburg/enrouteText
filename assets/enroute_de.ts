@@ -5017,7 +5017,8 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="148"/>
         <source>Only showing NOTAMs centered nearby. Other NOTAMs may apply.</source>
-        <translation>Die Liste zeigt NOTAMs mit Zentrum nahe des Wegpunktes. Weitere NOTAMs können ebenfalls relevant sein.</translation>
+        <translatorcomment>Nach &apos;nahe&apos; ist heute der Dativ gebräuchlicher als der Genitiv.</translatorcomment>
+        <translation>Die Liste zeigt NOTAMs mit Zentrum nahe dem Wegpunkt. Weitere NOTAMs können ebenfalls relevant sein.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="149"/>
