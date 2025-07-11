@@ -576,68 +576,68 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="271"/>
         <source>OGN glidernet.org Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexion OGN glidernet.org</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="286"/>
         <source>Flight Safety Warning!</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissement de sécurité des vols&#xa0;!</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="288"/>
         <source>Know what you are doing!</source>
-        <translation type="unfinished"></translation>
+        <translation>Sachez ce que vous faites !</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="289"/>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="315"/>
         <source>You are about to add an internet connection to the &apos;Open Glider Network&apos; as a traffic data source.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous êtes sur le point d&apos;ajouter une connexion Internet au «&#xa0;Open Glider Network&#xa0;» comme source de données de trafic.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="290"/>
         <source>While OGN data can be useful in certain scenarios, we recommend against using traffic data from internet services in real flight.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bien que les données OGN puissent être utiles dans certains scénarios, nous déconseillons d&apos;utiliser les données de trafic des services Internet en vol réel.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="293"/>
         <source>Internet connectivity is not reliable in flight. Even when flying over populated areas, expect the internet connection to fail for about half of the time.</source>
-        <translation type="unfinished"></translation>
+        <translation>La connexion internet n&apos;est pas fiable en vol. Même au-dessus de zones peuplées, la connexion internet peut être interrompue environ la moitié du temps.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="294"/>
         <source>Experience shows that data is frequently laggy and often outdated.</source>
-        <translation type="unfinished"></translation>
+        <translation>L’expérience montre que les données sont souvent lentes et obsolètes.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="295"/>
         <source>You will not be visible to others.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vous ne serez pas visible pour les autres.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="313"/>
         <source>Privacy Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Avertissement de confidentialité</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="316"/>
         <source>When using this service, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will send your position data to servers of the Open Glider Network at regular intervals.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lorsque vous utilisez ce service, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; enverra vos données de position aux serveurs du réseau Open Glider à intervalles réguliers.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="317"/>
         <source>We do not control these servers. We do not know what data they collect.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous ne contrôlons pas ces serveurs. Nous ne savons pas quelles données ils collectent.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="318"/>
         <source>Use these services only if you agree to the data handling practices of the Open Glider Network.</source>
-        <translation type="unfinished"></translation>
+        <translation>Utilisez ces services uniquement si vous acceptez les pratiques de traitement des données du réseau Open Glider.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="332"/>
         <source>Adding OGN Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Ajout d&apos;une connexion OGN</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="340"/>
@@ -733,7 +733,7 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="298"/>
         <source>We strongly feel that no responsible pilot should ever fly without a proper traffic data receiver, such as a FLARM or ADS-B device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous sommes convaincus qu’aucun pilote responsable ne devrait jamais voler sans un récepteur de données de trafic approprié, tel qu’un appareil FLARM ou ADS-B.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="375"/>
@@ -2646,7 +2646,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="303"/>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Consult the manual for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation peut désormais afficher les données de trafic fournies par l&apos;Open Glider Network. Consultez le manuel pour plus d&apos;informations.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="307"/>
@@ -4190,7 +4190,8 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="160"/>
         <source>OGN glidernet.org APRS-IS connection</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>Trafic::ConnectionInfo</translatorcomment>
+        <translation>Connexion APRS-IS à OGN glidernet.org</translation>
     </message>
     <message>
         <source>TCP Connection to %1, Port %1</source>
@@ -4884,7 +4885,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="606"/>
         <source>Receiving data through an internet service, which might be unreliable. Consider connecting to a proper traffic data receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Réception de données via un service Internet, qui peut être peu fiable. Pensez à vous connecter à un récepteur de données de trafic adapté.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="610"/>
@@ -5673,7 +5674,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="122"/>
         <source>OGN glidernet.org APRS-IS connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Connexion APRS-IS à OGN glidernet.org</translation>
     </message>
 </context>
 <context>
@@ -9832,7 +9833,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="818"/>
         <source>Connected to internet service providing traffic data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Connecté au service Internet fournissant des données de trafic.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="820"/>
