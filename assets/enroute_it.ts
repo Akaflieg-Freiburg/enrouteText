@@ -3545,7 +3545,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="76"/>
         <source>Christian Engelhardt implemented the OGN network connection and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Christian Engelhardt ha implementato la connessione alla rete OGN e ha iniziato l&apos;implementazione del calcolo dell&apos;altitudine di densità. Christian è un pilota PPL del sud della Germania, ha studiato ingegneria elettrica e lavora come ingegnere software.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="90"/>
@@ -3651,7 +3651,31 @@ con i dati del conto bancario.
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+
+&lt;p&gt;Versione %1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è una app di navigazione gratuita per piloti VFR, sviluppata come un progetto di Akaflieg Freiburg.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Semplice, elegante e funzionale&lt;/li&gt;
+  &lt;li&gt;Nessuna pubblicità, nessuna versione commerciale &quot;pro&quot;&lt;/li&gt;
+  &lt;li&gt;Nessuna registrazione, nessun abbonamento&lt;/li&gt;
+  &lt;li&gt;Non ti spia&lt;/li&gt;
+  &lt;li&gt;100% Open Source, scritta senza interessi commerciali&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Visita il sito &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;&lt;/a&gt; per più informazioni.&lt;/p&gt;
+
+&lt;h3&gt;Sponsor Accademico&lt;/h3&gt;
+      
+&lt;p&gt;L&apos;autore riconosce con gratitudine il supporto del nostro sponsor accademico, l&apos;&lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Università di Freiburg&lt;/a&gt;.L&apos;università fornisce l&apos;infrastruttura per generare le nostre mappe, e la banda di connessione richiesta per usarle.&lt;/p&gt;
+
+&lt;h3&gt;Riconoscimenti&lt;/h3&gt;
+
+&lt;p&gt;Questo programma è costruito su un numero di librerie open source, incluse &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt; e &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;Sunset&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I dati aeronautici sono gentilmente forniti dai progetti &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; e &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;. Le mappe base sono gentilmente fornite da &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Per maggiori dettagli leggere le relative documentazioni.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="198"/>
@@ -3792,7 +3816,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="305"/>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. We thank Christian Engelhardt for the implementation. Consult the manual for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation può adesso mostrare dati di traffico forniti da Open Glider Network. Grazie a Christiam Engelhardt per l&apos;implementazione. Consulta il manuale per informazioni aggiuntive.</translation>
     </message>
     <message>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Consult the manual for more information.</source>
