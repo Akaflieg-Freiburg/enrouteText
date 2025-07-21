@@ -3629,7 +3629,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 
 &lt;ul style=&quot;margin-left:-25px;&quot;&gt;
   &lt;li&gt;Simple, elegant and functional&lt;/li&gt;
-  &lt;li&gt;No ads, no commercical &quot;pro&quot; version&lt;/li&gt;
+  &lt;li&gt;No ads, no commercial &quot;pro&quot; version&lt;/li&gt;
   &lt;li&gt;No registration, no membership&lt;/li&gt;
   &lt;li&gt;Does not spy on you&lt;/li&gt;
   &lt;li&gt;100% Open Source, written without commercial interest&lt;/li&gt;
