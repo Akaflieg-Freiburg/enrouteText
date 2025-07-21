@@ -3385,9 +3385,8 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">Enroute Flight Navigation ahora ofrece cartas OACI y de planeadores para Suiza. Para descargar estos mapas, abra el menú principal y vaya a Biblioteca/Mapas y Datos. Agradecemos a la Oficina Federal de Topografía y a la Oficina Federal de Aviación Civil de Suiza por poner los mapas a disposición del público. Úselos solo con fines informativos. Las &lt;a href=&apos;https://www.geo.admin.ch/en/general-terms-of-use-fsdi&apos;&gt;condiciones de la licencia&lt;/a&gt; no permiten su uso operativo.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="315"/>
         <source>Due to a change in Google&apos;s policies, it is no longer possible to share locations from the apps &apos;Google Maps&apos; and &apos;Google Maps Go&apos; with Enroute Flight Navigation.</source>
-        <translation>Debido a un cambio en las políticas de Google, ya no es posible compartir ubicaciones de las aplicaciones &apos;Google Maps&apos; y &apos;Google Maps Go&apos; con Enroute Flight Navigation.</translation>
+        <translation type="vanished">Debido a un cambio en las políticas de Google, ya no es posible compartir ubicaciones de las aplicaciones &apos;Google Maps&apos; y &apos;Google Maps Go&apos; con Enroute Flight Navigation.</translation>
     </message>
     <message>
         <source>&lt;strong&gt;Technology Preview:&lt;/strong&gt; Enroute Flight Navigation is now able to connect to traffic data receivers via Bluetooth Low Energy. Please try the new feature and send us your feedback!</source>
@@ -3668,7 +3667,7 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; para iOS está disponible para pruebas beta públicas en &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;página de inicio de esta aplicación&lt;/a&gt; también contiene un enlace a TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="319"/>
+        <location filename="../../../src/Librarian.cpp" line="321"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Necesitamos ayuda con gráficos promocionales para los app stores y con videos explicativos. Si eres un artista gráfico o de video y te gustaría ayudar, por favor ponte en contacto.</translation>
     </message>
@@ -4127,58 +4126,58 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
 <context>
     <name>Navigation::FlightRoute</name>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="142"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="127"/>
         <source>Total: %1</source>
         <translation>Total: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="157"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="142"/>
         <source>Cruise speed not specified.</source>
         <translation>Velocidad de crucero no especificada.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="161"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="146"/>
         <source>Fuel consumption not specified.</source>
         <translation>Consumo de combustible no especificado.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="165"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="150"/>
         <source>Wind speed not specified.</source>
         <translation>Velocidad del viento no especificada.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="169"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="154"/>
         <source>Wind direction not specified.</source>
         <translation>Dirección del viento no especificada.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="174"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="159"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Cálculo incompleto. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="464"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="510"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>No se puede abrir el archivo &apos;%1&apos; para escribir.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="471"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="517"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>No se puede escribir en el archivo &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="481"/>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="538"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="527"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="584"/>
         <source>Flight Route</source>
         <translation>Ruta de vuelo</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="343"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="404"/>
         <source>Error reading file &apos;%1&apos;</source>
         <translation>Error al leer el archivo &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="347"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="408"/>
         <source>The file &apos;%1&apos; contains too many waypoints. Flight routes with more than 100 waypoints are not supported.</source>
         <translation>El archivo &apos;%1&apos; contiene demasiados puntos de ruta. Las rutas de vuelo con más de 100 puntos no son compatibles.</translation>
     </message>
@@ -4186,22 +4185,22 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
 <context>
     <name>Navigation::Navigator</name>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="349"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="339"/>
         <source>Cruise speed not specified.</source>
         <translation>Velocidad de crucero no especificada.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="353"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="343"/>
         <source>Wind speed not specified.</source>
         <translation>Velocidad del viento no especificada</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="357"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="347"/>
         <source>Wind direction not specified.</source>
         <translation>Dirección del viento no especificada</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="361"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="351"/>
         <source>Computation incomplete. %1</source>
         <translation>Cálculo incompleto. %1</translation>
     </message>
@@ -7126,133 +7125,161 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Se ha negado el permiso necesario.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="118"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="111"/>
+        <source>Received data from unknown characteristic %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="121"/>
         <source>An unknown error has occurred.</source>
         <translation>Un error desconocido a ocurrido.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="121"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="124"/>
         <source>The remote Bluetooth Low Energy device with the address passed to the constructor of this class cannot be found.</source>
         <translation>No se puede encontrar el dispositivo Bluetooth Low Energy remoto con la dirección pasada al constructor de esta clase.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="124"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="127"/>
         <source>The attempt to read from or write to the remote device failed.</source>
         <translation>Falló el intento de leer o escribir en el dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="127"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="130"/>
         <source>The local Bluetooth device with the address passed to the constructor of this class cannot be found or there is no local Bluetooth device.</source>
         <translation>No se puede encontrar el dispositivo Bluetooth local con la dirección pasada al constructor de esta clase o no hay ningún dispositivo Bluetooth local.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="130"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="133"/>
         <source>The attempt to connect to the remote device failed.</source>
         <translation>El intento de conectarse al dispositivo remoto falló.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="133"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="136"/>
         <source>The attempt to start advertising failed.</source>
         <translation>El intento de iniciar la publicidad fracasó.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="136"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="139"/>
         <source>The remote device closed the connection.</source>
         <translation>El dispositivo remoto cerró la conexión.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="139"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="142"/>
         <source>The local Bluetooth device closed the connection due to insufficient authorization.</source>
         <translation>El dispositivo Bluetooth local cerró la conexión debido a una autorización insuficiente.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="142"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="145"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
         <translation>El sistema operativo solicita permisos que no fueron otorgados por el usuario.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="145"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="148"/>
         <source>An attempt to read RSSI (received signal strength indicator) of a remote device finished with error.</source>
         <translation>Un intento de leer RSSI (indicador de intensidad de la señal recibida) de un dispositivo remoto finalizó con error.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="154"/>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="161"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="160"/>
+        <source>Nordic UART Service found. Requesting service characteristics.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="172"/>
+        <source>Simple UART Service found. Requesting service characteristics.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="179"/>
         <source>No UART service found.</source>
         <translation>No se encontró ningún servicio UART.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="165"/>
-        <source>UART service found. Requesting service characteristics.</source>
-        <translation>Servicio UART encontrado. Se solicitan características del servicio.</translation>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="206"/>
+        <source>The Nordic UART Service does not contain the TX characteristic.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="176"/>
+        <source>UART service found. Requesting service characteristics.</source>
+        <translation type="vanished">Servicio UART encontrado. Se solicitan características del servicio.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="187"/>
         <source>Invalid Service.</source>
         <translation>Servicio inválido.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="179"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="190"/>
         <source>Service details unknown.</source>
         <translation>Detalles del servicio desconocidos.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="182"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="193"/>
         <source>Requesting service details.</source>
         <translation>Solicitando detalles del servicio.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="193"/>
         <source>The NUS service does not contain the TX characteristic.</source>
-        <translation>El servicio NUS no contiene la característica TX.</translation>
+        <translation type="vanished">El servicio NUS no contiene la característica TX.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="199"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="212"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="230"/>
         <source>Cannot open the client characteristic configuration descriptor.</source>
         <translation>No se puede abrir el descriptor de configuración característico del cliente.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="206"/>
         <source>The NUS service is not available.</source>
-        <translation>El servicio NUS no está disponible.</translation>
+        <translation type="vanished">El servicio NUS no está disponible.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="210"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="216"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="234"/>
         <source>Data transfer enabled.</source>
         <translation>Transferencia de datos habilitada.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="218"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="224"/>
+        <source>The Simple UART Service does not contain the TX characteristic.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="238"/>
+        <source>No UART Service available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="246"/>
         <source>The controller is not connected to a remote device.</source>
         <translation>El controlador no está conectado a un dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="221"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="249"/>
         <source>The controller is attempting to connect to a remote device.</source>
         <translation>El controlador está intentando conectarse a un dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="224"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="252"/>
         <source>The controller is connected to a remote device.</source>
         <translation>El controlador está conectado a un dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="227"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="255"/>
         <source>The controller is retrieving the list of services offered by the remote device.</source>
         <translation>El controlador está recuperando la lista de servicios ofrecidos por el dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="230"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="258"/>
         <source>The controller has discovered all services offered by the remote device.</source>
         <translation>El controlador ha descubierto todos los servicios ofrecidos por el dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="233"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="261"/>
         <source>The controller is about to be disconnected from the remote device.</source>
         <translation>El controlador está a punto de desconectarse del dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="236"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="264"/>
         <source>The controller is currently advertising data.</source>
         <translation>Actualmente, el responsable del tratamiento publicita datos.</translation>
     </message>
@@ -7885,83 +7912,82 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Directo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="533"/>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="745"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="526"/>
         <source>New flight route: direct to %1.</source>
         <translation>Nueva ruta: direct a %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="547"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="539"/>
         <source>Append</source>
         <translation>Añadir</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="560"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="552"/>
         <source>Added %1 to route.</source>
         <translation>Añadir a la ruta %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="565"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="557"/>
         <source>Insert</source>
         <translation>Introducir</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="579"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="571"/>
         <source>Inserted %1 into route.</source>
         <translation>Introducido %1 en la ruta.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="584"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="576"/>
         <source>Remove</source>
         <translation>Eliminar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="601"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="593"/>
         <source>Removed %1 from route.</source>
         <translation>Eliminado 1% de la ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="608"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="600"/>
         <source>Library</source>
         <translation>Biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="621"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="613"/>
         <source>Add…</source>
         <translation>Añadir ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="633"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="625"/>
         <source>Remove…</source>
         <translation>Eliminar...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="651"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="643"/>
         <source>Edit…</source>
         <translation>Editar ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="676"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="668"/>
         <source>Privacy warning</source>
         <translation>Advertencia de privacidad</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="692"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="684"/>
         <source>In order to show a satellite view, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open Google Earth or Google Maps in an external web browser or a dedicated app.</source>
         <translation>Para mostrar una vista satelital, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; le pedirá a su sistema que abra Google Earth o Google Maps en un navegador web externo o una aplicación dedicada.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="693"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="685"/>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control Google Earth or Google Maps.</source>
         <translation>Los autores de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; no controlan Google Earth ni Google Maps.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="697"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="689"/>
         <source>With the click on OK, you consent to opening Google Earth or Google Maps on your device.</source>
         <translation>Al hacer clic en Aceptar, usted acepta abrir Google Earth o Google Maps en su dispositivo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="716"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="708"/>
         <source>Always open external web sites and apps, do not ask again</source>
         <translation>Abrir siempre sitios web y aplicaciones externas y no vuelver a preguntar</translation>
     </message>
@@ -7974,7 +8000,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Los autores de &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; no controlan Google Maps.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="694"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="686"/>
         <source>They do not know what data it collects or how that data is processed.</source>
         <translation>No saben qué datos recopila ni cómo se procesan.</translation>
     </message>
@@ -7983,7 +8009,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Al hacer clic en Aceptar, acepta abrir Google Maps en su dispositivo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="698"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="690"/>
         <source>Click OK only if you agree with the terms and privacy policies of that site.</source>
         <translation>Acepte solo si está de acuerdo con los términos y políticas de privacidad de ese sitio.</translation>
     </message>
@@ -7992,42 +8018,40 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">Abrir siempre sitios web externos, no volver a preguntar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="733"/>
         <source>Overwrite Current Flight Route?</source>
-        <translation>¿Sobrescribir la ruta de vuelo actual?</translation>
+        <translation type="vanished">¿Sobrescribir la ruta de vuelo actual?</translation>
+    </message>
+    <message>
+        <source>Once overwritten, the current flight route cannot be restored.</source>
+        <translation type="vanished">Una vez sobrescrita, la ruta de vuelo actual no se puede restaurar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="734"/>
-        <source>Once overwritten, the current flight route cannot be restored.</source>
-        <translation>Una vez sobrescrita, la ruta de vuelo actual no se puede restaurar.</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="765"/>
         <source>Modified entry %1 in library.</source>
         <translation>Entrada modificada %1 en la biblioteca.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="772"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="741"/>
         <source>Add Waypoint to Library</source>
         <translation>Añadir el punto de ruta en la biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="782"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="751"/>
         <source>Added %1 to waypoint library.</source>
         <translation>Añadido %1 a la biblioteca de los puntos de ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="791"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="760"/>
         <source>Remove from Device?</source>
         <translation>¿Quitar del dispositivo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="792"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="761"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Una vez que se elimina el punto de ruta &lt;strong&gt;%1&lt;/strong&gt;, no se puede restaurar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="800"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="769"/>
         <source>Waypoint removed from device</source>
         <translation>Punto de ruta eliminado de su dispositivo.</translation>
     </message>
