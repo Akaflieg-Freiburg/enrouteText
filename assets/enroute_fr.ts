@@ -2538,7 +2538,31 @@ Message: Enroute Flight Navigation
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+
+&lt;p&gt;Version %1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; est une application de navigation gratuite pour les pilotes VFR, développée dans le cadre d&apos;un projet d&apos;Akaflieg Freiburg.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Simple, élégante et fonctionnelle&lt;/li&gt;
+&lt;li&gt;Sans publicité, pas de version «&#xa0;pro&#xa0;» commerciale&lt;/li&gt;
+&lt;li&gt;Sans inscription, sans abonnement&lt;/li&gt;
+&lt;li&gt;Ne vous espionne pas&lt;/li&gt;
+&lt;li&gt;100&#xa0;% Open Source, écrit sans intérêt commercial&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Consultez le &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;site web&lt;/a&gt; pour plus d&apos;informations.&lt;/p&gt;
+
+&lt;h3&gt;Parrainage académique&lt;/h3&gt;
+
+&lt;p&gt;L&apos;auteur remercie chaleureusement notre parrain académique, le &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Université de Fribourg&lt;/a&gt;. L&apos;université met gracieusement à disposition l&apos;infrastructure utilisée pour générer nos cartes, ainsi que la bande passante nécessaire à leur diffusion.&lt;/p&gt;
+
+&lt;h3&gt;Remerciements&lt;/h3&gt;
+
+&lt;p&gt;Ce programme s&apos;appuie sur plusieurs bibliothèques open source, notamment &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt; et &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Les données aéronautiques sont gracieusement fournies par les projets &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; et &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;. Les cartes de base sont gracieusement fournies par &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Veuillez consulter la documentation pour plus de détails.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="198"/>
@@ -5530,7 +5554,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="111"/>
         <source>Received data from unknown characteristic %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Données reçues de la caractéristique inconnue %1.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="121"/>
@@ -5585,12 +5609,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="160"/>
         <source>Nordic UART Service found. Requesting service characteristics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Service UART nordique détecté. Caractéristiques du service demandées.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="172"/>
         <source>Simple UART Service found. Requesting service characteristics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Service UART simple trouvé. Demande des caractéristiques du service en cours.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="179"/>
@@ -5600,7 +5624,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="206"/>
         <source>The Nordic UART Service does not contain the TX characteristic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le service Nordic UART ne contient pas la caractéristique TX.</translation>
     </message>
     <message>
         <source>UART service found. Requesting service characteristics.</source>
@@ -5644,12 +5668,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="224"/>
         <source>The Simple UART Service does not contain the TX characteristic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Le service UART simple ne contient pas la caractéristique TX.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="238"/>
         <source>No UART Service available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun service UART disponible.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="246"/>
