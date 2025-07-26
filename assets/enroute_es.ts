@@ -7127,7 +7127,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="111"/>
         <source>Received data from unknown characteristic %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se recibieron datos de característica desconocida %1.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="121"/>
@@ -7182,12 +7182,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="160"/>
         <source>Nordic UART Service found. Requesting service characteristics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Service UART nordique détecté. Caractéristiques du service demandées.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="172"/>
         <source>Simple UART Service found. Requesting service characteristics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se encontró un servicio UART simple. Se solicitan características del servicio.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="179"/>
@@ -7197,7 +7197,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="206"/>
         <source>The Nordic UART Service does not contain the TX characteristic.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servicio UART nórdico no contiene la característica TX.</translation>
     </message>
     <message>
         <source>UART service found. Requesting service characteristics.</source>
@@ -7241,12 +7241,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="224"/>
         <source>The Simple UART Service does not contain the TX characteristic.</source>
-        <translation type="unfinished"></translation>
+        <translation>El servicio UART simple no contiene la característica TX.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="238"/>
         <source>No UART Service available.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay servicio UART disponible.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="246"/>
