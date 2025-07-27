@@ -1605,17 +1605,17 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="400"/>
         <source>Copy as Flight Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>Copier en tant que plan de vol</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="410"/>
         <source>Flight plan copied to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan de vol copié dans le presse-papier</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="412"/>
         <source>No flight route to copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune route à copier</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="439"/>
@@ -2336,7 +2336,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="76"/>
         <source>Christian Engelhardt implemented the OGN network connection, flight plan export and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Christian Engelhardt a implémenté la connexion réseau OGN, l&apos;export des plans de vol et a commencé l&apos;implémentation du calcul de la hauteur-densité. Christian est un pilote privé allemand. Il a étudié l'&apos;ingénierie en électricité et travaille en tant qu&apos; ingénieur en système embarqué.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="79"/>
@@ -2721,15 +2721,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="305"/>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Flight routes can now be copied to the clipboard in ICAO flight plan format. We thank Christian Engelhardt for the implementation of these features. Consult the manual for more information.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. We thank Christian Engelhardt for the implementation. Consult the manual for more information.</source>
-        <translation type="vanished">Enroute Flight Navigatio permet désormais d&apos;afficher les données de trafic fournies par l&apos;Open Glider Network. Nous remercions Christian Engelhardt pour cette implémentation. Consultez le manuel pour plus d&apos;informations.</translation>
-    </message>
-    <message>
-        <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Consult the manual for more information.</source>
-        <translation type="vanished">Enroute Flight Navigation peut désormais afficher les données de trafic fournies par l&apos;Open Glider Network. Consultez le manuel pour plus d&apos;informations.</translation>
+        <translation>Enroute Flight Navigation permet désormais d&apos;afficher les données de trafic fournies par l&apos;Open Glider Network. Les routes peuvent maintenant être copiées au format plan de vol OACI. Nous remercions Christian Engelhardt pour cette implémentation. Consultez le manuel pour plus d&apos;informations.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="311"/>
