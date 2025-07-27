@@ -2157,38 +2157,53 @@ con los datos de la cuenta bancaria.</translation>
         <translation>en el formato GPX ...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="402"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="400"/>
+        <source>Copy as Flight Plan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="410"/>
+        <source>Flight plan copied to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="412"/>
+        <source>No flight route to copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="420"/>
         <source>Clear</source>
         <translation>Limpiar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="414"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="432"/>
         <source>Reverse</source>
         <translation>Inverso</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="421"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="439"/>
         <source>Flight route reversed</source>
         <translation>Ruta invertida</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="439"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="457"/>
         <source>Route</source>
         <translation>Ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="440"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="545"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="458"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="563"/>
         <source>Wind</source>
         <translation>Viento</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="472"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="490"/>
         <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below or double click on any point in the moving map.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Ruta vacía&lt;/h3&gt;&lt;p&gt;Use el botón &lt;strong&gt;Añadir punto de ruta&lt;/strong&gt; a continuación o haga doble clic en cualquier punto del mapa en movimiento.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="555"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="573"/>
         <source>Direction from</source>
         <translation>Directión desde</translation>
     </message>
@@ -2197,68 +2212,68 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">indefinido</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="587"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="605"/>
         <source>Speed</source>
         <translation>Velocidad</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="680"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="698"/>
         <source>One waypoint: direct route from ownship position</source>
         <translation>Un punto de ruta: ruta directa desde la posición de l&apos;avion</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="706"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="724"/>
         <source>Add Waypoint</source>
         <translation>Añadir punto de ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="721"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="852"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="739"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="870"/>
         <source>Add Waypoint to Route</source>
         <translation>Agregar punto de ruta a la Ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="750"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="768"/>
         <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
         <translation>Elija un punto de ruta de la lista a continuación o &lt;a href=&apos;xx&apos;&gt;ingrese las coordenadas manualmente&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="771"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="789"/>
         <source>Filter by Name</source>
         <translation>Filtrar por nombre</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="791"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="809"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta que coincidan con tu filtro.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="828"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="846"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta disponibles. Asegúrese de tener instalado un mapa de aviación.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="829"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="847"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta que coincidan con tus criterios de filtro.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="870"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="888"/>
         <source>Clear Route?</source>
         <translation>Limpiar ruta ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="873"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="891"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>Una vez borrada, la ruta actual no se puede ssr recuperada</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="878"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="896"/>
         <source>Flight route cleared</source>
         <translation>Ruta despejada</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="900"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="918"/>
         <source>Error Exporting Data…</source>
         <translation>Error exportando datos ...</translation>
     </message>
@@ -3050,9 +3065,8 @@ con los datos de la cuenta bancaria.</translation>
         <translation>Heinz Blöchinger nos ha ayudado con funcionalidad de importación de archivos.. Después de 15 años de planeador, Heinz ha cumplido su gran sueño y ahora es piloto de helicópteros.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="76"/>
         <source>Christian Engelhardt implemented the OGN network connection and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
-        <translation>Christian Engelhardt implementó la conexión de red OGN e inició la implementación del cálculo de densidad de altura. Christian es piloto de PPL en el sur de Alemania, estudió ingeniería eléctrica y trabaja como ingeniero de software integrado.</translation>
+        <translation type="vanished">Christian Engelhardt implementó la conexión de red OGN e inició la implementación del cálculo de densidad de altura. Christian es piloto de PPL en el sur de Alemania, estudió ingeniería eléctrica y trabaja como ingeniero de software integrado.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="79"/>
@@ -3093,6 +3107,11 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <source>Christian Engelhardt started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
         <translation type="vanished">Christian Engelhardt inició la implementación del cálculo de la densidad de altura. Christian es piloto de PPL en el sur de Alemania, estudió ingeniería eléctrica y trabaja como ingeniero de software integrado.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="76"/>
+        <source>Christian Engelhardt implemented the OGN network connection, flight plan export and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="90"/>
@@ -3367,15 +3386,19 @@ con los datos de la cuenta bancaria.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="305"/>
+        <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Flight routes can now be copied to the clipboard in ICAO flight plan format. We thank Christian Engelhardt for the implementation of these features. Consult the manual for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. We thank Christian Engelhardt for the implementation. Consult the manual for more information.</source>
-        <translation>Enroute Flight Navigation ahora puede mostrar datos de tráfico proporcionados por Open Glider Network. Agradecemos a Christian Engelhardt por la implementación. Consulte el manual para más información.</translation>
+        <translation type="vanished">Enroute Flight Navigation ahora puede mostrar datos de tráfico proporcionados por Open Glider Network. Agradecemos a Christian Engelhardt por la implementación. Consulte el manual para más información.</translation>
     </message>
     <message>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Consult the manual for more information.</source>
         <translation type="vanished">Enroute Flight Navigation ahora puede mostrar datos de tráfico proporcionados por la Red Open Glider. Consulte el manual para más información.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="310"/>
+        <location filename="../../../src/Librarian.cpp" line="311"/>
         <source>Enroute Flight Navigation is now available on Mac computers with Apple Silcon processor (M1 or newer). Download it on the App Store.</source>
         <translatorcomment>Enroute Flight Navigation est maintenant disponible sur les ordinateurs Mac équipés d&apos;un processeur Apple Silcon (M1 ou supérieur). Téléchargez-le sur l&apos;App Store.</translatorcomment>
         <translation>Enroute Flight Navigation está disponible para ordenadores Mac con procesador Apple Silcon (M1 o superior). Descárgalo en la App Store.</translation>
@@ -3667,7 +3690,7 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; para iOS está disponible para pruebas beta públicas en &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;página de inicio de esta aplicación&lt;/a&gt; también contiene un enlace a TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="321"/>
+        <location filename="../../../src/Librarian.cpp" line="322"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Necesitamos ayuda con gráficos promocionales para los app stores y con videos explicativos. Si eres un artista gráfico o de video y te gustaría ayudar, por favor ponte en contacto.</translation>
     </message>

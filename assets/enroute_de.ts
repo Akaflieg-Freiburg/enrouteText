@@ -2379,17 +2379,17 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">&lt;h3&gt;Keine Route definiert&lt;/h3&gt;&lt;p&gt;Drücken Sie unten &lt;strong&gt;Wegpunkt hinzufügen&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="680"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="698"/>
         <source>One waypoint: direct route from ownship position</source>
         <translation>Ein Wegpunkt: Direkte Route ab der eigenen Position</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="870"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="888"/>
         <source>Clear Route?</source>
         <translation>Route löschen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="878"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="896"/>
         <source>Flight route cleared</source>
         <translation>Route gelöscht</translation>
     </message>
@@ -2484,43 +2484,58 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>… als GPX-Datei</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="472"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="400"/>
+        <source>Copy as Flight Plan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="410"/>
+        <source>Flight plan copied to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="412"/>
+        <source>No flight route to copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="490"/>
         <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below or double click on any point in the moving map.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Leere Route&lt;/h3&gt;&lt;p&gt;Klicken Sie &lt;strong&gt;Wegpunkt hinzufügen&lt;/strong&gt; an oder doppelklicken Sie auf einen beliebigen Punkt in der Karte.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="721"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="852"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="739"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="870"/>
         <source>Add Waypoint to Route</source>
         <translation>Wegpunkt hinzufügen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="750"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="768"/>
         <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
         <translation>Wählen Sie unten einen Wegpunkt aus oder &lt;a href=&apos;xx&apos;&gt;geben Sie seine Koordinaten manuell ein&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="771"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="789"/>
         <source>Filter by Name</source>
         <translation>Nach Namen filtern</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="791"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="809"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keinen zum Filter passenden Wegpunkt gefunden.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="828"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="846"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine Wegpunkte verfügbar. Bitte erst eine Luftfahrtkarte installieren!.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="829"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="847"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Keine passenden Wegpunkte gefunden.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="900"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="918"/>
         <source>Error Exporting Data…</source>
         <translation>Fehler beim Datenexport…</translation>
     </message>
@@ -2534,17 +2549,17 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>… im GPX-Format</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="402"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="420"/>
         <source>Clear</source>
         <translation>Löschen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="414"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="432"/>
         <source>Reverse</source>
         <translation>Umkehren</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="439"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="457"/>
         <source>Route</source>
         <translation>Route</translation>
     </message>
@@ -2553,7 +2568,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">&lt;h2&gt;Keine Route definiert&lt;/h2&gt;&lt;p&gt;Drücken Sie unten &lt;strong&gt;Wegpunkt hinzufügen&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="555"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="573"/>
         <source>Direction from</source>
         <translation>Aus Richtung</translation>
     </message>
@@ -2562,8 +2577,8 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">unbestimmt</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="440"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="545"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="458"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="563"/>
         <source>Wind</source>
         <translation>Wind</translation>
     </message>
@@ -2580,7 +2595,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Route in anderer App geöffnet</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="421"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="439"/>
         <source>Flight route reversed</source>
         <translation>Route umgekehrt</translation>
     </message>
@@ -2589,12 +2604,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Richtung</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="587"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="605"/>
         <source>Speed</source>
         <translation>Geschwindigkeit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="706"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="724"/>
         <source>Add Waypoint</source>
         <translation>Wegpunkt hinzufügen</translation>
     </message>
@@ -2603,7 +2618,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Route löschen?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="873"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="891"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>Die aktuelle Route kann nach dem Löschen nicht wiederhergestellt werden.</translation>
     </message>
@@ -3672,9 +3687,8 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;Freundlicherweise zur Verfügung gestellt werden uns die Luftfahrtdaten von den Projekten &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; und &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; sowie die Basiskarten von &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Details dazu finden Sie in der Dokumentation.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="76"/>
         <source>Christian Engelhardt implemented the OGN network connection and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
-        <translation>Christian Engelhardt implementierte die Verbindung zum OGN-Netzwerk und begann die Implementierung der Dichtehöhenberechung. Er ist PPL-Pilot in Süddeutschland, studierte Elektrotechnik und arbeitet als Softwareentwickler für eingebettete Systeme.</translation>
+        <translation type="vanished">Christian Engelhardt implementierte die Verbindung zum OGN-Netzwerk und begann die Implementierung der Dichtehöhenberechung. Er ist PPL-Pilot in Süddeutschland, studierte Elektrotechnik und arbeitet als Softwareentwickler für eingebettete Systeme.</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
@@ -3727,6 +3741,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;p&gt;Dieses Programm basiert auf einigen Open-Source-Bibliotheken, darunter &lt;a href=&quot;https://https://github.com/nnaumenko/metaf/&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org/&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io/&quot;&gt;Qt&lt;/a&gt; und &lt;a href=&quot;https://github.com/buelowp/sunset/&quot;&gt;Sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Freundlicherweise versorgen uns die Projekte &lt;a href=&quot;https://www.openaip.net/&quot;&gt;openAIP&lt;/a&gt; und &lt;a href=&quot;https://www.openflightmaps.org/&quot;&gt;open flightmaps&lt;/a&gt; mit Luftfahrtdaten und &lt;a href=&quot;https://openmaptiles.org/&quot;&gt;OpenMapTiles&lt;/a&gt; mit den Basiskarten. Details dazu finden Sie in der Dokumentation.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="76"/>
+        <source>Christian Engelhardt implemented the OGN network connection, flight plan export and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="136"/>
@@ -3941,15 +3960,19 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="305"/>
+        <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Flight routes can now be copied to the clipboard in ICAO flight plan format. We thank Christian Engelhardt for the implementation of these features. Consult the manual for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. We thank Christian Engelhardt for the implementation. Consult the manual for more information.</source>
-        <translation>Enroute Flight Navigation kann nun Verkehrsdaten des Open Glider Network darstellen; weitere Infos dazu siehe Handbuch. Wir danken Christian Engelhardt für die Implementierung.</translation>
+        <translation type="vanished">Enroute Flight Navigation kann nun Verkehrsdaten des Open Glider Network darstellen; weitere Infos dazu siehe Handbuch. Wir danken Christian Engelhardt für die Implementierung.</translation>
     </message>
     <message>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Consult the manual for more information.</source>
         <translation type="vanished">Enroute Flight Navigation kann nun Verkehrsdaten des Open Glider Network darstellen. Im Handbuch finden Sie Näheres.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="310"/>
+        <location filename="../../../src/Librarian.cpp" line="311"/>
         <source>Enroute Flight Navigation is now available on Mac computers with Apple Silcon processor (M1 or newer). Download it on the App Store.</source>
         <translation>Enroute Flight Navigation gibt es nun auch für Mac-Computer mit dem Apple-Silcon-Prozessor (M1 oder neuer), herunterzuladen im App Store.</translation>
     </message>
@@ -4262,7 +4285,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; für iOS steht auf &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt; für einen Betatest bereit. Auch die &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;Homepage dieser App&lt;/a&gt; enthält einen Link zu TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="321"/>
+        <location filename="../../../src/Librarian.cpp" line="322"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Wir könnten Hilfe bei Werbegrafiken für die App-Stores und bei erklärenden Videos gebrauchen. Sollten Sie das können und uns helfen wollen, hören wir gern von Ihnen!</translation>
     </message>

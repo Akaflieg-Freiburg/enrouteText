@@ -1450,12 +1450,12 @@ Message: Enroute Flight Navigation
         <translation>Route partagée</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="870"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="888"/>
         <source>Clear Route?</source>
         <translation>Effacer la route ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="878"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="896"/>
         <source>Flight route cleared</source>
         <translation>Route supprimée</translation>
     </message>
@@ -1490,33 +1490,33 @@ Message: Enroute Flight Navigation
         <translation>… au format GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="402"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="420"/>
         <source>Clear</source>
         <translation>Effacer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="414"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="432"/>
         <source>Reverse</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="439"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="457"/>
         <source>Route</source>
         <translation>Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="472"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="490"/>
         <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below or double click on any point in the moving map.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Route vide&lt;/h3&gt;&lt;p&gt;Utilisez le bouton &lt;strong&gt;Ajouter point de cheminement&lt;/strong&gt; ci-dessous ou double-cliquez sur la carte.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="555"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="573"/>
         <source>Direction from</source>
         <translation>Direction de</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="440"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="545"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="458"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="563"/>
         <source>Wind</source>
         <translation>Vent</translation>
     </message>
@@ -1603,63 +1603,78 @@ Message: Enroute Flight Navigation
         <translation>Route ouverte dans une autre appli</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="421"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="400"/>
+        <source>Copy as Flight Plan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="410"/>
+        <source>Flight plan copied to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="412"/>
+        <source>No flight route to copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="439"/>
         <source>Flight route reversed</source>
         <translation>Route réordonnée</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="587"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="605"/>
         <source>Speed</source>
         <translation>Vitesse</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="680"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="698"/>
         <source>One waypoint: direct route from ownship position</source>
         <translation>Un point de cheminement : route directe depuis la position actuelle</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="706"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="724"/>
         <source>Add Waypoint</source>
         <translation>Ajouter un point de cheminement</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="721"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="852"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="739"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="870"/>
         <source>Add Waypoint to Route</source>
         <translation>Ajouter un point de cheminement à la route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="750"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="768"/>
         <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
         <translation>Choisissez un point de cheminement dans la liste ci-dessous ou &lt;a href=&apos;xx&apos;&gt;entrez les coordonnées manuellement&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="771"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="789"/>
         <source>Filter by Name</source>
         <translation>Filtrer par nom</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="791"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="809"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé!&lt;/h3&gt;&lt;p&gt;Aucun point de cheminement ne correspond à votre filtre.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="828"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="846"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point de cheminement n&apos;a été trouvé. Assurez-vous qu&apos;une carte aéronautique a été installée.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="829"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="847"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point de cheminement ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="900"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="918"/>
         <source>Error Exporting Data…</source>
         <translation>Erreur lors de l&apos;exportation des données...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="873"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="891"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>La route ne pourra pas être rétablie si elle est effacée.</translation>
     </message>
@@ -2319,6 +2334,11 @@ Message: Enroute Flight Navigation
         <translation>Heinz Blöchinger nous a aidé avec fonctionnalité d&apos;importation de fichiers. Après 15 ans de planeur, Heinz a réalisé un grand rêve et pilote maintenant des hélicoptères.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="76"/>
+        <source>Christian Engelhardt implemented the OGN network connection, flight plan export and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="79"/>
         <source>Tom Linz completed height density calculation. He received his PPL license in late 2024. Tom works as a development engineer for safety systems.</source>
         <translation>Tom Linz a terminé le calcul de la densité de hauteur. Il a obtenu sa licence PPL fin 2024. Tom travaille comme ingénieur de développement de systèmes de sécurité.</translation>
@@ -2358,9 +2378,8 @@ Message: Enroute Flight Navigation
         <translation>La programmation</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="76"/>
         <source>Christian Engelhardt implemented the OGN network connection and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
-        <translation>Christian Engelhardt a mis en œuvre la connexion au réseau OGN et a commencé la mise en œuvre du calcul de la densité de hauteur. Pilote PPL dans le sud de l&apos;Allemagne, Christian a étudié l&apos;électrotechnique et travaille comme ingénieur logiciel embarqué.</translation>
+        <translation type="vanished">Christian Engelhardt a mis en œuvre la connexion au réseau OGN et a commencé la mise en œuvre du calcul de la densité de hauteur. Pilote PPL dans le sud de l&apos;Allemagne, Christian a étudié l&apos;électrotechnique et travaille comme ingénieur logiciel embarqué.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="86"/>
@@ -2701,15 +2720,19 @@ Message: Enroute Flight Navigation
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="305"/>
+        <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Flight routes can now be copied to the clipboard in ICAO flight plan format. We thank Christian Engelhardt for the implementation of these features. Consult the manual for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. We thank Christian Engelhardt for the implementation. Consult the manual for more information.</source>
-        <translation>Enroute Flight Navigatio permet désormais d&apos;afficher les données de trafic fournies par l&apos;Open Glider Network. Nous remercions Christian Engelhardt pour cette implémentation. Consultez le manuel pour plus d&apos;informations.</translation>
+        <translation type="vanished">Enroute Flight Navigatio permet désormais d&apos;afficher les données de trafic fournies par l&apos;Open Glider Network. Nous remercions Christian Engelhardt pour cette implémentation. Consultez le manuel pour plus d&apos;informations.</translation>
     </message>
     <message>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Consult the manual for more information.</source>
         <translation type="vanished">Enroute Flight Navigation peut désormais afficher les données de trafic fournies par l&apos;Open Glider Network. Consultez le manuel pour plus d&apos;informations.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="310"/>
+        <location filename="../../../src/Librarian.cpp" line="311"/>
         <source>Enroute Flight Navigation is now available on Mac computers with Apple Silcon processor (M1 or newer). Download it on the App Store.</source>
         <translation>Enroute Flight Navigation est désormais disponible pour les ordinateurs Mac équipés d&apos;un processeur Apple Silcon (M1 ou supérieur). Téléchargez-la sur l&apos;App Store.</translation>
     </message>
@@ -2809,7 +2832,7 @@ Message: Enroute Flight Navigation
         <translation type="vanished">Nous remercions Heinz Blöchinger pour son aide à la mise en œuvre !</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="321"/>
+        <location filename="../../../src/Librarian.cpp" line="322"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Nous avons besoin d&apos;aide avec des graphiques promotionnels pour les app stores et avec des vidéos explicatives. Si vous êtes un artiste graphique/vidéo et que vous souhaitez aider, n&apos;hésitez pas à nous contacter.</translation>
     </message>

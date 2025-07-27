@@ -1562,104 +1562,119 @@ Message: Enroute Flight Navigation
         <translation>… v GPX formátu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="402"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="400"/>
+        <source>Copy as Flight Plan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="410"/>
+        <source>Flight plan copied to clipboard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="412"/>
+        <source>No flight route to copy</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="420"/>
         <source>Clear</source>
         <translation>Odstranit vše</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="414"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="432"/>
         <source>Reverse</source>
         <translation>Otočit pořadí</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="421"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="439"/>
         <source>Flight route reversed</source>
         <translation>Pořadí trati obráceno</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="439"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="457"/>
         <source>Route</source>
         <translation>Trať</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="440"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="545"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="458"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="563"/>
         <source>Wind</source>
         <translation>Vítr</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="472"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="490"/>
         <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below or double click on any point in the moving map.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Prázdná trať&lt;/h3&gt;&lt;p&gt;Použijte tlačítko &lt;strong&gt;Přidat navigační bod&lt;/strong&gt; nebo dvakrát klikněte na bod na mapě.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="555"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="573"/>
         <source>Direction from</source>
         <translation>Směr od</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="587"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="605"/>
         <source>Speed</source>
         <translation>Rychlost</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="680"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="698"/>
         <source>One waypoint: direct route from ownship position</source>
         <translation>Jeden navigační bod: Přímá trasa ze současné polohy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="706"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="724"/>
         <source>Add Waypoint</source>
         <translation>Přidat navigační bod</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="721"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="852"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="739"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="870"/>
         <source>Add Waypoint to Route</source>
         <translation>Přidat bod do trati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="750"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="768"/>
         <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
         <translation>Vyberte navigační bod ze seznamu níže, nebo &lt;a href=&apos;xx&apos;&gt;zadejte souřadnice ručně&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="771"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="789"/>
         <source>Filter by Name</source>
         <translation>Filtrovat podle názvu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="791"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="809"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné navigační body neodpovídají vašemu filtru.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="828"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="846"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné navigační body nejsou k dispozici. Ujistěte se prosím, že je nainstalována letecká mapa.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="829"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="847"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné navigační body neodpovídají vaším vyhledávaným údajům.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="870"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="888"/>
         <source>Clear Route?</source>
         <translation>Odstranit vše z tratě?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="873"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="891"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>Po odstranění nebude možný návrat k současné trati.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="878"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="896"/>
         <source>Flight route cleared</source>
         <translation>Traťové body odstraněny</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="900"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="918"/>
         <source>Error Exporting Data…</source>
         <translation>Chyba při exportování údajů…</translation>
     </message>
@@ -2292,6 +2307,11 @@ Message: Enroute Flight Navigation
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="76"/>
+        <source>Christian Engelhardt implemented the OGN network connection, flight plan export and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="79"/>
         <source>Tom Linz completed height density calculation. He received his PPL license in late 2024. Tom works as a development engineer for safety systems.</source>
         <translation type="unfinished"></translation>
@@ -2576,13 +2596,13 @@ Message: Enroute Flight Navigation
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="267"/>
-        <source>The server forwards requests for NOTAMs to a Federal Aviation Administration web service but hides your IP address, so the service will never see it.</source>
+        <location filename="../../../src/Librarian.cpp" line="305"/>
+        <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Flight routes can now be copied to the clipboard in ICAO flight plan format. We thank Christian Engelhardt for the implementation of these features. Consult the manual for more information.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="76"/>
-        <source>Christian Engelhardt implemented the OGN network connection and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
+        <location filename="../../../src/Librarian.cpp" line="267"/>
+        <source>The server forwards requests for NOTAMs to a Federal Aviation Administration web service but hides your IP address, so the service will never see it.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2665,17 +2685,12 @@ Message: Enroute Flight Navigation
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="305"/>
-        <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. We thank Christian Engelhardt for the implementation. Consult the manual for more information.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="310"/>
+        <location filename="../../../src/Librarian.cpp" line="311"/>
         <source>Enroute Flight Navigation is now available on Mac computers with Apple Silcon processor (M1 or newer). Download it on the App Store.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="321"/>
+        <location filename="../../../src/Librarian.cpp" line="322"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -5094,12 +5109,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="58"/>
         <source>Necessary permission have been denied.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Požadované oprávnění byly zamítnuty.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="83"/>
         <source>An unknown error has occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastala neznámá chyba.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="86"/>
@@ -5139,7 +5154,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="107"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oprávnění, požadovaná operačním systémem, nebyly uživatelem povoleny.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="118"/>
@@ -5197,7 +5212,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="78"/>
         <source>Necessary permission have been denied.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Požadované oprávnění byly zamítnuty.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="111"/>
@@ -5207,7 +5222,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="121"/>
         <source>An unknown error has occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nastala neznámá chyba.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="124"/>
@@ -5247,7 +5262,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="145"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oprávnění, požadovaná operačním systémem, nebyly uživatelem povoleny.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="148"/>
@@ -5577,67 +5592,67 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="50"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="187"/>
         <source>Airship</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vzducholoď</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="52"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="190"/>
         <source>Balloon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Balón</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="54"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="193"/>
         <source>Copter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vrtulník</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="56"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="196"/>
         <source>Drone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dron</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="58"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="199"/>
         <source>Glider</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kluzák</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="60"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="202"/>
         <source>Hang glider</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Závěsný kluzák</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="62"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="205"/>
         <source>Jet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Proudový letoun</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="64"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="208"/>
         <source>Paraglider</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paraglider</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="66"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="211"/>
         <source>Skydiver</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Parašutista</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="68"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="214"/>
         <source>Static Obstacle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pevný bod</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="70"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="217"/>
         <source>Tow Plane</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlečná</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="72"/>
@@ -5658,7 +5673,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="225"/>
         <source>Position unknown</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neznámá poloha</translation>
     </message>
 </context>
 <context>
