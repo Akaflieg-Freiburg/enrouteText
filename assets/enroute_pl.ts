@@ -2551,17 +2551,17 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="400"/>
         <source>Copy as Flight Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>Skopiuj jako plan lotu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="410"/>
         <source>Flight plan copied to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Plan lotu skopiowany do schowka</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="412"/>
         <source>No flight route to copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak planu lotu do skopiowania</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="439"/>
@@ -3620,7 +3620,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="76"/>
         <source>Christian Engelhardt implemented the OGN network connection, flight plan export and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Christian Engelhardt wdrożył połączenie sieciowe OGN, eksport planów lotu i rozpoczął wdrażanie obliczeń gęstości wysokości. Christian jest pilotem z licencją PPL w południowych Niemczech, studiował elektrotechnikę i pracuje jako inżynier oprogramowania wbudowanego.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="90"/>
@@ -3741,7 +3741,31 @@ z danymi konta bankowego.
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+
+&lt;p&gt;Wersja %1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; to darmowa aplikacja nawigacyjna dla pilotów VFR, opracowana w ramach projektu Akaflieg Freiburg.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+&lt;li&gt;Prosta, elegancka i funkcjonalna&lt;/li&gt;
+&lt;li&gt;Bez reklam, bez komercyjnej wersji „pro”&lt;/li&gt;
+&lt;li&gt;Bez rejestracji, bez członkostwa&lt;/li&gt;
+&lt;li&gt;Nie szpieguje&lt;/li&gt;
+&lt;li&gt;W 100% Open Source, napisana bez korzyści komercyjnych&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sprawdź &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;stronę internetową&lt;/a&gt;, aby uzyskać więcej informacji.&lt;/p&gt;
+
+&lt;h3&gt;Sponsor akademicki&lt;/h3&gt;
+
+&lt;p&gt;Autor z wdzięcznością dziękuje za wsparcie naszemu sponsorowi akademickiemu, &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Uniwersytetowi we Fryburgu&lt;/a&gt;. Uniwersytet uprzejmie udostępnia infrastrukturę wykorzystywaną do generowania naszych map oraz przepustowość wymaganą do ich obsługi.&lt;/p&gt;
+
+&lt;h3&gt;Podziękowania&lt;/h3&gt;
+
+&lt;p&gt;Ten program opiera się na wielu bibliotekach open source, w tym &lt;a href=&quot;https://https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt; i &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dane lotnicze są udostępniane przez projekty &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; i &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;. Mapy bazowe zostały udostępnione przez &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Więcej szczegółów można znaleźć w dokumentacji.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="198"/>
@@ -3881,7 +3905,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="305"/>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Flight routes can now be copied to the clipboard in ICAO flight plan format. We thank Christian Engelhardt for the implementation of these features. Consult the manual for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nawigacja Enroute Flight Navigation może teraz wyświetlać dane o ruchu lotniczym dostarczane przez Open Glider Network. Trasy lotów można teraz kopiować do schowka w formacie planu lotu ICAO. Dziękujemy Christianowi Engelhardtowi za wdrożenie tych funkcji. Więcej informacji można znaleźć w instrukcji obsługi.</translation>
     </message>
     <message>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Consult the manual for more information.</source>
@@ -7889,7 +7913,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="111"/>
         <source>Received data from unknown characteristic %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otrzymano dane z nieznanej charakterystyki %1.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="121"/>
@@ -7944,12 +7968,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="160"/>
         <source>Nordic UART Service found. Requesting service characteristics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Znaleziono usługę Nordic UART. Żądanie charakterystyki usługi.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="172"/>
         <source>Simple UART Service found. Requesting service characteristics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Znaleziono prostą usługę UART. Żądanie charakterystyki usługi.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="179"/>
@@ -7959,7 +7983,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="206"/>
         <source>The Nordic UART Service does not contain the TX characteristic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usługa Nordic UART nie obejmuje charakterystyki TX.</translation>
     </message>
     <message>
         <source>UART service found. Requesting service characteristics.</source>
@@ -8003,12 +8027,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="224"/>
         <source>The Simple UART Service does not contain the TX characteristic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usługa Prosty UART nie zawiera charakterystyki TX.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="238"/>
         <source>No UART Service available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usługa UART niedostępna.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="246"/>
