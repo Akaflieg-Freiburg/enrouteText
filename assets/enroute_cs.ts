@@ -344,7 +344,7 @@
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="93"/>
         <source>We aim to provide high-quality software.</source>
-        <translation>Našim cílem je poskytovat kvalitní software</translation>
+        <translation>Naším cílem je poskytovat kvalitní software.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/BugReportPage.qml" line="94"/>
@@ -647,7 +647,7 @@ mají vždy přednost.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="318"/>
         <source>Use these services only if you agree to the data handling practices of the Open Glider Network.</source>
-        <translation>Využívejte tyto služby, pouze pokud souhlasíte se zpracováním vašich údajů poskytovateli Open Glider Network</translation>
+        <translation>Využívejte tyto služby, pouze pokud souhlasíte se zpracováním vašich údajů poskytovateli Open Glider Network.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="332"/>
@@ -1007,7 +1007,7 @@ mají vždy přednost.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="582"/>
         <source>the request could not be completed due to a conflict with the current state of the resource</source>
-        <translation>Čekáme na polohové údaje z GPS, abychom vám mohli doporučit mapy, které by pro vás byly vhodné. Čekejte prosím.</translation>
+        <translation>požadavek nemohl být splněn kvůli konfliktu se stávajícím stavem zdroje</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="587"/>
@@ -1075,7 +1075,7 @@ mají vždy přednost.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="57"/>
         <source>Enroute is unable to establish a secure internet connection to one or several servers.</source>
-        <translation>Enroute nedokáže navázat zabezpečené internetové spojení k jednomu nebo více serverů</translation>
+        <translation>Enroute nedokáže navázat zabezpečené internetové spojení k jednomu nebo více serverů.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="65"/>
@@ -1123,7 +1123,7 @@ mají vždy přednost.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="211"/>
         <source>Download all updates…</source>
-        <translation>Stáhnout všechny aktualizace</translation>
+        <translation>Stáhnout všechny aktualizace...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="226"/>
@@ -1564,17 +1564,17 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="400"/>
         <source>Copy as Flight Plan</source>
-        <translation type="unfinished"></translation>
+        <translation>Zkopírovat jako letový plán</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="410"/>
         <source>Flight plan copied to clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Letový plán zkopírován do schránky</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="412"/>
         <source>No flight route to copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádná trať ke kopírování</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="420"/>
@@ -1739,7 +1739,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="244"/>
         <source>Share…</source>
-        <translation>Sdílet</translation>
+        <translation>Sdílet...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="244"/>
@@ -1798,7 +1798,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="341"/>
         <source>Rename…</source>
-        <translation>Přejmenovat</translation>
+        <translation>Přejmenovat...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="353"/>
@@ -2090,7 +2090,7 @@ Message: Enroute Flight Navigation
         <location filename="../../../src/qml/items/ImportManager.qml" line="310"/>
         <location filename="../../../src/qml/items/ImportManager.qml" line="371"/>
         <source>Enter a name for this map.</source>
-        <translation>Zadejte název pro tuto mapu</translation>
+        <translation>Zadejte název pro tuto mapu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="239"/>
@@ -2700,7 +2700,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="599"/>
         <source>There is no aviation map installed.</source>
-        <translation>Neni nainstalována žádná letecká mapa</translation>
+        <translation>Neni nainstalována žádná letecká mapa.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="601"/>
@@ -2807,12 +2807,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/notam/NOTAMProvider.cpp" line="460"/>
         <source>NOTAMs not current around own position, requesting update</source>
-        <translation>NOTAMy v blízkosti vaší polohy nejsou aktuální, žádám o aktualizaci.</translation>
+        <translation>NOTAMy v blízkosti vaší polohy nejsou aktuální, žádám o aktualizaci</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NOTAMProvider.cpp" line="467"/>
         <source>NOTAMs not current around waypoint, requesting update</source>
-        <translation>NOTAMy v blízkosti navigačního bodu nejsou aktuální, žádám o aktualizaci.</translation>
+        <translation>NOTAMy v blízkosti navigačního bodu nejsou aktuální, žádám o aktualizaci</translation>
     </message>
 </context>
 <context>
@@ -3165,65 +3165,65 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/FileExchange_Android.cpp" line="109"/>
         <source>No suitable file sharing app could be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebyla nalezena žádná vhodná aplikace pro sdílení souborů.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Android.cpp" line="121"/>
         <source>No suitable app for viewing this data could be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebyla nalezena žádná vhodná aplikace pro zobrazení údajů.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_iOS.cpp" line="96"/>
         <source>Could not find file </source>
-        <translation type="unfinished"></translation>
+        <translation>Nebylo možné nalézt soubor </translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="44"/>
         <source>Import data</source>
-        <translation type="unfinished"></translation>
+        <translation>Načíst údaje</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="44"/>
         <source>All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Všechny soubory (*)</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="57"/>
         <source>Export Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Exportovat údaje</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="57"/>
         <source>%1 (*.%2);;All files (*)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (*.%2);;Všechny soubory (*)</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="65"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="65"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze otevřít soubor &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="70"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="70"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze zapisovat do souboru &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="82"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="82"/>
         <source>Unable to open temporary file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze otevřít dočasný soubor.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="93"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="93"/>
         <source>Unable to open data in other app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze otevřít údaje v druhé aplikaci.</translation>
     </message>
 </context>
 <context>
@@ -3524,7 +3524,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="56"/>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control the external website.</source>
-        <translation>Autoři &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; nemají pod kontrolou externí webovou stránku</translation>
+        <translation>Autoři &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; nemají pod kontrolou externí webovou stránku.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/PrivacyWarning.qml" line="57"/>
@@ -4320,7 +4320,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="261"/>
         <source>Warnings will be shown again.</source>
-        <translation>Varování budou opět zobrazována</translation>
+        <translation>Varování budou opět zobrazována.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="274"/>
@@ -4335,7 +4335,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="292"/>
         <source>Currently using traffic data receiver</source>
-        <translation>Připojit k přijímači leteckého provozu...</translation>
+        <translation>Aktuálně používán přijímač letového provozu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="294"/>
@@ -4633,7 +4633,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <location filename="../../../src/traffic/FlarmnetDB.cpp" line="89"/>
         <location filename="../../../src/traffic/FlarmnetDB.cpp" line="130"/>
         <source>Placeholder file.</source>
-        <translation>Rezervované místo pro soubor</translation>
+        <translation>Rezervované místo pro soubor.</translation>
     </message>
 </context>
 <context>
@@ -4641,19 +4641,19 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="53"/>
         <source>Traffic data receiver</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijímač leteckého provozu</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="140"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="35"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothLowEnergy.cpp" line="31"/>
         <source>Invalid connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatné spojení.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="152"/>
         <source>Unable to add FLARM simulator file connection. This is not implemented at the moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze přidat propojení na soubor FLARM simulator. V současnosti toto není implementováno.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="169"/>
@@ -4663,42 +4663,42 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="46"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothLowEnergy.cpp" line="42"/>
         <source>A connection to this device already exists.</source>
-        <translation type="unfinished"></translation>
+        <translation>Propojení k tomuto zařízení již existuje.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="201"/>
         <source>Serial ports are not supported on this platform.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seriové porty nejsou na této platformě podporovány.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="615"/>
         <source>Receiving data through an internet service, which might be unreliable. Consider connecting to a proper traffic data receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostávám udaje skrz internetovou službu, která může být nespolehlivá. Zvažte připojení k zažízení, určené pro příjem údajů o leteckém provozu.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="619"/>
         <source>Receiving heartbeat.</source>
-        <translation type="unfinished">Dostávám heartbeat</translation>
+        <translation>Dostávám heartbeat.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="623"/>
         <source>Receiving position info.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostávám polohové údaje.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="627"/>
         <source>Receiving barometric altitude info.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostávám údaje o tlakové výšce.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="633"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedostávám heartbeat z žádných nastavených datových připojení.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="28"/>
         <source>Due to platform limitation, connections to Bluetooth Classic devices are not supported in iOS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kvůli omezení platformy, propojení s Bluetooth Classic zařízeními není podporováno na iOS.</translation>
     </message>
 </context>
 <context>
@@ -4706,244 +4706,244 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="547"/>
         <source>No Error</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez chyby</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="551"/>
         <source>Normal Operation</source>
-        <translation type="unfinished"></translation>
+        <translation>Normální provoz</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="555"/>
         <source>Reduced Functionality</source>
-        <translation type="unfinished"></translation>
+        <translation>Snížená funkčnost</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="559"/>
         <source>Device INOP</source>
-        <translation type="unfinished"></translation>
+        <translation>Zařízení nefunguje</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="564"/>
         <source>Error code: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Chybová hláška: %1</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="568"/>
         <source>Firmware expired</source>
-        <translation type="unfinished"></translation>
+        <translation>Firmware expiroval</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="572"/>
         <source>Firmware update error</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba při aktualizaci firmaware</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="576"/>
         <source>Power (Voltage &lt; 8V)</source>
-        <translation type="unfinished"></translation>
+        <translation>Napájení (Napětí &lt; 8V)</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="580"/>
         <source>UI error</source>
-        <translation type="unfinished"></translation>
+        <translation>UI chyba</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="584"/>
         <source>Audio error</source>
-        <translation type="unfinished"></translation>
+        <translation>Audio chyba</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="588"/>
         <source>ADC error</source>
-        <translation type="unfinished"></translation>
+        <translation>ADC chyba</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="592"/>
         <source>SD card error</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba SD karty</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="596"/>
         <source>USB error</source>
-        <translation type="unfinished"></translation>
+        <translation>USB chyba</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="600"/>
         <source>LED error</source>
-        <translation type="unfinished"></translation>
+        <translation>LED chyba</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="604"/>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="616"/>
         <source>EEPROM error</source>
-        <translation type="unfinished"></translation>
+        <translation>EEPROM chyba</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="608"/>
         <source>General hardware error</source>
-        <translation type="unfinished"></translation>
+        <translation>Obecná chyba hardwaru</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="612"/>
         <source>Transponder receiver Mode-C/S/ADS-B unserviceable</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijímač Mode-C/S/ADS-B Transponderu nepoužitelný</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="620"/>
         <source>GPIO error</source>
-        <translation type="unfinished"></translation>
+        <translation>GPIO chyba</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="624"/>
         <source>GPS communication</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS komunikace</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="628"/>
         <source>Configuration of GPS module</source>
-        <translation type="unfinished"></translation>
+        <translation>Konfigurace GPS modulu</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="632"/>
         <source>GPS antenna</source>
-        <translation type="unfinished"></translation>
+        <translation>GPS anténa</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="636"/>
         <source>RF communication</source>
-        <translation type="unfinished"></translation>
+        <translation>RF komunikace</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="640"/>
         <source>Another FLARM device with the same Radio ID is being received. Alarms are suppressed for the relevant device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jsou přijímaná signály od dalšího FLARM zařízení se stejným Radio ID. Výstrahy pro dané zařízení jsou potlačeny.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="644"/>
         <source>Wrong ICAO 24-bit address or radio ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Nesprávná ICAO 24-bit adresa nebo Radio ID</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="648"/>
         <source>Communication</source>
-        <translation type="unfinished"></translation>
+        <translation>Komunikace</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="652"/>
         <source>Flash memory</source>
-        <translation type="unfinished"></translation>
+        <translation>Flash paměť</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="656"/>
         <source>Pressure sensor</source>
-        <translation type="unfinished"></translation>
+        <translation>Tlakový snímač</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="660"/>
         <source>Obstacle database (e.g. incorrect file type)</source>
-        <translation type="unfinished"></translation>
+        <translation>Databáze překážek (např. nesprávný typ souboru)</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="664"/>
         <source>Obstacle database expired.</source>
-        <translation type="unfinished"></translation>
+        <translation>Platnost databáze překážek výpršela.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="668"/>
         <source>Flight recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>Letový zapisovač</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="672"/>
         <source>Engine-noise recording not possible</source>
-        <translation type="unfinished"></translation>
+        <translation>Nahrávání hluku motoru není možné</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="676"/>
         <source>Range analyzer</source>
-        <translation type="unfinished"></translation>
+        <translation>Analyzér vzdálenosti</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="680"/>
         <source>Configuration error, e.g. while reading flarmcfg.txt from SD/USB.</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba konfigurace, např. při čtení flarmcfg.txt z SD/USB.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="684"/>
         <source>Invalid obstacle database license (e.g. wrong serial number)</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná licence databáze překážek (např. chybné seriové číslo)</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="688"/>
         <source>Invalid IGC feature license</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná licence pro funkčnost IGC</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="692"/>
         <source>Invalid AUD feature license</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná licence pro funkčnost AUD</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="696"/>
         <source>Invalid ENL feature license</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná licence pro funkčnost ENL</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="700"/>
         <source>Invalid RFB feature license</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná licence pro funkčnost RFB</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="704"/>
         <source>Invalid TIS feature license</source>
-        <translation type="unfinished"></translation>
+        <translation>Neplatná licence pro funkčnost TIS</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="708"/>
         <source>Generic error</source>
-        <translation type="unfinished"></translation>
+        <translation>Obecná chyba</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="712"/>
         <source>Flash File System error</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba souborového systému na flash</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="716"/>
         <source>Failure updating firmware of external display</source>
-        <translation type="unfinished"></translation>
+        <translation>Chyba při aktualizaci firmware externího displeje</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="720"/>
         <source>Device is operated outside the designated region. The device does not work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zažízení je provozováno mimo určený region. Zařízení je nefunkční.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="757"/>
         <source>No FLARM transmission</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádné FLARM vysílání</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="762"/>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="251"/>
         <source>No GPS reception</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádný příjem GPS</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="767"/>
         <source>Under- or Overvoltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Příliš nízké nebo vysoké napětí</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="254"/>
         <source>Maintenance required</source>
-        <translation type="unfinished"></translation>
+        <translation>Požadován servisní zásah</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="257"/>
         <source>GPS Battery low voltage</source>
-        <translation type="unfinished"></translation>
+        <translation>Nízké napětí baterie GPS</translation>
     </message>
 </context>
 <context>
@@ -5207,164 +5207,164 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="51"/>
         <source>Bluetooth LE connection to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth LE připojení k %1</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="78"/>
         <source>Necessary permission have been denied.</source>
-        <translation type="unfinished">Požadované oprávnění byly zamítnuty.</translation>
+        <translation>Požadované oprávnění byly zamítnuty.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="111"/>
         <source>Received data from unknown characteristic %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijímám data z neznámého zdroje %1.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="121"/>
         <source>An unknown error has occurred.</source>
-        <translation type="unfinished">Nastala neznámá chyba.</translation>
+        <translation>Nastala neznámá chyba.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="124"/>
         <source>The remote Bluetooth Low Energy device with the address passed to the constructor of this class cannot be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzdálené zařízení Bluetooth Low Energy s adresou předanou konstruktoru není nalezeno.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="127"/>
         <source>The attempt to read from or write to the remote device failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokus o čtení nebo zápis do vzdáleného zařízení selhal.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="130"/>
         <source>The local Bluetooth device with the address passed to the constructor of this class cannot be found or there is no local Bluetooth device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokální zařízení Bluetooth s adresou předanou konstruktoru této třídy není nalezeno, nebo neexistuje lokální Bluetooth zařízení.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="133"/>
         <source>The attempt to connect to the remote device failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokus o připojení ke vzdálenému zařízení selhal.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="136"/>
         <source>The attempt to start advertising failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokus o začátek advertisingu selhal.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="139"/>
         <source>The remote device closed the connection.</source>
-        <translation type="unfinished"></translation>
+        <translation>Vzdálené zařízení uzavřelo spojení.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="142"/>
         <source>The local Bluetooth device closed the connection due to insufficient authorization.</source>
-        <translation type="unfinished"></translation>
+        <translation>Lokální Bluetooth zařízení uzavřelo spojení kvůli nedostatečnému oprávnění.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="145"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
-        <translation type="unfinished">Oprávnění, požadovaná operačním systémem, nebyly uživatelem povoleny.</translation>
+        <translation>Operační systém požaduje oprávnění, které nebyly uživatelem povoleny.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="148"/>
         <source>An attempt to read RSSI (received signal strength indicator) of a remote device finished with error.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokus o čtení RSSI (Received Signal Strength Indicator) vzdáleného zařízení skončil chybou.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="160"/>
         <source>Nordic UART Service found. Requesting service characteristics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nalezeno Nordic UART Service. Výžaduji charakteristiky service.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="172"/>
         <source>Simple UART Service found. Requesting service characteristics.</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple Nordic UART Service. Výžaduji charakteristiky service.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="179"/>
         <source>No UART service found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nenalezeno žádné UART service.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="206"/>
         <source>The Nordic UART Service does not contain the TX characteristic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nordic UART Service neobsahuje TX characteristiku.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="187"/>
         <source>Invalid Service.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nevalidní service.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="190"/>
         <source>Service details unknown.</source>
-        <translation type="unfinished"></translation>
+        <translation>Neznámé podrobnosti service.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="193"/>
         <source>Requesting service details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Výžaduji podrobnosti service.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="212"/>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="230"/>
         <source>Cannot open the client characteristic configuration descriptor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nelze otevřít deskriptor konfigurace klientské cjarakteristiky.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="216"/>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="234"/>
         <source>Data transfer enabled.</source>
-        <translation type="unfinished"></translation>
+        <translation>Datový přenos povolen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="224"/>
         <source>The Simple UART Service does not contain the TX characteristic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Simple UART Service neobsahuje TX characteristiku.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="238"/>
         <source>No UART Service available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Žádná UART service není k dispozici.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="246"/>
         <source>The controller is not connected to a remote device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroler není připojen ke vzdálenému zařízení.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="249"/>
         <source>The controller is attempting to connect to a remote device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroler se pokouší připojit ke vzdálenému zařízení.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="252"/>
         <source>The controller is connected to a remote device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroler je připojen ke vzdálenému zařízení.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="255"/>
         <source>The controller is retrieving the list of services offered by the remote device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroler získává seznam poskytovaných služeb od vzdáleného zařízení.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="258"/>
         <source>The controller has discovered all services offered by the remote device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroler objevil všechny služby, poskytované vzdáleným zařízením.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="261"/>
         <source>The controller is about to be disconnected from the remote device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroler bude odpojen od vzdáleného zařízení.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="264"/>
         <source>The controller is currently advertising data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontroler aktuálně poskytuje data.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="49"/>
         <source>Unnamed Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepojmenované zařízení</translation>
     </message>
 </context>
 <context>
@@ -5372,87 +5372,87 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="159"/>
         <source>Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Připojen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="161"/>
         <source>Not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepřipojen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="170"/>
         <source>An error occurred when reading from the file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastala chyba při čtení ze souboru.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="173"/>
         <source>An error occurred when writing to the file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastala chyba při zápisu do souboru.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="176"/>
         <source>A fatal error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastala fatální chyba.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="179"/>
         <source>Out of resources (e.g., too many open files, out of memory, etc.)</source>
-        <translation type="unfinished"></translation>
+        <translation>Došly zdroje (např. příliš mnoho otevřených souborů, nedostatek paměti, apod.)</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="182"/>
         <source>The file could not be opened.</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor nemohl být otevřen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="185"/>
         <source>The operation was aborted.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operace byla stornována.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="188"/>
         <source>A timeout occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastal timeout.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="191"/>
         <source>An unspecified error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastala nespecifikovaná chyba.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="194"/>
         <source>The file could not be removed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebylo možné soubor odstranit.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="197"/>
         <source>The file could not be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebylo možné soubor přejmenovat.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="200"/>
         <source>The position in the file could not be changed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebylo možné změnit polohu v souboru.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="203"/>
         <source>The file could not be resized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebylo možné změnit velikost souboru.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="206"/>
         <source>The file could not be accessed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebylo možné získat přístup k souboru.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.cpp" line="209"/>
         <source>The file could not be copied.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nebylo možné zkopírovat soubor.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_File.h" line="87"/>
         <source>Simulator file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Soubor simulátoru %1</translation>
     </message>
 </context>
 <context>
@@ -5460,7 +5460,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="122"/>
         <source>OGN glidernet.org APRS-IS connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Připojení OGN glidernet.org APRS-IS</translation>
     </message>
 </context>
 <context>
@@ -5468,77 +5468,77 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="44"/>
         <source>Due to platform limitations, serial ports are not supported on iOS.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kvůli omezení platformy, seriové porty nejsou podporovány na iOS.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="55"/>
         <source>Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Připojen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="68"/>
         <source>Not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepřipojen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="79"/>
         <source>Non-existing device</source>
-        <translation type="unfinished"></translation>
+        <translation>Neexistující zažízení</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="82"/>
         <source>Attempting to open an already opened device by another process or a user not having enough permission and credentials to open.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pokus o otevření již otevřeného zařízení jiným procesem nebo uživatelem bez dostatečného oprávnění pro danou operaci.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="85"/>
         <source>An error occurred while attempting to open an already opened device in this object.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastala chyba při pokusu o otevření již otevřeného zařízení v tomto objektu.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="88"/>
         <source>Attempted to execute an operation that can only be successfully performed if the device is open.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastal pokus o operaci, která je možná pouze pokud je dané zařízení otevřeno.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="91"/>
         <source>I/O error while writing data.</source>
-        <translation type="unfinished"></translation>
+        <translation>I/O chyba při čtení dat.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="94"/>
         <source>I/O error while reading data.</source>
-        <translation type="unfinished"></translation>
+        <translation>I/O chyba při zápisu dat.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="97"/>
         <source>I/O error occurred when a resource becomes unavailable, e.g. when the device is unexpectedly removed from the system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastala I/O chyba v případě, kdy je zdroj nedostupný, např. když je zařízení nečekaně odstraněno ze systému.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="100"/>
         <source>Device operation unsupported or prohibited by the operating system.</source>
-        <translation type="unfinished"></translation>
+        <translation>Operace na zařízení je nepodporována nebo nepovolena operačním systémem.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="103"/>
         <source>A timeout error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastala timeout chyba.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="106"/>
         <source>An unidentified error occurred.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nastala neznámá chyba.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="125"/>
         <source>Unnamed Device</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepojmenované zařízení</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="127"/>
         <source>Serial port connection to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Serioové připojení k %1</translation>
     </message>
 </context>
 <context>
@@ -5546,17 +5546,17 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="46"/>
         <source>Connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Připojen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.cpp" line="53"/>
         <source>Not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nepřipojen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Simulate.h" line="76"/>
         <source>Simulator data</source>
-        <translation type="unfinished"></translation>
+        <translation>Data simulátoru</translation>
     </message>
 </context>
 <context>
@@ -5564,7 +5564,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Tcp.h" line="122"/>
         <source>TCP connection to %1 port %2</source>
-        <translation type="unfinished"></translation>
+        <translation>TCP připojení k %1 port %2</translation>
     </message>
 </context>
 <context>
@@ -5572,12 +5572,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Udp.cpp" line="95"/>
         <source>Receiving Data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Přijímám data.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Udp.h" line="106"/>
         <source>UDP connection to port %1</source>
-        <translation type="unfinished"></translation>
+        <translation>UDP připojení k portu %1</translation>
     </message>
 </context>
 <context>
@@ -5586,94 +5586,94 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="48"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="184"/>
         <source>Aircraft</source>
-        <translation type="unfinished">Letadla</translation>
+        <translation>Letadla</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="50"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="187"/>
         <source>Airship</source>
-        <translation type="unfinished">Vzducholoď</translation>
+        <translation>Vzducholoď</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="52"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="190"/>
         <source>Balloon</source>
-        <translation type="unfinished">Balón</translation>
+        <translation>Balón</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="54"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="193"/>
         <source>Copter</source>
-        <translation type="unfinished">Vrtulník</translation>
+        <translation>Vrtulník</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="56"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="196"/>
         <source>Drone</source>
-        <translation type="unfinished">Dron</translation>
+        <translation>Dron</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="58"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="199"/>
         <source>Glider</source>
-        <translation type="unfinished">Kluzák</translation>
+        <translation>Kluzák</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="60"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="202"/>
         <source>Hang glider</source>
-        <translation type="unfinished">Závěsný kluzák</translation>
+        <translation>Závěsný kluzák</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="62"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="205"/>
         <source>Jet</source>
-        <translation type="unfinished">Proudový letoun</translation>
+        <translation>Proudový letoun</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="64"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="208"/>
         <source>Paraglider</source>
-        <translation type="unfinished">Paraglider</translation>
+        <translation>Paraglider</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="66"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="211"/>
         <source>Skydiver</source>
-        <translation type="unfinished">Parašutista</translation>
+        <translation>Parašutista</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="68"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="214"/>
         <source>Static Obstacle</source>
-        <translation type="unfinished">Pevný bod</translation>
+        <translation>Pevný bod</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="70"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="217"/>
         <source>Tow Plane</source>
-        <translation type="unfinished">Vlečná</translation>
+        <translation>Vlečný letoun</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="72"/>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="220"/>
         <source>Traffic</source>
-        <translation type="unfinished">Provoz</translation>
+        <translation>Provoz</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="98"/>
         <source>Relevant Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Důležitý provoz</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="100"/>
         <source>Irrelevant Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Nedůležitý provoz</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_Abstract.cpp" line="225"/>
         <source>Position unknown</source>
-        <translation type="unfinished">Neznámá poloha</translation>
+        <translation>Neznámá poloha</translation>
     </message>
 </context>
 <context>
@@ -5973,7 +5973,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="571"/>
         <source>Inserted %1 into route.</source>
-        <translation>%1 přidáno do trati</translation>
+        <translation>%1 přidáno do trati.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="576"/>
@@ -6013,22 +6013,22 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="684"/>
         <source>In order to show a satellite view, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open Google Earth or Google Maps in an external web browser or a dedicated app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pro zobrazení satelitního pohledu požádá &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; váš systém o otevření Google Earth nebo Google Maps v externím prohlížecí nebo v samostatné aplikaci.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="685"/>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control Google Earth or Google Maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Autoři &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; nemají kontrolu nad Google Earth nebo Google Maps.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="689"/>
         <source>With the click on OK, you consent to opening Google Earth or Google Maps on your device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Kliknutím na OK dáváte svolení s otevřením Google Earth nebo Google Maps na vašem zařízení.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="708"/>
         <source>Always open external web sites and apps, do not ask again</source>
-        <translation type="unfinished"></translation>
+        <translation>Vždy otevírat externí webové stránky a aplikace, již se neptat</translation>
     </message>
     <message>
         <source>In order to show a satellite view, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open Google Maps in an external web browser or a dedicated app.</source>
@@ -6087,7 +6087,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="761"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
-        <translation>Jakmile bude navigační bod &lt;strong&gt;%1&lt;/strong&gt; odstraněn, nebude možné jej obnovit</translation>
+        <translation>Jakmile bude navigační bod &lt;strong&gt;%1&lt;/strong&gt; odstraněn, nebude možné jej obnovit.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="769"/>
@@ -6228,7 +6228,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="119"/>
         <source>Import</source>
-        <translation>Import…</translation>
+        <translation>Import</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="120"/>
@@ -6419,7 +6419,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="230"/>
         <source>Downloading data...</source>
-        <translation>Stahuji údaje</translation>
+        <translation>Stahuji údaje...</translation>
     </message>
 </context>
 <context>
@@ -6427,12 +6427,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="76"/>
         <source>Cloud cover %1/8, %2, base height %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblačnost %1/8, %2, základna oblačnosti %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="81"/>
         <source>Cloud cover %1/8, %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Oblačnost %1/8, %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="91"/>
@@ -6452,364 +6452,364 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="1925"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1968"/>
         <source>not reported</source>
-        <translation type="unfinished"></translation>
+        <translation>není hlášena</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="94"/>
         <source>variable</source>
-        <translation type="unfinished"></translation>
+        <translation>proměnlivý</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="97"/>
         <source>no directional variation</source>
-        <translation type="unfinished"></translation>
+        <translation>bez směrového kolísání</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="104"/>
         <source>[unable to produce value in °]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nelze získat hodnotu v °]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="118"/>
         <source>overhead</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nad</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="121"/>
         <source>all quadrants (all directions)</source>
-        <translation type="unfinished"></translation>
+        <translation>všechny kvadranty (ve všech směrech)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="124"/>
         <source>unknown direction</source>
-        <translation type="unfinished"></translation>
+        <translation>neznámý směr</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="169"/>
         <source>19 to 55 km</source>
-        <translation type="unfinished"></translation>
+        <translation>19 až 55 km</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="172"/>
         <source>12 to 35 mil</source>
-        <translation type="unfinished"></translation>
+        <translation>12 až 35 mil</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="175"/>
         <source>10 to 30 nm</source>
-        <translation type="unfinished"></translation>
+        <translation>10 až 30 nm</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="184"/>
         <source>9 to 19 km</source>
-        <translation type="unfinished"></translation>
+        <translation>9 až 19 km</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="187"/>
         <source>6 to 12 mil</source>
-        <translation type="unfinished"></translation>
+        <translation>6 až 12 mil</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="190"/>
         <source>5 to 10 nm</source>
-        <translation type="unfinished"></translation>
+        <translation>5 až 10 nm</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="206"/>
         <source>[unable to get distance value in miles]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nelze získat hodnotu vzdálenosti v mílích]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="237"/>
         <location filename="../../../src/weather/Decoder.cpp" line="267"/>
         <source>[unable to convert distance to meters]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nelze převést vzdálenost na metry]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="245"/>
         <source>[unable to get distance&apos;s floating-point value]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nelze získat hodnotu vzdálenosti jako číslo s plovoucí desetinnou čárkou]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="298"/>
         <source>no value</source>
-        <translation type="unfinished"></translation>
+        <translation>žádná hodnota</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="337"/>
         <source>trace amount</source>
-        <translation type="unfinished"></translation>
+        <translation>stopové množství</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="345"/>
         <source>[unable to convert precipitation to mm]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nelze převést srážky na mm]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="361"/>
         <source>[unable to convert pressure to hPa]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nelze převést tlak na hPa]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="368"/>
         <source>all runways</source>
-        <translation type="unfinished"></translation>
+        <translation>všechny dráhy</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="371"/>
         <source>same runway (repetition of last message)</source>
-        <translation type="unfinished"></translation>
+        <translation>stejná dráha (opakování poslední zprávy)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="377"/>
         <source>runway %1</source>
-        <translation type="unfinished"></translation>
+        <translation>dráha %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="380"/>
         <source>runway %1 LEFT</source>
-        <translation type="unfinished"></translation>
+        <translation>dráha %1 LEVÁ</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="383"/>
         <source>runway %1 CENTER</source>
-        <translation type="unfinished"></translation>
+        <translation>dráha %1 STŘEDOVÁ</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="386"/>
         <source>runway %1 RIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation>dráha %1 PRAVÁ</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="407"/>
         <source>[unable to convert speed to km/h]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nelze převést rychlost na km/h]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="415"/>
         <source>[unable to convert speed to knots]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nelze převést rychlost na uzly]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="430"/>
         <source>friction coefficient %1</source>
-        <translation type="unfinished"></translation>
+        <translation>koeficient tření %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="432"/>
         <source>[unable to produce a friction coefficient]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nelze získat koeficient tření]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="435"/>
         <source>braking action %1</source>
-        <translation type="unfinished"></translation>
+        <translation>brzdný účinek %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="438"/>
         <source>unreliable or unmeasurable</source>
-        <translation type="unfinished"></translation>
+        <translation>nespolehlivé nebo neměřitelné</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="451"/>
         <source>[unable to convert temperature to °C]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nelze převést teplotu na °C]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="462"/>
         <source>slightly less than %1</source>
-        <translation type="unfinished"></translation>
+        <translation>trochu méně než %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="465"/>
         <source>slightly more than %1</source>
-        <translation type="unfinished"></translation>
+        <translation>trochu více než %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="476"/>
         <source>state of sea surface: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>stav mořské hladiny: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="484"/>
         <source>wave height: %1 m</source>
-        <translation type="unfinished"></translation>
+        <translation>výška vln: %1 m</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="486"/>
         <source>[unable to convert wave height to meters]</source>
-        <translation type="unfinished"></translation>
+        <translation>[nelze převést výšku vln na metry]</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="488"/>
         <source>wave height not reported</source>
-        <translation type="unfinished"></translation>
+        <translation>výška vln nenahlášena</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="523"/>
         <source>shower</source>
-        <translation type="unfinished"></translation>
+        <translation>přeháňka</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="528"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2011"/>
         <source>thunderstorm</source>
-        <translation type="unfinished"></translation>
+        <translation>bouřka</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="537"/>
         <source>recent %1</source>
-        <translation type="unfinished"></translation>
+        <translation>minulý %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="542"/>
         <source>%1 in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="569"/>
         <source>began:</source>
-        <translation type="unfinished"></translation>
+        <translation>začátek:</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="577"/>
         <source>ended:</source>
-        <translation type="unfinished"></translation>
+        <translation>konec:</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="603"/>
         <source>poor (friction coefficient 0.0 to 0.25)</source>
-        <translation type="unfinished"></translation>
+        <translation>špatný (koeficient tření 0.0 až 0.25)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="606"/>
         <source>medium/poor (friction coefficient 0.26 to 0.29)</source>
-        <translation type="unfinished"></translation>
+        <translation>střední/špatný (koeficient tření 0.26 až 0.29)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="609"/>
         <source>medium (friction coefficient 0.30 to 0.35)</source>
-        <translation type="unfinished"></translation>
+        <translation>střední (koeficient tření 0.30 až 0.35)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="612"/>
         <source>medium/good (friction coefficient 0.36 to 0.40)</source>
-        <translation type="unfinished"></translation>
+        <translation>střední/dobrý (koeficient tření 0.36 až 0.40)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="615"/>
         <source>good (friction coefficient 0.40 to 1.00)</source>
-        <translation type="unfinished"></translation>
+        <translation>dobrý (koeficient tření 0.40 až 1.00)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="628"/>
         <source>north</source>
-        <translation type="unfinished"></translation>
+        <translation>sever</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="631"/>
         <source>south</source>
-        <translation type="unfinished"></translation>
+        <translation>jih</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="634"/>
         <source>west</source>
-        <translation type="unfinished"></translation>
+        <translation>západ</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="637"/>
         <source>east</source>
-        <translation type="unfinished"></translation>
+        <translation>východ</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="640"/>
         <source>northwest</source>
-        <translation type="unfinished"></translation>
+        <translation>severozápad</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="643"/>
         <source>northeast</source>
-        <translation type="unfinished"></translation>
+        <translation>severovýchod</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="646"/>
         <source>southwest</source>
-        <translation type="unfinished"></translation>
+        <translation>jihozápad</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="649"/>
         <source>southeast</source>
-        <translation type="unfinished"></translation>
+        <translation>jihovýchod</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="652"/>
         <source>true north</source>
-        <translation type="unfinished"></translation>
+        <translation>skutečný sever</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="655"/>
         <source>true west</source>
-        <translation type="unfinished"></translation>
+        <translation>skutečný západ</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="658"/>
         <source>true south</source>
-        <translation type="unfinished"></translation>
+        <translation>skutečný jih</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="661"/>
         <source>true east</source>
-        <translation type="unfinished"></translation>
+        <translation>skutečný východ</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="664"/>
         <source>no directional variations</source>
-        <translation type="unfinished"></translation>
+        <translation>bez směrového kolísání</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="686"/>
         <source>Cloud amount not reported</source>
-        <translation type="unfinished"></translation>
+        <translation>Množství oblačnosti nehlášeno</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="689"/>
         <source>No significant cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez význačné oblačnosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="692"/>
         <source>No cloud detected</source>
-        <translation type="unfinished"></translation>
+        <translation>Bez pozorované oblačnosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="696"/>
         <source>Clear sky</source>
-        <translation type="unfinished"></translation>
+        <translation>Jasná obloha</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="699"/>
         <source>Few clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Skoro jasno</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="702"/>
         <source>Scattered clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Polojasno</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="705"/>
         <source>Broken clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Skoro zataženo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="708"/>
         <source>Overcast clouds</source>
-        <translation type="unfinished"></translation>
+        <translation>Zataženo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="711"/>
         <source>Sky obscured</source>
-        <translation type="unfinished"></translation>
+        <translation>Obloha zastřena</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="714"/>
@@ -8608,7 +8608,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2498"/>
         <source>Density altitude is %1 feet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hustotní výška je %1 stop</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2505"/>
@@ -9346,12 +9346,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="393"/>
         <source>Hide this explanation.</source>
-        <translation>Skrýt nápovědu</translation>
+        <translation>Skrýt nápovědu.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="398"/>
         <source>Hide performance warnings.</source>
-        <translation>Skrýt varování o výkonnosti</translation>
+        <translation>Skrýt varování o výkonnosti.</translation>
     </message>
     <message>
         <source>gusts of %1 km/h</source>
@@ -9518,12 +9518,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="328"/>
         <source>Receiving position information.</source>
-        <translation>Obdržuji polohové údaje</translation>
+        <translation>Přijímám polohové údaje.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="328"/>
         <source>Not receiving position information.</source>
-        <translation>Nedostávám polohové údaje</translation>
+        <translation>Nepřijímám polohové údaje.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="347"/>
@@ -9538,7 +9538,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="349"/>
         <source>Not receiving pressure altitude.</source>
-        <translation>Nedostávám polohové údaje</translation>
+        <translation>Nepřijímám tlakovou výšku.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="370"/>
@@ -9548,12 +9548,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="372"/>
         <source>Receiving heartbeat.</source>
-        <translation>Dostávám heartbeat</translation>
+        <translation>Přijímám heartbeat.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="372"/>
         <source>Not receiving heartbeat.</source>
-        <translation>Nedostávám heartbeat</translation>
+        <translation>Nepřijímám heartbeat.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="402"/>
@@ -9635,7 +9635,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="818"/>
         <source>Connected to internet service providing traffic data.</source>
-        <translation>Připojeno k internetové službě poskytující údaje o leteckém provozu</translation>
+        <translation>Připojeno k internetové službě poskytující údaje o leteckém provozu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="820"/>
@@ -9645,7 +9645,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="822"/>
         <source>Lost connection to traffic receiver.</source>
-        <translation>Připojení k prijímači provozu přerušeno</translation>
+        <translation>Připojení k prijímači provozu přerušeno.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="871"/>
@@ -9660,7 +9660,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="908"/>
         <source>Now showing airspaces up to %1.</source>
-        <translation>Zobrazeny vzdušné prostory do %1</translation>
+        <translation>Zobrazeny vzdušné prostory do %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="910"/>
@@ -9680,7 +9680,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="944"/>
         <source>You have chosen to ignore network security errors in the future.</source>
-        <translation>Zvojili jste do budoucna ignorovat chyby při zabezpečení síťového připojení</translation>
+        <translation>Zvojili jste do budoucna ignorovat chyby při zabezpečení síťového připojení.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="945"/>
@@ -9737,7 +9737,7 @@ vyvinuta jako projekt Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="155"/>
         <source>File to import.</source>
-        <translation>Soubor k nahrání</translation>
+        <translation>Soubor k nahrání.</translation>
     </message>
 </context>
 </TS>
