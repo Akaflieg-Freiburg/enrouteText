@@ -2496,7 +2496,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="413"/>
         <source>Failed to copy flight plan</source>
-        <translation type="unfinished"></translation>
+        <translation>Konnte Flugplan nicht kopieren</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="416"/>
@@ -3966,32 +3966,32 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="304"/>
         <source>Vertical airspace boundaries are defined as barometric altitudes, either over QNH or over the standard pressure level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die vertikalen Luftraumgrenzen sind als barometrische Höhen definiert, entweder über QNH oder der Standarddruckhöhe.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="305"/>
         <source>As a consequence, the geometric altitude of airspaces changes with the weather: Airspaces are typically much lower on cold winter days than they are in summer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Folglich variiert die geometrische Höhe mit dem Wetter: An kalten Wintertagen liegen die Lufträume viel niedriger als im Sommer.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="307"/>
         <source>In order to show your aircraft in relation to airspaces, Enroute Flight Navigation therefore needs to know the barometric altitudes of your aircraft, or equivalently, the static pressure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Um die relative Lage Ihres Luftfahrzeugs zum Luftraum zu zeigen, braucht Enroute Flight Navigation daher die barometrische Höhe Ihres Luftfahrzeugs oder entsprechend den statischen Luftdruck.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="308"/>
         <source>This data is currently not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Diese Daten sind zzt. nicht verfügbar.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="310"/>
         <source>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/07-referenceTechnology/03-altitude.html#airspace-side-view&apos;&gt;Consult the manual&lt;/a&gt; for more information and for possible solutions.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/07-referenceTechnology/03-altitude.html#airspace-side-view&apos;&gt;Im Handbuch&lt;/a&gt; finden Sie weitere Infos und mögliche Lösungen.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>Swipe up from the navigation bar at the bottom of the main screen to open a side view of the airspace.</source>
-        <translation type="unfinished"></translation>
+        <translation>Für die Seitenansicht des Luftfahrzeugs wischen Sie auf dem Hauptfenster von der Navigationsleiste nach oben.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="322"/>
@@ -4756,7 +4756,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="864"/>
         <source>Map Mode: User Defined Direction Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Kartenmodus: Benutzerdefiniert Flugrichtung oben</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="860"/>
@@ -7404,7 +7404,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/Sideview.qml" line="259"/>
         <source>Static Pressure Unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Statischer Druck nicht verfügbar</translation>
     </message>
 </context>
 <context>
@@ -8832,42 +8832,42 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="94"/>
         <source>Unable to show side view: Zoom value out of range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenansicht bei diesem Zoomlevel nicht verfügbar.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="104"/>
         <source>Unable to show side view: No valid position data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenansicht mangels gültiger Positionsdaten nicht möglich.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="110"/>
         <source>Unable to show side view: No terrain data for current position. Please install the relevant terrain maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenansicht nicht möglich mangels Terrain-Daten für diese Position. Bitte installieren Sie die betreffenden Terrain-Karten.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="127"/>
         <source>Unable to show side view: No valid track data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenansicht mangels gültiger Trackdaten nicht möglich.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="134"/>
         <source>Unable to show side view: No valid altitude data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Seitenansicht mangels gültiger Höhendaten nicht möglich.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="141"/>
         <source>Unable to compute sufficiently precise vertical airspace boundaries because barometric altitude information is not available. &lt;a href=&apos;xx&apos;&gt;Click here&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mangel barometrischer Höhendaten ist keine ausreichend genaue Berechnung der vertikalen Luftraumgrenzen möglich. &lt;a href=&apos;xx&apos;&gt;Hier&lt;/a&gt; gibt es weitere Infos.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="146"/>
         <source>Unable to compute sufficiently precise vertical airspace boundaries because the QNH is not available. Please wait while QNH information is downloaded from the internet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mangels bekanntem QNH ist keine ausreichend genaue Berechnung der vertikalen Luftraumgrenzen möglich. Bitte warten Sie den Download der QNH-Information aus dem Internet ab.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="204"/>
         <source>Incomplete terrain data. Please install the relevant terrain maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unvollständige Terraindaten. Bitte installieren Sie die betreffenden Terrain-Karten.</translation>
     </message>
 </context>
 <context>
