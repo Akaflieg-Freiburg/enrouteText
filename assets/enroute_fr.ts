@@ -1450,12 +1450,12 @@ Message: Enroute Flight Navigation
         <translation>Route partagée</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="888"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="892"/>
         <source>Clear Route?</source>
         <translation>Effacer la route ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="896"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="900"/>
         <source>Flight route cleared</source>
         <translation>Route supprimée</translation>
     </message>
@@ -1490,33 +1490,33 @@ Message: Enroute Flight Navigation
         <translation>… au format GPX</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="420"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="424"/>
         <source>Clear</source>
         <translation>Effacer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="432"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="436"/>
         <source>Reverse</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="457"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="461"/>
         <source>Route</source>
         <translation>Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="490"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="494"/>
         <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below or double click on any point in the moving map.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Route vide&lt;/h3&gt;&lt;p&gt;Utilisez le bouton &lt;strong&gt;Ajouter point de cheminement&lt;/strong&gt; ci-dessous ou double-cliquez sur la carte.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="573"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="577"/>
         <source>Direction from</source>
         <translation>Direction de</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="458"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="563"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="462"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="567"/>
         <source>Wind</source>
         <translation>Vent</translation>
     </message>
@@ -1608,73 +1608,78 @@ Message: Enroute Flight Navigation
         <translation>Copier en tant que plan de vol</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="410"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="411"/>
         <source>Flight plan copied to clipboard</source>
         <translation>Plan de vol copié dans le presse-papier</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="412"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="413"/>
+        <source>Failed to copy flight plan</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="416"/>
         <source>No flight route to copy</source>
         <translation>Aucune route à copier</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="439"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="443"/>
         <source>Flight route reversed</source>
         <translation>Route réordonnée</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="605"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="609"/>
         <source>Speed</source>
         <translation>Vitesse</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="698"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="702"/>
         <source>One waypoint: direct route from ownship position</source>
         <translation>Un point de cheminement : route directe depuis la position actuelle</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="724"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="728"/>
         <source>Add Waypoint</source>
         <translation>Ajouter un point de cheminement</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="739"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="870"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="743"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="874"/>
         <source>Add Waypoint to Route</source>
         <translation>Ajouter un point de cheminement à la route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="768"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="772"/>
         <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
         <translation>Choisissez un point de cheminement dans la liste ci-dessous ou &lt;a href=&apos;xx&apos;&gt;entrez les coordonnées manuellement&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="789"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="793"/>
         <source>Filter by Name</source>
         <translation>Filtrer par nom</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="809"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="813"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé!&lt;/h3&gt;&lt;p&gt;Aucun point de cheminement ne correspond à votre filtre.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="846"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="850"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point de cheminement n&apos;a été trouvé. Assurez-vous qu&apos;une carte aéronautique a été installée.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="847"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="851"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point de cheminement ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="918"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="922"/>
         <source>Error Exporting Data…</source>
         <translation>Erreur lors de l&apos;exportation des données...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="891"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="895"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>La route ne pourra pas être rétablie si elle est effacée.</translation>
     </message>
@@ -2336,7 +2341,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="76"/>
         <source>Christian Engelhardt implemented the OGN network connection, flight plan export and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an Embedded SW Engineer.</source>
-        <translation>Christian Engelhardt a implémenté la connexion réseau OGN, l&apos;export des plans de vol et a commencé l&apos;implémentation du calcul de la hauteur-densité. Christian est un pilote privé allemand. Il a étudié l'&apos;ingénierie en électricité et travaille en tant qu&apos; ingénieur en système embarqué.</translation>
+        <translation>Christian Engelhardt a implémenté la connexion réseau OGN, l&apos;export des plans de vol et a commencé l&apos;implémentation du calcul de la hauteur-densité. Christian est un pilote privé allemand. Il a étudié l&apos;&apos;ingénierie en électricité et travaille en tant qu&apos; ingénieur en système embarqué.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="79"/>
@@ -2719,14 +2724,43 @@ Message: Enroute Flight Navigation
         <translation>En plus de l&apos;adresse IP de votre appareil, les éléments de données suivants seront envoyés.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="304"/>
+        <source>Vertical airspace boundaries are defined as barometric altitudes, either over QNH or over the standard pressure level.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="305"/>
+        <source>As a consequence, the geometric altitude of airspaces changes with the weather: Airspaces are typically much lower on cold winter days than they are in summer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="307"/>
+        <source>In order to show your aircraft in relation to airspaces, Enroute Flight Navigation therefore needs to know the barometric altitudes of your aircraft, or equivalently, the static pressure.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="308"/>
+        <source>This data is currently not available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="310"/>
+        <source>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/07-referenceTechnology/03-altitude.html#airspace-side-view&apos;&gt;Consult the manual&lt;/a&gt; for more information and for possible solutions.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="318"/>
+        <source>Swipe up from the navigation bar at the bottom of the main screen to open a side view of the airspace.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="322"/>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Flight routes can now be copied to the clipboard in ICAO flight plan format. We thank Christian Engelhardt for the implementation of these features. Consult the manual for more information.</source>
         <translation>Enroute Flight Navigation permet désormais d&apos;afficher les données de trafic fournies par l&apos;Open Glider Network. Les routes peuvent maintenant être copiées au format plan de vol OACI. Nous remercions Christian Engelhardt pour cette implémentation. Consultez le manuel pour plus d&apos;informations.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="311"/>
         <source>Enroute Flight Navigation is now available on Mac computers with Apple Silcon processor (M1 or newer). Download it on the App Store.</source>
-        <translation>Enroute Flight Navigation est désormais disponible pour les ordinateurs Mac équipés d&apos;un processeur Apple Silcon (M1 ou supérieur). Téléchargez-la sur l&apos;App Store.</translation>
+        <translation type="vanished">Enroute Flight Navigation est désormais disponible pour les ordinateurs Mac équipés d&apos;un processeur Apple Silcon (M1 ou supérieur). Téléchargez-la sur l&apos;App Store.</translation>
     </message>
     <message>
         <source>Enroute Flight Navigation now offers ICAO and Glider Charts for Switzerland. To download these maps, open the main menu and go to Library/Maps and Data. We thank the swiss Federal Office of Topography and the Federal Office of Civil Aviation for making the maps publicly available. Use these maps for information only. The &lt;a href=&apos;https://www.geo.admin.ch/en/general-terms-of-use-fsdi&apos;&gt;license conditions&lt;/a&gt; do not allow operational use.</source>
@@ -2824,7 +2858,7 @@ Message: Enroute Flight Navigation
         <translation type="vanished">Nous remercions Heinz Blöchinger pour son aide à la mise en œuvre !</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="322"/>
+        <location filename="../../../src/Librarian.cpp" line="335"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Nous avons besoin d&apos;aide avec des graphiques promotionnels pour les app stores et avec des vidéos explicatives. Si vous êtes un artiste graphique/vidéo et que vous souhaitez aider, n&apos;hésitez pas à nous contacter.</translation>
     </message>
@@ -2920,57 +2954,62 @@ Message: Enroute Flight Navigation
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="599"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="631"/>
         <source>There is no aviation map installed.</source>
         <translation>Aucune carte de données aéronautiques installée.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="601"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="633"/>
         <source>Please wait for the download to complete.</source>
         <translation>Merci d&apos;attendre que le téléchargement soit terminé.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="602"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="634"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
         <translation>Pour installer une carte, ouvrez le menu via le boutton dans le coin supérieur gauche.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="603"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="635"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
         <translation>Choisissez &lt;a href=&apos;xx&apos;&gt;Bibliothèque/Cartes et Données&lt;/a&gt; Pour ouvrir la page de gestion des cartes.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="720"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="772"/>
         <source>Airspaces up to %1</source>
         <translation>Espaces aériens jusqu&apos;à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="723"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="775"/>
         <source>Downloading Maps and Data</source>
         <translation>Téléchargement de cartes et de données</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="749"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="801"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Données cartographiques</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="802"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="862"/>
         <source>Map Mode: Track Up</source>
         <translation>Mode : Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="805"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="864"/>
+        <source>Map Mode: User Defined Direction Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="860"/>
         <source>Map Mode: North Up</source>
         <translation>Mode : Nord</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="673"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="725"/>
         <source>Map Mode: Autopan</source>
         <translation>Mode : Auto</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="757"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="809"/>
         <source>Map Data Copyright Information</source>
         <translation>Info copyright sur les données de carte</translation>
     </message>
@@ -3040,12 +3079,12 @@ Message: Enroute Flight Navigation
 <context>
     <name>NavBar</name>
     <message>
-        <location filename="../../../src/qml/items/NavBar.qml" line="70"/>
+        <location filename="../../../src/qml/items/NavBar.qml" line="71"/>
         <source>Showing Altitude Above Ground Level</source>
         <translation>Affichage de l&apos;altitude au-dessus du niveau du sol</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/NavBar.qml" line="72"/>
+        <location filename="../../../src/qml/items/NavBar.qml" line="73"/>
         <source>Showing Altitude Above Main Sea Level</source>
         <translation>Affichage de l&apos;altitude au-dessus du niveau de la mer</translation>
     </message>
@@ -4899,6 +4938,14 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     </message>
 </context>
 <context>
+    <name>Sideview</name>
+    <message>
+        <location filename="../../../src/qml/items/Sideview.qml" line="259"/>
+        <source>Static Pressure Unavailable</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Traffic::ConnectionScanner_Bluetooth</name>
     <message>
         <location filename="../../../src/traffic/ConnectionScanner_Bluetooth.cpp" line="33"/>
@@ -5009,27 +5056,27 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Les ports série ne sont pas pris en charge sur cette plateforme.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="615"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="608"/>
         <source>Receiving data through an internet service, which might be unreliable. Consider connecting to a proper traffic data receiver.</source>
         <translation>Réception de données via un service Internet, qui peut être peu fiable. Pensez à vous connecter à un récepteur de données de trafic adapté.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="619"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="612"/>
         <source>Receiving heartbeat.</source>
         <translation>Réception.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="623"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="616"/>
         <source>Receiving position info.</source>
         <translation>Réception des information sur la position.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="627"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="620"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Réception de l&apos;altitude baramétrique.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="633"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="626"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
         <translation>Ne reçoi pas le récepteur de trafic via les connexions de données configurées.</translation>
     </message>
@@ -6265,6 +6312,49 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <source>If it remains open for longer than 30 seconds, then either user interaction is required, or the coordinate lookup has failed.</source>
         <translation type="vanished">Si cette page reste ouverte plus de 30 secondes, une action de l&apos;utilisateur est requise, ou la recherche de coordonnées a échoué.</translation>
+    </message>
+</context>
+<context>
+    <name>Ui::SideviewQuickItem</name>
+    <message>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="94"/>
+        <source>Unable to show side view: Zoom value out of range.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="104"/>
+        <source>Unable to show side view: No valid position data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="110"/>
+        <source>Unable to show side view: No terrain data for current position. Please install the relevant terrain maps.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="127"/>
+        <source>Unable to show side view: No valid track data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="134"/>
+        <source>Unable to show side view: No valid altitude data.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="141"/>
+        <source>Unable to compute sufficiently precise vertical airspace boundaries because barometric altitude information is not available. &lt;a href=&apos;xx&apos;&gt;Click here&lt;/a&gt; for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="146"/>
+        <source>Unable to compute sufficiently precise vertical airspace boundaries because the QNH is not available. Please wait while QNH information is downloaded from the internet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="204"/>
+        <source>Incomplete terrain data. Please install the relevant terrain maps.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9792,7 +9882,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>SS %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="486"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="487"/>
         <source>%1 hPa in %2, %3</source>
         <translation>%1 hPa dans %2, %3</translation>
     </message>
