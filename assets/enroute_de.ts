@@ -979,29 +979,25 @@ anderes dazu sagen können.&lt;/p&gt;
         <translation type="vanished">Bluetooth Classic</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="249"/>
         <source>Bluetooth</source>
         <translation>Bluetooth</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="242"/>
         <source>Serial Port Connection</source>
-        <translation>Serielle Verbindung</translation>
+        <translation type="vanished">Serielle Verbindung</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="252"/>
         <source>TCP Connection</source>
-        <translation>TCP-Verbindung</translation>
+        <translation type="vanished">TCP-Verbindung</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="261"/>
         <source>UDP Connection</source>
-        <translation>UDP-Verbindung</translation>
+        <translation type="vanished">UDP-Verbindung</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="271"/>
         <source>OGN glidernet.org Connection</source>
-        <translation>Verbindung zu OGN glidernet.org</translation>
+        <translation type="vanished">Verbindung zu OGN glidernet.org</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="286"/>
@@ -1042,6 +1038,35 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <source>We strongly feel that no responsible pilot should ever fly without a proper traffic data receicer, such as a FLARM or ADS-B device.</source>
         <translation type="vanished">Nach unserer Überzeugung sollte kein verantwortungsbewusster Pilot jemals ohne geeigneten Verkehrsdatenempfänger wie z.B. FLARM oder ADS-B fliegen.</translation>
+    </message>
+    <message>
+        <source>Open Glider Network Connection</source>
+        <translation type="vanished">Open Glider Network Verbindung
+</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
+        <source>Network/TCP</source>
+        <translation>Netzwerk/TCP
+</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="239"/>
+        <source>Network/UDP</source>
+        <translation>Netzwerk/UDP
+</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="261"/>
+        <source>Serial Port</source>
+        <translation>Serielle Schnittstelle
+</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="271"/>
+        <source>Open Glider Network</source>
+        <translation>Open Glider Network
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="298"/>
@@ -6515,10 +6540,16 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>TCP-Verbindung zu %1, Port %2</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="160"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="162"/>
+        <source>Open Glider Network Connection</source>
+        <comment>Traffic::ConnectionInfo</comment>
+        <translation>Open Glider Network Verbindung
+</translation>
+    </message>
+    <message>
         <source>OGN glidernet.org APRS-IS connection</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation>OGN glidernet.org APRS-IS-Verbindung</translation>
+        <translation type="vanished">OGN glidernet.org APRS-IS-Verbindung</translation>
     </message>
     <message>
         <source>TCP Connection to %1, Port %1</source>
@@ -8358,9 +8389,14 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Ogn</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="122"/>
         <source>OGN glidernet.org APRS-IS connection</source>
-        <translation>OGN glidernet.org APRS-IS-Verbindung</translation>
+        <translation type="vanished">OGN glidernet.org APRS-IS-Verbindung</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="122"/>
+        <source>Open Glider Network-Connection</source>
+        <translation>Open Glider Network-Verbindung
+</translation>
     </message>
 </context>
 <context>
@@ -8832,32 +8868,36 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="94"/>
         <source>Unable to show side view: Zoom value out of range.</source>
-        <translation>Seitenansicht bei diesem Zoomlevel nicht verfügbar.</translation>
+        <translation>Seitenansicht nicht möglich: Zoomlevel außerhalb des gültigen Bereichs.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="104"/>
         <source>Unable to show side view: No valid position data.</source>
-        <translation>Seitenansicht mangels gültiger Positionsdaten nicht möglich.</translation>
+        <translation>Seitenansicht nicht möglich: Keine gültigen Positionsdaten für das eigene Luftfahrzeug.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="110"/>
         <source>Unable to show side view: No terrain data for current position. Please install the relevant terrain maps.</source>
-        <translation>Seitenansicht nicht möglich mangels Terrain-Daten für diese Position. Bitte installieren Sie die betreffenden Terrain-Karten.</translation>
+        <translation>Seitenansicht nicht möglich: Keine Terrain-Daten für diese Position. Bitte installieren Sie die betreffenden Terrain-Karten.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="127"/>
         <source>Unable to show side view: No valid track data.</source>
-        <translation>Seitenansicht mangels gültiger Trackdaten nicht möglich.</translation>
+        <translation>Seitenansicht möglich: Keine gültigen Track-Daten.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="134"/>
+        <source>Unable to show side view: No valid altitude data for own aircraft.</source>
+        <translation>Seitenansicht nicht möglich: Keine gültigen Höhendaten für das eigene Luftfahrzeug.</translation>
+    </message>
+    <message>
         <source>Unable to show side view: No valid altitude data.</source>
-        <translation>Seitenansicht mangels gültiger Höhendaten nicht möglich.</translation>
+        <translation type="vanished">Seitenansicht mangels gültiger Höhendaten nicht möglich.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="141"/>
         <source>Unable to compute sufficiently precise vertical airspace boundaries because barometric altitude information is not available. &lt;a href=&apos;xx&apos;&gt;Click here&lt;/a&gt; for more information.</source>
-        <translation>Mangel barometrischer Höhendaten ist keine ausreichend genaue Berechnung der vertikalen Luftraumgrenzen möglich. &lt;a href=&apos;xx&apos;&gt;Hier&lt;/a&gt; gibt es weitere Infos.</translation>
+        <translation>Mangels barometrischer Höhendaten ist keine ausreichend genaue Berechnung der vertikalen Luftraumgrenzen möglich. &lt;a href=&apos;xx&apos;&gt;Hier&lt;/a&gt; gibt es weitere Infos.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="146"/>

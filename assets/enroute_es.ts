@@ -923,29 +923,45 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
         <translation type="vanished">Bluetooth clásico</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="249"/>
         <source>Bluetooth</source>
         <translation>Bluetooth</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="242"/>
         <source>Serial Port Connection</source>
-        <translation>Conexión de puerto serie</translation>
+        <translation type="vanished">Conexión de puerto serie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="252"/>
         <source>TCP Connection</source>
-        <translation>Conexión TCP</translation>
+        <translation type="vanished">Conexión TCP</translation>
+    </message>
+    <message>
+        <source>UDP Connection</source>
+        <translation type="vanished">Conexión UDP</translation>
+    </message>
+    <message>
+        <source>OGN glidernet.org Connection</source>
+        <translation type="vanished">Conexión OGN glidernet.org</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
+        <source>Network/TCP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="239"/>
+        <source>Network/UDP</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="261"/>
-        <source>UDP Connection</source>
-        <translation>Conexión UDP</translation>
+        <source>Serial Port</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="271"/>
-        <source>OGN glidernet.org Connection</source>
-        <translation>Conexión OGN glidernet.org</translation>
+        <source>Open Glider Network</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="286"/>
@@ -5684,11 +5700,16 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Conexión TCP a %1, puerta %2</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="160"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="162"/>
+        <source>Open Glider Network Connection</source>
+        <comment>Traffic::ConnectionInfo</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>OGN glidernet.org APRS-IS connection</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation>Conexión APRS-IS de OGN glidernet.org</translation>
+        <translation type="vanished">Conexión APRS-IS de OGN glidernet.org</translation>
     </message>
     <message>
         <source>TCP Connection to %1, Port %1</source>
@@ -7454,9 +7475,13 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Traffic::TrafficDataSource_Ogn</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="122"/>
         <source>OGN glidernet.org APRS-IS connection</source>
-        <translation>Conexión APRS-IS de OGN glidernet.org</translation>
+        <translation type="vanished">Conexión APRS-IS de OGN glidernet.org</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="122"/>
+        <source>Open Glider Network-Connection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7935,7 +7960,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="134"/>
-        <source>Unable to show side view: No valid altitude data.</source>
+        <source>Unable to show side view: No valid altitude data for own aircraft.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

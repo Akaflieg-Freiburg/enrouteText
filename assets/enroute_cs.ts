@@ -564,29 +564,45 @@ mají vždy přednost.&lt;/p&gt;
         <translation type="vanished">Bluetooth Classic</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="249"/>
         <source>Bluetooth</source>
         <translation>Bluetooth</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="242"/>
         <source>Serial Port Connection</source>
-        <translation>Připojení přes seriový port</translation>
+        <translation type="vanished">Připojení přes seriový port</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="252"/>
         <source>TCP Connection</source>
-        <translation>Přpojení přes TCP</translation>
+        <translation type="vanished">Přpojení přes TCP</translation>
+    </message>
+    <message>
+        <source>UDP Connection</source>
+        <translation type="vanished">Přpojení přes UDP</translation>
+    </message>
+    <message>
+        <source>OGN glidernet.org Connection</source>
+        <translation type="vanished">Připojení k OGN glidernet.org</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
+        <source>Network/TCP</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="239"/>
+        <source>Network/UDP</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="261"/>
-        <source>UDP Connection</source>
-        <translation>Přpojení přes UDP</translation>
+        <source>Serial Port</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="271"/>
-        <source>OGN glidernet.org Connection</source>
-        <translation>Připojení k OGN glidernet.org</translation>
+        <source>Open Glider Network</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="286"/>
@@ -4034,10 +4050,15 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="160"/>
+        <location filename="../../../src/traffic/ConnectionInfo.cpp" line="162"/>
+        <source>Open Glider Network Connection</source>
+        <comment>Traffic::ConnectionInfo</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>OGN glidernet.org APRS-IS connection</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished">Připojení OGN glidernet.org APRS-IS</translation>
+        <translation type="obsolete">Připojení OGN glidernet.org APRS-IS</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.h" line="315"/>
@@ -5501,9 +5522,13 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Ogn</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="122"/>
         <source>OGN glidernet.org APRS-IS connection</source>
-        <translation>Připojení OGN glidernet.org APRS-IS</translation>
+        <translation type="vanished">Připojení OGN glidernet.org APRS-IS</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="122"/>
+        <source>Open Glider Network-Connection</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5947,7 +5972,7 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="134"/>
-        <source>Unable to show side view: No valid altitude data.</source>
+        <source>Unable to show side view: No valid altitude data for own aircraft.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
