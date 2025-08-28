@@ -8866,27 +8866,27 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Ui::SideviewQuickItem</name>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="94"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="97"/>
         <source>Unable to show side view: Zoom value out of range.</source>
         <translation>Seitenansicht nicht möglich: Zoomlevel außerhalb des gültigen Bereichs.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="104"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="107"/>
         <source>Unable to show side view: No valid position data.</source>
         <translation>Seitenansicht nicht möglich: Keine gültigen Positionsdaten für das eigene Luftfahrzeug.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="110"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="113"/>
         <source>Unable to show side view: No terrain data for current position. Please install the relevant terrain maps.</source>
         <translation>Seitenansicht nicht möglich: Keine Terrain-Daten für diese Position. Bitte installieren Sie die betreffenden Terrain-Karten.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="127"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="130"/>
         <source>Unable to show side view: No valid track data.</source>
         <translation>Seitenansicht möglich: Keine gültigen Track-Daten.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="134"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="137"/>
         <source>Unable to show side view: No valid altitude data for own aircraft.</source>
         <translation>Seitenansicht nicht möglich: Keine gültigen Höhendaten für das eigene Luftfahrzeug.</translation>
     </message>
@@ -8895,17 +8895,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Seitenansicht mangels gültiger Höhendaten nicht möglich.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="141"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="144"/>
         <source>Unable to compute sufficiently precise vertical airspace boundaries because barometric altitude information is not available. &lt;a href=&apos;xx&apos;&gt;Click here&lt;/a&gt; for more information.</source>
         <translation>Mangels barometrischer Höhendaten ist keine ausreichend genaue Berechnung der vertikalen Luftraumgrenzen möglich. &lt;a href=&apos;xx&apos;&gt;Hier&lt;/a&gt; gibt es weitere Infos.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="146"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="149"/>
         <source>Unable to compute sufficiently precise vertical airspace boundaries because the QNH is not available. Please wait while QNH information is downloaded from the internet.</source>
         <translation>Mangels bekanntem QNH ist keine ausreichend genaue Berechnung der vertikalen Luftraumgrenzen möglich. Bitte warten Sie den Download der QNH-Information aus dem Internet ab.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="204"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="207"/>
         <source>Incomplete terrain data. Please install the relevant terrain maps.</source>
         <translation>Unvollständige Terraindaten. Bitte installieren Sie die betreffenden Terrain-Karten.</translation>
     </message>
