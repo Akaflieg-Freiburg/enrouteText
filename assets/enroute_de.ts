@@ -1065,8 +1065,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="271"/>
         <source>Open Glider Network</source>
-        <translation>Open Glider Network
-</translation>
+        <translation>Open Glider Network</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="298"/>
@@ -8395,8 +8394,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="122"/>
         <source>Open Glider Network-Connection</source>
-        <translation>Open Glider Network-Verbindung
-</translation>
+        <translation>Open Glider Network-Verbindung</translation>
     </message>
 </context>
 <context>
