@@ -3780,17 +3780,17 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="76"/>
         <source>Christian Engelhardt implemented the OGN network connection, flight plan export and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an embedded software Engineer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Christian Engelhardt implementierte die Verbindung zum OGN-Netzwerk und den Flugplanexport und begann die Implementierung der Dichtehöheberechnung. Er ist PPL-Pilot in Süddeutschland, Elektroingenieur und arbeitet als Softwareentwickler für eingebettete Systeme.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="82"/>
         <source>Markus Marks helped to implement the side view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markus Marks half bei der Implementierung der Seitenansicht.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="85"/>
         <source>Simon Schneider implemented the first working version of the side view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Simon Schneider implementierte die erste funktionierende Fassung der Seitenansicht.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="142"/>
