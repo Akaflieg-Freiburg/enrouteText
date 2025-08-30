@@ -1011,22 +1011,22 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="230"/>
         <source>Network/TCP</source>
-        <translation type="unfinished"></translation>
+        <translation>Sieć/TCP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="239"/>
         <source>Network/UDP</source>
-        <translation type="unfinished"></translation>
+        <translation>Sieć/UDP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="261"/>
         <source>Serial Port</source>
-        <translation type="unfinished"></translation>
+        <translation>Port szeregowy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="271"/>
         <source>Open Glider Network</source>
-        <translation type="unfinished"></translation>
+        <translation>Sieć Open Glider</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="286"/>
@@ -2577,7 +2577,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="413"/>
         <source>Failed to copy flight plan</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieudane kopiowanie planu lotu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="416"/>
@@ -3647,17 +3647,17 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="76"/>
         <source>Christian Engelhardt implemented the OGN network connection, flight plan export and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and working as an embedded software Engineer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Christian Engelhardt zaimplementował połączenie sieciowe OGN, eksport planów lotu i rozpoczął implementację obliczeń gęstości wysokości. Christian jest pilotem z licencją PPL w południowych Niemczech, studiował elektrotechnikę i pracuje jako inżynier oprogramowania wbudowanego.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="82"/>
         <source>Markus Marks helped to implement the side view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markus Marks pomógł wdrożyć widok boczny.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="85"/>
         <source>Simon Schneider implemented the first working version of the side view.</source>
-        <translation type="unfinished"></translation>
+        <translation>Simon Schneider zaimplementował pierwszą działającą wersję widoku bocznego.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="96"/>
@@ -3942,32 +3942,32 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="310"/>
         <source>Vertical airspace boundaries are defined as barometric altitudes, either over QNH or over the standard pressure level.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pionowe granice przestrzeni powietrznej definiuje się jako wysokości barometryczne, albo nad QNH, albo nad standardowym poziomem ciśnienia.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="311"/>
         <source>As a consequence, the geometric altitude of airspaces changes with the weather: Airspaces are typically much lower on cold winter days than they are in summer.</source>
-        <translation type="unfinished"></translation>
+        <translation>W rezultacie wysokość geometryczna przestrzeni powietrznej zmienia się w zależności od pogody: w chłodne zimowe dni przestrzeń powietrzna jest zazwyczaj znacznie niższa niż latem.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="313"/>
         <source>In order to show your aircraft in relation to airspaces, Enroute Flight Navigation therefore needs to know the barometric altitudes of your aircraft, or equivalently, the static pressure.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aby móc wyświetlić Twój samolot w odniesieniu do przestrzeni powietrznej, Enroute Flight Navigation musi znać wysokość barometryczną samolotu, lub równoważnie ciśnienie statyczne.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="314"/>
         <source>This data is currently not available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dane te nie są obecnie dostępne.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="316"/>
         <source>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/07-referenceTechnology/03-altitude.html#airspace-side-view&apos;&gt;Consult the manual&lt;/a&gt; for more information and for possible solutions.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/07-referenceTechnology/03-altitude.html#airspace-side-view&apos;&gt;Zapoznaj się z instrukcją&lt;/a&gt;, aby uzyskać więcej informacji i poznać możliwe rozwiązania.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="324"/>
         <source>Swipe up from the navigation bar at the bottom of the main screen to open a side view of the airspace.</source>
-        <translation type="unfinished"></translation>
+        <translation>Przesuń palcem w górę od paska nawigacyjnego na dole ekranu głównego, aby otworzyć widok przestrzeni powietrznej z boku.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="328"/>
@@ -4727,7 +4727,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="873"/>
         <source>Map Mode: User Defined Direction Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb mapy: Kierunek zdefiniowany przez użytkownika w górę</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="869"/>
@@ -6467,7 +6467,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="162"/>
         <source>Open Glider Network Connection</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz połączenie do Glider Network</translation>
     </message>
     <message>
         <source>OGN glidernet.org APRS-IS connection</source>
@@ -7300,7 +7300,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/Sideview.qml" line="259"/>
         <source>Static Pressure Unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciśnienie statyczne niedostępne</translation>
     </message>
 </context>
 <context>
@@ -8260,7 +8260,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="122"/>
         <source>Open Glider Network-Connection</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz połączenie Glider Network</translation>
     </message>
 </context>
 <context>
@@ -8732,42 +8732,42 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="94"/>
         <source>Unable to show side view: Zoom value out of range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można wyświetlić widoku z boku: wartość powiększenia jest poza zakresem.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="104"/>
         <source>Unable to show side view: No valid position data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można wyświetlić widoku z boku: Brak prawidłowych danych o położeniu.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="110"/>
         <source>Unable to show side view: No terrain data for current position. Please install the relevant terrain maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można wyświetlić widoku z boku: Brak danych terenowych dla aktualnej pozycji. Zainstaluj odpowiednie mapy terenowe.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="127"/>
         <source>Unable to show side view: No valid track data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można wyświetlić widoku z boku: Brak prawidłowych danych o trasie.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="134"/>
         <source>Unable to show side view: No valid altitude data for own aircraft.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można wyświetlić widoku z boku: Brak prawidłowych danych o wysokości własnego samolotu.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="141"/>
         <source>Unable to compute sufficiently precise vertical airspace boundaries because barometric altitude information is not available. &lt;a href=&apos;xx&apos;&gt;Click here&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można obliczyć wystarczająco dokładnych pionowych granic przestrzeni powietrznej, ponieważ nie są dostępne informacje o wysokości barometrycznej. &lt;a href=&apos;xx&apos;&gt;Kliknij tutaj&lt;/a&gt;, aby uzyskać więcej informacji.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="146"/>
         <source>Unable to compute sufficiently precise vertical airspace boundaries because the QNH is not available. Please wait while QNH information is downloaded from the internet.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można obliczyć wystarczająco precyzyjnych pionowych granic przestrzeni powietrznej, ponieważ dane QNH są niedostępne. Proszę czekać na pobranie informacji o QNH z internetu.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="204"/>
         <source>Incomplete terrain data. Please install the relevant terrain maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Niekompletne dane terenowe. Proszę zainstalować odpowiednie mapy terenowe.</translation>
     </message>
 </context>
 <context>
