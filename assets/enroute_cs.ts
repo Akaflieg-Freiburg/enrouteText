@@ -131,6 +131,7 @@
     <name>AircraftPage</name>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="32"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="147"/>
         <source>Aircraft</source>
         <translation>Letadla</translation>
     </message>
@@ -145,149 +146,208 @@
         <translation>Uložit do knihovny…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="147"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="155"/>
         <source>Name</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="175"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="188"/>
+        <source>Use cabin pressure instead of static pressure for pressure altitude calculation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="194"/>
         <source>Units</source>
         <translation>Jednotky</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="188"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="236"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="449"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="207"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="255"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="468"/>
         <source>Nautical Miles</source>
         <translation>Námořní míle</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="190"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="241"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="449"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="209"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="260"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="468"/>
         <source>Kilometers</source>
         <translation>Kilometry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="193"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="246"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="449"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="212"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="265"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="468"/>
         <source>Statute Miles</source>
         <translation>Pozemní míle</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="195"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="208"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="214"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="227"/>
         <source>Horizontal Distances</source>
         <translation>Horizontální vzdálenosti</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="197"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="282"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="359"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="216"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="301"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="378"/>
         <source>Currently using: %1</source>
         <translation>V současnosti používáno: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="230"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="249"/>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to horizontal speed indications.</source>
         <translation>Zvolte používané jednotky pro toto letadlo. Jednotky se vztahují také na horizontální rychlost.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="276"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="321"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="473"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="295"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="340"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="492"/>
         <source>Feet</source>
         <translation>Stopy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="278"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="326"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="473"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="297"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="345"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="492"/>
         <source>Meters</source>
         <translation>Metry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="280"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="293"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="299"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="312"/>
         <source>Vertical Distances</source>
         <translation>Vertikální vzdálenosti</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="315"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="334"/>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to vertical speed indications.</source>
         <translation>Zvolte používané jednotky pro toto letadlo. Jednotky se vztahují také na vertikální rychlost.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="353"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="398"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="497"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="372"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="417"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="516"/>
         <source>Liters</source>
         <translation>Litry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="355"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="403"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="374"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="422"/>
         <source>Gallons</source>
         <translation>Galony</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="357"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="476"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="376"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="495"/>
         <source>Volume</source>
         <translation>Objem</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="370"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="389"/>
         <source>Volumes</source>
         <translation>Objemy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="392"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="411"/>
         <source>Choose the preferred units of measurement for this aircraft.</source>
         <translation>Zvolte používané jednotky pro toto letadlo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="424"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="443"/>
         <source>Horizontal</source>
         <translation>Horizontální</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="452"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="471"/>
         <source>Vertical</source>
         <translation>Vertikální</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="497"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="516"/>
         <source>U.S. Gallons</source>
         <translation>U.S. Galony</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="502"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="521"/>
         <source>True Airspeed</source>
         <translation>Pravá vzdušná rychlost</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="510"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="751"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="529"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="770"/>
         <source>Cruise</source>
         <translation>Přímý let</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="588"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="607"/>
         <source>Descent</source>
         <translation>Klesání</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="666"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="685"/>
         <source>Minimum</source>
         <translation>Minimum</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="744"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="763"/>
         <source>Fuel Consumption</source>
         <translation>Spotřeba paliva</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="859"/>
+        <source>Flight Safety Warning!</source>
+        <translation type="unfinished">Varování k bezpečnosti letu!</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="861"/>
+        <source>Know what you are doing!</source>
+        <translation type="unfinished">Je nezbytné vědět, co děláte!</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="862"/>
+        <source>If you enable this option, Enroute Flight Navigation will use the pressure sensor of your mobile device to determine pressure altitude and vertical distances to airspaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="863"/>
+        <source>This is safety critical.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="866"/>
+        <source>The pressure sensor of your device is probably not certified for use in aviation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="867"/>
+        <source>In typical GA aircraft, cabin pressure is not equal to static pressure.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="868"/>
+        <source>The precise difference depend on factors such as airspeed and configuration of ventilation and heating.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="870"/>
+        <source>Do not enable this option unless you convinced yourself that the data provided by your sensor is good enough for the intended use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="871"/>
+        <source>Do not rely on data shown in this app.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="872"/>
+        <source>Always use an approved altimeter to judge vertical distance to airspaces.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="875"/>
+        <source>We strongly recommend to connect Enroute Flight Navigation to a proper traffic data receiver, such as a FLARM or ADS-B device, that provides static pressure data.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2756,62 +2816,62 @@ Message: Enroute Flight Navigation
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="655"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="669"/>
         <source>There is no aviation map installed.</source>
         <translation>Neni nainstalována žádná letecká mapa.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="657"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="671"/>
         <source>Please wait for the download to complete.</source>
         <translation>Vyčkejte prosím, než skončí stahování.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="658"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="672"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
         <translation>Pro nahrání mapy použijte prosím tlačítko v levém horním rohu této obrazovky.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="659"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="673"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
         <translation>Pro správu map zvolte &lt;a href=&apos;xx&apos;&gt;Knihovna/Mapy a data&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="734"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="739"/>
         <source>Map Mode: Autopan</source>
         <translation>Mapa: Automatické centrování</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="781"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="786"/>
         <source>Airspaces up to %1</source>
         <translation>Letecké prostory do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="784"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="789"/>
         <source>Downloading Maps and Data</source>
         <translation>Stahuji mapy a data</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="810"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="815"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Mapové údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="818"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="823"/>
         <source>Map Data Copyright Information</source>
         <translation>Mapy - Copyright informace</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="871"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="876"/>
         <source>Map Mode: Track Up</source>
         <translation>Mapa: Trasa nahoru</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="873"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="878"/>
         <source>Map Mode: User Defined Direction Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="869"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="874"/>
         <source>Map Mode: North Up</source>
         <translation>Mapa: Sever nahoru</translation>
     </message>
@@ -2984,22 +3044,22 @@ Message: Enroute Flight Navigation
 <context>
     <name>Navigation::Navigator</name>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="339"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="341"/>
         <source>Cruise speed not specified.</source>
         <translation>Cestovní rychlost neuvedena.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="343"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="345"/>
         <source>Wind speed not specified.</source>
         <translation>Rychlost větru neuvedena.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="347"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="349"/>
         <source>Wind direction not specified.</source>
         <translation>Směr větru neuveden.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="351"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="353"/>
         <source>Computation incomplete. %1</source>
         <translation>Výpočet nekompletní. %1</translation>
     </message>
@@ -3345,9 +3405,13 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation>Odchylka skutečného kurzu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="159"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
+        <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the main sea level, respectively.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Altitude</source>
-        <translation>Výška</translation>
+        <translation type="vanished">Výška</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="167"/>
@@ -3355,52 +3419,50 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation>Výšky</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
         <source>True altitude, also known as geometric altitude, is the vertical distance from the aircraft to the main sea level.</source>
-        <translation>Skutečná výška, též známá jako geometrická výška, je vertikální vzdálenost letadla od střední hladiny moře.</translation>
+        <translation type="vanished">Skutečná výška, též známá jako geometrická výška, je vertikální vzdálenost letadla od střední hladiny moře.</translation>
+    </message>
+    <message>
+        <source>Absolute altitude is the vertical distance from the aircraft to the terrain.</source>
+        <translation type="vanished">Absolutní výška je vertikální vzdálenost letadla od terénu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="169"/>
-        <source>Absolute altitude is the vertical distance from the aircraft to the terrain.</source>
-        <translation>Absolutní výška je vertikální vzdálenost letadla od terénu.</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="170"/>
         <source>&lt;strong&gt;Warning:&lt;/strong&gt; Vertical airspace limits are defined in terms of barometric altitude. Depending on weather, true altitude and barometric altitude may differ substantially. &lt;strong&gt;Never use true altitude to judge the vertical distance from your aircraft to an airspace boundary.&lt;/strong&gt;</source>
         <translation>&lt;strong&gt;Upozornění:&lt;/strong&gt; Vertikální hranice vzdušných prostorů jsou definovány skrze tlakovou výšku. V závislosti na počasí se skutečná výška a tlaková výška mohou lišit. &lt;strong&gt;Nikdy nepoužívejte skutečnou výšku za účelem posuzování vzdálenosti od vertikálních hranic vzdušných prostorů.&lt;/strong&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="175"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="159"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="174"/>
         <source>True Altitude</source>
         <translation>Skutečná výška</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="179"/>
         <source>Absolute Altitude</source>
-        <translation>Absolutní výška</translation>
+        <translation type="vanished">Absolutní výška</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="183"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="182"/>
         <source>Error (vertical)</source>
         <translation>Odchylka (vertikální)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="187"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="186"/>
         <source>Vertical Speed</source>
         <translation>Vertikální rychlost</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="193"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="192"/>
         <source>Other</source>
         <translation>Ostatní</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="199"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="198"/>
         <source>Magnetic Variation</source>
         <translation>Magnetická odchylka</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Positioning.qml" line="207"/>
+        <location filename="../../../src/qml/pages/Positioning.qml" line="206"/>
         <source>Timestamp</source>
         <translation>Časové označení</translation>
     </message>
@@ -3451,23 +3513,23 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
 <context>
     <name>Positioning::PositionProvider</name>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="167"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="170"/>
         <source>Source</source>
         <translation>Zdroj</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="168"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="171"/>
         <source>Receiving position information</source>
         <translation>Přijímám polohové údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="173"/>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="175"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="176"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="178"/>
         <source>Not receiving position information</source>
         <translation>Nepřijímám polohové údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="175"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="178"/>
         <source>Traffic receiver</source>
         <translation>Přijímač provozu</translation>
     </message>
@@ -3475,9 +3537,8 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
 <context>
     <name>PressureAltitude</name>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="32"/>
         <source>Barometric Data</source>
-        <translation>Tlakové údaje</translation>
+        <translation type="vanished">Tlakové údaje</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="59"/>
@@ -3485,88 +3546,89 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation>Stav</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="71"/>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="94"/>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="102"/>
+        <source>Sensor Data</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="103"/>
+        <source>Cabin pressure is the air pressure measured by your device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="105"/>
+        <source>Cabin temperature is the temperature measured by your device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="110"/>
+        <source>Cabin Pressure</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="126"/>
+        <source>Cabin Temperature</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Receiving static pressure data from traffic receiver</source>
-        <translation>Přijímám tlakové údaje z přijímače provozu</translation>
+        <translation type="vanished">Přijímám tlakové údaje z přijímače provozu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="71"/>
         <source>Not connected to a traffic receiver that provides static pressure data</source>
-        <translation>Nepřipojeno k přijímači provozu se zdrojem statického tlaku</translation>
+        <translation type="vanished">Nepřipojeno k přijímači provozu se zdrojem statického tlaku</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="122"/>
         <source>Barometric Altitudes</source>
-        <translation>Tlaková výška</translation>
+        <translation type="vanished">Tlaková výška</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="130"/>
         <source>Altitudes</source>
-        <translation>Výšky</translation>
+        <translation type="vanished">Výšky</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="131"/>
-        <source>Pressure altitude is the value shown by your altimeter when set to the standard value 1013.2 hPa. The pressure altitude is used to define airspace boundaries and vertical aircraft position above the transition altitude.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="132"/>
-        <source>Altitude is the value shown by your altimeter when set to QNH. The altitude is used to define airspace boundaries and vertical aircraft position below the transition level.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="133"/>
-        <source>Density altitude is the altitude at which an aircraft flying in the ICAO standard atmosphere experiences an air density equal to the density measured by the ambient pressure/temperature sensors of your device.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="134"/>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="104"/>
         <source>Cabin altitude is the altitude at which an aircraft flying in the ICAO standard atmosphere experiences a static pressure equal to the pressure in the cabin of your aircraft.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="140"/>
         <source>Pressure Altitude</source>
-        <translation>Tlaková výška</translation>
+        <translation type="vanished">Tlaková výška</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="148"/>
         <source>Altitude</source>
-        <translation>Výška</translation>
+        <translation type="vanished">Výška</translation>
     </message>
     <message>
         <source>Density Altitude</source>
         <translation type="vanished">Density Altitude</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="166"/>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="118"/>
         <source>Cabin Altitude</source>
         <translation>Kabinová výška</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="176"/>
+        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="32"/>
         <source>Device Sensors</source>
         <translation>Senzory zařízení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="182"/>
         <source>Pressure</source>
-        <translation>Tlak</translation>
+        <translation type="vanished">Tlak</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="190"/>
         <source>Temperature</source>
-        <translation>Teplota</translation>
+        <translation type="vanished">Teplota</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="200"/>
         <source>Other</source>
-        <translation>Ostatní</translation>
+        <translation type="vanished">Ostatní</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/PressureAltitude.qml" line="208"/>
         <source>QNH</source>
-        <translation>QNH</translation>
+        <translation type="vanished">QNH</translation>
     </message>
 </context>
 <context>
@@ -3932,12 +3994,12 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="260"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="262"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="266"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="268"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation type="unfinished">Nelze zapisovat do souboru &apos;%1&apos;.</translation>
     </message>
@@ -4264,19 +4326,31 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
 <context>
     <name>Sensors</name>
     <message>
-        <location filename="../../../src/Sensors.cpp" line="104"/>
         <source>Pressure sensor available</source>
-        <translation>Tlakové čidlo není k dispozici</translation>
+        <translation type="vanished">Tlakové čidlo není k dispozici</translation>
     </message>
     <message>
-        <location filename="../../../src/Sensors.cpp" line="108"/>
         <source>Temperature sensor available</source>
-        <translation>Teplotní čidlo není k dispozici</translation>
+        <translation type="vanished">Teplotní čidlo není k dispozici</translation>
     </message>
     <message>
-        <location filename="../../../src/Sensors.cpp" line="115"/>
         <source>No ambient pressure/temperature sensor available</source>
-        <translation>Čidlo okolního tlaku/teploty není k dispozici</translation>
+        <translation type="vanished">Čidlo okolního tlaku/teploty není k dispozici</translation>
+    </message>
+    <message>
+        <location filename="../../../src/Sensors.cpp" line="101"/>
+        <source>Pressure sensor available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Sensors.cpp" line="105"/>
+        <source>Temperature sensor available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Sensors.cpp" line="112"/>
+        <source>No ambient pressure/temperature sensor available.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4715,59 +4789,59 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataProvider</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="53"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="52"/>
         <source>Traffic data receiver</source>
         <translation>Přijímač leteckého provozu</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="140"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="138"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="35"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothLowEnergy.cpp" line="31"/>
         <source>Invalid connection.</source>
         <translation>Neplatné spojení.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="152"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="150"/>
         <source>Unable to add FLARM simulator file connection. This is not implemented at the moment.</source>
         <translation>Nelze přidat propojení na soubor FLARM simulator. V současnosti toto není implementováno.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="169"/>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="191"/>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="215"/>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="234"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="167"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="189"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="213"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="232"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="46"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothLowEnergy.cpp" line="42"/>
         <source>A connection to this device already exists.</source>
         <translation>Propojení k tomuto zařízení již existuje.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="201"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="199"/>
         <source>Serial ports are not supported on this platform.</source>
         <translation>Seriové porty nejsou na této platformě podporovány.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="608"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="609"/>
         <source>Receiving data through an internet service, which might be unreliable. Consider connecting to a proper traffic data receiver.</source>
         <translation>Dostávám udaje skrz internetovou službu, která může být nespolehlivá. Zvažte připojení k zažízení, určené pro příjem údajů o leteckém provozu.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="612"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="613"/>
         <source>Receiving heartbeat.</source>
         <translation>Dostávám heartbeat.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="616"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="617"/>
         <source>Receiving position info.</source>
         <translation>Dostávám polohové údaje.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="620"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="621"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Dostávám údaje o tlakové výšce.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="626"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="627"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
         <translation>Nedostávám heartbeat z žádných nastavených datových připojení.</translation>
     </message>
@@ -5900,62 +5974,199 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation>vertikální vzdálenost</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="152"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="155"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="163"/>
         <source>Connection Status</source>
         <translation>Stav připojení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="193"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="165"/>
+        <source>To ensure reliable operation, traffic receivers emit &apos;heartbeat messages&apos; at frequent intervals.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="166"/>
+        <source>This text field shows whether heartbeat messages are received through any of the configured data channels.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="167"/>
+        <source>If yes, it shows the data connection currently used and lists the types of data presently received.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="212"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="221"/>
         <source>Traffic Data Receiver Status</source>
         <translation>Stav přijímače provozu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="223"/>
+        <source>This field shows status messages reported by the traffic data receiver, including results of internal self-tests of the traffic data receiver hardware.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="254"/>
         <source>No problem reported</source>
         <translation>Žádné hlášené problémy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="239"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="271"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="280"/>
+        <source>Position</source>
+        <translation type="unfinished">Poloha</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="282"/>
+        <source>This section shows the position reported by the traffic data receiver.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="290"/>
+        <source>Latitude</source>
+        <translation type="unfinished">Zeměpisná šířka</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="310"/>
+        <source>Longitude</source>
+        <translation type="unfinished">Zeměpisná délka</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="329"/>
+        <source>Error (horizontal)</source>
+        <translation type="unfinished">Odchylka (horizontální)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="344"/>
+        <source>Ground Speed</source>
+        <translation type="unfinished">Pozemní rychlost</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="354"/>
+        <source>True Track</source>
+        <translation type="unfinished">Skutečný kurz</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="369"/>
+        <source>Error (True Track)</source>
+        <translation type="unfinished">Odchylka skutečného kurzu</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="386"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="396"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="410"/>
+        <source>True Altitude</source>
+        <translation type="unfinished">Skutečná výška</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="398"/>
+        <source>This section shows the true altitude reported by the traffic data receiver.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="400"/>
+        <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the main sea level, respectively.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="402"/>
+        <source>&lt;strong&gt;Warning:&lt;/strong&gt; Vertical airspace limits are defined in terms of barometric altitude. Depending on weather, true altitude and barometric altitude may differ substantially. &lt;strong&gt;Never use true altitude to judge the vertical distance from your aircraft to an airspace boundary.&lt;/strong&gt;</source>
+        <translation type="unfinished">&lt;strong&gt;Upozornění:&lt;/strong&gt; Vertikální hranice vzdušných prostorů jsou definovány skrze tlakovou výšku. V závislosti na počasí se skutečná výška a tlaková výška mohou lišit. &lt;strong&gt;Nikdy nepoužívejte skutečnou výšku za účelem posuzování vzdálenosti od vertikálních hranic vzdušných prostorů.&lt;/strong&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="433"/>
+        <source>Error (vertical)</source>
+        <translation type="unfinished">Odchylka (vertikální)</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="445"/>
+        <source>Vertical Speed</source>
+        <translation type="unfinished">Vertikální rychlost</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="461"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="471"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="484"/>
+        <source>Pressure Altitude</source>
+        <translation type="unfinished">Tlaková výška</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="473"/>
+        <source>This section shows the pressure altitude reported by the traffic data receiver.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="475"/>
+        <source>Pressure altitude is the altitude in the standard atmosphere at which the pressure is equal to the current atmospheric pressure.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="476"/>
+        <source>TThis is the altitude displayed on the aircraft&apos;s altimeter when set to the standard pressure of 1013.2hPa. This is also the altitude shown on the transponder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="502"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="512"/>
         <source>Traffic</source>
         <translation>Provoz</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="248"/>
-        <source>Currently No Traffic</source>
-        <translation>Aktuálně žádný provoz</translation>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="514"/>
+        <source>This section lists all the traffic reported by the traffic data receiver, sorted in order of importance.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="283"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="516"/>
+        <source>Traffic opponents are classified as &apos;Relevant Traffic&apos; and &apos;Irrelevant Traffic&apos;.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="517"/>
+        <source>Traffic is considered relevant if the vertical distance to the traffic opponent is less than 1,500 m and the horizontal distance is less than 20 NM.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="528"/>
+        <source>Currently no reported traffic.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Currently No Traffic</source>
+        <translation type="vanished">Aktuálně žádný provoz</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="566"/>
         <source>Help</source>
         <translation>Nápověda</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="292"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="576"/>
         <source>Connect to a traffic receiver…</source>
         <translation>Připojit k přijímači leteckého provozu...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="300"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="585"/>
         <source>Connect to a flight simulator…</source>
         <translation>Připojit k leteckému limulátoru...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="318"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="603"/>
         <source>Disconnecting...</source>
         <translation>Odpojuji...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="320"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="605"/>
         <source>Reconnecting...</source>
         <translation>Znovu připojuji...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="321"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="606"/>
         <source>Reconnect</source>
         <translation>Znovu připojit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="345"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="630"/>
         <source>Configure Data Connections</source>
         <translation>Nastavit datové připojení</translation>
     </message>
@@ -5963,27 +6174,27 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
 <context>
     <name>Ui::SideviewQuickItem</name>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="94"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="93"/>
         <source>Unable to show side view: Zoom value out of range.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="104"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="103"/>
         <source>Unable to show side view: No valid position data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="110"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="109"/>
         <source>Unable to show side view: No terrain data for current position. Please install the relevant terrain maps.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="127"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="126"/>
         <source>Unable to show side view: No valid track data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="134"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="133"/>
         <source>Unable to show side view: No valid altitude data for own aircraft.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9649,179 +9860,181 @@ please get in touch with us by opening a GitHub issue.&lt;/p&gt;
         <translation>Nepřijímám polohové údaje.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="347"/>
         <source>Barometric Data</source>
-        <translation>Tlakové údaje</translation>
+        <translation type="vanished">Tlakové údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="349"/>
         <source>Receiving pressure altitude.</source>
-        <translation>Obdržuji tlakové údaje.</translation>
+        <translation type="vanished">Obdržuji tlakové údaje.</translation>
+    </message>
+    <message>
+        <source>Not receiving pressure altitude.</source>
+        <translation type="vanished">Nepřijímám tlakovou výšku.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="349"/>
-        <source>Not receiving pressure altitude.</source>
-        <translation>Nepřijímám tlakovou výšku.</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/main.qml" line="370"/>
         <source>Traffic Receiver</source>
         <translation>Přijímač leteckého provozu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="372"/>
+        <location filename="../../../src/qml/main.qml" line="351"/>
         <source>Receiving heartbeat.</source>
         <translation>Přijímám heartbeat.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="372"/>
+        <location filename="../../../src/qml/main.qml" line="351"/>
         <source>Not receiving heartbeat.</source>
         <translation>Nepřijímám heartbeat.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="402"/>
+        <location filename="../../../src/qml/main.qml" line="375"/>
+        <source>Device Sensors</source>
+        <translation type="unfinished">Senzory zařízení</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="394"/>
         <source>About Enroute Flight Navigation</source>
         <translation>O Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="415"/>
+        <location filename="../../../src/qml/main.qml" line="407"/>
         <source>Privacy Policy</source>
         <translation>Ochrana osobních údajů</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="428"/>
+        <location filename="../../../src/qml/main.qml" line="420"/>
         <source>Participate</source>
         <translation>Podílejte se na vývoji</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="441"/>
+        <location filename="../../../src/qml/main.qml" line="433"/>
         <source>Donate</source>
         <translation>Přispět</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="465"/>
+        <location filename="../../../src/qml/main.qml" line="457"/>
         <source>Manual</source>
         <translation>Návod</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="478"/>
+        <location filename="../../../src/qml/main.qml" line="470"/>
         <source>Read manual</source>
         <translation>Přečíst návod</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="505"/>
+        <location filename="../../../src/qml/main.qml" line="497"/>
         <source>Open in browser</source>
         <translation>Otevřít v prohlížeči</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="523"/>
+        <location filename="../../../src/qml/main.qml" line="515"/>
         <source>In order to show the manual, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open an external web site hosted by GitHub.</source>
         <translation>Pro zobrazení návodu otevře &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; externí webovou stránku na serveru GitHub.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="532"/>
+        <location filename="../../../src/qml/main.qml" line="524"/>
         <source>Download as ebook</source>
         <translation>Stáhnout jako e-knihu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="550"/>
-        <location filename="../../../src/qml/main.qml" line="576"/>
+        <location filename="../../../src/qml/main.qml" line="542"/>
+        <location filename="../../../src/qml/main.qml" line="568"/>
         <source>In order to download the manual, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open an external web site hosted by GitHub.</source>
         <translation>Pro stažení návodu otevře &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; externí webovou stránku na serveru GitHub.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="558"/>
+        <location filename="../../../src/qml/main.qml" line="550"/>
         <source>Download as PDF</source>
         <translation>Stáhnout jako PDF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="592"/>
+        <location filename="../../../src/qml/main.qml" line="584"/>
         <source>Bug Report</source>
         <translation>Nahlásit chybu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="617"/>
+        <location filename="../../../src/qml/main.qml" line="609"/>
         <source>Exit</source>
         <translation>Ukončit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="675"/>
+        <location filename="../../../src/qml/main.qml" line="667"/>
         <source>Update required!</source>
         <translation>Vyžadována aktualizace!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="688"/>
-        <location filename="../../../src/qml/main.qml" line="702"/>
+        <location filename="../../../src/qml/main.qml" line="680"/>
+        <location filename="../../../src/qml/main.qml" line="694"/>
         <source>What&apos;s new…?</source>
         <translation>Co je nového...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="818"/>
+        <location filename="../../../src/qml/main.qml" line="810"/>
         <source>Connected to internet service providing traffic data.</source>
         <translation>Připojeno k internetové službě poskytující údaje o leteckém provozu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="820"/>
+        <location filename="../../../src/qml/main.qml" line="812"/>
         <source>Connected to traffic receiver.</source>
         <translation>Připojeno k prijímači provozu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="822"/>
+        <location filename="../../../src/qml/main.qml" line="814"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Připojení k prijímači provozu přerušeno.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="871"/>
+        <location filename="../../../src/qml/main.qml" line="863"/>
         <source>Exit…?</source>
         <translation>Ukončit…?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="872"/>
+        <location filename="../../../src/qml/main.qml" line="864"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Chcete ukončit&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="908"/>
+        <location filename="../../../src/qml/main.qml" line="900"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Zobrazeny vzdušné prostory do %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="910"/>
+        <location filename="../../../src/qml/main.qml" line="902"/>
         <source>Now showing all airspaces.</source>
         <translation>Zobrazeny všechny vzdušné prostory.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="931"/>
+        <location filename="../../../src/qml/main.qml" line="923"/>
         <source>Network security error</source>
         <translation>Chyba síťového zabezpečení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="943"/>
+        <location filename="../../../src/qml/main.qml" line="935"/>
         <source>Network security settings</source>
         <translation>Nastavení síťového zabezpečení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="944"/>
+        <location filename="../../../src/qml/main.qml" line="936"/>
         <source>You have chosen to ignore network security errors in the future.</source>
         <translation>Zvojili jste do budoucna ignorovat chyby při zabezpečení síťového připojení.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="945"/>
+        <location filename="../../../src/qml/main.qml" line="937"/>
         <source>This poses a security risk.</source>
         <translation>Toto představuje bezpečnostní riziko.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="946"/>
+        <location filename="../../../src/qml/main.qml" line="938"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Pro obnovení výchozího, zabezpečeného chování aplikace navigujte do sekce &lt;strong&gt;&lt;i&gt;Nastavení&lt;/i&gt;&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="976"/>
+        <location filename="../../../src/qml/main.qml" line="968"/>
         <source>Error!</source>
         <translation>Chyba!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="991"/>
+        <location filename="../../../src/qml/main.qml" line="983"/>
         <source>Starting map update</source>
         <translation>Začínám aktualizovat mapy</translation>
     </message>
