@@ -264,7 +264,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="188"/>
         <source>Use cabin pressure instead of static pressure for pressure altitude calculation.</source>
-        <translation>Verwenden Sie den Kabinendruck anstelle des statischen Drucks für die Berechnung der Druckhöhe.</translation>
+        <translation>Verwenden den Kabinendruck anstelle des statischen Drucks für die Berechnung der Druckhöhe.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="214"/>
