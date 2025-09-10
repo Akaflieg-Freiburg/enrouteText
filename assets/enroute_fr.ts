@@ -642,7 +642,7 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="271"/>
         <source>Open Glider Network</source>
-        <translation>Réseau de planeurs</translation>
+        <translation>Réseau Open Glider</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="286"/>
@@ -658,7 +658,7 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="289"/>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="315"/>
         <source>You are about to add an internet connection to the &apos;Open Glider Network&apos; as a traffic data source.</source>
-        <translation>Vous êtes sur le point d&apos;ajouter une connexion Internet au «&#xa0;Open Glider Network&#xa0;» comme source de données de trafic.</translation>
+        <translation>Vous êtes sur le point d&apos;ajouter une connexion Internet au «Open Glider Network» comme source de données de trafic.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="290"/>
@@ -4462,7 +4462,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <source>Open Glider Network Connection</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Traffic::ConnectionInfo</translatorcomment>
-        <translation>Connexion réseau de planeurs</translation>
+        <translation>Connexion au éseau Open Glider</translation>
     </message>
     <message>
         <source>OGN glidernet.org APRS-IS connection</source>
@@ -6003,7 +6003,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="122"/>
         <source>Open Glider Network-Connection</source>
-        <translation>Connexion réseau de planeurs</translation>
+        <translation>Connexion au réseau Open Glider</translation>
     </message>
 </context>
 <context>
