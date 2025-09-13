@@ -264,7 +264,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="188"/>
         <source>Use cabin pressure instead of static pressure for pressure altitude calculation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa la pressione della cabina invece della pressione statica per il calcolo dell&apos;altitudine di pressione.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="214"/>
@@ -345,57 +345,57 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="859"/>
         <source>Flight Safety Warning!</source>
-        <translation type="unfinished">Allerta di sicurezza del volo!</translation>
+        <translation>Allerta di sicurezza del volo!</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="861"/>
         <source>Know what you are doing!</source>
-        <translation type="unfinished">Conosci quello che stai facendo!</translation>
+        <translation>Conosci quello che stai facendo!</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="862"/>
         <source>If you enable this option, Enroute Flight Navigation will use the pressure sensor of your mobile device to determine pressure altitude and vertical distances to airspaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se abiliti questa opzione, Enroute Flight Navigation userà il sensore di pressione del tuo dispositivo per determinare l&apos;altitudine di pressione e le distanze verticali degli spazi aerei.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="863"/>
         <source>This is safety critical.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo è critico per la sicurezza.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="866"/>
         <source>The pressure sensor of your device is probably not certified for use in aviation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il sensore di pressione del tuo dispositivo probabilimente non è certificato per l&apos;uso aeronautico.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="867"/>
         <source>In typical GA aircraft, cabin pressure is not equal to static pressure.</source>
-        <translation type="unfinished"></translation>
+        <translation>In velivoli di AG, la pressione di cabina non è uguale alla pressione statica.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="868"/>
         <source>The precise difference depend on factors such as airspeed and configuration of ventilation and heating.</source>
-        <translation type="unfinished"></translation>
+        <translation>La differenza precisa dipende da fattori come velocità dell&apos;aria e configurazione della ventilazione e riscaldamento.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="870"/>
         <source>Do not enable this option unless you convinced yourself that the data provided by your sensor is good enough for the intended use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non abilitare questa opzione a meno che non sei convinto che il dato fornito dal tuo sensore sia sufficiente per l&apos;uso che intendi farne.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="871"/>
         <source>Do not rely on data shown in this app.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non affidarti ai dati mostrati da questa app.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="872"/>
         <source>Always use an approved altimeter to judge vertical distance to airspaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Usa sempre l&apos;altimetro approvato per giudicare la distanza verticale degli spazi aerei.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="875"/>
         <source>We strongly recommend to connect Enroute Flight Navigation to a proper traffic data receiver, such as a FLARM or ADS-B device, that provides static pressure data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Raccomandiamo fortemente di connettere Enroute Flight Navigation con un ricevitore di dati corretto, come un FLARM o un dispositivo ADS-B, che fornisce dati di pressione statica.</translation>
     </message>
 </context>
 <context>
@@ -5642,7 +5642,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
         <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the main sea level, respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;altitudine vera AGL o AMSL è rispettivamente la distanza verticale dall&apos;aeromobile al terreno o all&apos;altitudine media del mare.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="182"/>
@@ -5816,27 +5816,27 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="94"/>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="102"/>
         <source>Sensor Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Dato del sensore</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="103"/>
         <source>Cabin pressure is the air pressure measured by your device.</source>
-        <translation type="unfinished"></translation>
+        <translation>La pressione di cabina è la pressione misurata dal tuo dispositivo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="105"/>
         <source>Cabin temperature is the temperature measured by your device.</source>
-        <translation type="unfinished"></translation>
+        <translation>La temperatura di cabina è la temperatura misurata dal tuo dispositivo.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="110"/>
         <source>Cabin Pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Pressione di cabina</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="126"/>
         <source>Cabin Temperature</source>
-        <translation type="unfinished"></translation>
+        <translation>Temperatura di cabina</translation>
     </message>
     <message>
         <source>Receiving static pressure data from traffic receiver</source>
@@ -6957,17 +6957,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/Sensors.cpp" line="101"/>
         <source>Pressure sensor available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sensore di pressione disponibile.</translation>
     </message>
     <message>
         <location filename="../../../src/Sensors.cpp" line="105"/>
         <source>Temperature sensor available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sensore di temperatura disponibile.</translation>
     </message>
     <message>
         <location filename="../../../src/Sensors.cpp" line="112"/>
         <source>No ambient pressure/temperature sensor available.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non ci sono sensori di pressione/temperatura disponibili.</translation>
     </message>
 </context>
 <context>
@@ -8808,17 +8808,17 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="165"/>
         <source>To ensure reliable operation, traffic receivers emit &apos;heartbeat messages&apos; at frequent intervals.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per assicurare operazioni affidabili, il ricevitore di traffico emette &apos;pulsazioni&apos; a intervalli regolari.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="166"/>
         <source>This text field shows whether heartbeat messages are received through any of the configured data channels.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo campo di testo mostra se le pulsazioni sono ricevute attraverso uno dei canali dati configurati.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="167"/>
         <source>If yes, it shows the data connection currently used and lists the types of data presently received.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se SI, mostra la connessione dati correntemente usata e elenca i tipi di data ricevuti al momento.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="212"/>
@@ -8829,7 +8829,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="223"/>
         <source>This field shows status messages reported by the traffic data receiver, including results of internal self-tests of the traffic data receiver hardware.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questo campo mostra lo stato dei messaggi riportato dal ricevitore dei dati di traffico, includendo i risultati di test interni dell&apos;hardware del ricevitore.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="254"/>
@@ -8840,96 +8840,96 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="271"/>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="280"/>
         <source>Position</source>
-        <translation type="unfinished">Posizione</translation>
+        <translation>Posizione</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="282"/>
         <source>This section shows the position reported by the traffic data receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa sezione mostra la posizione riportata dal ricevitore dei dati di traffico.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="290"/>
         <source>Latitude</source>
-        <translation type="unfinished">Latitudine</translation>
+        <translation>Latitudine</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="310"/>
         <source>Longitude</source>
-        <translation type="unfinished">Longitudine</translation>
+        <translation>Longitudine</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="329"/>
         <source>Error (horizontal)</source>
-        <translation type="unfinished">Errore (orizzontale)</translation>
+        <translation>Errore (orizzontale)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="344"/>
         <source>Ground Speed</source>
-        <translation type="unfinished">Velocità al terreno</translation>
+        <translation>Velocità al terreno</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="354"/>
         <source>True Track</source>
-        <translation type="unfinished">Percorso reale</translation>
+        <translation>Percorso reale</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="369"/>
         <source>Error (True Track)</source>
-        <translation type="unfinished">Errore (Percorso reale)</translation>
+        <translation>Errore (Percorso reale)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="386"/>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="396"/>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="410"/>
         <source>True Altitude</source>
-        <translation type="unfinished">Altitudine vera</translation>
+        <translation>Altitudine vera</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="398"/>
         <source>This section shows the true altitude reported by the traffic data receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa sezione mostra l&apos;altitudine vera riportata dal ricevitore dei dati di traffico.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="400"/>
         <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the main sea level, respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;altitudine vera AGL o AMSL è rispettivamente la distanza verticale dall&apos;aeromobile al terreno o all&apos;altitudine media del mare.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="402"/>
         <source>&lt;strong&gt;Warning:&lt;/strong&gt; Vertical airspace limits are defined in terms of barometric altitude. Depending on weather, true altitude and barometric altitude may differ substantially. &lt;strong&gt;Never use true altitude to judge the vertical distance from your aircraft to an airspace boundary.&lt;/strong&gt;</source>
-        <translation type="unfinished">&lt;strong&gt;Attenzione:&lt;/strong&gt; I limiti verticali dello spazio aereo sono definiti in termini di altitudine barometrica. L&apos;altitudine vera e barometrica possono differire sostanzialmente in funzione del meteo. &lt;strong&gt;Non usare mai l&apos;altitudine vera per giudicare la distanza verticale del velivolo al limite dello spazio aereo.&lt;/strong&gt;</translation>
+        <translation>&lt;strong&gt;Attenzione:&lt;/strong&gt; I limiti verticali dello spazio aereo sono definiti in termini di altitudine barometrica. L&apos;altitudine vera e barometrica possono differire sostanzialmente in funzione del meteo. &lt;strong&gt;Non usare mai l&apos;altitudine vera per giudicare la distanza verticale del velivolo al limite dello spazio aereo.&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="433"/>
         <source>Error (vertical)</source>
-        <translation type="unfinished">Errore (verticale)</translation>
+        <translation>Errore (verticale)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="445"/>
         <source>Vertical Speed</source>
-        <translation type="unfinished">Velocità verticale</translation>
+        <translation>Velocità verticale</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="461"/>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="471"/>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="484"/>
         <source>Pressure Altitude</source>
-        <translation type="unfinished">Altitudine di pressione</translation>
+        <translation>Altitudine di pressione</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="473"/>
         <source>This section shows the pressure altitude reported by the traffic data receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa sezione mostra l&apos;altitudine di pressione riportata dal ricevitore dei dati di traffico.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="475"/>
         <source>Pressure altitude is the altitude in the standard atmosphere at which the pressure is equal to the current atmospheric pressure.</source>
-        <translation type="unfinished"></translation>
+        <translation>L&apos;altitudine di pressione è l&apos;altitudine in atmosfera standard alla quale la pressione è uguale alla pressione atmosferica attuale.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="476"/>
         <source>TThis is the altitude displayed on the aircraft&apos;s altimeter when set to the standard pressure of 1013.2hPa. This is also the altitude shown on the transponder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa è l&apos;altitudine mostrata sull&apos;altimetro del velivolo quando è impostata la pressione standard di 1013.2hPa. Questa è anche l&apos;altitudine mostrata sul trasponder.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="502"/>
@@ -8940,22 +8940,22 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="514"/>
         <source>This section lists all the traffic reported by the traffic data receiver, sorted in order of importance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Questa sezione elenca tutto il traffico riportato dal ricevitore dei dati di traffico, ordinato secondo importanza.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="516"/>
         <source>Traffic opponents are classified as &apos;Relevant Traffic&apos; and &apos;Irrelevant Traffic&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il traffico opposto è classificato come &apos;Traffico Rilevante&apos; e &apos;Traffico Irrilevante&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="517"/>
         <source>Traffic is considered relevant if the vertical distance to the traffic opponent is less than 1,500 m and the horizontal distance is less than 20 NM.</source>
-        <translation type="unfinished"></translation>
+        <translation>Il traffico è considerato rilevante se la distanza verticale dal traffico opposto è meno di 1500 m e la distanza orizzontale è meno di 20 NM.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="528"/>
         <source>Currently no reported traffic.</source>
-        <translation type="unfinished"></translation>
+        <translation>Al momento non c&apos;è traffico riportato.</translation>
     </message>
     <message>
         <source>Currently No Traffic</source>
@@ -13057,7 +13057,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="375"/>
         <source>Device Sensors</source>
-        <translation type="unfinished">Sensori del dispositivo</translation>
+        <translation>Sensori del dispositivo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="407"/>
