@@ -148,7 +148,7 @@
     <name>AircraftPage</name>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="32"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="147"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="144"/>
         <source>Aircraft</source>
         <translation>Avion</translation>
     </message>
@@ -163,7 +163,7 @@
         <translation>Guardar la biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="155"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="154"/>
         <source>Name</source>
         <translation>Nombre</translation>
     </message>
@@ -172,201 +172,201 @@
         <translation type="vanished">indefinido</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="194"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="193"/>
         <source>Units</source>
         <translation>Unidades</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="443"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="445"/>
         <source>Horizontal</source>
         <translation>Horizontal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="207"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="255"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="468"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="209"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="257"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="470"/>
         <source>Nautical Miles</source>
         <translation>Millas náuticas</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="209"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="260"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="468"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="211"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="262"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="470"/>
         <source>Kilometers</source>
         <translation>Kilometros</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="212"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="265"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="468"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="214"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="267"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="470"/>
         <source>Statute Miles</source>
         <translation>Millas terrestres</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="471"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="473"/>
         <source>Vertical</source>
         <translation>Vertical</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="295"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="340"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="492"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="297"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="342"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="494"/>
         <source>Feet</source>
         <translation>Pies</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="297"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="345"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="492"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="299"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="347"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="494"/>
         <source>Meters</source>
         <translation>Metros</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="376"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="495"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="378"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="497"/>
         <source>Volume</source>
         <translation>Volumen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="372"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="417"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="516"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="374"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="419"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="518"/>
         <source>Liters</source>
         <translation>Litros</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="188"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="187"/>
         <source>Use cabin pressure instead of static pressure for pressure altitude calculation.</source>
         <translation>Utilice la presión de la cabina en lugar de la presión estática para calcular la altitud de presión.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="214"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="227"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="216"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="229"/>
         <source>Horizontal Distances</source>
         <translation>Distancias horizontales</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="216"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="301"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="378"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="218"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="303"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="380"/>
         <source>Currently using: %1</source>
         <translation>Actualmente usando: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="249"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="251"/>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to horizontal speed indications.</source>
         <translation>Elija las unidades de medida preferidas para este avión. Las unidades también se aplican a las indicaciones de velocidad horizontal.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="299"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="312"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="301"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="314"/>
         <source>Vertical Distances</source>
         <translation>Distancias verticales</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="334"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="336"/>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to vertical speed indications.</source>
         <translation>Elija las unidades de medida preferidas para este avión. Las unidades también se aplican a las indicaciones de velocidad vertical.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="374"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="422"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="376"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="424"/>
         <source>Gallons</source>
         <translation>Galones</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="389"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="391"/>
         <source>Volumes</source>
         <translation>Volúmenes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="411"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="413"/>
         <source>Choose the preferred units of measurement for this aircraft.</source>
         <translation>Elija las unidades de medida preferidas para este avión.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="516"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="518"/>
         <source>U.S. Gallons</source>
         <translation>Galones estadounidenses</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="521"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="523"/>
         <source>True Airspeed</source>
         <translation>Velocidad verdadera</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="529"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="770"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="534"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="778"/>
         <source>Cruise</source>
         <translation>Crucero</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="607"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="612"/>
         <source>Descent</source>
         <translation>Descenso</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="685"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="690"/>
         <source>Minimum</source>
         <translation>Minimo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="763"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="768"/>
         <source>Fuel Consumption</source>
         <translation>Consumo de combustible</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="859"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="867"/>
         <source>Flight Safety Warning!</source>
         <translation>¡Advertencia de seguridad de vuelo!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="861"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="869"/>
         <source>Know what you are doing!</source>
         <translation>¡Sepa lo que está haciendo!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="862"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="870"/>
         <source>If you enable this option, Enroute Flight Navigation will use the pressure sensor of your mobile device to determine pressure altitude and vertical distances to airspaces.</source>
         <translation>Si habilita esta opción, Enroute Flight Navigation utilizará el sensor de presión de su dispositivo móvil para determinar la altitud de presión y las distancias verticales a los espacios aéreos.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="863"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="871"/>
         <source>This is safety critical.</source>
         <translation>Esto es crítico para la seguridad.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="866"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="874"/>
         <source>The pressure sensor of your device is probably not certified for use in aviation.</source>
         <translation>Es probable que el sensor de presión de su dispositivo no esté certificado para su uso en aviación.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="867"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="875"/>
         <source>In typical GA aircraft, cabin pressure is not equal to static pressure.</source>
         <translation>En un avión GA típico, la presión de la cabina no es igual a la presión estática.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="868"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="876"/>
         <source>The precise difference depend on factors such as airspeed and configuration of ventilation and heating.</source>
         <translation>La diferencia precisa depende de factores como la velocidad del aire y la configuración de la ventilación y la calefacción.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="870"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="878"/>
         <source>Do not enable this option unless you convinced yourself that the data provided by your sensor is good enough for the intended use.</source>
         <translation>No habilite esta opción a menos que esté convencido de que los datos proporcionados por su sensor son lo suficientemente buenos para el uso previsto.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="871"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="879"/>
         <source>Do not rely on data shown in this app.</source>
         <translation>No confíe en los datos que se muestran en esta aplicación.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="872"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="880"/>
         <source>Always use an approved altimeter to judge vertical distance to airspaces.</source>
         <translation>Utilice siempre un altímetro aprobado para calcular la distancia vertical a los espacios aéreos.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="875"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="883"/>
         <source>We strongly recommend to connect Enroute Flight Navigation to a proper traffic data receiver, such as a FLARM or ADS-B device, that provides static pressure data.</source>
         <translation>Recomendamos encarecidamente conectar Enroute Flight Navigation a un receptor de datos de tráfico adecuado, como un dispositivo FLARM o ADS-B, que proporcione datos de presión estática.</translation>
     </message>
@@ -3508,11 +3508,26 @@ con los datos de la cuenta bancaria.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="324"/>
+        <source>Welcome to version 3.0.0 of Enroute Flight Navigation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="327"/>
+        <source>&lt;strong&gt;New Feature&lt;/strong&gt;: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="328"/>
         <source>Swipe up from the navigation bar at the bottom of the main screen to open a side view of the airspace.</source>
         <translation>Deslice hacia arriba desde la barra de navegación en la parte inferior de la pantalla principal para abrir una vista lateral del espacio aéreo.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="328"/>
+        <location filename="../../../src/Librarian.cpp" line="329"/>
+        <source>We thank Simon Schneider and Markus Marks for help with the implementation. Consult the manual for more information.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="333"/>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Flight routes can now be copied to the clipboard in ICAO flight plan format. We thank Christian Engelhardt for the implementation of these features. Consult the manual for more information.</source>
         <translation>Enroute Flight Navigation ahora puede mostrar datos de tráfico proporcionados por Open Glider Network. Las rutas de vuelo ahora se pueden copiar al portapapeles en formato de plan de vuelo de la OACI. Agradecemos a Christian Engelhardt la implementación de estas funciones. Consulte el manual para más información.</translation>
     </message>
@@ -3816,7 +3831,7 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; para iOS está disponible para pruebas beta públicas en &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;página de inicio de esta aplicación&lt;/a&gt; también contiene un enlace a TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="341"/>
+        <location filename="../../../src/Librarian.cpp" line="346"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Necesitamos ayuda con gráficos promocionales para los app stores y con videos explicativos. Si eres un artista gráfico o de video y te gustaría ayudar, por favor ponte en contacto.</translation>
     </message>
@@ -8179,42 +8194,42 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
 <context>
     <name>Ui::SideviewQuickItem</name>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="93"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="94"/>
         <source>Unable to show side view: Zoom value out of range.</source>
         <translation>No se puede mostrar la vista lateral: Zoom valor fuera del rango.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="103"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="104"/>
         <source>Unable to show side view: No valid position data.</source>
         <translation>No se puede mostrar la vista lateral: No hay datos de posición válidos.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="109"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="110"/>
         <source>Unable to show side view: No terrain data for current position. Please install the relevant terrain maps.</source>
         <translation>No se puede mostrar vista lateral: No hay datos de terreno para la posición actual. Por favor, instale los mapas de terreno relevantes.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="126"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="127"/>
         <source>Unable to show side view: No valid track data.</source>
         <translation>No se puede mostrar la vista lateral: No hay datos de pista válidos.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="133"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="134"/>
         <source>Unable to show side view: No valid altitude data for own aircraft.</source>
         <translation>No se puede mostrar la vista lateral: No hay datos de altitud válidos para el propio avión.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="141"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="145"/>
         <source>Unable to compute sufficiently precise vertical airspace boundaries because barometric altitude information is not available. &lt;a href=&apos;xx&apos;&gt;Click here&lt;/a&gt; for more information.</source>
         <translation>No es posible calcular con suficiente precisión los límites verticales del espacio aéreo porque no se dispone de información barométrica sobre la altitud. &lt;a href=&apos;xx&apos;&gt;Haga clic aquí&lt;/a&gt; para obtener más información.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="146"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="150"/>
         <source>Unable to compute sufficiently precise vertical airspace boundaries because the QNH is not available. Please wait while QNH information is downloaded from the internet.</source>
         <translation>No es posible calcular con suficiente precisión los límites verticales del espacio aéreo porque el QNH no está disponible. Por favor, espere mientras se descarga la información de QNH de internet.</translation>
     </message>
     <message>
-        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="204"/>
+        <location filename="../../../src/ui/SideviewQuickItem.cpp" line="208"/>
         <source>Incomplete terrain data. Please install the relevant terrain maps.</source>
         <translation>Datos de terreno incompletos. Por favor, instale los mapas de terreno correspondientes.</translation>
     </message>
