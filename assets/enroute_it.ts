@@ -3955,7 +3955,7 @@ con i dati del conto bancario.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="316"/>
-        <source>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/07-referenceTechnology/03-altitude.html#airspace-side-view&apos;&gt;Consult the manual&lt;/a&gt; for more information and for possible solutions.</source>
+        <source>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/05-referencePages/01-mainPage.html#dependence-on-static-pressure-information&apos;&gt;Consult the manual&lt;/a&gt; for more information and for possible solutions.</source>
         <translation>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/07-referenceTechnology/03-altitude.html#airspace-side-view&apos;&gt;Consulta il manuale&lt;/a&gt; per maggiori informazioni e per possibili soluzioni.</translation>
     </message>
     <message>
