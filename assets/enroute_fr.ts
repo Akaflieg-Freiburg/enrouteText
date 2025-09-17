@@ -2426,7 +2426,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="82"/>
         <source>Markus Marks helped to implement the side view. Based in southern Germany, Markus is an enthusiastic glider pilot software developer working in embedded systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markus Marks a contribué à la mise en œuvre de la vue latérale. Basé dans le sud de l&apos;Allemagne, Markus est un développeur de logiciels de pilotage de planeur passionné travaillant dans les systèmes embarqués.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="88"/>
@@ -2847,12 +2847,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="324"/>
         <source>Welcome to version 3.0.0 of Enroute Flight Navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenue dans la version 3.0.0 de Enroute Flight Navigation.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="327"/>
         <source>&lt;strong&gt;New Feature&lt;/strong&gt;: </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Nouvelle fonctionnalité&lt;/strong&gt;&#xa0;:</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="328"/>
@@ -2862,7 +2862,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="329"/>
         <source>We thank Simon Schneider and Markus Marks for help with the implementation. Consult the manual for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nous remercions Simon Schneider et Markus Marks pour leur aide à la mise en œuvre. Consultez le manuel pour plus d&apos;informations.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="333"/>
