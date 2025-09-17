@@ -3159,7 +3159,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="82"/>
         <source>Markus Marks helped to implement the side view. Based in southern Germany, Markus is an enthusiastic glider pilot software developer working in embedded systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markus Marks ayudó a implementar la vista lateral. Residente en el sur de Alemania, Markus es un entusiasta desarrollador de software para pilotos de planeadores que trabaja en sistemas integrados.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="88"/>
@@ -3513,12 +3513,12 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="324"/>
         <source>Welcome to version 3.0.0 of Enroute Flight Navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bienvenido a la versión 3.0.0 de Enroute Flight Navigation.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="327"/>
         <source>&lt;strong&gt;New Feature&lt;/strong&gt;: </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Nueva función&lt;/strong&gt;:</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="328"/>
@@ -3528,7 +3528,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="329"/>
         <source>We thank Simon Schneider and Markus Marks for help with the implementation. Consult the manual for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Agradecemos a Simon Schneider y Markus Marks su ayuda con la implementación. Consulte el manual para más información.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="333"/>
