@@ -3671,6 +3671,11 @@ z danymi konta bankowego.
         <translation>Tom Linz ukończył obliczenia gęstości wg. wysokości. Otrzymał licencję PPL pod koniec 2024 r. Tom pracuje jako inżynier ds. rozwoju systemów bezpieczeństwa.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="82"/>
+        <source>Markus Marks helped to implement the side view. Based in southern Germany, Markus is an enthusiastic glider pilot software developer working in embedded systems.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="92"/>
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato and Luca Riva. Both are private pilots and aerospace engineers. Luca is also doing aerobatics.&lt;/li&gt;
@@ -3710,9 +3715,8 @@ z danymi konta bankowego.
         <translation>Christian Engelhardt zaimplementował połączenie sieciowe OGN, eksport planów lotu i rozpoczął implementację obliczeń gęstości wysokości. Christian jest pilotem z licencją PPL w południowych Niemczech, studiował elektrotechnikę i pracuje jako inżynier oprogramowania wbudowanego.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="82"/>
         <source>Markus Marks helped to implement the side view.</source>
-        <translation>Markus Marks pomógł wdrożyć widok boczny.</translation>
+        <translation type="vanished">Markus Marks pomógł wdrożyć widok boczny.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="85"/>

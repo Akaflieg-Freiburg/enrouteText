@@ -2424,6 +2424,11 @@ Message: Enroute Flight Navigation
         <translation>Tom Linz a terminé le calcul de la densité de hauteur. Il a obtenu sa licence PPL fin 2024. Tom travaille comme ingénieur de développement de systèmes de sécurité.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="82"/>
+        <source>Markus Marks helped to implement the side view. Based in southern Germany, Markus is an enthusiastic glider pilot software developer working in embedded systems.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="88"/>
         <source>
 &lt;h3&gt;Translations&lt;/h3&gt;
@@ -2618,9 +2623,8 @@ Message: Enroute Flight Navigation
         <translation>Christian Engelhardt a mis en œuvre la connexion au réseau OGN, l&apos;exportation des plans de vol et a commencé la mise en œuvre du calcul de la densité d&apos;altitude. Pilote de vol privé (PPL) dans le sud de l&apos;Allemagne, Christian a étudié l&apos;électrotechnique et travaille comme ingénieur logiciel embarqué.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="82"/>
         <source>Markus Marks helped to implement the side view.</source>
-        <translation>Markus Marks a aidé à mettre en œuvre la vue latérale.</translation>
+        <translation type="vanished">Markus Marks a aidé à mettre en œuvre la vue latérale.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="85"/>

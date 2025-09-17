@@ -3631,6 +3631,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Tom Linz vollendete die Dichtehöhe-Berechnung. Er machte seine PPL Ende 2024 und arbeitet als Entwickler von Sicherheitssystemen.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="82"/>
+        <source>Markus Marks helped to implement the side view. Based in southern Germany, Markus is an enthusiastic glider pilot software developer working in embedded systems.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="94"/>
         <source>
 &lt;li&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everyting else that flies.&lt;/li&gt;
@@ -3843,9 +3848,8 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation>Christian Engelhardt implementierte die Verbindung zum OGN-Netzwerk und den Flugplanexport und begann die Implementierung der Dichtehöheberechnung. Er ist PPL-Pilot in Süddeutschland, Elektroingenieur und arbeitet als Softwareentwickler für eingebettete Systeme.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="82"/>
         <source>Markus Marks helped to implement the side view.</source>
-        <translation>Markus Marks half bei der Implementierung der Seitenansicht.</translation>
+        <translation type="vanished">Markus Marks half bei der Implementierung der Seitenansicht.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="85"/>

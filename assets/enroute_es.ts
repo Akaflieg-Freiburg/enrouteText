@@ -3157,6 +3157,11 @@ con los datos de la cuenta bancaria.</translation>
         <translation>Tom Linz completó el cálculo de la densidad de altura. Recibió su licencia PPL a finales de 2024. Tom trabaja como ingeniero de desarrollo de sistemas de seguridad.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="82"/>
+        <source>Markus Marks helped to implement the side view. Based in southern Germany, Markus is an enthusiastic glider pilot software developer working in embedded systems.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="88"/>
         <source>
 &lt;h3&gt;Translations&lt;/h3&gt;
@@ -3201,9 +3206,8 @@ con los datos de la cuenta bancaria.</translation>
         <translation>Christian Engelhardt implementó la conexión de red OGN, la exportación del plan de vuelo y comenzó la implementación del cálculo de densidad de altitud. Christian es piloto de PPL en el sur de Alemania, estudió ingeniería eléctrica y trabaja como ingeniero de software embebido.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="82"/>
         <source>Markus Marks helped to implement the side view.</source>
-        <translation>Markus Marks ayudó a implementar la vista lateral.</translation>
+        <translation type="vanished">Markus Marks ayudó a implementar la vista lateral.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="85"/>
