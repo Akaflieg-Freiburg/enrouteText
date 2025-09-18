@@ -4100,7 +4100,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="327"/>
         <source>&lt;strong&gt;New Feature&lt;/strong&gt;: </source>
-        <translation>&lt;strong&gt;Neue Funktion&lt;strong&gt;: </translation>
+        <translation>&lt;strong&gt;Neue Funktion&lt;/strong&gt;: </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="328"/>
