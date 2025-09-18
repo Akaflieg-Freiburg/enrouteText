@@ -3623,7 +3623,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="82"/>
         <source>Markus Marks helped to implement the side view. Based in southern Germany, Markus is an enthusiastic glider pilot software developer working in embedded systems.</source>
-        <translation type="unfinished"></translation>
+        <translation>Markus Marks ha contribuito all&apos;implementazione della vista laterale. Basato Germania meridionale, Markus è un appassionato sviluppatore di software per piloti di alianti che lavora come Embedded SW Engineer</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="94"/>
@@ -3961,12 +3961,12 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="324"/>
         <source>Welcome to version 3.0.0 of Enroute Flight Navigation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Benvenuti alla versione 3.0.0 di Enroute Flight Navigation.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="327"/>
         <source>&lt;strong&gt;New Feature&lt;/strong&gt;: </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;strong&gt;Nuova funzionalità&lt;/strong&gt;:</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="328"/>
@@ -3976,7 +3976,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="329"/>
         <source>We thank Simon Schneider and Markus Marks for help with the implementation. Consult the manual for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ringraziamo Simon Schneider e Markus Marks per il supporto nell&apos;implementazione. Consultate il manuale per maggiori informazioni.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="333"/>
