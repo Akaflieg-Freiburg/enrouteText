@@ -2706,37 +2706,37 @@ con los datos de la cuenta bancaria.</translation>
 <context>
     <name>GeoMaps::WaypointLibrary</name>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="136"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="141"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
         <translation>No se puede abrir el archivo &apos;%1&apos; para lectura.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="141"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="146"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
         <translation>No se pueden leer los datos del archivo &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="149"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="154"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
         <translation>No se puede analizar el archivo &apos;%1&apos;. Motivo: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="159"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="164"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation>No se puede analizar el contenido del archivo &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="201"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="206"/>
         <source>Error reading waypoints from file &apos;%1&apos;.</source>
         <translation>Error al leer los puntos de ruta del archivo &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="274"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="279"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>No se puede abrir el archivo &apos;%1&apos; para escribir.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="281"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="286"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>No se puede escribir en el archivo &apos;%1&apos;.</translation>
     </message>
@@ -11947,7 +11947,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>SS %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="487"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="486"/>
         <source>%1 hPa in %2, %3</source>
         <translation>%1 hPa en %2, %3</translation>
     </message>

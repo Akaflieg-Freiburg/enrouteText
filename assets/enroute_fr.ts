@@ -2079,37 +2079,37 @@ Message: Enroute Flight Navigation
 <context>
     <name>GeoMaps::WaypointLibrary</name>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="136"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="141"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
         <translation>Ouverture du fichier &apos;%1&apos; pour lecture impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="141"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="146"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
         <translation>Lecture du fichier &apos;%1&apos; impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="149"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="154"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
         <translation>Analyse du fichier &apos;%1&apos; impossible. Cause: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="159"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="164"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation>Analyse du contenu du fichier &apos;%1&apos; impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="201"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="206"/>
         <source>Error reading waypoints from file &apos;%1&apos;.</source>
         <translation>Erreur lors de la lecture des points cheminement depuis le fichier &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="274"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="279"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Ouverture du fichier &apos;%1&apos; pour écriture impossible.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="281"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="286"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Ecriture du fichier &apos;%1&apos; impossible.</translation>
     </message>
@@ -10166,7 +10166,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>SS %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="487"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="486"/>
         <source>%1 hPa in %2, %3</source>
         <translation>%1 hPa dans %2, %3</translation>
     </message>
