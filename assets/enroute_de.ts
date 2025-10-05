@@ -2138,7 +2138,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="57"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a non-commercial project of Akaflieg Freiburg, supported by the University of Freiburg. The app has been written by flight enthusiasts in their spare time, as a service to the community. The developers do not take donations.</source>
-        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ist ein nicht nichtkommerzielles Projekt der Akaflieg Freiburg, unterstützt von der Universität Freiburg. Die App wurde von Luftsportbegeisterten in ihrer Freizeit als Beitrag zur Gemeinschaft geschrieben. Die Entwickler nehmen keine Spenden an.</translation>
+        <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; ist ein nichtkommerzielles Projekt der Akaflieg Freiburg, unterstützt von der Universität Freiburg. Die App wurde von Luftsportbegeisterten in ihrer Freizeit als Beitrag zur Gemeinschaft geschrieben. Die Entwickler nehmen keine Spenden an.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="58"/>
