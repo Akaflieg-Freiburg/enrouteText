@@ -5432,7 +5432,23 @@ with the programming, please get in touch with us by
 opening a GitHub issue. We are grateful for any help we
 can get.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;h3&gt;An der Entwicklung teilhaben&lt;/h3&gt;
+
+&lt;p&gt;Wir haben große Pläne für &lt;strong&gt;Enroute Flight
+Navigation&lt;/strong&gt;, schauen Sie auf unsere 
+&lt;a href=&apos;https://github.com/Akaflieg-Freiburg/enroute/projects&apos;&gt;Projetseite
+bei GitHub&lt;/a&gt;, was noch kommen soll.&lt;/p&gt;
+
+&lt;h3&gt;Übersetzungen&lt;/h3&gt;
+
+&lt;p&gt;Wenn Sie das Versionskontrollsystem von GIT benutzen können und die App gern in Ihre Muttersprache übersetzen möchten, würden wir gern von Ihnen hören.
+Programmiererfahrung ist nicht erforderlich, aber der Umgang mit einem Computer muss Ihnen vertraut sein.&lt;/p&gt;
+
+&lt;h3&gt;Zum Entwicklerteam hinzustoßen&lt;/h3&gt;
+
+&lt;p&gt;Wenn Sie geläufig in C++ schreiben und uns bei der Entwicklung helfen wollen, nehmen Sie gern Kontakt zu uns auf, indem Sie einen GitHub-Issue eröffnen. Wir sind dankbar für jegliche Unterstützung.&lt;/p&gt;
+</translation>
     </message>
     <message>
         <source>
@@ -13230,7 +13246,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="773"/>
         <source>Unable to import more than one file at once. Please import only one file at a time.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bitte importieren Sie nur eine Datei auf einmal, mehrere zugleich ist nicht möglich.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="824"/>
