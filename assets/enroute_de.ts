@@ -991,47 +991,47 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="80"/>
         <source>Connection Info</source>
-        <translation type="unfinished">Verbindungs-Info</translation>
+        <translation>Verbindungs-Info</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="124"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="126"/>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="128"/>
         <source>Currently no incoming data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zurzeit keine ankommenden Daten.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="129"/>
         <source>Data Format: %1.</source>
-        <translation type="unfinished">Datenformat: %1.</translation>
+        <translation>Datenformat: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="132"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
-        <translation type="unfinished">Diese Standardverbindung kann vom Anwender nicht entfernt werden.</translation>
+        <translation>Diese Standardverbindung kann vom Anwender nicht entfernt werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="175"/>
         <source>Baud Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Baudrate</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="215"/>
         <source>Stop Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Stopp-Bits</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="238"/>
         <source>Flow Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Datenflusssteuerung</translation>
     </message>
 </context>
 <context>
@@ -3904,7 +3904,9 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <source>
 &lt;li&gt;&lt;strong&gt;Spanish:&lt;/strong&gt; Luca Riva.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;&lt;strong&gt;Spanisch:&lt;/strong&gt; Luca Riva.&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="134"/>
@@ -8617,7 +8619,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="95"/>
         <source>Device not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Gerät nicht gefunden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="110"/>
