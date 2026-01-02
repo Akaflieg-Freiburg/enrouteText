@@ -4814,57 +4814,61 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
 Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stronę z zarządzaniem mapami.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="678"/>
         <source>There is no aviation map installed.</source>
-        <translation>Brak zainstalowanych map lotnicznych.</translation>
+        <translation type="vanished">Brak zainstalowanych map lotnicznych.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="680"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="679"/>
         <source>Please wait for the download to complete.</source>
         <translation>Proszę zaczekaj na zakończenie pobierania.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="681"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="680"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
         <translation>Aby zainstalować mapę, otwórz menu za pomocą przycisku menu w lewym górnym rogu tego ekranu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="682"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="681"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
         <translation>Wybierz &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; aby otworzyć stronę zarządzania mapami.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="795"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="794"/>
         <source>Airspaces up to %1</source>
         <translation>Przestrzenie powietrzne do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="798"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="797"/>
         <source>Downloading Maps and Data</source>
         <translation>Pobieranie map i danych</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="824"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="823"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Dane mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="885"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="884"/>
         <source>Map Mode: Track Up</source>
         <translation>Tryb mapy: trasa u góry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="887"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="886"/>
         <source>Map Mode: User Defined Direction Up</source>
         <translation>Tryb mapy: Kierunek zdefiniowany przez użytkownika w górę</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="883"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="882"/>
         <source>Map Mode: North Up</source>
         <translation>Tryb mapy: Północ u góry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="748"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="677"/>
+        <source>No aviation map installed for your present location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="747"/>
         <source>Map Mode: Autopan</source>
         <translation>Tryb mapy: Automatycznie</translation>
     </message>
@@ -4873,7 +4877,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
         <translation type="vanished">Dane mapy - informacje o prawach autorskich</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="832"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="831"/>
         <source>Map Data Copyright Information</source>
         <translation>Dane mapy - informacje o prawach autorskich</translation>
     </message>
@@ -5189,22 +5193,22 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
 <context>
     <name>Navigation::Navigator</name>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="344"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="346"/>
         <source>Cruise speed not specified.</source>
         <translation>Prędkość przelotowa nie jest ustawiona.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="348"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="350"/>
         <source>Wind speed not specified.</source>
         <translation>Prędkość wiatru nie jest ustawiona.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="352"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="354"/>
         <source>Wind direction not specified.</source>
         <translation>Kierunek wiatru nie jest ustawiony.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="356"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="358"/>
         <source>Computation incomplete. %1</source>
         <translation>Obliczenia niekompletne. %1</translation>
     </message>
@@ -5568,7 +5572,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Wyeksportuj trasę lotu</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="59"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="61"/>
         <source>%1 (*.%2);;All files (*)</source>
         <translation>%1 (*.%2);;Wszystkie pliki (*)</translation>
@@ -5580,24 +5584,24 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Eksportuj dane</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="65"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="67"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="70"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Nie można otworzyć pliku &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="70"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="72"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="75"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Nie można zapisać do pliku &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="82"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="84"/>
         <source>Unable to open temporary file.</source>
         <translation>Nie można otworzyć pliku tymczasowego.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="93"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="95"/>
         <source>Unable to open data in other app.</source>
         <translation>Nie można otworzyć danych w innej aplikacji.</translation>
     </message>
@@ -8467,82 +8471,86 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_SerialPort</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="76"/>
         <source>Due to platform limitations, serial ports are not supported on iOS.</source>
-        <translation>Ze względu na ograniczenia platformy porty szeregowe nie są obsługiwane w systemie iOS.</translation>
+        <translation type="vanished">Ze względu na ograniczenia platformy porty szeregowe nie są obsługiwane w systemie iOS.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="95"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="93"/>
         <source>Device not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="110"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="108"/>
         <source>Connected.</source>
         <translation>Połączony.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="135"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="111"/>
+        <source>Serial ports are not supported on this platform.</source>
+        <translation type="unfinished">Porty szeregowe nie są obsługiwane na tej platformie.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="138"/>
         <source>Not connected.</source>
         <translation>Nie połączony.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="146"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="150"/>
         <source>Non-existing device</source>
         <translation>Nieistniejące urządzenie</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="149"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="153"/>
         <source>Attempting to open an already opened device by another process or a user not having enough permission and credentials to open.</source>
         <translation>Próba otwarcia już otwartego urządzenia przez inny proces lub przez użytkownika, który nie ma wystarczających uprawnień i poświadczeń, aby otworzyć.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="152"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="156"/>
         <source>An error occurred while attempting to open an already opened device in this object.</source>
         <translation>Wystąpił błąd podczas próby otwarcia już otwartego urządzenia w tym obiekcie.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="155"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="159"/>
         <source>Attempted to execute an operation that can only be successfully performed if the device is open.</source>
         <translation>Próbowano wykonać operację, która może zostać pomyślnie wykonana tylko wtedy, gdy urządzenie jest otwarte.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="158"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="162"/>
         <source>I/O error while writing data.</source>
         <translation>Błąd we/wy podczas zapisywania danych.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="161"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="165"/>
         <source>I/O error while reading data.</source>
         <translation>Błąd we/wy podczas odczytu danych.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="164"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="168"/>
         <source>I/O error occurred when a resource becomes unavailable, e.g. when the device is unexpectedly removed from the system.</source>
         <translation>Wystąpił błąd we/wy, gdy zasób stał się niedostępny, np. gdy urządzenie zostanie nieoczekiwanie usunięte z systemu.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="167"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="171"/>
         <source>Device operation unsupported or prohibited by the operating system.</source>
         <translation>Działanie urządzenia nie jest obsługiwane lub zabronione przez system operacyjny.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="170"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="174"/>
         <source>A timeout error occurred.</source>
         <translation>Wystąpił błąd przekroczenia limitu czasu.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="173"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="177"/>
         <source>An unidentified error occurred.</source>
         <translation>Wystąpił niezidentyfikowany błąd.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="225"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="238"/>
         <source>Unnamed Device</source>
         <translation>Nienazwane urządzenie</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="227"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="240"/>
         <source>Serial port connection to %1</source>
         <translation>Połączenie portu szeregowego z %1</translation>
     </message>
@@ -13250,21 +13258,26 @@ rozwijana jako projekt Akaflieg Freiburg.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="142"/>
+        <source>Run simulator and generate screenshots for MacOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/main.cpp" line="147"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Uruchom symulator i wygeneruj zrzuty ekranu dla iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="146"/>
+        <location filename="../../../src/main.cpp" line="151"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Uruchom symulator i wygeneruj zrzuty ekranu do podręcznika</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="151"/>
+        <location filename="../../../src/main.cpp" line="156"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>pobiera ciąg znaków za pomocą Librarian::getStringFromRessource i wypisuje go na standardowe wyjście</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="153"/>
+        <location filename="../../../src/main.cpp" line="158"/>
         <source>string name</source>
         <translation>nazwa ciągu znaków</translation>
     </message>
@@ -13273,7 +13286,7 @@ rozwijana jako projekt Akaflieg Freiburg.</translation>
         <translation type="vanished">Uruchom symulator i generuj ekrany dla instrukcji użytkownika</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="155"/>
+        <location filename="../../../src/main.cpp" line="160"/>
         <source>File to import.</source>
         <translation>Plik do zaimportowania.</translation>
     </message>

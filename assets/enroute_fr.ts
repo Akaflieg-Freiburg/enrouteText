@@ -3115,62 +3115,66 @@ Message: Enroute Flight Navigation
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="678"/>
         <source>There is no aviation map installed.</source>
-        <translation>Aucune carte de données aéronautiques installée.</translation>
+        <translation type="vanished">Aucune carte de données aéronautiques installée.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="680"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="679"/>
         <source>Please wait for the download to complete.</source>
         <translation>Merci d&apos;attendre que le téléchargement soit terminé.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="681"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="680"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
         <translation>Pour installer une carte, ouvrez le menu via le boutton dans le coin supérieur gauche.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="682"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="681"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
         <translation>Choisissez &lt;a href=&apos;xx&apos;&gt;Bibliothèque/Cartes et Données&lt;/a&gt; Pour ouvrir la page de gestion des cartes.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="795"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="794"/>
         <source>Airspaces up to %1</source>
         <translation>Espaces aériens jusqu&apos;à %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="798"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="797"/>
         <source>Downloading Maps and Data</source>
         <translation>Téléchargement de cartes et de données</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="824"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="823"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Données cartographiques</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="885"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="884"/>
         <source>Map Mode: Track Up</source>
         <translation>Mode : Route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="887"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="886"/>
         <source>Map Mode: User Defined Direction Up</source>
         <translation>Mode carte: direction vers le haut définie par l&apos;utilisateur</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="883"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="882"/>
         <source>Map Mode: North Up</source>
         <translation>Mode : Nord</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="748"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="677"/>
+        <source>No aviation map installed for your present location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="747"/>
         <source>Map Mode: Autopan</source>
         <translation>Mode : Auto</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="832"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="831"/>
         <source>Map Data Copyright Information</source>
         <translation>Info copyright sur les données de carte</translation>
     </message>
@@ -3343,22 +3347,22 @@ Message: Enroute Flight Navigation
 <context>
     <name>Navigation::Navigator</name>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="344"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="346"/>
         <source>Cruise speed not specified.</source>
         <translation>Vitesse de croisière non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="348"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="350"/>
         <source>Wind speed not specified.</source>
         <translation>Vitesse du vent non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="352"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="354"/>
         <source>Wind direction not specified.</source>
         <translation>Direction du vent non spécifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="356"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="358"/>
         <source>Computation incomplete. %1</source>
         <translation>Calcul non-terminé. %1</translation>
     </message>
@@ -3669,7 +3673,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Tous les fichiers (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="59"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="61"/>
         <source>%1 (*.%2);;All files (*)</source>
         <translation>%1 (*.%2);;Tous les fichiers (*)</translation>
@@ -3681,24 +3685,24 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Exporter des données</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="65"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="67"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="70"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Impossible d&apos;ouvrir le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="70"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="72"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="75"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Impossible d&apos;écrire dans le fichier &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="82"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="84"/>
         <source>Unable to open temporary file.</source>
         <translation></translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="93"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="95"/>
         <source>Unable to open data in other app.</source>
         <translation>Impossible d&apos;ouvrir les données dans une autre application.</translation>
     </message>
@@ -6113,82 +6117,86 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
 <context>
     <name>Traffic::TrafficDataSource_SerialPort</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="76"/>
         <source>Due to platform limitations, serial ports are not supported on iOS.</source>
-        <translation>En raison des limitations de la plateforme, les ports série ne sont pas pris en charge sur iOS.</translation>
+        <translation type="vanished">En raison des limitations de la plateforme, les ports série ne sont pas pris en charge sur iOS.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="95"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="93"/>
         <source>Device not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="110"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="108"/>
         <source>Connected.</source>
         <translation>Connecté.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="135"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="111"/>
+        <source>Serial ports are not supported on this platform.</source>
+        <translation type="unfinished">Les ports série ne sont pas pris en charge sur cette plateforme.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="138"/>
         <source>Not connected.</source>
         <translation>Non connecté.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="146"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="150"/>
         <source>Non-existing device</source>
         <translation>Appareil inexistant</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="149"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="153"/>
         <source>Attempting to open an already opened device by another process or a user not having enough permission and credentials to open.</source>
         <translation>Tentative d&apos;ouverture d&apos;un appareil déjà ouvert par un autre processus ou par un utilisateur ne disposant pas de suffisamment d&apos;autorisations et d&apos;informations d&apos;identification pour l&apos;ouvrir.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="152"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="156"/>
         <source>An error occurred while attempting to open an already opened device in this object.</source>
         <translation>Une erreur s&apos;est produite lors de la tentative d&apos;ouverture d&apos;un périphérique déjà ouvert dans cet objet.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="155"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="159"/>
         <source>Attempted to execute an operation that can only be successfully performed if the device is open.</source>
         <translation>Tentative d&apos;exécution d&apos;une opération qui ne peut être effectuée avec succès que si le périphérique est ouvert.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="158"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="162"/>
         <source>I/O error while writing data.</source>
         <translation>Erreur d&apos;I/O lors de l&apos;écriture des données.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="161"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="165"/>
         <source>I/O error while reading data.</source>
         <translation>Erreur d&apos;I/O lors de la lecture des données.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="164"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="168"/>
         <source>I/O error occurred when a resource becomes unavailable, e.g. when the device is unexpectedly removed from the system.</source>
         <translation>Une erreur d&apos;E/S se produit lorsqu&apos;une ressource devient indisponible, par ex. lorsque le périphérique est supprimé de manière inattendue du système.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="167"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="171"/>
         <source>Device operation unsupported or prohibited by the operating system.</source>
         <translation>Fonctionnement de l&apos;appareil non pris en charge ou interdit par le système d&apos;exploitation.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="170"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="174"/>
         <source>A timeout error occurred.</source>
         <translation>Une erreur de délai d&apos;attente s&apos;est produite.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="173"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="177"/>
         <source>An unidentified error occurred.</source>
         <translation>Erreur non-identifiée.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="225"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="238"/>
         <source>Unnamed Device</source>
         <translation>Appareil sans nom</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="227"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="240"/>
         <source>Serial port connection to %1</source>
         <translation>Connexion du port série à %1</translation>
     </message>
@@ -10542,26 +10550,31 @@ developed as a project of Akaflieg Freiburg.</source>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="142"/>
+        <source>Run simulator and generate screenshots for MacOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/main.cpp" line="147"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Exécuter le simulateur et générer des captures d’écran pour iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="146"/>
+        <location filename="../../../src/main.cpp" line="151"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Exécuter le simulateur et générer des captures d’écran pour le manuel</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="151"/>
+        <location filename="../../../src/main.cpp" line="156"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>rechercher une chaîne de code à l&apos;aide de Librarian :: getStringFromRessource et l&apos;imprimer sur stdout</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="153"/>
+        <location filename="../../../src/main.cpp" line="158"/>
         <source>string name</source>
         <translation>Nom de la chaîne de code</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="155"/>
+        <location filename="../../../src/main.cpp" line="160"/>
         <source>File to import.</source>
         <translation>Fichier à importer</translation>
     </message>

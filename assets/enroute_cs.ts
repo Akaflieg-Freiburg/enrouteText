@@ -2881,62 +2881,66 @@ Message: Enroute Flight Navigation
 <context>
     <name>MFM</name>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="678"/>
         <source>There is no aviation map installed.</source>
-        <translation>Neni nainstalována žádná letecká mapa.</translation>
+        <translation type="vanished">Neni nainstalována žádná letecká mapa.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="680"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="677"/>
+        <source>No aviation map installed for your present location.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="679"/>
         <source>Please wait for the download to complete.</source>
         <translation>Vyčkejte prosím, než skončí stahování.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="681"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="680"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
         <translation>Pro nahrání mapy použijte prosím tlačítko v levém horním rohu této obrazovky.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="682"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="681"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
         <translation>Pro správu map zvolte &lt;a href=&apos;xx&apos;&gt;Knihovna/Mapy a data&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="748"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="747"/>
         <source>Map Mode: Autopan</source>
         <translation>Mapa: Automatické centrování</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="795"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="794"/>
         <source>Airspaces up to %1</source>
         <translation>Letecké prostory do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="798"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="797"/>
         <source>Downloading Maps and Data</source>
         <translation>Stahuji mapy a data</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="824"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="823"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Mapové údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="832"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="831"/>
         <source>Map Data Copyright Information</source>
         <translation>Mapy - Copyright informace</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="885"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="884"/>
         <source>Map Mode: Track Up</source>
         <translation>Mapa: Trasa nahoru</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="887"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="886"/>
         <source>Map Mode: User Defined Direction Up</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="883"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="882"/>
         <source>Map Mode: North Up</source>
         <translation>Mapa: Sever nahoru</translation>
     </message>
@@ -3109,22 +3113,22 @@ Message: Enroute Flight Navigation
 <context>
     <name>Navigation::Navigator</name>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="344"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="346"/>
         <source>Cruise speed not specified.</source>
         <translation>Cestovní rychlost neuvedena.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="348"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="350"/>
         <source>Wind speed not specified.</source>
         <translation>Rychlost větru neuvedena.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="352"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="354"/>
         <source>Wind direction not specified.</source>
         <translation>Směr větru neuveden.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="356"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="358"/>
         <source>Computation incomplete. %1</source>
         <translation>Výpočet nekompletní. %1</translation>
     </message>
@@ -3376,30 +3380,30 @@ can get.&lt;/p&gt;
         <translation>Exportovat údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="57"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="59"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="61"/>
         <source>%1 (*.%2);;All files (*)</source>
         <translation>%1 (*.%2);;Všechny soubory (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="65"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="67"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="70"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Nelze otevřít soubor &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="70"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="72"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="75"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Nelze zapisovat do souboru &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="82"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="84"/>
         <source>Unable to open temporary file.</source>
         <translation>Nelze otevřít dočasný soubor.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="93"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="95"/>
         <source>Unable to open data in other app.</source>
         <translation>Nelze otevřít údaje v druhé aplikaci.</translation>
     </message>
@@ -5674,82 +5678,86 @@ can get.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_SerialPort</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="76"/>
         <source>Due to platform limitations, serial ports are not supported on iOS.</source>
-        <translation>Kvůli omezení platformy, seriové porty nejsou podporovány na iOS.</translation>
+        <translation type="vanished">Kvůli omezení platformy, seriové porty nejsou podporovány na iOS.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="95"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="93"/>
         <source>Device not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="110"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="108"/>
         <source>Connected.</source>
         <translation>Připojen.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="135"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="111"/>
+        <source>Serial ports are not supported on this platform.</source>
+        <translation type="unfinished">Seriové porty nejsou na této platformě podporovány.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="138"/>
         <source>Not connected.</source>
         <translation>Nepřipojen.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="146"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="150"/>
         <source>Non-existing device</source>
         <translation>Neexistující zažízení</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="149"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="153"/>
         <source>Attempting to open an already opened device by another process or a user not having enough permission and credentials to open.</source>
         <translation>Pokus o otevření již otevřeného zařízení jiným procesem nebo uživatelem bez dostatečného oprávnění pro danou operaci.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="152"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="156"/>
         <source>An error occurred while attempting to open an already opened device in this object.</source>
         <translation>Nastala chyba při pokusu o otevření již otevřeného zařízení v tomto objektu.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="155"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="159"/>
         <source>Attempted to execute an operation that can only be successfully performed if the device is open.</source>
         <translation>Nastal pokus o operaci, která je možná pouze pokud je dané zařízení otevřeno.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="158"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="162"/>
         <source>I/O error while writing data.</source>
         <translation>I/O chyba při čtení dat.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="161"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="165"/>
         <source>I/O error while reading data.</source>
         <translation>I/O chyba při zápisu dat.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="164"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="168"/>
         <source>I/O error occurred when a resource becomes unavailable, e.g. when the device is unexpectedly removed from the system.</source>
         <translation>Nastala I/O chyba v případě, kdy je zdroj nedostupný, např. když je zařízení nečekaně odstraněno ze systému.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="167"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="171"/>
         <source>Device operation unsupported or prohibited by the operating system.</source>
         <translation>Operace na zařízení je nepodporována nebo nepovolena operačním systémem.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="170"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="174"/>
         <source>A timeout error occurred.</source>
         <translation>Nastala timeout chyba.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="173"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="177"/>
         <source>An unidentified error occurred.</source>
         <translation>Nastala neznámá chyba.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="225"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="238"/>
         <source>Unnamed Device</source>
         <translation>Nepojmenované zařízení</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="227"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="240"/>
         <source>Serial port connection to %1</source>
         <translation>Serioové připojení k %1</translation>
     </message>
@@ -10117,26 +10125,31 @@ vyvinuta jako projekt Akaflieg Freiburg.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="142"/>
+        <source>Run simulator and generate screenshots for MacOS</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/main.cpp" line="147"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Spustit simulátor a vytvořit screenshoty pro iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="146"/>
+        <location filename="../../../src/main.cpp" line="151"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Spustit simulátor a vytvořit screenshoty pro návod</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="151"/>
+        <location filename="../../../src/main.cpp" line="156"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>Vyhledat textový řetězec skrz Librarian::getStringFromResource a přesměrovat do stdout</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="153"/>
+        <location filename="../../../src/main.cpp" line="158"/>
         <source>string name</source>
         <translation>název řetězce</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="155"/>
+        <location filename="../../../src/main.cpp" line="160"/>
         <source>File to import.</source>
         <translation>Soubor k nahrání.</translation>
     </message>
