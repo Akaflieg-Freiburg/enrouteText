@@ -4936,7 +4936,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="677"/>
         <source>No aviation map installed for your present location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Für ihre gegenwärtige Position ist keine Luftfahrtkarte installiert.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="747"/>
@@ -8632,7 +8632,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="111"/>
         <source>Serial ports are not supported on this platform.</source>
-        <translation type="unfinished">Diese Plattform unterstützt keine seriellen Ports.</translation>
+        <translation>Diese Plattform unterstützt keine seriellen Ports.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="138"/>
@@ -13417,7 +13417,7 @@ entwickelt als Projekt der Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="142"/>
         <source>Run simulator and generate screenshots for MacOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Starten Sie den Simulator und erzeugen Sie Screenshots für MacOS</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="147"/>
