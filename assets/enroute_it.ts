@@ -1000,42 +1000,42 @@ la nostra App.&lt;/p&gt;
         <translation type="unfinished">Informazioni di connessione</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="124"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="126"/>
         <source>Status</source>
         <translation type="unfinished">Stato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="126"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="128"/>
         <source>Error</source>
         <translation type="unfinished">Errore</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="128"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="130"/>
         <source>Currently no incoming data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="129"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="131"/>
         <source>Data Format: %1.</source>
         <translation type="unfinished">Formato dati: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="132"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="134"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
         <translation type="unfinished">Questa è una connessione standard che non può essere cancellata dall&apos;utente.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="175"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="177"/>
         <source>Baud Rate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="215"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="217"/>
         <source>Stop Bits</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="238"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="240"/>
         <source>Flow Control</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1123,9 +1123,13 @@ la nostra App.&lt;/p&gt;
         <translation>Rete/UDP</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="259"/>
         <source>Serial Port</source>
-        <translation>Porta Seriale</translation>
+        <translation type="vanished">Porta Seriale</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="259"/>
+        <source>Serial Port or USB</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="269"/>
@@ -4009,29 +4013,32 @@ con i dati del conto bancario.
         <translation>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/07-referenceTechnology/03-altitude.html#airspace-side-view&apos;&gt;Consulta il manuale&lt;/a&gt; per maggiori informazioni e per possibili soluzioni.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>Welcome to version 3.0.0 of Enroute Flight Navigation.</source>
-        <translation>Benvenuti alla versione 3.0.0 di Enroute Flight Navigation.</translation>
+        <translation type="vanished">Benvenuti alla versione 3.0.0 di Enroute Flight Navigation.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="321"/>
+        <location filename="../../../src/Librarian.cpp" line="319"/>
+        <location filename="../../../src/Librarian.cpp" line="324"/>
         <source>&lt;strong&gt;New Feature&lt;/strong&gt;: </source>
         <translation>&lt;strong&gt;Nuova funzionalità&lt;/strong&gt;:</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="322"/>
+        <location filename="../../../src/Librarian.cpp" line="320"/>
+        <source>Enroute is now able to read data from GPS or FLARM devices connected to via USB or serial ports. Consult the manual for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="325"/>
         <source>Swipe up from the navigation bar at the bottom of the main screen to open a side view of the airspace.</source>
         <translation>Scorri verso l&apos;alto la barra di navigazione in fondo alla schermata principale per aprire la vista laterale dello spazio aereo.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="323"/>
         <source>We thank Simon Schneider and Markus Marks for help with the implementation. Consult the manual for more information.</source>
-        <translation>Ringraziamo Simon Schneider e Markus Marks per il supporto nell&apos;implementazione. Consultate il manuale per maggiori informazioni.</translation>
+        <translation type="vanished">Ringraziamo Simon Schneider e Markus Marks per il supporto nell&apos;implementazione. Consultate il manuale per maggiori informazioni.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="327"/>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Flight routes can now be copied to the clipboard in ICAO flight plan format. We thank Christian Engelhardt for the implementation of these features. Consult the manual for more information.</source>
-        <translation>Enroute Flight Navigation può adesso mostrare dati di traffico forniti dalla rete Open Glider. I piani di volo possono adesso essere copiati in memoria nel formato ICAO. Ringraziano Christian Engelhardt per l&apos;implementazione di questa capacità. Consulta il manuale per maggiori informazioni.</translation>
+        <translation type="vanished">Enroute Flight Navigation può adesso mostrare dati di traffico forniti dalla rete Open Glider. I piani di volo possono adesso essere copiati in memoria nel formato ICAO. Ringraziano Christian Engelhardt per l&apos;implementazione di questa capacità. Consulta il manuale per maggiori informazioni.</translation>
     </message>
     <message>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. We thank Christian Engelhardt for the implementation. Consult the manual for more information.</source>
@@ -4342,7 +4349,7 @@ con i dati del conto bancario.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; è disponibileper beta testing pubblico per iOS su&lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. La &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;homepage di questa app&lt;/a&gt; contiene anche il link per TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="340"/>
+        <location filename="../../../src/Librarian.cpp" line="335"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Abbiamo bisogno di aiuto con la grafica promozionale per gli app store e con i video esplicativi. Se sei un grafico/video artista e vuoi aiutarci, contattaci.</translation>
     </message>
@@ -7725,27 +7732,27 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Le porte seriali non sono supportare su questa piattaforma.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="612"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="638"/>
         <source>Receiving data through an internet service, which might be unreliable. Consider connecting to a proper traffic data receiver.</source>
         <translation>Rizezione dati attraverso un servizio internet, che potrebbe essere non affidabile. Considerare la connessione a un ricevitore di traffico appropriato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="616"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="642"/>
         <source>Receiving heartbeat.</source>
         <translation>Rilevazione dei battiti.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="620"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="646"/>
         <source>Receiving position info.</source>
         <translation>Ricezione informazioni di posizione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="624"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="650"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Ricezione info barometriche di altitudine.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="630"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="656"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
         <translatorcomment>Could you please explain what is a &quot;heartbeat&quot; connection when we speak about receiving flight data?</translatorcomment>
         <translation>Non è possibile ricevere la connessione dei battiti cardiaci in nessuna configurazione dati.</translation>
@@ -8564,83 +8571,84 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">A causa delle limitazioni della piattaforma, le porte seriali non sono supportare su iOS.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="93"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="148"/>
         <source>Device not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="108"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="130"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="163"/>
         <source>Connected.</source>
         <translation>Connesso.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="111"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="167"/>
         <source>Serial ports are not supported on this platform.</source>
         <translation type="unfinished">Le porte seriali non sono supportare su questa piattaforma.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="138"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="196"/>
         <source>Not connected.</source>
         <translation>Non connesso.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="150"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="208"/>
         <source>Non-existing device</source>
         <translation>Dispositivo inesistente</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="153"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="211"/>
         <source>Attempting to open an already opened device by another process or a user not having enough permission and credentials to open.</source>
         <translation>Tentativo di aprire una connessione già aperta da un altro processo o l&apos;utente non ha permessi o credenziali sufficienti per l&apos;apertura.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="156"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="214"/>
         <source>An error occurred while attempting to open an already opened device in this object.</source>
         <translation>Errore causato tentando di aprire una connessione già aperta in questo oggetto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="159"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="217"/>
         <source>Attempted to execute an operation that can only be successfully performed if the device is open.</source>
         <translatorcomment>The sentence does not make so much sense.</translatorcomment>
         <translation>Tentativo di eseguire una operazione che può essere eseguita con successo se il dispositivo è aperto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="162"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="220"/>
         <source>I/O error while writing data.</source>
         <translation>Errore di I/O nella scrittura.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="165"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="223"/>
         <source>I/O error while reading data.</source>
         <translation>Errore di I/O nella lettura.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="168"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="226"/>
         <source>I/O error occurred when a resource becomes unavailable, e.g. when the device is unexpectedly removed from the system.</source>
         <translation>L&apos;errore di I/O accade quando una risorsa diventa indisponibile, per esempio quando un dispositivo viene rimosso dal sistema.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="171"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="229"/>
         <source>Device operation unsupported or prohibited by the operating system.</source>
         <translation>Le operazioni del dispositivo non sono supportare o proibite dal sistema operativo.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="174"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="232"/>
         <source>A timeout error occurred.</source>
         <translation>Errore di time out.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="177"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="235"/>
         <source>An unidentified error occurred.</source>
         <translation>Si è verificato un errore non identificato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="238"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="338"/>
         <source>Unnamed Device</source>
         <translation>Dispositivo senza nome</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="240"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="340"/>
         <source>Serial port connection to %1</source>
         <translation>Connessione su porta seriale a %1</translation>
     </message>
@@ -13327,39 +13335,39 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Hai scelto di ignorare gli errori di sicurezza della rete in futuro. **Ciò rappresenta un rischio per la sicurezza.** Vai alla pagina &quot;Impostazioni&quot; se desideri ripristinare il comportamento originale e sicuro di questa app.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="132"/>
+        <location filename="../../../src/main.cpp" line="138"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation è un&apos;app di navigazione per piloti VFR,
 sviluppata e progettata da Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="137"/>
+        <location filename="../../../src/main.cpp" line="143"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
         <translation>Esegui il simulatore e genera screenshots per Google Play</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="142"/>
+        <location filename="../../../src/main.cpp" line="148"/>
         <source>Run simulator and generate screenshots for MacOS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="147"/>
+        <location filename="../../../src/main.cpp" line="153"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Esegui la simulazione e genera screenshots per iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="151"/>
+        <location filename="../../../src/main.cpp" line="157"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Esegui il simulatore e genera screenshots per il manuale</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="156"/>
+        <location filename="../../../src/main.cpp" line="162"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>cerca la stringa usando Librarian::getStringFromRessource e stampala su stdout</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="158"/>
+        <location filename="../../../src/main.cpp" line="164"/>
         <source>string name</source>
         <translation>nome stringa</translation>
     </message>
@@ -13368,7 +13376,7 @@ sviluppata e progettata da Akaflieg Freiburg.</translation>
         <translation type="vanished">Esegui il simulatore e genera uno screenshots per il manuale</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="160"/>
+        <location filename="../../../src/main.cpp" line="166"/>
         <source>File to import.</source>
         <translation>File da importare.</translation>
     </message>

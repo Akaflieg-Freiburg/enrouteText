@@ -1003,42 +1003,42 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
         <translation type="unfinished">Informacja dot. połączenia</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="124"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="126"/>
         <source>Status</source>
         <translation type="unfinished">Status</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="126"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="128"/>
         <source>Error</source>
         <translation type="unfinished">Błąd</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="128"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="130"/>
         <source>Currently no incoming data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="129"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="131"/>
         <source>Data Format: %1.</source>
         <translation type="unfinished">Format danych: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="132"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="134"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
         <translation type="unfinished">To jest standardowe połączenie i nie może być usunięte przez użytkownika.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="175"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="177"/>
         <source>Baud Rate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="215"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="217"/>
         <source>Stop Bits</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="238"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="240"/>
         <source>Flow Control</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1126,9 +1126,13 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
         <translation>Sieć/UDP</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="259"/>
         <source>Serial Port</source>
-        <translation>Port szeregowy</translation>
+        <translation type="vanished">Port szeregowy</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="259"/>
+        <source>Serial Port or USB</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="269"/>
@@ -4079,29 +4083,32 @@ z danymi konta bankowego.
         <translation>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/05-referencePages/01-mainPage.html#dependence-on-static-pressure-information&apos;&gt;Zapoznaj się z instrukcją&lt;/a&gt;, aby uzyskać więcej informacji i poznać możliwe rozwiązania.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>Welcome to version 3.0.0 of Enroute Flight Navigation.</source>
-        <translation>Witamy w wersji 3.0.0 programu Enroute Flight Navigation.</translation>
+        <translation type="vanished">Witamy w wersji 3.0.0 programu Enroute Flight Navigation.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="321"/>
+        <location filename="../../../src/Librarian.cpp" line="319"/>
+        <location filename="../../../src/Librarian.cpp" line="324"/>
         <source>&lt;strong&gt;New Feature&lt;/strong&gt;: </source>
         <translation>&lt;strong&gt;Nowa funkcja&lt;/strong&gt;: </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="322"/>
+        <location filename="../../../src/Librarian.cpp" line="320"/>
+        <source>Enroute is now able to read data from GPS or FLARM devices connected to via USB or serial ports. Consult the manual for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="325"/>
         <source>Swipe up from the navigation bar at the bottom of the main screen to open a side view of the airspace.</source>
         <translation>Przesuń palcem w górę od paska nawigacyjnego na dole ekranu głównego, aby otworzyć widok przestrzeni powietrznej z boku.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="323"/>
         <source>We thank Simon Schneider and Markus Marks for help with the implementation. Consult the manual for more information.</source>
-        <translation>Dziękujemy Simonowi Schneiderowi i Markusowi Marksowi za pomoc we wdrożeniu. Więcej informacji można znaleźć w instrukcji.</translation>
+        <translation type="vanished">Dziękujemy Simonowi Schneiderowi i Markusowi Marksowi za pomoc we wdrożeniu. Więcej informacji można znaleźć w instrukcji.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="327"/>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Flight routes can now be copied to the clipboard in ICAO flight plan format. We thank Christian Engelhardt for the implementation of these features. Consult the manual for more information.</source>
-        <translation>Nawigacja Enroute Flight Navigation może teraz wyświetlać dane o ruchu lotniczym dostarczane przez Open Glider Network. Trasy lotów można teraz kopiować do schowka w formacie planu lotu ICAO. Dziękujemy Christianowi Engelhardtowi za wdrożenie tych funkcji. Więcej informacji można znaleźć w instrukcji obsługi.</translation>
+        <translation type="vanished">Nawigacja Enroute Flight Navigation może teraz wyświetlać dane o ruchu lotniczym dostarczane przez Open Glider Network. Trasy lotów można teraz kopiować do schowka w formacie planu lotu ICAO. Dziękujemy Christianowi Engelhardtowi za wdrożenie tych funkcji. Więcej informacji można znaleźć w instrukcji obsługi.</translation>
     </message>
     <message>
         <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Consult the manual for more information.</source>
@@ -4402,7 +4409,7 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; na iOS jest dostępna do publicznych testów beta na &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;strona główna tej aplikacji&lt;/a&gt; zawiera również link do TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="340"/>
+        <location filename="../../../src/Librarian.cpp" line="335"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Potrzebujemy pomocy z grafiką promocyjną dla sklepów z aplikacjami i filmami instruktażowymi. Jeśli jesteś grafikiem/video artystą i chciałbyś pomóc, skontaktuj się z nami.</translation>
     </message>
@@ -7638,27 +7645,27 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Porty szeregowe nie są obsługiwane na tej platformie.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="612"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="638"/>
         <source>Receiving data through an internet service, which might be unreliable. Consider connecting to a proper traffic data receiver.</source>
         <translation>Odbieranie danych za pośrednictwem usługi internetowej, która może być zawodna. Rozważ połączenie z właściwym odbiornikiem danych o ruchu.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="616"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="642"/>
         <source>Receiving heartbeat.</source>
         <translation>Odbieranie odświeżenia.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="620"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="646"/>
         <source>Receiving position info.</source>
         <translation>Odbieranie informacji o pozycji.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="624"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="650"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Odbieranie informacji o wysokości barometrycznej.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="630"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="656"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
         <translation>Brak sygnału pulsu odbiornika ruchu przez żadne ze skonfigurowanych połączeń danych.</translation>
     </message>
@@ -8475,82 +8482,83 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Ze względu na ograniczenia platformy porty szeregowe nie są obsługiwane w systemie iOS.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="93"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="148"/>
         <source>Device not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="108"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="130"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="163"/>
         <source>Connected.</source>
         <translation>Połączony.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="111"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="167"/>
         <source>Serial ports are not supported on this platform.</source>
         <translation type="unfinished">Porty szeregowe nie są obsługiwane na tej platformie.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="138"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="196"/>
         <source>Not connected.</source>
         <translation>Nie połączony.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="150"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="208"/>
         <source>Non-existing device</source>
         <translation>Nieistniejące urządzenie</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="153"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="211"/>
         <source>Attempting to open an already opened device by another process or a user not having enough permission and credentials to open.</source>
         <translation>Próba otwarcia już otwartego urządzenia przez inny proces lub przez użytkownika, który nie ma wystarczających uprawnień i poświadczeń, aby otworzyć.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="156"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="214"/>
         <source>An error occurred while attempting to open an already opened device in this object.</source>
         <translation>Wystąpił błąd podczas próby otwarcia już otwartego urządzenia w tym obiekcie.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="159"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="217"/>
         <source>Attempted to execute an operation that can only be successfully performed if the device is open.</source>
         <translation>Próbowano wykonać operację, która może zostać pomyślnie wykonana tylko wtedy, gdy urządzenie jest otwarte.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="162"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="220"/>
         <source>I/O error while writing data.</source>
         <translation>Błąd we/wy podczas zapisywania danych.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="165"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="223"/>
         <source>I/O error while reading data.</source>
         <translation>Błąd we/wy podczas odczytu danych.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="168"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="226"/>
         <source>I/O error occurred when a resource becomes unavailable, e.g. when the device is unexpectedly removed from the system.</source>
         <translation>Wystąpił błąd we/wy, gdy zasób stał się niedostępny, np. gdy urządzenie zostanie nieoczekiwanie usunięte z systemu.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="171"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="229"/>
         <source>Device operation unsupported or prohibited by the operating system.</source>
         <translation>Działanie urządzenia nie jest obsługiwane lub zabronione przez system operacyjny.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="174"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="232"/>
         <source>A timeout error occurred.</source>
         <translation>Wystąpił błąd przekroczenia limitu czasu.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="177"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="235"/>
         <source>An unidentified error occurred.</source>
         <translation>Wystąpił niezidentyfikowany błąd.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="238"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="338"/>
         <source>Unnamed Device</source>
         <translation>Nienazwane urządzenie</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="240"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="340"/>
         <source>Serial port connection to %1</source>
         <translation>Połączenie portu szeregowego z %1</translation>
     </message>
@@ -13245,39 +13253,39 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Wybrałeś, aby ignorować w przyszłości błędy bezpieczeństwa sieci. **To zwiększa ryzyko przewania zabezpieczeń.** Przejdź do strony &apos;Ustawienia&apos; jeśli chcesz przywrócić oryginalne, bezpieczne zachowanie tej aplikacji.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="132"/>
+        <location filename="../../../src/main.cpp" line="138"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation to darmowa nawigacja lotnicza dla pilotów VFR,
 rozwijana jako projekt Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="137"/>
+        <location filename="../../../src/main.cpp" line="143"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
         <translation>Uruchom symulator i wygeneruj zrzuty ekranu dla GooglePlay</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="142"/>
+        <location filename="../../../src/main.cpp" line="148"/>
         <source>Run simulator and generate screenshots for MacOS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="147"/>
+        <location filename="../../../src/main.cpp" line="153"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Uruchom symulator i wygeneruj zrzuty ekranu dla iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="151"/>
+        <location filename="../../../src/main.cpp" line="157"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Uruchom symulator i wygeneruj zrzuty ekranu do podręcznika</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="156"/>
+        <location filename="../../../src/main.cpp" line="162"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>pobiera ciąg znaków za pomocą Librarian::getStringFromRessource i wypisuje go na standardowe wyjście</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="158"/>
+        <location filename="../../../src/main.cpp" line="164"/>
         <source>string name</source>
         <translation>nazwa ciągu znaków</translation>
     </message>
@@ -13286,7 +13294,7 @@ rozwijana jako projekt Akaflieg Freiburg.</translation>
         <translation type="vanished">Uruchom symulator i generuj ekrany dla instrukcji użytkownika</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="160"/>
+        <location filename="../../../src/main.cpp" line="166"/>
         <source>File to import.</source>
         <translation>Plik do zaimportowania.</translation>
     </message>

@@ -579,42 +579,42 @@ mají vždy přednost.&lt;/p&gt;
         <translation type="unfinished">Informace o spojení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="124"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="126"/>
         <source>Status</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="126"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="128"/>
         <source>Error</source>
         <translation type="unfinished">Chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="128"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="130"/>
         <source>Currently no incoming data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="129"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="131"/>
         <source>Data Format: %1.</source>
         <translation type="unfinished">Data formát: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="132"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="134"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
         <translation type="unfinished">Toto je standardní propojení, které nemůže být odstraněno uživatelem.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="175"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="177"/>
         <source>Baud Rate</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="215"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="217"/>
         <source>Stop Bits</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="238"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="240"/>
         <source>Flow Control</source>
         <translation type="unfinished"></translation>
     </message>
@@ -703,7 +703,7 @@ mají vždy přednost.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="259"/>
-        <source>Serial Port</source>
+        <source>Serial Port or USB</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2754,28 +2754,14 @@ Message: Enroute Flight Navigation
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="318"/>
-        <source>Welcome to version 3.0.0 of Enroute Flight Navigation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="321"/>
+        <location filename="../../../src/Librarian.cpp" line="319"/>
+        <location filename="../../../src/Librarian.cpp" line="324"/>
         <source>&lt;strong&gt;New Feature&lt;/strong&gt;: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="322"/>
+        <location filename="../../../src/Librarian.cpp" line="325"/>
         <source>Swipe up from the navigation bar at the bottom of the main screen to open a side view of the airspace.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="323"/>
-        <source>We thank Simon Schneider and Markus Marks for help with the implementation. Consult the manual for more information.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../../../src/Librarian.cpp" line="327"/>
-        <source>Enroute Flight Navigation is now able to display traffic data provided by the Open Glider Network. Flight routes can now be copied to the clipboard in ICAO flight plan format. We thank Christian Engelhardt for the implementation of these features. Consult the manual for more information.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2873,7 +2859,12 @@ Message: Enroute Flight Navigation
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="340"/>
+        <location filename="../../../src/Librarian.cpp" line="320"/>
+        <source>Enroute is now able to read data from GPS or FLARM devices connected to via USB or serial ports. Consult the manual for details.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="335"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -4879,27 +4870,27 @@ can get.&lt;/p&gt;
         <translation>Seriové porty nejsou na této platformě podporovány.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="612"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="638"/>
         <source>Receiving data through an internet service, which might be unreliable. Consider connecting to a proper traffic data receiver.</source>
         <translation>Dostávám udaje skrz internetovou službu, která může být nespolehlivá. Zvažte připojení k zažízení, určené pro příjem údajů o leteckém provozu.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="616"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="642"/>
         <source>Receiving heartbeat.</source>
         <translation>Dostávám heartbeat.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="620"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="646"/>
         <source>Receiving position info.</source>
         <translation>Dostávám polohové údaje.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="624"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="650"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Dostávám údaje o tlakové výšce.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="630"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="656"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
         <translation>Nedostávám heartbeat z žádných nastavených datových připojení.</translation>
     </message>
@@ -5682,82 +5673,83 @@ can get.&lt;/p&gt;
         <translation type="vanished">Kvůli omezení platformy, seriové porty nejsou podporovány na iOS.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="93"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="148"/>
         <source>Device not found.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="108"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="130"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="163"/>
         <source>Connected.</source>
         <translation>Připojen.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="111"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="167"/>
         <source>Serial ports are not supported on this platform.</source>
         <translation type="unfinished">Seriové porty nejsou na této platformě podporovány.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="138"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="196"/>
         <source>Not connected.</source>
         <translation>Nepřipojen.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="150"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="208"/>
         <source>Non-existing device</source>
         <translation>Neexistující zažízení</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="153"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="211"/>
         <source>Attempting to open an already opened device by another process or a user not having enough permission and credentials to open.</source>
         <translation>Pokus o otevření již otevřeného zařízení jiným procesem nebo uživatelem bez dostatečného oprávnění pro danou operaci.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="156"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="214"/>
         <source>An error occurred while attempting to open an already opened device in this object.</source>
         <translation>Nastala chyba při pokusu o otevření již otevřeného zařízení v tomto objektu.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="159"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="217"/>
         <source>Attempted to execute an operation that can only be successfully performed if the device is open.</source>
         <translation>Nastal pokus o operaci, která je možná pouze pokud je dané zařízení otevřeno.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="162"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="220"/>
         <source>I/O error while writing data.</source>
         <translation>I/O chyba při čtení dat.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="165"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="223"/>
         <source>I/O error while reading data.</source>
         <translation>I/O chyba při zápisu dat.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="168"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="226"/>
         <source>I/O error occurred when a resource becomes unavailable, e.g. when the device is unexpectedly removed from the system.</source>
         <translation>Nastala I/O chyba v případě, kdy je zdroj nedostupný, např. když je zařízení nečekaně odstraněno ze systému.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="171"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="229"/>
         <source>Device operation unsupported or prohibited by the operating system.</source>
         <translation>Operace na zařízení je nepodporována nebo nepovolena operačním systémem.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="174"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="232"/>
         <source>A timeout error occurred.</source>
         <translation>Nastala timeout chyba.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="177"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="235"/>
         <source>An unidentified error occurred.</source>
         <translation>Nastala neznámá chyba.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="238"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="338"/>
         <source>Unnamed Device</source>
         <translation>Nepojmenované zařízení</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="240"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="340"/>
         <source>Serial port connection to %1</source>
         <translation>Serioové připojení k %1</translation>
     </message>
@@ -10112,44 +10104,44 @@ can get.&lt;/p&gt;
         <translation>Začínám aktualizovat mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="132"/>
+        <location filename="../../../src/main.cpp" line="138"/>
         <source>Enroute Flight Navigation is a free nagivation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation je aplikace zdarma pro VFR Piloty,
 vyvinuta jako projekt Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="137"/>
+        <location filename="../../../src/main.cpp" line="143"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
         <translation>Spustit simulátor a vytvořit screenshoty pro GooglePlay</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="142"/>
+        <location filename="../../../src/main.cpp" line="148"/>
         <source>Run simulator and generate screenshots for MacOS</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="147"/>
+        <location filename="../../../src/main.cpp" line="153"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Spustit simulátor a vytvořit screenshoty pro iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="151"/>
+        <location filename="../../../src/main.cpp" line="157"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Spustit simulátor a vytvořit screenshoty pro návod</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="156"/>
+        <location filename="../../../src/main.cpp" line="162"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>Vyhledat textový řetězec skrz Librarian::getStringFromResource a přesměrovat do stdout</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="158"/>
+        <location filename="../../../src/main.cpp" line="164"/>
         <source>string name</source>
         <translation>název řetězce</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="160"/>
+        <location filename="../../../src/main.cpp" line="166"/>
         <source>File to import.</source>
         <translation>Soubor k nahrání.</translation>
     </message>
