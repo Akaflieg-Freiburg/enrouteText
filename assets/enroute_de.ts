@@ -1154,14 +1154,12 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="228"/>
         <source>Network/TCP</source>
-        <translation>Netzwerk/TCP
-</translation>
+        <translation>Netzwerk/TCP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="237"/>
         <source>Network/UDP</source>
-        <translation>Netzwerk/UDP
-</translation>
+        <translation>Netzwerk/UDP</translation>
     </message>
     <message>
         <source>Serial Port</source>
@@ -1171,7 +1169,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="259"/>
         <source>Serial Port or USB</source>
-        <translation type="unfinished"></translation>
+        <translation>Serieller Port oder USB</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="269"/>
@@ -1642,7 +1640,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="145"/>
         <source>The map data was compiled from the following sources.</source>
-        <translation>Die Kartendaten stammen aus folgenden Quellen:</translation>
+        <translation>Die Kartendaten stammen aus folgenden Quellen.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="215"/>
@@ -2087,7 +2085,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="275"/>
         <source>Clear VAC library…</source>
-        <translation>Alle Anflugkarten löschen</translation>
+        <translation>Alle Anflugkarten löschen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="303"/>
@@ -3525,7 +3523,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 
 &lt;p&gt;Wenn die Qualität der Daten Sie überzeugt, können Sie die Erweiterung um das betreffende Land anfordern. Bitte eröffnen Sie &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enrouteServer/issues&quot;&gt;hier&lt;/a&gt; einen &quot;Issue&quot; mit Ihrer Anforderung. Bitte schreiben Sie uns, wer Sie sind, wo Sie fliegen und wie Sie sich von der Datenqualität überzeugt haben. Sind Ihnen die Daten nicht gut genug, sind Sie herzlich eingeladen, dem openAIP-Projekt beizutreten und zur Verbesserung der Daten beizutragen.&lt;/p&gt;
 
-&lt;p&gt;Notabene: Wir programmieren diese kostenlose App in unserer Freizeit, als Dienst an der Gemeinschaft. Ich muss leider darauf hinweisen: Unhöfliche Anforderungen werden kaum zum Ziel führen.&lt;/p&gt;</translation>
+&lt;p&gt;Notabene: Wir programmieren diese kostenlose App in unserer Freizeit, als Dienst an der Gemeinschaft. Ich muss leider darauf hinweisen: Leider müssen wir darauf hinweisen, dass unhöfliche Anforderungen kaum zum Ziel führen werden.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Authors&lt;/h3&gt;
@@ -4161,7 +4159,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="320"/>
         <source>Enroute is now able to read data from GPS or FLARM devices connected to via USB or serial ports. Consult the manual for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute kann jetzt GPS- oder FLARM-Daten per USB oder serielle Verbindungen empfangen. Näheres erfahren Sie im Handbuch.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="325"/>
@@ -5147,13 +5145,13 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <location filename="../../../src/navigation/Clock.cpp" line="84"/>
         <location filename="../../../src/navigation/Clock.cpp" line="129"/>
         <source>%1 ago</source>
-        <translation>vor %1 </translation>
+        <translation>vor %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="88"/>
         <location filename="../../../src/navigation/Clock.cpp" line="133"/>
         <source>in %1</source>
-        <translation>in %1 </translation>
+        <translation>in %1</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Clock.cpp" line="151"/>
@@ -5685,7 +5683,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/FileExchange_iOS.cpp" line="96"/>
         <source>Could not find file </source>
-        <translation>Konnte Datei nicht finden</translation>
+        <translation>Konnte Datei nicht finden </translation>
     </message>
 </context>
 <context>
@@ -6754,8 +6752,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="165"/>
         <source>Open Glider Network Connection</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation>Open Glider Network Verbindung
-</translation>
+        <translation>Open Glider Network Verbindung</translation>
     </message>
     <message>
         <source>OGN glidernet.org APRS-IS connection</source>
@@ -7751,7 +7748,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/traffic/FlarmnetDB.cpp" line="97"/>
         <location filename="../../../src/traffic/FlarmnetDB.cpp" line="142"/>
         <source>Placeholder file.</source>
-        <translation>Platzhalter-Datei</translation>
+        <translation>Platzhalter-Datei.</translation>
     </message>
 </context>
 <context>
@@ -7797,7 +7794,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="642"/>
         <source>Receiving heartbeat.</source>
-        <translation>Empfange Heartbeat</translation>
+        <translation>Empfange Heartbeat.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="646"/>
@@ -7984,7 +7981,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="678"/>
         <source>Obstacle database expired.</source>
-        <translation>Hindernisdatenbank veraltet</translation>
+        <translation>Hindernisdatenbank veraltet.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="682"/>
@@ -8004,7 +8001,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="694"/>
         <source>Configuration error, e.g. while reading flarmcfg.txt from SD/USB.</source>
-        <translation>Konfigurationsfehler, z.B. beim Lesen der flarmcfg.txt von SD/USB</translation>
+        <translation>Konfigurationsfehler, z.B. beim Lesen der flarmcfg.txt von SD/USB.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="698"/>
@@ -8208,7 +8205,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="128"/>
         <source>Performing host name lookup.</source>
-        <translation>Suche Hostnamen ...</translation>
+        <translation>Suche Hostnamen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="131"/>
@@ -8369,7 +8366,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="131"/>
         <source>The attempt to read from or write to the remote device failed.</source>
-        <translation>Schreibt–/Leseversuche zum bzw. vom entfernten Gerät sind fehlgeschlagen. </translation>
+        <translation>Schreibt–/Leseversuche zum bzw. vom entfernten Gerät sind fehlgeschlagen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="134"/>
@@ -9450,7 +9447,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="769"/>
         <source>Waypoint removed from device</source>
-        <translation>Wegpunkt gelöscht.</translation>
+        <translation>Wegpunkt gelöscht</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="520"/>
@@ -10916,7 +10913,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1445"/>
         <source>recent precipitation</source>
-        <translation>vor kurzem Niederschlag </translation>
+        <translation>vor kurzem Niederschlag</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1448"/>
@@ -11321,7 +11318,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1736"/>
         <source>light snow grain precipitation</source>
-        <translation>leichter Schneegriesel </translation>
+        <translation>leichter Schneegriesel</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1739"/>
@@ -12448,7 +12445,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="2780"/>
         <source>State of %1:</source>
         <translatorcomment>&quot;für&quot; zur Vermeidung einer Kollision mit dem Dativ</translatorcomment>
-        <translation>Status für %1: </translation>
+        <translation>Status für %1:</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2788"/>
@@ -13420,7 +13417,7 @@ entwickelt als Projekt der Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="143"/>
         <source>Run simulator and generate screenshots for GooglePlay</source>
-        <translation>Simulator starten und Screenshot für GooglePlay erzeugen.</translation>
+        <translation>Simulator starten und Screenshot für GooglePlay erzeugen</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="148"/>
