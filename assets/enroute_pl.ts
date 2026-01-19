@@ -1000,47 +1000,47 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="80"/>
         <source>Connection Info</source>
-        <translation type="unfinished">Informacja dot. połączenia</translation>
+        <translation>Informacja dot. połączenia</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="126"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="128"/>
         <source>Error</source>
-        <translation type="unfinished">Błąd</translation>
+        <translation>Błąd</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="130"/>
         <source>Currently no incoming data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktualnie brak przychodzących danych.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="131"/>
         <source>Data Format: %1.</source>
-        <translation type="unfinished">Format danych: %1.</translation>
+        <translation>Format danych: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="134"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
-        <translation type="unfinished">To jest standardowe połączenie i nie może być usunięte przez użytkownika.</translation>
+        <translation>To jest standardowe połączenie i nie może być usunięte przez użytkownika.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="177"/>
         <source>Baud Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Prędkość bitowa</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="217"/>
         <source>Stop Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Bity stopu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="240"/>
         <source>Flow Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Kontrola przepływu</translation>
     </message>
 </context>
 <context>
@@ -1132,7 +1132,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="259"/>
         <source>Serial Port or USB</source>
-        <translation type="unfinished"></translation>
+        <translation>Port szeregowy lub USB</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="269"/>
@@ -3793,7 +3793,8 @@ z danymi konta bankowego.
         <source>
 &lt;li&gt;&lt;strong&gt;Spanish:&lt;/strong&gt; Luca Riva.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;&lt;strong&gt;Hiszpański:&lt;/strong&gt; Luca Riva.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="100"/>
@@ -4095,7 +4096,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="320"/>
         <source>Enroute is now able to read data from GPS or FLARM devices connected to via USB or serial ports. Consult the manual for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute ma możliwosć odczytu danych z urządzeń GPS lub FLARM połączonych przez USB lub porty szeregowe. Sprawdź instrukcję po dalsze szczegóły.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="325"/>
@@ -4872,7 +4873,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="677"/>
         <source>No aviation map installed for your present location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie zainstalowano map lotniczych dla twojej aktualnej lokalizacji.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="747"/>
@@ -8484,7 +8485,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="148"/>
         <source>Device not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Urządzenie nie znalezione.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="130"/>
@@ -8495,7 +8496,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="167"/>
         <source>Serial ports are not supported on this platform.</source>
-        <translation type="unfinished">Porty szeregowe nie są obsługiwane na tej platformie.</translation>
+        <translation>Porty szeregowe nie są obsługiwane na tej platformie.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="196"/>
@@ -13267,7 +13268,7 @@ rozwijana jako projekt Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="148"/>
         <source>Run simulator and generate screenshots for MacOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Uruchom symulator i wygeneruj zrzuty ekranu dla MacOS</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="153"/>
