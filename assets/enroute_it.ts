@@ -997,47 +997,47 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="80"/>
         <source>Connection Info</source>
-        <translation type="unfinished">Informazioni di connessione</translation>
+        <translation>Informazioni di connessione</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="126"/>
         <source>Status</source>
-        <translation type="unfinished">Stato</translation>
+        <translation>Stato</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="128"/>
         <source>Error</source>
-        <translation type="unfinished">Errore</translation>
+        <translation>Errore</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="130"/>
         <source>Currently no incoming data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nessun dato in ingresso.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="131"/>
         <source>Data Format: %1.</source>
-        <translation type="unfinished">Formato dati: %1.</translation>
+        <translation>Formato dati: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="134"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
-        <translation type="unfinished">Questa è una connessione standard che non può essere cancellata dall&apos;utente.</translation>
+        <translation>Questa è una connessione standard che non può essere cancellata dall&apos;utente.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="177"/>
         <source>Baud Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocità in Baud</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="217"/>
         <source>Stop Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Bit di stop</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="240"/>
         <source>Flow Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Controllo del flusso</translation>
     </message>
 </context>
 <context>
@@ -1129,7 +1129,7 @@ la nostra App.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="259"/>
         <source>Serial Port or USB</source>
-        <translation type="unfinished"></translation>
+        <translation>Porta seriale o USB</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="269"/>
@@ -3737,7 +3737,9 @@ con i dati del conto bancario.
         <source>
 &lt;li&gt;&lt;strong&gt;Spanish:&lt;/strong&gt; Luca Riva.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>
+&lt;li&gt;&lt;strong&gt;Spagnolo:&lt;/strong&gt; Luca Riva.&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="100"/>
@@ -4025,7 +4027,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="320"/>
         <source>Enroute is now able to read data from GPS or FLARM devices connected to via USB or serial ports. Consult the manual for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute adesso può leggere i dati da dispositivi GPS o FLARM connessi via USB o porta seriale. Consulta il manuale per i dettagli.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="325"/>
@@ -4879,7 +4881,7 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="677"/>
         <source>No aviation map installed for your present location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non c&apos;è nessuna mappa installata per la posizione attuale.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="747"/>
@@ -8573,7 +8575,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="148"/>
         <source>Device not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo non trovato.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="130"/>
@@ -8584,7 +8586,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="167"/>
         <source>Serial ports are not supported on this platform.</source>
-        <translation type="unfinished">Le porte seriali non sono supportare su questa piattaforma.</translation>
+        <translation>Le porte seriali non sono supportare su questa piattaforma.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="196"/>
@@ -13349,12 +13351,12 @@ sviluppata e progettata da Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="148"/>
         <source>Run simulator and generate screenshots for MacOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Esegui il simulatore e genera screenshots per MacOS</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="153"/>
         <source>Run simulator and generate screenshots for iOS</source>
-        <translation>Esegui la simulazione e genera screenshots per iOS</translation>
+        <translation>Esegui il simulatore e genera screenshots per iOS</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="157"/>
