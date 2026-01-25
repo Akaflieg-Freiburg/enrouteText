@@ -571,47 +571,47 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="80"/>
         <source>Connection Info</source>
-        <translation type="unfinished">Informations de connexion</translation>
+        <translation>Informations de connexion</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="126"/>
         <source>Status</source>
-        <translation type="unfinished">Statut</translation>
+        <translation>Statut</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="128"/>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="130"/>
         <source>Currently no incoming data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune donnée entrante actuellement.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="131"/>
         <source>Data Format: %1.</source>
-        <translation type="unfinished">Format des données&#xa0;: %1.</translation>
+        <translation>Format des données&#xa0;: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="134"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
-        <translation type="unfinished">Il s&apos;agit d&apos;une connexion standard qui ne peut pas être supprimée par l&apos;utilisateur.</translation>
+        <translation>Il s&apos;agit d&apos;une connexion standard qui ne peut pas être supprimée par l&apos;utilisateur.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="177"/>
         <source>Baud Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Vitesse de transmission</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="217"/>
         <source>Stop Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop Bits</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="240"/>
         <source>Flow Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Contrôle de flux</translation>
     </message>
 </context>
 <context>
@@ -854,7 +854,7 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="259"/>
         <source>Serial Port or USB</source>
-        <translation type="unfinished"></translation>
+        <translation>Porte série ou USB</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="296"/>
@@ -2683,7 +2683,7 @@ Message: Enroute Flight Navigation
         <source>
 &lt;li&gt;&lt;strong&gt;Spanish:&lt;/strong&gt; Luca Riva.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;li&gt;&lt;strong&gt;Espagnol&#xa0;:&lt;/strong&gt; Luca Riva.&lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="134"/>
@@ -2911,7 +2911,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="320"/>
         <source>Enroute is now able to read data from GPS or FLARM devices connected to via USB or serial ports. Consult the manual for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute peut désormais lire les données des appareils GPS ou FLARM connectés via USB ou port série. Consultez le manuel pour plus de détails.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="325"/>
@@ -3173,7 +3173,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="677"/>
         <source>No aviation map installed for your present location.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucune carte aéronautique n&apos;est installée pour votre position actuelle.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="747"/>
@@ -6130,7 +6130,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="148"/>
         <source>Device not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Aucun appareil trouvé</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="130"/>
@@ -6141,7 +6141,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="167"/>
         <source>Serial ports are not supported on this platform.</source>
-        <translation type="unfinished">Les ports série ne sont pas pris en charge sur cette plateforme.</translation>
+        <translation>Les ports série ne sont pas pris en charge sur cette plateforme.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="196"/>
@@ -10559,7 +10559,7 @@ developed as a project of Akaflieg Freiburg.</source>
     <message>
         <location filename="../../../src/main.cpp" line="148"/>
         <source>Run simulator and generate screenshots for MacOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Exécuter le simulateur et générer des captures d’écran pour MacOs</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="153"/>
