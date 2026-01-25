@@ -935,47 +935,47 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="80"/>
         <source>Connection Info</source>
-        <translation type="unfinished">Información de conexión</translation>
+        <translation>Información de conexión</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="126"/>
         <source>Status</source>
-        <translation type="unfinished">Estado</translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="128"/>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="130"/>
         <source>Currently no incoming data.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente no hay datos entrantes.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="131"/>
         <source>Data Format: %1.</source>
-        <translation type="unfinished">Formato de datos: %1.</translation>
+        <translation>Formato de datos: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="134"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
-        <translation type="unfinished">Esta es una conexión estándar que el usuario no puede eliminar.</translation>
+        <translation>Esta es una conexión estándar que el usuario no puede eliminar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="177"/>
         <source>Baud Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Velocidad de transmisión</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="217"/>
         <source>Stop Bits</source>
-        <translation type="unfinished"></translation>
+        <translation>Stop Bits</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="240"/>
         <source>Flow Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Control de flujo</translation>
     </message>
 </context>
 <context>
@@ -1067,7 +1067,7 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="259"/>
         <source>Serial Port or USB</source>
-        <translation type="unfinished"></translation>
+        <translation>Connector serial o USB</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="269"/>
@@ -3281,7 +3281,7 @@ con los datos de la cuenta bancaria.</translation>
         <source>
 &lt;li&gt;&lt;strong&gt;Spanish:&lt;/strong&gt; Luca Riva.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;li&gt; &lt;strong&gt; Español: &lt;/strong&gt; Luca Riva. &lt;/li&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="100"/>
@@ -3577,7 +3577,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="320"/>
         <source>Enroute is now able to read data from GPS or FLARM devices connected to via USB or serial ports. Consult the manual for details.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute ahora puede leer datos de dispositivos GPS o FLARM conectados mediante puertos USB o connector serial. Consulte el manual para obtener más información.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="325"/>
@@ -4216,7 +4216,7 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="677"/>
         <source>No aviation map installed for your present location.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay ningún mapa de aviación instalado para tu ubicación actual.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="747"/>
@@ -5880,7 +5880,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <source>Serial Port Service</source>
         <comment>Traffic::ConnectionInfo</comment>
         <translatorcomment>Tráfico::Información de conexión</translatorcomment>
-        <translation>Servicio de connector de serie</translation>
+        <translation>Conexión a connector serial</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="141"/>
@@ -7709,7 +7709,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="148"/>
         <source>Device not found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo no encontrado.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="130"/>
@@ -7720,7 +7720,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="167"/>
         <source>Serial ports are not supported on this platform.</source>
-        <translation type="unfinished">Los connectores de serie no son compatibles con esta plataforma.</translation>
+        <translation>Los connectores de serie no son compatibles con esta plataforma.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="196"/>
@@ -12383,7 +12383,7 @@ desarrollado como un proyecto de Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="148"/>
         <source>Run simulator and generate screenshots for MacOS</source>
-        <translation type="unfinished"></translation>
+        <translation>Eecutar simulador y generar capturas de pantalla para MacOs</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="153"/>
