@@ -3075,32 +3075,32 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Basiskarte</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="98"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="97"/>
         <source>Aviation Maps</source>
         <translation>Luftfahrtkarten</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="99"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="98"/>
         <source>The aeronautical maps are compiled from databases provided by the &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt; projects.</source>
         <translation>Die Luftfahrtkarten entstammen Datenbanken der Projekte &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; und &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="109"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="108"/>
         <source>Base Maps</source>
         <translation>Basiskarten</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="110"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="109"/>
         <source>The base maps are generated from &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt; data.</source>
         <translation>Die Basiskarten werden aus &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt; -Daten erzeugt.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="117"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="116"/>
         <source>Terrain Maps</source>
         <translation>Terrain-Karten</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="118"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="117"/>
         <source>The terrain maps are derived from the &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt;.</source>
         <translation>Die Terrainkarten werden aus dem &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt; abgeleitet.</translation>
     </message>
@@ -3194,6 +3194,34 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="285"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Kann nicht in Datei &apos;%1&apos; schreiben.</translation>
+    </message>
+</context>
+<context>
+    <name>Global</name>
+    <message>
+        <location filename="../../../src/qml/items/Global.qml" line="59"/>
+        <source>Map Mode: North Up</source>
+        <translation type="unfinished">Kartenmodus: Norden oben</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/Global.qml" line="61"/>
+        <source>Map Mode: Track Up</source>
+        <translation type="unfinished">Kartenmodus: Flugrichtung oben</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/Global.qml" line="63"/>
+        <source>Map Mode: User Defined Direction Up</source>
+        <translation type="unfinished">Kartenmodus: Benutzerdefiniert Flugrichtung oben</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/Global.qml" line="72"/>
+        <source>Map Mode: Autopan</source>
+        <translation type="unfinished">Kartenmodus: automatisch zentrieren</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/Global.qml" line="74"/>
+        <source>Map Mode: No Autopan</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4894,66 +4922,82 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <translation type="vanished">Es ist keine Luftfahrtkarte installiert.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="679"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="382"/>
         <source>Please wait for the download to complete.</source>
         <translation>Bitte warten Sie den Abschluss des Downloads ab.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="680"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="383"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
         <translation>Eine Karte installieren Sie über das Menü in der Ecke links oben.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="681"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="384"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
         <translation>Öffnen Sie die Kartenverwaltung über &lt;a href=&apos;xx&apos;&gt;Bibliothek/Karten und Daten&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="794"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="495"/>
         <source>Airspaces up to %1</source>
         <translation>Lufträume bis %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="797"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="498"/>
         <source>Downloading Maps and Data</source>
         <translation>Lade Karten und Daten herunter</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="823"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="524"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Kartendaten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="884"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="575"/>
+        <source>Current Mode: North Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="577"/>
+        <source>Current Mode: Track Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="579"/>
+        <source>Current Mode: User Defined Direction Up</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/items/MFM.qml" line="603"/>
+        <source>Currently no raster map in use.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Map Mode: Track Up</source>
-        <translation>Kartenmodus: Flugrichtung oben</translation>
+        <translation type="vanished">Kartenmodus: Flugrichtung oben</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="886"/>
         <source>Map Mode: User Defined Direction Up</source>
-        <translation>Kartenmodus: Benutzerdefiniert Flugrichtung oben</translation>
+        <translation type="vanished">Kartenmodus: Benutzerdefiniert Flugrichtung oben</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="882"/>
         <source>Map Mode: North Up</source>
-        <translation>Kartenmodus: Norden oben</translation>
+        <translation type="vanished">Kartenmodus: Norden oben</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="677"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="380"/>
         <source>No aviation map installed for your present location.</source>
         <translation>Für ihre gegenwärtige Position ist keine Luftfahrtkarte installiert.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="747"/>
         <source>Map Mode: Autopan</source>
-        <translation>Kartenmodus: automatisch zentrieren</translation>
+        <translation type="vanished">Kartenmodus: automatisch zentrieren</translation>
     </message>
     <message>
         <source>Map Data Copyright Info</source>
         <translation type="vanished">Copyright der Kartendaten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="831"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="532"/>
         <source>Map Data Copyright Information</source>
         <translation>Copyright-Information zu den Kartendaten</translation>
     </message>
@@ -7160,7 +7204,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Lufträume ≥ FL 100 ausblenden</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="541"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="547"/>
         <source>No limit, all airspaces shown</source>
         <translation>Keine Grenzen, alle Lufträume werden angezeigt</translation>
     </message>
@@ -7200,7 +7244,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Verkehrsdatenempfänger</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="593"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="595"/>
         <source>Built-in Satnav Receiver</source>
         <translation>Eingebauter GPS-Empfänger</translation>
     </message>
@@ -7354,7 +7398,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="229"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="241"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="620"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="622"/>
         <source>Voice Notifications</source>
         <translation>Sprachnachrichten</translation>
     </message>
@@ -7441,47 +7485,47 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Verbinde mit einem Flugsimulator …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="640"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="642"/>
         <source>Choose the category of voice notifications that you would like to hear.</source>
         <translation>Wählen Sie die Kategorie von Sprachnachrichten, die Sie hören wollen.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="647"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="649"/>
         <source>Voice Test</source>
         <translation>Sprachtest</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="665"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="667"/>
         <source>Speech engine not yet initialized.</source>
         <translation>Sprachgenerator noch nicht initialisiert.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="669"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="671"/>
         <source>Error</source>
         <translation>Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="682"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="684"/>
         <source>Information • Generic</source>
         <translation>Information • Generisch</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="687"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="689"/>
         <source>Information • Navigation</source>
         <translation>Information • Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="692"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="694"/>
         <source>Warning • Generic</source>
         <translation>Warnung • Generisch</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="697"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="699"/>
         <source>Warning • Navigation</source>
         <translation>Warnung • Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="702"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="704"/>
         <source>Alert</source>
         <translation>Alarm</translation>
     </message>
@@ -7587,17 +7631,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Höhenlimit festlegen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="539"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="545"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
         <translation>Zeige Lufträume bis %1 ft / %2 m an.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="550"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="556"/>
         <source>Cannot set reasonable airspaces altitude limit because the present own altitude is too high.</source>
         <translation>Anzeige einer sinnvollen Luftraumobergrenze unmöglich, aktuelle Flughöhe ist zu groß.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="579"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="581"/>
         <source>Position Data Source</source>
         <translation>Quelle für Positionsdaten</translation>
     </message>
@@ -7623,12 +7667,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Positionsdatenquelle</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="586"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="588"/>
         <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
         <translation>Die meisten Anwender werden den eingebauten GPS-Empfänger wählen. Wählen Sie den Verkehrsdatenempfänger bei Empfangsproblemen Ihres GPS-Empfängers und bei Nutzung der App mit einem Flugsimulator.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="601"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="603"/>
         <source>Traffic Data Receiver (when available)</source>
         <translation>Verkehrsdatenempfänger (wenn verfügbar)</translation>
     </message>
@@ -13315,27 +13359,27 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Bitte importieren Sie nur eine Datei auf einmal, mehrere zugleich ist nicht möglich.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="831"/>
+        <location filename="../../../src/qml/main.qml" line="834"/>
         <source>Connected to internet service providing traffic data.</source>
         <translation>Mit einem Internet-Service verbunden, der Verkehrsdaten liefert.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="833"/>
+        <location filename="../../../src/qml/main.qml" line="836"/>
         <source>Connected to traffic receiver.</source>
         <translation>Mit dem Verkehrsdatenempfänger verbunden.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="835"/>
+        <location filename="../../../src/qml/main.qml" line="838"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Verbindung zum Verkehrsdatenempfänger verloren.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="884"/>
+        <location filename="../../../src/qml/main.qml" line="887"/>
         <source>Exit…?</source>
         <translation>Beenden…?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="885"/>
+        <location filename="../../../src/qml/main.qml" line="888"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; tatsächlich beenden?</translation>
     </message>
@@ -13346,23 +13390,23 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Was ist neu ...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="957"/>
+        <location filename="../../../src/qml/main.qml" line="960"/>
         <source>You have chosen to ignore network security errors in the future.</source>
         <translation>Damit ignorieren Sie zukünftig Probleme bei der Netzwerksicherheit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="958"/>
+        <location filename="../../../src/qml/main.qml" line="961"/>
         <source>This poses a security risk.</source>
         <translation>Dies stellt ein Sicherheitsrisiko dar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="959"/>
+        <location filename="../../../src/qml/main.qml" line="962"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>In den &lt;strong&gt;&lt;i&gt;Einstellungen&lt;/i&gt;&lt;/strong&gt; können Sie das ursprüngliche sichere Verhalten der App wiederherstellen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="779"/>
-        <location filename="../../../src/qml/main.qml" line="989"/>
+        <location filename="../../../src/qml/main.qml" line="992"/>
         <source>Error!</source>
         <translation>Fehler!</translation>
     </message>
@@ -13371,12 +13415,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Was ist neu …?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="921"/>
+        <location filename="../../../src/qml/main.qml" line="924"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Zeige jetzt Lufträume bis %1 an.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="923"/>
+        <location filename="../../../src/qml/main.qml" line="926"/>
         <source>Now showing all airspaces.</source>
         <translation>Zeige jetzt alle Lufträume an.</translation>
     </message>
@@ -13389,17 +13433,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation type="vanished">Das Betriebssystem verlangte, die Sprache der App zu ändern. Bitte starten Sie &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; dafür neu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1004"/>
+        <location filename="../../../src/qml/main.qml" line="1007"/>
         <source>Starting map update</source>
         <translation>Beginne Kartenupdate</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="944"/>
+        <location filename="../../../src/qml/main.qml" line="947"/>
         <source>Network security error</source>
         <translation>Netzwerksicherheits-Fehler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="956"/>
+        <location filename="../../../src/qml/main.qml" line="959"/>
         <source>Network security settings</source>
         <translation>Einstellungen zur Netzwerksicherheit</translation>
     </message>
