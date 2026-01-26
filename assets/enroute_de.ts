@@ -3201,27 +3201,27 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="59"/>
         <source>Map Mode: North Up</source>
-        <translation type="unfinished">Kartenmodus: Norden oben</translation>
+        <translation>Kartenmodus: Norden oben</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="61"/>
         <source>Map Mode: Track Up</source>
-        <translation type="unfinished">Kartenmodus: Flugrichtung oben</translation>
+        <translation>Kartenmodus: Flugrichtung oben</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="63"/>
         <source>Map Mode: User Defined Direction Up</source>
-        <translation type="unfinished">Kartenmodus: Benutzerdefiniert Flugrichtung oben</translation>
+        <translation>Kartenmodus: Benutzerdefiniert Flugrichtung oben</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="72"/>
         <source>Map Mode: Autopan</source>
-        <translation type="unfinished">Kartenmodus: automatisch zentrieren</translation>
+        <translation>Kartenmodus: automatisch zentrieren</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="74"/>
         <source>Map Mode: No Autopan</source>
-        <translation type="unfinished"></translation>
+        <translation>Kartenmodus: nicht automatisch zentrieren</translation>
     </message>
 </context>
 <context>
@@ -4954,22 +4954,22 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="575"/>
         <source>Current Mode: North Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktueller Modus: Norden oben</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="577"/>
         <source>Current Mode: Track Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktueller Modus: Flugrichtung oben</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="579"/>
         <source>Current Mode: User Defined Direction Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Aktueller Modus: Benutzerdefinierte Richtung oben</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="603"/>
         <source>Currently no raster map in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Zzt. keine Rasterkarte in Gebrauch.</translation>
     </message>
     <message>
         <source>Map Mode: Track Up</source>
