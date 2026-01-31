@@ -3203,27 +3203,27 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="59"/>
         <source>Map Mode: North Up</source>
-        <translation type="unfinished">Modalità cartina: nord in alto</translation>
+        <translation>Modalità cartina: nord in alto</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="61"/>
         <source>Map Mode: Track Up</source>
-        <translation type="unfinished">Modalità cartina: rotta in alto</translation>
+        <translation>Modalità cartina: rotta in alto</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="63"/>
         <source>Map Mode: User Defined Direction Up</source>
-        <translation type="unfinished">Modalità cartina: direzione in alto definita dall&apos;utente</translation>
+        <translation>Modalità cartina: direzione in alto definita dall&apos;utente</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="72"/>
         <source>Map Mode: Autopan</source>
-        <translation type="unfinished">Modalità cartina: automatico</translation>
+        <translation>Modalità cartina: automatico</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="74"/>
         <source>Map Mode: No Autopan</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità cartina: non automatico</translation>
     </message>
 </context>
 <context>
@@ -4894,22 +4894,22 @@ Seleziona &lt;strong&gt;Archivio/Mappe e Dati&lt;/strong&gt; per aprire la pagin
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="575"/>
         <source>Current Mode: North Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità corrente: nord in alto</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="577"/>
         <source>Current Mode: Track Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità corrente: rotta in alto</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="579"/>
         <source>Current Mode: User Defined Direction Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Modalità corrente: direzione in alto definita dall&apos;utente</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="603"/>
         <source>Currently no raster map in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Non ci sono mappe raster in uso.</translation>
     </message>
     <message>
         <source>Map Mode: Track Up</source>
