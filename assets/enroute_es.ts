@@ -2794,27 +2794,27 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="59"/>
         <source>Map Mode: North Up</source>
-        <translation type="unfinished">Mapa en modo: Norte arriba</translation>
+        <translation>Mapa en modo: Norte arriba</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="61"/>
         <source>Map Mode: Track Up</source>
-        <translation type="unfinished">Mapa en modo: Seguimiento</translation>
+        <translation>Mapa en modo: Derrota arriba</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="63"/>
         <source>Map Mode: User Defined Direction Up</source>
-        <translation type="unfinished">Modo de mapa: dirección definida por el usuario hacia arriba</translation>
+        <translation>Modo de mapa: dirección definida por el usuario hacia arriba</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="72"/>
         <source>Map Mode: Autopan</source>
-        <translation type="unfinished">Mapa en modo: paneo automático</translation>
+        <translation>Mapa en modo: autopan</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="74"/>
         <source>Map Mode: No Autopan</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapa en modo: sin autopan</translation>
     </message>
 </context>
 <context>
@@ -4229,22 +4229,22 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="578"/>
         <source>Current Mode: North Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo actual: Norte arriba</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="580"/>
         <source>Current Mode: Track Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Mode actuel : Derrota arriba</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="582"/>
         <source>Current Mode: User Defined Direction Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Modo actual: Dirección definida por el usuario hacia arriba</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="606"/>
         <source>Currently no raster map in use.</source>
-        <translation type="unfinished"></translation>
+        <translation>Actualmente no hay ningún mapa raster en uso.</translation>
     </message>
     <message>
         <source>Map Mode: Track Up</source>
