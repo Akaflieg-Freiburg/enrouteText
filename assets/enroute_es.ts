@@ -225,33 +225,33 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="164"/>
         <source>Callsign</source>
-        <translation type="unfinished"></translation>
+        <translation>Indicativo de llamada</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="175"/>
         <source>Enter the callsign of your aircraft. Together with the Hex ID, the name is used to filter out your own aircraft when receiving traffic data from the Open Glider Network, preventing it from being displayed twice on the map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca el indicativo de llamada de su avión. Junto con el Hex ID, el nombre se utiliza para filtrar su propia aeronave al recibir datos de tráfico de la red Open Glider, evitando que se muestre dos veces en el mapa.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="182"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="203"/>
         <source>Hex ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Hex ID</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="194"/>
         <source>Transponder/FLARM ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Transponder/FLARM ID</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="205"/>
         <source>Enter the “ICAO 24-bit address” of your transponder (e.g., “3D1C11”), the “FLARM Radio ID” of your FLARM device (e.g., “3EDE26”) or the “Open Glider Network Source ID” of your aircraft (e.g., “ICA3D1C11”, “FLR123456”). Together with the name, this identifier is used to filter out your own aircraft when receiving traffic data from the Open Glider Network, preventing it from being displayed twice on the map. If you do not use Open Glider Network traffic data, you can leave this field empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Introduzca la &quot;ICAO 24-bit address&quot; de su transpondedor (ej., &quot;3D1C11&quot;), el &quot;FLARM Radio ID&quot; de su dispositivo FLARM (ej., &quot;3EDE26&quot;) o el &quot;Open Glider Network Source ID&quot; de su aeronave (ej., &quot;ICA3D1C11&quot;, &quot;FLR123456&quot;). Junto con el nombre, este identificador se utiliza para filtrar su propia aeronave al recibir datos de tráfico de la red Open Glider, evitando que se muestre dos veces en el mapa. Si no utiliza los datos de tráfico de la red Open Glider, puede dejar este campo en blanco.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="207"/>
         <source>You can enter multiple codes separated by spaces if your aircraft has multiple identifiers. The comparison is case-insensitive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Puede introducir varios códigos separados por espacios si su aeronave tiene múltiples identificadores. La comparación es case-insensitive.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="228"/>
@@ -261,17 +261,17 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="235"/>
         <source>Cabin/Altitude Pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Presión de la cabina/altitud</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="237"/>
         <source>If this option is checked, Enroute Flight Navigation will use the pressure sensor of your mobile device to measure the pressure altitude and determine vertical distances to airspaces. This option is only available if your device has a pressure sensor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si esta opción está marcada, Enroute Flight Navigation utilizará el sensor de presión de su dispositivo móvil para medir la altitud de presión y determinar las distancias verticales a los espacios aéreos. Esta opción solo está disponible si su dispositivo tiene un sensor de presión.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="239"/>
         <source>If available, Enroute Flight Navigation will always use the pressure altitude provided by an external traffic data receiver instead of the pressure altitude calculated from the pressure sensor of your mobile device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Si está disponible, Enroute Flight Navigation siempre utilizará la altitud de presión proporcionada por un receptor externo de datos de tráfico en lugar de la altitud de presión calculada desde el sensor de presión de su dispositivo móvil.</translation>
     </message>
     <message>
         <source>Horizontal Distances</source>
