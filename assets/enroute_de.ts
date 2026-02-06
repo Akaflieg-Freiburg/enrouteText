@@ -205,27 +205,21 @@
         <translation>Einheiten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="497"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="499"/>
         <source>Horizontal</source>
         <translation>Horizontal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="261"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="309"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="522"/>
         <source>Nautical Miles</source>
         <translation>Nautische Meilen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="263"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="314"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="522"/>
         <source>Kilometers</source>
         <translation>Kilometer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="266"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="319"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="522"/>
         <source>Statute Miles</source>
         <translation>Britische Meilen</translation>
@@ -236,29 +230,22 @@
         <translation>Vertikal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="349"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="394"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="548"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="546"/>
         <source>Feet</source>
         <translation>Fuß</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="351"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="399"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="548"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="546"/>
         <source>Meters</source>
         <translation>Meter</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="430"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="553"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="551"/>
         <source>Volume</source>
         <translation>Volumen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="426"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="471"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="574"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="570"/>
         <source>Liters</source>
         <translation>Liter</translation>
     </message>
@@ -314,133 +301,120 @@
         <translation>Wenn vorhanden, nutzt Enroute Flight Navigation immer die Druckhöhe aus einem externen Verkehrsdatenempfängers statt der errechneten Druckhöhe des Drucksensors Ihres Mobilgeräts.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="268"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="281"/>
         <source>Horizontal Distances</source>
-        <translation>Abstände horizontal</translation>
+        <translation type="vanished">Abstände horizontal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="270"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="355"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="432"/>
         <source>Currently using: %1</source>
-        <translation>Zzt. in Gebrauch: %1</translation>
+        <translation type="vanished">Zzt. in Gebrauch: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="303"/>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to horizontal speed indications.</source>
-        <translation>Wählen Sie für dieses Lfz. Ihre Maßeinheiten. Diese gelten dann auch für die Anzeige der Horizontalgeschwindigkeit.</translation>
+        <translation type="vanished">Wählen Sie für dieses Lfz. Ihre Maßeinheiten. Diese gelten dann auch für die Anzeige der Horizontalgeschwindigkeit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="353"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="366"/>
         <source>Vertical Distances</source>
-        <translation>Abstände vertikal</translation>
+        <translation type="vanished">Abstände vertikal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="388"/>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to vertical speed indications.</source>
-        <translation>Wählen Sie für dieses Lfz. Ihre Maßeinheiten. Diese gelten dann auch für die Anzeige der Vertikalgeschwindigkeit.</translation>
+        <translation type="vanished">Wählen Sie für dieses Lfz. Ihre Maßeinheiten. Diese gelten dann auch für die Anzeige der Vertikalgeschwindigkeit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="428"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="476"/>
         <source>Gallons</source>
-        <translation>Gallonen</translation>
+        <translation type="vanished">Gallonen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="443"/>
         <source>Volumes</source>
-        <translation>Volumina</translation>
+        <translation type="vanished">Volumina</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="465"/>
         <source>Choose the preferred units of measurement for this aircraft.</source>
-        <translation>Wählen Sie für dieses Luftfahrzeug Ihre Maßeinheiten.</translation>
+        <translation type="vanished">Wählen Sie für dieses Luftfahrzeug Ihre Maßeinheiten.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="574"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="570"/>
         <source>U.S. Gallons</source>
         <translation>U.S. Gallonen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="580"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="576"/>
         <source>True Airspeed</source>
         <translation>Wahre Fluggeschwindigkeit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="589"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="834"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="585"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="830"/>
         <source>Cruise</source>
         <translation>Reiseflug</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="668"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="664"/>
         <source>Descent</source>
         <translation>Sinkflug</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="747"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="743"/>
         <source>Minimum</source>
         <translation>Minimum</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="826"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="822"/>
         <source>Fuel Consumption</source>
         <translation>Treibstoffverbrauch</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="924"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="919"/>
         <source>Flight Safety Warning!</source>
         <translation>Flugsicherheitswarnung!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="926"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="921"/>
         <source>Know what you are doing!</source>
         <translation>Hier muss man wissen,was man tut!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="927"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="922"/>
         <source>If you enable this option, Enroute Flight Navigation will use the pressure sensor of your mobile device to determine pressure altitude and vertical distances to airspaces.</source>
         <translation>Ist diese Option aktiv, wird Enroute Flight Navigation den Drucksensor ihres mobilen Geräts verwenden, um die Druckhöhe und den vertikalen Abstand zu Lufträumen zu bestimmen.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="928"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="923"/>
         <source>This is safety critical.</source>
         <translation>Dies ist sicherheitskritisch.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="931"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="926"/>
         <source>The pressure sensor of your device is probably not certified for use in aviation.</source>
         <translation>Der Drucksensor ihres Geräts ist wahrscheinlich nicht Luftfahrt-zertifiziert.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="932"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="927"/>
         <source>In typical GA aircraft, cabin pressure is not equal to static pressure.</source>
         <translation>In einem typischen Luftfahrzeug der Allgemeinen Luftfahrt ist der Kabinendruck ungleich dem statischen Druck.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="933"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="928"/>
         <source>The precise difference depend on factors such as airspeed and configuration of ventilation and heating.</source>
         <translation>Der genaue Unterschied hängt u.a. von Faktoren wie der Fahrt und der Einstellung von Lüftung und Heizung ab.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="935"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="930"/>
         <source>Do not enable this option unless you convinced yourself that the data provided by your sensor is good enough for the intended use.</source>
         <translation>Aktivieren Sie diese Option NUR, wenn Sie ganz sicher sind, dass die von ihrem Sensor gelieferten Daten für den beabsichtigten Zweck taugen.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="936"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="931"/>
         <source>Do not rely on data shown in this app.</source>
         <translation>Verlassen Sie sich nicht auf Daten, die diese App anzeigt.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="937"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="932"/>
         <source>Always use an approved altimeter to judge vertical distance to airspaces.</source>
         <translation>Benutzen Sie für die Abschätzung der vertikalen Abstände zu Lufträumen immer einen abgenommenen Höhenmesser.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="940"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="935"/>
         <source>We strongly recommend to connect Enroute Flight Navigation to a proper traffic data receiver, such as a FLARM or ADS-B device, that provides static pressure data.</source>
         <translation>Wir empfehlen dringend, Enroute Flight Navigation mit einem geeigneten Verkehrsdatenempfänger zu verbinden, der den statischen Druck liefert, z.B. ein FLARM- oder ADS-B-Gerät.</translation>
     </message>
@@ -4999,24 +4973,20 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <translation>ⓒ Kartendaten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="590"/>
         <source>Current Mode: North Up</source>
-        <translation>Aktueller Modus: Norden oben</translation>
+        <translation type="vanished">Aktueller Modus: Norden oben</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="592"/>
         <source>Current Mode: Track Up</source>
-        <translation>Aktueller Modus: Flugrichtung oben</translation>
+        <translation type="vanished">Aktueller Modus: Flugrichtung oben</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="594"/>
         <source>Current Mode: User Defined Direction Up</source>
-        <translation>Aktueller Modus: Benutzerdefinierte Richtung oben</translation>
+        <translation type="vanished">Aktueller Modus: Benutzerdefinierte Richtung oben</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="618"/>
         <source>Currently no raster map in use.</source>
-        <translation>Zzt. keine Rasterkarte in Gebrauch.</translation>
+        <translation type="vanished">Zzt. keine Rasterkarte in Gebrauch.</translation>
     </message>
     <message>
         <source>Map Mode: Track Up</source>
