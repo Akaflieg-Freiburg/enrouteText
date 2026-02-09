@@ -205,47 +205,47 @@
         <translation>Jednostki</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="499"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="255"/>
         <source>Horizontal</source>
         <translation>Poziome</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="522"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="276"/>
         <source>Nautical Miles</source>
         <translation>Mile morskie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="522"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="276"/>
         <source>Kilometers</source>
         <translation>Kilometry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="522"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="276"/>
         <source>Statute Miles</source>
         <translation>Mile statutowe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="527"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="281"/>
         <source>Vertical</source>
         <translation>Pionowe</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="546"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="299"/>
         <source>Feet</source>
         <translation>Stopy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="546"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="299"/>
         <source>Meters</source>
         <translation>Metry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="551"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="304"/>
         <source>Volume</source>
         <translation>Pojemność</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="570"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="322"/>
         <source>Liters</source>
         <translation>Litry</translation>
     </message>
@@ -333,88 +333,88 @@
         <translation type="vanished">Wybierz preferowane jednostki miar dla tego samolotu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="570"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="322"/>
         <source>U.S. Gallons</source>
         <translation>Galony US</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="576"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="328"/>
         <source>True Airspeed</source>
         <translation>Rzeczywista prędkość</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="585"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="830"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="337"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="582"/>
         <source>Cruise</source>
         <translation>Kursowy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="664"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="416"/>
         <source>Descent</source>
         <translation>Zniżanie</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="743"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="495"/>
         <source>Minimum</source>
         <translation>Minimum</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="822"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="574"/>
         <source>Fuel Consumption</source>
         <translation>Zużycie paliwa</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="919"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="671"/>
         <source>Flight Safety Warning!</source>
         <translation>Ostrzeżenie bezpieczeństwa lotu!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="921"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="673"/>
         <source>Know what you are doing!</source>
         <translation>Wiedz, co robisz!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="922"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="674"/>
         <source>If you enable this option, Enroute Flight Navigation will use the pressure sensor of your mobile device to determine pressure altitude and vertical distances to airspaces.</source>
         <translation>Jeśli włączysz tę opcję, Enroute Flight Navigation użyje czujnika ciśnienia w Twoim urządzeniu mobilnym, aby określić wysokość ciśnieniową i odległość pionową do przestrzeni powietrznych.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="923"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="675"/>
         <source>This is safety critical.</source>
         <translation>To jest krytyczne ze względu na bezpieczeństwo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="926"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="678"/>
         <source>The pressure sensor of your device is probably not certified for use in aviation.</source>
         <translation>Czujnik ciśnienia w Twoim urządzeniu prawdopodobnie nie jest certyfikowany do stosowania w lotnictwie.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="927"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="679"/>
         <source>In typical GA aircraft, cabin pressure is not equal to static pressure.</source>
         <translation>W typowym samolocie GA ciśnienie w kabinie nie jest równe ciśnieniu statycznemu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="928"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="680"/>
         <source>The precise difference depend on factors such as airspeed and configuration of ventilation and heating.</source>
         <translation>Dokładna różnica zależy od takich czynników, jak prędkość powietrza oraz konfiguracja wentylacji i ogrzewania.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="930"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="682"/>
         <source>Do not enable this option unless you convinced yourself that the data provided by your sensor is good enough for the intended use.</source>
         <translation>Nie włączaj tej opcji, dopóki nie będziesz pewien, że dane dostarczane przez czujnik są wystarczająco dobre do zamierzonego zastosowania.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="931"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="683"/>
         <source>Do not rely on data shown in this app.</source>
         <translation>Nie należy polegać na danych wyświetlanych w tej aplikacji.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="932"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="684"/>
         <source>Always use an approved altimeter to judge vertical distance to airspaces.</source>
         <translation>Aby ocenić odległość pionową do przestrzeni powietrznej, zawsze używaj homologowanego wysokościomierza.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="935"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="687"/>
         <source>We strongly recommend to connect Enroute Flight Navigation to a proper traffic data receiver, such as a FLARM or ADS-B device, that provides static pressure data.</source>
         <translation>Zdecydowanie zalecamy podłączenie systemu Enroute Flight Navigation do odpowiedniego odbiornika danych o ruchu lotniczym, np. urządzenia FLARM lub ADS-B, które dostarcza dane o ciśnieniu statycznym.</translation>
     </message>
@@ -6133,12 +6133,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Dokument JSON nie opisuje samolotu.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="273"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="259"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
         <translation>Nie można otworzyć pliku &apos;%1&apos; do zapisu.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="279"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="265"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
         <translation>Nie można zapisać do pliku &apos;%1&apos;.</translation>
     </message>
