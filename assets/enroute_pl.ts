@@ -252,33 +252,33 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="164"/>
         <source>Callsign</source>
-        <translation type="unfinished"></translation>
+        <translation>Wywołanie</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="175"/>
         <source>Enter the callsign of your aircraft. Together with the Hex ID, the name is used to filter out your own aircraft when receiving traffic data from the Open Glider Network, preventing it from being displayed twice on the map.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź znak wywoławczy swojego samolotu. Nazwa ta, wraz z identyfikatorem szesnastkowym, służy do filtrowania Twojego samolotu podczas odbierania danych o ruchu z Open Glider Network, zapobiegając jego dwukrotnemu wyświetlaniu na mapie.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="182"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="203"/>
         <source>Hex ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Hex ID</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="194"/>
         <source>Transponder/FLARM ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Transponder/FLARM ID</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="205"/>
         <source>Enter the “ICAO 24-bit address” of your transponder (e.g., “3D1C11”), the “FLARM Radio ID” of your FLARM device (e.g., “3EDE26”) or the “Open Glider Network Source ID” of your aircraft (e.g., “ICA3D1C11”, “FLR123456”). Together with the name, this identifier is used to filter out your own aircraft when receiving traffic data from the Open Glider Network, preventing it from being displayed twice on the map. If you do not use Open Glider Network traffic data, you can leave this field empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wprowadź „24-bitowy adres ICAO” swojego transpondera (np. „3D1C11”), „ID radia FLARM” swojego urządzenia FLARM (np. „3EDE26”) lub „ID źródła Open Glider Network” swojego samolotu (np. „ICA3D1C11”, „FLR123456”). Ten identyfikator, wraz z nazwą, służy do filtrowania Twojego samolotu podczas odbierania danych o ruchu z Open Glider Network, zapobiegając jego dwukrotnemu wyświetlaniu na mapie. Jeśli nie korzystasz z danych o ruchu z Open Glider Network, możesz pozostawić to pole puste.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="207"/>
         <source>You can enter multiple codes separated by spaces if your aircraft has multiple identifiers. The comparison is case-insensitive.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli Twój samolot ma wiele identyfikatorów, możesz wprowadzić wiele kodów, rozdzielając je spacjami. Porównanie nie uwzględnia wielkości liter.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="228"/>
@@ -288,17 +288,17 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="235"/>
         <source>Cabin/Altitude Pressure</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciśnienie w kabinie/wysokościowe</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="237"/>
         <source>If this option is checked, Enroute Flight Navigation will use the pressure sensor of your mobile device to measure the pressure altitude and determine vertical distances to airspaces. This option is only available if your device has a pressure sensor.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli ta opcja jest zaznaczona, Enroute Flight Navigation użyje czujnika ciśnienia w Twoim urządzeniu mobilnym do pomiaru wysokości ciśnieniowej i określenia odległości pionowej do przestrzeni powietrznej. Ta opcja jest dostępna tylko wtedy, gdy Twoje urządzenie jest wyposażone w czujnik ciśnienia.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="239"/>
         <source>If available, Enroute Flight Navigation will always use the pressure altitude provided by an external traffic data receiver instead of the pressure altitude calculated from the pressure sensor of your mobile device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Jeśli jest to możliwe, Enroute Flight Navigation zawsze będzie korzystać z wysokości ciśnieniowej podanej przez zewnętrzny odbiornik danych ruchu, a nie z wysokości ciśnieniowej obliczonej z czujnika ciśnienia w Twoim urządzeniu mobilnym.</translation>
     </message>
     <message>
         <source>Horizontal Distances</source>
@@ -3226,27 +3226,27 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="71"/>
         <source>Map Mode: North Up</source>
-        <translation type="unfinished">Tryb mapy: Północ u góry</translation>
+        <translation>Tryb mapy: Północ u góry</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="73"/>
         <source>Map Mode: Track Up</source>
-        <translation type="unfinished">Tryb mapy: trasa u góry</translation>
+        <translation>Tryb mapy: trasa u góry</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="75"/>
         <source>Map Mode: User Defined Direction Up</source>
-        <translation type="unfinished">Tryb mapy: Kierunek zdefiniowany przez użytkownika w górę</translation>
+        <translation>Tryb mapy: Kierunek zdefiniowany przez użytkownika w górę</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="91"/>
         <source>Map Mode: Autopan</source>
-        <translation type="unfinished">Tryb mapy: Automatycznie</translation>
+        <translation>Tryb mapy: Automatyczne przesuwanie</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="93"/>
         <source>Map Mode: No Autopan</source>
-        <translation type="unfinished"></translation>
+        <translation>Tryb mapy: Brak automatycznego przesuwania</translation>
     </message>
 </context>
 <context>
