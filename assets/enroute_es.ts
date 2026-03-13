@@ -2841,7 +2841,7 @@ con los datos de la cuenta bancaria.</translation>
 <context>
     <name>ImportManager</name>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="99"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="104"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; cannot be recognized.</source>
         <translation>No se puede reconocer el tipo de archivo del archivo &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
@@ -2854,44 +2854,44 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">Para encontrar la coordenada geográfica relevante, se debe abrir el sitio web &lt;strong&gt;%1&lt;/strong&gt; en una ventana del navegador web integrado.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="147"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="152"/>
         <source>Import Waypoint Data</source>
         <translation>Importando datos de puntos de ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="148"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="153"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
         <translation>Tl archivo contiene una lista de puntos de ruta. ¿Importar como ruta de vuelo o agregar a la biblioteca de puntos de ruta?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="156"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="161"/>
         <source>Route</source>
         <translation>Ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="171"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="176"/>
         <source>Library</source>
         <translation>Biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="189"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="194"/>
         <source>Import Airspace Data</source>
         <translation>Importar datos del espacio aéreo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="243"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="248"/>
         <source>Airspace data imported</source>
         <translation>Datos del espacio aéreo importados</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="306"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="311"/>
         <source>Import Raster Map</source>
         <translation>Importar mapa ráster</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="199"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="316"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="368"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="204"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="321"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="373"/>
         <source>Enter a name for this map.</source>
         <translation>Introduzca un nombre para este mapa.</translation>
     </message>
@@ -2904,12 +2904,12 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">Para evitar conflictos entre mapas ráster y vectoriales, se desinstalarán todos los mapas vectoriales.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="80"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="85"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; seems to contain an image without georeferencing information.</source>
         <translation>El archivo &lt;strong&gt;%1&lt;/strong&gt; parece contener una imagen sin información de georreferenciación.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="94"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="99"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; seems to contain an zip file without the data required in a tripkit.</source>
         <translation>El archivo &lt;strong&gt;%1&lt;/strong&gt; parece contener un archivo zip sin los datos requeridos en un tripkit.</translation>
     </message>
@@ -2918,12 +2918,12 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">Para encontrar las coordenadas geográficas relevantes, debe abrir brevemente el sitio web &lt;strong&gt;Google Maps&lt;/strong&gt; en una ventana integrada del navegador web.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="122"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="127"/>
         <source>Unable to import text item</source>
         <translation>No se puede importar un elemento de texto</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="123"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="128"/>
         <source>The text item could not be interpreted.</source>
         <translation>El elemento de texto no se pudo interpretar.</translation>
     </message>
@@ -2952,17 +2952,17 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">Abrir siempre sitios web externos, no volver a preguntar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="250"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="255"/>
         <source>Import Visual Approach Chart</source>
         <translation>Importar carta de aproximación visual</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="267"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="272"/>
         <source>Enter a name for this chart. Existing approach charts with the same name will be overwritten.</source>
         <translation>Introduzca un nombre para este gráfico. Se sobrescribirán las cartas de aproximación existentes con el mismo nombre.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="299"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="304"/>
         <source>Visual approach chart data imported</source>
         <translation>Datos de la carta de aproximación visual importados</translation>
     </message>
@@ -2971,27 +2971,27 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">Para evitar conflictos, los mapas vectoriales no se mostrarán mientras estén instaladas los mapas ráster.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="351"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="356"/>
         <source>Raster map imported</source>
         <translation>Mapa ráster importada</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="358"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="363"/>
         <source>Import Vector Map</source>
         <translation>Mapa vectorial importado</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="391"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="396"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
         <translation>Para evitar conflictos entre mapas ráster y vectoriales, se desinstalarán todos los mapas ráster.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="412"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="417"/>
         <source>Vector map imported</source>
         <translation>Mapa vectorial importada</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="420"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="425"/>
         <source>Import Waypoint Library</source>
         <translation>Importar biblioteca de puntos de ruta</translation>
     </message>
@@ -3000,57 +3000,57 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">Omitir puntos de ruta que ya existen en la biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="432"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="437"/>
         <source>Skip over waypoints that already exist in the library</source>
         <translation>Omitir puntos de ruta que ya existen en la biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="451"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="456"/>
         <source>Waypoints imported</source>
         <translation>Puntos de ruta importados</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="458"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="463"/>
         <source>Import Flight Route?</source>
         <translation>¿Importar ruta de vuelo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="462"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="467"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Esto sobrescribirá la ruta actual. Una vez sobrescrita, la ruta de vuelo actual no se puede restaurar.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="481"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="486"/>
         <source>Flight route imported</source>
         <translation>Ruta de vuelo importada</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="488"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="493"/>
         <source>Import Trip Kit?</source>
         <translation>¿Importar kit de viaje?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="492"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="497"/>
         <source>This might overwrite some approach charts.</source>
         <translation>Esto podría sobrescribir algunas cartas de aproximación.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="504"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="509"/>
         <source>Trip kit imported</source>
         <translation>Kit de viaje importado</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="514"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="519"/>
         <source>Data Import Error</source>
         <translation>Error de importación de datos</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="528"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="533"/>
         <source>Stand by</source>
         <translation>En espera</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="540"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="545"/>
         <source>Extracting and converting files from the trip kit. Please do not interrupt or close the app.</source>
         <translation>Extracción y conversión de archivos del kit de viaje. No interrumpa ni cierre la aplicación.</translation>
     </message>
@@ -4874,6 +4874,19 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     </message>
 </context>
 <context>
+    <name>Platform::FileExchange_Abstract</name>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Abstract.cpp" line="192"/>
+        <source>Unable to extract georeferencing information from the file. %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Abstract.cpp" line="196"/>
+        <source>Unable to extract georeferencing information from the file.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Platform::Notifier</name>
     <message>
         <source>Update</source>
@@ -5383,28 +5396,28 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation>Coordenada no válida encontrada: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="493"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="521"/>
         <source>Warnings</source>
         <comment>OpenAir</comment>
         <translatorcomment>OpenAir</translatorcomment>
         <translation>Advertencia</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="517"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="545"/>
         <source>Cannot open file %1</source>
         <comment>OpenAir</comment>
         <translatorcomment>OpenAir</translatorcomment>
         <translation>No se puede abrir el archivo %1</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="599"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="627"/>
         <source>Unrecognized record type in line %1: %2; Line ignored.</source>
         <comment>OpenAir</comment>
         <translatorcomment>OpenAir</translatorcomment>
         <translation>Tipo de registro no reconocido en la línea %1: %2; Línea ignorada.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/OpenAir.cpp" line="604"/>
+        <location filename="../../../src/geomaps/OpenAir.cpp" line="632"/>
         <source>Error in line %1: %2; Airspace %3 ignored.</source>
         <comment>OpenAir</comment>
         <translatorcomment>OpenAir</translatorcomment>
@@ -5556,47 +5569,95 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">No se pueden leer datos.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="140"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="57"/>
+        <source>No GeoKeyDirectoryTag found — not a valid GeoTIFF.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="66"/>
+        <source>GeoKeyDirectoryTag is too short to be valid.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="73"/>
+        <source>Invalid key count in GeoKeyDirectoryTag.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="79"/>
+        <source>GeoKeyDirectoryTag is truncated.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="110"/>
+        <source>GTModelTypeGeoKey is not stored inline — malformed GeoTIFF.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="118"/>
+        <source>This file uses an projected coordinate reference system, which is not supported by Enroute Flight Navigation. Consult the manual for an explanation how to convert the file to geographic coordinates.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="124"/>
+        <source>This file uses geocentric (3D Cartesian) coordinates, which are not supported by Enroute Flight Navigation. Consult the manual for an explanation how to convert this file to geographic coordinates.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="130"/>
+        <source>Unsupported coordinate system: unknown GTModelType %1.</source>
+        <comment>FileFormats::GeoTIFF</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="229"/>
         <source>No data for tag 270.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
         <translation>No hay datos para la etiqueta 270.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="182"/>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="195"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="271"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="284"/>
         <source>Invalid data for tag 34264.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
         <translation>Datos no válidos para la etiqueta 34264.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="212"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="302"/>
         <source>No raster size data.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
         <translation>No hay datos de tamaño ráster.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="218"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="308"/>
         <source>No transformation data.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
         <translation>Sin datos de transformación.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="234"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="324"/>
         <source>Invalid coordinate data.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
         <translation>Datos de coordenadas no válidos.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="99"/>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="104"/>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="111"/>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="116"/>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="121"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="188"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="193"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="200"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="205"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="210"/>
         <source>Invalid data for tag 33922.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
@@ -5609,8 +5670,8 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <translation type="vanished">La etiqueta 33922 no está configurada.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="155"/>
-        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="168"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="244"/>
+        <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="257"/>
         <source>Invalid data for tag 33550.</source>
         <comment>FileFormats::GeoTIFF</comment>
         <translatorcomment>Formatos de archivo::GeoTIFF</translatorcomment>
