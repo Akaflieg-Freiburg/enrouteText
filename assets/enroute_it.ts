@@ -3719,7 +3719,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="82"/>
         <source>Markus Marks helped to implement the side view. Based in southern Germany, Markus is an enthusiastic glider pilot software developer working in embedded systems.</source>
-        <translation>Markus Marks ha contribuito all&apos;implementazione della vista laterale. Basato Germania meridionale, Markus è un appassionato sviluppatore di software per piloti di alianti che lavora come Embedded SW Engineer</translation>
+        <translation>Markus Marks ha contribuito all&apos;implementazione della vista laterale. Basato in Germania meridionale, Markus è un appassionato sviluppatore di software per piloti di alianti che lavora come Embedded SW Engineer.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="92"/>
@@ -5486,7 +5486,8 @@ with the programming, please get in touch with us by
 opening a GitHub issue. We are grateful for any help we
 can get.&lt;/p&gt;
 </source>
-        <translation>&lt;h3&gt;Participa nello sviluppo&lt;/h3&gt;
+        <translation>
+&lt;h3&gt;Participa allo sviluppo&lt;/h3&gt;
 
 &lt;p&gt;Abbiamo grandi progetti per &lt;strong&gt;Enroute Flight
 Navigation&lt;/strong&gt;, dai un&apos;occhiata al progetto 
