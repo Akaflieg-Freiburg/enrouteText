@@ -6499,13 +6499,13 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="118"/>
         <source>This file uses an projected coordinate reference system, which is not supported by Enroute Flight Navigation. Consult the manual for an explanation how to convert the file to geographic coordinates.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation>Das in dieser Datei verwendete geodätische System wird nicht von Enroute Flight Navigation unterstützt. Zur Umwandlung der Datei in gültige Geo-Daten  sh. Handbuch.</translation>
+        <translation>Das in dieser Datei verwendete Kartenprojektion wird von Enroute Flight Navigation nicht unterstützt. Das Handbuch erklärt, wie man die Datei so umwandeln kann, dass übliche geografische Koordinaten verwendet werden.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="124"/>
         <source>This file uses geocentric (3D Cartesian) coordinates, which are not supported by Enroute Flight Navigation. Consult the manual for an explanation how to convert this file to geographic coordinates.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation>Die in dieser Datei verwendeten Koordinaten (3D-kartesisch) werden nicht von Enroute Flight Navigation unterstützt. Zur Umwandlung der Datei in gültige Geo-Daten  sh. Handbuch.</translation>
+        <translation>Die in dieser Datei verwendeten Koordinaten (3D-kartesisch) werden nicht von Enroute Flight Navigation unterstützt. Das Handbuch erklärt, wie man die Datei so umwandeln kann, dass übliche geografische Koordinaten verwendet werden.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="130"/>
