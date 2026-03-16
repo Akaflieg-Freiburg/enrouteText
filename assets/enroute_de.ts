@@ -5752,7 +5752,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/FileExchange_Abstract.cpp" line="192"/>
         <source>Unable to extract georeferencing information from the file. %1</source>
-        <translation>Kann keine Georeferenzierung aus der Datei %1 herauslesen.</translation>
+        <translation>Kann keine Georeferenzierung aus der Datei herauslesen. %1</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Abstract.cpp" line="196"/>
