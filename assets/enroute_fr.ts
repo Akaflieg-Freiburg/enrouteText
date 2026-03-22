@@ -3785,12 +3785,12 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/platform/FileExchange_Abstract.cpp" line="192"/>
         <source>Unable to extract georeferencing information from the file. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d’extraire les informations de géoréférencement du fichier. %1</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Abstract.cpp" line="196"/>
         <source>Unable to extract georeferencing information from the file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossible d’extraire les informations de géoréférencement du fichier.</translation>
     </message>
 </context>
 <context>
@@ -4344,49 +4344,57 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="57"/>
         <source>No GeoKeyDirectoryTag found — not a valid GeoTIFF.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::GeoTIFF</translatorcomment>
+        <translation>FileFormats::GeoTIFF</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="66"/>
         <source>GeoKeyDirectoryTag is too short to be valid.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::GeoTIFF</translatorcomment>
+        <translation>GeoKeyDirectoryTag est trop court pour être valide.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="73"/>
         <source>Invalid key count in GeoKeyDirectoryTag.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::GeoTIFF</translatorcomment>
+        <translation>Nombre de clés non valide dans GeoKeyDirectoryTag.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="79"/>
         <source>GeoKeyDirectoryTag is truncated.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::GeoTIFF</translatorcomment>
+        <translation>GeoKeyDirectoryTag est tronqué.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="110"/>
         <source>GTModelTypeGeoKey is not stored inline — malformed GeoTIFF.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::GeoTIFF</translatorcomment>
+        <translation>GTModelTypeGeoKey n’est pas stocké en ligne — GeoTIFF mal formé.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="118"/>
         <source>This file uses an projected coordinate reference system, which is not supported by Enroute Flight Navigation. Consult the manual for an explanation how to convert the file to geographic coordinates.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::GeoTIFF</translatorcomment>
+        <translation>Ce fichier utilise un système de référence de coordonnées projeté, qui n’est pas pris en charge par Enroute Flight Navigation. Consultez le manuel pour une explication comment convertir le fichier en coordonnées géographiques.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="124"/>
         <source>This file uses geocentric (3D Cartesian) coordinates, which are not supported by Enroute Flight Navigation. Consult the manual for an explanation how to convert this file to geographic coordinates.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::GeoTIFF</translatorcomment>
+        <translation>Ce fichier utilise des coordonnées géocentriques (cartésiennes 3D), qui ne sont pas prises en charge par Enroute Flight Navigation. Consultez le manuel pour une explication comment convertir ce fichier en coordonnées géographiques.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="130"/>
         <source>Unsupported coordinate system: unknown GTModelType %1.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::GeoTIFF</translatorcomment>
+        <translation>Système de coordonnées non pris en charge&#xa0;: GTModelType %1 inconnu.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="244"/>
