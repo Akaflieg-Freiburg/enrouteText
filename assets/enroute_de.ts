@@ -8463,7 +8463,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="54"/>
         <source>Bluetooth LE connection to %1</source>
-        <translation>Verbindung über Bluetooth LE mit %1</translation>
+        <translation>Bluetooth LE-Verbindung mit %1</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="81"/>
@@ -8602,7 +8602,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="253"/>
         <source>The controller is attempting to connect to a remote device.</source>
-        <translation>Der Controller versucht sich mit einem entfernten Gerät zu verbinden.</translation>
+        <translation>Der Controller versucht, sich mit einem entfernten Gerät zu verbinden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="256"/>
