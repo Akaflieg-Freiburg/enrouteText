@@ -25,7 +25,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="82"/>
         <source>Adding Connection: %1</source>
-        <translation>Füge verbindung %1 hinzu</translation>
+        <translation type="unfinished">Füge Verbindung %1 hinzu</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="91"/>
