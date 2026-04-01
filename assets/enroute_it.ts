@@ -1021,42 +1021,42 @@ la nostra App.&lt;/p&gt;
         <translation>Informazioni di connessione</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="126"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="122"/>
         <source>Status</source>
         <translation>Stato</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="128"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="124"/>
         <source>Error</source>
         <translation>Errore</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="130"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="126"/>
         <source>Currently no incoming data.</source>
         <translation>Nessun dato in ingresso.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="131"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="127"/>
         <source>Data Format: %1.</source>
         <translation>Formato dati: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="134"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="130"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
         <translation>Questa è una connessione standard che non può essere cancellata dall&apos;utente.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="177"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="174"/>
         <source>Baud Rate</source>
         <translation>Velocità in Baud</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="217"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="214"/>
         <source>Stop Bits</source>
         <translation>Bit di stop</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="240"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfo.qml" line="237"/>
         <source>Flow Control</source>
         <translation>Controllo del flusso</translation>
     </message>
@@ -7836,7 +7836,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Dati del ricevitore di traffico</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="143"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="142"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="35"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothLowEnergy.cpp" line="31"/>
         <source>Invalid connection.</source>
@@ -7855,37 +7855,37 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Impossibile aggiungere connessione seriale. Questa funzione non è al momento implementata.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="155"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="154"/>
         <source>Unable to add FLARM simulator file connection. This is not implemented at the moment.</source>
         <translation>Impossibile aggiungere connessione simulatore FLARM. Questa funzione non è al momento implementata.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="200"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="199"/>
         <source>Serial ports are not supported on this platform.</source>
         <translation>Le porte seriali non sono supportare su questa piattaforma.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="638"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="637"/>
         <source>Receiving data through an internet service, which might be unreliable. Consider connecting to a proper traffic data receiver.</source>
         <translation>Rizezione dati attraverso un servizio internet, che potrebbe essere non affidabile. Considerare la connessione a un ricevitore di traffico appropriato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="642"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="641"/>
         <source>Receiving heartbeat.</source>
         <translation>Rilevazione dei battiti.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="646"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="645"/>
         <source>Receiving position info.</source>
         <translation>Ricezione informazioni di posizione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="650"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="649"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Ricezione info barometriche di altitudine.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="656"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="655"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
         <translatorcomment>Could you please explain what is a &quot;heartbeat&quot; connection when we speak about receiving flight data?</translatorcomment>
         <translation>Non è possibile ricevere la connessione dei battiti cardiaci in nessuna configurazione dati.</translation>
@@ -7900,10 +7900,10 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Causa limitazione della piattaforma, la connessione Bluetooth Classic non è supportata in iOS.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="172"/>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="191"/>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="214"/>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="233"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="171"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="190"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="213"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="232"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="46"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothLowEnergy.cpp" line="42"/>
         <source>A connection to this device already exists.</source>
@@ -8162,152 +8162,153 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_AbstractSocket</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="40"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="43"/>
         <source>The connection was refused by the peer (or timed out).</source>
         <translation>La connessione è stata rifiutata dal peer (o è scaduta).</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="43"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="46"/>
         <source>The remote host closed the connection.</source>
         <translation>L&apos;host remoto ha chiuso la connessione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="46"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="49"/>
         <source>The host address was not found.</source>
         <translation>L&apos;indirizzo host non è stato trovato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="49"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="52"/>
         <source>The socket operation failed because the application lacked the required privileges.</source>
         <translation>L&apos;operazione del socket non è riuscita perché l&apos;applicazione non disponeva dei privilegi richiesti.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="52"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="55"/>
         <source>The local system ran out of resources.</source>
         <translation>Il sistema locale ha esaurito le risorse.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="55"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="58"/>
         <source>The socket operation timed out.</source>
         <translation>Socket Timeout.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="58"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="61"/>
         <source>The datagram was larger than the operating system&apos;s limit.</source>
         <translation>Il datagramma era più grande del limite del sistema operativo.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="61"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="64"/>
         <source>An error occurred with the network.</source>
         <translation>Si è verificato un errore con la rete.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="64"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="67"/>
         <source>The address specified to QAbstractSocket::bind() is already in use and was set to be exclusive.</source>
         <translation>L&apos;indirizzo specificato in QAbstractSocket::bind () è già in uso ed è stato impostato come esclusivo.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="67"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="70"/>
         <source>The address specified to QAbstractSocket::bind() does not belong to the host.</source>
         <translation>L&apos;indirizzo specificato a QAbstractSocket::bind () non appartiene all&apos;host.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="70"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="73"/>
         <source>The requested socket operation is not supported by the local operating system.</source>
         <translation>L&apos;operazione socket richiesta non è supportata dal sistema operativo locale.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="73"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="76"/>
         <source>The socket is using a proxy, and the proxy requires authentication.</source>
         <translation>Il socket utilizza un proxy e che richiede l&apos;autenticazione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="76"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="79"/>
         <source>The SSL/TLS handshake failed, so the connection was closed.</source>
         <translation>L&apos;handshake SSL/TLS non è riuscita, quindi la connessione è stata chiusa.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="79"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="82"/>
         <source>The last operation attempted has not finished yet (still in progress in the background).</source>
         <translation>L&apos;ultima operazione non è ancora terminata (in corso in background).</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="82"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="85"/>
         <source>Could not contact the proxy server because the connection to that server was denied.</source>
         <translation>Impossibile contattare il server proxy perché la connessione al server è stata negata.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="85"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="88"/>
         <source>The connection to the proxy server was closed unexpectedly (before the connection to the final peer was established).</source>
         <translation>La connessione al server proxy è stata chiusa in modo imprevisto (prima che fosse stabilita la connessione al peer finale).</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="88"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="91"/>
         <source>The connection to the proxy server timed out or the proxy server stopped responding in the authentication phase.</source>
         <translation>La connessione al server proxy è scaduta o il server proxy ha smesso di rispondere nella fase di autenticazione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="91"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="94"/>
         <source>The proxy address set with setProxy() (or the application proxy) was not found.</source>
         <translation>L&apos;indirizzo proxy impostato con setProxy () (o il proxy dell&apos;applicazione) non è stato trovato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="94"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="97"/>
         <source>The connection negotiation with the proxy server failed, because the response from the proxy server could not be understood.</source>
         <translation>La negoziazione della connessione con il server proxy non è riuscita perché non è stato possibile comprendere la risposta del server proxy.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="97"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="100"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
         <translation>È stata tentata un&apos;operazione mentre il socket si trovava in uno stato che non lo consentiva.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="100"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="103"/>
         <source>The SSL library being used reported an internal error. This is probably the result of a bad installation or misconfiguration of the library.</source>
         <translation>La libreria SSL utilizzata ha riportato un errore interno. Questo è probabilmente il risultato di una sbagliata installazione o di un&apos;errata configurazione della libreria.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="103"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="106"/>
         <source>Invalid data (certificate, key, cypher, etc.) was provided and its use resulted in an error in the SSL library.</source>
         <translation>Sono stati forniti dati non validi (certificato, chiave, codice, ecc.) E il loro utilizzo ha generato un errore nella libreria SSL.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="106"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="109"/>
         <source>A temporary error occurred (e.g., operation would block and socket is non-blocking).</source>
         <translation>Si è verificato un errore temporaneo (ad esempio, l&apos;operazione vorrebbe bloccarsi e il socket non si blocca).</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="109"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="112"/>
         <source>An unidentified error occurred.</source>
         <translation>Si è verificato un errore non identificato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="128"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="131"/>
         <source>Performing host name lookup.</source>
         <translation>Ricerca del nome host.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="131"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="134"/>
         <source>Trying to establish a connection.</source>
         <translation>Tentativo di stabile una connessione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="134"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="137"/>
         <source>Connected.</source>
         <translation>Connesso.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="137"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="140"/>
         <source>Bound to an address and port, but not connected yet.</source>
         <translation>Associato a un indirizzo e una porta, ma non ancora connesso.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="140"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="143"/>
         <source>Closing.</source>
         <translation>Chiusura.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="143"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="32"/>
+        <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="146"/>
         <source>Not connected.</source>
         <translation>Non connesso.</translation>
     </message>
@@ -8325,92 +8326,92 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation>Il permesso necessario è stato negato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="88"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="92"/>
         <source>An unknown error has occurred.</source>
         <translation>Errore sconosciuto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="91"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="95"/>
         <source>No error.</source>
         <translation>Nessun errore.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="94"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="98"/>
         <source>Could not find the remote host.</source>
         <translation>Host remoto non trovato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="97"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="101"/>
         <source>Could not find the service UUID on remote host.</source>
         <translation>Servizio UUID su host remoto non trovato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="100"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="104"/>
         <source>Attempt to read or write from socket returned an error</source>
         <translation>La scrittura o la lettura dal socket ha restituito un errore</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="103"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="107"/>
         <source>The Protocol is not supported on this platform.</source>
         <translation>Il protocollo non è supportato su questa piattaforma.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="106"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="110"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
         <translation>È stata tentata un&apos;operazione mentre il socket si trovava in uno stato che non lo consentiva.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="109"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="113"/>
         <source>The remote host closed the connection.</source>
         <translation>L&apos;host remoto ha chiuso la connessione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="112"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="116"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
         <translation>Il sistema operativo ha richiesto permessi non concessi dall&apos;utente.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="123"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="127"/>
         <source>The socket is not connected.</source>
         <translation>Il socket non è connesso.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="126"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="130"/>
         <source>The socket is querying connection parameters.</source>
         <translation>Il socket sta richiedendo i parametri di connessione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="129"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="133"/>
         <source>The socket is attempting to connect.</source>
         <translation>Il socket sta tentando la connessione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="132"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="136"/>
         <source>The socket is connected.</source>
         <translation>Il socket è connesso.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="135"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="139"/>
         <source>The socket is bound to a local address and port.</source>
         <translation>Il socket è collegato a un indirizzo e porta locali.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="138"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="142"/>
         <source>The socket is connected and will be closed once all pending data is written to the socket.</source>
         <translation>Il socket è connesso e sarà chiuso dop ola scrittura di tutti i dati in attesa.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="141"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="145"/>
         <source>The socket is listening for incoming connections.</source>
         <translation>Il socket sta ascoltando per connessioni in ingresso.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="161"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="165"/>
         <source>Unnamed Device</source>
         <translation>Dispositivo sconosciuto</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="163"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="167"/>
         <source>Bluetooth Classic connection to %1</source>
         <translation>Connessione Bluetooth classica a %1</translation>
     </message>
@@ -8418,106 +8419,136 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_BluetoothLowEnergy</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="54"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="57"/>
         <source>Bluetooth LE connection to %1</source>
         <translation>Connessione Bluetooth LE a %1</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="81"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="84"/>
         <source>Necessary permission have been denied.</source>
         <translation>Il permesso necessario è stato negato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="115"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="94"/>
+        <source>Searching for device.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="130"/>
         <source>Received data from unknown characteristic %1.</source>
         <translation>Dati ricevuti da caratteristica sconosciuta %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="125"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="140"/>
         <source>An unknown error has occurred.</source>
         <translation>Errore sconosciuto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="128"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="143"/>
         <source>The remote Bluetooth Low Energy device with the address passed to the constructor of this class cannot be found.</source>
         <translation>Il dispositivo Bluetooth a bassa energia con l&apos;indirizzo passato al costruttore di questa classe non può essere trovato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="131"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="146"/>
         <source>The attempt to read from or write to the remote device failed.</source>
         <translation>Non è possibile leggere o scrivere sul dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="134"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="149"/>
         <source>The local Bluetooth device with the address passed to the constructor of this class cannot be found or there is no local Bluetooth device.</source>
         <translation>Il dispositivo locale Bluetooth a bassa energia con l&apos;indirizzo passato al costruttore di questa classe non può essere trovato o non c&apos;è un dospositivo Bluetooth locale.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="137"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="152"/>
         <source>The attempt to connect to the remote device failed.</source>
         <translation>Non è possibile connettere il dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="140"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="155"/>
         <source>The attempt to start advertising failed.</source>
         <translation>Non è possibile iniziare il processo di advertising.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="143"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="158"/>
         <source>The remote device closed the connection.</source>
         <translation>Il dispositivo remoto ha chiuso la connessione.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="146"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="161"/>
         <source>The local Bluetooth device closed the connection due to insufficient authorization.</source>
         <translation>Il dispositivo remoto ha chiuso la connessione a causa di insufficienti autorizzazioni.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="149"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="164"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
         <translation>Il sistema operativo richiede permessi che non sono stati concessi dall&apos;utente.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="152"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="167"/>
         <source>An attempt to read RSSI (received signal strength indicator) of a remote device finished with error.</source>
         <translation>Un tentativo di leggere il RSSI (indicatore di potenza del segnale) di un dispositivo remoto è terminato con un errore.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="164"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="176"/>
+        <source>Bluetooth is turned off. Please enable it in System Settings.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="179"/>
+        <source>A hardware error occurred while searching for devices.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="182"/>
+        <source>An error occurred during device discovery (%1).</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="194"/>
         <source>Nordic UART Service found. Requesting service characteristics.</source>
         <translation>Trovato servizio Nordic UART. Richiesta delle caratteristiche del servizio.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="176"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="206"/>
         <source>Simple UART Service found. Requesting service characteristics.</source>
         <translation>Trovato servizio semplice UART. Richiesta delle caratteristiche del servizio.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="183"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="213"/>
         <source>No UART service found.</source>
         <translation>Nessun servizio UART trovato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="210"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="240"/>
         <source>The Nordic UART Service does not contain the TX characteristic.</source>
         <translation>Il servizio Nordic UART non contiene le caratteristiche TX.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="314"/>
+        <source>Device found. Connecting...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="322"/>
+        <source>Unable to find device within range.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>UART service found. Requesting service characteristics.</source>
         <translation type="vanished">Il servizio UART è stato trovato. Richiesta caratteristiche del servizio in corso.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="191"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="221"/>
         <source>Invalid Service.</source>
         <translation>Servizio non valido.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="194"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="224"/>
         <source>Service details unknown.</source>
         <translation>Dettagli del servizio sconosciuti.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="197"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="227"/>
         <source>Requesting service details.</source>
         <translation>Richiesta caratteristiche del servizio in corso.</translation>
     </message>
@@ -8526,8 +8557,8 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Il servizio NUS non contiene le caratteristiche TX.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="216"/>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="234"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="246"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="264"/>
         <source>Cannot open the client characteristic configuration descriptor.</source>
         <translation>Impossibile aprire il descrittore della configurazione delle caratteristiche del client.</translation>
     </message>
@@ -8536,58 +8567,58 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Servizio NUS non disponibile.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="220"/>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="238"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="250"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="268"/>
         <source>Data transfer enabled.</source>
         <translation>Trasferimento dati abilitato.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="228"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="258"/>
         <source>The Simple UART Service does not contain the TX characteristic.</source>
         <translation>Il servizio semplice UART non contiene le caratteristiche TX.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="242"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="272"/>
         <source>No UART Service available.</source>
         <translation>Nessun servizio UART disponibile.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="250"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="280"/>
         <source>The controller is not connected to a remote device.</source>
         <translation>Il controller non è connesso con un dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="253"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="283"/>
         <source>The controller is attempting to connect to a remote device.</source>
         <translation>Il controller sta tendando di connettersi a un dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="256"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="286"/>
         <source>The controller is connected to a remote device.</source>
         <translation>Il controller è connesso a un dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="259"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="289"/>
         <source>The controller is retrieving the list of services offered by the remote device.</source>
         <translation>Il controller sta recuperando la lista di servizi offerti dal dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="262"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="292"/>
         <source>The controller has discovered all services offered by the remote device.</source>
         <translation>Il controller ha scoperto tutti i servizi offerti dal dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="265"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="295"/>
         <source>The controller is about to be disconnected from the remote device.</source>
         <translation>Il controller si sta per disconnettere dal dispositivo remoto.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="268"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="298"/>
         <source>The controller is currently advertising data.</source>
         <translation>Il controller sta correntemente scambiando dati.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="52"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="55"/>
         <source>Unnamed Device</source>
         <translation>Dispositivo sconosciuto</translation>
     </message>
