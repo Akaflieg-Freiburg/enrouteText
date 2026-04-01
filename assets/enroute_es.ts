@@ -7565,7 +7565,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="94"/>
         <source>Searching for device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Búsqueda de un dispositivo.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="130"/>
@@ -7625,17 +7625,17 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="176"/>
         <source>Bluetooth is turned off. Please enable it in System Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth está desactivado. Por favor, actívalo en la configuración del sistema.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="179"/>
         <source>A hardware error occurred while searching for devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Se produjo un error de hardware al buscar dispositivos.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="182"/>
         <source>An error occurred during device discovery (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Se produjo un error durante el descubrimiento del dispositivo (%1).</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="194"/>
@@ -7660,12 +7660,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="314"/>
         <source>Device found. Connecting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Dispositivo encontrado. Conectando...</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="322"/>
         <source>Unable to find device within range.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede encontrar el dispositivo dentro del alcance.</translation>
     </message>
     <message>
         <source>UART service found. Requesting service characteristics.</source>
