@@ -4133,22 +4133,30 @@ z danymi konta bankowego.
         <translation>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/05-referencePages/01-mainPage.html#dependence-on-static-pressure-information&apos;&gt;Zapoznaj się z instrukcją&lt;/a&gt;, aby uzyskać więcej informacji i poznać możliwe rozwiązania.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="319"/>
+        <source>There are now specialized icons for obstacle NOTAMs and NOTAMs about drone flights. We thank Christian Engelhardt for the implementation!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="328"/>
+        <source>Support for Bluetooth Classic and Bluetooth Low Energy is now a regular feature and no longer in tech preview. Please report any issues that you may find!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Welcome to version 3.0.0 of Enroute Flight Navigation.</source>
         <translation type="vanished">Witamy w wersji 3.0.0 programu Enroute Flight Navigation.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="319"/>
-        <location filename="../../../src/Librarian.cpp" line="324"/>
+        <location filename="../../../src/Librarian.cpp" line="323"/>
         <source>&lt;strong&gt;New Feature&lt;/strong&gt;: </source>
         <translation>&lt;strong&gt;Nowa funkcja&lt;/strong&gt;: </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="320"/>
         <source>Enroute is now able to read data from GPS or FLARM devices connected to via USB or serial ports. Consult the manual for details.</source>
-        <translation>Enroute ma możliwosć odczytu danych z urządzeń GPS lub FLARM połączonych przez USB lub porty szeregowe. Sprawdź instrukcję po dalsze szczegóły.</translation>
+        <translation type="vanished">Enroute ma możliwosć odczytu danych z urządzeń GPS lub FLARM połączonych przez USB lub porty szeregowe. Sprawdź instrukcję po dalsze szczegóły.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="325"/>
+        <location filename="../../../src/Librarian.cpp" line="324"/>
         <source>Swipe up from the navigation bar at the bottom of the main screen to open a side view of the airspace.</source>
         <translation>Przesuń palcem w górę od paska nawigacyjnego na dole ekranu głównego, aby otworzyć widok przestrzeni powietrznej z boku.</translation>
     </message>
@@ -4459,7 +4467,7 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; na iOS jest dostępna do publicznych testów beta na &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;strona główna tej aplikacji&lt;/a&gt; zawiera również link do TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="335"/>
+        <location filename="../../../src/Librarian.cpp" line="332"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Potrzebujemy pomocy z grafiką promocyjną dla sklepów z aplikacjami i filmami instruktażowymi. Jeśli jesteś grafikiem/video artystą i chciałbyś pomóc, skontaktuj się z nami.</translation>
     </message>
@@ -5033,12 +5041,12 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
 <context>
     <name>NOTAM::NOTAMProvider</name>
     <message>
-        <location filename="../../../src/notam/NOTAMProvider.cpp" line="460"/>
+        <location filename="../../../src/notam/NOTAMProvider.cpp" line="513"/>
         <source>NOTAMs not current around own position, requesting update</source>
         <translation>Punkty NOTAM nie są aktualne w odniesieniu do własnej pozycji, zażądano aktualizacji</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NOTAMProvider.cpp" line="467"/>
+        <location filename="../../../src/notam/NOTAMProvider.cpp" line="520"/>
         <source>NOTAMs not current around waypoint, requesting update</source>
         <translation>Punkty NOTAM nie są aktualne w odniesieniu do punktu nawigacji, zażądano aktualizacji</translation>
     </message>
@@ -8315,107 +8323,107 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Odmówiono niezbędnych zezwoleń.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="94"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="91"/>
         <source>Searching for device.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="130"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="123"/>
         <source>Received data from unknown characteristic %1.</source>
         <translation>Otrzymano dane z nieznanej charakterystyki %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="140"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="133"/>
         <source>An unknown error has occurred.</source>
         <translation>Wystąpił nieznany błąd.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="143"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="136"/>
         <source>The remote Bluetooth Low Energy device with the address passed to the constructor of this class cannot be found.</source>
         <translation>Nie można znaleźć zdalnego urządzenia Bluetooth Low Energy o adresie przekazanym konstruktorowi tej klasy.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="146"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="139"/>
         <source>The attempt to read from or write to the remote device failed.</source>
         <translation>Próba odczytu lub zapisu na urządzeniu zdalnym nie powiodła się.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="149"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="142"/>
         <source>The local Bluetooth device with the address passed to the constructor of this class cannot be found or there is no local Bluetooth device.</source>
         <translation>Nie można znaleźć lokalnego urządzenia Bluetooth o adresie przekazanym konstruktorowi tej klasy lub nie ma lokalnego urządzenia Bluetooth.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="152"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="145"/>
         <source>The attempt to connect to the remote device failed.</source>
         <translation>Próba połączenia się ze zdalnym urządzeniem nie powiodła się.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="155"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="148"/>
         <source>The attempt to start advertising failed.</source>
         <translation>Próba uruchomienia rozgłaszania się nie powiodła.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="158"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="151"/>
         <source>The remote device closed the connection.</source>
         <translation>Urządzenie zdalne zamknęło połączenie.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="161"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="154"/>
         <source>The local Bluetooth device closed the connection due to insufficient authorization.</source>
         <translation>Lokalne urządzenie Bluetooth zamknęło połączenie z powodu niewystarczającej autoryzacji.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="164"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="157"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
         <translation>System operacyjny żąda uprawnień, które nie zostały przyznane przez użytkownika.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="167"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="160"/>
         <source>An attempt to read RSSI (received signal strength indicator) of a remote device finished with error.</source>
         <translation>Próba odczytu RSSI (wskaźnika siły odebranego sygnału) urządzenia zdalnego zakończyła się błędem.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="176"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="169"/>
         <source>Bluetooth is turned off. Please enable it in System Settings.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="179"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="172"/>
         <source>A hardware error occurred while searching for devices.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="182"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="175"/>
         <source>An error occurred during device discovery (%1).</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="194"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="187"/>
         <source>Nordic UART Service found. Requesting service characteristics.</source>
         <translation>Znaleziono usługę Nordic UART. Żądanie charakterystyki usługi.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="206"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="199"/>
         <source>Simple UART Service found. Requesting service characteristics.</source>
         <translation>Znaleziono prostą usługę UART. Żądanie charakterystyki usługi.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="213"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="206"/>
         <source>No UART service found.</source>
         <translation>Nie znaleziono usługi UART.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="240"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="233"/>
         <source>The Nordic UART Service does not contain the TX characteristic.</source>
         <translation>Usługa Nordic UART nie obejmuje charakterystyki TX.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="314"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="307"/>
         <source>Device found. Connecting...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="322"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="315"/>
         <source>Unable to find device within range.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -8424,17 +8432,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Znaleziono usługę UART. Żądanie charakterystyki usługi.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="221"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="214"/>
         <source>Invalid Service.</source>
         <translation>Nieprawidłowa usługa.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="224"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="217"/>
         <source>Service details unknown.</source>
         <translation>Nieznane szczegóły usługi.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="227"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="220"/>
         <source>Requesting service details.</source>
         <translation>Żądanie szczegółów usługi.</translation>
     </message>
@@ -8443,8 +8451,8 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Usługa NUS nie zawiera charakterystyki TX.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="246"/>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="264"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="239"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="257"/>
         <source>Cannot open the client characteristic configuration descriptor.</source>
         <translation>Nie można otworzyć deskryptora konfiguracji cech klienta.</translation>
     </message>
@@ -8453,53 +8461,53 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation type="vanished">Usługa NUS jest niedostępna.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="250"/>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="268"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="243"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="261"/>
         <source>Data transfer enabled.</source>
         <translation>Transfer danych włączony.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="258"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="251"/>
         <source>The Simple UART Service does not contain the TX characteristic.</source>
         <translation>Usługa Prosty UART nie zawiera charakterystyki TX.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="272"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="265"/>
         <source>No UART Service available.</source>
         <translation>Usługa UART niedostępna.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="280"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="273"/>
         <source>The controller is not connected to a remote device.</source>
         <translation>Kontroler nie jest podłączony do zdalnego urządzenia.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="283"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="276"/>
         <source>The controller is attempting to connect to a remote device.</source>
         <translation>Kontroler próbuje połączyć się ze zdalnym urządzeniem.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="286"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="279"/>
         <source>The controller is connected to a remote device.</source>
         <translation>Kontroler jest podłączony do zdalnego urządzenia.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="289"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="282"/>
         <source>The controller is retrieving the list of services offered by the remote device.</source>
         <translation>Kontroler pobiera listę usług oferowanych przez urządzenie zdalne.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="292"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="285"/>
         <source>The controller has discovered all services offered by the remote device.</source>
         <translation>Kontroler odkrył wszystkie usługi oferowane przez urządzenie zdalne.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="295"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="288"/>
         <source>The controller is about to be disconnected from the remote device.</source>
         <translation>Kontroler zostanie wkrótce odłączony od urządzenia zdalnego.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="298"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="291"/>
         <source>The controller is currently advertising data.</source>
         <translation>Kontroler aktualnie rozgłasza dane.</translation>
     </message>
