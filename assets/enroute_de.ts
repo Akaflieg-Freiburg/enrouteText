@@ -4198,12 +4198,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="319"/>
         <source>There are now specialized icons for obstacle NOTAMs and NOTAMs about drone flights. We thank Christian Engelhardt for the implementation!</source>
-        <translation type="unfinished"></translation>
+        <translation>Es gibt nun spezielle Icons für Hindernis-NOTAMs und NOTAMs zu Drohnenflügen. Vielen Dank an Christian Engelhardt für die Implementierung!</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="328"/>
         <source>Support for Bluetooth Classic and Bluetooth Low Energy is now a regular feature and no longer in tech preview. Please report any issues that you may find!</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth Classic und Bluetooth Low Energy werden jetzt regulär unterstützt und sind nicht mehr in der Beta-Phase. Bitte melden Sie uns gern etwaige Auffälligkeiten!</translation>
     </message>
     <message>
         <source>Welcome to version 3.0.0 of Enroute Flight Navigation.</source>
