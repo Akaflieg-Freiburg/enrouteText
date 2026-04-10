@@ -3616,12 +3616,12 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="319"/>
         <source>There are now specialized icons for obstacle NOTAMs and NOTAMs about drone flights. We thank Christian Engelhardt for the implementation!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ahora hay iconos especializados para los NOTAM de obstáculos y los NOTAM sobre vuelos con drones. ¡Agradecemos a Christian Engelhardt por la implementación!</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="328"/>
         <source>Support for Bluetooth Classic and Bluetooth Low Energy is now a regular feature and no longer in tech preview. Please report any issues that you may find!</source>
-        <translation type="unfinished"></translation>
+        <translation>El soporte para Bluetooth Classic y Bluetooth Low Energy es ahora una función regular y ya no está disponible en la vista previa de tecnología. Por favor, informe cualquier problema que pueda encontrar!</translation>
     </message>
     <message>
         <source>Welcome to version 3.0.0 of Enroute Flight Navigation.</source>
