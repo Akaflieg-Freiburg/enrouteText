@@ -2950,12 +2950,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="319"/>
         <source>There are now specialized icons for obstacle NOTAMs and NOTAMs about drone flights. We thank Christian Engelhardt for the implementation!</source>
-        <translation type="unfinished"></translation>
+        <translation>Il existe désormais des icônes spécialisées pour les NOTAMs d’obstacles et les NOTAMs sur les vols de drones. Nous remercions Christian Engelhardt pour la mise en œuvre !</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="328"/>
         <source>Support for Bluetooth Classic and Bluetooth Low Energy is now a regular feature and no longer in tech preview. Please report any issues that you may find!</source>
-        <translation type="unfinished"></translation>
+        <translation>La prise en charge de Bluetooth Classic et de Bluetooth Low Energy est désormais une fonctionnalité régulière et n’est plus disponible dans les aperçus techniques. Veuillez signaler tout problème que vous pourriez rencontrer !</translation>
     </message>
     <message>
         <source>Welcome to version 3.0.0 of Enroute Flight Navigation.</source>
