@@ -4135,12 +4135,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="319"/>
         <source>There are now specialized icons for obstacle NOTAMs and NOTAMs about drone flights. We thank Christian Engelhardt for the implementation!</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostępne są teraz specjalne ikony dla NOTAM-ów o przeszkodach i NOTAM-ów dotyczących lotów dronów. Dziękujemy Christianowi Engelhardtowi za wdrożenie!</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="328"/>
         <source>Support for Bluetooth Classic and Bluetooth Low Energy is now a regular feature and no longer in tech preview. Please report any issues that you may find!</source>
-        <translation type="unfinished"></translation>
+        <translation>Obsługa Bluetooth Classic i Bluetooth Low Energy jest teraz standardową funkcją i nie jest już dostępna w wersji testowej. Prosimy o zgłaszanie wszelkich napotkanych problemów!</translation>
     </message>
     <message>
         <source>Welcome to version 3.0.0 of Enroute Flight Navigation.</source>
@@ -8325,7 +8325,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="91"/>
         <source>Searching for device.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wyszukiwanie urządzenia.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="123"/>
@@ -8385,17 +8385,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="169"/>
         <source>Bluetooth is turned off. Please enable it in System Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bluetooth jest wyłączony. Proszę go włączyć w Ustawieniach systemowych.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="172"/>
         <source>A hardware error occurred while searching for devices.</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd sprzętowy podczas wyszukiwania urządzeń.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="175"/>
         <source>An error occurred during device discovery (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation>Wystąpił błąd podczas wykrywania urządzenia (%1).</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="187"/>
@@ -8420,12 +8420,12 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="307"/>
         <source>Device found. Connecting...</source>
-        <translation type="unfinished"></translation>
+        <translation>Znaleziono urządzenie. Łączenie...</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="315"/>
         <source>Unable to find device within range.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można znaleźć urządzenia w zasięgu.</translation>
     </message>
     <message>
         <source>UART service found. Requesting service characteristics.</source>
