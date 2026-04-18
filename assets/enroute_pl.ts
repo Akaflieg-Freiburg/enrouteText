@@ -4133,12 +4133,17 @@ z danymi konta bankowego.
         <translation>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/05-referencePages/01-mainPage.html#dependence-on-static-pressure-information&apos;&gt;Zapoznaj się z instrukcją&lt;/a&gt;, aby uzyskać więcej informacji i poznać możliwe rozwiązania.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="319"/>
+        <location filename="../../../src/Librarian.cpp" line="318"/>
+        <source>For most airfields and navaids, the waypoint info dialog now shows the magnetic variation.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/Librarian.cpp" line="321"/>
         <source>There are now specialized icons for obstacle NOTAMs and NOTAMs about drone flights. We thank Christian Engelhardt for the implementation!</source>
         <translation>Dostępne są teraz specjalne ikony dla NOTAM-ów o przeszkodach i NOTAM-ów dotyczących lotów dronów. Dziękujemy Christianowi Engelhardtowi za wdrożenie!</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="328"/>
+        <location filename="../../../src/Librarian.cpp" line="325"/>
         <source>Support for Bluetooth Classic and Bluetooth Low Energy is now a regular feature and no longer in tech preview. Please report any issues that you may find!</source>
         <translation>Obsługa Bluetooth Classic i Bluetooth Low Energy jest teraz standardową funkcją i nie jest już dostępna w wersji testowej. Prosimy o zgłaszanie wszelkich napotkanych problemów!</translation>
     </message>
@@ -4147,18 +4152,16 @@ z danymi konta bankowego.
         <translation type="vanished">Witamy w wersji 3.0.0 programu Enroute Flight Navigation.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="323"/>
         <source>&lt;strong&gt;New Feature&lt;/strong&gt;: </source>
-        <translation>&lt;strong&gt;Nowa funkcja&lt;/strong&gt;: </translation>
+        <translation type="vanished">&lt;strong&gt;Nowa funkcja&lt;/strong&gt;: </translation>
     </message>
     <message>
         <source>Enroute is now able to read data from GPS or FLARM devices connected to via USB or serial ports. Consult the manual for details.</source>
         <translation type="vanished">Enroute ma możliwosć odczytu danych z urządzeń GPS lub FLARM połączonych przez USB lub porty szeregowe. Sprawdź instrukcję po dalsze szczegóły.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="324"/>
         <source>Swipe up from the navigation bar at the bottom of the main screen to open a side view of the airspace.</source>
-        <translation>Przesuń palcem w górę od paska nawigacyjnego na dole ekranu głównego, aby otworzyć widok przestrzeni powietrznej z boku.</translation>
+        <translation type="vanished">Przesuń palcem w górę od paska nawigacyjnego na dole ekranu głównego, aby otworzyć widok przestrzeni powietrznej z boku.</translation>
     </message>
     <message>
         <source>We thank Simon Schneider and Markus Marks for help with the implementation. Consult the manual for more information.</source>
@@ -4467,7 +4470,7 @@ z danymi konta bankowego.
         <translation type="vanished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; na iOS jest dostępna do publicznych testów beta na &lt;a href=&apos;https://testflight.apple.com/join/jqPSdGNX&apos;&gt;Apple TestFlight&lt;/a&gt;. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enroute/&apos;&gt;strona główna tej aplikacji&lt;/a&gt; zawiera również link do TestFlight.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="332"/>
+        <location filename="../../../src/Librarian.cpp" line="329"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Potrzebujemy pomocy z grafiką promocyjną dla sklepów z aplikacjami i filmami instruktażowymi. Jeśli jesteś grafikiem/video artystą i chciałbyś pomóc, skontaktuj się z nami.</translation>
     </message>
@@ -4883,32 +4886,32 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
         <translation type="vanished">Brak zainstalowanych map lotnicznych.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="397"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="408"/>
         <source>Please wait for the download to complete.</source>
         <translation>Proszę zaczekaj na zakończenie pobierania.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="398"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="409"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
         <translation>Aby zainstalować mapę, otwórz menu za pomocą przycisku menu w lewym górnym rogu tego ekranu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="399"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="410"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
         <translation>Wybierz &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; aby otworzyć stronę zarządzania mapami.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="510"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="521"/>
         <source>Airspaces up to %1</source>
         <translation>Przestrzenie powietrzne do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="513"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="524"/>
         <source>Downloading Maps and Data</source>
         <translation>Pobieranie map i danych</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="539"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="550"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Dane mapy</translation>
     </message>
@@ -4925,7 +4928,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
         <translation type="vanished">Tryb mapy: Północ u góry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="395"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="406"/>
         <source>No aviation map installed for your present location.</source>
         <translation>Nie zainstalowano map lotniczych dla twojej aktualnej lokalizacji.</translation>
     </message>
@@ -4938,7 +4941,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
         <translation type="vanished">Dane mapy - informacje o prawach autorskich</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="547"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="558"/>
         <source>Map Data Copyright Information</source>
         <translation>Dane mapy - informacje o prawach autorskich</translation>
     </message>
