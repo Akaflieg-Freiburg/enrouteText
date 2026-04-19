@@ -4198,7 +4198,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>For most airfields and navaids, the waypoint info dialog now shows the magnetic variation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Bei den meisten Flugplätzen und Navibationshilfen zeigt der Dialog &quot;Wegpunkt-Info&quot; jetzt die magnetische Variation an.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="321"/>
