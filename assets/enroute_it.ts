@@ -4066,7 +4066,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>For most airfields and navaids, the waypoint info dialog now shows the magnetic variation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Per la maggior parte degli aeroporti e radio aiuti, la finestra info mostra adesso la variazione magnetica.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="321"/>
@@ -7883,7 +7883,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="641"/>
         <source>Receiving heartbeat.</source>
-        <translation>Rilevazione dei battiti.</translation>
+        <translation>Rilevazione del segnale.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="645"/>
@@ -7899,7 +7899,7 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="655"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
         <translatorcomment>Could you please explain what is a &quot;heartbeat&quot; connection when we speak about receiving flight data?</translatorcomment>
-        <translation>Non è possibile ricevere la connessione dei battiti cardiaci in nessuna configurazione dati.</translation>
+        <translation>Non è possibile ricevere la connessione deil segnale in nessuna configurazione dati.</translation>
     </message>
     <message>
         <source>Not receiving heartbeat.</source>
