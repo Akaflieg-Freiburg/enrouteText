@@ -2950,7 +2950,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>For most airfields and navaids, the waypoint info dialog now shows the magnetic variation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pour la plupart des aérodromes et des navaids, le dialogue d’informations du point de passage affiche désormais la variation magnétique.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="321"/>
