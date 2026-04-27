@@ -3616,7 +3616,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>For most airfields and navaids, the waypoint info dialog now shows the magnetic variation.</source>
-        <translation type="unfinished"></translation>
+        <translation>Para la mayoría de los aeródromos y navaids, el diálogo de información del punto de ruta ahora muestra la variación magnética.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="321"/>
