@@ -4198,7 +4198,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>The moving map now shows specialized icons for the various traffic types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Moving Map zeigt jetzt spezielle Icons für die verschiedenen Arten von Verkehr.</translation>
     </message>
     <message>
         <source>For most airfields and navaids, the waypoint info dialog now shows the magnetic variation.</source>
