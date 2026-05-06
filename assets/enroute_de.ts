@@ -4197,8 +4197,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
+        <source>The moving map now shows specialized icons for the various traffic types.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>For most airfields and navaids, the waypoint info dialog now shows the magnetic variation.</source>
-        <translation>Bei den meisten Flugplätzen und Navibationshilfen zeigt der Dialog &quot;Wegpunkt-Info&quot; jetzt die magnetische Variation an.</translation>
+        <translation type="vanished">Bei den meisten Flugplätzen und Navibationshilfen zeigt der Dialog &quot;Wegpunkt-Info&quot; jetzt die magnetische Variation an.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="321"/>
@@ -4969,17 +4973,17 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <translation>Öffnen Sie die Kartenverwaltung über &lt;a href=&apos;xx&apos;&gt;Bibliothek/Karten und Daten&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="521"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="525"/>
         <source>Airspaces up to %1</source>
         <translation>Lufträume bis %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="524"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="528"/>
         <source>Downloading Maps and Data</source>
         <translation>Lade Karten und Daten herunter</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="550"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="554"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Kartendaten</translation>
     </message>
@@ -5025,7 +5029,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <translation type="vanished">Copyright der Kartendaten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="558"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="562"/>
         <source>Map Data Copyright Information</source>
         <translation>Copyright-Information zu den Kartendaten</translation>
     </message>
@@ -9008,72 +9012,63 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficFactor_WithPosition</name>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="61"/>
         <source>Aircraft</source>
-        <translation>Luftfahrzeug</translation>
+        <translation type="vanished">Luftfahrzeug</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="64"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="77"/>
         <source>Airship</source>
         <translation>Luftschiff</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="67"/>
         <source>Balloon</source>
-        <translation>Ballon</translation>
+        <translation type="vanished">Ballon</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="70"/>
         <source>Copter</source>
-        <translation>Hubschrauber</translation>
+        <translation type="vanished">Hubschrauber</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="73"/>
         <source>Drone</source>
-        <translation>Drohne</translation>
+        <translation type="vanished">Drohne</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="76"/>
         <source>Glider</source>
-        <translation>Segelflugzeug</translation>
+        <translation type="vanished">Segelflugzeug</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="79"/>
         <source>Hang glider</source>
-        <translation>Hängegleiter</translation>
+        <translation type="vanished">Hängegleiter</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="82"/>
         <source>Jet</source>
-        <translation>Jet</translation>
+        <translation type="vanished">Jet</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="85"/>
         <source>Paraglider</source>
-        <translation>Gleitschirm</translation>
+        <translation type="vanished">Gleitschirm</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="88"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="83"/>
         <source>Skydiver</source>
         <translation>Fallschirmspringer</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="91"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="86"/>
         <source>Static Obstacle</source>
         <translation>Stehendes Hindernis</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="94"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="80"/>
         <source>Tow Plane</source>
         <translation>Schleppflugzeug</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="97"/>
         <source>Traffic</source>
-        <translation>Verkehr</translation>
+        <translation type="vanished">Verkehr</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="102"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="94"/>
         <source>Position unknown</source>
         <translation>Position unbekannt</translation>
     </message>

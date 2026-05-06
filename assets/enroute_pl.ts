@@ -4134,7 +4134,7 @@ z danymi konta bankowego.
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
-        <source>For most airfields and navaids, the waypoint info dialog now shows the magnetic variation.</source>
+        <source>The moving map now shows specialized icons for the various traffic types.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4901,17 +4901,17 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
         <translation>Wybierz &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; aby otworzyć stronę zarządzania mapami.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="521"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="525"/>
         <source>Airspaces up to %1</source>
         <translation>Przestrzenie powietrzne do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="524"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="528"/>
         <source>Downloading Maps and Data</source>
         <translation>Pobieranie map i danych</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="550"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="554"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Dane mapy</translation>
     </message>
@@ -4941,7 +4941,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
         <translation type="vanished">Dane mapy - informacje o prawach autorskich</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="558"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="562"/>
         <source>Map Data Copyright Information</source>
         <translation>Dane mapy - informacje o prawach autorskich</translation>
     </message>
@@ -8850,72 +8850,63 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
 <context>
     <name>Traffic::TrafficFactor_WithPosition</name>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="61"/>
         <source>Aircraft</source>
-        <translation>Samolot</translation>
+        <translation type="vanished">Samolot</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="64"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="77"/>
         <source>Airship</source>
         <translation>Statek powietrzny</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="67"/>
         <source>Balloon</source>
-        <translation>Balon</translation>
+        <translation type="vanished">Balon</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="70"/>
         <source>Copter</source>
-        <translation>Helikopter</translation>
+        <translation type="vanished">Helikopter</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="73"/>
         <source>Drone</source>
-        <translation>Dron</translation>
+        <translation type="vanished">Dron</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="76"/>
         <source>Glider</source>
-        <translation>Szybowiec</translation>
+        <translation type="vanished">Szybowiec</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="79"/>
         <source>Hang glider</source>
-        <translation>Lotnia</translation>
+        <translation type="vanished">Lotnia</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="82"/>
         <source>Jet</source>
-        <translation>Odrzutowiec</translation>
+        <translation type="vanished">Odrzutowiec</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="85"/>
         <source>Paraglider</source>
-        <translation>Paralotnia</translation>
+        <translation type="vanished">Paralotnia</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="88"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="83"/>
         <source>Skydiver</source>
         <translation>Skoczek spadochronowy</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="91"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="86"/>
         <source>Static Obstacle</source>
         <translation>Statyczna przeszkoda</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="94"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="80"/>
         <source>Tow Plane</source>
         <translation>Samolot holujący</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="97"/>
         <source>Traffic</source>
-        <translation>Ruch</translation>
+        <translation type="vanished">Ruch</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="102"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="94"/>
         <source>Position unknown</source>
         <translation>Nieznana pozycja</translation>
     </message>

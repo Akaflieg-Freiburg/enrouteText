@@ -2803,11 +2803,6 @@ Message: Enroute Flight Navigation
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="318"/>
-        <source>For most airfields and navaids, the waypoint info dialog now shows the magnetic variation.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <location filename="../../../src/Librarian.cpp" line="321"/>
         <source>There are now specialized icons for obstacle NOTAMs and NOTAMs about drone flights. We thank Christian Engelhardt for the implementation!</source>
         <translation type="unfinished"></translation>
@@ -2912,6 +2907,11 @@ Message: Enroute Flight Navigation
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="318"/>
+        <source>The moving map now shows specialized icons for the various traffic types.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <location filename="../../../src/Librarian.cpp" line="329"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation type="unfinished"></translation>
@@ -2948,22 +2948,22 @@ Message: Enroute Flight Navigation
         <translation type="vanished">Mapa: Automatické centrování</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="521"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="525"/>
         <source>Airspaces up to %1</source>
         <translation>Letecké prostory do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="524"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="528"/>
         <source>Downloading Maps and Data</source>
         <translation>Stahuji mapy a data</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="550"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="554"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Mapové údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="558"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="562"/>
         <source>Map Data Copyright Information</source>
         <translation>Mapy - Copyright informace</translation>
     </message>
@@ -6024,72 +6024,63 @@ can get.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficFactor_WithPosition</name>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="61"/>
         <source>Aircraft</source>
-        <translation>Letadlo</translation>
+        <translation type="vanished">Letadlo</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="64"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="77"/>
         <source>Airship</source>
         <translation>Vzducholoď</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="67"/>
         <source>Balloon</source>
-        <translation>Balón</translation>
+        <translation type="vanished">Balón</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="70"/>
         <source>Copter</source>
-        <translation>Vrtulník</translation>
+        <translation type="vanished">Vrtulník</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="73"/>
         <source>Drone</source>
-        <translation>Dron</translation>
+        <translation type="vanished">Dron</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="76"/>
         <source>Glider</source>
-        <translation>Kluzák</translation>
+        <translation type="vanished">Kluzák</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="79"/>
         <source>Hang glider</source>
-        <translation>Závěsný kluzák</translation>
+        <translation type="vanished">Závěsný kluzák</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="82"/>
         <source>Jet</source>
-        <translation>Proudový letoun</translation>
+        <translation type="vanished">Proudový letoun</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="85"/>
         <source>Paraglider</source>
-        <translation>Paraglider</translation>
+        <translation type="vanished">Paraglider</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="88"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="83"/>
         <source>Skydiver</source>
         <translation>Parašutista</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="91"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="86"/>
         <source>Static Obstacle</source>
         <translation>Pevný bod</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="94"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="80"/>
         <source>Tow Plane</source>
         <translation>Vlečná</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="97"/>
         <source>Traffic</source>
-        <translation>Provoz</translation>
+        <translation type="vanished">Provoz</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="102"/>
+        <location filename="../../../src/traffic/TrafficFactor_WithPosition.cpp" line="94"/>
         <source>Position unknown</source>
         <translation>Neznámá poloha</translation>
     </message>
