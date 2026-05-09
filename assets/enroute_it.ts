@@ -4066,7 +4066,7 @@ con i dati del conto bancario.
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>The moving map now shows specialized icons for the various traffic types.</source>
-        <translation type="unfinished"></translation>
+        <translation>La mappa adesso mostra icone specifiche per i diversi tipi di traffico.</translation>
     </message>
     <message>
         <source>For most airfields and navaids, the waypoint info dialog now shows the magnetic variation.</source>
