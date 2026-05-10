@@ -4135,7 +4135,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>The moving map now shows specialized icons for the various traffic types.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na mapie wyświetlane są teraz specjalne ikony dla różnych typów ruchu.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="321"/>
