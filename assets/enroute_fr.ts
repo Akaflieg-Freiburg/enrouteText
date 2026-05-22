@@ -2950,7 +2950,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>The moving map now shows specialized icons for the various traffic types.</source>
-        <translation type="unfinished"></translation>
+        <translation>La carte mobile affiche désormais des icônes spécialisées pour les différents types de trafic.</translation>
     </message>
     <message>
         <source>For most airfields and navaids, the waypoint info dialog now shows the magnetic variation.</source>
