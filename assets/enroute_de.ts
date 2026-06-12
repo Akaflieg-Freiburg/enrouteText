@@ -88,7 +88,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="230"/>
         <source>Loading the aircraft &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current aircraft. Once overwritten, the current aircraft cannot be restored.</source>
-        <translation>Dieses Luftfahrzeug &lt;strong&gt;%1&lt;/strong&gt; laden überschreibt das aktuelle Luftfahrzeug. Es kann danach nicht wiederhergestellt werden.</translation>
+        <translation>Das Laden des Luftfahrzeugs &lt;strong&gt;%1&lt;/strong&gt; überschreibt das aktuelle Luftfahrzeug. Es kann danach nicht wiederhergestellt werden.</translation>
     </message>
     <message>
         <source>Remove from device?</source>
@@ -298,7 +298,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="239"/>
         <source>If available, Enroute Flight Navigation will always use the pressure altitude provided by an external traffic data receiver instead of the pressure altitude calculated from the pressure sensor of your mobile device.</source>
-        <translation>Wenn vorhanden, nutzt Enroute Flight Navigation immer die Druckhöhe aus einem externen Verkehrsdatenempfängers statt der errechneten Druckhöhe des Drucksensors Ihres Mobilgeräts.</translation>
+        <translation>Wenn vorhanden, nutzt Enroute Flight Navigation immer die Druckhöhe aus einem externen Verkehrsdatenempfänger statt der errechneten Druckhöhe des Drucksensors Ihres Mobilgeräts.</translation>
     </message>
     <message>
         <source>Horizontal Distances</source>
@@ -376,7 +376,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="674"/>
         <source>If you enable this option, Enroute Flight Navigation will use the pressure sensor of your mobile device to determine pressure altitude and vertical distances to airspaces.</source>
-        <translation>Ist diese Option aktiv, wird Enroute Flight Navigation den Drucksensor ihres mobilen Geräts verwenden, um die Druckhöhe und den vertikalen Abstand zu Lufträumen zu bestimmen.</translation>
+        <translation>Ist diese Option aktiv, wird Enroute Flight Navigation den Drucksensor Ihres mobilen Geräts verwenden, um die Druckhöhe und den vertikalen Abstand zu Lufträumen zu bestimmen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="675"/>
@@ -386,7 +386,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="678"/>
         <source>The pressure sensor of your device is probably not certified for use in aviation.</source>
-        <translation>Der Drucksensor ihres Geräts ist wahrscheinlich nicht Luftfahrt-zertifiziert.</translation>
+        <translation>Der Drucksensor Ihres Geräts ist wahrscheinlich nicht Luftfahrt-zertifiziert.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="679"/>
@@ -2305,7 +2305,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="50"/>
         <source>Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.</source>
-        <translation>Danke, dass Sie diese Flugnavigationsapp benutzen! Bevor es losgeht, müssen wir darauf hinweisen, dass &lt;strong&gt;diese App und die Luftfahrtdaten keinerlei Garantien bieten.&lt;/strong&gt;.</translation>
+        <translation>Danke, dass Sie diese Flugnavigationsapp benutzen! Bevor es losgeht, müssen wir darauf hinweisen, dass &lt;strong&gt;diese App und die Luftfahrtdaten keinerlei Garantien bieten&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="51"/>
@@ -3549,7 +3549,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="237"/>
         <source>This page presents four tabs with information about the app, its authors, the software license, and the current system.</source>
-        <translation>Diese Seite bietet Ihnen vier Reiter mit Infomationen über die App, ihre Autoren, die Softwarelizenz und das aktuelle System.</translation>
+        <translation>Diese Seite bietet Ihnen vier Reiter mit Informationen über die App, ihre Autoren, die Softwarelizenz und das aktuelle System.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="238"/>
@@ -3572,7 +3572,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 
 &lt;p&gt;Wenn die Qualität der Daten Sie überzeugt, können Sie die Erweiterung um das betreffende Land anfordern. Bitte eröffnen Sie &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enrouteServer/issues&quot;&gt;hier&lt;/a&gt; einen &quot;Issue&quot; mit Ihrer Anforderung. Bitte schreiben Sie uns, wer Sie sind, wo Sie fliegen und wie Sie sich von der Datenqualität überzeugt haben. Sind Ihnen die Daten nicht gut genug, sind Sie herzlich eingeladen, dem openAIP-Projekt beizutreten und zur Verbesserung der Daten beizutragen.&lt;/p&gt;
 
-&lt;p&gt;Notabene: Wir programmieren diese kostenlose App in unserer Freizeit, als Dienst an der Gemeinschaft. Ich muss leider darauf hinweisen: Leider müssen wir darauf hinweisen, dass unhöfliche Anforderungen kaum zum Ziel führen werden.&lt;/p&gt;</translation>
+&lt;p&gt;Notabene: Wir programmieren diese kostenlose App in unserer Freizeit, als Dienst an der Gemeinschaft. Leider müssen wir darauf hinweisen, dass unhöfliche Forderungen kaum zum Ziel führen werden.&lt;/p&gt;</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Authors&lt;/h3&gt;
@@ -4028,7 +4028,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
 &lt;h3&gt;Lizenz&lt;/h3&gt;
 
 &lt;p&gt;
-  das programm &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;
+  Das Programm &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;
   ist lizenziert unter der &lt;a
   href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU
   General Public License V3&lt;/a&gt; oder, nach Ihrer Wahl, jeder beliebigen späteren Version dieser Lizenz.
@@ -4304,7 +4304,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>At the user&apos;s request, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; may display external websites in an embedded browser window or ask the operating system to open external apps such as Google Maps.</source>
-        <translation>Auf Anforderung des Benutzers kann &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; externe Webseiten öffnen. Diese werden enteder in einem eingebetteten Browser angezeigt, oder das Betriebssystem wird eine externe App (wie z.B. Google Maps) öffnen.</translation>
+        <translation>Auf Anforderung des Benutzers kann &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; externe Webseiten öffnen. Diese werden entweder in einem eingebetteten Browser angezeigt, oder das Betriebssystem wird eine externe App (wie z.B. Google Maps) öffnen.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
@@ -4314,7 +4314,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
         <source>Users expect web browsers to follow hyperlinks immediately but may not expect the same behavior elsewhere in the app.</source>
-        <translation>Benutzer erwarten, dass der eingebette Browser jeden Link sofort öffnet. Ausserhalb des eingebetten Browsers werden die Benutzer unter Umständen ein anderes Verhalten erwarten.</translation>
+        <translation>Benutzer erwarten, dass der eingebettete Browser jeden Link sofort öffnet. Außerhalb des eingebetteten Browsers werden die Benutzer unter Umständen ein anderes Verhalten erwarten.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="284"/>
@@ -5573,7 +5573,7 @@ can get.&lt;/p&gt;
 
 &lt;p&gt;Wir haben große Pläne für &lt;strong&gt;Enroute Flight
 Navigation&lt;/strong&gt;, schauen Sie auf unsere 
-&lt;a href=&apos;https://github.com/Akaflieg-Freiburg/enroute/projects&apos;&gt;Projetseite
+&lt;a href=&apos;https://github.com/Akaflieg-Freiburg/enroute/projects&apos;&gt;Projektseite
 bei GitHub&lt;/a&gt;, was noch kommen soll.&lt;/p&gt;
 
 &lt;h3&gt;Übersetzungen&lt;/h3&gt;
@@ -6098,12 +6098,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="103"/>
         <source>Cabin pressure is the air pressure measured by your device.</source>
-        <translation>Kabinendruck ist der Luftdruck, den ihr Gerät misst.</translation>
+        <translation>Kabinendruck ist der Luftdruck, den Ihr Gerät misst.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="105"/>
         <source>Cabin temperature is the temperature measured by your device.</source>
-        <translation>Kabinentemperatur ist die Temperatur, die ihr Gerät misst.</translation>
+        <translation>Kabinentemperatur ist die Temperatur, die Ihr Gerät misst.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="110"/>
@@ -6514,7 +6514,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="118"/>
         <source>This file uses an projected coordinate reference system, which is not supported by Enroute Flight Navigation. Consult the manual for an explanation how to convert the file to geographic coordinates.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation>Das in dieser Datei verwendete Kartenprojektion wird von Enroute Flight Navigation nicht unterstützt. Das Handbuch erklärt, wie man die Datei so umwandeln kann, dass übliche geografische Koordinaten verwendet werden.</translation>
+        <translation>Die in dieser Datei verwendete Kartenprojektion wird von Enroute Flight Navigation nicht unterstützt. Das Handbuch erklärt, wie man die Datei so umwandeln kann, dass übliche geografische Koordinaten verwendet werden.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="124"/>
@@ -7675,7 +7675,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="315"/>
         <source>If you use Enroute Flight Navigation together with a flight simulator, you must choose the traffic receiver as a primary position data source. Flight simulators broadcast position information of simulated aircraft via Wi-Fi, using the same protocol that a traffic data receiver would use in a real plane. As long as the built-in satnav receiver is selected, all position information provided by your flight simulator is ignored.</source>
-        <translation>Beim Einsatz von Enroute Flight Navigation mit einem Flugsimulator müssen Sie den Verkehrsdatenempänger als Positionsdatenquelle wählen. Flugsimulatoren strahlen Positionsdaten simulierter Luftfahrzeuge über WLAN mit dem selben Protokoll ab wie ein Verkehrsdatenempfänger in einem echten Flugzeug. Solange der interne GPS-Empfänger ausgewählt ist, werden alle Positionsdaten aus dem Flugsimulator ignoriert.</translation>
+        <translation>Beim Einsatz von Enroute Flight Navigation mit einem Flugsimulator müssen Sie den Verkehrsdatenempfänger als Positionsdatenquelle wählen. Flugsimulatoren strahlen Positionsdaten simulierter Luftfahrzeuge über WLAN mit dem selben Protokoll ab wie ein Verkehrsdatenempfänger in einem echten Flugzeug. Solange der interne GPS-Empfänger ausgewählt ist, werden alle Positionsdaten aus dem Flugsimulator ignoriert.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="362"/>
@@ -8411,7 +8411,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="107"/>
         <source>The Protocol is not supported on this platform.</source>
-        <translation>Diese Plattform untertützt das Protokoll nicht.</translation>
+        <translation>Diese Plattform unterstützt das Protokoll nicht.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="110"/>
@@ -8509,7 +8509,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="139"/>
         <source>The attempt to read from or write to the remote device failed.</source>
-        <translation>Schreibt–/Leseversuche zum bzw. vom entfernten Gerät sind fehlgeschlagen.</translation>
+        <translation>Schreib-/Leseversuche zum bzw. vom entfernten Gerät sind fehlgeschlagen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="142"/>
@@ -8564,7 +8564,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="187"/>
         <source>Nordic UART Service found. Requesting service characteristics.</source>
-        <translation>Nordic UART Service gefunden Frage Servicemerkmale an.</translation>
+        <translation>Nordic UART Service gefunden. Frage Servicemerkmale an.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="199"/>
@@ -9408,7 +9408,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="134"/>
         <source>Unable to show side view: No valid track data.</source>
-        <translation>Seitenansicht möglich: Keine gültigen Track-Daten.</translation>
+        <translation>Seitenansicht nicht möglich: Keine gültigen Track-Daten.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="141"/>
@@ -9560,7 +9560,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="684"/>
         <source>In order to show a satellite view, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open Google Earth or Google Maps in an external web browser or a dedicated app.</source>
-        <translation>Zur Anzeige der Satellitensicht wird &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; das Öffnen von Google Earth oder Google Maps in einem externen Browser oder einen speziellen App anstoßen.</translation>
+        <translation>Zur Anzeige der Satellitensicht wird &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; das Öffnen von Google Earth oder Google Maps in einem externen Browser oder einer speziellen App öffnen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="685"/>
@@ -10317,7 +10317,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="336"/>
         <source>trace amount</source>
         <translatorcomment>hier brauche ich einen Zusammenhang für die richtige Übersetzung</translatorcomment>
-        <translation>(trace amount - ?)</translation>
+        <translation>Spuren</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="344"/>
@@ -10442,7 +10442,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="608"/>
         <source>medium (friction coefficient 0.30 to 0.35)</source>
-        <translation>mittel (Reibungskoeffizient0,3 bis 0,35)</translation>
+        <translation>mittel (Reibungskoeffizient 0,3 bis 0,35)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="611"/>
@@ -10847,7 +10847,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1030"/>
         <source>Moderate rime icing in cloud</source>
-        <translation>Mäßige gemischte Vereisung in Wolken</translation>
+        <translation>Mäßiger Eisansatz in Wolken</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1033"/>
@@ -11218,7 +11218,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1352"/>
         <source>hail showers</source>
-        <translation>vor kurzem Wind mit Staub</translation>
+        <translation>Hagelschauer</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1355"/>
@@ -11278,12 +11278,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1406"/>
         <source>ice pellet precipitation</source>
-        <translation>schwerer Hagelschlag</translation>
+        <translation>Niederschlag mit Eiskugeln</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1409"/>
         <source>ice pellet precipitation in the vicinity</source>
-        <translation>schwerer Hagelschlag in der Nähe</translation>
+        <translation>Niederschlag mit Eiskugeln in der Nähe</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1412"/>
@@ -11468,7 +11468,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1730"/>
         <source>snow grain precipitation</source>
-        <translation></translation>
+        <translation>Schneegriesel</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1733"/>
@@ -11598,7 +11598,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1898"/>
         <source>light thunderstorm with small hail</source>
-        <translation>leichtes Gewitter mit Forstgraupel</translation>
+        <translation>leichtes Gewitter mit Frostgraupel</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1901"/>
