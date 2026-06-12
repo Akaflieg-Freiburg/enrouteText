@@ -48,29 +48,29 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="32"/>
         <source>Aircraft Library</source>
-        <translation>Lfz-Bibliothek</translation>
+        <translation>Lfz.-Bibliothek</translation>
     </message>
     <message>
         <source>Filter Aircraft Names</source>
-        <translation type="vanished">Filter Lfz-Namen</translation>
+        <translation type="vanished">Filter Lfz.-Namen</translation>
     </message>
     <message>
         <source>Rename …</source>
-        <translation type="vanished">Umbenennen …</translation>
+        <translation type="vanished">Umbenennen…</translation>
     </message>
     <message>
         <source>Remove …</source>
-        <translation type="vanished">Löschen …</translation>
+        <translation type="vanished">Löschen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="170"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft available. To add a route here, chose &apos;Aircraft&apos; from the main menu, and save the current aircraft to the library.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Kein Luftfahrzeug verfügbar. Um hier eine Route hinzuzufügen, wählen Sie &apos;Luftfahrzeug&apos; im Hauptmenü und speichern Sie das aktuelle Lfz. in der Bibliothek.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Kein Luftfahrzeug verfügbar. Um hier eine Route hinzuzufügen, wählen Sie &apos;Luftfahrzeug&apos; im Hauptmenü und speichern Sie das aktuelle Luftfahrzeug in der Bibliothek.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="171"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft match your filter criteria.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Kein Lfz. passend zum Filter gefunden.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;Kein Luftfahrzeug passend zum Filter gefunden.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="188"/>
@@ -79,7 +79,7 @@
     </message>
     <message>
         <source>An error occurred…</source>
-        <translation type="vanished">Es ist ein Fehler aufgetreten ...</translation>
+        <translation type="vanished">Es ist ein Fehler aufgetreten…</translation>
     </message>
     <message>
         <source>Overwrite current aircraft?</source>
@@ -111,7 +111,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="133"/>
         <source>Remove…</source>
-        <translation>Entfernen ...</translation>
+        <translation>Entfernen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="202"/>
@@ -173,11 +173,11 @@
     </message>
     <message>
         <source>View Library …</source>
-        <translation type="vanished">Bibliothek betrachten …</translation>
+        <translation type="vanished">Bibliothek betrachten…</translation>
     </message>
     <message>
         <source>Save to library …</source>
-        <translation type="vanished">In Bibliothek speichern …</translation>
+        <translation type="vanished">In Bibliothek speichern…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="94"/>
@@ -222,7 +222,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="276"/>
         <source>Statute Miles</source>
-        <translation>Britische Meilen</translation>
+        <translation>Landmeilen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="281"/>
@@ -257,7 +257,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="175"/>
         <source>Enter the callsign of your aircraft. Together with the Hex ID, the name is used to filter out your own aircraft when receiving traffic data from the Open Glider Network, preventing it from being displayed twice on the map.</source>
-        <translation>Geben Sie Ihr Rufzeichen ein. Zusammen mit der Hex-ID dient es zum Ausfiltern Ihres eigenen Flugzeugs aus den empfangenen Daten des Open Glider Network, damit es nicht doppelt dargestellt wird.</translation>
+        <translation>Geben Sie Ihr Rufzeichen ein. Zusammen mit der Hex-ID dient es zum Ausfiltern Ihres eigenen Luftfahrzeugs aus den empfangenen Daten des Open Glider Network, damit es nicht doppelt dargestellt wird.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="182"/>
@@ -273,12 +273,12 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="205"/>
         <source>Enter the “ICAO 24-bit address” of your transponder (e.g., “3D1C11”), the “FLARM Radio ID” of your FLARM device (e.g., “3EDE26”) or the “Open Glider Network Source ID” of your aircraft (e.g., “ICA3D1C11”, “FLR123456”). Together with the name, this identifier is used to filter out your own aircraft when receiving traffic data from the Open Glider Network, preventing it from being displayed twice on the map. If you do not use Open Glider Network traffic data, you can leave this field empty.</source>
-        <translation>Geben Sie die “ICAO 24-Bit-Adresse” Ihres Transponders ein (z.B. “3D1C11”), die “FLARM Radio-ID” Ihres FLARM-Geräts (z.B. “3EDE26”) oder die “Open Glider Network Source ID” Ihres Flugzeugs (z.B. “ICA3D1C11”, “FLR123456”). Zusammen mit dem Rufzeichen dient dieses Merkmal zum Ausfiltern Ihres eigenen Flugzeugs aus den empfangenen Daten des Open Glider Network, um seine doppelte Darstellung zu vermeiden. Wenn Sie die Verkehrsdaten des Open Glider Network nicht nutzen, lassen Sie dieses Feld leer.</translation>
+        <translation>Geben Sie die “ICAO 24-Bit-Adresse” Ihres Transponders ein (z.B. “3D1C11”), die “FLARM Radio-ID” Ihres FLARM-Geräts (z.B. “3EDE26”) oder die “Open Glider Network Source ID” Ihres Luftfahrzeugs (z.B. “ICA3D1C11”, “FLR123456”). Zusammen mit dem Rufzeichen dient dieses Merkmal zum Ausfiltern Ihres eigenen Luftfahrzeugs aus den empfangenen Daten des Open Glider Network, um seine doppelte Darstellung zu vermeiden. Wenn Sie die Verkehrsdaten des Open Glider Network nicht nutzen, lassen Sie dieses Feld leer.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="207"/>
         <source>You can enter multiple codes separated by spaces if your aircraft has multiple identifiers. The comparison is case-insensitive.</source>
-        <translation>Hat Ihr Flugzeug mehrere Identifier, können Sie diese durch Leerzeichen getrennt eingeben. Groß- und Kleinschreibung sind gleichwertig.</translation>
+        <translation>Hat Ihr Luftfahrzeug mehrere Identifier, können Sie diese durch Leerzeichen getrennt eingeben. Groß- und Kleinschreibung sind gleichwertig.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="228"/>
@@ -293,7 +293,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="237"/>
         <source>If this option is checked, Enroute Flight Navigation will use the pressure sensor of your mobile device to measure the pressure altitude and determine vertical distances to airspaces. This option is only available if your device has a pressure sensor.</source>
-        <translation>Ist diese Option gesetzt, nutzt  Enroute Flight Navigation den Drucksensor Ihres Mobilgeräts zur Messung der Druckhöhe und Bestimmung des vertikalen Abstands zu Lufträumen. Diese Option ist nur verfügbar bei vorhandenem Drucksensor im Mobilgerät.</translation>
+        <translation>Ist diese Option gesetzt, nutzt Enroute Flight Navigation den Drucksensor Ihres Mobilgeräts zur Messung der Druckhöhe und Bestimmung des vertikalen Abstands zu Lufträumen. Diese Option ist nur verfügbar bei vorhandenem Drucksensor im Mobilgerät.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="239"/>
@@ -310,7 +310,7 @@
     </message>
     <message>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to horizontal speed indications.</source>
-        <translation type="vanished">Wählen Sie für dieses Lfz. Ihre Maßeinheiten. Diese gelten dann auch für die Anzeige der Horizontalgeschwindigkeit.</translation>
+        <translation type="vanished">Wählen Sie für dieses Luftfahrzeug Ihre Maßeinheiten. Diese gelten dann auch für die Anzeige der Horizontalgeschwindigkeit.</translation>
     </message>
     <message>
         <source>Vertical Distances</source>
@@ -318,7 +318,7 @@
     </message>
     <message>
         <source>Choose the preferred units of measurement for this aircraft. The units also apply to vertical speed indications.</source>
-        <translation type="vanished">Wählen Sie für dieses Lfz. Ihre Maßeinheiten. Diese gelten dann auch für die Anzeige der Vertikalgeschwindigkeit.</translation>
+        <translation type="vanished">Wählen Sie für dieses Luftfahrzeug Ihre Maßeinheiten. Diese gelten dann auch für die Anzeige der Vertikalgeschwindigkeit.</translation>
     </message>
     <message>
         <source>Gallons</source>
@@ -424,7 +424,7 @@
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="30"/>
         <source>Save Aircraft…</source>
-        <translation>Luftfahrzeug speichern ...</translation>
+        <translation>Luftfahrzeug speichern…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="63"/>
@@ -452,7 +452,7 @@
     </message>
     <message>
         <source>An error occurred…</source>
-        <translation type="vanished">Es ist ein Fehler aufgetreten ...</translation>
+        <translation type="vanished">Es ist ein Fehler aufgetreten…</translation>
     </message>
     <message>
         <source>Overwrite aircraft?</source>
@@ -1085,12 +1085,12 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="189"/>
         <source>Disconnecting...</source>
-        <translation>Löse Verbindung...</translation>
+        <translation>Löse Verbindung…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="191"/>
         <source>Reconnecting...</source>
-        <translation>Verbinde erneut ...</translation>
+        <translation>Verbinde erneut…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="192"/>
@@ -1383,7 +1383,7 @@ anderes dazu sagen können.&lt;/p&gt;
     </message>
     <message>
         <source>Error reading TripKip: No charts imported.</source>
-        <translation type="vanished">Fehler beim Lesen des Tripkits: Keine Karten importiert.</translation>
+        <translation type="vanished">Fehler beim Lesen des TripKits: Keine Karten importiert.</translation>
     </message>
     <message>
         <source>Error reading TripKip: Only %1 out of %2 charts were successfully imported.</source>
@@ -1419,7 +1419,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <name>DataManagement::Downloadable</name>
     <message>
         <source>downloading … %1% complete</source>
-        <translation type="vanished">Download … %1% abgeschlossen</translation>
+        <translation type="vanished">Download… %1% abgeschlossen</translation>
     </message>
     <message>
         <source>installed • %1</source>
@@ -1666,7 +1666,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="215"/>
         <source>downloading … %1% complete</source>
-        <translation>Download … %1% abgeschlossen</translation>
+        <translation>Download… %1% abgeschlossen</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="222"/>
@@ -1942,7 +1942,7 @@ anderes dazu sagen können.&lt;/p&gt;
     </message>
     <message>
         <source>Download all updates…</source>
-        <translation type="vanished">Alle Aktualisierungen herunterladen …</translation>
+        <translation type="vanished">Alle Aktualisierungen herunterladen…</translation>
     </message>
     <message>
         <source>Aviation Maps</source>
@@ -1974,7 +1974,7 @@ anderes dazu sagen können.&lt;/p&gt;
     </message>
     <message>
         <source>How to request additional aviation maps…</source>
-        <translation type="vanished">Wie man zusätzliche Luftfahrtkarten anfordert ...</translation>
+        <translation type="vanished">Wie man zusätzliche Luftfahrtkarten anfordert…</translation>
     </message>
     <message>
         <source>Request additional aviation maps</source>
@@ -1990,7 +1990,7 @@ anderes dazu sagen können.&lt;/p&gt;
     </message>
     <message>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Download läuft …&lt;/h3&gt;&lt;p&gt;Bitte einen Moment Geduld, während wir die Liste der verfügbaren Karten herunterladen…&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Download läuft…&lt;/h3&gt;&lt;p&gt;Bitte einen Moment Geduld, während wir die Liste der verfügbaren Karten herunterladen…&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Download list of maps…</source>
@@ -2056,7 +2056,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="211"/>
         <source>Download all updates…</source>
-        <translation>Alle Aktualisierungen herunterladen …</translation>
+        <translation>Alle Aktualisierungen herunterladen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="226"/>
@@ -2096,7 +2096,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="257"/>
         <source>Trip Kits (*.zip)</source>
-        <translation>Trip-Kits (*.zip)</translation>
+        <translation>TripKits (*.zip)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="258"/>
@@ -2136,7 +2136,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="498"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Download läuft …&lt;/h3&gt;&lt;p&gt;Bitte einen Moment Geduld, während wir die Liste der verfügbaren Karten herunterladen…&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;Download läuft…&lt;/h3&gt;&lt;p&gt;Bitte einen Moment Geduld, während wir die Liste der verfügbaren Karten herunterladen…&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="545"/>
@@ -2484,23 +2484,23 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <source>Save to library …</source>
-        <translation type="vanished">In Bibliothek speichern …</translation>
+        <translation type="vanished">In Bibliothek speichern…</translation>
     </message>
     <message>
         <source>View Library …</source>
-        <translation type="vanished">Bibliothek betrachten …</translation>
+        <translation type="vanished">Bibliothek betrachten…</translation>
     </message>
     <message>
         <source>Import …</source>
-        <translation type="vanished">Importieren …</translation>
+        <translation type="vanished">Importieren…</translation>
     </message>
     <message>
         <source>Export …</source>
-        <translation type="vanished">Exportieren …</translation>
+        <translation type="vanished">Exportieren…</translation>
     </message>
     <message>
         <source>Share …</source>
-        <translation type="vanished">Teilen …</translation>
+        <translation type="vanished">Teilen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="311"/>
@@ -2697,7 +2697,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <source>Open in other app …</source>
-        <translation type="vanished">In anderer App öffnen …</translation>
+        <translation type="vanished">In anderer App öffnen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="381"/>
@@ -2792,11 +2792,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <source>Info …</source>
-        <translation type="vanished">Info …</translation>
+        <translation type="vanished">Info…</translation>
     </message>
     <message>
         <source>Import …</source>
-        <translation type="vanished">Importieren …</translation>
+        <translation type="vanished">Importieren…</translation>
     </message>
     <message>
         <source>Filter Flight Route Names</source>
@@ -2804,11 +2804,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <source>Export …</source>
-        <translation type="vanished">Exportieren …</translation>
+        <translation type="vanished">Exportieren…</translation>
     </message>
     <message>
         <source>Share …</source>
-        <translation type="vanished">Teilen …</translation>
+        <translation type="vanished">Teilen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="247"/>
@@ -2822,7 +2822,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <source>Open in other app …</source>
-        <translation type="vanished">In anderer App öffnen …</translation>
+        <translation type="vanished">In anderer App öffnen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="302"/>
@@ -2893,11 +2893,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <source>Rename …</source>
-        <translation type="vanished">Umbenennen …</translation>
+        <translation type="vanished">Umbenennen…</translation>
     </message>
     <message>
         <source>Remove …</source>
-        <translation type="vanished">Löschen …</translation>
+        <translation type="vanished">Löschen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="393"/>
@@ -2916,7 +2916,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <source>An error occurred…</source>
-        <translation type="vanished">Fehler aufgetreten …</translation>
+        <translation type="vanished">Fehler aufgetreten…</translation>
     </message>
     <message>
         <source>Overwrite current flight route?</source>
@@ -3045,7 +3045,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="30"/>
         <source>Save Flight Route…</source>
-        <translation>Route speichern …</translation>
+        <translation>Route speichern…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="60"/>
@@ -3082,7 +3082,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <source>An error occurred…</source>
-        <translation type="vanished">Es ist ein Fehler aufgetreten …</translation>
+        <translation type="vanished">Es ist ein Fehler aufgetreten…</translation>
     </message>
 </context>
 <context>
@@ -3136,7 +3136,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="145"/>
         <source>Error reading TripKip: No charts imported.</source>
-        <translation>Fehler beim Lesen des Tripkits: Keine Karten importiert.</translation>
+        <translation>Fehler beim Lesen des TripKits: Keine Karten importiert.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="149"/>
@@ -3259,7 +3259,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="99"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; seems to contain an zip file without the data required in a tripkit.</source>
-        <translation>Die Datei &lt;strong&gt;%1&lt;/strong&gt; enthält offenbar eine ZIP-Datei ohne die nötigen Daten eines Tripkits.</translation>
+        <translation>Die Datei &lt;strong&gt;%1&lt;/strong&gt; enthält offenbar eine ZIP-Datei ohne die nötigen Daten eines TripKits.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="104"/>
@@ -3298,7 +3298,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     </message>
     <message>
         <source>In order to find the relevant geographic coordinate, the website &lt;strong&gt;%1&lt;/strong&gt; must briefly be opened in an embedded web browser window.</source>
-        <translation type="vanished">Zum Auffinden der geographischen Koordinaten muss die Webseite &lt;strong&gt;%1&lt;/strong&gt; kurz  in einem eingebetteten Browserfenster geöffnet werden.</translation>
+        <translation type="vanished">Zum Auffinden der geographischen Koordinaten muss die Webseite &lt;strong&gt;%1&lt;/strong&gt; kurz in einem eingebetteten Browserfenster geöffnet werden.</translation>
     </message>
     <message>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not control this website.</source>
@@ -3383,11 +3383,11 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="545"/>
         <source>Extracting and converting files from the trip kit. Please do not interrupt or close the app.</source>
-        <translation>Extrahiere und konvertiere Tripkit-Dateien... Bitte Vorgang nicht unterbrechen oder die App schließen.</translation>
+        <translation>Extrahiere und konvertiere TripKit-Dateien… Bitte Vorgang nicht unterbrechen oder die App schließen.</translation>
     </message>
     <message>
         <source>Extracting and converting files from the trip kit.</source>
-        <translation type="vanished">Extrahiere und konvertiere Dateien aus dem Tripkit.</translation>
+        <translation type="vanished">Extrahiere und konvertiere Dateien aus dem TripKit.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="204"/>
@@ -3412,7 +3412,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="493"/>
         <source>Import Trip Kit?</source>
-        <translation>Tripkit importieren?</translation>
+        <translation>TripKit importieren?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="497"/>
@@ -3422,7 +3422,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="509"/>
         <source>Trip kit imported</source>
-        <translation>Tripkit importiert</translation>
+        <translation>TripKit importiert</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="519"/>
@@ -5779,7 +5779,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <name>Platform::Notifier</name>
     <message>
         <source>Downloading map data…</source>
-        <translation type="vanished">Kartendaten werden heruntergeladen …</translation>
+        <translation type="vanished">Kartendaten werden heruntergeladen…</translation>
     </message>
     <message>
         <source>Downloading map and data…</source>
@@ -6376,7 +6376,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <source>The trip kit %1 does not contain any charts.</source>
-        <translation type="vanished">Das Tripkit %1 enthält keinerlei Karten.</translation>
+        <translation type="vanished">Das TripKit %1 enthält keinerlei Karten.</translation>
     </message>
     <message>
         <source>Unable to find georeferencing data for the file %1.</source>
@@ -6426,13 +6426,13 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/fileFormats/TripKit.cpp" line="160"/>
         <source>The trip kit does not contain any charts.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation>Das Tripkit enthält keinerlei Karten.</translation>
+        <translation>Das TripKit enthält keinerlei Karten.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="190"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation>Die Koordinaten für den Eintrag &apos;%1&apos; im Tripkit sind ungültig.</translation>
+        <translation>Die Koordinaten für den Eintrag &apos;%1&apos; im TripKit sind ungültig.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/ZipFile.cpp" line="37"/>
@@ -6865,7 +6865,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="96"/>
         <source>Serial Port Service</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation>Service:  Serieller Port</translation>
+        <translation>Service: Serieller Port</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="141"/>
@@ -7364,7 +7364,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <source>How to connect your traffic receiver…</source>
-        <translation type="vanished">Wie man sich mit dem Verkehrsdatenempfänger verbindet ...</translation>
+        <translation type="vanished">Wie man sich mit dem Verkehrsdatenempfänger verbindet…</translation>
     </message>
     <message>
         <source>Terrain Data Missing</source>
@@ -7566,7 +7566,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="397"/>
         <source>Connect to a traffic receiver…</source>
-        <translation>Verbinde mit einem Verkehrsdatenempfänger …</translation>
+        <translation>Verbinde mit einem Verkehrsdatenempfänger…</translation>
     </message>
     <message>
         <source>Connect to the SafeSky app…</source>
@@ -7575,7 +7575,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="405"/>
         <source>Connect to a flight simulator…</source>
-        <translation>Verbinde mit einem Flugsimulator …</translation>
+        <translation>Verbinde mit einem Flugsimulator…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="640"/>
@@ -7675,7 +7675,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="315"/>
         <source>If you use Enroute Flight Navigation together with a flight simulator, you must choose the traffic receiver as a primary position data source. Flight simulators broadcast position information of simulated aircraft via Wi-Fi, using the same protocol that a traffic data receiver would use in a real plane. As long as the built-in satnav receiver is selected, all position information provided by your flight simulator is ignored.</source>
-        <translation>Beim Einsatz von Enroute Flight Navigation mit einem Flugsimulator müssen Sie den Verkehrsdatenempfänger als Positionsdatenquelle wählen. Flugsimulatoren strahlen Positionsdaten simulierter Luftfahrzeuge über WLAN mit dem selben Protokoll ab wie ein Verkehrsdatenempfänger in einem echten Flugzeug. Solange der interne GPS-Empfänger ausgewählt ist, werden alle Positionsdaten aus dem Flugsimulator ignoriert.</translation>
+        <translation>Beim Einsatz von Enroute Flight Navigation mit einem Flugsimulator müssen Sie den Verkehrsdatenempfänger als Positionsdatenquelle wählen. Flugsimulatoren strahlen Positionsdaten simulierter Luftfahrzeuge über WLAN mit demselben Protokoll ab wie ein Verkehrsdatenempfänger in einem echten Flugzeug. Solange der interne GPS-Empfänger ausgewählt ist, werden alle Positionsdaten aus dem Flugsimulator ignoriert.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="362"/>
@@ -7771,7 +7771,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <source>How to connect your flight simulator…</source>
-        <translation type="vanished">Mit Ihrem Flugsimulator verbinden ...</translation>
+        <translation type="vanished">Mit Ihrem Flugsimulator verbinden…</translation>
     </message>
     <message>
         <source>Upper airspaces hidden</source>
@@ -8088,7 +8088,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="654"/>
         <source>Another FLARM device with the same Radio ID is being received. Alarms are suppressed for the relevant device.</source>
-        <translation>Anderes FLARM-Gerät mit der selben &apos;Radio-ID&apos; empfangen. Alarme für das betreffende Gerät werden unterdrückt.</translation>
+        <translation>Anderes FLARM-Gerät mit derselben &apos;Radio-ID&apos; empfangen. Alarme für das betreffende Gerät werden unterdrückt.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="658"/>
@@ -8327,7 +8327,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="106"/>
         <source>Invalid data (certificate, key, cypher, etc.) was provided and its use resulted in an error in the SSL library.</source>
-        <translation>Ungültige Daten (Zertifikat, Schlüssel, Chiffre ...) führten zu einem Fehler in der SSL-Library.</translation>
+        <translation>Ungültige Daten (Zertifikat, Schlüssel, Chiffre usw.) führten zu einem Fehler in der SSL-Library.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="109"/>
@@ -8431,37 +8431,37 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="127"/>
         <source>The socket is not connected.</source>
-        <translation>Anschluss nicht verbunden.</translation>
+        <translation>Socket nicht verbunden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="130"/>
         <source>The socket is querying connection parameters.</source>
-        <translation>Der Anschluss erfragt Verbindungsparameter.</translation>
+        <translation>Der Socket erfragt Verbindungsparameter.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="133"/>
         <source>The socket is attempting to connect.</source>
-        <translation>Der Anschluss versucht sich zu verbinden.</translation>
+        <translation>Der Socket versucht sich zu verbinden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="136"/>
         <source>The socket is connected.</source>
-        <translation>Der Anschluss wurde verbunden.</translation>
+        <translation>Der Socket wurde verbunden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="139"/>
         <source>The socket is bound to a local address and port.</source>
-        <translation>Der Anschluss ist mit lokaler Adresse und lokalem Port verbunden.</translation>
+        <translation>Der Socket ist mit lokaler Adresse und lokalem Port verbunden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="142"/>
         <source>The socket is connected and will be closed once all pending data is written to the socket.</source>
-        <translation>Der Anschluss ist verbunden und wird geschlossen werden, sobald alle anstehenden Daten dorthin geschrieben wurden.</translation>
+        <translation>Der Socket ist verbunden und wird geschlossen werden, sobald alle anstehenden Daten dorthin geschrieben wurden.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="145"/>
         <source>The socket is listening for incoming connections.</source>
-        <translation>Der Anschluss wartet auf eingehende Verbindungen.</translation>
+        <translation>Der Socket wartet auf eingehende Verbindungen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="165"/>
@@ -8584,7 +8584,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="307"/>
         <source>Device found. Connecting...</source>
-        <translation>Gerät gefunden. Stelle die Verbindung her ...</translation>
+        <translation>Gerät gefunden. Stelle die Verbindung her…</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="315"/>
@@ -9273,7 +9273,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="476"/>
         <source>TThis is the altitude displayed on the aircraft&apos;s altimeter when set to the standard pressure of 1013.2hPa. This is also the altitude shown on the transponder.</source>
-        <translation>Dies ist die Höhe in der Höhenmesseranzeige, wenn dieser auf den Standarddruck von 1013.2 hPa eingestellt ist. Sie wird auch vom Transponder angezeigt.</translation>
+        <translation>Dies ist die Höhe in der Höhenmesseranzeige, wenn dieser auf den Standarddruck von 1013,2 hPa eingestellt ist. Sie wird auch vom Transponder angezeigt.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="502"/>
@@ -9294,7 +9294,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="517"/>
         <source>Traffic is considered relevant if the vertical distance to the traffic opponent is less than 1,500 m and the horizontal distance is less than 20 NM.</source>
-        <translation>Verkehr gilt als relevant bei einem vertikalen Abstand unter 1,500 m und einem horizontalen Abstand unter 20 NM.</translation>
+        <translation>Verkehr gilt als relevant bei einem vertikalen Abstand unter 1.500 m und einem horizontalen Abstand unter 20 NM.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="528"/>
@@ -9308,12 +9308,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="603"/>
         <source>Disconnecting...</source>
-        <translation>Löse die Verbindung ...</translation>
+        <translation>Löse die Verbindung…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="605"/>
         <source>Reconnecting...</source>
-        <translation>Verbinde erneut ...</translation>
+        <translation>Verbinde erneut…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="606"/>
@@ -9337,24 +9337,24 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="576"/>
         <source>Connect to a traffic receiver…</source>
-        <translation>Verbinde mit einem Verkehrsdatenempfänger …</translation>
+        <translation>Verbinde mit einem Verkehrsdatenempfänger…</translation>
     </message>
     <message>
         <source>Connect to the SafeSky app…</source>
-        <translation type="vanished">Verbinde mit der SafeSky-App …</translation>
+        <translation type="vanished">Verbinde mit der SafeSky-App…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="585"/>
         <source>Connect to a flight simulator…</source>
-        <translation>Verbinden mit einem Flugsimulator …</translation>
+        <translation>Verbinden mit einem Flugsimulator…</translation>
     </message>
     <message>
         <source>How to connect your traffic receiver…</source>
-        <translation type="vanished">Mit Ihrem Verkehrsdatenempfänger verbinden ...</translation>
+        <translation type="vanished">Mit Ihrem Verkehrsdatenempfänger verbinden…</translation>
     </message>
     <message>
         <source>How to connect your flight simulator…</source>
-        <translation type="vanished">Mit Ihrem Flugsimulator verbinden ...</translation>
+        <translation type="vanished">Mit Ihrem Flugsimulator verbinden…</translation>
     </message>
     <message>
         <source>Connect to Traffic Receiver</source>
@@ -9540,17 +9540,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="613"/>
         <source>Add…</source>
-        <translation>Hinzufügen ...</translation>
+        <translation>Hinzufügen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="643"/>
         <source>Edit…</source>
-        <translation>Bearbeiten ...</translation>
+        <translation>Bearbeiten…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="625"/>
         <source>Remove…</source>
-        <translation>Entfernen ...</translation>
+        <translation>Entfernen…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="571"/>
@@ -9823,15 +9823,15 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <source>Import …</source>
-        <translation type="vanished">Importieren …</translation>
+        <translation type="vanished">Importieren…</translation>
     </message>
     <message>
         <source>Share …</source>
-        <translation type="vanished">Teilen …</translation>
+        <translation type="vanished">Teilen…</translation>
     </message>
     <message>
         <source>Export …</source>
-        <translation type="vanished">Exportieren …</translation>
+        <translation type="vanished">Exportieren…</translation>
     </message>
     <message>
         <source>Import…</source>
@@ -9887,7 +9887,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <source>Open in other app …</source>
-        <translation type="vanished">In anderer App öffnen …</translation>
+        <translation type="vanished">In anderer App öffnen…</translation>
     </message>
     <message>
         <source>… in GeoJSON format</source>
@@ -9911,7 +9911,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <source>Remove …</source>
-        <translation type="vanished">Löschen …</translation>
+        <translation type="vanished">Löschen…</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
@@ -10108,7 +10108,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="305"/>
         <source>Remove…</source>
-        <translation>Löschen ...</translation>
+        <translation>Löschen…</translation>
     </message>
     <message>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, double-tap on a point in the moving map.&lt;/p&gt;</source>
@@ -10180,7 +10180,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAF data from the Aviation Weather Center…&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Download läuft ...&lt;/h3&gt;&lt;p&gt;Bitte warten, während wir die METAR/TAF-Daten vom Aviation Weather Center herunterladen ...&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Download läuft…&lt;/h3&gt;&lt;p&gt;Bitte warten, während wir die METAR/TAF-Daten vom Aviation Weather Center herunterladen…&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="156"/>
@@ -10200,7 +10200,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="230"/>
         <source>Downloading data...</source>
-        <translation>Lade Daten herunter ...</translation>
+        <translation>Lade Daten herunter…</translation>
     </message>
 </context>
 <context>
@@ -10497,22 +10497,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="651"/>
         <source>true north</source>
-        <translation>geografisch Nord</translation>
+        <translation>rechtweisend Nord</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="654"/>
         <source>true west</source>
-        <translation>geografisch West</translation>
+        <translation>rechtweisend West</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="657"/>
         <source>true south</source>
-        <translation>geografisch Süd</translation>
+        <translation>rechtweisend Süd</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="660"/>
         <source>true east</source>
-        <translation>geografisch Ost</translation>
+        <translation>rechtweisend Ost</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="663"/>
@@ -10537,7 +10537,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="695"/>
         <source>Clear sky</source>
-        <translation>Blauer Himmel</translation>
+        <translation>Wolkenlos</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="698"/>
@@ -10817,7 +10817,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1002"/>
         <source>statute miles</source>
-        <translation>brit. Meilen</translation>
+        <translation>Landmeilen</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1015"/>
@@ -10832,12 +10832,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1021"/>
         <source>Light rime icing in cloud</source>
-        <translation>Leichter Eisansatz in Wolken</translation>
+        <translation>Leichter Raueisansatz in Wolken</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1024"/>
         <source>Light clear icing in precipitation</source>
-        <translation>Leichte Vereisung im Niederschlag</translation>
+        <translation>Leichter Klareisansatz im Niederschlag</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1027"/>
@@ -10847,7 +10847,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1030"/>
         <source>Moderate rime icing in cloud</source>
-        <translation>Mäßiger Eisansatz in Wolken</translation>
+        <translation>Mäßiger Raueisansatz in Wolken</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1033"/>
@@ -10862,12 +10862,12 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1039"/>
         <source>Severe rime icing in cloud</source>
-        <translation>Schwere Eiskristalle in Wolken</translation>
+        <translation>Schwerer Raueisansatz in Wolken</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1042"/>
         <source>Severe clear icing in precipitation</source>
-        <translation>Schweres Klareis im Niederschlag</translation>
+        <translation>Schwerer Klareisansatz im Niederschlag</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1045"/>
@@ -10917,7 +10917,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1072"/>
         <source>Frequent severe turbulence in cloud</source>
-        <translation>Häufig  schwere Turbulenz in Wolken</translation>
+        <translation>Häufig schwere Turbulenz in Wolken</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1075"/>
@@ -11138,7 +11138,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1502"/>
         <source>heavy thunderstorm with precipitation</source>
-        <translation>schweres  Gewitter mit Niederschlag</translation>
+        <translation>schweres Gewitter mit Niederschlag</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1248"/>
@@ -11278,32 +11278,32 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1406"/>
         <source>ice pellet precipitation</source>
-        <translation>Niederschlag mit Eiskugeln</translation>
+        <translation>Niederschlag mit Eiskörnern</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1409"/>
         <source>ice pellet precipitation in the vicinity</source>
-        <translation>Niederschlag mit Eiskugeln in der Nähe</translation>
+        <translation>Niederschlag mit Eiskörnern in der Nähe</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1412"/>
         <source>light ice pellet precipitation</source>
-        <translation>leichter Niederschlag mit Eiskugeln</translation>
+        <translation>leichter Niederschlag mit Eiskörnern</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1415"/>
         <source>moderate ice pellet precipitation</source>
-        <translation>mäßiger Niederschlag mit Eiskugeln</translation>
+        <translation>mäßiger Niederschlag mit Eiskörnern</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1418"/>
         <source>heavy ice pellet precipitation</source>
-        <translation>schwerer Niederschlag mit Eiskugeln</translation>
+        <translation>schwerer Niederschlag mit Eiskörnern</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1421"/>
         <source>recent ice pellet precipitation</source>
-        <translation>vor kurzem Niederschlag mit Eiskugeln</translation>
+        <translation>vor kurzem Niederschlag mit Eiskörnern</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1517"/>
@@ -11558,7 +11558,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1895"/>
         <source>thunderstorm with small hail in the vicinity</source>
-        <translation>Gewitter mit kleinem Hagel in der Nähe</translation>
+        <translation>Gewitter mit Graupel in der Nähe</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2150"/>
@@ -11598,22 +11598,22 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1898"/>
         <source>light thunderstorm with small hail</source>
-        <translation>leichtes Gewitter mit Frostgraupel</translation>
+        <translation>leichtes Gewitter mit Graupel</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1901"/>
         <source>moderate thunderstorm with small hail</source>
-        <translation>mäßiges Gewitter mit Frostgraupel</translation>
+        <translation>mäßiges Gewitter mit Graupel</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1904"/>
         <source>heavy thunderstorm with small hail</source>
-        <translation>schweres Gewitter mit Frostgraupel</translation>
+        <translation>schweres Gewitter mit Graupel</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1907"/>
         <source>recent thunderstorm with small hail</source>
-        <translation>vor kurzem Gewitter mit Frostgraupel</translation>
+        <translation>vor kurzem Gewitter mit Graupel</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1927"/>
@@ -11798,7 +11798,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2072"/>
         <source>small hail</source>
-        <translation>leichter Hagel</translation>
+        <translation>Graupel</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1338"/>
@@ -12448,7 +12448,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2600"/>
         <source>Frost on the instrument (e.g. due to freezing fog depositing rime).</source>
-        <translation>Reif auf dem Instrument (zB durch gefrierenden Nebel).</translation>
+        <translation>Reif auf dem Instrument (z.B. durch gefrierenden Nebel).</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2607"/>
@@ -13217,7 +13217,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="338"/>
         <source>Waiting for precise position…</source>
-        <translation>Warte auf genaue Position ...</translation>
+        <translation>Warte auf genaue Position…</translation>
     </message>
     <message>
         <location filename="../../../src/weather/WeatherDataProvider.cpp" line="391"/>
@@ -13260,7 +13260,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download METAR/TAF data from the Aviation Weather Center…&lt;/p&gt;</source>
-        <translation type="vanished">&lt;h3&gt;Download läuft ...&lt;/h3&gt;&lt;p&gt;Bitte warten, während wir die METAR/TAF-Daten vom Aviation Weather Center herunterladen ...&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Download läuft…&lt;/h3&gt;&lt;p&gt;Bitte warten, während wir die METAR/TAF-Daten vom Aviation Weather Center herunterladen…&lt;/p&gt;</translation>
     </message>
     <message>
         <source>Allow internet connection</source>
@@ -13503,7 +13503,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/qml/main.qml" line="687"/>
         <location filename="../../../src/qml/main.qml" line="701"/>
         <source>What&apos;s new…?</source>
-        <translation>Was ist neu ...?</translation>
+        <translation>Was ist neu…?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="960"/>
@@ -13528,7 +13528,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     </message>
     <message>
         <source>What&apos;s new …?</source>
-        <translation type="vanished">Was ist neu …?</translation>
+        <translation type="vanished">Was ist neu…?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="924"/>

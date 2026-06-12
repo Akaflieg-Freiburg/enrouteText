@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import xml.etree.ElementTree as ET; ET.parse\\('assets/enroute_de.ts'\\); print\\('XML OK'\\)\")"
+    ]
+  }
+}
