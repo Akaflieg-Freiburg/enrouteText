@@ -1051,47 +1051,47 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="80"/>
         <source>Connection Info</source>
-        <translation type="unfinished">Verbindungs-Info</translation>
+        <translation>Verbindungs-Info</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="122"/>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="124"/>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="126"/>
         <source>Currently no incoming data.</source>
-        <translation type="unfinished">Zurzeit keine ankommenden Daten.</translation>
+        <translation>Zurzeit keine ankommenden Daten.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="127"/>
         <source>Data Format: %1.</source>
-        <translation type="unfinished">Datenformat: %1.</translation>
+        <translation>Datenformat: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="130"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
-        <translation type="unfinished">Diese Standardverbindung kann vom Anwender nicht entfernt werden.</translation>
+        <translation>Diese Standardverbindung kann vom Anwender nicht entfernt werden.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="174"/>
         <source>Baud Rate</source>
-        <translation type="unfinished">Baudrate</translation>
+        <translation>Baudrate</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="214"/>
         <source>Stop Bits</source>
-        <translation type="unfinished">Stopp-Bits</translation>
+        <translation>Stopp-Bits</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="237"/>
         <source>Flow Control</source>
-        <translation type="unfinished">Datenflusssteuerung</translation>
+        <translation>Datenflusssteuerung</translation>
     </message>
 </context>
 <context>
@@ -5199,7 +5199,7 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="118"/>
         <source>Showing Altitude Above Mean Sea Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Zeit die Höhe über dem Meeresspiegel</translation>
     </message>
     <message>
         <source>Showing Altitude Above Main Sea Level</source>
@@ -6004,7 +6004,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
         <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the mean sea level, respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die wahre Höhe &quot;AGL&quot; oder &quot;AMSL&quot; ist der vertikale Abstand zwischen Luftfahrzeug und Boden bzw. Meeresspiegel.</translation>
     </message>
     <message>
         <source>Altitude</source>
@@ -9041,72 +9041,72 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="45"/>
         <source>Aircraft</source>
-        <translation type="unfinished">Luftfahrzeug</translation>
+        <translation>Luftfahrzeug</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="48"/>
         <source>Airship</source>
-        <translation type="unfinished">Luftschiff</translation>
+        <translation>Luftschiff</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="51"/>
         <source>Balloon</source>
-        <translation type="unfinished">Ballon</translation>
+        <translation>Ballon</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="54"/>
         <source>Copter</source>
-        <translation type="unfinished">Hubschrauber</translation>
+        <translation>Hubschrauber</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="57"/>
         <source>Drone</source>
-        <translation type="unfinished">Drohne</translation>
+        <translation>Drohne</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="60"/>
         <source>Glider</source>
-        <translation type="unfinished">Segelflugzeug</translation>
+        <translation>Segelflugzeug</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="63"/>
         <source>Hang glider</source>
-        <translation type="unfinished">Hängegleiter</translation>
+        <translation>Hängegleiter</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="66"/>
         <source>Jet</source>
-        <translation type="unfinished">Jet</translation>
+        <translation>Jet</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="69"/>
         <source>Paraglider</source>
-        <translation type="unfinished">Gleitschirm</translation>
+        <translation>Gleitschirm</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="72"/>
         <source>Skydiver</source>
-        <translation type="unfinished">Fallschirmspringer</translation>
+        <translation>Fallschirmspringer</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="75"/>
         <source>Static Obstacle</source>
-        <translation type="unfinished">Stehendes Hindernis</translation>
+        <translation>Stehendes Hindernis</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="78"/>
         <source>Tow Plane</source>
-        <translation type="unfinished">Schleppflugzeug</translation>
+        <translation>Schleppflugzeug</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="81"/>
         <source>Traffic</source>
-        <translation type="unfinished">Verkehr</translation>
+        <translation>Verkehr</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="86"/>
         <source>Position unknown</source>
-        <translation type="unfinished">Position unbekannt</translation>
+        <translation>Position unbekannt</translation>
     </message>
 </context>
 <context>
@@ -9335,7 +9335,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="404"/>
         <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the mean sea level, respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die wahre Höhe &quot;AGL&quot; oder &quot;AMSL&quot; ist der vertikale Abstand zwischen Luftfahrzeug und Boden bzw. Meeresspiegel.</translation>
     </message>
     <message>
         <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the main sea level, respectively.</source>
