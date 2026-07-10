@@ -937,33 +937,33 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
 <context>
     <name>DataManagement::DataManager</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="170"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="171"/>
         <source>Unable to recognize map file format.</source>
         <translation>Impossible de reconnaitre le format du fichier de carte.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="175"/>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="216"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="176"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="217"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>Impossible de créer le dossier &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="182"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="183"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Impossible de copier le fichier de carte vers le dossier de données.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="204"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="205"/>
         <source>Errors</source>
         <translation>Erreurs</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="230"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="231"/>
         <source>Error writing file &apos;%1&apos;: %2.</source>
         <translation>Erreur lors de l&apos;écriture du fichier &apos;%1&apos;&#xa0;: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="298"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="300"/>
         <source>Manually Imported</source>
         <translation>Importé manuellement</translation>
     </message>
@@ -980,45 +980,51 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
     <name>DataManagement::Downloadable_MultiFile</name>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="65"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="127"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="130"/>
         <source>Visual Approach Chart</source>
         <translation>Carte d&apos;approche visuelle</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="68"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="109"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="112"/>
         <source>Aviation Map</source>
         <translation>Carte aéronautique</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="71"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="115"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="118"/>
         <source>Base Map</source>
         <translation>Fond de carte</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="74"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="112"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="115"/>
         <source>Raster Map</source>
         <translation>Carte matricielle</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="77"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="118"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="121"/>
         <source>Data</source>
         <translation>Données</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="80"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="124"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="127"/>
         <source>Terrain Map</source>
         <translation>Carte de terrain</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="83"/>
-        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="121"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="124"/>
         <source>Map Set</source>
         <translation>Jeu de cartes</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="86"/>
+        <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="133"/>
+        <source>Approach Charts</source>
+        <translation type="unfinished">Cartes d&apos;approche</translation>
     </message>
     <message>
         <source>Visual Approach ChartTerrain Map</source>
@@ -1028,222 +1034,222 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
 <context>
     <name>DataManagement::Downloadable_SingleFile</name>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="121"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="125"/>
         <source>No information available.</source>
         <translation>Aucune information disponible</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="124"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="128"/>
         <source>Installed</source>
         <translation>Installée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="126"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="130"/>
         <source>File Size</source>
         <translation>Taille du fichier</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="145"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="149"/>
         <source>The map data was compiled from the following sources.</source>
         <translation>Les données de carte ont été compilées depuis les sources suivantes.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="215"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="219"/>
         <source>downloading … %1% complete</source>
         <translation>téléchargement … %1% effectué</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="222"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="226"/>
         <source>installed • %1</source>
         <translation>installéé • %1</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="228"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="232"/>
         <source>update available</source>
         <translation>mise à jour disponible</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="232"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="236"/>
         <source>manually imported</source>
         <translation>importée manuellement</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="237"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="241"/>
         <source>not installed</source>
         <translation>pas installée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="245"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="249"/>
         <source>file size unknown</source>
         <translation>taille du fichier inconnue</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="496"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="500"/>
         <source>the remote server refused the connection (the server is not accepting requests)</source>
         <translation>la connexion a été refusée par le serveur (le serveur n&apos;accèpte pas les requêtes)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="500"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="504"/>
         <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>la connexion a été arrêtée prématurément par le serveur avant que la réponse ne soit reçue et traitée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="505"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="509"/>
         <source>the remote host name was not found (invalid hostname)</source>
         <translation>le nom de l&apos;hôte n&apos;a pas été trouvée (nom invalide)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="509"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="513"/>
         <source>the connection to the remote server timed out</source>
         <translation>le délai d&apos;attente de la connexion au serveur a été dépassé</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="514"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="518"/>
         <source>the operation was canceled via calls to abort() or close() before it was finished</source>
         <translation>l&apos;opération a été annulée par un appel aux méthodes abort() ou close() avant d&apos;être terminée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="518"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="522"/>
         <source>the SSL/TLS handshake failed and the encrypted channel could not be established.</source>
         <translation>un canal sécurisé n&apos;a pas pu être établi car la négociaton SSL/TLS a échouée.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="522"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="526"/>
         <source>the connection was broken due to disconnection from the network</source>
         <translation>la connexion a été interrompue car vous avez été déconnecté du réseau</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="526"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="530"/>
         <source>the connection was broken due to disconnection from the network or failure to start the network</source>
         <translation>la connexion a été interrompue car vous avez été déconnecté du réseau ou le réseau n&apos;a pas pu s&apos;initialiser</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="531"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="535"/>
         <source>the background request is not currently allowed due to platform policy</source>
         <translation>les requêtes effectuées en tâche de fond ne sont pas permises par les règles de la platforme</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="535"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="539"/>
         <source>while following redirects, the maximum limit was reached</source>
         <translation>la limite du nombre de redirections a été atteinte</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="539"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="543"/>
         <source>while following redirects, the network access API detected a redirect from an encrypted protocol (https) to an unencrypted one (http)</source>
         <translation>l&apos;API du réseau a détecté une redirection vers un protocol non crypté (http) à partir d&apos;un protocal crypté (https)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="544"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="548"/>
         <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
         <translation>la connexion au serveur proxy a été refusée (le serveur proxy n&apos;accepte pas de requêtes)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="549"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="553"/>
         <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>la connexion a été arrêtée prématurément par le serveur proxy avant que la réponse ne soit reçue et traitée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="554"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="558"/>
         <source>the proxy host name was not found (invalid proxy hostname)</source>
         <translation>le nom de l&apos;hôte du proxy n&apos;a pas été trouvée (nom du proxy invalide)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="558"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="562"/>
         <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
         <translation>le délai d&apos;attente de la connexion au serveur proxy a été dépassé ou le proxy n&apos;a pas répondu dans les temps</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="563"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="567"/>
         <source>the proxy requires authentication in order to honor the request but did not accept any credentials offered (if any)</source>
         <translation>une authentification est requise par le serveur proxy, mais il n&apos;a accepté aucun des identifiants fournis (s&apos;il y en avait)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="568"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="572"/>
         <source>the access to the remote content was denied (similar to HTTP error 403)</source>
         <translation>l&apos;accès au contenu distant a été refusé (similaire à l&apos;erreur HTTP 403)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="572"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="576"/>
         <source>the operation requested on the remote content is not permitted</source>
         <translation>l&apos;opération demandée sur le contenu distant n&apos;est pas autorisée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="576"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="580"/>
         <source>the remote content was not found at the server (similar to HTTP error 404)</source>
         <translation>le contenu distant n&apos;a pas été trouvé sur le serveur (similaire à l&apos;erreur HTTP 404)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="580"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="584"/>
         <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
         <translation>une authentification est requise par le serveur pour distribuer le contenu, mais il n&apos;a accepté aucun des identifiants fournis (s&apos;il y en avait)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="585"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="589"/>
         <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
         <translation>la requête devait être réenvoyée, mais cela a échoué, par exemple parce que les données envoyées n&apos;ont pas pu être relues</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="590"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="594"/>
         <source>the request could not be completed due to a conflict with the current state of the resource</source>
         <translation>la requête n&apos;a pas être traitée à cause d&apos;un conflit avec l&apos;état de la ressource</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="595"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="599"/>
         <source>the requested resource is no longer available at the server</source>
         <translation>la ressource demandée n&apos;est plus disponible sur le serveur</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="599"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="603"/>
         <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
         <translation>une condition innatendue a été rencontré par le serveur et il n&apos;a pas traiter la requête</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="605"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="609"/>
         <source>the server does not support the functionality required to fulfill the request</source>
         <translation>la fonctionnalité requise pour traiter la requête n&apos;est pas supportée par le serveur</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="609"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="613"/>
         <source>the server is unable to handle the request at this time</source>
         <translation>le serveur n&apos;est actuellement pas disponible pour traiter la requête</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="614"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="618"/>
         <source>the Network Access API cannot honor the request because the protocol is not known</source>
         <translation>l&apos;API réseau ne peut pas traiter la requête car le protocol est inconnu</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="618"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="622"/>
         <source>the requested operation is invalid for this protocol</source>
         <translation>l&apos;opération demandée est invalide pour ce protocol</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="622"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="626"/>
         <source>an unknown network-related error was detected</source>
         <translation>une erreur inconnue liée au réseau a été détectée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="626"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="630"/>
         <source>an unknown proxy-related error was detected</source>
         <translation>une erreur inconnue liée au proxy a été détectée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="630"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="634"/>
         <source>an unknown error related to the remote content was detected</source>
         <translation>une erreur inconnue liée au contenu distant a été détectée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="634"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="638"/>
         <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
         <translation>un échec a été détecté dans le protocole (erreur de lecture, réponses invalides ou innattendues, etc.)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="639"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="643"/>
         <source>an unknown error related to the server response was detected</source>
         <translation>une erreur inconnue liée à la réponse du serveur a été détectée</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="643"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="647"/>
         <source>unknown</source>
         <translation>inconnu</translation>
     </message>
@@ -1279,12 +1285,12 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
         <translation>Bibliothèque de cartes et de données</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="584"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="586"/>
         <source>Download Error</source>
         <translation>Erreur de téléchargement</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="205"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="207"/>
         <source>Update list of maps and data</source>
         <translation>Mettre à jour la liste des cartes et des données</translation>
     </message>
@@ -1299,122 +1305,127 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
         <translation>Renommer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="133"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="134"/>
         <source>Uninstall</source>
         <translation>Désinstaller</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="217"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="219"/>
         <source>Download all updates…</source>
         <translation>Télécharger toutes les mises à jour…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="232"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="234"/>
         <source>Import…</source>
         <translation>Importer...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="240"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="242"/>
         <source>Import files</source>
         <translation>Importer des fichiers</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="241"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="243"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
         <translation>Localisez votre fichier dans le navigateur, puis sélectionnez «Ouvrir avec» dans le menu de partage et choisissez Enroute.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="254"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="256"/>
         <source>Import</source>
         <translation>Importer</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="255"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="257"/>
         <source>Cancel</source>
         <translation>Annuler</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="261"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="263"/>
         <source>OpenAir Airspace Data (*.txt)</source>
         <translation>Données de l&apos;espace aérien OpenAir (*.txt)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="262"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="264"/>
         <source>Raster and Vector Maps (*.mbtiles)</source>
         <translation>Cartes raster et vectorielles (*.mbtiles)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="263"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="265"/>
         <source>Trip Kits (*.zip)</source>
         <translation>Kits de voyage (*.zip)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="264"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="266"/>
         <source>Visual Approach Charts (*.tif *.tiff)</source>
         <translation>Cartes d&apos;approche visuelle (*.tif *.tiff)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="281"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="283"/>
         <source>Clear VAC library…</source>
         <translation>Effacer la bibliothèque VAC…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="309"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="311"/>
         <source>Maps</source>
         <translation>Cartes</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="315"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="317"/>
         <source>Data</source>
         <translation>Données</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="408"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="410"/>
         <source>There are no approach charts installed. The &lt;a href=&apos;x&apos;&gt;manual&lt;/a&gt; explains how to install and use them.</source>
         <translation>Aucune carte d&apos;approche n&apos;est installée. Le &lt;a href=&apos;x&apos;&gt;manuel&lt;/a&gt; explique comment les installer et les utiliser.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="456"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="458"/>
         <source>&lt;h3&gt;Update required!&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Mise à jour requise !&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="477"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="479"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;La liste des cartes n&apos;a pas encore disponibles été téléchargée. Vous pouvez recommencer le téléchargement en utilisant le bouton ci-dessous.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="508"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="510"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Téléchargement en cours…&lt;/h3&gt;&lt;p&gt;Merci de patienter pendant que la liste des cartes est téléchargée depuis le serveur…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="555"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="557"/>
         <source>Download list of maps…</source>
         <translation>Télécharger la liste des cartes…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="569"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="571"/>
         <source>Update</source>
         <translation>Mise à jour</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="585"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="587"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Echec du téléchargement de la liste des cartes aéronautiques.&lt;/p&gt;&lt;p&gt;Cause: %1.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="594"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="596"/>
         <source>Clear approach chart Library?</source>
         <translation>Bibliothèque de cartes d&apos;approche claire&#xa0;?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="597"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="599"/>
         <source>Once cleared, the approach charts cannot be restored.</source>
         <translation>Une fois effacées, les cartes d&apos;approche ne peuvent pas être restaurées.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="602"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="600"/>
+        <source>Charts from downloaded collections are not affected; remove them by deleting the corresponding maps.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="605"/>
         <source>Approach chart library cleared</source>
         <translation>Bibliothèque de cartes d&apos;approche effacée</translation>
     </message>
@@ -2101,85 +2112,100 @@ Message: Enroute Flight Navigation
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="105"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="106"/>
         <source>Aviation Maps</source>
         <translation>Carte aéronautique</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="106"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="107"/>
         <source>The aeronautical maps are compiled from databases provided by the &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt; projects.</source>
         <translation>Les cartes aéronautiques sont compilées à partir de bases de données fournies par &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; et par le projets&lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="116"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="117"/>
         <source>Base Maps</source>
         <translation>Cartes de base</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="117"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="118"/>
         <source>The base maps are generated from &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;OpenStreetMap&lt;/a&gt; data.</source>
         <translation>Les cartes de base sont générées à partir des données &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="124"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="125"/>
         <source>Terrain Maps</source>
         <translation>Carte topographique</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="125"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="126"/>
         <source>The terrain maps are derived from the &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt;.</source>
         <translation>Les cartes de terrain sont dérivées de &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset sur Amazon AWS&lt;/a&gt;.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="167"/>
+        <source>Approach Charts</source>
+        <translation type="unfinished">Cartes d&apos;approche</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="168"/>
+        <source>The approach charts are provided by the following agencies.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
     <name>GeoMaps::VACLibrary</name>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="111"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="138"/>
         <source>Unable to open TripKit file &lt;strong&gt;%1&lt;/strong&gt;. Error: %2.</source>
         <translation>Impossible d&apos;ouvrir le fichier TripKit &lt;strong&gt;%1&lt;/strong&gt;. Erreur&#xa0;: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="145"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="172"/>
         <source>Error reading TripKip: No charts imported.</source>
         <translation>Erreur de lecture de TripKip: aucune carte importée.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="149"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="176"/>
         <source>Error reading TripKip: Only %1 out of %2 charts were successfully imported.</source>
         <translation>Erreur de lecture de TripKip: seuls %1 des %2 graphiques ont été importés avec succès.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="164"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="191"/>
         <source>Input file &lt;strong&gt;%1&lt;/strong&gt; does not exist.</source>
         <translation>Le fichier d&apos;entrée &lt;strong&gt;%1&lt;/strong&gt; n&apos;existe pas.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="168"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="195"/>
         <source>Input file &lt;strong&gt;%1&lt;/strong&gt; does not contain a valid chart.</source>
         <translation>Le fichier d&apos;entrée &lt;strong&gt;%1&lt;/strong&gt; ne contient pas de graphique valide.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="173"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="200"/>
         <source>Unable to read raster image data from the input file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Impossible de lire les données d&apos;image raster à partir du fichier d&apos;entrée &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="188"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="215"/>
         <source>Error: Unable to copy the VAC file &lt;strong&gt;%1&lt;/strong&gt; to destination &lt;strong&gt;%2&lt;/strong&gt;.</source>
         <translation>Erreur&#xa0;: Impossible de copier le fichier VAC &lt;strong&gt;%1&lt;/strong&gt; vers la destination &lt;strong&gt;%2&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="195"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="222"/>
         <source>Error: Unable to write the VAC file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Erreur&#xa0;: Impossible d&apos;écrire le fichier VAC &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="238"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="322"/>
         <source>VAC &lt;strong&gt;%1&lt;/strong&gt; does not exist.</source>
         <translation>VAC &lt;strong&gt;%1&lt;/strong&gt; n&apos;existe pas.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="245"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="326"/>
+        <source>VAC &lt;strong&gt;%1&lt;/strong&gt; is part of a chart collection and cannot be renamed.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="333"/>
         <source>VAC file renaming failed.</source>
         <translation>Le changement de nom du fichier VAC a échoué.</translation>
     </message>
@@ -2985,6 +3011,11 @@ Message: Enroute Flight Navigation
         <translation>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/forward.html#staticpressure&apos;&gt;Consultez le manuel&lt;/a&gt; pour plus d&apos;informations et pour des solutions possibles.</translation>
     </message>
     <message>
+        <location filename="../../../src/Librarian.cpp" line="318"/>
+        <source>The maps for France now come with Visual approach charts for the maps; the charts charts will be available for free once you install or update the maps for France. We thank the &lt;a href=&apos;https://www.sia.aviation-civile.gouv.fr/&apos;&gt;SIA&lt;/a&gt; for publishing the data under a free license, and Quentin Bossard and Michael Paus for the georeferencing work and long-term maintenance!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>The moving map now shows specialized icons for the various traffic types.</source>
         <translation type="vanished">La carte mobile affiche désormais des icônes spécialisées pour les différents types de trafic.</translation>
     </message>
@@ -2993,12 +3024,12 @@ Message: Enroute Flight Navigation
         <translation type="vanished">Pour la plupart des aérodromes et des navaids, le dialogue d’informations du point de passage affiche désormais la variation magnétique.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="318"/>
+        <location filename="../../../src/Librarian.cpp" line="322"/>
         <source>There are now specialized icons for obstacle NOTAMs and NOTAMs about drone flights. We thank Christian Engelhardt for the implementation!</source>
         <translation>Il existe désormais des icônes spécialisées pour les NOTAMs d’obstacles et les NOTAMs sur les vols de drones. Nous remercions Christian Engelhardt pour la mise en œuvre !</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="322"/>
+        <location filename="../../../src/Librarian.cpp" line="326"/>
         <source>Support for Bluetooth Classic and Bluetooth Low Energy is now a regular feature and no longer in tech preview. Please report any issues that you may find!</source>
         <translation>La prise en charge de Bluetooth Classic et de Bluetooth Low Energy est désormais une fonctionnalité régulière et n’est plus disponible dans les aperçus techniques. Veuillez signaler tout problème que vous pourriez rencontrer !</translation>
     </message>
@@ -3126,7 +3157,7 @@ Message: Enroute Flight Navigation
         <translation type="vanished">Nous remercions Heinz Blöchinger pour son aide à la mise en œuvre !</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="326"/>
+        <location filename="../../../src/Librarian.cpp" line="330"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation>Nous avons besoin d&apos;aide avec des graphiques promotionnels pour les app stores et avec des vidéos explicatives. Si vous êtes un artiste graphique/vidéo et que vous souhaitez aider, n&apos;hésitez pas à nous contacter.</translation>
     </message>
@@ -4631,11 +4662,23 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <translation>Taille du fichier</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="99"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="101"/>
+        <source>%1 chart collection</source>
+        <comment>VAC</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/VAC.cpp" line="103"/>
         <source>manually imported</source>
         <comment>VAC</comment>
         <translatorcomment>VAC</translatorcomment>
         <translation>importée manuellement</translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/VAC.cpp" line="125"/>
+        <source>Manually Imported</source>
+        <comment>VAC</comment>
+        <translation type="unfinished">Importé manuellement</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="45"/>
@@ -4945,6 +4988,42 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <comment>FileFormats::PLN</comment>
         <translatorcomment>Formats de fichiers :: FPL</translatorcomment>
         <translation>Impossible d&apos;analyser le fichier PLN %1 pour XML</translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/VACCollection.cpp" line="42"/>
+        <source>Unable to open database connection to VAC collection file.</source>
+        <comment>FileFormats::VACCollection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/VACCollection.cpp" line="51"/>
+        <source>Unable to read metadata table from VAC collection file.</source>
+        <comment>FileFormats::VACCollection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/VACCollection.cpp" line="61"/>
+        <source>VAC collection file has unsupported schema version.</source>
+        <comment>FileFormats::VACCollection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/VACCollection.cpp" line="77"/>
+        <source>Unable to read charts table from VAC collection file.</source>
+        <comment>FileFormats::VACCollection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/VACCollection.cpp" line="92"/>
+        <source>Skipping chart entry &apos;%1&apos;, which is invalid.</source>
+        <comment>FileFormats::VACCollection</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/VACCollection.cpp" line="99"/>
+        <source>VAC collection file contains no valid charts.</source>
+        <comment>FileFormats::VACCollection</comment>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
