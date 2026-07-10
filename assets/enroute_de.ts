@@ -1679,7 +1679,7 @@ anderes dazu sagen können.&lt;/p&gt;
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="86"/>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="133"/>
         <source>Approach Charts</source>
-        <translation type="unfinished">Anflugkarten</translation>
+        <translation>Anflugkarten</translation>
     </message>
     <message>
         <source>Visual Approach ChartTerrain Map</source>
@@ -2211,7 +2211,7 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="600"/>
         <source>Charts from downloaded collections are not affected; remove them by deleting the corresponding maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Karten aus heruntergeladenen Sammlungen  sind nicht betroffen; um sie zu entfernen, löschen Sie die betreffenden Karten.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="605"/>
@@ -3178,12 +3178,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="167"/>
         <source>Approach Charts</source>
-        <translation type="unfinished">Anflugkarten</translation>
+        <translation>Anflugkarten</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="168"/>
         <source>The approach charts are provided by the following agencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Anflugkarten werden von den folgenden Stellen bereitgestellt.</translation>
     </message>
 </context>
 <context>
@@ -3236,7 +3236,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="326"/>
         <source>VAC &lt;strong&gt;%1&lt;/strong&gt; is part of a chart collection and cannot be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>VAC &lt;strong&gt;%1&lt;/strong&gt; ist Teil der Kartensammlung und kann nicht umbenannt werden.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="333"/>
@@ -4261,7 +4261,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>The maps for France now come with Visual approach charts for the maps; the charts charts will be available for free once you install or update the maps for France. We thank the &lt;a href=&apos;https://www.sia.aviation-civile.gouv.fr/&apos;&gt;SIA&lt;/a&gt; for publishing the data under a free license, and Quentin Bossard and Michael Paus for the georeferencing work and long-term maintenance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Die Frankreich-Karten enthalten nun Sichtanflugkarten. Diese sind kostenlos verfügbar, sobald Sie Frankreich-Karten installieren oder aktualisieren. Wir danken der &lt;a href=&apos;https://www.sia.aviation-civile.gouv.fr/&apos;&gt;SIA&lt;/a&gt; für die Veröffentlichung unter freier Lizenz und außerdem Quentin Bossard und Michael Paus für die Georeferenzierung und die langfristige Pflege!</translation>
     </message>
     <message>
         <source>The moving map now shows specialized icons for the various traffic types.</source>
@@ -6850,7 +6850,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/geomaps/VAC.cpp" line="101"/>
         <source>%1 chart collection</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 Kartensammlung</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="103"/>
@@ -6862,7 +6862,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/geomaps/VAC.cpp" line="125"/>
         <source>Manually Imported</source>
         <comment>VAC</comment>
-        <translation type="unfinished">Manuell importiert</translation>
+        <translation>Manuell importiert</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="45"/>
@@ -7279,37 +7279,37 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="42"/>
         <source>Unable to open database connection to VAC collection file.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kann keine Datenbankverbindung zur VAC-Sammlung herstellen.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="51"/>
         <source>Unable to read metadata table from VAC collection file.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kann keine Metadaten der VAC-Sammlung lesen.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="61"/>
         <source>VAC collection file has unsupported schema version.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die Schema-Version der VAC-Sammlung wird nicht unterstützt.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="77"/>
         <source>Unable to read charts table from VAC collection file.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Kann die Kartentabelle der VAC-Sammlung nicht lesen.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="92"/>
         <source>Skipping chart entry &apos;%1&apos;, which is invalid.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Karteneintrag &apos;%1&apos; wird übersprungen, da ungültig.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="99"/>
         <source>VAC collection file contains no valid charts.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation>Die VAC-Sammlung enthält keine gültigen Karten.</translation>
     </message>
 </context>
 <context>
