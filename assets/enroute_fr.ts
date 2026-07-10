@@ -1262,8 +1262,8 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
     </message>
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="69"/>
-        <source>On older Android devices, the problem is most likely caused by outdated security certificates in your system.  Certificates can only be installed by the hardware manufacturer via system updates. If your device has not received any system security updates in a while, then secure internet connections are no longer possible. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/06-referenceTechnology/02-platformNotes.html#network-security-problems-on-outdated-devices&apos;&gt;See the platform notes in the manual&lt;/a&gt; for more details.</source>
-        <translation>Sur les anciens appareils Android, le problème est probablement dû à des certificats de sécurité obsolètes dans votre système. Les certificats ne peuvent être installés que par le fabricant du matériel via des mises à jour du système. Si votre appareil n&apos;a reçu aucune mise à jour de sécurité du système depuis un certain temps, les connexions Internet sécurisées ne sont plus possibles. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/06-referenceTechnology/02-platformNotes.html#network-security-problems-on-outdated-devices&apos;&gt;Voir les notes sur la plate-forme dans le manuel&lt; /a&gt; pour plus de détails.</translation>
+        <source>On older Android devices, the problem is most likely caused by outdated security certificates in your system.  Certificates can only be installed by the hardware manufacturer via system updates. If your device has not received any system security updates in a while, then secure internet connections are no longer possible. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/forward.html#networksecurity&apos;&gt;See the platform notes in the manual&lt;/a&gt; for more details.</source>
+        <translation>Sur les anciens appareils Android, le problème est probablement dû à des certificats de sécurité obsolètes dans votre système. Les certificats ne peuvent être installés que par le fabricant du matériel via des mises à jour du système. Si votre appareil n&apos;a reçu aucune mise à jour de sécurité du système depuis un certain temps, les connexions Internet sécurisées ne sont plus possibles. &lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/forward.html#networksecurity&apos;&gt;Voir les notes sur la plate-forme dans le manuel&lt; /a&gt; pour plus de détails.</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/SSLErrorHandler.cpp" line="78"/>
@@ -2981,8 +2981,8 @@ Message: Enroute Flight Navigation
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="310"/>
-        <source>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/05-referencePages/01-mainPage.html#dependence-on-static-pressure-information&apos;&gt;Consult the manual&lt;/a&gt; for more information and for possible solutions.</source>
-        <translation>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/05-referencePages/01-mainPage.html#dependence-on-static-pressure-information&apos;&gt;Consultez le manuel&lt;/a&gt; pour plus d&apos;informations et pour des solutions possibles.</translation>
+        <source>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/forward.html#staticpressure&apos;&gt;Consult the manual&lt;/a&gt; for more information and for possible solutions.</source>
+        <translation>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/forward.html#staticpressure&apos;&gt;Consultez le manuel&lt;/a&gt; pour plus d&apos;informations et pour des solutions possibles.</translation>
     </message>
     <message>
         <source>The moving map now shows specialized icons for the various traffic types.</source>
