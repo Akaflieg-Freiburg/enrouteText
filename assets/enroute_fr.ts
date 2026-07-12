@@ -631,47 +631,47 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="80"/>
         <source>Connection Info</source>
-        <translation type="unfinished">Informations de connexion</translation>
+        <translation>Informations de connexion</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="122"/>
         <source>Status</source>
-        <translation type="unfinished">Statut</translation>
+        <translation>Statut</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="124"/>
         <source>Error</source>
-        <translation type="unfinished">Erreur</translation>
+        <translation>Erreur</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="126"/>
         <source>Currently no incoming data.</source>
-        <translation type="unfinished">Aucune donnée entrante actuellement.</translation>
+        <translation>Aucune donnée entrante actuellement.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="127"/>
         <source>Data Format: %1.</source>
-        <translation type="unfinished">Format des données&#xa0;: %1.</translation>
+        <translation>Format des données&#xa0;: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="130"/>
         <source>This is a standard connection that cannot be deleted by the user.</source>
-        <translation type="unfinished">Il s&apos;agit d&apos;une connexion standard qui ne peut pas être supprimée par l&apos;utilisateur.</translation>
+        <translation>Il s&apos;agit d&apos;une connexion standard qui ne peut pas être supprimée par l&apos;utilisateur.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="174"/>
         <source>Baud Rate</source>
-        <translation type="unfinished">Vitesse de transmission</translation>
+        <translation>Vitesse de transmission</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="214"/>
         <source>Stop Bits</source>
-        <translation type="unfinished">Stop Bits</translation>
+        <translation>Stop Bits</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="237"/>
         <source>Flow Control</source>
-        <translation type="unfinished">Contrôle de flux</translation>
+        <translation>Contrôle de flux</translation>
     </message>
 </context>
 <context>
@@ -1024,7 +1024,7 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="86"/>
         <location filename="../../../src/dataManagement/Downloadable_MultiFile.cpp" line="133"/>
         <source>Approach Charts</source>
-        <translation type="unfinished">Cartes d&apos;approche</translation>
+        <translation>Cartes d&apos;approche</translation>
     </message>
     <message>
         <source>Visual Approach ChartTerrain Map</source>
@@ -1422,7 +1422,7 @@ de rester patients, car le développement d&apos;un logiciel de qualité demande
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="600"/>
         <source>Charts from downloaded collections are not affected; remove them by deleting the corresponding maps.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les graphiques des collections téléchargées ne sont pas affectés ; supprimez-les en supprimant les cartes correspondantes.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="605"/>
@@ -2144,12 +2144,12 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="167"/>
         <source>Approach Charts</source>
-        <translation type="unfinished">Cartes d&apos;approche</translation>
+        <translation>Cartes d&apos;approche</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="168"/>
         <source>The approach charts are provided by the following agencies.</source>
-        <translation type="unfinished"></translation>
+        <translation>Les graphiques d’approche sont fournis par les agences suivantes.</translation>
     </message>
 </context>
 <context>
@@ -2202,7 +2202,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="326"/>
         <source>VAC &lt;strong&gt;%1&lt;/strong&gt; is part of a chart collection and cannot be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation>VAC &lt;strong&gt;%1&lt;/strong&gt; fait partie d’une collection de graphiques et ne peut pas être renommé.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="333"/>
@@ -3013,7 +3013,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>The maps for France now come with Visual approach charts for the maps; the charts charts will be available for free once you install or update the maps for France. We thank the &lt;a href=&apos;https://www.sia.aviation-civile.gouv.fr/&apos;&gt;SIA&lt;/a&gt; for publishing the data under a free license, and Quentin Bossard and Michael Paus for the georeferencing work and long-term maintenance!</source>
-        <translation type="unfinished"></translation>
+        <translation>Les cartes pour la France sont maintenant livrées avec des cartes d’approche visuelles ; les cartes seront disponibles gratuitement une fois que vous aurez installé ou mis à jour les cartes pour la France. Nous remercions la &lt;a href=&apos;https://www.sia.aviation-civile.gouv.fr/&apos;&gt;SIA&lt;/a&gt; pour avoir publié les données sous une licence libre, ainsi que Quentin Bossard et Michael Paus pour le travail de géoréférencement et la maintenance à long terme !</translation>
     </message>
     <message>
         <source>The moving map now shows specialized icons for the various traffic types.</source>
@@ -3401,7 +3401,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="118"/>
         <source>Showing Altitude Above Mean Sea Level</source>
-        <translation type="unfinished"></translation>
+        <translation>Affichage de l’altitude au-dessus du niveau moyen de la mer</translation>
     </message>
     <message>
         <source>Showing Altitude Above Main Sea Level</source>
@@ -3956,7 +3956,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
         <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the mean sea level, respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation>L’altitude réelle AGL ou AMSL est la distance verticale entre l’aéronef et le relief ou le niveau moyen de la mer, respectivement.</translation>
     </message>
     <message>
         <source>Altitude</source>
@@ -4665,7 +4665,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/geomaps/VAC.cpp" line="101"/>
         <source>%1 chart collection</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translation>%1 collection de graphiques</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="103"/>
@@ -4678,7 +4678,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/geomaps/VAC.cpp" line="125"/>
         <source>Manually Imported</source>
         <comment>VAC</comment>
-        <translation type="unfinished">Importé manuellement</translation>
+        <translation>Importé manuellement</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="45"/>
@@ -4993,37 +4993,43 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="42"/>
         <source>Unable to open database connection to VAC collection file.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::VACCollection</translatorcomment>
+        <translation>Impossible d’ouvrir la connexion à la base de données au fichier de collecte VAC.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="51"/>
         <source>Unable to read metadata table from VAC collection file.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::VACCollection</translatorcomment>
+        <translation>Impossible de lire le tableau des métadonnées du fichier de collecte VAC.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="61"/>
         <source>VAC collection file has unsupported schema version.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::VACCollection</translatorcomment>
+        <translation>Le fichier de collection VAC a une version de schéma non prise en charge.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="77"/>
         <source>Unable to read charts table from VAC collection file.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::VACCollection</translatorcomment>
+        <translation>Impossible de lire le tableau des graphiques à partir du fichier de collecte d’ACC.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="92"/>
         <source>Skipping chart entry &apos;%1&apos;, which is invalid.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::VACCollection</translatorcomment>
+        <translation>Omission de l’entrée du graphique &apos;%1&apos;, qui est invalide.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="99"/>
         <source>VAC collection file contains no valid charts.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>FileFormats::VACCollection</translatorcomment>
+        <translation>Le fichier de collecte VAC ne contient aucun graphique valide.</translation>
     </message>
 </context>
 <context>
@@ -6631,72 +6637,72 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="45"/>
         <source>Aircraft</source>
-        <translation type="unfinished">Avion</translation>
+        <translation>Avion</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="48"/>
         <source>Airship</source>
-        <translation type="unfinished">Avion</translation>
+        <translation>Dirigeable</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="51"/>
         <source>Balloon</source>
-        <translation type="unfinished">Balon</translation>
+        <translation>Balon</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="54"/>
         <source>Copter</source>
-        <translation type="unfinished">Hélicopter</translation>
+        <translation>Hélicopter</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="57"/>
         <source>Drone</source>
-        <translation type="unfinished">Drone</translation>
+        <translation>Drone</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="60"/>
         <source>Glider</source>
-        <translation type="unfinished">Planeur</translation>
+        <translation>Planeur</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="63"/>
         <source>Hang glider</source>
-        <translation type="unfinished">Deltaplane</translation>
+        <translation>Deltaplane</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="66"/>
         <source>Jet</source>
-        <translation type="unfinished">Avion à réaction</translation>
+        <translation>Avion à réaction</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="69"/>
         <source>Paraglider</source>
-        <translation type="unfinished">Para-moteur</translation>
+        <translation>Para-moteur</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="72"/>
         <source>Skydiver</source>
-        <translation type="unfinished">Parachutiste</translation>
+        <translation>Parachutiste</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="75"/>
         <source>Static Obstacle</source>
-        <translation type="unfinished">Obstacle statique</translation>
+        <translation>Obstacle statique</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="78"/>
         <source>Tow Plane</source>
-        <translation type="unfinished">Avion remorqueur</translation>
+        <translation>Avion remorqueur</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="81"/>
         <source>Traffic</source>
-        <translation type="unfinished"></translation>
+        <translation>Trafic</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="86"/>
         <source>Position unknown</source>
-        <translation type="unfinished">Position inconnue</translation>
+        <translation>Position inconnue</translation>
     </message>
 </context>
 <context>
@@ -7001,7 +7007,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="404"/>
         <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the mean sea level, respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation>L’altitude réelle AGL ou AMSL est la distance verticale entre l’aéronef et le relief ou le niveau moyen de la mer, respectivement.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="518"/>
