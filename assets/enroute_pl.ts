@@ -2207,7 +2207,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="600"/>
         <source>Charts from downloaded collections are not affected; remove them by deleting the corresponding maps.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie dotyczy to map z pobranych kolekcji; można je usunąć, usuwając odpowiednie mapy.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="605"/>
@@ -3187,7 +3187,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="168"/>
         <source>The approach charts are provided by the following agencies.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapy podejścia są dostarczane przez następujące instytucje.</translation>
     </message>
 </context>
 <context>
@@ -3240,7 +3240,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="326"/>
         <source>VAC &lt;strong&gt;%1&lt;/strong&gt; is part of a chart collection and cannot be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">VAC &lt;strong&gt;%1&lt;/strong&gt; jest częścią kolekcji map i nie można zmienić jego nazwy.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="333"/>
@@ -4198,7 +4198,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>The maps for France now come with Visual approach charts for the maps; the charts charts will be available for free once you install or update the maps for France. We thank the &lt;a href=&apos;https://www.sia.aviation-civile.gouv.fr/&apos;&gt;SIA&lt;/a&gt; for publishing the data under a free license, and Quentin Bossard and Michael Paus for the georeferencing work and long-term maintenance!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapy Francji zawierają teraz wizualne mapy podejścia; mapy te będą dostępne bezpłatnie po zainstalowaniu lub zaktualizowaniu map Francji. Dziękujemy &lt;a href=&apos;https://www.sia.aviation-civile.gouv.fr/&apos;&gt;SIA&lt;/a&gt; za opublikowanie danych na wolnej licencji oraz Quentinowi Bossardowi i Michaelowi Pausowi za pracę nad georeferencją i długoterminowe utrzymanie!</translation>
     </message>
     <message>
         <source>The moving map now shows specialized icons for the various traffic types.</source>
@@ -5142,7 +5142,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="118"/>
         <source>Showing Altitude Above Mean Sea Level</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokazywanie wysokości nad średnim poziomem morza</translation>
     </message>
     <message>
         <source>Showing Altitude Above Main Sea Level</source>
@@ -5946,7 +5946,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
         <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the mean sea level, respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rzeczywista wysokość AGL lub AMSL to pionowa odległość od statku powietrznego odpowiednio do terenu lub do średniego poziomu morza.</translation>
     </message>
     <message>
         <source>Altitude</source>
@@ -6748,7 +6748,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/geomaps/VAC.cpp" line="101"/>
         <source>%1 chart collection</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kolekcja map %1</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="103"/>
@@ -7126,37 +7126,37 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="42"/>
         <source>Unable to open database connection to VAC collection file.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można otworzyć połączenia z bazą danych pliku kolekcji VAC.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="51"/>
         <source>Unable to read metadata table from VAC collection file.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można odczytać tabeli metadanych z pliku kolekcji VAC.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="61"/>
         <source>VAC collection file has unsupported schema version.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Plik kolekcji VAC ma nieobsługiwaną wersję schematu.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="77"/>
         <source>Unable to read charts table from VAC collection file.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nie można odczytać tabeli map z pliku kolekcji VAC.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="92"/>
         <source>Skipping chart entry &apos;%1&apos;, which is invalid.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pomijanie wpisu mapy &apos;%1&apos;, który jest nieprawidłowy.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="99"/>
         <source>VAC collection file contains no valid charts.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Plik kolekcji VAC nie zawiera prawidłowych map.</translation>
     </message>
 </context>
 <context>
@@ -9252,7 +9252,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="404"/>
         <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the mean sea level, respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rzeczywista wysokość AGL lub AMSL to pionowa odległość od statku powietrznego odpowiednio do terenu lub do średniego poziomu morza.</translation>
     </message>
     <message>
         <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the main sea level, respectively.</source>

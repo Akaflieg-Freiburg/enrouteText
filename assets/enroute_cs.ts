@@ -154,53 +154,53 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="164"/>
         <source>Callsign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Volací znak</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="175"/>
         <source>Enter the callsign of your aircraft. Together with the Hex ID, the name is used to filter out your own aircraft when receiving traffic data from the Open Glider Network, preventing it from being displayed twice on the map.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zadejte volací znak svého letadla. Spolu s Hex ID slouží tento název k odfiltrování vašeho vlastního letadla při příjmu dat o provozu ze sítě Open Glider Network, aby se na mapě nezobrazovalo dvakrát.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="182"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="203"/>
         <source>Hex ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hex ID</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="194"/>
         <source>Transponder/FLARM ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID transpondéru/FLARM</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="205"/>
         <source>Enter the “ICAO 24-bit address” of your transponder (e.g., “3D1C11”), the “FLARM Radio ID” of your FLARM device (e.g., “3EDE26”) or the “Open Glider Network Source ID” of your aircraft (e.g., “ICA3D1C11”, “FLR123456”). Together with the name, this identifier is used to filter out your own aircraft when receiving traffic data from the Open Glider Network, preventing it from being displayed twice on the map. If you do not use Open Glider Network traffic data, you can leave this field empty.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zadejte „24bitovou adresu ICAO“ vašeho transpondéru (např. „3D1C11“), „FLARM Radio ID“ vašeho zařízení FLARM (např. „3EDE26“) nebo „Open Glider Network Source ID“ vašeho letadla (např. „ICA3D1C11“, „FLR123456“). Spolu s názvem slouží tento identifikátor k odfiltrování vašeho vlastního letadla při příjmu dat o provozu ze sítě Open Glider Network, aby se na mapě nezobrazovalo dvakrát. Pokud data o provozu z Open Glider Network nepoužíváte, můžete toto pole nechat prázdné.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="207"/>
         <source>You can enter multiple codes separated by spaces if your aircraft has multiple identifiers. The comparison is case-insensitive.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokud má vaše letadlo více identifikátorů, můžete zadat více kódů oddělených mezerami. Porovnání nerozlišuje velikost písmen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="228"/>
         <source>Use cabin pressure instead of static pressure for pressure altitude calculation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Použít pro výpočet tlakové výšky tlak v kabině místo statického tlaku.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="235"/>
         <source>Cabin/Altitude Pressure</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tlak v kabině / tlaková výška</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="237"/>
         <source>If this option is checked, Enroute Flight Navigation will use the pressure sensor of your mobile device to measure the pressure altitude and determine vertical distances to airspaces. This option is only available if your device has a pressure sensor.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokud je tato volba zaškrtnuta, Enroute Flight Navigation použije tlakový senzor vašeho mobilního zařízení k měření tlakové výšky a určení vertikálních vzdáleností od vzdušných prostorů. Tato volba je dostupná pouze v případě, že vaše zařízení má tlakový senzor.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="239"/>
         <source>If available, Enroute Flight Navigation will always use the pressure altitude provided by an external traffic data receiver instead of the pressure altitude calculated from the pressure sensor of your mobile device.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokud je k dispozici, Enroute Flight Navigation vždy použije tlakovou výšku poskytovanou externím přijímačem dat o provozu namísto tlakové výšky vypočtené z tlakového senzoru vašeho mobilního zařízení.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="247"/>
@@ -328,47 +328,47 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="674"/>
         <source>If you enable this option, Enroute Flight Navigation will use the pressure sensor of your mobile device to determine pressure altitude and vertical distances to airspaces.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokud tuto volbu povolíte, Enroute Flight Navigation použije tlakový senzor vašeho mobilního zařízení k určení tlakové výšky a vertikálních vzdáleností od vzdušných prostorů.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="675"/>
         <source>This is safety critical.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Toto je kritické z hlediska bezpečnosti.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="678"/>
         <source>The pressure sensor of your device is probably not certified for use in aviation.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tlakový senzor vašeho zařízení pravděpodobně není certifikován pro použití v letectví.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="679"/>
         <source>In typical GA aircraft, cabin pressure is not equal to static pressure.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">V typických letadlech všeobecného letectví se tlak v kabině nerovná statickému tlaku.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="680"/>
         <source>The precise difference depends on factors such as airspeed and configuration of ventilation and heating.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přesný rozdíl závisí na faktorech, jako je rychlost letu a nastavení ventilace a topení.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="682"/>
         <source>Do not enable this option unless you convinced yourself that the data provided by your sensor is good enough for the intended use.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepovolujte tuto volbu, pokud jste se sami nepřesvědčili, že data poskytovaná vaším senzorem jsou pro zamýšlené použití dostatečně kvalitní.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="683"/>
         <source>Do not rely on data shown in this app.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nespoléhejte se na data zobrazená v této aplikaci.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="684"/>
         <source>Always use an approved altimeter to judge vertical distance to airspaces.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">K posouzení vertikální vzdálenosti od vzdušných prostorů vždy používejte schválený výškoměr.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="687"/>
         <source>We strongly recommend connecting Enroute Flight Navigation to a proper traffic data receiver, such as a FLARM or ADS-B device, that provides static pressure data.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Důrazně doporučujeme připojit Enroute Flight Navigation k řádnému přijímači dat o provozu, jako je zařízení FLARM nebo ADS-B, které poskytuje údaje o statickém tlaku.</translation>
     </message>
 </context>
 <context>
@@ -621,7 +621,7 @@ mají vždy přednost.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="122"/>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stav</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="124"/>
@@ -631,7 +631,7 @@ mají vždy přednost.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="126"/>
         <source>Currently no incoming data.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktuálně nejsou přijímána žádná data.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="127"/>
@@ -646,17 +646,17 @@ mají vždy přednost.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="174"/>
         <source>Baud Rate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přenosová rychlost</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="214"/>
         <source>Stop Bits</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stop bity</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="237"/>
         <source>Flow Control</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Řízení toku</translation>
     </message>
 </context>
 <context>
@@ -734,22 +734,22 @@ mají vždy přednost.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="240"/>
         <source>Network/TCP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Síť/TCP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="249"/>
         <source>Network/UDP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Síť/UDP</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="271"/>
         <source>Serial Port or USB</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Seriový port nebo USB</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="281"/>
         <source>Open Glider Network</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Open Glider Network</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/ConnectionManager.qml" line="296"/>
@@ -1403,7 +1403,7 @@ mají vždy přednost.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="600"/>
         <source>Charts from downloaded collections are not affected; remove them by deleting the corresponding maps.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapy ze stažených sbírek nejsou dotčeny; odstraníte je smazáním příslušných map.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="605"/>
@@ -1439,27 +1439,27 @@ mají vždy přednost.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="57"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is a non-commercial project of Akaflieg Freiburg, supported by the University of Freiburg. The app has been written by flight enthusiasts in their spare time, as a service to the community. The developers do not take donations.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; je nekomerční projekt spolku Akaflieg Freiburg, podporovaný Univerzitou ve Freiburgu. Aplikaci napsali nadšenci do létání ve svém volném čase jako službu komunitě. Vývojáři nepřijímají dary.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="58"/>
         <source>If you appreciate the app, please consider a donation to Akaflieg Freiburg, a tax-privileged, not-for-profit flight club of public utility in Freiburg, Germany. The club will use your donation to promote aviation as recreational sport.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokud si aplikace ceníte, zvažte prosím dar spolku Akaflieg Freiburg, daňově zvýhodněnému neziskovému leteckému spolku veřejné prospěšnosti ve Freiburgu v Německu. Spolek váš dar použije na podporu letectví jako rekreačního sportu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="69"/>
         <source>Donate with PayPal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přispět přes PayPal</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="83"/>
         <source>If you prefer, you can also send yourself an e-mail with the bank account data.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokud chcete, můžete si také poslat e-mail s bankovními údaji.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="94"/>
         <source>Send e-mail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Odeslat e-mail</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="96"/>
@@ -1469,17 +1469,22 @@ BIC:     GENODE61FR1
 Bank:    Volksbank Freiburg
 Message: Enroute Flight Navigation
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+IBAN:    DE35 6809 0000 0027 6409 07
+BIC:     GENODE61FR1
+Banka:   Volksbank Freiburg
+Zpráva:  Enroute Flight Navigation
+</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="105"/>
         <source>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mailto:?subject=Enroute Flight Navigation, Dar&amp;body=%1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DonatePage.qml" line="113"/>
         <source>Donations to Akaflieg Freiburg are tax-deductible in Germany. Contact &lt;a href=&apos;mailto:info@akaflieg-freiburg.de&apos;&gt;info@akaflieg-freiburg.de&lt;/a&gt; for a tax statement.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dary spolku Akaflieg Freiburg jsou v Německu daňově odečitatelné. Pro potvrzení o daru kontaktujte &lt;a href=&apos;mailto:info@akaflieg-freiburg.de&apos;&gt;info@akaflieg-freiburg.de&lt;/a&gt;.</translation>
     </message>
 </context>
 <context>
@@ -1744,7 +1749,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="413"/>
         <source>Failed to copy flight plan</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepodařilo se zkopírovat letový plán</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="416"/>
@@ -2125,7 +2130,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="168"/>
         <source>The approach charts are provided by the following agencies.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapy přiblížení poskytují následující organizace.</translation>
     </message>
 </context>
 <context>
@@ -2178,7 +2183,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="326"/>
         <source>VAC &lt;strong&gt;%1&lt;/strong&gt; is part of a chart collection and cannot be renamed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">VAC &lt;strong&gt;%1&lt;/strong&gt; je součástí sbírky map a nelze ji přejmenovat.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="333"/>
@@ -2239,7 +2244,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/Global.qml" line="75"/>
         <source>Map Mode: User Defined Direction Up</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapa: Uživatelem definovaný směr nahoru</translation>
     </message>
     <message>
         <source>Map Mode: Autopan</source>
@@ -2479,32 +2484,32 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="59"/>
         <source>&lt;p&gt;This version of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is outdated and will no longer receive map updates. &lt;strong&gt;Please update this app at your earliest convenience.&lt;/strong&gt;&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;p&gt;Tato verze aplikace &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; je zastaralá a nebude již dostávat aktualizace map. &lt;strong&gt;Aktualizujte prosím tuto aplikaci co nejdříve.&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="65"/>
         <source>The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplikaci &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; napsal Stefan Kebekus, nadšený letec od roku 1986 a člen leteckého spolku Akaflieg Freiburg. Stefan létá na kluzácích a motorových letadlech.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="66"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adresa</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="67"/>
         <source>Contributions</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Příspěvky</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="70"/>
         <source>iOS Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Verze pro iOS</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="70"/>
         <source>The app has been ported to iOS by Simon Schneider, who also maintains the iOS port. Simon received his PPL license in 2024. Like Stefan, he is a member of the Akaflieg Freiburg flight club.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplikaci na iOS portoval Simon Schneider, který port pro iOS také udržuje. Simon získal licenci PPL v roce 2024. Stejně jako Stefan je členem leteckého spolku Akaflieg Freiburg.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="73"/>
@@ -2513,85 +2518,103 @@ Message: Enroute Flight Navigation
         <location filename="../../../src/Librarian.cpp" line="82"/>
         <location filename="../../../src/Librarian.cpp" line="85"/>
         <source>Programming</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Programování</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="73"/>
         <source>Heinz Blöchinger has helped us with file import functionality. After 15 years of alpine gliding, Heinz has fulfilled a big dream and now flies helicopters.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Heinz Blöchinger nám pomohl s funkcí importu souborů. Po 15 letech létání na kluzácích v Alpách si Heinz splnil velký sen a nyní létá na vrtulnících.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="79"/>
         <source>Tom Linz completed height density calculation. He received his PPL license in late 2024. Tom works as a development engineer for safety systems.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tom Linz dokončil výpočet hustotní výšky. Licenci PPL získal koncem roku 2024. Tom pracuje jako vývojový inženýr bezpečnostních systémů.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="85"/>
         <source>Simon Schneider implemented the first working version of the side view.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Simon Schneider implementoval první funkční verzi bočního pohledu.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="88"/>
         <source>
 &lt;h3&gt;Translations&lt;/h3&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;h3&gt;Překlady&lt;/h3&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="90"/>
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato and Luca Riva. Both are private pilots and aerospace engineers. Luca is also doing aerobatics.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;li&gt;&lt;strong&gt;Francouzština:&lt;/strong&gt; Adrien Crovato a Luca Riva. Oba jsou soukromí piloti a letečtí inženýři. Luca se navíc věnuje letecké akrobacii.&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="92"/>
         <source>
 &lt;li&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everything else that flies.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;li&gt;&lt;strong&gt;Němčina:&lt;/strong&gt; Markus Sachs. Markus létá na trikách a je nadšeným „druhým pilotem“ na všem ostatním, co létá.&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="94"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella. Antonio is an ultralight pilot with a passion for everything challenging.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;li&gt;&lt;strong&gt;Italština:&lt;/strong&gt; Ivan Battistella a Antonio Fardella. Antonio je pilot ultralehkých letadel se zálibou ve všem náročném.&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="96"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;li&gt;&lt;strong&gt;Polština:&lt;/strong&gt; Sławek Mikuła.&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="98"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Spanish:&lt;/strong&gt; Luca Riva.&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;li&gt;&lt;strong&gt;Španělština:&lt;/strong&gt; Luca Riva.&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="100"/>
         <source>
 &lt;h3&gt;Alumni&lt;/h3&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;h3&gt;Bývalí spolupracovníci&lt;/h3&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="102"/>
         <source>
 &lt;li&gt;Luca Bertoncello (Italian translation)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;li&gt;Luca Bertoncello (italský překlad)&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="104"/>
         <source>
 &lt;li&gt;Adrien Crovato (Integration of weather information)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;li&gt;Adrien Crovato (integrace informací o počasí)&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="107"/>
@@ -2603,21 +2626,27 @@ Message: Enroute Flight Navigation
         <source>
 &lt;li&gt;Szymon Kocur (Polish translation)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;li&gt;Szymon Kocur (polský překlad)&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="110"/>
         <source>
 &lt;li&gt;Heiner Tholen (User interface)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;li&gt;Heiner Tholen (uživatelské rozhraní)&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="112"/>
         <source>
 &lt;li&gt;Johannes Zellner (Geoid correction for altitude)&lt;/li&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;li&gt;Johannes Zellner (korekce výšky podle geoidu)&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="119"/>
@@ -2627,7 +2656,12 @@ Message: Enroute Flight Navigation
 &lt;p&gt;If you are convinced that the data is good enough to be added, you can request to add the country. Please go to &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enrouteServer/issues&quot;&gt;this web site&lt;/a&gt; and open an &apos;issue&apos; with your request. Please tell us who you are, where you fly and how you convinced yourself that the data is good. If you find that the data is not good enough, you are welcome to join the openAIP project and help to improve the data.&lt;/p&gt;
 
 &lt;p&gt;Please understand that we program this free app in our spare time, as a service to the community. Sadly, I should point out that sending us impolite demands is not likely to give the result that you desire.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;p&gt;Letecká data získáváme z &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. Jedná se o neziskovou organizaci, v níž dobrovolníci sestavují letecká data pro mnoho zemí. Pokud openAIP pokrývá vaši zemi, můžeme pro ni pravděpodobně vygenerovat mapy. Nejprve si však musíme být dostatečně jisti, že jsou data openAIP přesná a úplná. Podívejte se prosím na &lt;a href=&quot;http://maps.openaip.net&quot;&gt;mapy openAIP&lt;/a&gt; a porovnejte zobrazení s oficiální leteckou mapou vaší země. Jsou tam letiště? Jsou délky a orientace drah i frekvence správné? Jsou správně zobrazena radionavigační zařízení, se správnými kódy a frekvencemi? A co vzdušné prostory?&lt;/p&gt;
+
+&lt;p&gt;Pokud jste přesvědčeni, že jsou data dostatečně kvalitní, můžete požádat o přidání dané země. Přejděte prosím na &lt;a href=&quot;https://github.com/Akaflieg-Freiburg/enrouteServer/issues&quot;&gt;tuto webovou stránku&lt;/a&gt; a otevřete „issue“ se svou žádostí. Napište nám prosím, kdo jste, kde létáte a jak jste se přesvědčili, že jsou data kvalitní. Pokud zjistíte, že data dostatečně kvalitní nejsou, můžete se připojit k projektu openAIP a pomoci je vylepšit.&lt;/p&gt;
+
+&lt;p&gt;Mějte prosím pochopení, že tuto bezplatnou aplikaci programujeme ve svém volném čase jako službu komunitě. S politováním musím podotknout, že zasílání nezdvořilých požadavků pravděpodobně nepovede k výsledku, který si přejete.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="169"/>
@@ -2642,7 +2676,17 @@ Message: Enroute Flight Navigation
   version of this license.
 &lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;h3&gt;Licence&lt;/h3&gt;
+
+&lt;p&gt;
+  Program &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;
+  je licencován pod licencí &lt;a
+  href=&quot;https://www.gnu.org/licenses/gpl-3.0-standalone.html&quot;&gt;GNU
+  General Public License V3&lt;/a&gt; nebo, podle vaší volby,
+  kteroukoli pozdější verzí této licence.
+&lt;/p&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="180"/>
@@ -2659,217 +2703,229 @@ Message: Enroute Flight Navigation
 %1
 &lt;/ul&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;h4&gt;Software a data obsažené v programu&lt;/h4&gt;
+
+&lt;p&gt;
+  V závislosti na platformě a konfiguraci mohou být
+  v instalaci aplikace
+  &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; obsaženy následující součásti.
+&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+%1
+&lt;/ul&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="198"/>
         <source>This Privacy Policy outlines the data handling practices for the app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tyto zásady ochrany osobních údajů popisují postupy nakládání s daty v aplikaci &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="199"/>
         <source>We prioritize your privacy and do not collect or store personally identifiable information.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vaše soukromí je pro nás prioritou; neshromažďujeme ani neukládáme žádné osobně identifikovatelné údaje.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="200"/>
         <source>However, for the app to function properly, it must communicate with certain servers on the Internet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aby však aplikace fungovala správně, musí komunikovat s určitými servery na internetu.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="201"/>
         <source>The following sections list the servers that &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; communicates with and explain the communication purposes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Následující části uvádějí servery, se kterými &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; komunikuje, a vysvětlují účely této komunikace.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="205"/>
         <source>By using Enroute Flight Navigation, you agree to this Privacy Policy.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Používáním aplikace Enroute Flight Navigation vyjadřujete souhlas s těmito zásadami ochrany osobních údajů.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="206"/>
         <source>We may update this policy periodically, and any changes will be posted within the app.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tyto zásady můžeme pravidelně aktualizovat a veškeré změny budou zveřejněny v aplikaci.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="210"/>
         <source>1. Data and Anonymization Server (enroute-data)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1. Datový a anonymizační server (enroute-data)</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="214"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; regularly communicates with the server &lt;strong&gt;enroute-data.akaflieg-freiburg.de&lt;/strong&gt; (referred to as &lt;strong&gt;enroute-data&lt;/strong&gt;), operated by Hetzner Online GmbH on behalf of Akaflieg Freiburg.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; pravidelně komunikuje se serverem &lt;strong&gt;enroute-data.akaflieg-freiburg.de&lt;/strong&gt; (dále jen &lt;strong&gt;enroute-data&lt;/strong&gt;), který jménem Akaflieg Freiburg provozuje společnost Hetzner Online GmbH.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="215"/>
         <source>The server&apos;s primary role is to facilitate the app&apos;s functionality while maintaining user privacy.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hlavní úlohou serveru je zajišťovat funkčnost aplikace při zachování soukromí uživatelů.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="219"/>
         <source>1.1. Data Collected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1.1. Shromažďovaná data</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="223"/>
         <source>In every communication with &lt;strong&gt;enroute-data&lt;/strong&gt;, your device&apos;s IP address is transmitted to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Při každé komunikaci se serverem &lt;strong&gt;enroute-data&lt;/strong&gt; je na server přenesena IP adresa vašeho zařízení.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="224"/>
         <source>The server needs to know the IP address to respond.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Server potřebuje znát IP adresu, aby mohl odpovědět.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="228"/>
         <source>The server stores the following data items in its log files.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Server ukládá ve svých protokolových souborech následující údaje.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="232"/>
         <source>&lt;strong&gt;Pseudonymized IP Address&lt;/strong&gt;: The last byte of your IP address is replaced with a random number, ensuring it cannot identify you.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;Pseudonymizovaná IP adresa&lt;/strong&gt;: Poslední bajt vaší IP adresy je nahrazen náhodným číslem, takže vás nemůže identifikovat.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="233"/>
         <source>&lt;strong&gt;Access Data&lt;/strong&gt;: Date and time of access, error codes, and data sent.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;Přístupové údaje&lt;/strong&gt;: Datum a čas přístupu, chybové kódy a odeslaná data.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="234"/>
         <source>&lt;strong&gt;Software Information&lt;/strong&gt;: The name of the web browser or software in use if the visitor’s software provides this information to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;Informace o softwaru&lt;/strong&gt;: Název webového prohlížeče nebo používaného softwaru, pokud software návštěvníka tuto informaci serveru poskytuje.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="235"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; does not provide this information and sends a standard text (&apos;Mozilla/5.0&apos;) instead.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; tuto informaci neposkytuje a místo ní odesílá standardní text („Mozilla/5.0“).</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="236"/>
         <source>&lt;strong&gt;Operating System:&lt;/strong&gt; The operating system&apos;s name if the visitor’s software provides this information to the server.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;Operační systém:&lt;/strong&gt; Název operačního systému, pokud software návštěvníka tuto informaci serveru poskytuje.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="237"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; does not provide this information. </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; tuto informaci neposkytuje. </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="241"/>
         <source>1.2. Communication: Data Download</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1.2. Komunikace: Stahování dat</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="245"/>
         <source>The app checks for updates and downloads data from &lt;strong&gt;enroute-data&lt;/strong&gt; to provide current maps and aviation data.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aplikace kontroluje aktualizace a stahuje data ze serveru &lt;strong&gt;enroute-data&lt;/strong&gt;, aby poskytovala aktuální mapy a letecká data.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="246"/>
         <source>Your IP address is transmitted in the process.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Při tom je přenášena vaše IP adresa.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="250"/>
         <source>1.3. Communication: NOTAM, METAR and TAF </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1.3. Komunikace: NOTAM, METAR a TAF </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="254"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; shows NOTAMs, METARs, and TAFs for airfields near your current location and your currently planned route.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; zobrazuje zprávy NOTAM, METAR a TAF pro letiště poblíž vaší aktuální polohy a aktuálně plánované trati.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="255"/>
         <source>It also shows NOTAMs, METARs, and TAFs for all waypoints you open in the app.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazuje také zprávy NOTAM, METAR a TAF pro všechny navigační body, které v aplikaci otevřete.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="256"/>
         <source>To provide this functionality, requests are transmitted to the server &lt;strong&gt;enroute-data&lt;/strong&gt; at regular intervals and whenever new data is requested.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pro zajištění této funkce jsou na server &lt;strong&gt;enroute-data&lt;/strong&gt; odesílány požadavky, a to v pravidelných intervalech a při každém vyžádání nových dat.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="257"/>
         <source>In addition to your device&apos;s IP address, the following data items will be sent.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kromě IP adresy vašeho zařízení budou odeslány následující údaje.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="261"/>
         <source>Your current location</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vaše aktuální poloha</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="262"/>
         <source>The currently planned route</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktuálně plánovaná trať</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="263"/>
         <source>Waypoint coordinates</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Souřadnice navigačních bodů</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="269"/>
         <source>We do not control the data handling practices of these external services.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Postupy nakládání s daty těchto externích služeb nemáme pod kontrolou.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="304"/>
         <source>Vertical airspace boundaries are defined as barometric altitudes, either over QNH or over the standard pressure level.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vertikální hranice vzdušných prostorů jsou definovány jako barometrické výšky, buď nad QNH, nebo nad standardní tlakovou hladinou.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="305"/>
         <source>As a consequence, the geometric altitude of airspaces changes with the weather: Airspaces are typically much lower on cold winter days than they are in summer.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Geometrická výška vzdušných prostorů se proto mění s počasím: v chladných zimních dnech jsou vzdušné prostory obvykle mnohem níže než v létě.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="307"/>
         <source>In order to show your aircraft in relation to airspaces, Enroute Flight Navigation therefore needs to know the barometric altitudes of your aircraft, or equivalently, the static pressure.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aby mohla Enroute Flight Navigation zobrazit vaše letadlo ve vztahu ke vzdušným prostorům, potřebuje znát barometrickou výšku vašeho letadla, nebo ekvivalentně statický tlak.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="308"/>
         <source>This data is currently not available.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tyto údaje momentálně nejsou k dispozici.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="310"/>
         <source>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/forward.html#staticpressure&apos;&gt;Consult the manual&lt;/a&gt; for more information and for possible solutions.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/forward.html#staticpressure&apos;&gt;Nahlédněte do návodu&lt;/a&gt;, kde naleznete více informací a možná řešení.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="318"/>
         <source>The maps for France now come with Visual approach charts for the maps; the charts charts will be available for free once you install or update the maps for France. We thank the &lt;a href=&apos;https://www.sia.aviation-civile.gouv.fr/&apos;&gt;SIA&lt;/a&gt; for publishing the data under a free license, and Quentin Bossard and Michael Paus for the georeferencing work and long-term maintenance!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mapy pro Francii nyní obsahují mapy pro vizuální přiblížení; tyto mapy budou k dispozici zdarma, jakmile nainstalujete nebo aktualizujete mapy pro Francii. Děkujeme &lt;a href=&apos;https://www.sia.aviation-civile.gouv.fr/&apos;&gt;SIA&lt;/a&gt; za zveřejnění dat pod svobodnou licencí a Quentinu Bossardovi a Michaelu Pausovi za georeferencování a dlouhodobou údržbu!</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="322"/>
         <source>There are now specialized icons for obstacle NOTAMs and NOTAMs about drone flights. We thank Christian Engelhardt for the implementation!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pro NOTAMy o překážkách a NOTAMy týkající se letů dronů jsou nyní k dispozici specializované ikony. Děkujeme Christianu Engelhardtovi za implementaci!</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="326"/>
         <source>Support for Bluetooth Classic and Bluetooth Low Energy is now a regular feature and no longer in tech preview. Please report any issues that you may find!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podpora Bluetooth Classic a Bluetooth Low Energy je nyní běžnou funkcí a není již v režimu technického náhledu. Nahlaste prosím jakékoli problémy, na které narazíte!</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="267"/>
         <source>The server forwards requests for NOTAMs to a Federal Aviation Administration web service but hides your IP address, so the service will never see it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Server předává požadavky na NOTAMy webové službě Federal Aviation Administration, ale skrývá vaši IP adresu, takže ji tato služba nikdy neuvidí.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="76"/>
         <source>Christian Engelhardt implemented the OGN network connection, flight plan export and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and works as an embedded software engineer.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Christian Engelhardt implementoval připojení k síti OGN, export letových plánů a zahájil implementaci výpočtu hustotní výšky. Christian je PPL pilot z jižního Německa, vystudoval elektrotechniku a pracuje jako vývojář vestavěného softwaru.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="82"/>
         <source>Markus Marks helped to implement the side view. Based in southern Germany, Markus is an enthusiastic glider pilot software developer working in embedded systems.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Markus Marks pomohl s implementací bočního pohledu. Markus žije v jižním Německu, je nadšeným pilotem kluzáků a softwarovým vývojářem v oblasti vestavěných systémů.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="134"/>
@@ -2898,62 +2954,86 @@ Message: Enroute Flight Navigation
 &lt;p&gt;This program builds on a number of open source libraries, including &lt;a href=&quot;https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt; and &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Aeronautical data is kindly provided by the &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; and &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt; projects. Base maps are kindly provided by &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Please refer to the documentation for more details.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
+
+&lt;p&gt;Verze %1&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; je bezplatná navigační aplikace pro VFR piloty, vyvíjená jako projekt spolku Akaflieg Freiburg.&lt;/p&gt;
+
+&lt;ul style=&quot;margin-left:-25px;&quot;&gt;
+  &lt;li&gt;Jednoduchá, elegantní a funkční&lt;/li&gt;
+  &lt;li&gt;Žádné reklamy, žádná komerční &quot;pro&quot; verze&lt;/li&gt;
+  &lt;li&gt;Žádná registrace, žádné členství&lt;/li&gt;
+  &lt;li&gt;Nešpehuje vás&lt;/li&gt;
+  &lt;li&gt;100% Open Source, napsaná bez komerčního zájmu&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Více informací naleznete na &lt;a href=&quot;https://akaflieg-freiburg.github.io/enroute/&quot;&gt;webových stránkách&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Akademický sponzor&lt;/h3&gt;
+      
+&lt;p&gt;Autor s vděčností děkuje za podporu našemu akademickému sponzorovi, &lt;a href=&quot;https://www.uni-freiburg.de&quot;&gt;Univerzitě ve Freiburgu&lt;/a&gt;. Univerzita laskavě poskytuje infrastrukturu používanou ke generování našich map i přenosovou kapacitu potřebnou k jejich distribuci.&lt;/p&gt;
+
+&lt;h3&gt;Poděkování&lt;/h3&gt;
+
+&lt;p&gt;Tento program je postaven na řadě open source knihoven, včetně &lt;a href=&quot;https://github.com/nnaumenko/metaf&quot;&gt;Metaf&lt;/a&gt;, &lt;a href=&quot;https://www.openssl.org&quot;&gt;OpenSSL&lt;/a&gt;, &lt;a href=&quot;https://www.qt.io&quot;&gt;Qt&lt;/a&gt; a &lt;a href=&quot;https://github.com/buelowp/sunset&quot;&gt;sunset&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Letecké údaje laskavě poskytují projekty &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; a &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;. Základní mapy laskavě poskytuje projekt &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Podrobnosti naleznete v dokumentaci.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="268"/>
         <source>The Federal Aviation Administration&apos;s web services are operated by the US government.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Webové služby Federal Aviation Administration jsou provozovány vládou USA.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="270"/>
         <source>Detailed information can be found at &lt;strong&gt;api.faa.gov&lt;/strong&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Podrobné informace naleznete na &lt;strong&gt;api.faa.gov&lt;/strong&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="274"/>
         <source>Other Servers </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ostatní servery </translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="278"/>
         <source>At the user&apos;s request, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; may display external websites in an embedded browser window or ask the operating system to open external apps such as Google Maps.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na žádost uživatele může &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; zobrazit externí webové stránky ve vestavěném okně prohlížeče nebo požádat operační systém o otevření externích aplikací, jako jsou Mapy Google.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="279"/>
         <source>These external sites and apps are beyond our control and may collect their own data.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tyto externí stránky a aplikace jsou mimo naši kontrolu a mohou shromažďovat vlastní údaje.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="283"/>
         <source>Users expect web browsers to follow hyperlinks immediately but may not expect the same behavior elsewhere in the app.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uživatelé očekávají, že webové prohlížeče otevřou hypertextové odkazy okamžitě, stejné chování však nemusí očekávat jinde v aplikaci.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="284"/>
         <source>To account for these expectations, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; operates as follows.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S ohledem na tato očekávání funguje &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; následovně.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="288"/>
         <source>&lt;strong&gt;Embedded Browser Windows&lt;/strong&gt;: Clicking a hyperlink is considered authorization to open the external site.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;Vestavěná okna prohlížeče&lt;/strong&gt;: Kliknutí na hypertextový odkaz je považováno za souhlas s otevřením externí stránky.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="289"/>
         <source>&lt;strong&gt;Outside Embedded Browser Windows&lt;/strong&gt;: The app will ask for explicit user authorization before opening any external site or app.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;Mimo vestavěná okna prohlížeče&lt;/strong&gt;: Aplikace si před otevřením jakékoli externí stránky nebo aplikace vyžádá výslovný souhlas uživatele.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="293"/>
         <source>Responsible</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Správce</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="330"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potřebujeme pomoc s propagační grafikou pro obchody s aplikacemi a s instruktážními videi. Pokud jste grafik nebo tvůrce videí a chtěli byste pomoci, ozvěte se nám prosím.</translation>
     </message>
 </context>
 <context>
@@ -2965,7 +3045,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="473"/>
         <source>No aviation map installed for your present location.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pro vaši aktuální polohu není nainstalována žádná letecká mapa.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/MFM.qml" line="475"/>
@@ -3087,7 +3167,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/items/NavBar.qml" line="118"/>
         <source>Showing Altitude Above Mean Sea Level</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazena výška nad střední hladinou moře</translation>
     </message>
     <message>
         <source>Showing Altitude Above Main Sea Level</source>
@@ -3369,7 +3449,29 @@ with the programming, please get in touch with us by
 opening a GitHub issue. We are grateful for any help we
 can get.&lt;/p&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;h3&gt;Zapojte se do vývoje&lt;/h3&gt;
+
+&lt;p&gt;S aplikací &lt;strong&gt;Enroute Flight
+Navigation&lt;/strong&gt; máme velké plány, podívejte se na náš
+&lt;a href=&apos;https://github.com/Akaflieg-Freiburg/enroute/projects&apos;&gt;seznam
+projektů na GitHubu&lt;/a&gt;, co chystáme.&lt;/p&gt;
+
+&lt;h3&gt;Překládejte&lt;/h3&gt;
+
+&lt;p&gt;Pokud umíte pracovat se systémem správy verzí GIT a
+chtěli byste aplikaci přeložit do svého rodného jazyka,
+rádi o vás uslyšíme. Zkušenosti s programováním nejsou
+nutné, jsou však vyžadovány dobré počítačové
+znalosti.&lt;/p&gt;
+
+&lt;h3&gt;Přidejte se k vývoji&lt;/h3&gt;
+
+&lt;p&gt;Pokud ovládáte C++ a chtěli byste pomoci
+s programováním, kontaktujte nás prosím otevřením
+GitHub issue. Jsme vděčni za jakoukoli pomoc, kterou
+můžeme získat.&lt;/p&gt;
+</translation>
     </message>
 </context>
 <context>
@@ -3487,12 +3589,12 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/platform/FileExchange_Abstract.cpp" line="192"/>
         <source>Unable to extract georeferencing information from the file. %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ze souboru se nepodařilo extrahovat informace o georeferencování. %1</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Abstract.cpp" line="196"/>
         <source>Unable to extract georeferencing information from the file.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ze souboru se nepodařilo extrahovat informace o georeferencování.</translation>
     </message>
 </context>
 <context>
@@ -3553,7 +3655,7 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/Positioning.qml" line="168"/>
         <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the mean sea level, respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skutečná výška AGL nebo AMSL je vertikální vzdálenost letadla od terénu, respektive od střední hladiny moře.</translation>
     </message>
     <message>
         <source>Altitude</source>
@@ -3695,27 +3797,27 @@ can get.&lt;/p&gt;
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="94"/>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="102"/>
         <source>Sensor Data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Údaje čidel</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="103"/>
         <source>Cabin pressure is the air pressure measured by your device.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kabinový tlak je tlak vzduchu naměřený vaším zařízením.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="105"/>
         <source>Cabin temperature is the temperature measured by your device.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kabinová teplota je teplota naměřená vaším zařízením.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="110"/>
         <source>Cabin Pressure</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kabinový tlak</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="132"/>
         <source>Cabin Temperature</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kabinová teplota</translation>
     </message>
     <message>
         <source>Receiving static pressure data from traffic receiver</source>
@@ -3736,7 +3838,7 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/PressureAltitude.qml" line="104"/>
         <source>Cabin altitude is the altitude at which an aircraft flying in the ICAO standard atmosphere experiences a static pressure equal to the pressure in the cabin of your aircraft.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kabinová výška je výška, ve které je letadlo letící ve standardní atmosféře ICAO vystaveno statickému tlaku rovnému tlaku v kabině vašeho letadla.</translation>
     </message>
     <message>
         <source>Pressure Altitude</source>
@@ -3824,73 +3926,73 @@ can get.&lt;/p&gt;
         <location filename="../../../src/fileFormats/CSV.cpp" line="135"/>
         <source>Cannot open CSV file %1 for reading.</source>
         <comment>FileFormats::CSV</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze otevřít CSV soubor %1 pro čtení.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUP.cpp" line="124"/>
         <source>Direction: %1°</source>
         <comment>GeoMaps::CUP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr: %1°</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUP.cpp" line="128"/>
         <source>Length: %1</source>
         <comment>GeoMaps::CUP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Délka: %1</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUP.cpp" line="170"/>
         <source>Error reading line %1 in the CUP file %2.</source>
         <comment>FileFormats::CUP</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chyba při čtení řádku %1 v CUP souboru %2.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="57"/>
         <source>No GeoKeyDirectoryTag found — not a valid GeoTIFF.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nebyl nalezen GeoKeyDirectoryTag — soubor není platný GeoTIFF.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="66"/>
         <source>GeoKeyDirectoryTag is too short to be valid.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">GeoKeyDirectoryTag je příliš krátký na to, aby byl platný.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="73"/>
         <source>Invalid key count in GeoKeyDirectoryTag.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neplatný počet klíčů v GeoKeyDirectoryTag.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="79"/>
         <source>GeoKeyDirectoryTag is truncated.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">GeoKeyDirectoryTag je oříznutý.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="110"/>
         <source>GTModelTypeGeoKey is not stored inline — malformed GeoTIFF.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">GTModelTypeGeoKey není uložen inline — poškozený GeoTIFF.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="118"/>
         <source>This file uses a projected coordinate reference system, which is not supported by Enroute Flight Navigation. Consult the manual for an explanation of how to convert the file to geographic coordinates.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tento soubor používá projektovaný souřadnicový referenční systém, který Enroute Flight Navigation nepodporuje. V návodu naleznete vysvětlení, jak soubor převést do geografických souřadnic.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="124"/>
         <source>This file uses geocentric (3D Cartesian) coordinates, which are not supported by Enroute Flight Navigation. Consult the manual for an explanation of how to convert this file to geographic coordinates.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tento soubor používá geocentrické (3D kartézské) souřadnice, které Enroute Flight Navigation nepodporuje. V návodu naleznete vysvětlení, jak tento soubor převést do geografických souřadnic.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="130"/>
         <source>Unsupported coordinate system: unknown GTModelType %1.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nepodporovaný souřadnicový systém: neznámý GTModelType %1.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="188"/>
@@ -3900,195 +4002,195 @@ can get.&lt;/p&gt;
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="210"/>
         <source>Invalid data for tag 33922.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neplatná data pro tag 33922.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="229"/>
         <source>No data for tag 270.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádná data pro tag 270.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="244"/>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="257"/>
         <source>Invalid data for tag 33550.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neplatná data pro tag 33550.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="271"/>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="284"/>
         <source>Invalid data for tag 34264.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neplatná data pro tag 34264.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="302"/>
         <source>No raster size data.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chybí údaje o velikosti rastru.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="308"/>
         <source>No transformation data.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chybí transformační data.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/GeoTIFF.cpp" line="324"/>
         <source>Invalid coordinate data.</source>
         <comment>FileFormats::GeoTIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neplatná data souřadnic.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/MapURL.cpp" line="151"/>
         <source>Cannot extract valid coordinates from the URL.</source>
         <comment>FileFormats::CSV</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Z URL nelze extrahovat platné souřadnice.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/MBTILES.cpp" line="50"/>
         <source>Unable to open database connection to MBTILES file.</source>
         <comment>FileFormats::MBTILES</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze otevřít databázové připojení k souboru MBTILES.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/MBTILES.cpp" line="57"/>
         <source>Unable to read metadata table from MBTILES file.</source>
         <comment>FileFormats::MBTILES</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze načíst tabulku metadat ze souboru MBTILES.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="59"/>
         <source>Found corrupt data while reading the data stream.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Při čtení datového proudu byla nalezena poškozená data.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="61"/>
         <source>Read past end of data stream.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čtení za koncem datového proudu.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="64"/>
         <source>Data is larger than supported by the current platform.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Data jsou větší, než aktuální platforma podporuje.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="67"/>
         <source>Error writing to data stream.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chyba při zápisu do datového proudu.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="128"/>
         <source>Found invalid TIFF file data.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nalezena neplatná data souboru TIFF.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="136"/>
         <source>BigTIFF files are not supported.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubory BigTIFF nejsou podporovány.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="140"/>
         <source>Found an unsupported TIFF version.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nalezena nepodporovaná verze TIFF.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="157"/>
         <source>Found more than 100 tags in the TIFF file. Reading only the first 100.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">V souboru TIFF bylo nalezeno více než 100 tagů. Čtu pouze prvních 100.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="247"/>
         <source>Cannot read data.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze číst data.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="299"/>
         <source>No data for tag 256.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádná data pro tag 256.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="305"/>
         <source>Invalid data for tag 256.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neplatná data pro tag 256.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="310"/>
         <source>Tag 256 is not set.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tag 256 není nastaven.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="322"/>
         <source>No data for tag 257.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádná data pro tag 257.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="328"/>
         <source>Invalid data for tag 257.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neplatná data pro tag 257.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TIFF.cpp" line="333"/>
         <source>Tag 257 is not set.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tag 257 není nastaven.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="134"/>
         <source>The zip archive does not contain the required file &apos;toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zip archiv neobsahuje požadovaný soubor &apos;toc.json&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="139"/>
         <source>The file &apos;toc.json&apos; from the zip archive cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor &apos;toc.json&apos; ze zip archivu nelze interpretovat.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="149"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zip archiv %1 neobsahuje požadovaný soubor &apos;charts/charts_toc.json&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="154"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor &apos;charts/charts_toc.json&apos; ze zip archivu %1 nelze interpretovat.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="160"/>
         <source>The trip kit does not contain any charts.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Trip Kit neobsahuje žádné mapy.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="190"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Souřadnice pro položku &apos;%1&apos; v Trip Kitu jsou neplatné.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/ZipFile.cpp" line="37"/>
         <source>Cannot open zip file %1 for reading.</source>
         <comment>FileFormats::ZipFile</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze otevřít zip soubor %1 pro čtení.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="56"/>
@@ -4099,7 +4201,7 @@ can get.&lt;/p&gt;
         <location filename="../../../src/geomaps/OpenAir.cpp" line="325"/>
         <source>Invalid number found: %1</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nalezeno neplatné číslo: %1</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="67"/>
@@ -4107,20 +4209,20 @@ can get.&lt;/p&gt;
         <location filename="../../../src/geomaps/OpenAir.cpp" line="135"/>
         <source>Variable X is not set but Circle should be drawn</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Proměnná X není nastavena, ale má být vykreslena kružnice</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="171"/>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="185"/>
         <source>Invalid arc specification</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neplatná specifikace oblouku</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="302"/>
         <source>Invalid content for VariableD (direction): %1</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neplatný obsah pro VariableD (směr): %1</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="369"/>
@@ -4128,31 +4230,31 @@ can get.&lt;/p&gt;
         <location filename="../../../src/geomaps/OpenAir.cpp" line="387"/>
         <source>Invalid coordinate found: %1</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nalezena neplatná souřadnice: %1</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="521"/>
         <source>Warnings</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Varování</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="545"/>
         <source>Cannot open file %1</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze otevřít soubor %1</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="627"/>
         <source>Unrecognized record type in line %1: %2; Line ignored.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nerozpoznaný typ záznamu na řádku %1: %2; řádek ignorován.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/OpenAir.cpp" line="632"/>
         <source>Error in line %1: %2; Airspace %3 ignored.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chyba na řádku %1: %2; vzdušný prostor %3 ignorován.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="91"/>
@@ -4170,7 +4272,7 @@ can get.&lt;/p&gt;
         <location filename="../../../src/geomaps/VAC.cpp" line="101"/>
         <source>%1 chart collection</source>
         <comment>VAC</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sbírka map %1</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="103"/>
@@ -4187,22 +4289,22 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="212"/>
         <source>Unable to open the file &apos;%1&apos; for reading.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze otevřít soubor &apos;%1&apos; pro čtení.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="228"/>
         <source>JSON document contains no data.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">JSON dokument neobsahuje žádná data.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="232"/>
         <source>JSON document does not describe an aircraft.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">JSON dokument nepopisuje letadlo.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="259"/>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze otevřít soubor &apos;%1&apos; pro zápis.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="265"/>
@@ -4213,19 +4315,19 @@ can get.&lt;/p&gt;
         <location filename="../../../src/notam/NOTAMList.cpp" line="93"/>
         <source>No NOTAMs known</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nejsou známy žádné NOTAMy</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NOTAMList.cpp" line="97"/>
         <source>NOTAMs available</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">NOTAMy k dispozici</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NOTAMList.cpp" line="102"/>
         <source>Update requested.</source>
         <comment>NOTAM::NotamList</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyžádána aktualizace.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="45"/>
@@ -4237,103 +4339,103 @@ can get.&lt;/p&gt;
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="55"/>
         <source>Bluetooth Low Energy Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zařízení Bluetooth Low Energy</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="60"/>
         <source>Miscellaneous Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ostatní zařízení</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="63"/>
         <source>Computer or PDA Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Počítač nebo PDA</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="66"/>
         <source>Telephone Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Telefonní zařízení</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="69"/>
         <source>Network Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Síťové zařízení</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="72"/>
         <source>Audio/Video Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Audio/video zařízení</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="75"/>
         <source>Peripheral Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Periferní zařízení</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="78"/>
         <source>Imaging Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zobrazovací zařízení</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="81"/>
         <source>Wearable Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nositelné zařízení</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="84"/>
         <source>Toy Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Hračka</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="87"/>
         <source>Health Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zdravotnické zařízení</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="90"/>
         <source>Uncategorized Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nezařazené zařízení</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="95"/>
         <source>Serial Port Service</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Služba sériového portu</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="140"/>
         <source>Serial Port Connection to %1</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Připojení přes sériový port k %1</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="147"/>
         <source>UDP Connection to Port %1</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">UDP připojení na port %1</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="155"/>
         <source>TCP Connection to %1, Port %2</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">TCP připojení k %1, port %2</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/ConnectionInfo.cpp" line="164"/>
         <source>Open Glider Network Connection</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Připojení k Open Glider Network</translation>
     </message>
     <message>
         <source>OGN glidernet.org APRS-IS connection</source>
@@ -4344,73 +4446,73 @@ can get.&lt;/p&gt;
         <location filename="../../../src/traffic/ConnectionInfo.h" line="329"/>
         <source>Invalid Device</source>
         <comment>Traffic::ConnectionInfo</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neplatné zařízení</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="35"/>
         <source>Cannot open FPL file %1 for reading.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor FPL %1 nelze otevřít pro čtení.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="42"/>
         <source>Cannot parse FPL file %1 for XML.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor FPL %1 nelze načíst jako XML.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="77"/>
         <source>Waypoint %1 has more than one identifier.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navigační bod %1 má více než jeden identifikátor.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="86"/>
         <source>Waypoint %1 has more than one latitude.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navigační bod %1 má více než jednu zeměpisnou šířku.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="93"/>
         <source>Waypoint %1 does not have a valid latitude.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navigační bod %1 nemá platnou zeměpisnou šířku.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="101"/>
         <source>Waypoint %1 has more than one longitude.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navigační bod %1 má více než jednu zeměpisnou délku.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="108"/>
         <source>Waypoint %1 does not have a valid longitude.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navigační bod %1 nemá platnou zeměpisnou délku.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="116"/>
         <source>Waypoint %1 has more than one elevation.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navigační bod %1 má více než jednu nadmořskou výšku.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="123"/>
         <source>Waypoint %1 does not have a valid elevation.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navigační bod %1 nemá platnou nadmořskou výšku.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="134"/>
         <source>Waypoint %1 does not have an identifier.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navigační bod %1 nemá identifikátor.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="139"/>
         <source>Waypoint %1 does not have valid coordinates.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navigační bod %1 nemá platné souřadnice.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="147"/>
@@ -4418,105 +4520,105 @@ can get.&lt;/p&gt;
         <location filename="../../../src/fileFormats/FPL.cpp" line="209"/>
         <source>File %1 does not contain waypoints.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor %1 neobsahuje žádné navigační body.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="180"/>
         <source>Waypoint %1 does not have a unique waypoint identifier.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navigační bod %1 nemá jedinečný identifikátor navigačního bodu.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="190"/>
         <source>Waypoint identifier for point %1 of the flight route does not exist.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Identifikátor navigačního bodu pro bod %1 trati neexistuje.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="47"/>
         <location filename="../../../src/fileFormats/FPL.cpp" line="214"/>
         <source>File %1 does not contain a route.</source>
         <comment>FileFormats::FPL</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor %1 neobsahuje trať.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="75"/>
         <source>Cannot open PLN file %1 for reading.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor PLN %1 nelze otevřít pro čtení.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="81"/>
         <source>Cannot parse PLN file %1 for XML.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor PLN %1 nelze načíst jako XML.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="86"/>
         <source>File %1 does not contain a route.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor %1 neobsahuje trať.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="126"/>
         <location filename="../../../src/fileFormats/PLN.cpp" line="136"/>
         <source>Position of waypoint %1 is invalid.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poloha navigačního bodu %1 je neplatná.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="143"/>
         <source>More than one position specified for waypoint %1.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pro navigační bod %1 je zadána více než jedna poloha.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="150"/>
         <source>File %1 does not contain waypoints.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor %1 neobsahuje žádné navigační body.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/PLN.cpp" line="158"/>
         <source>File %1 contains more than one flight plan.</source>
         <comment>FileFormats::PLN</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor %1 obsahuje více než jeden letový plán.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="42"/>
         <source>Unable to open database connection to VAC collection file.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze otevřít databázové připojení k souboru sbírky map VAC.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="51"/>
         <source>Unable to read metadata table from VAC collection file.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ze souboru sbírky map VAC nelze načíst tabulku metadat.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="61"/>
         <source>VAC collection file has unsupported schema version.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor sbírky map VAC má nepodporovanou verzi schématu.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="77"/>
         <source>Unable to read charts table from VAC collection file.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ze souboru sbírky map VAC nelze načíst tabulku map.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="92"/>
         <source>Skipping chart entry &apos;%1&apos;, which is invalid.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přeskakuji záznam mapy &apos;%1&apos;, který je neplatný.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/VACCollection.cpp" line="99"/>
         <source>VAC collection file contains no valid charts.</source>
         <comment>FileFormats::VACCollection</comment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soubor sbírky map VAC neobsahuje žádné platné mapy.</translation>
     </message>
 </context>
 <context>
@@ -4582,17 +4684,17 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/Sensors.cpp" line="101"/>
         <source>Pressure sensor available.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tlakové čidlo je k dispozici.</translation>
     </message>
     <message>
         <location filename="../../../src/Sensors.cpp" line="105"/>
         <source>Temperature sensor available.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Teplotní čidlo je k dispozici.</translation>
     </message>
     <message>
         <location filename="../../../src/Sensors.cpp" line="112"/>
         <source>No ambient pressure/temperature sensor available.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čidlo okolního tlaku/teploty není k dispozici.</translation>
     </message>
 </context>
 <context>
@@ -4943,7 +5045,7 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/Sideview.qml" line="270"/>
         <source>Static Pressure Unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Statický tlak není k dispozici</translation>
     </message>
 </context>
 <context>
@@ -5338,117 +5440,117 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="43"/>
         <source>The connection was refused by the peer (or timed out).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spojení bylo protistranou odmítnuto (nebo vypršel časový limit).</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="46"/>
         <source>The remote host closed the connection.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vzdálený hostitel spojení ukončil.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="49"/>
         <source>The host address was not found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adresa hostitele nebyla nalezena.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="52"/>
         <source>The socket operation failed because the application lacked the required privileges.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Operace se soketem se nezdařila, protože aplikace nemá potřebná oprávnění.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="55"/>
         <source>The local system ran out of resources.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Místnímu systému došly prostředky.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="58"/>
         <source>The socket operation timed out.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Časový limit operace se soketem vypršel.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="61"/>
         <source>The datagram was larger than the operating system&apos;s limit.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Datagram byl větší, než dovoluje limit operačního systému.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="64"/>
         <source>An error occurred with the network.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Došlo k chybě sítě.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="67"/>
         <source>The address specified to QAbstractSocket::bind() is already in use and was set to be exclusive.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adresa zadaná funkci QAbstractSocket::bind() se již používá a byla nastavena jako výhradní.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="70"/>
         <source>The address specified to QAbstractSocket::bind() does not belong to the host.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adresa zadaná funkci QAbstractSocket::bind() nepatří tomuto hostiteli.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="73"/>
         <source>The requested socket operation is not supported by the local operating system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Požadovaná operace se soketem není místním operačním systémem podporována.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="76"/>
         <source>The socket is using a proxy, and the proxy requires authentication.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soket používá proxy a tato proxy vyžaduje ověření.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="79"/>
         <source>The SSL/TLS handshake failed, so the connection was closed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Navázání spojení SSL/TLS (handshake) se nezdařilo, spojení bylo proto uzavřeno.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="82"/>
         <source>The last operation attempted has not finished yet (still in progress in the background).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Poslední požadovaná operace ještě neskončila (stále probíhá na pozadí).</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="85"/>
         <source>Could not contact the proxy server because the connection to that server was denied.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze se spojit s proxy serverem, protože připojení k tomuto serveru bylo odmítnuto.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="88"/>
         <source>The connection to the proxy server was closed unexpectedly (before the connection to the final peer was established).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Připojení k proxy serveru bylo neočekávaně ukončeno (dříve, než bylo navázáno spojení s cílovou protistranou).</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="91"/>
         <source>The connection to the proxy server timed out or the proxy server stopped responding in the authentication phase.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Časový limit připojení k proxy serveru vypršel, nebo proxy server přestal ve fázi ověřování odpovídat.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="94"/>
         <source>The proxy address set with setProxy() (or the application proxy) was not found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Adresa proxy nastavená pomocí setProxy() (nebo proxy aplikace) nebyla nalezena.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="97"/>
         <source>The connection negotiation with the proxy server failed, because the response from the proxy server could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyjednávání spojení s proxy serverem se nezdařilo, protože odpovědi proxy serveru nebylo možné porozumět.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="100"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Došlo k pokusu o operaci, kterou aktuální stav soketu nedovoluje.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="103"/>
         <source>The SSL library being used reported an internal error. This is probably the result of a bad installation or misconfiguration of the library.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Použitá knihovna SSL ohlásila vnitřní chybu. Pravděpodobně jde o důsledek chybné instalace nebo nesprávné konfigurace knihovny.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="106"/>
         <source>Invalid data (certificate, key, cipher, etc.) was provided and its use resulted in an error in the SSL library.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Byla poskytnuta neplatná data (certifikát, klíč, šifra atd.) a jejich použití vedlo k chybě v knihovně SSL.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="109"/>
         <source>A temporary error occurred (e.g., operation would block and socket is non-blocking).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Došlo k dočasné chybě (např. operace by blokovala a soket je neblokující).</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="112"/>
@@ -5458,12 +5560,12 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="131"/>
         <source>Performing host name lookup.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Probíhá překlad názvu hostitele.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="134"/>
         <source>Trying to establish a connection.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokouším se navázat spojení.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="137"/>
@@ -5473,12 +5575,12 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="140"/>
         <source>Bound to an address and port, but not connected yet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Svázáno s adresou a portem, ale zatím nepřipojeno.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="143"/>
         <source>Closing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Uzavírám.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_AbstractSocket.cpp" line="32"/>
@@ -5492,7 +5594,7 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="53"/>
         <source>Due to platform limitations, Bluetooth Classic is not supported on iOS.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kvůli omezením platformy není Bluetooth Classic na iOS podporován.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="63"/>
@@ -5507,37 +5609,37 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="95"/>
         <source>No error.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Žádná chyba.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="98"/>
         <source>Could not find the remote host.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vzdáleného hostitele se nepodařilo nalézt.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="101"/>
         <source>Could not find the service UUID on remote host.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Na vzdáleném hostiteli se nepodařilo nalézt UUID služby.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="104"/>
         <source>Attempt to read or write from socket returned an error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokus o čtení ze soketu nebo zápis do něj skončil chybou</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="107"/>
         <source>The Protocol is not supported on this platform.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Protokol není na této platformě podporován.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="110"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Došlo k pokusu o operaci, kterou aktuální stav soketu nedovoluje.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="113"/>
         <source>The remote host closed the connection.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vzdálený hostitel spojení ukončil.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="116"/>
@@ -5547,37 +5649,37 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="127"/>
         <source>The socket is not connected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soket není připojen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="130"/>
         <source>The socket is querying connection parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soket zjišťuje parametry spojení.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="133"/>
         <source>The socket is attempting to connect.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soket se pokouší připojit.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="136"/>
         <source>The socket is connected.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soket je připojen.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="139"/>
         <source>The socket is bound to a local address and port.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soket je svázán s místní adresou a portem.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="142"/>
         <source>The socket is connected and will be closed once all pending data is written to the socket.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soket je připojen a bude uzavřen, jakmile budou zapsána všechna čekající data.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="145"/>
         <source>The socket is listening for incoming connections.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Soket naslouchá příchozím spojením.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="165"/>
@@ -5587,7 +5689,7 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="167"/>
         <source>Bluetooth Classic connection to %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bluetooth Classic připojení k %1</translation>
     </message>
 </context>
 <context>
@@ -5605,7 +5707,7 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="90"/>
         <source>Searching for device.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vyhledávám zařízení.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="127"/>
@@ -5665,17 +5767,17 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="173"/>
         <source>Bluetooth is turned off. Please enable it in System Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bluetooth je vypnutý. Zapněte jej prosím v nastavení systému.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="176"/>
         <source>A hardware error occurred while searching for devices.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Při vyhledávání zařízení došlo k hardwarové chybě.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="179"/>
         <source>An error occurred during device discovery (%1).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Při vyhledávání zařízení došlo k chybě (%1).</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="196"/>
@@ -5700,12 +5802,12 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="316"/>
         <source>Device found. Connecting...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zařízení nalezeno. Připojuji...</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="324"/>
         <source>Unable to find device within range.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">V dosahu se nepodařilo nalézt žádné zařízení.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_BluetoothLowEnergy.cpp" line="223"/>
@@ -5882,7 +5984,7 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="116"/>
         <source>Open Glider Network-Connection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Připojení k Open Glider Network</translation>
     </message>
 </context>
 <context>
@@ -5894,7 +5996,7 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="153"/>
         <source>Device not found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zařízení nenalezeno.</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="135"/>
@@ -6100,7 +6202,7 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="45"/>
         <source>Aircraft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Letadla</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="48"/>
@@ -6155,7 +6257,7 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="78"/>
         <source>Tow Plane</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vlečná</translation>
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficFactor_DistanceOnly.cpp" line="81"/>
@@ -6310,17 +6412,17 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="169"/>
         <source>To ensure reliable operation, traffic receivers emit &apos;heartbeat messages&apos; at frequent intervals.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pro zajištění spolehlivého provozu vysílají přijímače provozu v krátkých intervalech tzv. &apos;heartbeat&apos; zprávy.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="170"/>
         <source>This text field shows whether heartbeat messages are received through any of the configured data channels.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Toto textové pole ukazuje, zda jsou heartbeat zprávy přijímány některým z nastavených datových kanálů.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="171"/>
         <source>If yes, it shows the data connection currently used and lists the types of data presently received.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pokud ano, zobrazuje aktuálně používané datové připojení a uvádí typy právě přijímaných dat.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="216"/>
@@ -6331,7 +6433,7 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="227"/>
         <source>This field shows status messages reported by the traffic data receiver, including results of internal self-tests of the traffic data receiver hardware.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Toto pole zobrazuje stavové zprávy hlášené přijímačem leteckého provozu, včetně výsledků interních self-testů hardwaru přijímače.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="258"/>
@@ -6347,7 +6449,7 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="286"/>
         <source>This section shows the position reported by the traffic data receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tato část zobrazuje polohu hlášenou přijímačem leteckého provozu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="294"/>
@@ -6389,12 +6491,12 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="402"/>
         <source>This section shows the true altitude reported by the traffic data receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tato část zobrazuje skutečnou výšku hlášenou přijímačem leteckého provozu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="404"/>
         <source>True altitude AGL or AMSL is the vertical distance from the aircraft to the terrain or to the mean sea level, respectively.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skutečná výška AGL nebo AMSL je vertikální vzdálenost letadla od terénu, respektive od střední hladiny moře.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="406"/>
@@ -6421,17 +6523,17 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="477"/>
         <source>This section shows the pressure altitude reported by the traffic data receiver.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tato část zobrazuje tlakovou výšku hlášenou přijímačem leteckého provozu.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="479"/>
         <source>Pressure altitude is the altitude in the standard atmosphere at which the pressure is equal to the current atmospheric pressure.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tlaková výška je výška ve standardní atmosféře, ve které se tlak rovná aktuálnímu atmosférickému tlaku.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="480"/>
         <source>This is the altitude displayed on the aircraft&apos;s altimeter when set to the standard pressure of 1013.2 hPa. This is also the altitude shown on the transponder.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Jedná se o výšku, kterou zobrazuje výškoměr letadla při nastavení standardního tlaku 1013,2 hPa. Tuto výšku rovněž zobrazuje odpovídač (transpondér).</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="506"/>
@@ -6442,22 +6544,22 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="518"/>
         <source>This section lists all the traffic reported by the traffic data receiver, sorted in order of importance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tato sekce zobrazuje veškerý provoz hlášený přijímačem leteckého provozu, seřazený podle důležitosti.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="520"/>
         <source>Traffic opponents are classified as &apos;Relevant Traffic&apos; and &apos;Irrelevant Traffic&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Okolní provoz je rozdělen na &apos;Důležitý provoz&apos; a &apos;Nedůležitý provoz&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="521"/>
         <source>Traffic is considered relevant if the vertical distance to the traffic opponent is less than 1,500 m and the horizontal distance is less than 20 NM.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Provoz je považován za důležitý, pokud je vertikální vzdálenost k danému letadlu menší než 1 500 m a horizontální vzdálenost menší než 20 NM.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="532"/>
         <source>Currently no reported traffic.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Aktuálně není hlášen žádný provoz.</translation>
     </message>
     <message>
         <source>Currently No Traffic</source>
@@ -6504,42 +6606,42 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="94"/>
         <source>Unable to show side view: Zoom value out of range.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze zobrazit boční pohled: Hodnota přiblížení je mimo rozsah.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="104"/>
         <source>Unable to show side view: No valid position data.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze zobrazit boční pohled: Chybí platné polohové údaje.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="110"/>
         <source>Unable to show side view: No terrain data for current position. Please install the relevant terrain maps.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze zobrazit boční pohled: Pro aktuální polohu chybí údaje o terénu. Nainstalujte prosím příslušné mapy terénu.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="134"/>
         <source>Unable to show side view: No valid track data.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze zobrazit boční pohled: Chybí platné údaje o kurzu.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="141"/>
         <source>Unable to show side view: No valid altitude data for own aircraft.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze zobrazit boční pohled: Chybí platné údaje o výšce vlastního letadla.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="152"/>
         <source>Unable to compute sufficiently precise vertical airspace boundaries because barometric altitude information is not available. &lt;a href=&apos;xx&apos;&gt;Click here&lt;/a&gt; for more information.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze vypočítat dostatečně přesné vertikální hranice vzdušných prostorů, protože nejsou k dispozici údaje o tlakové výšce. &lt;a href=&apos;xx&apos;&gt;Klikněte zde&lt;/a&gt; pro více informací.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="157"/>
         <source>Unable to compute sufficiently precise vertical airspace boundaries because the QNH is not available. Please wait while QNH information is downloaded from the internet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze vypočítat dostatečně přesné vertikální hranice vzdušných prostorů, protože není k dispozici QNH. Počkejte prosím, než budou informace o QNH staženy z internetu.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="215"/>
         <source>Incomplete terrain data. Please install the relevant terrain maps.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neúplné údaje o terénu. Nainstalujte prosím příslušné mapy terénu.</translation>
     </message>
 </context>
 <context>
@@ -7476,1479 +7578,1479 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="713"/>
         <source>Few -- scattered clouds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skoro jasno -- polojasno</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="716"/>
         <source>Scattered -- broken clouds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Polojasno -- skoro zataženo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="719"/>
         <source>Broken -- overcast clouds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skoro zataženo -- zataženo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="729"/>
         <source>No high-layer clouds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez oblačnosti vysokého patra</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="732"/>
         <source>Cirrus fibratus or Cirrus uncinus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cirrus fibratus nebo Cirrus uncinus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="735"/>
         <source>Cirrus spissatus or Cirrus castellanus or Cirrus floccus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cirrus spissatus nebo Cirrus castellanus nebo Cirrus floccus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="738"/>
         <source>Cirrus spissatus cumulonimbogenitus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cirrus spissatus cumulonimbogenitus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="741"/>
         <source>Cirrus uncinus or Cirrus fibratus progressively invading the sky</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cirrus uncinus nebo Cirrus fibratus postupně pokrývající oblohu</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="744"/>
         <source>Cirrus or Cirrostratus progressively invading the sky, but the continuous veil does not reach 45° above the horizon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cirrus nebo Cirrostratus postupně pokrývající oblohu, souvislý závoj však nedosahuje 45° nad obzor</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="747"/>
         <source>Cirrus or Cirrostratus progressively invading the sky, the continuous veil extends more than 45° above the horizon, without the sky being totally covered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cirrus nebo Cirrostratus postupně pokrývající oblohu, souvislý závoj přesahuje 45° nad obzor, aniž by obloha byla zcela pokryta</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="750"/>
         <source>Cirrostratus nebulosus or Cirrostratus fibratus covering the whole sky</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cirrostratus nebulosus nebo Cirrostratus fibratus pokrývající celou oblohu</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="753"/>
         <source>Cirrostratus that is not invading the sky and that does not completely cover the whole sky</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cirrostratus, který se nerozšiřuje po obloze a nepokrývá ji celou</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="756"/>
         <source>Cirrocumulus alone</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cirrocumulus samotný</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="759"/>
         <location filename="../../../src/weather/Decoder.cpp" line="839"/>
         <source>Clouds are not observable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oblačnost nelze pozorovat</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="769"/>
         <source>No low layer clouds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez oblačnosti nízkého patra</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="772"/>
         <source>Cumulus humilis or Cumulus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cumulus humilis nebo Cumulus fractus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="775"/>
         <source>Cumulus clouds with moderate or significant vertical extent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oblaky Cumulus se středním nebo značným vertikálním rozsahem</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="778"/>
         <source>Cumulonimbus calvus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cumulonimbus calvus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="781"/>
         <source>Stratocumulus cumulogenitus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stratocumulus cumulogenitus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="784"/>
         <source>Stratocumulus non-cumulogenitus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stratocumulus jiný než cumulogenitus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="787"/>
         <source>Stratus nebulosus or Stratus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stratus nebulosus nebo Stratus fractus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="790"/>
         <source>Stratus fractus or Cumulus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stratus fractus nebo Cumulus fractus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="793"/>
         <source>Cumulus and Stratocumulus with bases at different levels</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cumulus a Stratocumulus se základnami v různých výškách</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="799"/>
         <source>Clouds are not observable due to fog, blowing dust or sand, or other similar phenomena</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oblačnost nelze pozorovat kvůli mlze, zvířenému prachu či písku nebo jiným podobným jevům</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="809"/>
         <source>No mid-layer clouds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez oblačnosti středního patra</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="812"/>
         <source>Altostratus translucidus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Altostratus translucidus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="815"/>
         <source>Altostratus opacus or Nimbostratus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Altostratus opacus nebo Nimbostratus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="818"/>
         <source>Altocumulus translucidus at a single level</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Altocumulus translucidus v jedné hladině</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="821"/>
         <source>Patches of Altocumulus translucidus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Skupiny oblaků Altocumulus translucidus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="824"/>
         <source>Altocumulus translucidus in bands</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Altocumulus translucidus v pásech</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="827"/>
         <source>Altocumulus cumulogenitus or Altocumulus cumulonimbogenitus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Altocumulus cumulogenitus nebo Altocumulus cumulonimbogenitus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="830"/>
         <source>Altocumulus duplicatus, or Altocumulus opacus in a single layer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Altocumulus duplicatus nebo Altocumulus opacus v jedné vrstvě</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="833"/>
         <source>Altocumulus castellanus or Altocumulus floccus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Altocumulus castellanus nebo Altocumulus floccus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="836"/>
         <source>Broken cloud sheets of ill-defined species or varieties</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Protrhané vrstvy oblačnosti nejasně určitelných druhů nebo odrůd</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="849"/>
         <source>unknown cloud type</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">neznámý typ oblačnosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="852"/>
         <location filename="../../../src/weather/Decoder.cpp" line="949"/>
         <source>cumulonimbus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cumulonimbus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="855"/>
         <location filename="../../../src/weather/Decoder.cpp" line="946"/>
         <source>towering cumulus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">věžovitý cumulus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="858"/>
         <source>cumulus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cumulus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="861"/>
         <source>cumulus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cumulus fractus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="864"/>
         <source>stratocumulus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">stratocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="867"/>
         <source>nimbostratus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nimbostratus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="870"/>
         <source>stratus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">stratus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="873"/>
         <source>stratus fractus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">stratus fractus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="876"/>
         <source>altostratus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">altostratus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="879"/>
         <source>altocumulus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">altocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="882"/>
         <source>altocumulus castellanus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">altocumulus castellanus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="885"/>
         <source>cirrus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cirrus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="888"/>
         <source>cirrostratus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cirrostratus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="891"/>
         <source>cirrocumulus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">cirrocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="894"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1703"/>
         <source>blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zvířený sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="897"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1299"/>
         <source>blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zvířený prach</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="900"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1622"/>
         <source>blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zvířený písek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="903"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2063"/>
         <source>ice crystals</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ledové jehličky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="906"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1514"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2054"/>
         <source>rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">déšť</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="909"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1245"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2051"/>
         <source>drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mrholení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="912"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2057"/>
         <source>snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="915"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2066"/>
         <source>ice pellets</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zmrzlý déšť</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="918"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2084"/>
         <source>smoke</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">kouř</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="921"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1326"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2081"/>
         <source>fog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mlha</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="924"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2078"/>
         <source>mist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">kouřmo</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="927"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2096"/>
         <source>haze</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zákal</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="930"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2087"/>
         <source>volcanic ash</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vulkanický popel</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1002"/>
         <source>statute miles</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pozemní míle</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1015"/>
         <source>Trace icing or no icing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stopová nebo žádná námraza</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1018"/>
         <source>Light mixed icing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slabá smíšená námraza</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1021"/>
         <source>Light rime icing in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slabá zrnitá námraza v oblačnosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1024"/>
         <source>Light clear icing in precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slabá průsvitná námraza v srážkách</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1027"/>
         <source>Moderate mixed icing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mírná smíšená námraza</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1030"/>
         <source>Moderate rime icing in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mírná zrnitá námraza v oblačnosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1033"/>
         <source>Moderate clear icing in precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mírná průsvitná námraza v srážkách</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1036"/>
         <source>Severe mixed icing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Silná smíšená námraza</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1039"/>
         <source>Severe rime icing in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Silná zrnitá námraza v oblačnosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1042"/>
         <source>Severe clear icing in precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Silná průsvitná námraza v srážkách</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1045"/>
         <source>No turbulence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez turbulence</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1048"/>
         <source>Light turbulence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Slabá turbulence</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1051"/>
         <source>Occasional moderate turbulence in clear air</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Občasná mírná turbulence v čistém ovzduší</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1054"/>
         <source>Frequent moderate turbulence in clear air</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Častá mírná turbulence v čistém ovzduší</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1057"/>
         <source>Occasional moderate turbulence in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Občasná mírná turbulence v oblačnosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1060"/>
         <source>Frequent moderate turbulence in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Častá mírná turbulence v oblačnosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1063"/>
         <source>Occasional severe turbulence in clear air</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Občasná silná turbulence v čistém ovzduší</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1066"/>
         <source>Frequent severe turbulence in clear air</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Častá silná turbulence v čistém ovzduší</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1069"/>
         <source>Occasional severe turbulence in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Občasná silná turbulence v oblačnosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1072"/>
         <source>Frequent severe turbulence in cloud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Častá silná turbulence v oblačnosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1075"/>
         <source>Extreme turbulence</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Extrémní turbulence</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1088"/>
         <source>higher than</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vyšší než</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1091"/>
         <source>higher or the same as</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vyšší nebo stejný jako</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1094"/>
         <source>same as</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">stejný jako</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1097"/>
         <source>lower or the same as</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nižší nebo stejný jako</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1100"/>
         <source>lower than</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nižší než</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1110"/>
         <source>increasing, then decreasing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">stoupající, poté klesající</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1113"/>
         <source>increasing more slowly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">stoupající pomaleji</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1116"/>
         <source>increasing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">stoupající</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1119"/>
         <source>increasing more rapidly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">stoupající rychleji</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1122"/>
         <source>steady</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">setrvalý</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1125"/>
         <source>decreasing, then increasing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">klesající, poté stoupající</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1128"/>
         <source>decreasing more slowly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">klesající pomaleji</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1131"/>
         <source>decreasing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">klesající</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1134"/>
         <source>decreasing more rapidly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">klesající rychleji</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1140"/>
         <source>rising rapidly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">rychle stoupající</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1143"/>
         <source>falling rapidly</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">rychle klesající</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1153"/>
         <source>Probability 30%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pravděpodobnost 30 %</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1156"/>
         <source>Probability 40%</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pravděpodobnost 40 %</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1172"/>
         <source>clear and dry</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">čistá a suchá</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1175"/>
         <source>damp</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vlhká</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1178"/>
         <source>wet and water patches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mokrá s kalužemi vody</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1181"/>
         <source>rime and frost covered</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">pokrytá jinovatkou a námrazou</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1184"/>
         <source>dry snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">suchý sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1187"/>
         <source>wet snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mokrý sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1190"/>
         <source>slush</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">rozbředlý sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1193"/>
         <source>ice</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">led</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1196"/>
         <source>compacted or rolled snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zhutněný nebo uježděný sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1199"/>
         <source>frozen ruts or ridges</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zmrzlé koleje nebo hrboly</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1217"/>
         <source>none</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">žádné</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1248"/>
         <source>recent drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávné mrholení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1251"/>
         <source>drizzle in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mrholení v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1254"/>
         <source>light drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabé mrholení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1257"/>
         <source>moderate drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírné mrholení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1260"/>
         <source>heavy drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silné mrholení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1272"/>
         <source>freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mrznoucí mrholení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1275"/>
         <source>freezing drizzle in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mrznoucí mrholení v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1278"/>
         <source>light freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabé mrznoucí mrholení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1281"/>
         <source>moderate freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírné mrznoucí mrholení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1284"/>
         <source>heavy freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silné mrznoucí mrholení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1287"/>
         <source>recent freezing drizzle</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávné mrznoucí mrholení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1302"/>
         <source>blowing dust in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zvířený prach v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1305"/>
         <source>light blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabý zvířený prach</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1308"/>
         <source>moderate blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírný zvířený prach</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1311"/>
         <source>heavy blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silný zvířený prach</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1314"/>
         <source>recent blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávný zvířený prach</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1329"/>
         <source>freezing fog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mrznoucí mlha</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1332"/>
         <source>partial fog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">částečná mlha</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1335"/>
         <source>patches of fog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">chuchvalce mlhy</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1338"/>
         <source>shallow fog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">přízemní mlha</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1352"/>
         <source>hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">kroupové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1355"/>
         <source>hail showers in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">kroupové přeháňky v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1358"/>
         <source>light hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabé kroupové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1361"/>
         <source>moderate hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírné kroupové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1364"/>
         <source>heavy hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silné kroupové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1367"/>
         <source>recent hail showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávné kroupové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1379"/>
         <source>thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bouřka s kroupami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1382"/>
         <source>thunderstorm with hail in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bouřka s kroupami v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1385"/>
         <source>light thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabá bouřka s kroupami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1388"/>
         <source>moderate thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírná bouřka s kroupami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1391"/>
         <source>heavy thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silná bouřka s kroupami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1394"/>
         <source>recent thunderstorm with hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávná bouřka s kroupami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1406"/>
         <source>ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">srážky zmrzlého deště</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1409"/>
         <source>ice pellet precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">srážky zmrzlého deště v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1412"/>
         <source>light ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabé srážky zmrzlého deště</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1415"/>
         <source>moderate ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírné srážky zmrzlého deště</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1418"/>
         <source>heavy ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silné srážky zmrzlého deště</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1421"/>
         <source>recent ice pellet precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávné srážky zmrzlého deště</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1433"/>
         <source>precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">srážky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1436"/>
         <source>light precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabé srážky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1439"/>
         <source>moderate precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírné srážky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1442"/>
         <source>heavy precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silné srážky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1445"/>
         <source>recent precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávné srážky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1448"/>
         <source>precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">srážky v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1460"/>
         <source>showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">přeháňky s neurčeným druhem srážek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1463"/>
         <source>recent showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávné přeháňky s neurčeným druhem srážek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1466"/>
         <source>showers in the vicinity with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">přeháňky s neurčeným druhem srážek v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1469"/>
         <source>light showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabé přeháňky s neurčeným druhem srážek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1472"/>
         <source>moderate showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírné přeháňky s neurčeným druhem srážek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1475"/>
         <source>heavy showers with undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silné přeháňky s neurčeným druhem srážek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1487"/>
         <source>thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bouřka se srážkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1490"/>
         <source>recent thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávná bouřka se srážkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1493"/>
         <source>thunderstorm with precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bouřka se srážkami v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1496"/>
         <source>light thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabá bouřka se srážkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1499"/>
         <source>moderate thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírná bouřka se srážkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1502"/>
         <source>heavy thunderstorm with precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silná bouřka se srážkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1517"/>
         <source>rain in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">déšť v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1520"/>
         <source>light rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabý déšť</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1523"/>
         <source>moderate rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírný déšť</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1526"/>
         <source>heavy rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silný déšť</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1529"/>
         <source>recent rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávný déšť</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1541"/>
         <source>freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mrznoucí déšť</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1544"/>
         <source>light freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabý mrznoucí déšť</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1547"/>
         <source>moderate freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírný mrznoucí déšť</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1550"/>
         <source>heavy freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silný mrznoucí déšť</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1553"/>
         <source>recent freezing rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávný mrznoucí déšť</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1556"/>
         <source>freezing rain in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mrznoucí déšť v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1568"/>
         <source>rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">dešťové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1571"/>
         <source>rain showers in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">dešťové přeháňky v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1574"/>
         <source>light rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabé dešťové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1577"/>
         <source>moderate rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírné dešťové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1580"/>
         <source>heavy rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silné dešťové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1583"/>
         <source>recent rain showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávné dešťové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1595"/>
         <source>thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bouřka s deštěm</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1598"/>
         <source>thunderstorm with rain in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bouřka s deštěm v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1601"/>
         <source>light thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabá bouřka s deštěm</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1604"/>
         <source>moderate thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírná bouřka s deštěm</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1607"/>
         <source>heavy thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silná bouřka s deštěm</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1610"/>
         <source>recent thunderstorm with rain</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávná bouřka s deštěm</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1625"/>
         <source>blowing sand in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zvířený písek v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1628"/>
         <source>light blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabě zvířený písek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1631"/>
         <source>moderate blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírně zvířený písek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1634"/>
         <source>heavy blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silně zvířený písek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1637"/>
         <source>recent blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávno zvířený písek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1649"/>
         <source>low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nízko zvířený písek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1652"/>
         <source>low drifting sand in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nízko zvířený písek v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1655"/>
         <source>light low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabě nízko zvířený písek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1658"/>
         <source>moderate low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírně nízko zvířený písek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1661"/>
         <source>heavy low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silně nízko zvířený písek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1664"/>
         <source>recent low drifting sand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávno nízko zvířený písek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1676"/>
         <source>snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sněžení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1679"/>
         <source>snowfall in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sněžení v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1682"/>
         <source>light snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabé sněžení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1685"/>
         <source>moderate snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírné sněžení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1688"/>
         <source>heavy snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silné sněžení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1691"/>
         <source>recent snowfall</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávné sněžení</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1706"/>
         <source>blowing snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zvířený sníh v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1709"/>
         <source>light blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabě zvířený sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1712"/>
         <source>moderate blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírně zvířený sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1715"/>
         <source>heavy blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silně zvířený sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1718"/>
         <source>recent blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávno zvířený sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1730"/>
         <source>snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">srážky ve formě sněhových zrn</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1733"/>
         <source>snow grain precipitation in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">srážky ve formě sněhových zrn v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1736"/>
         <source>light snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabé srážky ve formě sněhových zrn</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1739"/>
         <source>moderate snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírné srážky ve formě sněhových zrn</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1742"/>
         <source>heavy snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silné srážky ve formě sněhových zrn</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1745"/>
         <source>recent snow grain precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávné srážky ve formě sněhových zrn</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1757"/>
         <source>low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nízko zvířený sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1760"/>
         <source>low drifting snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nízko zvířený sníh v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1763"/>
         <source>light low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabě nízko zvířený sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1766"/>
         <source>moderate low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírně nízko zvířený sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1769"/>
         <source>heavy low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silně nízko zvířený sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1772"/>
         <source>recent low drifting snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávno nízko zvířený sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1784"/>
         <source>freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">namrzající sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1787"/>
         <source>freezing snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">namrzající sníh v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1790"/>
         <source>light freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabý namrzající sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1793"/>
         <source>moderate freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírný namrzající sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1796"/>
         <source>heavy freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silný namrzající sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1799"/>
         <source>recent freezing snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávný namrzající sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1811"/>
         <source>snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sněhové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1814"/>
         <source>snow showers in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sněhové přeháňky v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1817"/>
         <source>light snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabé sněhové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1820"/>
         <source>moderate snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírné sněhové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1823"/>
         <source>heavy snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silné sněhové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1826"/>
         <source>recent snow showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávné sněhové přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1838"/>
         <source>thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bouřka se sněžením</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1841"/>
         <source>thunderstorm with snow in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bouřka se sněžením v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1844"/>
         <source>light thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabá bouřka se sněžením</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1847"/>
         <source>moderate thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírná bouřka se sněžením</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1850"/>
         <source>heavy thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silná bouřka se sněžením</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1853"/>
         <source>recent thunderstorm with snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávná bouřka se sněžením</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1865"/>
         <source>shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">přeháňka s krupkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1868"/>
         <source>shower with small hail in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">přeháňka s krupkami v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1871"/>
         <source>light shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabá přeháňka s krupkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1874"/>
         <source>moderate shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírná přeháňka s krupkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1877"/>
         <source>heavy shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silná přeháňka s krupkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1880"/>
         <source>recent shower with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávná přeháňka s krupkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1892"/>
         <source>thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bouřka s krupkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1895"/>
         <source>thunderstorm with small hail in the vicinity</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">bouřka s krupkami v blízkosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1898"/>
         <source>light thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabá bouřka s krupkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1901"/>
         <source>moderate thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírná bouřka s krupkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1904"/>
         <source>heavy thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silná bouřka s krupkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1907"/>
         <source>recent thunderstorm with small hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nedávná bouřka s krupkami</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1927"/>
         <source>calm (glassy), no waves</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">klidné (zrcadlová hladina), bez vln</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1930"/>
         <source>calm (rippled), wave height &lt;0.1 meters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">klidné (zčeřená hladina), výška vln &lt;0,1 metru</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1933"/>
         <source>smooth, wave height 0.1 to 0.5 meters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">hladké, výška vln 0,1 až 0,5 metru</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1936"/>
         <source>slight, wave height 0.5 to 1.25 meters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírně zvlněné, výška vln 0,5 až 1,25 metru</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1939"/>
         <source>moderate, wave height 1.25 to 2.5 meters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">středně zvlněné, výška vln 1,25 až 2,5 metru</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1942"/>
         <source>rough, wave height 2.5 to 4 meters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">rozbouřené, výška vln 2,5 až 4 metry</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1945"/>
         <source>very rough, wave height 4 to 6 meters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">velmi rozbouřené, výška vln 4 až 6 metrů</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1948"/>
         <source>high, wave height 6 to 9 meters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vysoké, výška vln 6 až 9 metrů</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1951"/>
         <source>very high, wave height 9 to 14 meters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">velmi vysoké, výška vln 9 až 14 metrů</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1954"/>
         <source>phenomenal, wave height &gt;14 meters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mimořádné, výška vln &gt;14 metrů</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1971"/>
         <source>upward</source>
         <extracomment>visibility trend</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">stoupající</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1975"/>
         <source>neutral</source>
         <extracomment>visibility trend</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">neutrální</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1979"/>
         <source>downward</source>
         <extracomment>visibility trend</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">klesající</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1992"/>
         <source>shallow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">přízemní</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1995"/>
         <source>partial</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">částečná</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1998"/>
         <source>patches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">chuchvalce</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2001"/>
         <source>low drifting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nízko zvířený</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2004"/>
         <source>blowing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">zvířený</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2007"/>
         <source>showers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">přeháňky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2013"/>
         <source>freezing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">namrzající</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2032"/>
         <source>light</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">slabý</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2035"/>
         <source>moderate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">mírný</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2038"/>
         <source>heavy</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">silný</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2060"/>
         <source>snow grains</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">sněhová zrna</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2069"/>
         <source>hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">kroupy</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2072"/>
         <source>small hail</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">krupky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2075"/>
         <source>undetermined precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">neurčené srážky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2090"/>
         <source>dust</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">prach</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2093"/>
         <source>sand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">písek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2099"/>
         <source>spray</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">vodní tříšť</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2102"/>
         <source>dust or sand whirls</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">prachové nebo písečné víry</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2105"/>
         <source>squalls</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">húlavy</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2108"/>
         <source>funnel cloud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nálevkovitý oblak</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2111"/>
         <source>sand storm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">písečná bouře</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2114"/>
         <source>dust storm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">prachová bouře</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2126"/>
@@ -8974,137 +9076,137 @@ can get.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="3225"/>
         <location filename="../../../src/weather/Decoder.cpp" line="3277"/>
         <source>Invalid data</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neplatné údaje</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2140"/>
         <source>%1 (%2) in %3 AGL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 (%2) ve výšce %3 AGL</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2145"/>
         <source>%1 in %2 AGL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 ve výšce %2 AGL</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2150"/>
         <source>Vertical visibility %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vertikální dohlednost %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2156"/>
         <source>Ceiling height %1 AGL at %2 towards %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výška základny oblačnosti %1 AGL u %2 směrem na %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2163"/>
         <source>Ceiling height %1 AGL at %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výška základny oblačnosti %1 AGL u %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2169"/>
         <source>Ceiling height %1 AGL towards %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výška základny oblačnosti %1 AGL směrem na %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2173"/>
         <source>Ceiling height %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výška základny oblačnosti %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2179"/>
         <source>Ceiling height %1 -- %2 AGL at %3 towards %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výška základny oblačnosti %1 -- %2 AGL u %3 směrem na %4</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2187"/>
         <source>Ceiling height %1 -- %2 AGL at %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výška základny oblačnosti %1 -- %2 AGL u %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2194"/>
         <source>Ceiling height %1 -- %2 AGL towards %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výška základny oblačnosti %1 -- %2 AGL směrem na %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2199"/>
         <source>Ceiling height %1 -- %2 AGL</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výška základny oblačnosti %1 -- %2 AGL</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2204"/>
         <source>Ceiling data not available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Údaje o výšce základny oblačnosti nejsou k dispozici</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2207"/>
         <source>Sky condition data (cloud data) is missing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Údaje o stavu oblohy (údaje o oblačnosti) chybí</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2214"/>
         <source>Ground-based obscuration, %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přízemní zastření, %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2217"/>
         <source>Ground-based obscuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přízemní zastření</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2221"/>
         <source>Aloft obscuration, %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zastření ve výšce, %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2225"/>
         <source>Aloft obscuration</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zastření ve výšce</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2249"/>
         <source>Cloud layers: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vrstvy oblačnosti: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2262"/>
         <source>Report type: METAR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typ zprávy: METAR</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2265"/>
         <source>Report type: unscheduled METAR</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typ zprávy: mimořádný METAR</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2268"/>
         <source>Report type: TAF</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typ zprávy: TAF</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2271"/>
         <source>Amended report</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Změněná zpráva</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2274"/>
         <source>Missing report</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chybějící zpráva</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2277"/>
         <source>Canceled report</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zrušená zpráva</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2280"/>
         <source>Correctional report</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Opravená zpráva</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2283"/>
         <source>Automated report</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatická zpráva</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2286"/>
@@ -9114,158 +9216,158 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2289"/>
         <source>&lt;strong&gt;Remarks&lt;/strong&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;strong&gt;Poznámky&lt;/strong&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2292"/>
         <source>Automated station requires maintenance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatická stanice vyžaduje údržbu</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2295"/>
         <source>Automated station w/o precipitation discriminator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatická stanice bez rozlišovače druhu srážek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2298"/>
         <source>Automated station with precipitation discriminator</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatická stanice s rozlišovačem druhu srážek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2301"/>
         <source>Automated station w/o precipitation discriminator, report augmented by a human observer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatická stanice bez rozlišovače druhu srážek, zpráva doplněna lidským pozorovatelem</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2304"/>
         <source>Automated station with precipitation discriminator, report augmented by a human observer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatická stanice s rozlišovačem druhu srážek, zpráva doplněna lidským pozorovatelem</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2307"/>
         <source>Manual station, does not issue SPECI reports</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Manuální stanice, nevydává zprávy SPECI</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2321"/>
         <source>%1 at all heights</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 ve všech výškách</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2325"/>
         <source>%1 at heights from %2 to %3.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 ve výškách od %2 do %3.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2339"/>
         <source>Lightning strikes observed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pozorovány údery blesků.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2343"/>
         <location filename="../../../src/weather/Decoder.cpp" line="3060"/>
         <source>Distance %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vzdálenost %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2352"/>
         <source>Less than 1 strike per minute.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Méně než 1 úder za minutu.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2356"/>
         <source>1 -- 6 strikes per minute.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1 -- 6 úderů za minutu.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2360"/>
         <source>More than 6 strikes per minute.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Více než 6 úderů za minutu.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2368"/>
         <source>cloud-to-ground</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">oblak-země</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2371"/>
         <source>in-cloud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">uvnitř oblaku</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2375"/>
         <source>cloud-to-cloud</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">oblak-oblak</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2379"/>
         <source>cloud-to-air without strike to ground</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">oblak-vzduch bez úderu do země</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2383"/>
         <source>Lightning types: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typy blesků: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2389"/>
         <source>Lightning strike types not recognized by parser.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Typy úderů blesků nebyly parserem rozpoznány.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2399"/>
         <source>Lightning strikes observed in the following directions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Údery blesků pozorovány v následujících směrech: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2412"/>
         <source>Report for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zpráva pro %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2422"/>
         <source>Low cloud layer: %1 • Mid cloud layer: %2 • High cloud layer: %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nízká oblačnost: %1 • Střední oblačnost: %2 • Vysoká oblačnost: %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2440"/>
         <source>Observed 6-hourly minimum/maximum temperature: %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pozorovaná 6hodinová minimální/maximální teplota: %1/%2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2445"/>
         <source>Observed 24-hourly minimum/maximum temperature: %1/%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pozorovaná 24hodinová minimální/maximální teplota: %1/%2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2451"/>
         <source>Minimum forecast temperature: %1, expected at %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Minimální předpovídaná teplota: %1, očekávaná v %2.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2456"/>
         <source>Maximum forecast temperature: %1, expected at %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maximální předpovídaná teplota: %1, očekávaná v %2.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2472"/>
         <source>Color code BLACK: aerodrome closed due to snow accumulation or non-weather reasons</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barevný kód BLACK: letiště uzavřeno kvůli sněhové pokrývce nebo z jiných než meteorologických důvodů</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2483"/>
         <source>Duration of sunshine that occurred the previous calendar day is %1 minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Doba slunečního svitu za předchozí kalendářní den je %1 minut.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2486"/>
         <source>No sunshine occurred the previous calendar day</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předchozí kalendářní den bez slunečního svitu</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2493"/>
         <source>This report is the corrected weather observation, correction number is %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tato zpráva je opraveným meteorologickým pozorováním, číslo opravy je %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2500"/>
@@ -9275,667 +9377,667 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2507"/>
         <source>Largest hailstone size is %1 inches</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Velikost největší kroupy je %1 palců</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2516"/>
         <source>Color code BLUE: visibility &gt;8000 m and lowest cloud base height &gt;2500 ft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barevný kód BLUE: dohlednost &gt;8000 m a výška základny nejnižší oblačnosti &gt;2500 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2526"/>
         <source>Color code BLUE+: visibility &gt;8000 m or lowest cloud base height &gt;2000 ft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barevný kód BLUE+: dohlednost &gt;8000 m nebo výška základny nejnižší oblačnosti &gt;2000 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2536"/>
         <source>Color code YELLOW: visibility 1600-3700 m or lowest cloud base height 300-700 ft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barevný kód YELLOW: dohlednost 1600-3700 m nebo výška základny nejnižší oblačnosti 300-700 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2546"/>
         <source>Color code WHITE: visibility &gt;5000 m and lowest cloud base height &gt;1500 ft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barevný kód WHITE: dohlednost &gt;5000 m a výška základny nejnižší oblačnosti &gt;1500 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2556"/>
         <source>Color code GREEN: visibility &gt;3700 m and lowest cloud base height &gt;700 ft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barevný kód GREEN: dohlednost &gt;3700 m a výška základny nejnižší oblačnosti &gt;700 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2566"/>
         <source>Color code YELLOW 1: visibility &gt;2500 m and lowest cloud base height &gt;500 ft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barevný kód YELLOW 1: dohlednost &gt;2500 m a výška základny nejnižší oblačnosti &gt;500 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2576"/>
         <source>Color code YELLOW 2: visibility &gt;1600 m and lowest cloud base height &gt;300 ft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barevný kód YELLOW 2: dohlednost &gt;1600 m a výška základny nejnižší oblačnosti &gt;300 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2586"/>
         <source>Color code AMBER: visibility &gt;800 m and lowest cloud base height &gt;200 ft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barevný kód AMBER: dohlednost &gt;800 m a výška základny nejnižší oblačnosti &gt;200 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2596"/>
         <source>Color code RED: visibility &lt;800 m or lowest cloud base height &lt;200 ft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Barevný kód RED: dohlednost &lt;800 m nebo výška základny nejnižší oblačnosti &lt;200 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2600"/>
         <source>Frost on the instrument (e.g. due to freezing fog depositing rime).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Námraza na přístroji (např. jinovatka usazená mrznoucí mlhou).</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2607"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center Norfolk, VA.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Identifikátor vydavatele zprávy je %1. Tato předpověď je vydávána střediskem The Fleet Weather Center Norfolk, VA.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2614"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center San Diego, CA (FS).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Identifikátor vydavatele zprávy je %1. Tato předpověď je vydávána střediskem The Fleet Weather Center San Diego, CA (FS).</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2629"/>
         <source>Total precipitation for the past hour: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Celkový úhrn srážek za poslední hodinu: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2633"/>
         <source>Snow depth on ground: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Výška sněhové pokrývky: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2637"/>
         <source>Water equivalent of frozen precipitation for the last 3 or 6 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vodní ekvivalent zmrzlých srážek za poslední 3 nebo 6 hodin: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2641"/>
         <source>Water equivalent of frozen precipitation for the last 3 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vodní ekvivalent zmrzlých srážek za poslední 3 hodiny: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2645"/>
         <source>Water equivalent of frozen precipitation for the last 6 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vodní ekvivalent zmrzlých srážek za posledních 6 hodin: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2649"/>
         <source>Water equivalent of frozen precipitation for the last 24 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vodní ekvivalent zmrzlých srážek za posledních 24 hodin: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2653"/>
         <source>Snowfall for the last 6 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Úhrn sněžení za posledních 6 hodin: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2657"/>
         <source>Water equivalent of snow on ground: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vodní ekvivalent sněhu na zemi: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2661"/>
         <source>Ice accretion for the last hour: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přírůstek námrazy za poslední hodinu: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2665"/>
         <source>Ice accretion for the last 3 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přírůstek námrazy za poslední 3 hodiny: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2669"/>
         <source>Ice accretion for the last 6 hours: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přírůstek námrazy za posledních 6 hodin: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2673"/>
         <source>Precipitation accumulation since last report: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Úhrn srážek od poslední zprávy: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2677"/>
         <source>Snow increasing rapidly. For the last hour snow increased by %1. Total snowfall: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sníh rychle přibývá. Za poslední hodinu přibylo %1 sněhu. Celkový úhrn sněžení: %2.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2682"/>
         <source>Rainfall for the last 10 minutes before report release time: %1. Rainfall since 9:00 local time: %2.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Úhrn deště za posledních 10 minut před vydáním zprávy: %1. Úhrn deště od 9:00 místního času: %2.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2687"/>
         <source>Tipping bucket rain gauge INOP.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Člunkový srážkoměr je mimo provoz.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2690"/>
         <source>Freezing rain sensor INOP.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čidlo mrznoucího deště je mimo provoz.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2693"/>
         <source>Icing data is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Údaje o námraze chybí.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2696"/>
         <source>Precipitation data is missing.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Údaje o srážkách chybí.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2712"/>
         <source>QNH: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QNH: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2715"/>
         <source>Forecast lowest QNH: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předpovídané nejnižší QNH: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2719"/>
         <source>QFE: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QFE: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2723"/>
         <source>Standard sea level pressure: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Standardní tlak na hladině moře: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2727"/>
         <source>QNH is not available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QNH není k dispozici</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2731"/>
         <source>Atmospheric pressure data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chybí údaje o atmosférickém tlaku</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2746"/>
         <source>3-hour pressure tendency is not reported. Absolute pressure change is %1.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">3hodinová tendence tlaku není hlášena. Absolutní změna tlaku je %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2751"/>
         <source>Atmospheric pressure is %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Atmosférický tlak je %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2756"/>
         <source>During last 3 hours the atmospheric pressure was %1. Now the atmospheric pressure is %2 3h ago. Absolute pressure change is %3</source>
         <extracomment>Note: the string %2 will be replaced by a text such as &quot;less than&quot;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Během posledních 3 hodin byl atmosférický tlak %1. Nyní je atmosférický tlak %2 před 3 h. Absolutní změna tlaku je %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2770"/>
         <source>Issued at %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Vydáno v %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2780"/>
         <source>State of %1:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stav %1:</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2788"/>
         <source>%1 of deposits, %2 of runway contaminated</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 nánosů, znečištěno %2 dráhy</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2795"/>
         <source>deposits on runway were cleared or ceased to exist</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">nánosy na dráze byly odstraněny nebo zmizely</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2800"/>
         <source>runway closed due to snow accumulation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">dráha uzavřena kvůli nahromadění sněhu</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2804"/>
         <source>Aerodrome closed due to snow accumulation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Letiště uzavřeno kvůli nahromadění sněhu</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2807"/>
         <source>runway is not operational</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">dráha není v provozu</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2819"/>
         <source>Sea surface temperature: %1, %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Teplota mořské hladiny: %1, %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2834"/>
         <source>Temperature %1, Dew point %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Teplota %1, rosný bod %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2839"/>
         <source>Temperature data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chybí údaje o teplotě</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2842"/>
         <source>Dew point data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chybí údaje o rosném bodu</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2862"/>
         <source>No significant weather changes expected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Neočekávají se žádné význačné změny počasí</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2865"/>
         <source>Gradually changing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Postupná změna</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2868"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2885"/>
         <source>from %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">od %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2872"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2889"/>
         <source>until %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">do %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2876"/>
         <location filename="../../../src/weather/Decoder.cpp" line="2893"/>
         <source>at %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">v %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2882"/>
         <source>Temporarily</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přechodně</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2906"/>
         <source>Forecast: rapid weather change at %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předpověď: rychlá změna počasí v %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2915"/>
         <source>Forecast until %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předpověď do %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2924"/>
         <source>Forecast for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předpověď pro %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2936"/>
         <source>Forecast from %1 to %2 (%3)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předpověď od %1 do %2 (%3)</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2943"/>
         <source>Forecast from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předpověď od %1 do %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2950"/>
         <source>Forecast %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Předpověď %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2963"/>
         <source>Not recognized by parser: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nerozpoznáno parserem: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2978"/>
         <source>Thunderstorm</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bouřka</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2982"/>
         <source>Cumulonimbus cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oblaky cumulonimbus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2986"/>
         <source>Cumulonimbus cloud(s) with mammatus</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oblaky cumulonimbus s mammatus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2990"/>
         <source>Towering cumulus cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Věžovité oblaky cumulus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2994"/>
         <source>Altocumulus cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Oblaky altocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2998"/>
         <source>Stratocumulus standing lenticular cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stacionární čočkovité oblaky stratocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3002"/>
         <source>Altocumulus standing lenticular cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stacionární čočkovité oblaky altocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3006"/>
         <source>Cirrocumulus standing lenticular cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Stacionární čočkovité oblaky cirrocumulus</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3010"/>
         <source>Rotor cloud(s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Rotorové oblaky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3014"/>
         <source>Virga</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Virga</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3018"/>
         <source>Precipitation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Srážky</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3022"/>
         <source>Fog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Mlha</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3026"/>
         <source>Shallow fog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přízemní mlha</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3030"/>
         <source>Patches of fog</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chuchvalce mlhy</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3034"/>
         <source>Haze</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zákal</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3038"/>
         <source>Smoke</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Kouř</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3042"/>
         <source>Blowing snow</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvířený sníh</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3046"/>
         <source>Blowing sand</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvířený písek</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3050"/>
         <source>Blowing dust</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Zvířený prach</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3056"/>
         <source>%1 observed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pozorováno: %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3064"/>
         <source>Directions: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směry: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3069"/>
         <source>Moving towards %1.</source>
         <extracomment>%1 is string like &apos;west&apos;</extracomment>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Pohybuje se směrem k %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3086"/>
         <source>Visibility is %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dohlednost je %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3090"/>
         <source>Visibility is %1. Station cannot differentiate the directional variation of visibility</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dohlednost je %1. Stanice nedokáže rozlišit směrové kolísání dohlednosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3098"/>
         <source>Visibility toward %1 is %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dohlednost směrem na %1 je %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3107"/>
         <source>Visibility for %1 is %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dohlednost pro %1 je %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3117"/>
         <source>Runway visual range for %1 is %2 and the trend is %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dráhová dohlednost pro %1 je %2 a tendence je %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3122"/>
         <source>Runway visual range for %1 is %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dráhová dohlednost pro %1 je %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3127"/>
         <source>Visibility at surface level is %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Přízemní dohlednost je %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3131"/>
         <source>Visibility from air traffic control tower is %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dohlednost z řídicí věže je %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3135"/>
         <source>Sector visibility is %1 in the following directions %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sektorová dohlednost je %1 v následujících směrech %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3140"/>
         <source>Visibility is variable from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dohlednost je proměnlivá od %1 do %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3149"/>
         <source>Directional visibility toward %1 is variable from %2 to %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směrová dohlednost směrem na %1 je proměnlivá od %2 do %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3159"/>
         <source>Visibility for %1 is variable from %2 to %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dohlednost pro %1 je proměnlivá od %2 do %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3171"/>
         <source>Runway visual range for %1 is variable from %2 to %3 and the trend is %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dráhová dohlednost pro %1 je proměnlivá od %2 do %3 a tendence je %4</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3177"/>
         <source>Runway visual range for %1 is variable from %2 to %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dráhová dohlednost pro %1 je proměnlivá od %2 do %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3183"/>
         <source>Sector visibility is variable from %1 to %2 in the following directions: %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sektorová dohlednost je proměnlivá od %1 do %2 v následujících směrech: %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3189"/>
         <source>Visibility data missing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chybí údaje o dohlednosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3192"/>
         <source>Runway visual range data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chybí údaje o dráhové dohlednosti</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3195"/>
         <source>Runway visual range should be reported but is missing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Dráhová dohlednost by měla být hlášena, ale chybí</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3202"/>
         <source>Visibility data not available for %1 in the direction of %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Údaje o dohlednosti nejsou k dispozici pro %1 ve směru %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3208"/>
         <source>Visibility data not available for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Údaje o dohlednosti nejsou k dispozici pro %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3213"/>
         <source>Visibility data not available in the direction of %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Údaje o dohlednosti nejsou k dispozici ve směru %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3216"/>
         <source>Visibility data not available</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Údaje o dohlednosti nejsou k dispozici</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3249"/>
         <source>Recent weather: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nedávné počasí: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3252"/>
         <source>Precipitation beginning/ending time: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Čas začátku/konce srážek: %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3255"/>
         <source>No significant weather</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bez význačného počasí</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3258"/>
         <source>Automated weather identifier INOP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatický identifikátor počasí INOP</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3261"/>
         <source>Lightning detector INOP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Detektor blesků INOP</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3264"/>
         <source>Weather phenomena data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chybí údaje o meteorologických jevech</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3267"/>
         <source>Thunderstorm / lightning data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chybí údaje o bouřkách / blescích</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3284"/>
         <source>No wind</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Bezvětří</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3289"/>
         <source>Wind direction %1, wind speed %2, gusts at %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr větru %1, rychlost větru %2, poryvy %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3294"/>
         <source>Wind direction %1, wind speed %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr větru %1, rychlost větru %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3299"/>
         <source>Variable wind direction %1 -- %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Proměnlivý směr větru %1 -- %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3306"/>
         <source>Wind direction %1 (%2 -- %3), wind speed %4, gusts at %5</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr větru %1 (%2 -- %3), rychlost větru %4, poryvy %5</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3313"/>
         <source>Wind direction %1 (%2 -- %3), wind speed %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr větru %1 (%2 -- %3), rychlost větru %4</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3321"/>
         <source>Wind shear at %1 AGL, wind direction %2, wind speed %3, gusts at %4</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střih větru v %1 AGL, směr větru %2, rychlost větru %3, poryvy %4</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3327"/>
         <source>Wind shear at %1 AGL, wind direction %2, wind speed %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střih větru v %1 AGL, směr větru %2, rychlost větru %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3336"/>
         <source>Wind direction changed at %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr větru se změnil v %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3338"/>
         <source>Wind direction changed recently</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr větru se nedávno změnil</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3343"/>
         <source>Wind direction changed at %1 because of weather front passage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr větru se změnil v %1 kvůli přechodu povětrnostní fronty</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3345"/>
         <source>Wind direction changed recently because of weather front passage</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Směr větru se nedávno změnil kvůli přechodu povětrnostní fronty</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3352"/>
         <source>Peak wind observed at %1, wind direction %2, wind speed %3</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Maximální vítr pozorován v %1, směr větru %2, rychlost větru %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3360"/>
         <source>Wind shear between runway level and 1,600 ft at runway %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střih větru mezi úrovní dráhy a 1 600 ft na dráze %1</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3362"/>
         <source>Wind shear between runway level and 1,600 ft</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Střih větru mezi úrovní dráhy a 1 600 ft</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3365"/>
         <source>Potential wind shear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Potenciální střih větru</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="3368"/>
         <source>Wind data is missing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Chybí údaje o větru</translation>
     </message>
 </context>
 <context>
@@ -10299,7 +10401,7 @@ can get.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="802"/>
         <source>Unable to import more than one file at once. Please import only one file at a time.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Nelze importovat více souborů najednou. Importujte prosím pouze jeden soubor.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="856"/>
@@ -10387,7 +10489,7 @@ vyvinuta jako projekt Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="149"/>
         <source>Run simulator and generate screenshots for macOS</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spustit simulátor a vytvořit snímky obrazovky pro macOS</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="154"/>
