@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<component type="desktop">
+<component type="desktop-application">
   <id>${APP_ID}</id>
   <launchable type="desktop-id">${APP_ID}.desktop</launchable>
   <metadata_license>CC0-1.0</metadata_license>
-  <project_license>GPL-3.0+</project_license>
+  <project_license>GPL-3.0-or-later</project_license>
   <name>Enroute Flight Navigation</name>
-  <summary>Flight Navigation App</summary>
-  <summary xml:lang="de">Flugnavigation</summary>
-  <summary xml:lang="es">Navegación de vuelos</summary>
-  <summary xml:lang="fr">Navigation VFR</summary>
-  <summary xml:lang="it">Navigazione di volo</summary>
-  <summary xml:lang="pl">Aplikacja do nawigacji lotniczej</summary>
+  <summary>Navigation app for VFR pilots</summary>
+  <summary xml:lang="cs">Navigační aplikace pro piloty VFR</summary>
+  <summary xml:lang="de">Navigations-App für VFR-Piloten</summary>
+  <summary xml:lang="es">Aplicación de navegación para pilotos VFR</summary>
+  <summary xml:lang="fr">Application de navigation pour pilotes VFR</summary>
+  <summary xml:lang="it">App di navigazione per piloti VFR</summary>
+  <summary xml:lang="pl">Aplikacja do nawigacji lotniczej dla pilotów VFR</summary>
   <description>
     <p>Enroute Flight Navigation is a flight navigation app for VFR pilots. The
-    app runs primarily on mobile devices.  It is free, open source, 100%
-    non-commercial and does not collect user data.  This desktop version of the
+    app runs primarily on mobile devices. It is free, open source, 100%
+    non-commercial and does not collect user data. This desktop version of the
     app is hardly useful for actual navigation, but might be used to plan your
     next flight on the big screen.</p>
+    <p xml:lang="cs">Enroute Flight Navigation je navigační aplikace pro piloty
+    VFR. Aplikace běží především na mobilních zařízeních. Je bezplatná, s
+    otevřeným zdrojovým kódem, ze 100 % nekomerční a neshromažďuje data
+    uživatelů. Tato verze pro počítač je pro skutečnou navigaci téměř
+    nepoužitelná, lze ji však využít k plánování příštího letu na velké
+    obrazovce.</p>
     <p xml:lang="de">Enroute Flight Navigation ist eine Flugnavigations-App für
     VFR-Piloten. Sie läuft in erster Linie auf mobilen Geräten. Sie ist
     kostenlos, Open Source, 100% nichtkommerziell und sammelt keine
@@ -24,28 +31,47 @@
     in der Luft, könnte aber zur Planung des nächsten Flugs an einem großen
     Bildschirm verwendet werden.</p>
     <p xml:lang="es">Enroute Flight Navigation es una aplicación de navegación
-    de vuelo para pilotos VFR.  La aplicación se ejecuta principalmente en
-    dispositivos móviles. Es gratis, de código abierto, 100% no comercial y no
-    recopila datos de los usuarios. Esta versión de escritorio de la aplicación
-    ha sido diseñada para ayudarles a prepararse para su próximo vuelo.</p>
+    de vuelo para pilotos VFR. La aplicación se ejecuta principalmente en
+    dispositivos móviles. Es gratuita, de código abierto, 100% no comercial y no
+    recopila datos de los usuarios. Esta versión de escritorio apenas resulta
+    útil para la navegación real, pero puede utilizarse para planificar su
+    próximo vuelo en una pantalla grande.</p>
     <p xml:lang="fr">Enroute Flight Navigation est une application de navigation
-    destinée aux pilotes VFR.  L'application est conçue principalement pour les
-    appareils mobiles.  Elle est gratuite, open source, 100% non-commerciale et
-    ne collècte aucune donnée.  Cette version de bureau a été conçue pour vous
-    aider à préparer votre prochain vol sur grand écran.</p>
+    destinée aux pilotes VFR. L'application est conçue principalement pour les
+    appareils mobiles. Elle est gratuite, open source, 100 % non commerciale et
+    ne collecte aucune donnée. Cette version de bureau n'est guère utile pour la
+    navigation réelle, mais elle peut servir à préparer votre prochain vol sur
+    grand écran.</p>
     <p xml:lang="it">Enroute Flight Navigation è un'app di navigazione di volo
-    per i piloti VFR.  l'app viene eseguita prevalentemente nei dispositivi
+    per i piloti VFR. L'app viene eseguita prevalentemente sui dispositivi
     mobili. È gratuita, open source, 100% non commerciale e non raccoglie dati
-    degli utenti. Questa versione desktop dell'app è difficilmente utile per la
+    degli utenti. Questa versione desktop dell'app è poco utile per la
     navigazione effettiva, ma potrebbe essere utilizzata per pianificare il tuo
-    prossimo volo.</p>
+    prossimo volo su un grande schermo.</p>
     <p xml:lang="pl">Enroute Flight Navigation to aplikacja do nawigacji
     lotniczej dla pilotów VFR. Aplikacja działa głównie na urządzeniach
     mobilnych. Jest bezpłatna, z otwartym kodem źródłowym, w 100% niekomercyjna
-    i nie gromadzi danych użytkowników. Ten skrót do wersji aplikacji jest mało
-    przydatny do rzeczywistej nawigacji, ale może być używany aby zaplanować
-    następny lot na dużym ekranie komputera.</p>
+    i nie gromadzi danych użytkowników. Ta wersja aplikacji na komputer jest
+    mało przydatna do rzeczywistej nawigacji, ale może być używana do
+    planowania następnego lotu na dużym ekranie komputera.</p>
   </description>
+  <keywords>
+    <keyword>aviation</keyword>
+    <keyword>flight</keyword>
+    <keyword>navigation</keyword>
+    <keyword>VFR</keyword>
+    <keyword>pilot</keyword>
+    <keyword>moving map</keyword>
+    <keyword>airspace</keyword>
+    <keyword>aeronautical chart</keyword>
+    <keyword xml:lang="de">Luftfahrt</keyword>
+    <keyword xml:lang="de">Flug</keyword>
+    <keyword xml:lang="de">Navigation</keyword>
+    <keyword xml:lang="de">VFR</keyword>
+    <keyword xml:lang="de">Pilot</keyword>
+    <keyword xml:lang="de">Luftraum</keyword>
+    <keyword xml:lang="de">Luftfahrtkarte</keyword>
+  </keywords>
   <content_rating type="oars-1.1" />
   <releases>
     <release version="${PROJECT_VERSION}" date="${GIT_DATE}"/>
@@ -53,6 +79,10 @@
   <developer id="de.akaflieg-freiburg">
     <name>Akaflieg Freiburg</name>
   </developer>
+  <branding>
+    <color type="primary" scheme_preference="light">#8fd4d4</color>
+    <color type="primary" scheme_preference="dark">#00494a</color>
+  </branding>
   <screenshots>
     <screenshot type="default">
       <caption>Flight Map Overview.</caption>
@@ -79,13 +109,18 @@
     <category>Utility</category>
     <category>Maps</category>
   </categories>
+  <supports>
+    <control>pointing</control>
+    <control>keyboard</control>
+    <control>touch</control>
+  </supports>
   <url type="homepage">https://akaflieg-freiburg.github.io/enroute/</url>
-  <project_group>Flatpak</project_group>
+  <url type="bugtracker">https://github.com/Akaflieg-Freiburg/enroute/issues</url>
+  <url type="help">https://akaflieg-freiburg.github.io/enrouteManual/index.html</url>
+  <url type="vcs-browser">https://github.com/Akaflieg-Freiburg/enroute</url>
+  <url type="translate">https://github.com/Akaflieg-Freiburg/enrouteText</url>
   <update_contact>stefan.kebekus@gmail.com</update_contact>
   <provides>
     <binary>${PROJECT_NAME}</binary>
   </provides>
-  <custom>
-    <value key="Purism::form_factor">workstation</value>
-  </custom>
 </component>
