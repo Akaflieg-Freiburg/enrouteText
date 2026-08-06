@@ -3739,42 +3739,42 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
         <translation type="vanished">Basiskarte</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="106"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="115"/>
         <source>Aviation Maps</source>
         <translation>Luftfahrtkarten</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="107"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="116"/>
         <source>The aeronautical maps are compiled from databases provided by the &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt; projects.</source>
         <translation>Die Luftfahrtkarten entstammen Datenbanken der Projekte &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; und &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="117"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="126"/>
         <source>Base Maps</source>
         <translation>Basiskarten</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="118"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="127"/>
         <source>The base maps are generated from &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;OpenStreetMap&lt;/a&gt; data.</source>
         <translation>Die Basiskarten werden aus &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt; -Daten erzeugt.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="125"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="134"/>
         <source>Terrain Maps</source>
         <translation>Terrain-Karten</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="126"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="135"/>
         <source>The terrain maps are derived from the &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt;.</source>
         <translation>Die Terrainkarten werden aus dem &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt; abgeleitet.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="167"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="176"/>
         <source>Approach Charts</source>
         <translation>Anflugkarten</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="168"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="177"/>
         <source>The approach charts are provided by the following agencies.</source>
         <translation>Die Anflugkarten werden von den folgenden Stellen bereitgestellt.</translation>
     </message>
@@ -6167,37 +6167,37 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
 <context>
     <name>Notifications::NotificationManager</name>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="111"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="118"/>
         <source>Test notification</source>
         <translation>Benachrichtigungs-Test</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="119"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="126"/>
         <source>This is a test of the speech engine.</source>
         <translation>Dies ist ein Test des Sprachgenerators.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="275"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="282"/>
         <source>Info.</source>
         <translation>Info.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="279"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="286"/>
         <source>Warning.</source>
         <translation>Warnung.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="282"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="289"/>
         <source>Alert!</source>
         <translation>Alarm!</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="342"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="349"/>
         <source>Inconsistent altitude data</source>
         <translation>Inkonsistente Höhendaten</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="343"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="350"/>
         <source>Pressure altitude and GNSS altitude differ by an unrealistic amount. This can happen when the device does not measure static pressure, for instance in a pressurized cabin or when a flight simulator is used. Barometric altitude data and vertical airspace boundaries are unreliable.</source>
         <translation>Barometrische und GPS-Höhe liegen unplausibel weit auseinander. Evtl. misst Ihr Gerät nicht den statischen (Außen-) Druck, z.B. in einer Druckkabine oder bei einem Flugsimulator als Quelle. Die barometrische Höhenangabe und die vertikalen Luftraumgrenzen sind NICHT verlässlich.</translation>
     </message>
@@ -6206,12 +6206,12 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <translation type="vanished">Lade Karte und Daten herunter…</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="361"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="388"/>
         <source>Traffic data receiver problem</source>
         <translation>Problem mit dem Verkehrsdatenempfänger</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="379"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="406"/>
         <source>Traffic data receiver self test error</source>
         <translation>Fehler beim Selbsttest des Verkehrsdatenempfängers</translation>
     </message>
@@ -6237,6 +6237,29 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
         <location filename="../../../src/notification/Notification_DataUpdateAvailable.cpp" line="79"/>
         <source>Estimated download size: %1</source>
         <translation>Geschätzte Downloadgröße: %1</translation>
+    </message>
+</context>
+<context>
+    <name>Notifications::Notification_OversizedMap</name>
+    <message>
+        <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="32"/>
+        <source>Defective maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="34"/>
+        <source>Update</source>
+        <translation type="unfinished">Update</translation>
+    </message>
+    <message>
+        <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="35"/>
+        <source>Dismiss</source>
+        <translation type="unfinished">Ablehnen</translation>
+    </message>
+    <message>
+        <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="69"/>
+        <source>The following maps are unreasonably large and will be ignored until they are updated: %1.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

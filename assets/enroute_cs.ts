@@ -2686,42 +2686,42 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="106"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="115"/>
         <source>Aviation Maps</source>
         <translation>Letecké mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="107"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="116"/>
         <source>The aeronautical maps are compiled from databases provided by the &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt; projects.</source>
         <translation>Letecké mapy jsou převzaty z databází projektů &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; a &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="117"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="126"/>
         <source>Base Maps</source>
         <translation>Základní mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="118"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="127"/>
         <source>The base maps are generated from &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;OpenStreetMap&lt;/a&gt; data.</source>
         <translation>Základní mapy jsou vygenerovány z údajů z &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="125"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="134"/>
         <source>Terrain Maps</source>
         <translation>Mapy terénu</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="126"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="135"/>
         <source>The terrain maps are derived from the &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt;.</source>
         <translation>Mapy terénu jsou vygenerovány z údajů z &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset na Amazon AWS&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="167"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="176"/>
         <source>Approach Charts</source>
         <translation type="unfinished">Mapy pro vizuální přiblížení</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="168"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="177"/>
         <source>The approach charts are provided by the following agencies.</source>
         <translation type="unfinished">Mapy přiblížení poskytují následující organizace.</translation>
     </message>
@@ -3981,47 +3981,47 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>Notifications::NotificationManager</name>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="111"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="118"/>
         <source>Test notification</source>
         <translation>Zkušební notifikace</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="119"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="126"/>
         <source>This is a test of the speech engine.</source>
         <translation>Toto je test hlasového generátoru.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="275"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="282"/>
         <source>Info.</source>
         <translation>Info.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="279"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="286"/>
         <source>Warning.</source>
         <translation>Varování.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="282"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="289"/>
         <source>Alert!</source>
         <translation>Upozornění!</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="342"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="349"/>
         <source>Inconsistent altitude data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="343"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="350"/>
         <source>Pressure altitude and GNSS altitude differ by an unrealistic amount. This can happen when the device does not measure static pressure, for instance in a pressurized cabin or when a flight simulator is used. Barometric altitude data and vertical airspace boundaries are unreliable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="361"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="388"/>
         <source>Traffic data receiver problem</source>
         <translation>Problém s přijímačem leteckého provozu</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="379"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="406"/>
         <source>Traffic data receiver self test error</source>
         <translation>Chyba při self-testu přijímače leteckého provozu</translation>
     </message>
@@ -4047,6 +4047,29 @@ Zpráva:  Enroute Flight Navigation
         <location filename="../../../src/notification/Notification_DataUpdateAvailable.cpp" line="79"/>
         <source>Estimated download size: %1</source>
         <translation>Předpokládaná velikost ke stažení: %1</translation>
+    </message>
+</context>
+<context>
+    <name>Notifications::Notification_OversizedMap</name>
+    <message>
+        <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="32"/>
+        <source>Defective maps</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="34"/>
+        <source>Update</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="35"/>
+        <source>Dismiss</source>
+        <translation type="unfinished">Ignorovat</translation>
+    </message>
+    <message>
+        <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="69"/>
+        <source>The following maps are unreasonably large and will be ignored until they are updated: %1.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
