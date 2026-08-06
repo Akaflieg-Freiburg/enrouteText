@@ -6244,22 +6244,22 @@ Choose &lt;strong&gt;Library/Maps and Data&lt;/strong&gt; to open the map manage
     <message>
         <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="32"/>
         <source>Defective maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehlerhafte Karten</translation>
     </message>
     <message>
         <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="34"/>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="35"/>
         <source>Dismiss</source>
-        <translation type="unfinished">Ablehnen</translation>
+        <translation>Ablehnen</translation>
     </message>
     <message>
         <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="69"/>
         <source>The following maps are unreasonably large and will be ignored until they are updated: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die folgenden Karten sind unverhältnismäßig groß und werden bis zu ihrem nächsten Update ignoriert: %1.</translation>
     </message>
 </context>
 <context>
