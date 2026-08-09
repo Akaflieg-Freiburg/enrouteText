@@ -7064,19 +7064,19 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="246"/>
         <source>Airspace %1 has no valid outline.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Luftraum %1 hat keine gültige Umrandung.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="250"/>
         <source>Airspace %1 has no lower limit.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Luftraum %1 hat keine Untergrenze.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="254"/>
         <source>Airspace %1 has no upper limit.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Luftraum %1 hat keine Obergrenze.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="331"/>
@@ -7089,7 +7089,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="389"/>
         <source>Invalid altitude specification: %1</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Höhenangabe: %1</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="464"/>
@@ -7105,7 +7105,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="644"/>
         <source>Errors</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="654"/>
@@ -7123,7 +7123,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="697"/>
         <source>Airspace %1 was not imported because its definition contains errors.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Luftraum %1 wurde wegen fehlerhafter Spezifikation nicht importiert.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="792"/>
@@ -7135,13 +7135,13 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="797"/>
         <source>Error in line %1: %2</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Fehler in Zeile %1: %2</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="807"/>
         <source>This file specifies activation times. Activation times are not evaluated; the airspaces are shown at all times.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Diese Datei nennt Aktivierungszeiten. Diese werden nicht ausgewertet; die Lufträume werden durchgehend angezeigt.</translation>
     </message>
     <message>
         <source>Error in line %1: %2; Airspace %3 ignored.</source>
