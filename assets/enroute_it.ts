@@ -6970,68 +6970,120 @@ mettiti in contatto con noi aprendo un problema di GitHub.&lt;/p&gt;
         <translation type="vanished">Dati potenzialmente obsoleti. Aggiornare.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="56"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="78"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="83"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="88"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="318"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="325"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="61"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="87"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="92"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="97"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="414"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="421"/>
         <source>Invalid number found: %1</source>
         <comment>OpenAir</comment>
         <translation>Trovato numero invalido: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="67"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="120"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="135"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="72"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="101"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="118"/>
         <source>Variable X is not set but Circle should be drawn</source>
         <comment>OpenAir</comment>
         <translation>La variabile X non è impostata ma il cerchio dovrebbe essere disegnato</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="171"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="185"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="82"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="111"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="184"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="198"/>
         <source>Invalid arc specification</source>
         <comment>OpenAir</comment>
         <translation>Specifica dell&apos;arco invalida</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="302"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="246"/>
+        <source>Airspace %1 has no valid outline.</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="250"/>
+        <source>Airspace %1 has no lower limit.</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="254"/>
+        <source>Airspace %1 has no upper limit.</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="331"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="337"/>
         <source>Invalid content for VariableD (direction): %1</source>
         <comment>OpenAir</comment>
         <translation>Contenuto della VariabileD (direzione) invalido: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="369"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="383"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="387"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="389"/>
+        <source>Invalid altitude specification: %1</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="464"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="480"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="488"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="496"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="500"/>
         <source>Invalid coordinate found: %1</source>
         <comment>OpenAir</comment>
         <translation>Trovate coordinate invalide: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="521"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="644"/>
+        <source>Errors</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished">Errori</translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="654"/>
         <source>Warnings</source>
         <comment>OpenAir</comment>
         <translation>Allerte</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="545"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="678"/>
         <source>Cannot open file %1</source>
         <comment>OpenAir</comment>
         <translation>Non posso aprire il file %1</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="627"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="697"/>
+        <source>Airspace %1 was not imported because its definition contains errors.</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="792"/>
         <source>Unrecognized record type in line %1: %2; Line ignored.</source>
         <comment>OpenAir</comment>
         <translation>Tipo di record non riconosciuto nella linea %1: %2; Linea ignorata.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="632"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="797"/>
+        <source>Error in line %1: %2</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="807"/>
+        <source>This file specifies activation times. Activation times are not evaluated; the airspaces are shown at all times.</source>
+        <comment>OpenAir</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Error in line %1: %2; Airspace %3 ignored.</source>
         <comment>OpenAir</comment>
-        <translation>Errore nella linea %1: %2; Spazio aereo %3 ignorato.</translation>
+        <translation type="vanished">Errore nella linea %1: %2; Spazio aereo %3 ignorato.</translation>
     </message>
     <message>
         <source>File %1 is not a valid zip file.</source>
