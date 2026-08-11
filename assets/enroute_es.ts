@@ -75,7 +75,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="174"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft available. To add a route here, choose &apos;Aircraft&apos; from the main menu, and save the current aircraft to the library.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No hay aviones disponibles. Para agregar una ruta aquí, elija &apos;Avión&apos; en el menú principal y guarde el avión actual en la biblioteca.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay aviones disponibles. Para agregar una ruta aquí, elija &apos;Avión&apos; en el menú principal y guarde el avión actual en la biblioteca.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="175"/>
@@ -1823,7 +1823,7 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="264"/>
         <source>CUB Airspace Data (*.cub)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos del espacio aéreo CUB (*.cub)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="265"/>
@@ -1858,7 +1858,7 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="397"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No maps match your filter.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay mapas que coincidan con con sus criterios de filtro.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="462"/>
@@ -1868,7 +1868,7 @@ tipo de información que podríamos usar en nuestra aplicación.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="463"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No approach charts match your filter.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;Ningúna cartas de aproximación visual coincide con sus criterios de filtro.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/DataManagerPage.qml" line="512"/>
@@ -2053,7 +2053,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/items/FilterField.qml" line="35"/>
         <source>Filter by Name</source>
-        <translation type="unfinished">Filtrar por nombre</translation>
+        <translation>Filtrar por nombre</translation>
     </message>
 </context>
 <context>
@@ -2377,7 +2377,7 @@ con los datos de la cuenta bancaria.</translation>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="599"/>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="612"/>
         <source>No data to export.</source>
-        <translation type="unfinished"></translation>
+        <translation>No hay datos que exportar.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="183"/>
@@ -2430,13 +2430,13 @@ con los datos de la cuenta bancaria.</translation>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="209"/>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="592"/>
         <source>Save as ForeFlight CSV…</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar como ForeFlight CSV...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="225"/>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="605"/>
         <source>Save as Flightlog JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar como Flightlog JSON...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="241"/>
@@ -2486,7 +2486,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="368"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flights match your filter.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;Ningún vuelo coincide con su filtro. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="432"/>
@@ -2549,7 +2549,7 @@ con los datos de la cuenta bancaria.</translation>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="583"/>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="626"/>
         <source>Track data could not be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudieron leer los datos de derrota.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="587"/>
@@ -2564,7 +2564,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="618"/>
         <source>Save to IGC…</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar como IGC...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="632"/>
@@ -2837,18 +2837,18 @@ con los datos de la cuenta bancaria.</translation>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="230"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="306"/>
         <source>… to Garmin FPL file</source>
-        <translation type="unfinished"></translation>
+        <translation>... al fichiero FPL ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="254"/>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="317"/>
         <source>… to MSFS PLN file</source>
-        <translation type="unfinished"></translation>
+        <translation>... al fichiero MSFS PLN ...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="280"/>
         <source>Save…</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="329"/>
@@ -2876,12 +2876,12 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="367"/>
         <source>… in Garmin FPL format</source>
-        <translation type="unfinished"></translation>
+        <translation>... en le formato Garmin FPL</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="384"/>
         <source>… in MSFS PLN format</source>
-        <translation type="unfinished"></translation>
+        <translation>... en le formato MSFS PLN</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="403"/>
@@ -3121,7 +3121,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="303"/>
         <source>Save…</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="331"/>
@@ -3281,7 +3281,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="851"/>
         <source>The flight log file could not be read and has been reset (%1). Your previous flight log data is no longer available.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo leer el archivo de registro de vuelo y se ha restablecido (%1). Los datos del registro de vuelo anterior ya no están disponibles.</translation>
     </message>
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="938"/>
@@ -3306,7 +3306,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="988"/>
         <source>Failed to save GPS track for flight from %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo guardar la pista GPS para el vuelo desde %1.</translation>
     </message>
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="1004"/>
@@ -3658,17 +3658,17 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="54"/>
         <source>File saved</source>
-        <translation type="unfinished"></translation>
+        <translation>Archivo guardado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="58"/>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="63"/>
         <source>Error Saving Data…</source>
-        <translation type="unfinished"></translation>
+        <translation>Error al guardar datos...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="456"/>
@@ -3776,7 +3776,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="223"/>
         <source>Save Info</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar información</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="238"/>
@@ -4310,7 +4310,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="326"/>
         <source>Waypoints in your flight route can now be rearranged by drag-and-drop: press the drag handle next to a waypoint and move it to its new position in the list.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los puntos de ruta en tu ruta de vuelo ahora se pueden reorganizar arrastrando y soltando: presiona la palanca de arrastre junto a un punto de ruta y muévelo a su nueva posición en la lista.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="330"/>
@@ -5231,7 +5231,7 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="129"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;¡Lo siento!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta disponibles.&lt;/p&gt;</translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta disponibles.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Nearby.qml" line="153"/>
@@ -5281,7 +5281,7 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="212"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No NOTAMs match your filter.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;No hay NOTAM que coincidan con su filtro. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="219"/>
@@ -5327,12 +5327,12 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="349"/>
         <source>Inconsistent altitude data</source>
-        <translation type="unfinished"></translation>
+        <translation>Datos de altitud inconsistentes</translation>
     </message>
     <message>
         <location filename="../../../src/notification/NotificationManager.cpp" line="350"/>
         <source>Pressure altitude and GNSS altitude differ by an unrealistic amount. This can happen when the device does not measure static pressure, for instance in a pressurized cabin or when a flight simulator is used. Barometric altitude data and vertical airspace boundaries are unreliable.</source>
-        <translation type="unfinished"></translation>
+        <translation>La altitud de presión y la altitud GNSS difieren en una cantidad poco realista. Esto puede suceder cuando el dispositivo no mide la presión estática, por ejemplo en una cabina presurizada o cuando se utiliza un simulador de vuelo. Los datos de altitud barométrica y los límites verticales del espacio aéreo no son fiables.</translation>
     </message>
     <message>
         <source>Downloading map and data…</source>
@@ -5377,22 +5377,22 @@ Elija &lt;strong&gt;Biblioteca/Mapas y datos&lt;/strong&gt; para abrir la págin
     <message>
         <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="32"/>
         <source>Defective maps</source>
-        <translation type="unfinished"></translation>
+        <translation>Mapas defectuosos</translation>
     </message>
     <message>
         <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="34"/>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="35"/>
         <source>Dismiss</source>
-        <translation type="unfinished">Descartar</translation>
+        <translation>Descartar</translation>
     </message>
     <message>
         <location filename="../../../src/notification/Notification_OversizedMap.cpp" line="69"/>
         <source>The following maps are unreasonably large and will be ignored until they are updated: %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Los siguientes mapas son excesivamente grandes y se ignorarán hasta que se actualicen: %1.</translation>
     </message>
 </context>
 <context>
@@ -5561,12 +5561,12 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/platform/FileExchange_Android.cpp" line="126"/>
         <source>Another file save operation is already in progress.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otra operación de guardado de archivos ya está en curso.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Android.cpp" line="133"/>
         <source>Unable to open the system file dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede abrir el diálogo de archivos del sistema.</translation>
     </message>
     <message>
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
@@ -6142,19 +6142,22 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="246"/>
         <source>Airspace %1 has no valid outline.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>OpenAir</translatorcomment>
+        <translation>El espacio aéreo %1 no tiene un contorno válido.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="250"/>
         <source>Airspace %1 has no lower limit.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>OpenAir</translatorcomment>
+        <translation>El espacio aéreo %1 no tiene límite inferior.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="254"/>
         <source>Airspace %1 has no upper limit.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>OpenAir</translatorcomment>
+        <translation>El espacio aéreo %1 no tiene límite superior.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="331"/>
@@ -6168,7 +6171,8 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="389"/>
         <source>Invalid altitude specification: %1</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>OpenAir</translatorcomment>
+        <translation>Especificación de altitud no válida: %1</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="464"/>
@@ -6185,7 +6189,8 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="644"/>
         <source>Errors</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished">Error</translation>
+        <translatorcomment>OpenAir</translatorcomment>
+        <translation>Error</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="654"/>
@@ -6205,7 +6210,8 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="697"/>
         <source>Airspace %1 was not imported because its definition contains errors.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>OpenAir</translatorcomment>
+        <translation>El espacio aéreo %1 no se importó porque su definición contiene errores.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="792"/>
@@ -6218,13 +6224,15 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="797"/>
         <source>Error in line %1: %2</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>OpenAir</translatorcomment>
+        <translation>Error en la línea %1: %2</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="807"/>
         <source>This file specifies activation times. Activation times are not evaluated; the airspaces are shown at all times.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>OpenAir</translatorcomment>
+        <translation>Este archivo especifica los tiempos de activación. Los tiempos de activación no se evalúan; los espacios aéreos se muestran en todo momento.</translation>
     </message>
     <message>
         <source>Error in line %1: %2; Airspace %3 ignored.</source>
@@ -7234,86 +7242,100 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/CUB.cpp" line="129"/>
         <source>Attempt to read beyond the end of the file</source>
         <comment>CUB</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>Intento de leer más allá del final del archivo</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUB.cpp" line="317"/>
         <source>Warnings</source>
         <comment>CUB</comment>
-        <translation type="unfinished">Advertencia</translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>Advertencia</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUB.cpp" line="336"/>
         <source>Cannot open file %1</source>
         <comment>CUB</comment>
-        <translation type="unfinished">No se puede abrir el archivo %1</translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>No se puede abrir el archivo %1</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUB.cpp" line="352"/>
         <source>File is too short to contain a valid header</source>
         <comment>CUB</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>El archivo es demasiado corto para contener un encabezado válido</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUB.cpp" line="356"/>
         <source>Not a CUB file, invalid file identifier</source>
         <comment>CUB</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>No es un archivo CUB, identificador de archivo inválido</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUB.cpp" line="360"/>
         <source>Encrypted CUB files are not supported</source>
         <comment>CUB</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>Los archivos CUB cifrados no son compatibles</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUB.cpp" line="374"/>
         <source>Invalid item or point size specification</source>
         <comment>CUB</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>Especificación de tamaño del elemento o punto no válida</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUB.cpp" line="381"/>
         <source>Invalid item table specification</source>
         <comment>CUB</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>Especificación de tabla de ítems no válida</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUB.cpp" line="385"/>
         <source>Invalid coordinate scale specification</source>
         <comment>CUB</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>Invalid item table specification</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUB.cpp" line="440"/>
         <source>Invalid coordinate found</source>
         <comment>CUB</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>Invalid coordinate found</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUB.cpp" line="458"/>
         <source>Airspace %1 is defined by NOTAM; Airspace ignored.</source>
         <comment>CUB</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>El espacio aéreo %1 está definido por NOTAM; espacio aéreo ignorado.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUB.cpp" line="463"/>
         <location filename="../../../src/fileFormats/CUB.cpp" line="471"/>
         <source>Airspace has no usable geometry</source>
         <comment>CUB</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>El espacio aéreo no tiene geometría utilizable</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUB.cpp" line="512"/>
         <source>Error reading airspace %1: %2; Airspace ignored.</source>
         <comment>CUB</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>Error de lectura del espacio aéreo %1: %2; espacio aéreo ignorado.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/CUB.cpp" line="518"/>
         <source>No usable airspaces found in file %1</source>
         <comment>CUB</comment>
-        <translation type="unfinished"></translation>
+        <translatorcomment>CUB</translatorcomment>
+        <translation>No se encontraron espacios aéreos utilizables en el archivo %1</translation>
     </message>
 </context>
 <context>
@@ -9473,7 +9495,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="110"/>
         <source>Unable to show side view: Pressure altitude and GNSS altitude differ by an unrealistic amount. This can happen when the device does not measure static pressure, for instance in a pressurized cabin or when a flight simulator is used.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se puede mostrar la vista lateral: la altitud de presión y la altitud GNSS difieren en una cantidad poco realista. Esto puede suceder cuando el dispositivo no mide la presión estática, por ejemplo en una cabina presurizada o cuando se utiliza un simulador de vuelo.</translation>
     </message>
     <message>
         <location filename="../../../src/ui/SideviewQuickItem.cpp" line="118"/>
@@ -9539,7 +9561,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="164"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No approach charts match your filter.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Lo sentimos! &lt;/h3&gt;&lt;p&gt;Ningún gráfico de enfoque coincide con tu filtro. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/VAC.qml" line="173"/>
@@ -10036,7 +10058,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="205"/>
         <source>Save…</source>
-        <translation type="unfinished"></translation>
+        <translation>Guardar...</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="232"/>
@@ -10186,7 +10208,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="184"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No weather stations match your filter.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;Ninguna estación meteorológica coincide con tu filtro. &lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/Weather.qml" line="208"/>
@@ -13522,17 +13544,17 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/main.qml" line="1024"/>
         <source>Flight log error</source>
-        <translation type="unfinished"></translation>
+        <translation>flight log error</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="1025"/>
         <source>The flight log could not be saved to storage. Recent changes will be lost when the app closes.</source>
-        <translation type="unfinished"></translation>
+        <translation>No se pudo guardar el registro de vuelo en el almacenamiento. Los cambios recientes se perderán cuando se cierre la aplicación.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="1026"/>
         <source>Reason: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Razón: %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="1061"/>
