@@ -4519,7 +4519,8 @@ z danymi konta bankowego.
 &lt;li&gt;&lt;strong&gt;Spanish:&lt;/strong&gt; Luca Riva.&lt;/li&gt;
 </source>
         <translation>
-&lt;li&gt;&lt;strong&gt;Hiszpański:&lt;/strong&gt; Luca Riva.&lt;/li&gt;</translation>
+&lt;li&gt;&lt;strong&gt;Hiszpański:&lt;/strong&gt; Luca Riva.&lt;/li&gt;
+</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="101"/>
@@ -6968,19 +6969,19 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="246"/>
         <source>Airspace %1 has no valid outline.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przestrzeń powietrzna %1 nie ma poprawnej granicy.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="250"/>
         <source>Airspace %1 has no lower limit.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przestrzeń powietrzna %1 nie ma dolnego limitu.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="254"/>
         <source>Airspace %1 has no upper limit.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przestrzeń powietrzna %1 nie ma górnego limitu.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="331"/>
@@ -6993,7 +6994,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="389"/>
         <source>Invalid altitude specification: %1</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Błędna specyfikacja wysokości: %1</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="464"/>
@@ -7009,7 +7010,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="644"/>
         <source>Errors</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished">Błędy</translation>
+        <translation>Błędy</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="654"/>
@@ -7027,7 +7028,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="697"/>
         <source>Airspace %1 was not imported because its definition contains errors.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Przestrzeń powietrzna %1 nie została zaimportowana, ponieważ jej definicja zawiera błędy.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="792"/>
@@ -7039,13 +7040,13 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="797"/>
         <source>Error in line %1: %2</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Błąd w linii %1: %2</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="807"/>
         <source>This file specifies activation times. Activation times are not evaluated; the airspaces are shown at all times.</source>
         <comment>OpenAir</comment>
-        <translation type="unfinished"></translation>
+        <translation>Ten plik określa czasy aktywacji. Czasy aktywacji nie są przetwarzane; przestrzenie są zawsze pokazywane.</translation>
     </message>
     <message>
         <source>Error in line %1: %2; Airspace %3 ignored.</source>
