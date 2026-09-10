@@ -4,37 +4,37 @@
 <context>
     <name>AddBTDeviceDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="32"/>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="34"/>
         <source>Add Bluetooth Connection</source>
         <translation>Přidat Bluetooth spojení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="48"/>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="50"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="56"/>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="58"/>
         <source>No Device Found</source>
         <translation>Nenalezeno žádné zařízení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="87"/>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="91"/>
         <source>Adding Connection: %1</source>
         <translation>Přidávám spojení %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="96"/>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="100"/>
         <source>Scanning…</source>
         <translation>Vyhledávám…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="96"/>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="100"/>
         <source>Scan for Devices</source>
         <translation>Vyhledat zařízení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="106"/>
+        <location filename="../../../src/qml/dialogs/AddBTDeviceDialog.qml" line="113"/>
         <source>Error Adding Device</source>
         <translation>Chyba při přidávání zařízení</translation>
     </message>
@@ -42,7 +42,7 @@
 <context>
     <name>AircraftLibrary</name>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="32"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="34"/>
         <source>Aircraft Library</source>
         <translation>Knihovna letadel</translation>
     </message>
@@ -51,77 +51,77 @@
         <translation type="vanished">Filtr</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="120"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="123"/>
         <source>Rename…</source>
         <translation>Přejmenovat…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="132"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="135"/>
         <source>Remove…</source>
         <translation>Odstranit…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="174"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="177"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft available. To add a route here, choose &apos;Aircraft&apos; from the main menu, and save the current aircraft to the library.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádná letadla nejsou k dispozici. Pro přidání zvolte &apos;Letadla&apos; z hlavní nabídky a uložtě stávající letadlo do knihovny.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="175"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="178"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádná letadla neodpovídají vašemu vyhledávání.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="192"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="195"/>
         <source>Loading aircraft &lt;strong&gt;%1&lt;/strong&gt;</source>
         <translation>Nahrávám letadlo &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="204"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="207"/>
         <source>An Error Occurred…</source>
         <translation>Nastala chyba…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="229"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="235"/>
         <source>Overwrite Current Aircraft?</source>
         <translation>Přepsat stávající letadlo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="232"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="238"/>
         <source>Loading the aircraft &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current aircraft. Once overwritten, the current aircraft cannot be restored.</source>
         <translation>Nahrání letadla &lt;strong&gt;%1&lt;/strong&gt; přepíše aktuální letadlo. Poté již nebude možné se k současnému letadlu vrátit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="247"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="251"/>
         <source>Remove from Device?</source>
         <translation>Odstranit ze zařízení?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="250"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="254"/>
         <source>Once the aircraft &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Jakmile bude letadlo &lt;strong&gt;%1&lt;/strong&gt; odstraněno, nebude možné se k němu vrátit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="256"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="259"/>
         <source>Aircraft removed from device</source>
         <translation>Letadlo odstraněno ze zařízení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="269"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="271"/>
         <source>Rename Aircraft</source>
         <translation>Přejmenovat letadlo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="279"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="281"/>
         <source>Enter new name for the aircraft &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Zadejte nový název pro letadlo &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="303"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="308"/>
         <source>Rename</source>
         <translation>Přejmenovat</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="313"/>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="318"/>
         <source>Aircraft renamed</source>
         <translation>Letadlo přejmenováno</translation>
     </message>
@@ -129,7 +129,7 @@
 <context>
     <name>AircraftPage</name>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="32"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="33"/>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="144"/>
         <source>Aircraft</source>
         <translation>Letadla</translation>
@@ -207,17 +207,17 @@
         <translation>Jednotky</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="276"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="279"/>
         <source>Nautical Miles</source>
         <translation>Námořní míle</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="276"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="279"/>
         <source>Kilometers</source>
         <translation>Kilometry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="276"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="279"/>
         <source>Statute Miles</source>
         <translation>Pozemní míle</translation>
     </message>
@@ -234,12 +234,12 @@
         <translation type="vanished">Zvolte používané jednotky pro toto letadlo. Jednotky se vztahují také na horizontální rychlost.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="299"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="305"/>
         <source>Feet</source>
         <translation>Stopy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="299"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="305"/>
         <source>Meters</source>
         <translation>Metry</translation>
     </message>
@@ -252,7 +252,7 @@
         <translation type="vanished">Zvolte používané jednotky pro toto letadlo. Jednotky se vztahují také na vertikální rychlost.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="322"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="331"/>
         <source>Liters</source>
         <translation>Litry</translation>
     </message>
@@ -261,7 +261,7 @@
         <translation type="vanished">Galony</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="304"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="310"/>
         <source>Volume</source>
         <translation>Objem</translation>
     </message>
@@ -279,93 +279,93 @@
         <translation>Horizontální</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="281"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="284"/>
         <source>Vertical</source>
         <translation>Vertikální</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="322"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="331"/>
         <source>U.S. Gallons</source>
         <translation>U.S. Galony</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="328"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="337"/>
         <source>True Airspeed</source>
         <translation>Pravá vzdušná rychlost</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="337"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="582"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="346"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="591"/>
         <source>Cruise</source>
         <translation>Přímý let</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="416"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="425"/>
         <source>Descent</source>
         <translation>Klesání</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="495"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="504"/>
         <source>Minimum</source>
         <translation>Minimum</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="574"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="583"/>
         <source>Fuel Consumption</source>
         <translation>Spotřeba paliva</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="671"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="681"/>
         <source>Flight Safety Warning!</source>
         <translation type="unfinished">Varování k bezpečnosti letu!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="673"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="683"/>
         <source>Know what you are doing!</source>
         <translation type="unfinished">Je nezbytné vědět, co děláte!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="674"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="684"/>
         <source>If you enable this option, Enroute Flight Navigation will use the pressure sensor of your mobile device to determine pressure altitude and vertical distances to airspaces.</source>
         <translation type="unfinished">Pokud tuto volbu povolíte, Enroute Flight Navigation použije tlakový senzor vašeho mobilního zařízení k určení tlakové výšky a vertikálních vzdáleností od vzdušných prostorů.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="675"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="685"/>
         <source>This is safety critical.</source>
         <translation type="unfinished">Toto je kritické z hlediska bezpečnosti.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="678"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="688"/>
         <source>The pressure sensor of your device is probably not certified for use in aviation.</source>
         <translation type="unfinished">Tlakový senzor vašeho zařízení pravděpodobně není certifikován pro použití v letectví.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="679"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="689"/>
         <source>In typical GA aircraft, cabin pressure is not equal to static pressure.</source>
         <translation type="unfinished">V typických letadlech všeobecného letectví se tlak v kabině nerovná statickému tlaku.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="680"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="690"/>
         <source>The precise difference depends on factors such as airspeed and configuration of ventilation and heating.</source>
         <translation type="unfinished">Přesný rozdíl závisí na faktorech, jako je rychlost letu a nastavení ventilace a topení.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="682"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="692"/>
         <source>Do not enable this option unless you convinced yourself that the data provided by your sensor is good enough for the intended use.</source>
         <translation type="unfinished">Nepovolujte tuto volbu, pokud jste se sami nepřesvědčili, že data poskytovaná vaším senzorem jsou pro zamýšlené použití dostatečně kvalitní.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="683"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="693"/>
         <source>Do not rely on data shown in this app.</source>
         <translation type="unfinished">Nespoléhejte se na data zobrazená v této aplikaci.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="684"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="694"/>
         <source>Always use an approved altimeter to judge vertical distance to airspaces.</source>
         <translation type="unfinished">K posouzení vertikální vzdálenosti od vzdušných prostorů vždy používejte schválený výškoměr.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="687"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="697"/>
         <source>We strongly recommend connecting Enroute Flight Navigation to a proper traffic data receiver, such as a FLARM or ADS-B device, that provides static pressure data.</source>
         <translation type="unfinished">Důrazně doporučujeme připojit Enroute Flight Navigation k řádnému přijímači dat o provozu, jako je zařízení FLARM nebo ADS-B, které poskytuje údaje o statickém tlaku.</translation>
     </message>
@@ -373,32 +373,32 @@
 <context>
     <name>AircraftSaveDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="30"/>
+        <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="32"/>
         <source>Save Aircraft…</source>
         <translation>Uložit letadlo...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="66"/>
+        <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="69"/>
         <source>Enter a name or choose an existing name from the list below.</source>
         <translation>Zadejte název, nebo vyberte stávající název ze seznamu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="135"/>
+        <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="136"/>
         <source>Aircraft %1 saved</source>
         <translation>Letadlo %1 uloženo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="142"/>
+        <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="143"/>
         <source>An Error Occurred…</source>
         <translation>Nastala chyba…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="173"/>
+        <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="177"/>
         <source>Overwrite Aircraft?</source>
         <translation>Přepsat letadlo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="174"/>
+        <location filename="../../../src/qml/dialogs/AircraftSaveDialog.qml" line="178"/>
         <source>The aircraft &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
         <translation>Letadlo &lt;strong&gt;%1&lt;/strong&gt; již v knihovně existuje. Chcete ho přepsat?</translation>
     </message>
@@ -406,54 +406,54 @@
 <context>
     <name>BugReportPage</name>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="30"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="32"/>
         <source>Bug Report</source>
         <translation>Nahlásit chybu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="49"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="51"/>
         <source>Go back in bug report</source>
         <translation>Nahlásit chybu-zpět</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="90"/>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="265"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="92"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="273"/>
         <source>Report a bug or make a suggestion for improvement</source>
         <translation>Nahlasit chybu nebo návrh na zlepšení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="93"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="95"/>
         <source>We aim to provide high-quality software.</source>
         <translation>Naším cílem je poskytovat kvalitní software.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="94"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="96"/>
         <source>Fixing errors is therefore always our first priority.</source>
         <translation>Oprava chyb je tím pádem pro nás velmi důležitá.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="95"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="97"/>
         <source>We are grateful for every report that we get, and we would also like to hear your suggestions for improvement.</source>
         <translation>Jsme rádi za každou nahlášenou chybu, a rovněž nás zajímají vaše návrhy na zlepšení.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="98"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="100"/>
         <source>Please choose one of the buttons below, depending on whether you would like to report an issue with the app, or with the aviation data presented by the app.</source>
         <translation>Vyberte si prosím jednu z níže uvedených možností, podle toho, jestli chcete nahlásit chybu v samotné aplikaci, nebo v leteckých údajích, zobrazených v aplikaci.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="105"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="107"/>
         <source>Main application</source>
         <translation>Aplikace</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="114"/>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="268"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="116"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="276"/>
         <source>Aviation Data</source>
         <translation>Letecké údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="123"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="125"/>
         <source>
 &lt;h4&gt;Thank you for your help!&lt;/h4&gt;
 </source>
@@ -462,7 +462,7 @@
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="163"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="165"/>
         <source>
 &lt;h3&gt;Report a bug or make a suggestion for improvement&lt;/h3&gt;
 
@@ -504,22 +504,22 @@ GitHub e-mailem.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="189"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="194"/>
         <source>Open GitHub Issue Page</source>
         <translation>Otevřít GitHub Issue stránku</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="198"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="203"/>
         <source>Send link by e-mail</source>
         <translation>Poslat odkaz e-mailem</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="202"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="207"/>
         <source>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to GitHub: https://github.com/Akaflieg-Freiburg/enroute/issues</source>
         <translation>mailto:?subject=Enroute Flight Navigation, Issue Report &amp;body=Link to GitHub: https://github.com/Akaflieg-Freiburg/enroute/issues</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="207"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="212"/>
         <source>
 &lt;p&gt;If you have difficulties with GitHub, you can contact
 &lt;a href=&apos;mailto:ms@squawk-vfr.de?subject=Enroute Flight
@@ -556,37 +556,37 @@ mají vždy přednost.&lt;/p&gt;
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="271"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="279"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; displays aviation data provided by the projects &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;http://openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; zobrazuje letecké údaje, poskytované projekty &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; a &lt;a href=&apos;http://openflightmaps.org&apos;&gt;open flightmaps&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="272"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="280"/>
         <source>The authors of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; do not have write access to any of these databases.</source>
         <translation>Autoři &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; nemají oprávnění upravovat údaje, poskytované těmito projekty.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="275"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="283"/>
         <source>Please contact &lt;a href=&apos;mailto:peter.kemme@openflightmaps.org?subject=Enroute Flight Navigation, Issue Report&apos;&gt;Peter Kemme&lt;/a&gt;.</source>
         <translation>Kontaktujte prosím &lt;a href=&apos;mailto:peter.kemme@openflightmaps.org?subject=Enroute Flight Navigation, Issue Report&apos;&gt;Peter Kemme&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="276"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="284"/>
         <source>Peter is active in both projects and has kindly volunteered to help our users in his spare time.</source>
         <translation>Peter je aktivní v obou projektech a laskavě nabídl pomoct našim uživatelům ve svém volném čase.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="277"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="285"/>
         <source>Peter speaks English and German.</source>
         <translation>Peter hovoří anglicky a německy.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="285"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="296"/>
         <source>Send E-Mail</source>
         <translation>Poslat e-mail</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/BugReportPage.qml" line="294"/>
+        <location filename="../../../src/qml/pages/BugReportPage.qml" line="305"/>
         <source>Thank you for your help!</source>
         <translation>Děkujeme za vaší pomoc!</translation>
     </message>
@@ -648,12 +648,12 @@ mají vždy přednost.&lt;/p&gt;
         <translation type="unfinished">Přenosová rychlost</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="214"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="215"/>
         <source>Stop Bits</source>
         <translation type="unfinished">Stop bity</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="237"/>
+        <location filename="../../../src/qml/dialogs/ConnectionInfoDialog.qml" line="239"/>
         <source>Flow Control</source>
         <translation type="unfinished">Řízení toku</translation>
     </message>
@@ -661,47 +661,47 @@ mají vždy přednost.&lt;/p&gt;
 <context>
     <name>ConnectionManager</name>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="34"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="37"/>
         <source>Data Connections</source>
         <translation>Datová propojení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="106"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="108"/>
         <source>Traffic Data Receivers</source>
         <translation>Přijímače dat o provozu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="149"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="152"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="176"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="181"/>
         <source>Remove…</source>
         <translation>Odstranit…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="179"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="184"/>
         <source>Removing Connection: %1</source>
         <translation>Odstraňuji propojení %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="201"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="206"/>
         <source>Disconnecting...</source>
         <translation>Odpojuji...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="203"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="208"/>
         <source>Reconnecting...</source>
         <translation>Znovu připojuji...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="204"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="209"/>
         <source>Reconnect</source>
         <translation>Znovu připojit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="228"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="234"/>
         <source>New Connection</source>
         <translation>Nové propojení</translation>
     </message>
@@ -710,7 +710,7 @@ mají vždy přednost.&lt;/p&gt;
         <translation type="vanished">Bluetooth Classic</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="259"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="265"/>
         <source>Bluetooth</source>
         <translation>Bluetooth</translation>
     </message>
@@ -731,93 +731,93 @@ mají vždy přednost.&lt;/p&gt;
         <translation type="vanished">Připojení k OGN glidernet.org</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="240"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="246"/>
         <source>Network/TCP</source>
         <translation type="unfinished">Síť/TCP</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="249"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="255"/>
         <source>Network/UDP</source>
         <translation type="unfinished">Síť/UDP</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="271"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="277"/>
         <source>Serial Port or USB</source>
         <translation type="unfinished">Seriový port nebo USB</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="281"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="287"/>
         <source>Open Glider Network</source>
         <translation type="unfinished">Open Glider Network</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="296"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="302"/>
         <source>Flight Safety Warning!</source>
         <translation>Varování k bezpečnosti letu!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="298"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="304"/>
         <source>Know what you are doing!</source>
         <translation>Je nezbytné vědět, co děláte!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="299"/>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="325"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="305"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="330"/>
         <source>You are about to add an internet connection to the &apos;Open Glider Network&apos; as a traffic data source.</source>
         <translation>Chystáte se nastavit internetové připojení k &apos;Open Glider Network&apos; jako zdroj údajů o leteckém provozu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="300"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="306"/>
         <source>While OGN data can be useful in certain scenarios, we recommend against using traffic data from internet services in real flight.</source>
         <translation>I když OGN údaje mohou být užitečné v některých případech, nedoporučujeme využívat internetové údaje o leteckém provozu za letu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="303"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="309"/>
         <source>Internet connectivity is not reliable in flight. Even when flying over populated areas, expect the internet connection to fail for about half of the time.</source>
         <translation>Internetové připojení není za letu spolehlivé. I v případě, že létáte nad zabydlenými oblastmi, je vhodné očekávat, že internetové spojení selže zhruba v polovině případů.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="304"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="310"/>
         <source>Experience shows that data is frequently laggy and often outdated.</source>
         <translation>Zkušenosti ukazují, že údaje jsou často opožděné a neaktuální.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="305"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="311"/>
         <source>You will not be visible to others.</source>
         <translation>Vaše poloha nebude viditelná pro ostatní.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="308"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="314"/>
         <source>We strongly feel that no responsible pilot should ever fly without a proper traffic data receiver, such as a FLARM or ADS-B device.</source>
         <translation>Jsme pevně přesvědčeni, že žádný zodpovědný pilot by neměl létat bez odpovídajícího zařízení, určeného pro vysílání a příjem leteckého provozu, jako je například FLARM nebo ADS-B.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="323"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="328"/>
         <source>Privacy Warning</source>
         <translation>Upozornění o ochraně soukromí</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="326"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="331"/>
         <source>When using this service, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will send your position data to servers of the Open Glider Network at regular intervals.</source>
         <translation>Při používání této služby bude &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; v pravidlených intervalech posílat vaší polohu do Open Glider Network.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="327"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="332"/>
         <source>We do not control these servers. We do not know what data they collect.</source>
         <translation>Nemáme nad těmito servery kontrolu. Nevíme, jaké údaje sbírají.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="328"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="333"/>
         <source>Use these services only if you agree to the data handling practices of the Open Glider Network.</source>
         <translation>Využívejte tyto služby, pouze pokud souhlasíte se zpracováním vašich údajů poskytovateli Open Glider Network.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="342"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="346"/>
         <source>Adding OGN Connection</source>
         <translation>Přidávám OGN připojení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="350"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="354"/>
         <source>Error Adding Connection</source>
         <translation>Chyba při přidávání propojení</translation>
     </message>
@@ -838,78 +838,78 @@ mají vždy přednost.&lt;/p&gt;
         <translation type="vanished">Toto je standardní propojení, které nemůže být odstraněno uživatelem.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="358"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="362"/>
         <source>Add UDP Connection</source>
         <translation>Přidat UDP spojení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="368"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="372"/>
         <source>Please enter the port used by your traffic data receiver.</source>
         <translation>Zadejte prosím port, používaný vaším přijímačem provozu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="370"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="374"/>
         <source>This is a number between 0 and 65535.</source>
         <translation>Číslo v rozsahu od 0 do 65535.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="377"/>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="449"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="381"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="453"/>
         <source>Port</source>
         <translation>Port</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="404"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="408"/>
         <source>Adding UDP Connection: Port %1</source>
         <translation>Přidávám UDP spojení: Port %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="414"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="418"/>
         <source>Add TCP Connection</source>
         <translation>Přidat TCP spojení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="428"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="432"/>
         <source>Please enter the host name and port number used by your traffic data receiver.</source>
         <translation>Zadejte prosím hostname a číslo portu vašeho přijímače provozu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="430"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="434"/>
         <source>The host is typically an IPv4 address of the form &apos;192.168.4.1&apos;, but can be any internet address.</source>
         <translation>Hostname je obyčejně IPv4 adresa ve formátu například &apos;192.168.4.1&apos;, ale může to rovněž být jakákoli internetová adresa.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="432"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="436"/>
         <source>The port is a number between 0 and 65535.</source>
         <translation>Port je číslo v rozsahu od 0 do 65535.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="439"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="443"/>
         <source>Host</source>
         <translation>Host</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="479"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="483"/>
         <source>Adding TCP Connection to %1, Port %2</source>
         <translation>Přidávám TCP spojení pro %1, Port %2</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="489"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="493"/>
         <source>Add Serial Port Connection</source>
         <translation>Přidat seriové spojení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="503"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="507"/>
         <source>No Device Found</source>
         <translation>Nenalezeno žádné zařízení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="534"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="540"/>
         <source>Adding Connection: %1</source>
         <translation>Přidávám spojení %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="543"/>
+        <location filename="../../../src/qml/pages/ConnectionManager.qml" line="549"/>
         <source>Scan for Devices</source>
         <translation>Vyhledat zařízení</translation>
     </message>
@@ -917,33 +917,33 @@ mají vždy přednost.&lt;/p&gt;
 <context>
     <name>DataManagement::DataManager</name>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="172"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="174"/>
         <source>Unable to recognize map file format.</source>
         <translation>Nebylo možné rozpoznat formát mapových údajů.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="177"/>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="231"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="179"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="233"/>
         <source>Unable to create directory &apos;%1&apos;.</source>
         <translation>Nebylo možné vytvořit adresář &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="184"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="186"/>
         <source>Unable to copy map file to data directory.</source>
         <translation>Nebylo možné zkopírovat soubor s mapovýmí údaji do datového adresáře.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="219"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="221"/>
         <source>Errors</source>
         <translation>Chyby</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="245"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="252"/>
         <source>Error writing file &apos;%1&apos;: %2.</source>
         <translation>Chyba při zapisování souboru &apos;%1&apos;: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/DataManager.cpp" line="314"/>
+        <location filename="../../../src/dataManagement/DataManager.cpp" line="320"/>
         <source>Manually Imported</source>
         <translation>Ručně importované</translation>
     </message>
@@ -1064,174 +1064,184 @@ mají vždy přednost.&lt;/p&gt;
         <translation>neznámá velikost souboru</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="500"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="395"/>
+        <source>unable to write to the file &apos;%1&apos; (%2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="508"/>
         <source>the remote server refused the connection (the server is not accepting requests)</source>
         <translation>vzdálený server odmítl připojení (server odmítá žádosti)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="504"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="512"/>
         <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>Vzdálený server předčasně ukončil spojení, dříve než mohla být doručena a zpracována odpověď</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="509"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="517"/>
         <source>the remote host name was not found (invalid hostname)</source>
         <translation>Vzdálený server nenalezen (neznámý hostname)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="513"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="521"/>
         <source>the connection to the remote server timed out</source>
         <translation>při připojení ke vzdálenému serveru nastal timeout</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="518"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="526"/>
         <source>the operation was canceled via calls to abort() or close() before it was finished</source>
         <translation>operace byla zrušena skrz volání abort() nebo close() předtím, než mohla být dokončena</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="522"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="530"/>
         <source>the SSL/TLS handshake failed and the encrypted channel could not be established.</source>
         <translation>SSL/TLS handshake selhal; zabezpečené spojení nebylo vytvořeno.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="526"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="534"/>
         <source>the connection was broken due to disconnection from the network</source>
         <translation>spojení bylo přerušeno kvůli odpojení ze sítě</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="530"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="538"/>
         <source>the connection was broken due to disconnection from the network or failure to start the network</source>
         <translation>spojení bylo přerušeno kvůli odpojení ze sítě nebo kvůli chybě při navazování spojení</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="535"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="543"/>
         <source>the background request is not currently allowed due to platform policy</source>
         <translation>požadavek na pozadí v současnosti není povolen kvůli bezpečnostním pravidlům platformy</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="539"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="547"/>
         <source>while following redirects, the maximum limit was reached</source>
         <translation>došlo k vyčerání limitů při následování přesměrování</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="543"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="551"/>
         <source>while following redirects, the network access API detected a redirect from an encrypted protocol (https) to an unencrypted one (http)</source>
         <translation>při následování přesměrování detekovalo API pro síťové spojení  přesměrování z šifrovaného protokolu (https) na nešifrovaný (http)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="548"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="556"/>
         <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
         <translation>spojení na proxy server bylo zamítnuto (proxy server nepřijímá požadavky)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="553"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="561"/>
         <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>proxy server předčasně ukončil spojení, dříve než mohla být doručena a zpracována odpověď</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="558"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="566"/>
         <source>the proxy host name was not found (invalid proxy hostname)</source>
         <translation>Proxy Hostname nenalezeno(nevalidní název)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="562"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="570"/>
         <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
         <translation>při připojení k proxy nastal timeout, případně proxy neodpověděla včas na zaslaný požadavek</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="567"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="575"/>
         <source>the proxy requires authentication in order to honor the request but did not accept any credentials offered (if any)</source>
         <translation>proxy vyžaduje autentizaci pro zpracování požadavku, ale nepřijala autentizační údaje (pokud byly dodány)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="572"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="580"/>
         <source>the access to the remote content was denied (similar to HTTP error 403)</source>
         <translation>přístup ke vzdálenému obsahu byl odepřen (obdoba HTTP chyby 403)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="576"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="584"/>
         <source>the operation requested on the remote content is not permitted</source>
         <translation>požadovaná operace není na vzdáleném obsahu povolena</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="580"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="588"/>
         <source>the remote content was not found at the server (similar to HTTP error 404)</source>
         <translation>vzdálený obsah nebyl na serveru nalezen (obdoba HTTP chyby 404)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="584"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="592"/>
         <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
         <translation>vzdálený server vyžaduje autentizaci pro zpracování požadavku, ale nepřijal autentizační údaje (pokud byly dodány)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="589"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="597"/>
         <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
         <translation>požadavek bylo nutné zaslat znovu, toto se ale nepodařilo - nebylo například možné načíst údaje ani při druhém pokusu</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="594"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="602"/>
         <source>the request could not be completed due to a conflict with the current state of the resource</source>
         <translation>požadavek nemohl být splněn kvůli konfliktu se stávajícím stavem zdroje</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="599"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="607"/>
         <source>the requested resource is no longer available at the server</source>
         <translation>požadovaný zdroj dat již není na serveru k dispozici</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="603"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="611"/>
         <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
         <translation>na serveru nastala neočekávaná chyba, která znemožnila odpovědět na požadavek</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="609"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="617"/>
         <source>the server does not support the functionality required to fulfill the request</source>
         <translation>server nepodporuje požadovanou funkčnost</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="613"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="621"/>
         <source>the server is unable to handle the request at this time</source>
         <translation>server není schopen v tuto chvíli zpracovat požadavek</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="618"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="626"/>
         <source>the Network Access API cannot honor the request because the protocol is not known</source>
         <translation>API pro síťový přístup nedokáže zpracovat požadavek kvůli neznámému protokolu</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="622"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="630"/>
         <source>the requested operation is invalid for this protocol</source>
         <translation>požadovaná operace není platná pro tento protokol</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="626"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="634"/>
         <source>an unknown network-related error was detected</source>
         <translation>byla detekována neznámá síťová chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="630"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="638"/>
         <source>an unknown proxy-related error was detected</source>
         <translation>byla detekována neznámá chyba, související s proxy</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="634"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="642"/>
         <source>an unknown error related to the remote content was detected</source>
         <translation>byla detekována neznámá chyba, související se vzdáleným obsahem</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="638"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="646"/>
         <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
         <translation>byla detekována chyba ve zpracování protokolu (chyba při extrakci údajů, nevalidní nebo neočekávané odpovědí, apod.)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="643"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="651"/>
         <source>an unknown error related to the server response was detected</source>
         <translation>byla detekována neznámá chyba, související s odpovědí ze serveru</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="647"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="655"/>
         <source>unknown</source>
         <translation>neznámo</translation>
+    </message>
+    <message>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="706"/>
+        <source>unable to replace the file &apos;%1&apos; with the downloaded data (%2)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1260,167 +1270,167 @@ mají vždy přednost.&lt;/p&gt;
 <context>
     <name>DataManagerPage</name>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="37"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="36"/>
         <source>Map and Data Library</source>
         <translation>Knihovna map a dat</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="107"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="106"/>
         <source>Info</source>
         <translation>Informace</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="121"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="120"/>
         <source>Rename</source>
         <translation>Přejmenovat</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="134"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="133"/>
         <source>Uninstall</source>
         <translation>Odinstalovat</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="207"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="206"/>
         <source>Update list of maps and data</source>
         <translation>Aktualizovat seznam map a údajů</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="219"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="218"/>
         <source>Download all updates…</source>
         <translation>Stáhnout všechny aktualizace...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="234"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="233"/>
         <source>Import…</source>
         <translation>Import…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="242"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="241"/>
         <source>Import files</source>
         <translation>Importovat soubory</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="243"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="242"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
         <translation>Vyhledejte soubor ve vašem prohlížečí, následně vyberte &apos;Otevřít v&apos; v menu pro sdílení a zvolte Enroute</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="256"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="255"/>
         <source>Import</source>
         <translation>Import</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="257"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="256"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="263"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="262"/>
         <source>OpenAir Airspace Data (*.txt)</source>
         <translation>Letecké vzdušné soubory OpenAir (*.txt)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="264"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="263"/>
         <source>CUB Airspace Data (*.cub)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="265"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="264"/>
         <source>Raster and Vector Maps (*.mbtiles)</source>
         <translation>Rasterové a vektorové mapy (*.mbtiles)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="266"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="265"/>
         <source>Trip Kits (*.zip)</source>
         <translation>Trip Kits (*.zip)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="267"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="266"/>
         <source>Visual Approach Charts (*.tif *.tiff)</source>
         <translation>Mapy pro vizuální přiblížení (VAC) (*.tif *.tiff)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="284"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="283"/>
         <source>Clear VAC library…</source>
         <translation>Smazat VAC knihovnu...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="312"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="311"/>
         <source>Maps</source>
         <translation>Mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="318"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="319"/>
         <source>Data</source>
         <translation>Údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="397"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="399"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No maps match your filter.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="462"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="464"/>
         <source>There are no approach charts installed. The &lt;a href=&apos;x&apos;&gt;manual&lt;/a&gt; explains how to install and use them.</source>
         <translation>Nejsou nainstalováný žádné mapy pro vizuální přiblížení. V&lt;a href=&apos;x&apos;&gt;manuálu&lt;/a&gt; můžete najít návod pro jejich instalaci.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="463"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="465"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No approach charts match your filter.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="512"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="517"/>
         <source>&lt;h3&gt;Update required!&lt;/h3&gt;</source>
         <translation>&lt;h3&gt;Vyžadována aktualizace!&lt;/h3&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="533"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="538"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;The list of available maps has not yet been downloaded from the server. You can restart the download manually using button below.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Seznam map nebyl dosud stažen ze vzdáleného serveru. Stahování můžete ručně obnovit skrz tlačítko níže.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="564"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="569"/>
         <source>&lt;h3&gt;Download in progress…&lt;/h3&gt;&lt;p&gt;Please stand by while we download the list of available maps from the server…&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Probíhá aktualizace …&lt;/h3&gt;&lt;p&gt;Čekejte prosím - stahujeme seznam map ze vzdáleného serveru…&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="611"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="616"/>
         <source>Download list of maps…</source>
         <translation>Stáhnout seznam map...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="625"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="630"/>
         <source>Update</source>
         <translation>Aktualizace</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="640"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="645"/>
         <source>Download Error</source>
         <translation>Chyba při stahování</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="641"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="646"/>
         <source>&lt;p&gt;Failed to download the list of aviation maps.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Chyba při stahování seznamu leteckých map.&lt;/p&gt;&lt;p&gt;Důvod: %1.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="650"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="655"/>
         <source>Clear approach chart Library?</source>
         <translation>Smazat knihovnu map pro vizuální přiblížení?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="653"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="658"/>
         <source>Once cleared, the approach charts cannot be restored.</source>
         <translation>Po odstranění nebude možný návrat k současným mapám.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="654"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="659"/>
         <source>Charts from downloaded collections are not affected; remove them by deleting the corresponding maps.</source>
         <translation type="unfinished">Mapy ze stažených sbírek nejsou dotčeny; odstraníte je smazáním příslušných map.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="659"/>
+        <location filename="../../../src/qml/pages/DataManagerPage.qml" line="663"/>
         <source>Approach chart library cleared</source>
         <translation>Knihovna map pro vizuální přiblížení smazána</translation>
     </message>
@@ -1461,22 +1471,22 @@ mají vždy přednost.&lt;/p&gt;
         <translation type="unfinished">Pokud si aplikace ceníte, zvažte prosím dar spolku Akaflieg Freiburg, daňově zvýhodněnému neziskovému leteckému spolku veřejné prospěšnosti ve Freiburgu v Německu. Spolek váš dar použije na podporu letectví jako rekreačního sportu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="69"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="72"/>
         <source>Donate with PayPal</source>
         <translation type="unfinished">Přispět přes PayPal</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="83"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="86"/>
         <source>If you prefer, you can also send yourself an e-mail with the bank account data.</source>
         <translation type="unfinished">Pokud chcete, můžete si také poslat e-mail s bankovními údaji.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="94"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="100"/>
         <source>Send e-mail</source>
         <translation type="unfinished">Odeslat e-mail</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="96"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="102"/>
         <source>
 IBAN:    DE35 6809 0000 0027 6409 07
 BIC:     GENODE61FR1
@@ -1491,12 +1501,12 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="105"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="111"/>
         <source>mailto:?subject=Enroute Flight Navigation, Donation&amp;body=%1</source>
         <translation type="unfinished">mailto:?subject=Enroute Flight Navigation, Dar&amp;body=%1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/DonatePage.qml" line="113"/>
+        <location filename="../../../src/qml/pages/DonatePage.qml" line="119"/>
         <source>Donations to Akaflieg Freiburg are tax-deductible in Germany. Contact &lt;a href=&apos;mailto:info@akaflieg-freiburg.de&apos;&gt;info@akaflieg-freiburg.de&lt;/a&gt; for a tax statement.</source>
         <translation type="unfinished">Dary spolku Akaflieg Freiburg jsou v Německu daňově odečitatelné. Pro potvrzení o daru kontaktujte &lt;a href=&apos;mailto:info@akaflieg-freiburg.de&apos;&gt;info@akaflieg-freiburg.de&lt;/a&gt;.</translation>
     </message>
@@ -1512,102 +1522,116 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>FirstRunDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="46"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="44"/>
         <source>Welcome!</source>
         <translation>Vítejte!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="50"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="48"/>
         <source>Thank you for using this flight navigation app!  Before we get started, we need to point out that &lt;strong&gt;this app and the aviation data come with no guarantees&lt;/strong&gt;.</source>
         <translation>Děkujeme vám, že používáte tuto leteckou navigační aplikaci. Než začneme, rádi bychom vás upozornili, že &lt;strong&gt;na používání aplikace a údajů v ní zobrazených se nevztahují žádné záruky.&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="51"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="49"/>
         <source>The app is not certified to satisfy aviation standards. It may contain errors and may not work as expected.</source>
         <translation>Tato aplikace není certifikována dle leteckých norem. Může obsahovat chyby a nemusí fungovat dle očekávání.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="52"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="50"/>
         <source>The aviation data does not come from official sources. It might be incomplete, outdated or otherwise incorrect.</source>
         <translation>Letecké údaje nepocházejí z oficiálních zdrojů. Mohou být neúplné, zastaralé, nebo jinak nesprávné.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="53"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="51"/>
         <source>&lt;strong&gt;This app is no substitute for proper flight preparation or good pilotage.&lt;/strong&gt; We hope you enjoy the app and that you do find it useful.</source>
         <translation>&lt;strong&gt;Tato aplikace nenahrazuje předletovou přípravu či správnou pilotáž.&lt;/strong&gt; Doufáme, že se vám aplikace bude líbit a že jí shledáte užitečnou.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="54"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="52"/>
         <source>Fly safely and enjoy many happy landings!</source>
         <translation>Létejte bezpečně, a mnoho šťastných přistání!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="85"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="86"/>
         <source>Privacy</source>
         <translation>Soukromí</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="90"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="91"/>
         <source>Please take a minute to review our privacy policies.</source>
         <translation>Věnujte prosím chvilku seznámení se s našimi zásadami o ochraně soukromí.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="118"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="122"/>
         <source>Download Maps</source>
         <translation>Stáhnout mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="129"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="179"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; needs geographic maps to work.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; vyžaduje geografické mapy pro správné fungování.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="138"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="188"/>
         <source>Regretfully, we do not offer maps for your present location (%1).</source>
         <translation>Pro vaší lokalitu (%1) bohužel nejsou k dispozici žádné mapy.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="140"/>
-        <source>Based on your location, we reckon that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
-        <translation>Dle vaší polohy odhadujeme, že by pro vás mohla být vhodná následující mapa. Klikněte na mapu pro její stažení, následně klikněte na &quot;Hotovo&quot; pro zavření tohoto okna.</translation>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="190"/>
+        <source>Based on your location, we are downloading the following map for you. Click on &apos;Done&apos; to close this dialog. The download continues in the background.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="142"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="192"/>
+        <source>Based on your location, we are downloading the following maps for you. Click on &apos;Done&apos; to close this dialog. The download continues in the background.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Based on your location, we reckon that the following map might be relevant for you. Click on the map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
+        <translation type="vanished">Dle vaší polohy odhadujeme, že by pro vás mohla být vhodná následující mapa. Klikněte na mapu pro její stažení, následně klikněte na &quot;Hotovo&quot; pro zavření tohoto okna.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="194"/>
         <source>Based on your location, we reckon that the following maps might be relevant for you. Click on any map to start the download, then click on &apos;Done&apos; to close this dialog.</source>
         <translation>Dle vaší polohy odhadujeme, že by pro vás mohly být vhodné následující mapy. Klikněte na jakoukoli mapu pro její stažení, následně klikněte na &quot;Hotovo&quot; pro zavření tohoto okna.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="146"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="198"/>
         <source>We&apos;re waiting for SatNav position information to suggest maps that might be relevant for you. Please stand by.</source>
         <translation>Čekáme na polohové údaje z GPS, abychom vám mohli doporučit mapy, které by pro vás byly vhodné. Čekejte prosím.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="151"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="203"/>
         <source>We&apos;re downloading the list of available maps. Please stand by.</source>
         <translation>Čekejte prosím - stahujeme seznam dostupných map.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="157"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="209"/>
         <source>Please grant location permissions, so we can suggest maps to download.</source>
         <translation>Přidělte prosím aplikaci oprávnění k polohovám údajům, abychom vám mohli nabídnout vhodné mapy ke stažení.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="162"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="214"/>
         <source>We&apos;re unable to suggest maps to download because the location permission was denied.</source>
         <translation>Nemůžeme vám doporučit mapy ke stažení, protože aplikaci nebylo uděleno povolené k přístupu k polohovým údajům.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="206"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="260"/>
+        <source>The following additional maps are available for your region. They are not required. Click on a map to start the download.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="299"/>
         <source>For the full list of maps, close this dialog, open the main menu and go to &apos;Library/Maps and Data&apos;. It is also possible to import raster maps into this app. Check the manual for details.</source>
         <translation>Pro kompletní seznam map zavřete toto okno a navigujte do hlavního menu do sekce &quot;Knihovna/Mapy a data&quot;. Do aplikace lze také naimportovat rasterové mapy - podrobnější informace jsou dostupny v návodu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="261"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="358"/>
         <source>Done</source>
         <translation>Hotovo</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="262"/>
+        <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="359"/>
         <source>Accept</source>
         <translation>Přijmout</translation>
     </message>
@@ -1739,349 +1763,379 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>FlightLogPage</name>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="32"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="33"/>
         <source>Flight Log</source>
         <translation type="unfinished">Letový záznam</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="116"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="117"/>
         <source>Select flights</source>
         <translation type="unfinished">Vybrat lety</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="117"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="118"/>
         <source>%1 selected</source>
         <translation type="unfinished">Vybráno %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="141"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="142"/>
         <source>Automatic flight detection</source>
         <translation type="unfinished">Automatické detekování letu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="151"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="152"/>
         <source>Record GPS track</source>
         <translation type="unfinished">Zaznamenat GPS stopu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="162"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="163"/>
         <source>Show live flight trace on map</source>
         <translation type="unfinished">Zobrazit aktuální stopu letu na mapě</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="175"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="549"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="176"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="591"/>
         <source>Share as ForeFlight CSV…</source>
         <translation type="unfinished">Sdílet jako ForeFlight CSV…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="175"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="549"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="176"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="591"/>
         <source>Export as ForeFlight CSV…</source>
         <translation type="unfinished">Exportovat jako ForeFlight CSV…</translation>
-    </message>
-    <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="182"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="199"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="218"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="234"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="554"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="568"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="599"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="612"/>
-        <source>No data to export.</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="183"/>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="200"/>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="219"/>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="235"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="555"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="569"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="584"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="600"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="613"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="627"/>
-        <source>FlightLog</source>
-        <translation type="unfinished">LetovýZáznam</translation>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="596"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="610"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="641"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="654"/>
+        <source>No data to export.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="184"/>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="201"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="556"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="570"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="585"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="220"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="236"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="597"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="611"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="626"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="642"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="655"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="669"/>
+        <source>FlightLog</source>
+        <translation type="unfinished">LetovýZáznam</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="185"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="202"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="598"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="612"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="627"/>
         <source>Aborted</source>
         <translation type="unfinished">Zrušeno</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="186"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="203"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="187"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="204"/>
         <source>Flight log shared</source>
         <translation type="unfinished">Letový záznam byl sdílen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="186"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="203"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="187"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="204"/>
         <source>Flight log exported</source>
         <translation type="unfinished">Letový záznam byl exportován</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="192"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="563"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="193"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="605"/>
         <source>Share as Flightlog JSON…</source>
         <translation type="unfinished">Sdílet jako Flightlog JSON…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="192"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="563"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="193"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="605"/>
         <source>Export as Flightlog JSON…</source>
         <translation type="unfinished">Exportovat jako Flightlog JSON…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="209"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="592"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="210"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="634"/>
         <source>Save as ForeFlight CSV…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="225"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="605"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="226"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="647"/>
         <source>Save as Flightlog JSON…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="241"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="242"/>
+        <source>Import Flightlog JSON…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="253"/>
+        <source>Import</source>
+        <translation type="unfinished">Import</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="254"/>
+        <source>Cancel</source>
+        <translation type="unfinished">Zrušit</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="260"/>
+        <source>Flightlog JSON File (*.json)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="273"/>
+        <source>%1 flight(s) imported</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="274"/>
+        <source>No new flights to import — already in the log</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="283"/>
         <source>Hide Track from Map</source>
         <translation type="unfinished">Skrýt stopu z mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="252"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="294"/>
         <source>Remove Selected Flights…</source>
         <translation type="unfinished">Odebrat vybrané lety…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="252"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="294"/>
         <source>Clear Flight Log</source>
         <translation type="unfinished">Vymazat letový záznam</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="294"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="336"/>
         <source>Takeoff detected — confirming altitude…</source>
         <translation type="unfinished">Detekován vzlet — potvrzování nadmořské výšky…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="297"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="339"/>
         <source>In flight — recording…</source>
         <translation type="unfinished">V letu — zaznamenává se…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="298"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="340"/>
         <source>In flight</source>
         <translation type="unfinished">V letu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="300"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="342"/>
         <source>Landing detected — confirming…</source>
         <translation type="unfinished">Detekováno přistání — potvrzování…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="317"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="359"/>
         <source>End Flight</source>
         <translation type="unfinished">Ukončit let</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="367"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="409"/>
         <source>&lt;h3&gt;No flights recorded&lt;/h3&gt;&lt;p&gt;Flights will be automatically recorded when takeoff and landing are detected near airfields. You can also add flights manually using the button below.&lt;/p&gt;</source>
         <translation type="unfinished">&lt;h3&gt;Žádné zaznamenané lety&lt;/h3&gt;&lt;p&gt;Lety budou automaticky zaznamenávány při detekci vzletu a přistání v blízkosti letišť. Lety můžete přidávat také ručně pomocí tlačítka níže.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="368"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="410"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flights match your filter.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="432"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="474"/>
         <source>No time data</source>
         <translation type="unfinished">Žádná časová data</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="456"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="498"/>
         <source>Duration: %1</source>
         <translation type="unfinished">Doba trvání: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="459"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="501"/>
         <source>Block: %1</source>
         <translation type="unfinished">Block: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="462"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="504"/>
         <source>Landings: %1</source>
         <translation type="unfinished">Přistání: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="464"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="506"/>
         <source>Distance: %1</source>
         <translation type="unfinished">Vzdálenost: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="535"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="577"/>
         <source>Hide from Map</source>
         <translation type="unfinished">Skrýt z mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="535"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="577"/>
         <source>Show on Map</source>
         <translation type="unfinished">Zobrazit na mapě</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="558"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="572"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="600"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="614"/>
         <source>Flight shared</source>
         <translation type="unfinished">Let sdílen</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="558"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="572"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="600"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="614"/>
         <source>Flight exported</source>
         <translation type="unfinished">Let exportován</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="577"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="619"/>
         <source>Share to IGC…</source>
         <translation type="unfinished">Sdílet do IGC…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="577"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="619"/>
         <source>Export to IGC…</source>
         <translation type="unfinished">Exportovat do IGC…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="583"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="626"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="625"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="668"/>
         <source>Track data could not be read.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="587"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="629"/>
         <source>Track shared</source>
         <translation type="unfinished">Sledování sdíleno</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="587"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="629"/>
         <source>Track exported</source>
         <translation type="unfinished">Sledování exportováno</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="618"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="660"/>
         <source>Save to IGC…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="632"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="674"/>
         <source>Delete IGC Track…</source>
         <translation type="unfinished">Smazat IGC stopu…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="643"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="685"/>
         <source>Remove…</source>
         <translation type="unfinished">Odstranit…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="663"/>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="803"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="705"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="835"/>
         <source>Add Flight</source>
         <translation type="unfinished">Přidat let</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="698"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="740"/>
         <source>Error Sharing Data…</source>
         <translation type="unfinished">Chyba při sdílení dat…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="707"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="749"/>
         <source>Delete Track?</source>
         <translation type="unfinished">Smazat stopu?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="708"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="750"/>
         <source>Once deleted, the recorded track data cannot be restored.</source>
         <translation type="unfinished">Jakmile budou data záznamu trasy smazána, nelze je již obnovit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="714"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="755"/>
         <source>Track deleted</source>
         <translation type="unfinished">Trasa byla smazána</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="726"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="766"/>
         <source>Remove Flight?</source>
         <translation type="unfinished">Odstranit let?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="727"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="767"/>
         <source>Once removed, this flight record cannot be restored.</source>
         <translation type="unfinished">Jakmile bude tento záznam o letu odstraněn, nelze jej již obnovit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="733"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="772"/>
         <source>Flight removed</source>
         <translation type="unfinished">Let byl odstraněn</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="743"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="781"/>
         <source>Clear Flight Log?</source>
         <translation type="unfinished">Vymazat letový záznam?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="744"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="782"/>
         <source>Once cleared, the flight log cannot be restored.</source>
         <translation type="unfinished">Jakmile bude letový záznam vymazán, nelze jej již obnovit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="750"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="787"/>
         <source>Flight log cleared</source>
         <translation type="unfinished">Letový záznam byl vymazán</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="757"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="794"/>
         <source>Remove Selected Flights?</source>
         <translation type="unfinished">Odstranit vybrané lety?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="758"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="795"/>
         <source>Once removed, the selected flight records cannot be restored.</source>
         <translation type="unfinished">Jakmile budou vybrané záznamy o letech odstraněny, nelze je již obnovit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="764"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="800"/>
         <source>Flights removed</source>
         <translation type="unfinished">Lety byly odstraněny</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="775"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="810"/>
         <source>End Flight?</source>
         <translation type="unfinished">Ukončit let?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="776"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="811"/>
         <source>This will set the landing time to the current UTC time. You can edit the flight entry afterwards to correct the details.</source>
         <translation type="unfinished">Tímto se nastaví čas přistání na aktuální čas UTC. Zápis o letu můžete následně upravit a opravit detaily.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="791"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="824"/>
         <source>Edit Flight</source>
         <translation type="unfinished">Upravit let</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="796"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="828"/>
         <source>Flight updated</source>
         <translation type="unfinished">Let byl aktualizován</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="808"/>
+        <location filename="../../../src/qml/pages/FlightLogPage.qml" line="839"/>
         <source>Flight added</source>
         <translation type="unfinished">Let byl přidán</translation>
     </message>
@@ -2089,265 +2143,265 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>FlightRouteEditor</name>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="36"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="39"/>
         <source>Route and Wind</source>
         <translation>Trať a vítr</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="708"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="711"/>
         <source>Move Up</source>
         <translation>Posunout nahoru</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="720"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="723"/>
         <source>Move Down</source>
         <translation>Posunout dolu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="732"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="735"/>
         <source>Remove</source>
         <translation>Odstranit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="749"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="752"/>
         <source>Add to waypoint library</source>
         <translation>Přidat do knihovny navigačních bodů</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="762"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="765"/>
         <source>Added %1 to waypoint library.</source>
         <translation>%1 přidáno do knihovny navigačních bodů.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="106"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="109"/>
         <source>View Library…</source>
         <translation>Zobrazit knihovnu…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="115"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="118"/>
         <source>Save to library…</source>
         <translation>Uložit do knihovny…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="131"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="134"/>
         <source>Import…</source>
         <translation>Import…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="139"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="142"/>
         <source>Import files</source>
         <translation>Import souborů</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="140"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="143"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
         <translation>Vyhledejte soubor ve vašem prohlížečí, následně vyberte &apos;Otevřít v&apos; v menu pro sdílení a zvolte Enroute</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="152"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="155"/>
         <source>Import</source>
         <translation>Import</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="153"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="156"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="160"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="163"/>
         <source>FPL File (*.fpl)</source>
         <translation>FPL soubor (*.fpl)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="161"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="164"/>
         <source>GeoJSON File (*.geojson *.json)</source>
         <translation>GeoJSON soubor (*.geojson *.json)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="162"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="165"/>
         <source>GPX File (*.gpx)</source>
         <translation>GPX soubor (*.gpx)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="163"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="166"/>
         <source>PLN File (*.pln)</source>
         <translation>PLN soubor (*.pln)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="178"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="181"/>
         <source>Share…</source>
         <translation>Sdílet…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="178"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="181"/>
         <source>Export…</source>
         <translation>Export…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="182"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="284"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="185"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="287"/>
         <source>… to GeoJSON file</source>
         <translation>… do GeoJSON souboru</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="190"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="214"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="238"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="262"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="193"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="217"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="241"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="265"/>
         <source>Aborted</source>
         <translation>Zrušeno</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="199"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="223"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="247"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="271"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="202"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="226"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="250"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="274"/>
         <source>Flight route shared</source>
         <translation>Trať nasdílena</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="201"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="225"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="249"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="273"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="204"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="228"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="252"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="276"/>
         <source>Flight route exported</source>
         <translation>Trať exportována</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="206"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="295"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="209"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="298"/>
         <source>… to GPX file</source>
         <translation>… do GPX souboru</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="230"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="306"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="233"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="309"/>
         <source>… to Garmin FPL file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="254"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="317"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="257"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="320"/>
         <source>… to MSFS PLN file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="280"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="283"/>
         <source>Save…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="329"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="332"/>
         <source>Open in Other App…</source>
         <translation>Otevřít v jiné aplikaci…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="333"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="336"/>
         <source>… in GeoJSON format</source>
         <translation>… v GeoJSON formátu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="345"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="362"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="379"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="396"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="348"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="365"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="382"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="399"/>
         <source>Flight route opened in other app</source>
         <translation>Trať otevřena v jiné aplikaci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="350"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="353"/>
         <source>… in GPX format</source>
         <translation>… v GPX formátu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="367"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="370"/>
         <source>… in Garmin FPL format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="384"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="387"/>
         <source>… in MSFS PLN format</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="403"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="406"/>
         <source>Copy as Flight Plan</source>
         <translation>Zkopírovat jako letový plán</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="414"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="417"/>
         <source>Flight plan copied to clipboard</source>
         <translation>Letový plán zkopírován do schránky</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="416"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="419"/>
         <source>Failed to copy flight plan</source>
         <translation type="unfinished">Nepodařilo se zkopírovat letový plán</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="419"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="422"/>
         <source>No flight route to copy</source>
         <translation>Žádná trať ke kopírování</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="427"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="430"/>
         <source>Clear</source>
         <translation>Odstranit vše</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="442"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="445"/>
         <source>Reverse</source>
         <translation>Otočit pořadí</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="449"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="452"/>
         <source>Flight route reversed</source>
         <translation>Pořadí trati obráceno</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="467"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="470"/>
         <source>Route</source>
         <translation>Trať</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="468"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="817"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="471"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="820"/>
         <source>Wind</source>
         <translation>Vítr</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="500"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="503"/>
         <source>&lt;h3&gt;Empty Route&lt;/h3&gt;&lt;p&gt;Use the button &lt;strong&gt;Add Waypoint&lt;/strong&gt; below or double click on any point in the moving map.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Prázdná trať&lt;/h3&gt;&lt;p&gt;Použijte tlačítko &lt;strong&gt;Přidat navigační bod&lt;/strong&gt; nebo dvakrát klikněte na bod na mapě.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="827"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="830"/>
         <source>Direction from</source>
         <translation>Směr od</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="859"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="862"/>
         <source>Speed</source>
         <translation>Rychlost</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="961"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="964"/>
         <source>One waypoint: direct route from ownship position</source>
         <translation>Jeden navigační bod: Přímá trasa ze současné polohy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="987"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="990"/>
         <source>Add Waypoint</source>
         <translation>Přidat navigační bod</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1002"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1126"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1005"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1133"/>
         <source>Add Waypoint to Route</source>
         <translation>Přidat bod do trati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1034"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1038"/>
         <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
         <translation>Vyberte navigační bod ze seznamu níže, nebo &lt;a href=&apos;xx&apos;&gt;zadejte souřadnice ručně&lt;/a&gt;.</translation>
     </message>
@@ -2356,38 +2410,38 @@ Zpráva:  Enroute Flight Navigation
         <translation type="vanished">Filtrovat podle názvu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1073"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1077"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné navigační body neodpovídají vašemu filtru.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1102"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1106"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné navigační body nejsou k dispozici. Ujistěte se prosím, že je nainstalována letecká mapa.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1103"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1107"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné navigační body neodpovídají vaším vyhledávaným údajům.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1144"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1150"/>
         <source>Clear Route?</source>
         <translation>Odstranit vše z tratě?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1147"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1153"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>Po odstranění nebude možný návrat k současné trati.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="435"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1152"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="438"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1157"/>
         <source>Flight route cleared</source>
         <translation>Traťové body odstraněny</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1174"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1179"/>
         <source>Error Exporting Data…</source>
         <translation>Chyba při exportování údajů…</translation>
     </message>
@@ -2395,52 +2449,52 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>FlightRouteLibrary</name>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="32"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="35"/>
         <source>Flight Route Library</source>
         <translation>Knihovna tratí</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="100"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="103"/>
         <source>Import…</source>
         <translation>Import…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="108"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="111"/>
         <source>Import files</source>
         <translation>Import souborů</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="109"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="112"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
         <translation>Najděte váš soubor v prohlížeči, poté v nabídce sdílení vyberte &apos;Otevřít v&apos;, a zvolte Enroute</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="122"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="125"/>
         <source>Import</source>
         <translation>Import</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="123"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="126"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="129"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="132"/>
         <source>GeoJSON File (*.geojson *.json)</source>
         <translation>GeoJSON soubor (*.geojson *.json)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="130"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="133"/>
         <source>GPX File (*.gpx)</source>
         <translation>GPX soubor (*.gpx)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="139"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="142"/>
         <source>File Import Error</source>
         <translation>Chyba při nahrávání souboru</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="147"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="150"/>
         <source>Flight Route Imported</source>
         <translation>Trať importována</translation>
     </message>
@@ -2449,148 +2503,148 @@ Zpráva:  Enroute Flight Navigation
         <translation type="vanished">Filtr</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="248"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="253"/>
         <source>Share…</source>
         <translation>Sdílet...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="248"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="253"/>
         <source>Export…</source>
         <translation>Export …</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="251"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="306"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="256"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="311"/>
         <source>… to GeoJSON file</source>
         <translation>… do GeoJSON souboru</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="260"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="285"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="265"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="290"/>
         <source>Aborted</source>
         <translation>Zrušeno</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="269"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="294"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="274"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="299"/>
         <source>Flight route shared</source>
         <translation>Trať nasdílena</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="271"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="296"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="276"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="301"/>
         <source>Flight route exported</source>
         <translation>Trať exportována</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="276"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="318"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="281"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="323"/>
         <source>… to GPX file</source>
         <translation>… do GPX souboru</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="303"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="308"/>
         <source>Save…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="331"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="336"/>
         <source>Open in Other App…</source>
         <translation>Otevřít v jiné aplikaci…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="335"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="340"/>
         <source>… in GeoJSON format</source>
         <translation>… v GeoJSON formátu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="347"/>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="364"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="352"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="369"/>
         <source>Flight route opened in other app</source>
         <translation>Trať otevřena v jiné aplikaci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="352"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="357"/>
         <source>… in GPX format</source>
         <translation>… v GPX formátu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="374"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="379"/>
         <source>Rename…</source>
         <translation>Přejmenovat...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="386"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="391"/>
         <source>Remove…</source>
         <translation>Odstranit…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="431"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="436"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes available. To add a route here, choose &apos;Flight Route&apos; from the main menu, edit a route and save it to the library.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádne tratě nejsou k dispozici. Pro přidání zvolte &apos;Trať&apos; z hlavní nabídky, upravte trať a uložtě jí do knihovny.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="432"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="437"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No flight routes match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné tratě neodpovídají vašemu vyhledávání.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="446"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="451"/>
         <source>Loading flight route &lt;strong&gt;%1&lt;/strong&gt;</source>
         <translation>Nahrávám trať &lt;strong&gt;%1&lt;/strong&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="457"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="462"/>
         <source>An Error Occurred…</source>
         <translation>Nastala chyba…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="464"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="469"/>
         <source>Overwrite Current Flight Route?</source>
         <translation>Přepsat současnou trať?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="467"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="472"/>
         <source>Loading the route &lt;strong&gt;%1&lt;/strong&gt; will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Nahrání trati &lt;strong&gt;%1&lt;/strong&gt; přepíše aktuální trať. Poté již nebude možné se k současné trati vrátit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="482"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="485"/>
         <source>Remove from Device?</source>
         <translation>Odstranit ze zařízení?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="485"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="488"/>
         <source>Once the flight route &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Jakmile bude trať &lt;strong&gt;%1&lt;/strong&gt; odstraněna, nebude možné se k ní vrátit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="491"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="493"/>
         <source>Flight route removed from device</source>
         <translation>Trať otevřena v jiné aplikaci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="503"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="504"/>
         <source>Rename Flight Route</source>
         <translation>Přejmenovat trať</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="513"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="514"/>
         <source>Enter new name for the route &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Zadejte nový název pro trať &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="536"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="540"/>
         <source>Rename</source>
         <translation>Přejmenovat</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="546"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="550"/>
         <source>Flight route renamed</source>
         <translation>Trať přejmenována</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="558"/>
+        <location filename="../../../src/qml/pages/FlightRouteLibrary.qml" line="562"/>
         <source>Error Exporting Data…</source>
         <translation>Chyba při exportu údajů…</translation>
     </message>
@@ -2598,32 +2652,32 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>FlightRouteSaveDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="30"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="32"/>
         <source>Save Flight Route…</source>
         <translation>Uložit trať…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="63"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="66"/>
         <source>Enter a name or choose an existing name from the list below.</source>
         <translation>Zadejte název, nebo vyberte stávající název ze seznamu níže.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="132"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="133"/>
         <source>Flight route %1 saved</source>
         <translation>Trať %1 uložena</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="138"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="139"/>
         <source>An Error Occurred…</source>
         <translation>Nastala chyba…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="145"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="146"/>
         <source>Overwrite Flight Route?</source>
         <translation>Přepsat trať?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="148"/>
+        <location filename="../../../src/qml/dialogs/FlightRouteSaveDialog.qml" line="149"/>
         <source>The route &lt;strong&gt;%1&lt;/strong&gt; already exists in the library. Do you wish to overwrite it?</source>
         <translation>Trať &lt;strong&gt;%1&lt;/strong&gt; již v knihovně existuje. Chcete jí přepsat?</translation>
     </message>
@@ -2631,97 +2685,120 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>Flightlog::FlightLog</name>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="136"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="144"/>
         <source>No Position Data</source>
         <translation type="unfinished">Žádná data o poloze</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="137"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="145"/>
         <source>Automatic flight detection is active but no GPS or traffic receiver data is being received. Enable Location Service.</source>
         <translation type="unfinished">Automatické detekování letu je aktivní, ale nejsou přijímána žádná data z GPS nebo přijímače traffic. Zapněte služby polohy.</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="851"/>
-        <source>The flight log file could not be read and has been reset (%1). Your previous flight log data is no longer available.</source>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="518"/>
+        <source>Cannot open file: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="938"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="947"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="525"/>
+        <source>The file does not contain a valid flight log.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="752"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="761"/>
         <source>Takeoff Detected</source>
         <translation type="unfinished">Detekován vzlet</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="939"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="948"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="753"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="762"/>
         <source>Departed %1 at %2 UTC</source>
         <translation type="unfinished">Odlet z %1 v %2 UTC</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="940"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="949"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="1006"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="1015"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="754"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="763"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="821"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="830"/>
         <source>unknown</source>
         <translation type="unfinished">neznámo</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="988"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="802"/>
         <source>Failed to save GPS track for flight from %1.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="1004"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="1013"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="819"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="828"/>
         <source>Landing Detected</source>
         <translation type="unfinished">Detekováno přistání</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="1005"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="1014"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="820"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="829"/>
         <source>Landed %1 at %2 UTC</source>
         <translation type="unfinished">Přistál v %1 v %2 UTC</translation>
     </message>
 </context>
 <context>
+    <name>Flightlog::FlightLogStorage</name>
+    <message>
+        <location filename="../../../src/flightlog/FlightLogStorage.cpp" line="150"/>
+        <source>The flight log file could not be read and has been reset (%1). Your previous flight log data is no longer available.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/flightlog/FlightLogStorage.cpp" line="205"/>
+        <location filename="../../../src/flightlog/FlightLogStorage.cpp" line="264"/>
+        <location filename="../../../src/flightlog/FlightLogStorage.cpp" line="287"/>
+        <location filename="../../../src/flightlog/FlightLogStorage.cpp" line="319"/>
+        <location filename="../../../src/flightlog/FlightLogStorage.cpp" line="342"/>
+        <location filename="../../../src/flightlog/FlightLogStorage.cpp" line="374"/>
+        <source>The flight log database is not open.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="115"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="119"/>
         <source>Aviation Maps</source>
         <translation>Letecké mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="116"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="120"/>
         <source>The aeronautical maps are compiled from databases provided by the &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt; projects.</source>
         <translation>Letecké mapy jsou převzaty z databází projektů &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; a &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="126"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="130"/>
         <source>Base Maps</source>
         <translation>Základní mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="127"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="131"/>
         <source>The base maps are generated from &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;OpenStreetMap&lt;/a&gt; data.</source>
         <translation>Základní mapy jsou vygenerovány z údajů z &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="134"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="138"/>
         <source>Terrain Maps</source>
         <translation>Mapy terénu</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="135"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="139"/>
         <source>The terrain maps are derived from the &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt;.</source>
         <translation>Mapy terénu jsou vygenerovány z údajů z &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset na Amazon AWS&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="176"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="180"/>
         <source>Approach Charts</source>
         <translation type="unfinished">Mapy pro vizuální přiblížení</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="177"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="181"/>
         <source>The approach charts are provided by the following agencies.</source>
         <translation type="unfinished">Mapy přiblížení poskytují následující organizace.</translation>
     </message>
@@ -2729,57 +2806,62 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>GeoMaps::VACLibrary</name>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="138"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="144"/>
         <source>Unable to open TripKit file &lt;strong&gt;%1&lt;/strong&gt;. Error: %2.</source>
         <translation>Nebylo možné otevřít TripKit soubor &lt;strong&gt;%1&lt;/strong&gt;. Chyba: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="172"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="176"/>
         <source>Error reading TripKip: No charts imported.</source>
         <translation>Chyba při načítání TripKit: nebyly importovány žádné mapy.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="176"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="180"/>
         <source>Error reading TripKip: Only %1 out of %2 charts were successfully imported.</source>
         <translation>Chyba při načítání TripKip: Pouze %1 z %2 map bylo úspěšně načteno.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="191"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="195"/>
         <source>Input file &lt;strong&gt;%1&lt;/strong&gt; does not exist.</source>
         <translation>Soubor &lt;strong&gt;%1&lt;/strong&gt; neexistuje.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="195"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="199"/>
         <source>Input file &lt;strong&gt;%1&lt;/strong&gt; does not contain a valid chart.</source>
         <translation>Soubor &lt;strong&gt;%1&lt;/strong&gt; neobsahuje validní mapu.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="200"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="204"/>
         <source>Unable to read raster image data from the input file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Není možné načíst rasterové údaje ze souboru &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="215"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="237"/>
         <source>Error: Unable to copy the VAC file &lt;strong&gt;%1&lt;/strong&gt; to destination &lt;strong&gt;%2&lt;/strong&gt;.</source>
         <translation>Chyba: Není možné zkopírovat soubor vizuální přiblížovací mapy &lt;strong&gt;%1&lt;/strong&gt; do &lt;strong&gt;%2&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="222"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="247"/>
         <source>Error: Unable to write the VAC file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Chyba: Není možné zapsat soubor vizuální přiblížovací mapy &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="322"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="253"/>
+        <source>Error: Unable to write the VAC file &lt;strong&gt;%1&lt;/strong&gt;: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="346"/>
         <source>VAC &lt;strong&gt;%1&lt;/strong&gt; does not exist.</source>
         <translation>Vizuální přiblížovací mapa &lt;strong&gt;%1&lt;/strong&gt; neexistuje.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="326"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="350"/>
         <source>VAC &lt;strong&gt;%1&lt;/strong&gt; is part of a chart collection and cannot be renamed.</source>
         <translation type="unfinished">VAC &lt;strong&gt;%1&lt;/strong&gt; je součástí sbírky map a nelze ji přejmenovat.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="333"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="357"/>
         <source>VAC file renaming failed.</source>
         <translation>Chyba při přejmenování vizuální přiblížovací mapy.</translation>
     </message>
@@ -2787,55 +2869,58 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>GeoMaps::WaypointLibrary</name>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="140"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="141"/>
         <source>Cannot open file &apos;%1&apos; for reading.</source>
         <translation>Soubor &apos;%1&apos; nelze otevřít pro čtení.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="145"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="146"/>
         <source>Cannot read data from file &apos;%1&apos;.</source>
         <translation>Nelze načíst údaje ze souboru &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="153"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="154"/>
         <source>Cannot parse file &apos;%1&apos;. Reason: %2.</source>
         <translation>Nelze načíst obsah souboru &apos;%1&apos;. Důvod: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="163"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="164"/>
         <source>Cannot parse content of file &apos;%1&apos;.</source>
         <translation>Nelze načíst obsah souboru &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="205"/>
+        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="206"/>
         <source>Error reading waypoints from file &apos;%1&apos;.</source>
         <translation>Chyba při načítání navigačních bodů ze souboru&apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="278"/>
-        <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation>Soubor &apos;%1&apos; nelze otevřít pro zápis.</translation>
+        <source>Unable to write to file &apos;%1&apos;: %2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="285"/>
+        <source>Unable to open the file &apos;%1&apos; for writing.</source>
+        <translation type="vanished">Soubor &apos;%1&apos; nelze otevřít pro zápis.</translation>
+    </message>
+    <message>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation>Nelze zapisovat do souboru &apos;%1&apos;.</translation>
+        <translation type="vanished">Nelze zapisovat do souboru &apos;%1&apos;.</translation>
     </message>
 </context>
 <context>
     <name>Global</name>
     <message>
-        <location filename="../../../src/qml/items/Global.qml" line="71"/>
+        <location filename="../../../src/qml/items/Global.qml" line="89"/>
         <source>Map Mode: North Up</source>
         <translation type="unfinished">Mapa: Sever nahoru</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/Global.qml" line="73"/>
+        <location filename="../../../src/qml/items/Global.qml" line="91"/>
         <source>Map Mode: Track Up</source>
         <translation type="unfinished">Mapa: Trasa nahoru</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/Global.qml" line="75"/>
+        <location filename="../../../src/qml/items/Global.qml" line="93"/>
         <source>Map Mode: User Defined Direction Up</source>
         <translation type="unfinished">Mapa: Uživatelem definovaný směr nahoru</translation>
     </message>
@@ -2847,99 +2932,99 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>ImportManager</name>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="54"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="51"/>
         <source>File saved</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="58"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="55"/>
         <source>Aborted</source>
         <translation type="unfinished">Zrušeno</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="63"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="60"/>
         <source>Error Saving Data…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="102"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="99"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; seems to contain an image without georeferencing information.</source>
         <translation>Soubor &lt;strong&gt;%1&lt;/strong&gt; pravděpodobně obsahuje obrázek bez georeferenčních údajů.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="116"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="113"/>
         <source>The file &lt;strong&gt;%1&lt;/strong&gt; seems to contain a zip file without the data required in a tripkit.</source>
         <translation>Soubor &lt;strong&gt;%1&lt;/strong&gt; pravděpodobně obsahuje zip soubor bez požadovaných údajů pro Trip Kit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="121"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="118"/>
         <source>The file type of the file &lt;strong&gt;%1&lt;/strong&gt; cannot be recognized.</source>
         <translation>Typ souboru &lt;strong&gt;%1&lt;/strong&gt; nebyl rozpoznán.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="144"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="141"/>
         <source>Unable to import text item</source>
         <translation>Nebylo možné načíst položku</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="145"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="142"/>
         <source>The text item could not be interpreted.</source>
         <translation>Nebylo možné interpretovat textovou položku.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="169"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="166"/>
         <source>Import Waypoint Data</source>
         <translation>Načíst navigační body</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="170"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="167"/>
         <source>The file contains a list of waypoints. Import as a flight route or add to the waypoint library?</source>
         <translation>Soubor obsahuje seznam navigačních bodů. Načíst jako trať, nebo přidat do knihovny navigačních bodů?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="178"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="175"/>
         <source>Route</source>
         <translation>Trať</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="193"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="190"/>
         <source>Library</source>
         <translation>Knihovna</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="211"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="208"/>
         <source>Import Airspace Data</source>
         <translation>Načíst údaje o vzdušných prostorech</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="221"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="340"/>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="392"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="218"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="333"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="383"/>
         <source>Enter a name for this map.</source>
         <translation>Zadejte název pro tuto mapu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="267"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="262"/>
         <source>Airspace data imported</source>
         <translation>Údaje o vzdušných prostorech byly načteny</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="274"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="269"/>
         <source>Import Visual Approach Chart</source>
         <translation>Načíst vizuální přiblížovací mapu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="291"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="286"/>
         <source>Enter a name for this chart. Existing approach charts with the same name will be overwritten.</source>
         <translation>Zadejte název pro tuto mapu. Stávající mapy pro přiblížení se stejným názvem budou přepsány.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="323"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="316"/>
         <source>Visual approach chart data imported</source>
         <translation>Údaje vizuální přiblížovací mapy byly načteny</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="330"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="323"/>
         <source>Import Raster Map</source>
         <translation>Načíst rasterovou mapu</translation>
     </message>
@@ -2948,82 +3033,82 @@ Zpráva:  Enroute Flight Navigation
         <translation type="vanished">Pro zamezení konfliktů nebudou vektorové mapy zobrazeny, pokud jsou nainstalovány rasterové mapy.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="375"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="366"/>
         <source>Raster map imported</source>
         <translation>Rasterová mapa byla načtena</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="382"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="373"/>
         <source>Import Vector Map</source>
         <translation>Načíst vektorovou mapu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="415"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="407"/>
         <source>To avoid conflicts between raster and vector maps, all raster maps will be uninstalled.</source>
         <translation>Pro zamezení konfliktů mezi rasterovými a vektorovými mapami, všechny rasterové mapy budou odinstalovány.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="436"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="427"/>
         <source>Vector map imported</source>
         <translation>Vektorová mapa byla načtena</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="444"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="435"/>
         <source>Import Waypoint Library</source>
         <translation>Načíst knihovnu s navigačními body</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="456"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="447"/>
         <source>Skip over waypoints that already exist in the library</source>
         <translation>Přeskočit již existující navigační body</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="475"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="464"/>
         <source>Waypoints imported</source>
         <translation>Navigační body načteny</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="482"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="471"/>
         <source>Import Flight Route?</source>
         <translation>Načíst trať?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="486"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="475"/>
         <source>This will overwrite the current route. Once overwritten, the current flight route cannot be restored.</source>
         <translation>Tímto se přepíše aktuální trať. Nebude již možné se k aktuální trati vrátit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="505"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="495"/>
         <source>Flight route imported</source>
         <translation>Trať načtena</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="512"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="505"/>
         <source>Import Trip Kit?</source>
         <translation>Načíst Trip Kit?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="516"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="509"/>
         <source>This might overwrite some approach charts.</source>
         <translation>Tato operace může přepsat některé přibližovací mapy.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="528"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="520"/>
         <source>Trip kit imported</source>
         <translation>Trip Kit načten</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="538"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="530"/>
         <source>Data Import Error</source>
         <translation>Chyba při načítání dat</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="552"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="544"/>
         <source>Stand by</source>
         <translation>Vyčkejte</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/ImportManager.qml" line="564"/>
+        <location filename="../../../src/qml/items/ImportManager.qml" line="556"/>
         <source>Extracting and converting files from the trip kit. Please do not interrupt or close the app.</source>
         <translation>Načítám a konvertuji Trip Kit údaje. Prosím, nepřerušujte a nezavírejte aplikaci.</translation>
     </message>
@@ -3032,62 +3117,62 @@ Zpráva:  Enroute Flight Navigation
     <name>InfoPage</name>
     <message>
         <location filename="../../../src/qml/pages/InfoPage.qml" line="31"/>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="246"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="256"/>
         <source>About EFN</source>
         <translation>O EFN</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="99"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="97"/>
         <source>Authors</source>
         <translation>Autoři</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="100"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="98"/>
         <source>License</source>
         <translation>Licence</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="101"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="99"/>
         <source>System</source>
         <translation>Systém</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="199"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="209"/>
         <source>Share Info</source>
         <translation>Sdílet informace</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="204"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="214"/>
         <source>Aborted</source>
         <translation>Zrušeno</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="213"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="223"/>
         <source>System Info Shared</source>
         <translation>Systémové informace nasdíleny</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="215"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="225"/>
         <source>System Info Exported</source>
         <translation>Systémové informace vyexportovány</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="223"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="233"/>
         <source>Save Info</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="238"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="248"/>
         <source>Error Exporting Data…</source>
         <translation>Chyba při exportu údajů…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="247"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="257"/>
         <source>This page presents four tabs with information about the app, its authors, the software license, and the current system.</source>
         <translation>Tato stránka obsahuje čtyři záložky s informacemi o aplikaci, autorech, licenci pro používání softwaru, a informaci o systému.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/InfoPage.qml" line="248"/>
+        <location filename="../../../src/qml/pages/InfoPage.qml" line="258"/>
         <source>System information can be helpful to the developers when you report a bug. The button &apos;Share Info&apos; at the bottom of the &apos;System&apos; tab can be used to forward this information to the developers.</source>
         <translation>Systémové informace mohou být užitečné pro vývojáře, v případě, že chcete nahlásit chybu. Pro sdílení těchto informací vývojářům můžete použít tlačítko &quot;Sdílet informace&quot; na konci záložky &quot;System&quot;.</translation>
     </message>
@@ -3095,61 +3180,61 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>Librarian</name>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="60"/>
+        <location filename="../../../src/Librarian.cpp" line="61"/>
         <source>&lt;p&gt;This version of &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is outdated and will no longer receive map updates. &lt;strong&gt;Please update this app at your earliest convenience.&lt;/strong&gt;&lt;/p&gt;</source>
         <translation type="unfinished">&lt;p&gt;Tato verze aplikace &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; je zastaralá a nebude již dostávat aktualizace map. &lt;strong&gt;Aktualizujte prosím tuto aplikaci co nejdříve.&lt;/strong&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="66"/>
+        <location filename="../../../src/Librarian.cpp" line="67"/>
         <source>The app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; was written by Stefan Kebekus, flight enthusiast since 1986 and member of the Akaflieg Freiburg flight club. Stefan flies gliders and motor planes.</source>
         <translation type="unfinished">Aplikaci &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; napsal Stefan Kebekus, nadšený letec od roku 1986 a člen leteckého spolku Akaflieg Freiburg. Stefan létá na kluzácích a motorových letadlech.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="67"/>
+        <location filename="../../../src/Librarian.cpp" line="68"/>
         <source>Address</source>
         <translation type="unfinished">Adresa</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="68"/>
+        <location filename="../../../src/Librarian.cpp" line="69"/>
         <source>Contributions</source>
         <translation type="unfinished">Příspěvky</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="71"/>
+        <location filename="../../../src/Librarian.cpp" line="72"/>
         <source>iOS Version</source>
         <translation type="unfinished">Verze pro iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="71"/>
+        <location filename="../../../src/Librarian.cpp" line="72"/>
         <source>The app has been ported to iOS by Simon Schneider, who also maintains the iOS port. Simon received his PPL license in 2024. Like Stefan, he is a member of the Akaflieg Freiburg flight club.</source>
         <translation type="unfinished">Aplikaci na iOS portoval Simon Schneider, který port pro iOS také udržuje. Simon získal licenci PPL v roce 2024. Stejně jako Stefan je členem leteckého spolku Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="74"/>
-        <location filename="../../../src/Librarian.cpp" line="77"/>
-        <location filename="../../../src/Librarian.cpp" line="80"/>
-        <location filename="../../../src/Librarian.cpp" line="83"/>
-        <location filename="../../../src/Librarian.cpp" line="86"/>
+        <location filename="../../../src/Librarian.cpp" line="75"/>
+        <location filename="../../../src/Librarian.cpp" line="78"/>
+        <location filename="../../../src/Librarian.cpp" line="81"/>
+        <location filename="../../../src/Librarian.cpp" line="84"/>
+        <location filename="../../../src/Librarian.cpp" line="87"/>
         <source>Programming</source>
         <translation type="unfinished">Programování</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="74"/>
+        <location filename="../../../src/Librarian.cpp" line="75"/>
         <source>Heinz Blöchinger has helped us with file import functionality. After 15 years of alpine gliding, Heinz has fulfilled a big dream and now flies helicopters.</source>
         <translation type="unfinished">Heinz Blöchinger nám pomohl s funkcí importu souborů. Po 15 letech létání na kluzácích v Alpách si Heinz splnil velký sen a nyní létá na vrtulnících.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="80"/>
+        <location filename="../../../src/Librarian.cpp" line="81"/>
         <source>Tom Linz completed height density calculation. He received his PPL license in late 2024. Tom works as a development engineer for safety systems.</source>
         <translation type="unfinished">Tom Linz dokončil výpočet hustotní výšky. Licenci PPL získal koncem roku 2024. Tom pracuje jako vývojový inženýr bezpečnostních systémů.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="86"/>
+        <location filename="../../../src/Librarian.cpp" line="87"/>
         <source>Simon Schneider implemented the first working version of the side view.</source>
         <translation type="unfinished">Simon Schneider implementoval první funkční verzi bočního pohledu.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="89"/>
+        <location filename="../../../src/Librarian.cpp" line="90"/>
         <source>
 &lt;h3&gt;Translations&lt;/h3&gt;
 </source>
@@ -3158,7 +3243,7 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="91"/>
+        <location filename="../../../src/Librarian.cpp" line="92"/>
         <source>
 &lt;li&gt;&lt;strong&gt;French:&lt;/strong&gt; Adrien Crovato and Luca Riva. Both are private pilots and aerospace engineers. Luca is also doing aerobatics.&lt;/li&gt;
 </source>
@@ -3167,7 +3252,7 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="93"/>
+        <location filename="../../../src/Librarian.cpp" line="94"/>
         <source>
 &lt;li&gt;&lt;strong&gt;German:&lt;/strong&gt; Markus Sachs. Markus flies trikes and is an enthusiastic &apos;Co&apos; on everything else that flies.&lt;/li&gt;
 </source>
@@ -3176,7 +3261,7 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="95"/>
+        <location filename="../../../src/Librarian.cpp" line="96"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Italian:&lt;/strong&gt; Ivan Battistella and Antonio Fardella. Antonio is an ultralight pilot with a passion for everything challenging.&lt;/li&gt;
 </source>
@@ -3185,7 +3270,7 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="97"/>
+        <location filename="../../../src/Librarian.cpp" line="98"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Polish:&lt;/strong&gt; Sławek Mikuła.&lt;/li&gt;
 </source>
@@ -3194,7 +3279,7 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="99"/>
+        <location filename="../../../src/Librarian.cpp" line="100"/>
         <source>
 &lt;li&gt;&lt;strong&gt;Spanish:&lt;/strong&gt; Luca Riva.&lt;/li&gt;
 </source>
@@ -3203,7 +3288,7 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="101"/>
+        <location filename="../../../src/Librarian.cpp" line="102"/>
         <source>
 &lt;h3&gt;Alumni&lt;/h3&gt;
 </source>
@@ -3212,7 +3297,7 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="103"/>
+        <location filename="../../../src/Librarian.cpp" line="104"/>
         <source>
 &lt;li&gt;Luca Bertoncello (Italian translation)&lt;/li&gt;
 </source>
@@ -3221,7 +3306,7 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="105"/>
+        <location filename="../../../src/Librarian.cpp" line="106"/>
         <source>
 &lt;li&gt;Adrien Crovato (Integration of weather information)&lt;/li&gt;
 </source>
@@ -3230,12 +3315,12 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="108"/>
+        <location filename="../../../src/Librarian.cpp" line="109"/>
         <source>Manual</source>
         <translation type="unfinished">Návod</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="109"/>
+        <location filename="../../../src/Librarian.cpp" line="110"/>
         <source>
 &lt;li&gt;Szymon Kocur (Polish translation)&lt;/li&gt;
 </source>
@@ -3244,7 +3329,7 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="111"/>
+        <location filename="../../../src/Librarian.cpp" line="112"/>
         <source>
 &lt;li&gt;Heiner Tholen (User interface)&lt;/li&gt;
 </source>
@@ -3253,7 +3338,7 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="113"/>
+        <location filename="../../../src/Librarian.cpp" line="114"/>
         <source>
 &lt;li&gt;Johannes Zellner (Geoid correction for altitude)&lt;/li&gt;
 </source>
@@ -3262,7 +3347,7 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="120"/>
+        <location filename="../../../src/Librarian.cpp" line="121"/>
         <source>
 &lt;p&gt;We receive our aviation data from &lt;a href=&quot;http://openaip.net&quot;&gt;openAIP&lt;/a&gt;. This is a not-for-profit organization where volunteers compile aviation data for many countries. If openAIP covers your country, we might be able to generate maps for it. First, however, we need to be reasonably sure that the openAIP data is accurate and complete. Please have a look at the &lt;a href=&quot;http://maps.openaip.net&quot;&gt;openAIP maps&lt;/a&gt; and compare the display with an official aviation map of your country. Are the airfields there? Are runway lengths/orientations and frequencies correct? Are NavAids correctly displayed, with correct codes and frequencies? And what about airspaces?&lt;/p&gt;
 
@@ -3277,7 +3362,7 @@ Zpráva:  Enroute Flight Navigation
 &lt;p&gt;Mějte prosím pochopení, že tuto bezplatnou aplikaci programujeme ve svém volném čase jako službu komunitě. S politováním musím podotknout, že zasílání nezdvořilých požadavků pravděpodobně nepovede k výsledku, který si přejete.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="170"/>
+        <location filename="../../../src/Librarian.cpp" line="171"/>
         <source>
 &lt;h3&gt;License&lt;/h3&gt;
 
@@ -3302,7 +3387,7 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="181"/>
+        <location filename="../../../src/Librarian.cpp" line="182"/>
         <source>
 &lt;h4&gt;Software and data included in the program&lt;/h4&gt;
 
@@ -3331,222 +3416,222 @@ Zpráva:  Enroute Flight Navigation
 </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="199"/>
+        <location filename="../../../src/Librarian.cpp" line="200"/>
         <source>This Privacy Policy outlines the data handling practices for the app &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</source>
         <translation type="unfinished">Tyto zásady ochrany osobních údajů popisují postupy nakládání s daty v aplikaci &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="200"/>
+        <location filename="../../../src/Librarian.cpp" line="201"/>
         <source>We prioritize your privacy and do not collect or store personally identifiable information.</source>
         <translation type="unfinished">Vaše soukromí je pro nás prioritou; neshromažďujeme ani neukládáme žádné osobně identifikovatelné údaje.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="201"/>
+        <location filename="../../../src/Librarian.cpp" line="202"/>
         <source>However, for the app to function properly, it must communicate with certain servers on the Internet.</source>
         <translation type="unfinished">Aby však aplikace fungovala správně, musí komunikovat s určitými servery na internetu.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="202"/>
+        <location filename="../../../src/Librarian.cpp" line="203"/>
         <source>The following sections list the servers that &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; communicates with and explain the communication purposes.</source>
         <translation type="unfinished">Následující části uvádějí servery, se kterými &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; komunikuje, a vysvětlují účely této komunikace.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="206"/>
+        <location filename="../../../src/Librarian.cpp" line="207"/>
         <source>By using Enroute Flight Navigation, you agree to this Privacy Policy.</source>
         <translation type="unfinished">Používáním aplikace Enroute Flight Navigation vyjadřujete souhlas s těmito zásadami ochrany osobních údajů.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="207"/>
+        <location filename="../../../src/Librarian.cpp" line="208"/>
         <source>We may update this policy periodically, and any changes will be posted within the app.</source>
         <translation type="unfinished">Tyto zásady můžeme pravidelně aktualizovat a veškeré změny budou zveřejněny v aplikaci.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="211"/>
+        <location filename="../../../src/Librarian.cpp" line="212"/>
         <source>1. Data and Anonymization Server (enroute-data)</source>
         <translation type="unfinished">1. Datový a anonymizační server (enroute-data)</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="215"/>
+        <location filename="../../../src/Librarian.cpp" line="216"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; regularly communicates with the server &lt;strong&gt;enroute-data.akaflieg-freiburg.de&lt;/strong&gt; (referred to as &lt;strong&gt;enroute-data&lt;/strong&gt;), operated by Hetzner Online GmbH on behalf of Akaflieg Freiburg.</source>
         <translation type="unfinished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; pravidelně komunikuje se serverem &lt;strong&gt;enroute-data.akaflieg-freiburg.de&lt;/strong&gt; (dále jen &lt;strong&gt;enroute-data&lt;/strong&gt;), který jménem Akaflieg Freiburg provozuje společnost Hetzner Online GmbH.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="216"/>
+        <location filename="../../../src/Librarian.cpp" line="217"/>
         <source>The server&apos;s primary role is to facilitate the app&apos;s functionality while maintaining user privacy.</source>
         <translation type="unfinished">Hlavní úlohou serveru je zajišťovat funkčnost aplikace při zachování soukromí uživatelů.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="220"/>
+        <location filename="../../../src/Librarian.cpp" line="221"/>
         <source>1.1. Data Collected</source>
         <translation type="unfinished">1.1. Shromažďovaná data</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="224"/>
+        <location filename="../../../src/Librarian.cpp" line="225"/>
         <source>In every communication with &lt;strong&gt;enroute-data&lt;/strong&gt;, your device&apos;s IP address is transmitted to the server.</source>
         <translation type="unfinished">Při každé komunikaci se serverem &lt;strong&gt;enroute-data&lt;/strong&gt; je na server přenesena IP adresa vašeho zařízení.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="225"/>
+        <location filename="../../../src/Librarian.cpp" line="226"/>
         <source>The server needs to know the IP address to respond.</source>
         <translation type="unfinished">Server potřebuje znát IP adresu, aby mohl odpovědět.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="229"/>
+        <location filename="../../../src/Librarian.cpp" line="230"/>
         <source>The server stores the following data items in its log files.</source>
         <translation type="unfinished">Server ukládá ve svých protokolových souborech následující údaje.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="233"/>
+        <location filename="../../../src/Librarian.cpp" line="234"/>
         <source>&lt;strong&gt;Pseudonymized IP Address&lt;/strong&gt;: The last byte of your IP address is replaced with a random number, ensuring it cannot identify you.</source>
         <translation type="unfinished">&lt;strong&gt;Pseudonymizovaná IP adresa&lt;/strong&gt;: Poslední bajt vaší IP adresy je nahrazen náhodným číslem, takže vás nemůže identifikovat.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="234"/>
+        <location filename="../../../src/Librarian.cpp" line="235"/>
         <source>&lt;strong&gt;Access Data&lt;/strong&gt;: Date and time of access, error codes, and data sent.</source>
         <translation type="unfinished">&lt;strong&gt;Přístupové údaje&lt;/strong&gt;: Datum a čas přístupu, chybové kódy a odeslaná data.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="235"/>
+        <location filename="../../../src/Librarian.cpp" line="236"/>
         <source>&lt;strong&gt;Software Information&lt;/strong&gt;: The name of the web browser or software in use if the visitor’s software provides this information to the server.</source>
         <translation type="unfinished">&lt;strong&gt;Informace o softwaru&lt;/strong&gt;: Název webového prohlížeče nebo používaného softwaru, pokud software návštěvníka tuto informaci serveru poskytuje.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="236"/>
+        <location filename="../../../src/Librarian.cpp" line="237"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; does not provide this information and sends a standard text (&apos;Mozilla/5.0&apos;) instead.</source>
         <translation type="unfinished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; tuto informaci neposkytuje a místo ní odesílá standardní text („Mozilla/5.0“).</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="237"/>
+        <location filename="../../../src/Librarian.cpp" line="238"/>
         <source>&lt;strong&gt;Operating System:&lt;/strong&gt; The operating system&apos;s name if the visitor’s software provides this information to the server.</source>
         <translation type="unfinished">&lt;strong&gt;Operační systém:&lt;/strong&gt; Název operačního systému, pokud software návštěvníka tuto informaci serveru poskytuje.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="238"/>
+        <location filename="../../../src/Librarian.cpp" line="239"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; does not provide this information. </source>
         <translation type="unfinished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; tuto informaci neposkytuje. </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="242"/>
+        <location filename="../../../src/Librarian.cpp" line="243"/>
         <source>1.2. Communication: Data Download</source>
         <translation type="unfinished">1.2. Komunikace: Stahování dat</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="246"/>
+        <location filename="../../../src/Librarian.cpp" line="247"/>
         <source>The app checks for updates and downloads data from &lt;strong&gt;enroute-data&lt;/strong&gt; to provide current maps and aviation data.</source>
         <translation type="unfinished">Aplikace kontroluje aktualizace a stahuje data ze serveru &lt;strong&gt;enroute-data&lt;/strong&gt;, aby poskytovala aktuální mapy a letecká data.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="247"/>
+        <location filename="../../../src/Librarian.cpp" line="248"/>
         <source>Your IP address is transmitted in the process.</source>
         <translation type="unfinished">Při tom je přenášena vaše IP adresa.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="251"/>
+        <location filename="../../../src/Librarian.cpp" line="252"/>
         <source>1.3. Communication: NOTAM, METAR and TAF </source>
         <translation type="unfinished">1.3. Komunikace: NOTAM, METAR a TAF </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="255"/>
+        <location filename="../../../src/Librarian.cpp" line="256"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; shows NOTAMs, METARs, and TAFs for airfields near your current location and your currently planned route.</source>
         <translation type="unfinished">&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; zobrazuje zprávy NOTAM, METAR a TAF pro letiště poblíž vaší aktuální polohy a aktuálně plánované trati.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="256"/>
+        <location filename="../../../src/Librarian.cpp" line="257"/>
         <source>It also shows NOTAMs, METARs, and TAFs for all waypoints you open in the app.</source>
         <translation type="unfinished">Zobrazuje také zprávy NOTAM, METAR a TAF pro všechny navigační body, které v aplikaci otevřete.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="257"/>
+        <location filename="../../../src/Librarian.cpp" line="258"/>
         <source>To provide this functionality, requests are transmitted to the server &lt;strong&gt;enroute-data&lt;/strong&gt; at regular intervals and whenever new data is requested.</source>
         <translation type="unfinished">Pro zajištění této funkce jsou na server &lt;strong&gt;enroute-data&lt;/strong&gt; odesílány požadavky, a to v pravidelných intervalech a při každém vyžádání nových dat.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="258"/>
+        <location filename="../../../src/Librarian.cpp" line="259"/>
         <source>In addition to your device&apos;s IP address, the following data items will be sent.</source>
         <translation type="unfinished">Kromě IP adresy vašeho zařízení budou odeslány následující údaje.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="262"/>
+        <location filename="../../../src/Librarian.cpp" line="263"/>
         <source>Your current location</source>
         <translation type="unfinished">Vaše aktuální poloha</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="263"/>
+        <location filename="../../../src/Librarian.cpp" line="264"/>
         <source>The currently planned route</source>
         <translation type="unfinished">Aktuálně plánovaná trať</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="264"/>
+        <location filename="../../../src/Librarian.cpp" line="265"/>
         <source>Waypoint coordinates</source>
         <translation type="unfinished">Souřadnice navigačních bodů</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="270"/>
+        <location filename="../../../src/Librarian.cpp" line="271"/>
         <source>We do not control the data handling practices of these external services.</source>
         <translation type="unfinished">Postupy nakládání s daty těchto externích služeb nemáme pod kontrolou.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="305"/>
+        <location filename="../../../src/Librarian.cpp" line="306"/>
         <source>Vertical airspace boundaries are defined as barometric altitudes, either over QNH or over the standard pressure level.</source>
         <translation type="unfinished">Vertikální hranice vzdušných prostorů jsou definovány jako barometrické výšky, buď nad QNH, nebo nad standardní tlakovou hladinou.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="306"/>
+        <location filename="../../../src/Librarian.cpp" line="307"/>
         <source>As a consequence, the geometric altitude of airspaces changes with the weather: Airspaces are typically much lower on cold winter days than they are in summer.</source>
         <translation type="unfinished">Geometrická výška vzdušných prostorů se proto mění s počasím: v chladných zimních dnech jsou vzdušné prostory obvykle mnohem níže než v létě.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="308"/>
+        <location filename="../../../src/Librarian.cpp" line="309"/>
         <source>In order to show your aircraft in relation to airspaces, Enroute Flight Navigation therefore needs to know the barometric altitudes of your aircraft, or equivalently, the static pressure.</source>
         <translation type="unfinished">Aby mohla Enroute Flight Navigation zobrazit vaše letadlo ve vztahu ke vzdušným prostorům, potřebuje znát barometrickou výšku vašeho letadla, nebo ekvivalentně statický tlak.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="309"/>
+        <location filename="../../../src/Librarian.cpp" line="310"/>
         <source>This data is currently not available.</source>
         <translation type="unfinished">Tyto údaje momentálně nejsou k dispozici.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="311"/>
+        <location filename="../../../src/Librarian.cpp" line="312"/>
         <source>&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/forward.html#staticpressure&apos;&gt;Consult the manual&lt;/a&gt; for more information and for possible solutions.</source>
         <translation type="unfinished">&lt;a href=&apos;https://akaflieg-freiburg.github.io/enrouteManual/forward.html#staticpressure&apos;&gt;Nahlédněte do návodu&lt;/a&gt;, kde naleznete více informací a možná řešení.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="319"/>
+        <location filename="../../../src/Librarian.cpp" line="320"/>
         <source>The maps for France now come with Visual approach charts for the maps; the charts charts will be available for free once you install or update the maps for France. We thank the &lt;a href=&apos;https://www.sia.aviation-civile.gouv.fr/&apos;&gt;SIA&lt;/a&gt; for publishing the data under a free license, and Quentin Bossard and Michael Paus for the georeferencing work and long-term maintenance!</source>
         <translation type="unfinished">Mapy pro Francii nyní obsahují mapy pro vizuální přiblížení; tyto mapy budou k dispozici zdarma, jakmile nainstalujete nebo aktualizujete mapy pro Francii. Děkujeme &lt;a href=&apos;https://www.sia.aviation-civile.gouv.fr/&apos;&gt;SIA&lt;/a&gt; za zveřejnění dat pod svobodnou licencí a Quentinu Bossardovi a Michaelu Pausovi za georeferencování a dlouhodobou údržbu!</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="323"/>
+        <location filename="../../../src/Librarian.cpp" line="324"/>
         <source>There are now specialized icons for obstacle NOTAMs and NOTAMs about drone flights. We thank Christian Engelhardt for the implementation!</source>
         <translation type="unfinished">Pro NOTAMy o překážkách a NOTAMy týkající se letů dronů jsou nyní k dispozici specializované ikony. Děkujeme Christianu Engelhardtovi za implementaci!</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="326"/>
+        <location filename="../../../src/Librarian.cpp" line="327"/>
         <source>Waypoints in your flight route can now be rearranged by drag-and-drop: press the drag handle next to a waypoint and move it to its new position in the list.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="330"/>
+        <location filename="../../../src/Librarian.cpp" line="331"/>
         <source>Support for Bluetooth Classic and Bluetooth Low Energy is now a regular feature and no longer in tech preview. Please report any issues that you may find!</source>
         <translation type="unfinished">Podpora Bluetooth Classic a Bluetooth Low Energy je nyní běžnou funkcí a není již v režimu technického náhledu. Nahlaste prosím jakékoli problémy, na které narazíte!</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="268"/>
+        <location filename="../../../src/Librarian.cpp" line="269"/>
         <source>The server forwards requests for NOTAMs to a Federal Aviation Administration web service but hides your IP address, so the service will never see it.</source>
         <translation type="unfinished">Server předává požadavky na NOTAMy webové službě Federal Aviation Administration, ale skrývá vaši IP adresu, takže ji tato služba nikdy neuvidí.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="77"/>
+        <location filename="../../../src/Librarian.cpp" line="78"/>
         <source>Christian Engelhardt implemented the OGN network connection, flight plan export and started the implementation of height density calculation. Christian is a PPL pilot in southern Germany, studied electrical engineering and works as an embedded software engineer.</source>
         <translation type="unfinished">Christian Engelhardt implementoval připojení k síti OGN, export letových plánů a zahájil implementaci výpočtu hustotní výšky. Christian je PPL pilot z jižního Německa, vystudoval elektrotechniku a pracuje jako vývojář vestavěného softwaru.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="83"/>
+        <location filename="../../../src/Librarian.cpp" line="84"/>
         <source>Markus Marks helped to implement the side view. Based in southern Germany, Markus is an enthusiastic glider pilot software developer working in embedded systems.</source>
         <translation type="unfinished">Markus Marks pomohl s implementací bočního pohledu. Markus žije v jižním Německu, je nadšeným pilotem kluzáků a softwarovým vývojářem v oblasti vestavěných systémů.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="135"/>
+        <location filename="../../../src/Librarian.cpp" line="136"/>
         <source>&lt;h3&gt;Enroute Flight Navigation&lt;/h3&gt;
 
 &lt;p&gt;Version %1&lt;/p&gt;
@@ -3599,57 +3684,57 @@ Zpráva:  Enroute Flight Navigation
 &lt;p&gt;Letecké údaje laskavě poskytují projekty &lt;a href=&quot;https://www.openaip.net&quot;&gt;openAIP&lt;/a&gt; a &lt;a href=&quot;https://www.openflightmaps.org&quot;&gt;open flightmaps&lt;/a&gt;. Základní mapy laskavě poskytuje projekt &lt;a href=&quot;https://openmaptiles.org&quot;&gt;OpenMapTiles&lt;/a&gt;. Podrobnosti naleznete v dokumentaci.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="269"/>
+        <location filename="../../../src/Librarian.cpp" line="270"/>
         <source>The Federal Aviation Administration&apos;s web services are operated by the US government.</source>
         <translation type="unfinished">Webové služby Federal Aviation Administration jsou provozovány vládou USA.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="271"/>
+        <location filename="../../../src/Librarian.cpp" line="272"/>
         <source>Detailed information can be found at &lt;strong&gt;api.faa.gov&lt;/strong&gt;.</source>
         <translation type="unfinished">Podrobné informace naleznete na &lt;strong&gt;api.faa.gov&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="275"/>
+        <location filename="../../../src/Librarian.cpp" line="276"/>
         <source>Other Servers </source>
         <translation type="unfinished">Ostatní servery </translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="279"/>
+        <location filename="../../../src/Librarian.cpp" line="280"/>
         <source>At the user&apos;s request, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; may display external websites in an embedded browser window or ask the operating system to open external apps such as Google Maps.</source>
         <translation type="unfinished">Na žádost uživatele může &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; zobrazit externí webové stránky ve vestavěném okně prohlížeče nebo požádat operační systém o otevření externích aplikací, jako jsou Mapy Google.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="280"/>
+        <location filename="../../../src/Librarian.cpp" line="281"/>
         <source>These external sites and apps are beyond our control and may collect their own data.</source>
         <translation type="unfinished">Tyto externí stránky a aplikace jsou mimo naši kontrolu a mohou shromažďovat vlastní údaje.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="284"/>
+        <location filename="../../../src/Librarian.cpp" line="285"/>
         <source>Users expect web browsers to follow hyperlinks immediately but may not expect the same behavior elsewhere in the app.</source>
         <translation type="unfinished">Uživatelé očekávají, že webové prohlížeče otevřou hypertextové odkazy okamžitě, stejné chování však nemusí očekávat jinde v aplikaci.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="285"/>
+        <location filename="../../../src/Librarian.cpp" line="286"/>
         <source>To account for these expectations, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; operates as follows.</source>
         <translation type="unfinished">S ohledem na tato očekávání funguje &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; následovně.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="289"/>
+        <location filename="../../../src/Librarian.cpp" line="290"/>
         <source>&lt;strong&gt;Embedded Browser Windows&lt;/strong&gt;: Clicking a hyperlink is considered authorization to open the external site.</source>
         <translation type="unfinished">&lt;strong&gt;Vestavěná okna prohlížeče&lt;/strong&gt;: Kliknutí na hypertextový odkaz je považováno za souhlas s otevřením externí stránky.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="290"/>
+        <location filename="../../../src/Librarian.cpp" line="291"/>
         <source>&lt;strong&gt;Outside Embedded Browser Windows&lt;/strong&gt;: The app will ask for explicit user authorization before opening any external site or app.</source>
         <translation type="unfinished">&lt;strong&gt;Mimo vestavěná okna prohlížeče&lt;/strong&gt;: Aplikace si před otevřením jakékoli externí stránky nebo aplikace vyžádá výslovný souhlas uživatele.</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="294"/>
+        <location filename="../../../src/Librarian.cpp" line="295"/>
         <source>Responsible</source>
         <translation type="unfinished">Správce</translation>
     </message>
     <message>
-        <location filename="../../../src/Librarian.cpp" line="334"/>
+        <location filename="../../../src/Librarian.cpp" line="335"/>
         <source>We need help with promotional graphics for the app stores and with explainer videos. If you are a graphic/video artist and would like to help, then please be in touch.</source>
         <translation type="unfinished">Potřebujeme pomoc s propagační grafikou pro obchody s aplikacemi a s instruktážními videi. Pokud jste grafik nebo tvůrce videí a chtěli byste pomoci, ozvěte se nám prosím.</translation>
     </message>
@@ -3685,22 +3770,22 @@ Zpráva:  Enroute Flight Navigation
         <translation type="vanished">Mapa: Automatické centrování</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="592"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="595"/>
         <source>Airspaces up to %1</source>
         <translation>Letecké prostory do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="595"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="598"/>
         <source>Downloading Maps and Data</source>
         <translation>Stahuji mapy a data</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="619"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="622"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Mapové údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="628"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="632"/>
         <source>Map Data Copyright Information</source>
         <translation>Mapy - Copyright informace</translation>
     </message>
@@ -3724,12 +3809,12 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>MapPage</name>
     <message>
-        <location filename="../../../src/qml/pages/MapPage.qml" line="31"/>
+        <location filename="../../../src/qml/pages/MapPage.qml" line="30"/>
         <source>Moving Map</source>
         <translation>Pohyblivá mapa</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/MapPage.qml" line="64"/>
+        <location filename="../../../src/qml/pages/MapPage.qml" line="63"/>
         <source>Approach Chart</source>
         <translation>Mapa pro vizuální přiblížení</translation>
     </message>
@@ -3765,12 +3850,12 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>NOTAM::NOTAMProvider</name>
     <message>
-        <location filename="../../../src/notam/NOTAMProvider.cpp" line="519"/>
+        <location filename="../../../src/notam/NOTAMProvider.cpp" line="542"/>
         <source>NOTAMs not current around own position, requesting update</source>
         <translation>NOTAMy v blízkosti vaší polohy nejsou aktuální, žádám o aktualizaci</translation>
     </message>
     <message>
-        <location filename="../../../src/notam/NOTAMProvider.cpp" line="526"/>
+        <location filename="../../../src/notam/NOTAMProvider.cpp" line="549"/>
         <source>NOTAMs not current around waypoint, requesting update</source>
         <translation>NOTAMy v blízkosti navigačního bodu nejsou aktuální, žádám o aktualizaci</translation>
     </message>
@@ -3778,12 +3863,12 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>NavBar</name>
     <message>
-        <location filename="../../../src/qml/items/NavBar.qml" line="116"/>
+        <location filename="../../../src/qml/items/NavBar.qml" line="117"/>
         <source>Showing Altitude Above Ground Level</source>
         <translation>Výška nad zemí (AGL)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/NavBar.qml" line="118"/>
+        <location filename="../../../src/qml/items/NavBar.qml" line="119"/>
         <source>Showing Altitude Above Mean Sea Level</source>
         <translation type="unfinished">Zobrazena výška nad střední hladinou moře</translation>
     </message>
@@ -3795,30 +3880,30 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>Navigation::Clock</name>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="66"/>
-        <location filename="../../../src/navigation/Clock.cpp" line="111"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="67"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="112"/>
         <source>just now</source>
         <translation>teď</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="84"/>
-        <location filename="../../../src/navigation/Clock.cpp" line="129"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="85"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="130"/>
         <source>%1 ago</source>
         <translation>před %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="88"/>
-        <location filename="../../../src/navigation/Clock.cpp" line="133"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="89"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="134"/>
         <source>in %1</source>
         <translation>za %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="151"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="152"/>
         <source>yesterday %1</source>
         <translation>včera %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Clock.cpp" line="155"/>
+        <location filename="../../../src/navigation/Clock.cpp" line="156"/>
         <source>tomorrow %1</source>
         <translation>zítra %1</translation>
     </message>
@@ -3826,58 +3911,61 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>Navigation::FlightRoute</name>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="135"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="138"/>
         <source>Total: %1</source>
         <translation>Celkem: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="150"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="153"/>
         <source>Cruise speed not specified.</source>
         <translation>Cestovní rychlost neuvedena.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="154"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="157"/>
         <source>Fuel consumption not specified.</source>
         <translation>Spotřeba paliva neuvedena.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="158"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="161"/>
         <source>Wind speed not specified.</source>
         <translation>Rychlost větru neuvedena.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="162"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="165"/>
         <source>Wind direction not specified.</source>
         <translation>Směr větru neuveden.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="167"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="170"/>
         <source>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Computation incomplete. %1&lt;/font&gt;&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;font color=&apos;red&apos;&gt;Výpočet nekompletní. %1&lt;/font&gt;&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="412"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="415"/>
         <source>Error reading file &apos;%1&apos;</source>
         <translation>Chyba při načítání souboru &apos;%1&apos;</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="416"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="419"/>
         <source>The file &apos;%1&apos; contains too many waypoints. Flight routes with more than 100 waypoints are not supported.</source>
         <translation>Soubor &apos;%1&apos; obsahuje příliš mnoho navigačních bodů. Tratě s více než 100 body nejsou podporovány.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="533"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="535"/>
+        <source>Unable to write to file &apos;%1&apos;: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation>Nelze otevřít soubor &apos;%1&apos; pro zápis.</translation>
+        <translation type="vanished">Nelze otevřít soubor &apos;%1&apos; pro zápis.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="540"/>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation>Nelze zapisovat do souboru &apos;%1&apos;.</translation>
+        <translation type="vanished">Nelze zapisovat do souboru &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="550"/>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="607"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="544"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="601"/>
         <source>Flight Route</source>
         <translation>Trať</translation>
     </message>
@@ -3885,22 +3973,22 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>Navigation::Navigator</name>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="353"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="352"/>
         <source>Cruise speed not specified.</source>
         <translation>Cestovní rychlost neuvedena.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="357"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="356"/>
         <source>Wind speed not specified.</source>
         <translation>Rychlost větru neuvedena.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="361"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="360"/>
         <source>Wind direction not specified.</source>
         <translation>Směr větru neuveden.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Navigator.cpp" line="365"/>
+        <location filename="../../../src/navigation/Navigator.cpp" line="364"/>
         <source>Computation incomplete. %1</source>
         <translation>Výpočet nekompletní. %1</translation>
     </message>
@@ -3908,22 +3996,22 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>Nearby</name>
     <message>
-        <location filename="../../../src/qml/pages/Nearby.qml" line="32"/>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="31"/>
         <source>Nearby Waypoints</source>
         <translation>Blízký navigační bod</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Nearby.qml" line="105"/>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="104"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aerodrome data available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné letištní údaje nejsou k dispozici. Ujistěte se prosím, že je neinstalována letecká mapa.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Nearby.qml" line="129"/>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="128"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné navigační body nejsou k dispozici.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Nearby.qml" line="153"/>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="152"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No navaid data available.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné NAVAID údaje nejsou k dispozici.&lt;/p&gt;</translation>
     </message>
@@ -3932,7 +4020,7 @@ Zpráva:  Enroute Flight Navigation
         <translation type="vanished">Filtrovat podle názvu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Nearby.qml" line="203"/>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="202"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné navigační body neodpovídají vaším kritériím.&lt;/p&gt;</translation>
     </message>
@@ -3945,27 +4033,27 @@ Zpráva:  Enroute Flight Navigation
         <translation>Označit jako přečtené</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="146"/>
+        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="147"/>
         <source>Data potentially outdated. Update requested.</source>
         <translation>Údaje mohou být zastaralé. Zažádáno o aktualizaci.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="152"/>
+        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="153"/>
         <source>Only showing NOTAMs centered nearby. Other NOTAMs may apply.</source>
         <translation>Zobrazeny pouze NOTAMy z blízkého okolí. Mohou platit i jiné NOTAMy.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="153"/>
+        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="154"/>
         <source>Dismiss this warning.</source>
         <translation>Ignorovat toto varování.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="212"/>
+        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="203"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No NOTAMs match your filter.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="219"/>
+        <location filename="../../../src/qml/dialogs/NotamListDialog.qml" line="210"/>
         <source>Expand Abbreviations</source>
         <translation>Rozšířit zkratky</translation>
     </message>
@@ -3981,47 +4069,47 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>Notifications::NotificationManager</name>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="118"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="123"/>
         <source>Test notification</source>
         <translation>Zkušební notifikace</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="126"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="131"/>
         <source>This is a test of the speech engine.</source>
         <translation>Toto je test hlasového generátoru.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="282"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="299"/>
         <source>Info.</source>
         <translation>Info.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="286"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="303"/>
         <source>Warning.</source>
         <translation>Varování.</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="289"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="306"/>
         <source>Alert!</source>
         <translation>Upozornění!</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="349"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="366"/>
         <source>Inconsistent altitude data</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="350"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="367"/>
         <source>Pressure altitude and GNSS altitude differ by an unrealistic amount. This can happen when the device does not measure static pressure, for instance in a pressurized cabin or when a flight simulator is used. Barometric altitude data and vertical airspace boundaries are unreliable.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="388"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="405"/>
         <source>Traffic data receiver problem</source>
         <translation>Problém s přijímačem leteckého provozu</translation>
     </message>
     <message>
-        <location filename="../../../src/notification/NotificationManager.cpp" line="406"/>
+        <location filename="../../../src/notification/NotificationManager.cpp" line="423"/>
         <source>Traffic data receiver self test error</source>
         <translation>Chyba při self-testu přijímače leteckého provozu</translation>
     </message>
@@ -4075,12 +4163,12 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>ParticipatePage</name>
     <message>
-        <location filename="../../../src/qml/pages/ParticipatePage.qml" line="30"/>
+        <location filename="../../../src/qml/pages/ParticipatePage.qml" line="29"/>
         <source>Participate</source>
         <translation>Podílejte se na vývoji</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/ParticipatePage.qml" line="49"/>
+        <location filename="../../../src/qml/pages/ParticipatePage.qml" line="48"/>
         <source>
 &lt;h3&gt;Participate in the development&lt;/h3&gt;
 
@@ -4150,27 +4238,27 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>PasswordStorageDialog</name>
     <message>
-        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="34"/>
+        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="33"/>
         <source>Store password?</source>
         <translation>Uložit heslo?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="39"/>
+        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="38"/>
         <source>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is now connected to the traffic data receiver in the WiFi network &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</source>
         <translation>&lt;p&gt;&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; je nyní připojena k přijímači leteckého provozu přes WiFi síť &lt;strong&gt;%1&lt;/strong&gt;.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="40"/>
+        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="39"/>
         <source>&lt;p&gt;Would you like to store the password for the traffic data receiver? Note that the stored password will not be encrypted. You can clear the password storage from the setting page.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Chcete uložit heslo pro přijímač leteckého provozu? Uložené heslo nebude zašifrováno. Heslo můžete smazat v sekci Nastavení.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="48"/>
+        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="47"/>
         <source>Store</source>
         <translation>Uložit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="53"/>
+        <location filename="../../../src/qml/dialogs/PasswordStorageDialog.qml" line="52"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
@@ -4178,77 +4266,83 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>Platform::FileExchange</name>
     <message>
-        <location filename="../../../src/platform/FileExchange_Android.cpp" line="106"/>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="107"/>
         <source>No suitable file sharing app could be found.</source>
         <translation>Nebyla nalezena žádná vhodná aplikace pro sdílení souborů.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Android.cpp" line="118"/>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="119"/>
         <source>No suitable app for viewing this data could be found.</source>
         <translation>Nebyla nalezena žádná vhodná aplikace pro zobrazení údajů.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Android.cpp" line="126"/>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="127"/>
         <source>Another file save operation is already in progress.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Android.cpp" line="133"/>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="134"/>
         <source>Unable to open the system file dialog.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_iOS.cpp" line="96"/>
         <source>Could not find file </source>
-        <translation>Nebylo možné nalézt soubor </translation>
+        <translation type="vanished">Nebylo možné nalézt soubor </translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
-        <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="45"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="45"/>
+        <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="46"/>
         <source>Import data</source>
         <translation>Načíst údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="44"/>
-        <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="45"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="45"/>
+        <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="46"/>
         <source>All files (*)</source>
         <translation>Všechny soubory (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="70"/>
-        <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="60"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="71"/>
+        <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="61"/>
         <source>Export Data</source>
         <translation>Exportovat údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="72"/>
-        <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="61"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="73"/>
+        <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="62"/>
         <source>%1 (*.%2);;All files (*)</source>
         <translation>%1 (*.%2);;Všechny soubory (*)</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Android.cpp" line="175"/>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="80"/>
-        <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="70"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="83"/>
+        <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="73"/>
+        <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="176"/>
         <source>Unable to open file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Nelze otevřít soubor &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Android.cpp" line="188"/>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="85"/>
-        <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="75"/>
+        <location filename="../../../src/platform/FileExchange_Android.cpp" line="189"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;.</source>
         <translation>Nelze zapisovat do souboru &lt;strong&gt;%1&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="97"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="94"/>
         <source>Unable to open temporary file.</source>
         <translation>Nelze otevřít dočasný soubor.</translation>
     </message>
     <message>
-        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="108"/>
+        <location filename="../../../src/platform/FileExchange_Linux.cpp" line="105"/>
         <source>Unable to open data in other app.</source>
         <translation>Nelze otevřít údaje v druhé aplikaci.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/platform/FileExchange_iOS.cpp" line="94"/>
+        <source>Could not find file %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4400,27 +4494,27 @@ můžeme získat.&lt;/p&gt;
         <translation>Žádný</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="59"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="65"/>
         <source>Not installed or access denied</source>
         <translation>Nenainstalováno, nebo zamítnut přístup</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="67"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="73"/>
         <source>Access denied</source>
         <translation>Přístup zamitnut</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="73"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="79"/>
         <source>Connection to satellite system lost</source>
         <translation>GPS signál ztracen</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="79"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="85"/>
         <source>Waiting for signal</source>
         <translation>Čekám na signál</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="83"/>
+        <location filename="../../../src/positioning/PositionInfoSource_Satellite.cpp" line="89"/>
         <source>Receiving data</source>
         <translation>Přijímám údaje</translation>
     </message>
@@ -4428,23 +4522,23 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>Positioning::PositionProvider</name>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="238"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="242"/>
         <source>Source</source>
         <translation>Zdroj</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="239"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="243"/>
         <source>Receiving position information</source>
         <translation>Přijímám polohové údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="244"/>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="246"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="248"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="250"/>
         <source>Not receiving position information</source>
         <translation>Nepřijímám polohové údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/positioning/PositionProvider.cpp" line="246"/>
+        <location filename="../../../src/positioning/PositionProvider.cpp" line="250"/>
         <source>Traffic receiver</source>
         <translation>Přijímač provozu</translation>
     </message>
@@ -4596,19 +4690,19 @@ můžeme získat.&lt;/p&gt;
         <translation type="unfinished">Nelze otevřít CSV soubor %1 pro čtení.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CUP.cpp" line="124"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="130"/>
         <source>Direction: %1°</source>
         <comment>GeoMaps::CUP</comment>
         <translation type="unfinished">Směr: %1°</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CUP.cpp" line="128"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="134"/>
         <source>Length: %1</source>
         <comment>GeoMaps::CUP</comment>
         <translation type="unfinished">Délka: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/CUP.cpp" line="170"/>
+        <location filename="../../../src/fileFormats/CUP.cpp" line="196"/>
         <source>Error reading line %1 in the CUP file %2.</source>
         <comment>FileFormats::CUP</comment>
         <translation type="unfinished">Chyba při čtení řádku %1 v CUP souboru %2.</translation>
@@ -4728,127 +4822,128 @@ můžeme získat.&lt;/p&gt;
         <translation type="unfinished">Nelze načíst tabulku metadat ze souboru MBTILES.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="59"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="65"/>
         <source>Found corrupt data while reading the data stream.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Při čtení datového proudu byla nalezena poškozená data.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="61"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="67"/>
         <source>Read past end of data stream.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Čtení za koncem datového proudu.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="64"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="70"/>
         <source>Data is larger than supported by the current platform.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Data jsou větší, než aktuální platforma podporuje.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="67"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="73"/>
         <source>Error writing to data stream.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Chyba při zápisu do datového proudu.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="128"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="134"/>
         <source>Found invalid TIFF file data.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Nalezena neplatná data souboru TIFF.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="136"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="142"/>
         <source>BigTIFF files are not supported.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Soubory BigTIFF nejsou podporovány.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="140"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="146"/>
         <source>Found an unsupported TIFF version.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Nalezena nepodporovaná verze TIFF.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="157"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="163"/>
         <source>Found more than 100 tags in the TIFF file. Reading only the first 100.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">V souboru TIFF bylo nalezeno více než 100 tagů. Čtu pouze prvních 100.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="247"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="253"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="265"/>
         <source>Cannot read data.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Nelze číst data.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="299"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="315"/>
         <source>No data for tag 256.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Žádná data pro tag 256.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="305"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="321"/>
         <source>Invalid data for tag 256.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Neplatná data pro tag 256.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="310"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="326"/>
         <source>Tag 256 is not set.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Tag 256 není nastaven.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="322"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="338"/>
         <source>No data for tag 257.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Žádná data pro tag 257.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="328"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="344"/>
         <source>Invalid data for tag 257.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Neplatná data pro tag 257.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="333"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="349"/>
         <source>Tag 257 is not set.</source>
         <comment>FileFormats::TIFF</comment>
         <translation type="unfinished">Tag 257 není nastaven.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="134"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="147"/>
         <source>The zip archive does not contain the required file &apos;toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished">Zip archiv neobsahuje požadovaný soubor &apos;toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="139"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="152"/>
         <source>The file &apos;toc.json&apos; from the zip archive cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished">Soubor &apos;toc.json&apos; ze zip archivu nelze interpretovat.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="149"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="162"/>
         <source>The zip archive %1 does not contain the required file &apos;charts/charts_toc.json&apos;.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished">Zip archiv %1 neobsahuje požadovaný soubor &apos;charts/charts_toc.json&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="154"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="167"/>
         <source>The file &apos;charts/charts_toc.json&apos; from the zip archive %1 cannot be interpreted.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished">Soubor &apos;charts/charts_toc.json&apos; ze zip archivu %1 nelze interpretovat.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="160"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="173"/>
         <source>The trip kit does not contain any charts.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished">Trip Kit neobsahuje žádné mapy.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TripKit.cpp" line="190"/>
+        <location filename="../../../src/fileFormats/TripKit.cpp" line="203"/>
         <source>The coordinates for the entry &apos;%1&apos; in the trip kit are invalid.</source>
         <comment>FileFormats::TripKit</comment>
         <translation type="unfinished">Souřadnice pro položku &apos;%1&apos; v Trip Kitu jsou neplatné.</translation>
@@ -4860,112 +4955,115 @@ můžeme získat.&lt;/p&gt;
         <translation type="unfinished">Nelze otevřít zip soubor %1 pro čtení.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="61"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="87"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="92"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="97"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="414"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="421"/>
+        <location filename="../../../src/fileFormats/ZipFile.cpp" line="61"/>
+        <source>Zip file %1 contains an entry that is too large.</source>
+        <comment>FileFormats::ZipFile</comment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="59"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="402"/>
         <source>Invalid number found: %1</source>
         <comment>OpenAir</comment>
         <translation type="unfinished">Nalezeno neplatné číslo: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="72"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="101"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="118"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="71"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="88"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="105"/>
         <source>Variable X is not set but Circle should be drawn</source>
         <comment>OpenAir</comment>
         <translation type="unfinished">Proměnná X není nastavena, ale má být vykreslena kružnice</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="82"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="111"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="184"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="198"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="80"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="98"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="171"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="185"/>
         <source>Invalid arc specification</source>
         <comment>OpenAir</comment>
         <translation type="unfinished">Neplatná specifikace oblouku</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="246"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="233"/>
         <source>Airspace %1 has no valid outline.</source>
         <comment>OpenAir</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="250"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="237"/>
         <source>Airspace %1 has no lower limit.</source>
         <comment>OpenAir</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="254"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="241"/>
         <source>Airspace %1 has no upper limit.</source>
         <comment>OpenAir</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="331"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="337"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="318"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="324"/>
         <source>Invalid content for VariableD (direction): %1</source>
         <comment>OpenAir</comment>
         <translation type="unfinished">Neplatný obsah pro VariableD (směr): %1</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="389"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="376"/>
         <source>Invalid altitude specification: %1</source>
         <comment>OpenAir</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="464"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="456"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="472"/>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="480"/>
         <location filename="../../../src/fileFormats/OpenAir.cpp" line="488"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="496"/>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="500"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="492"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="497"/>
         <source>Invalid coordinate found: %1</source>
         <comment>OpenAir</comment>
         <translation type="unfinished">Nalezena neplatná souřadnice: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="644"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="642"/>
         <source>Errors</source>
         <comment>OpenAir</comment>
         <translation type="unfinished">Chyby</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="654"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="652"/>
         <source>Warnings</source>
         <comment>OpenAir</comment>
         <translation type="unfinished">Varování</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="678"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="676"/>
         <source>Cannot open file %1</source>
         <comment>OpenAir</comment>
         <translation type="unfinished">Nelze otevřít soubor %1</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="697"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="695"/>
         <source>Airspace %1 was not imported because its definition contains errors.</source>
         <comment>OpenAir</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="792"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="790"/>
         <source>Unrecognized record type in line %1: %2; Line ignored.</source>
         <comment>OpenAir</comment>
         <translation type="unfinished">Nerozpoznaný typ záznamu na řádku %1: %2; řádek ignorován.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="797"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="795"/>
         <source>Error in line %1: %2</source>
         <comment>OpenAir</comment>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/OpenAir.cpp" line="807"/>
+        <location filename="../../../src/fileFormats/OpenAir.cpp" line="805"/>
         <source>This file specifies activation times. Activation times are not evaluated; the airspaces are shown at all times.</source>
         <comment>OpenAir</comment>
         <translation type="unfinished"></translation>
@@ -4976,59 +5074,62 @@ můžeme získat.&lt;/p&gt;
         <translation type="obsolete">Chyba na řádku %1: %2; vzdušný prostor %3 ignorován.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="91"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="97"/>
         <source>Installed</source>
         <comment>VAC</comment>
         <translation type="unfinished">Nainstalováno</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="93"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="99"/>
         <source>File Size</source>
         <comment>VAC</comment>
         <translation type="unfinished">Velikost souboru</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="101"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="107"/>
         <source>%1 chart collection</source>
         <comment>VAC</comment>
         <translation type="unfinished">Sbírka map %1</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="103"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="109"/>
         <source>manually imported</source>
         <comment>VAC</comment>
         <translation type="unfinished">ručně naimportováno</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VAC.cpp" line="125"/>
+        <location filename="../../../src/geomaps/VAC.cpp" line="131"/>
         <source>Manually Imported</source>
         <comment>VAC</comment>
         <translation type="unfinished">Ručně importované</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="212"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="213"/>
         <source>Unable to open the file &apos;%1&apos; for reading.</source>
         <translation type="unfinished">Nelze otevřít soubor &apos;%1&apos; pro čtení.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="228"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="229"/>
         <source>JSON document contains no data.</source>
         <translation type="unfinished">JSON dokument neobsahuje žádná data.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="232"/>
+        <location filename="../../../src/navigation/Aircraft.cpp" line="233"/>
         <source>JSON document does not describe an aircraft.</source>
         <translation type="unfinished">JSON dokument nepopisuje letadlo.</translation>
     </message>
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="259"/>
-        <source>Unable to open the file &apos;%1&apos; for writing.</source>
-        <translation type="unfinished">Nelze otevřít soubor &apos;%1&apos; pro zápis.</translation>
+        <source>Unable to write to file &apos;%1&apos;: %2</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/Aircraft.cpp" line="265"/>
+        <source>Unable to open the file &apos;%1&apos; for writing.</source>
+        <translation type="obsolete">Nelze otevřít soubor &apos;%1&apos; pro zápis.</translation>
+    </message>
+    <message>
         <source>Unable to write to file &apos;%1&apos;.</source>
-        <translation type="unfinished">Nelze zapisovat do souboru &apos;%1&apos;.</translation>
+        <translation type="obsolete">Nelze zapisovat do souboru &apos;%1&apos;.</translation>
     </message>
     <message>
         <location filename="../../../src/notam/NOTAMList.cpp" line="93"/>
@@ -5424,6 +5525,12 @@ můžeme získat.&lt;/p&gt;
         <comment>CUB</comment>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <location filename="../../../src/flightlog/FlightLogExportJSON.cpp" line="173"/>
+        <source>Not a flight log file.</source>
+        <comment>Flightlog::FlightLogExportJSON</comment>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>RemainingRouteBar</name>
@@ -5461,9 +5568,13 @@ můžeme získat.&lt;/p&gt;
         <translation>Přejmenovat</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="78"/>
+        <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="77"/>
+        <source>Approach chart renamed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Flight route renamed</source>
-        <translation>Trať přejmenována</translation>
+        <translation type="vanished">Trať přejmenována</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="80"/>
@@ -5504,44 +5615,44 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>SettingsPage</name>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="32"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="33"/>
         <source>Settings</source>
         <translation>Nastavení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="109"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="110"/>
         <source>Moving Map</source>
         <translation>Pohyblivá mapa</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="120"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="121"/>
         <source>Currently showing all airspaces</source>
         <translation>Aktuálně zobrazeny všechny vzdušné prostory</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="127"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="128"/>
         <source>Currently showing airspaces up to %1</source>
         <translation>Aktuálně zobrazeny vzdušné prostory do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="129"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="146"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="495"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="130"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="147"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="503"/>
         <source>Airspace Altitude Limit</source>
         <translation>Výšková hranice vzdušného prostoru</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="147"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="148"/>
         <source>If you never fly higher than 5,000 ft, you will probably not be interested in airspaces that begin above FL100. Enroute Flight Navigation allows you to set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit. Tap on the entry “Airspace Altitude Limit” to set or unset the altitude limit.</source>
         <translation>Pokud nikdy nelétáte výše než 5.000ft, pravděpodobně vás nebudou zajímat vzdušné prostory nad FL100. Pro zlepšení přehlednosti pohyblivé mapy umožňuje Enroute Flight Navigation nastavit výškový limit pro zobrazení vzdušných prostorů. Po jeho nastavení bude aplikace zobrazovat vzdušné prostory jen pod tímto limitem. Klikněte na &quot;Výšková hranice vzdušného prostoru&quot; pro nastavení nebo zrušení výškového limitu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="148"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="149"/>
         <source>Once you set an altitude limit, the moving map will display a little warning (“Airspaces up to 9,500 ft”) to remind you that the moving map does not show all airspaces. The app will automatically increase the limit when your aircraft approaches the altitude limit from below.</source>
         <translation>V případě, že nastavíte výškové omezení vzdušného prostoru, bude na pohyblivé mapě zobrazeno varování (“Vzdušné prostory do 9.500 ft”) jako upomínka, že pohyblivá mapa nezobrazuje všechny vzdušné prostory. Pokud se zespodu přiblížíte k danému výškovému limitu, aplikace automaticky výškový limit zvedne.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="155"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="156"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="170"/>
         <source>Gliding Sectors</source>
         <translation>GLD sektory</translation>
@@ -5559,7 +5670,7 @@ můžeme získat.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="186"/>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="198"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="459"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="466"/>
         <source>Font Size</source>
         <translation>Velikost písma</translation>
     </message>
@@ -5570,139 +5681,139 @@ můžeme získat.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/qml/pages/SettingsPage.qml" line="206"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="221"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="220"/>
         <source>Night Mode</source>
         <translation>Noční režim</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="222"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="221"/>
         <source>The “Night Mode” of Enroute Flight Navigation is similar to the “Dark Mode” found in many other apps. We designed the night mode for pilots performing VFR flights by night, whose eyes have adapted to the darkness. Compared with other apps, you will find that the display is quite dark indeed.</source>
         <translation>&quot;Noční režim&quot; Enroute Flight Navigation je podobný “Tmavému režimu” ostatních aplikací. Tento režim je navržen pro piloty, provádějící VFR lety v noci, jejichž oči se adaptovaly na tmu. V porovnání s ostaními aplikacemi je noční režim této aplikace opravdu hodně tmavý.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="229"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="241"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="620"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="228"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="240"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="630"/>
         <source>Voice Notifications</source>
         <translation>Hlasové notifikace</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="242"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="241"/>
         <source>Pilots should not be looking at their mobile devices for extended periods of time.</source>
         <translation>Piloti by neměli sledovat své mobilní zařízení po delší než nutnou dobu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="243"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="242"/>
         <source>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; is therefore able to read notification texts in addition to showing them on the screen.</source>
         <translation>&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; tím pádem dokáže zároveň se zobrazením notifikací na obrazovce přečíst jejich text.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="244"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="243"/>
         <source>Since we expect that not everybody likes this feature, this button allows switching voice notification on and off.</source>
         <translation>Protože předpokládáme, že ne všem může tato funkce vyhovovat, toto tlačítko umožňuje vypnutí a zapnutí hlasových notifikací.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="254"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="273"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="253"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="272"/>
         <source>Show All Warnings</source>
         <translation>Zobrazit všechna varování</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="261"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="260"/>
         <source>Warnings will be shown again.</source>
         <translation>Varování budou opět zobrazována.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="274"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="273"/>
         <source>This entry is visible if you have previously disabled warnings. Tap on this entry to show all warnings again.</source>
         <translation>Tato položka se zobrazuje, pokud jste v minulosti zneaktivnili varování. Klikněte na tuto položku pro jejich opětovnou aktivaci.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="282"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="281"/>
         <source>System</source>
         <translation>System</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="292"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="291"/>
         <source>Currently using traffic data receiver</source>
         <translation>Aktuálně používán přijímač letového provozu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="294"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="293"/>
         <source>Currently using built-in satnav receiver</source>
         <translation>Aktuálně používáno vestavěné GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="296"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="312"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="295"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="311"/>
         <source>Primary Position Data Source</source>
         <translation>Primární zdroj polohy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="313"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="312"/>
         <source>Enroute Flight Navigation can either use the built-in satnav receiver of your device or a connected traffic receiver as a primary position data source. This setting is essential if your device has reception problems or if you use Enroute Flight Navigation together with a flight simulator.</source>
         <translation>Enroute Flight Navigation může jako hlavní zdroj polohových údajů použít buďto vestavěný GPS přijímač vašeho zařízení, nebo polohové údaje z připojeného přijímače leteckého provozu. Toto nastavení je důležité v případě, že vaše zařízení mívá problémy s příjmem GPS signálu, nebo pokud používáte Enroute Flight Navigation spolu s leteckým simulátorem.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="314"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="313"/>
         <source>You will most likely prefer the built-in satnav receiver for actual flight. The built-in receiver provides one position update per second on a typical Android system, while traffic receivers do not always provide timely position updates.</source>
         <translation>Ve většině případů pravděpodobně budete preferovat vestavěný GPS přijímač. Vestavěné přijímače obvykle poskytují jeden polohový údaj za vteřinu na typickém Android telefonu, zatímco přijímače leteckého provozu nemusí poskytovat tak časté polohové údaje.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="315"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="314"/>
         <source>If you use Enroute Flight Navigation together with a flight simulator, you must choose the traffic receiver as a primary position data source. Flight simulators broadcast position information of simulated aircraft via Wi-Fi, using the same protocol that a traffic data receiver would use in a real plane. As long as the built-in satnav receiver is selected, all position information provided by your flight simulator is ignored.</source>
         <translation>Pokud používáte Enroute Flight Navigation s leteckým simulátorem, je nutné zvolit přijímač leteckého provozu jako hlavní zdroj polohových údajů. Letecké simulátory vysílají polohové údaje simulovaných letadel přes WiFi, skrze stejný protokol, jako využívají přijímače leteckého provozu ve skutečných letadlech. Pokud by byla nastavena jako zdroj polohových údajů vaše vestavěná GPS, polohové údaje z vašeho leteckého simulátoru by byly ignorovány.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="323"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="335"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="322"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="334"/>
         <source>Data Connections</source>
         <translation>Datová propojení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="336"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="335"/>
         <source>Configure data connections to peripheral devices.</source>
         <translation>Nastavit připojení k externím zařízením.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="337"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="336"/>
         <source>Use this item to register traffic data receivers that connect via Bluetooth.</source>
         <translation>Touto položkou přidáte přijímače leteckého rovozu, připojované přes Bluetooth.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="344"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="361"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="343"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="359"/>
         <source>Ignore Network Security Errors</source>
         <translation>Ignorovat chyby zabezpečení síťové komunikace</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="362"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="360"/>
         <source>This entry is visible if you have asked the app to download data via insecure internet connections after a secure connection attempt failed. Uncheck this item to revert to the standard policy, which enforces secure connections.</source>
         <translation>Tato položka se zobrazuje, pokud jste v aplikaci zvolili stahování přes nezabezpečené připojení poté, co pokus o zabezpečené připojení selhal. Odznačte tuto položku, pokud se chcete vrátit k používání zabezpečeného připojení.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="370"/>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="379"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="368"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="380"/>
         <source>Clear Password Storage</source>
         <translation>Smazat všechna uložená hesla</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="380"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="381"/>
         <source>This entry is visible if you have connected to a traffic data receiver that requires a password in addition to the Wi-Fi password and if you have asked the app to remember the password. Tap on this entry to clear the password storage.</source>
         <translation>Tato položka se zobrazuje, pokud jste se připojili k přijímačí leteckého provozu, který kromě WiFi hesla vyžaduje vlastní heslo, a pokud jste zvolili, aby si aplikace heslo zapamatovala. Kliknutím na tuto položku uložená hesla odstraníte.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="388"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="389"/>
         <source>Help</source>
         <translation>Nápověda</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="397"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="398"/>
         <source>Connect to a traffic receiver…</source>
         <translation>Připojit k přijímači leteckého provozu...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="405"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="409"/>
         <source>Connect to a flight simulator…</source>
         <translation>Připojit k leteckému limulátoru...</translation>
     </message>
@@ -5719,127 +5830,127 @@ můžeme získat.&lt;/p&gt;
         <translation type="vanished">Teď nainstalovat</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="441"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="448"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="428"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="435"/>
         <source>Clear Password Storage?</source>
         <translation>Smazat všechna uložená hesla?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="431"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="438"/>
         <source>Once the storage is cleared, the passwords can no longer be retrieved.</source>
         <translation>Jakmile budou hesla smazána, již nebudou moci být použita.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="436"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="443"/>
         <source>Clear</source>
         <translation>Smazat vše</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="449"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="456"/>
         <source>Password storage cleared</source>
         <translation>Hesla odstraněna</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="480"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="488"/>
         <source>Normal</source>
         <translation>Normální</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="485"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="493"/>
         <source>Huge</source>
         <translation>Obří</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="505"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="513"/>
         <source>Set an altitude limit to improve the readability of the moving map. Once set, the app will show only airspaces below that limit.</source>
         <translation>Nastavit výškové omezení pro zlepšení přehlednosti pohyblivé mapy. Po nastavení bude aplikace zobrazovat pouze vzdušné prostory pod tímto limitem.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="513"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="521"/>
         <source>Set altitude limit</source>
         <translation>Nastavit výškový limit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="543"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="553"/>
         <source>Show airspaces up to %1 ft / %2 m.</source>
         <translation>Zobrazit vzdušné prostory do %1 ft / %2 m.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="545"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="555"/>
         <source>No limit, all airspaces shown</source>
         <translation>Bez omezení, zobrazeny všechny vzdušné prostory</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="554"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="564"/>
         <source>Cannot set reasonable airspace altitude limit because the present own altitude is too high.</source>
         <translation>Nelze nastavit rozumný výškový limit vzdušnách prostorů - současná výška je příliš velká.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="579"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="589"/>
         <source>Position Data Source</source>
         <translation>Zdroj polohy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="586"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="596"/>
         <source>Most users will choose the built-in satnav receiver. Choose the traffic data receiver when the satnav receiver of your device has reception problems, or when you use this app together with a flight simulator.</source>
         <translation>Většina uživatelů volí vestavěnou GPS. Použijte přijímač leteckého provozu v případě, že vaše vestavěná GPS má problémy s příjmem signálu, nebo pokud používáte tuto aplikaci v kombinaci s leteckým simulátorem.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="593"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="603"/>
         <source>Built-in Satnav Receiver</source>
         <translation>Vestavěné GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="601"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="611"/>
         <source>Traffic Data Receiver (when available)</source>
         <translation>Přijímač dopravních dat (pokud jsou k dispozici)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="640"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="650"/>
         <source>Choose the category of voice notifications that you would like to hear.</source>
         <translation>Vyberte hlasové notifikace, které byste rádi slyšeli.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="647"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="657"/>
         <source>Voice Test</source>
         <translation>Test hlasových notifikací</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="665"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="675"/>
         <source>Speech engine not yet initialized.</source>
         <translation>Hlasový generátor neinicializován.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="669"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="679"/>
         <source>Error</source>
         <translation>Chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="682"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="693"/>
         <source>Information • Generic</source>
         <translation>Informace • Obecné</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="687"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="699"/>
         <source>Information • Navigation</source>
         <translation>Informace • Navigační</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="692"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="705"/>
         <source>Warning • Generic</source>
         <translation>Varování • Obecné</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="697"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="711"/>
         <source>Warning • Navigation</source>
         <translation>Varování • Navigační</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/SettingsPage.qml" line="702"/>
+        <location filename="../../../src/qml/pages/SettingsPage.qml" line="717"/>
         <source>Alert</source>
         <translation>Upozornění</translation>
     </message>
@@ -5924,8 +6035,7 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>Traffic::FlarmnetDB</name>
     <message>
-        <location filename="../../../src/traffic/FlarmnetDB.cpp" line="97"/>
-        <location filename="../../../src/traffic/FlarmnetDB.cpp" line="142"/>
+        <location filename="../../../src/traffic/FlarmnetDB.cpp" line="200"/>
         <source>Placeholder file.</source>
         <translation>Rezervované místo pro soubor.</translation>
     </message>
@@ -5954,7 +6064,7 @@ můžeme získat.&lt;/p&gt;
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="246"/>
         <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="265"/>
         <location filename="../../../src/traffic/TrafficDataProvider_BluetoothClassic.cpp" line="46"/>
-        <location filename="../../../src/traffic/TrafficDataProvider_BluetoothLowEnergy.cpp" line="42"/>
+        <location filename="../../../src/traffic/TrafficDataProvider_BluetoothLowEnergy.cpp" line="45"/>
         <source>A connection to this device already exists.</source>
         <translation>Propojení k tomuto zařízení již existuje.</translation>
     </message>
@@ -5964,27 +6074,27 @@ můžeme získat.&lt;/p&gt;
         <translation>Seriové porty nejsou na této platformě podporovány.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="704"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="697"/>
         <source>Receiving data through an internet service, which might be unreliable. Consider connecting to a proper traffic data receiver.</source>
         <translation>Dostávám udaje skrz internetovou službu, která může být nespolehlivá. Zvažte připojení k zažízení, určené pro příjem údajů o leteckém provozu.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="708"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="701"/>
         <source>Receiving heartbeat.</source>
         <translation>Dostávám heartbeat.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="712"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="705"/>
         <source>Receiving position info.</source>
         <translation>Dostávám polohové údaje.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="716"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="709"/>
         <source>Receiving barometric altitude info.</source>
         <translation>Dostávám údaje o tlakové výšce.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="722"/>
+        <location filename="../../../src/traffic/TrafficDataProvider.cpp" line="715"/>
         <source>Not receiving traffic receiver heartbeat through any of the configured data connections.</source>
         <translation>Nedostávám heartbeat z žádných nastavených datových připojení.</translation>
     </message>
@@ -5997,234 +6107,234 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Abstract</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="570"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="568"/>
         <source>No Error</source>
         <translation>Bez chyby</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="574"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="572"/>
         <source>Normal Operation</source>
         <translation>Normální provoz</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="578"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="576"/>
         <source>Reduced Functionality</source>
         <translation>Snížená funkčnost</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="582"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="580"/>
         <source>Device INOP</source>
         <translation>Zařízení nefunguje</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="587"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="585"/>
         <source>Error code: %1</source>
         <translation>Chybová hláška: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="591"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="589"/>
         <source>Firmware expired</source>
         <translation>Firmware expiroval</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="595"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="593"/>
         <source>Firmware update error</source>
         <translation>Chyba při aktualizaci firmaware</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="599"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="597"/>
         <source>Power (Voltage &lt; 8V)</source>
         <translation>Napájení (Napětí &lt; 8V)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="603"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="601"/>
         <source>UI error</source>
         <translation>UI chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="607"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="605"/>
         <source>Audio error</source>
         <translation>Audio chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="611"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="609"/>
         <source>ADC error</source>
         <translation>ADC chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="615"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="613"/>
         <source>SD card error</source>
         <translation>Chyba SD karty</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="619"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="617"/>
         <source>USB error</source>
         <translation>USB chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="623"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="621"/>
         <source>LED error</source>
         <translation>LED chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="627"/>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="639"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="625"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="637"/>
         <source>EEPROM error</source>
         <translation>EEPROM chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="631"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="629"/>
         <source>General hardware error</source>
         <translation>Obecná chyba hardwaru</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="635"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="633"/>
         <source>Transponder receiver Mode-C/S/ADS-B unserviceable</source>
         <translation>Přijímač Mode-C/S/ADS-B Transponderu nepoužitelný</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="643"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="641"/>
         <source>GPIO error</source>
         <translation>GPIO chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="647"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="645"/>
         <source>GPS communication</source>
         <translation>GPS komunikace</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="651"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="649"/>
         <source>Configuration of GPS module</source>
         <translation>Konfigurace GPS modulu</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="655"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="653"/>
         <source>GPS antenna</source>
         <translation>GPS anténa</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="659"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="657"/>
         <source>RF communication</source>
         <translation>RF komunikace</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="663"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="661"/>
         <source>Another FLARM device with the same Radio ID is being received. Alarms are suppressed for the relevant device.</source>
         <translation>Jsou přijímaná signály od dalšího FLARM zařízení se stejným Radio ID. Výstrahy pro dané zařízení jsou potlačeny.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="667"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="665"/>
         <source>Wrong ICAO 24-bit address or radio ID</source>
         <translation>Nesprávná ICAO 24-bit adresa nebo Radio ID</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="671"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="669"/>
         <source>Communication</source>
         <translation>Komunikace</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="675"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="673"/>
         <source>Flash memory</source>
         <translation>Flash paměť</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="679"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="677"/>
         <source>Pressure sensor</source>
         <translation>Tlakový snímač</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="683"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="681"/>
         <source>Obstacle database (e.g. incorrect file type)</source>
         <translation>Databáze překážek (např. nesprávný typ souboru)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="687"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="685"/>
         <source>Obstacle database expired.</source>
         <translation>Platnost databáze překážek výpršela.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="691"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="689"/>
         <source>Flight recorder</source>
         <translation>Letový zapisovač</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="695"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="693"/>
         <source>Engine-noise recording not possible</source>
         <translation>Nahrávání hluku motoru není možné</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="699"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="697"/>
         <source>Range analyzer</source>
         <translation>Analyzér vzdálenosti</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="703"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="701"/>
         <source>Configuration error, e.g. while reading flarmcfg.txt from SD/USB.</source>
         <translation>Chyba konfigurace, např. při čtení flarmcfg.txt z SD/USB.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="707"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="705"/>
         <source>Invalid obstacle database license (e.g. wrong serial number)</source>
         <translation>Neplatná licence databáze překážek (např. chybné seriové číslo)</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="711"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="709"/>
         <source>Invalid IGC feature license</source>
         <translation>Neplatná licence pro funkčnost IGC</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="715"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="713"/>
         <source>Invalid AUD feature license</source>
         <translation>Neplatná licence pro funkčnost AUD</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="719"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="717"/>
         <source>Invalid ENL feature license</source>
         <translation>Neplatná licence pro funkčnost ENL</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="723"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="721"/>
         <source>Invalid RFB feature license</source>
         <translation>Neplatná licence pro funkčnost RFB</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="727"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="725"/>
         <source>Invalid TIS feature license</source>
         <translation>Neplatná licence pro funkčnost TIS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="731"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="729"/>
         <source>Generic error</source>
         <translation>Obecná chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="735"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="733"/>
         <source>Flash File System error</source>
         <translation>Chyba souborového systému na flash</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="739"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="737"/>
         <source>Failure updating firmware of external display</source>
         <translation>Chyba při aktualizaci firmware externího displeje</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="743"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="741"/>
         <source>Device is operated outside the designated region. The device does not work.</source>
         <translation>Zažízení je provozováno mimo určený region. Zařízení je nefunkční.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="784"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="782"/>
         <source>No FLARM transmission</source>
         <translation>Žádné FLARM vysílání</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="789"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="787"/>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="269"/>
         <source>No GPS reception</source>
         <translation>Žádný příjem GPS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="794"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="792"/>
         <source>Under- or Overvoltage</source>
         <translation>Příliš nízké nebo vysoké napětí</translation>
     </message>
@@ -6396,102 +6506,102 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_BluetoothClassic</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="53"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="59"/>
         <source>Due to platform limitations, Bluetooth Classic is not supported on iOS.</source>
         <translation type="unfinished">Kvůli omezením platformy není Bluetooth Classic na iOS podporován.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="63"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="69"/>
         <source>Necessary permissions have been denied.</source>
         <translation type="unfinished">Požadované oprávnění byly zamítnuty.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="92"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="98"/>
         <source>An unknown error has occurred.</source>
         <translation type="unfinished">Nastala neznámá chyba.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="95"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="101"/>
         <source>No error.</source>
         <translation type="unfinished">Žádná chyba.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="98"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="104"/>
         <source>Could not find the remote host.</source>
         <translation type="unfinished">Vzdáleného hostitele se nepodařilo nalézt.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="101"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="107"/>
         <source>Could not find the service UUID on remote host.</source>
         <translation type="unfinished">Na vzdáleném hostiteli se nepodařilo nalézt UUID služby.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="104"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="110"/>
         <source>Attempt to read or write from socket returned an error</source>
         <translation type="unfinished">Pokus o čtení ze soketu nebo zápis do něj skončil chybou</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="107"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="113"/>
         <source>The Protocol is not supported on this platform.</source>
         <translation type="unfinished">Protokol není na této platformě podporován.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="110"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="116"/>
         <source>An operation was attempted while the socket was in a state that did not permit it.</source>
         <translation type="unfinished">Došlo k pokusu o operaci, kterou aktuální stav soketu nedovoluje.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="113"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="119"/>
         <source>The remote host closed the connection.</source>
         <translation type="unfinished">Vzdálený hostitel spojení ukončil.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="116"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="122"/>
         <source>The operating system requests permissions which were not granted by the user.</source>
         <translation type="unfinished">Oprávnění, požadovaná operačním systémem, nebyly uživatelem povoleny.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="127"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="133"/>
         <source>The socket is not connected.</source>
         <translation type="unfinished">Soket není připojen.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="130"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="136"/>
         <source>The socket is querying connection parameters.</source>
         <translation type="unfinished">Soket zjišťuje parametry spojení.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="133"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="139"/>
         <source>The socket is attempting to connect.</source>
         <translation type="unfinished">Soket se pokouší připojit.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="136"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="142"/>
         <source>The socket is connected.</source>
         <translation type="unfinished">Soket je připojen.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="139"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="145"/>
         <source>The socket is bound to a local address and port.</source>
         <translation type="unfinished">Soket je svázán s místní adresou a portem.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="142"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="148"/>
         <source>The socket is connected and will be closed once all pending data is written to the socket.</source>
         <translation type="unfinished">Soket je připojen a bude uzavřen, jakmile budou zapsána všechna čekající data.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="145"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="151"/>
         <source>The socket is listening for incoming connections.</source>
         <translation type="unfinished">Soket naslouchá příchozím spojením.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="165"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="171"/>
         <source>Unnamed Device</source>
         <translation type="unfinished">Nepojmenované zařízení</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="167"/>
+        <location filename="../../../src/traffic/TrafficDataSource_BluetoothClassic.cpp" line="173"/>
         <source>Bluetooth Classic connection to %1</source>
         <translation type="unfinished">Bluetooth Classic připojení k %1</translation>
     </message>
@@ -6786,7 +6896,7 @@ můžeme získat.&lt;/p&gt;
         <translation type="vanished">Připojení OGN glidernet.org APRS-IS</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="117"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Ogn.h" line="118"/>
         <source>Open Glider Network-Connection</source>
         <translation type="unfinished">Připojení k Open Glider Network</translation>
     </message>
@@ -6798,83 +6908,83 @@ můžeme získat.&lt;/p&gt;
         <translation type="vanished">Kvůli omezení platformy, seriové porty nejsou podporovány na iOS.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="153"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="161"/>
         <source>Device not found.</source>
         <translation type="unfinished">Zařízení nenalezeno.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="135"/>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="168"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="143"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="176"/>
         <source>Connected.</source>
         <translation>Připojen.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="172"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="180"/>
         <source>Serial ports are not supported on this platform.</source>
         <translation type="unfinished">Seriové porty nejsou na této platformě podporovány.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="201"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="209"/>
         <source>Not connected.</source>
         <translation>Nepřipojen.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="213"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="221"/>
         <source>Non-existing device</source>
         <translation>Neexistující zažízení</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="216"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="224"/>
         <source>Attempting to open an already opened device by another process or a user not having enough permission and credentials to open.</source>
         <translation>Pokus o otevření již otevřeného zařízení jiným procesem nebo uživatelem bez dostatečného oprávnění pro danou operaci.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="219"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="227"/>
         <source>An error occurred while attempting to open an already opened device in this object.</source>
         <translation>Nastala chyba při pokusu o otevření již otevřeného zařízení v tomto objektu.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="222"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="230"/>
         <source>Attempted to execute an operation that can only be successfully performed if the device is open.</source>
         <translation>Nastal pokus o operaci, která je možná pouze pokud je dané zařízení otevřeno.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="225"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="233"/>
         <source>I/O error while writing data.</source>
         <translation>I/O chyba při čtení dat.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="228"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="236"/>
         <source>I/O error while reading data.</source>
         <translation>I/O chyba při zápisu dat.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="231"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="239"/>
         <source>I/O error occurred when a resource becomes unavailable, e.g. when the device is unexpectedly removed from the system.</source>
         <translation>Nastala I/O chyba v případě, kdy je zdroj nedostupný, např. když je zařízení nečekaně odstraněno ze systému.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="234"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="242"/>
         <source>Device operation unsupported or prohibited by the operating system.</source>
         <translation>Operace na zařízení je nepodporována nebo nepovolena operačním systémem.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="237"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="245"/>
         <source>A timeout error occurred.</source>
         <translation>Nastala timeout chyba.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="240"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="248"/>
         <source>An unidentified error occurred.</source>
         <translation>Nastala neznámá chyba.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="357"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="365"/>
         <source>Unnamed Device</source>
         <translation>Nepojmenované zařízení</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="359"/>
+        <location filename="../../../src/traffic/TrafficDataSource_SerialPort.cpp" line="367"/>
         <source>Serial port connection to %1</source>
         <translation>Serioové připojení k %1</translation>
     </message>
@@ -7193,7 +7303,7 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>TrafficReceiver</name>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="35"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="36"/>
         <source>Traffic Data Receiver</source>
         <translation>Přijímač leteckého provozu</translation>
     </message>
@@ -7380,27 +7490,27 @@ můžeme získat.&lt;/p&gt;
         <translation>Připojit k přijímači leteckého provozu...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="588"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="591"/>
         <source>Connect to a flight simulator…</source>
         <translation>Připojit k leteckému limulátoru...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="606"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="612"/>
         <source>Disconnecting...</source>
         <translation>Odpojuji...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="608"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="614"/>
         <source>Reconnecting...</source>
         <translation>Znovu připojuji...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="609"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="615"/>
         <source>Reconnect</source>
         <translation>Znovu připojit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="633"/>
+        <location filename="../../../src/qml/pages/TrafficReceiver.qml" line="640"/>
         <source>Configure Data Connections</source>
         <translation>Nastavit datové připojení</translation>
     </message>
@@ -7464,8 +7574,8 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>VAC</name>
     <message>
-        <location filename="../../../src/qml/pages/VAC.qml" line="35"/>
-        <location filename="../../../src/qml/pages/VAC.qml" line="172"/>
+        <location filename="../../../src/qml/pages/VAC.qml" line="33"/>
+        <location filename="../../../src/qml/pages/VAC.qml" line="173"/>
         <source>Visual Approach Charts</source>
         <translation>Mapy pro vizuální přiblížení VAC</translation>
     </message>
@@ -7474,27 +7584,27 @@ můžeme získat.&lt;/p&gt;
         <translation type="vanished">Filtrovat dle názvu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/VAC.qml" line="163"/>
+        <location filename="../../../src/qml/pages/VAC.qml" line="161"/>
         <source>Sorry!</source>
         <translation>Omlouváme se!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/VAC.qml" line="163"/>
+        <location filename="../../../src/qml/pages/VAC.qml" line="161"/>
         <source>There are no approach charts installed. The &lt;a href=&apos;x&apos;&gt;manual&lt;/a&gt; explains how to install and use them.</source>
         <translation>Nejsou nainstalovány žádné mapy pro vizuální přiblížení  V &lt;a href=&apos;x&apos;&gt;návodu&lt;/a&gt; naleznete postup, jak je nainstalovat a používat.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/VAC.qml" line="164"/>
+        <location filename="../../../src/qml/pages/VAC.qml" line="162"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No approach charts match your filter.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/VAC.qml" line="173"/>
+        <location filename="../../../src/qml/pages/VAC.qml" line="174"/>
         <source>This page presents the visual approach charts that are installed in your system, sorted by distance to the current position. Click on an entry to open a moving map that includes the selected VAC.</source>
         <translation>Tato sekce zobrazuje mapy pro vizuální přiblížení, nainstalovány na vašem systému, seřazeny podle vzdálenosti k vaší současné poloze. Klikněte na položku pro otevření pohyblivé mapy s vybranou VAC.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/VAC.qml" line="174"/>
+        <location filename="../../../src/qml/pages/VAC.qml" line="175"/>
         <source>In order to manage your collection of visual approach charts, go back to the main map view, open the main menu and go to &apos;Library/Maps and Data&apos;.</source>
         <translation>Pro správu vašich map pro vizuální přiblížení navigujte zpět na hlavní mapu, otevřete hlavní menu a navigujte na &apos;Knihovna/Mapy a údaje&apos;.</translation>
     </message>
@@ -7642,32 +7752,32 @@ můžeme získat.&lt;/p&gt;
         <translation type="vanished">Po přepsání nebude možné současnou trať obnovit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="744"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="742"/>
         <source>Modified entry %1 in library.</source>
         <translation>Položka %1 upravena v knihovně.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="751"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="749"/>
         <source>Add Waypoint to Library</source>
         <translation>Přidat navigační bod do knihovny</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="761"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="758"/>
         <source>Added %1 to waypoint library.</source>
         <translation>%1 přidáno do knihovny navigačních bodů.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="770"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="767"/>
         <source>Remove from Device?</source>
         <translation>Odstranit ze zařízení?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="771"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="768"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Jakmile bude navigační bod &lt;strong&gt;%1&lt;/strong&gt; odstraněn, nebude možné jej obnovit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="779"/>
+        <location filename="../../../src/qml/dialogs/WaypointDescription.qml" line="775"/>
         <source>Waypoint removed from device</source>
         <translation>Navigační bod odstraněn ze zařízení</translation>
     </message>
@@ -7675,105 +7785,105 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>WaypointEditor</name>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="48"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="47"/>
         <source>Edit Waypoint</source>
         <translation>Upravit navigační bod</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="81"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="80"/>
         <source>Name</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="98"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="97"/>
         <source>Notes</source>
         <translation>Poznámky</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="129"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="170"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="249"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="128"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="169"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="248"/>
         <source>Degrees</source>
         <translation>Stupně</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="131"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="175"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="249"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="130"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="174"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="248"/>
         <source>Degrees and Minutes</source>
         <translation>Stupně a minuty</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="133"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="180"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="249"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="132"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="179"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="248"/>
         <source>Degrees, Minutes and Seconds</source>
         <translation>Stupně, minuty a sekundy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="135"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="148"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="134"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="147"/>
         <source>Coordinate Format</source>
         <translation>Formát souřadnic</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="137"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="271"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="136"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="272"/>
         <source>Currently using: %1</source>
         <translation>V současnosti použito: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="205"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="204"/>
         <source>Latitude</source>
         <translation>Zeměpisná šířka</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="220"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="219"/>
         <source>Longitude</source>
         <translation>Zeměpisná délka</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="239"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="238"/>
         <source>Format</source>
         <translation>Formát</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="265"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="305"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="358"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="266"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="306"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="359"/>
         <source>Feet</source>
         <translation>Stopy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="267"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="310"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="358"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="268"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="311"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="359"/>
         <source>Meter</source>
         <translation>Metry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="269"/>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="282"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="270"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="283"/>
         <source>Elevation Unit</source>
         <translation>Jednotky nadmořské výšky</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="333"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="334"/>
         <source>Elevation</source>
         <translation>Nadmořská výška</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="348"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="349"/>
         <source>Unit</source>
         <translation>Jednotky</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="368"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="371"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="374"/>
+        <location filename="../../../src/qml/dialogs/WaypointEditor.qml" line="377"/>
         <source>OK</source>
         <translation>OK</translation>
     </message>
@@ -7781,127 +7891,127 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>WaypointLibraryPage</name>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="39"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="161"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="185"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="215"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="226"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="42"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="164"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="188"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="218"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="229"/>
         <source>Waypoint Library</source>
         <translation>Knihovna navigačních bodů</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="105"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="108"/>
         <source>Import…</source>
         <translation>Import…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="113"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="116"/>
         <source>Import files</source>
         <translation>Import souborů</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="114"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="117"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
         <translation>Vyhledejte soubor ve vašem prohlížečí, následně vyberte &apos;Otevřít v&apos; v menu pro sdílení, a zvolte Enroute</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="127"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="130"/>
         <source>Import</source>
         <translation>Import</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="128"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="131"/>
         <source>Cancel</source>
         <translation>Zrušit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="134"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="137"/>
         <source>CUP File (*.cup *.txt)</source>
         <translation>CU soubor (*.cup *.txt)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="135"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="138"/>
         <source>GeoJSON File (*.geojson *.json)</source>
         <translation>GeoJSON soubor (*.geojson *.json)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="136"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="139"/>
         <source>GPX File (*.gpx)</source>
         <translation>GPX soubor (*.gpx)</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="151"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="154"/>
         <source>Share…</source>
         <translation>Sdílet…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="151"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="154"/>
         <source>Export…</source>
         <translation>Export…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="155"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="209"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="158"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="212"/>
         <source>… to GeoJSON file</source>
         <translation>… do GeoJSON souboru</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="163"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="187"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="166"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="190"/>
         <source>Aborted</source>
         <translation>Zrušeno</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="172"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="196"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="175"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="199"/>
         <source>Waypoint library shared</source>
         <translation>Knihovna navigačních bodů nasdílena</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="174"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="198"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="177"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="201"/>
         <source>Waypoint library exported</source>
         <translation>Knihovna navigačních bodů vyexportována</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="179"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="220"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="182"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="223"/>
         <source>… to GPX file</source>
         <translation>… do GPX souboru</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="205"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="208"/>
         <source>Save…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="232"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="235"/>
         <source>Open in Other App…</source>
         <translation>Otevřít v jiné aplikaci…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="236"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="239"/>
         <source>… in GeoJSON format</source>
         <translation>… v GeoJSON formátu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="248"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="265"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="251"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="268"/>
         <source>Waypoint library opened in other app</source>
         <translation>Knihovna navigačních bodů otevřena v jiné aplikaci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="253"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="256"/>
         <source>… in GPX format</source>
         <translation>… v GPX formátu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="274"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="277"/>
         <source>Clear</source>
         <translation>Smazat</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="347"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="351"/>
         <source>Remove…</source>
         <translation>Odstranit...</translation>
     </message>
@@ -7910,63 +8020,63 @@ můžeme získat.&lt;/p&gt;
         <translation type="vanished">Filtrovat dle názvu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="417"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="421"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoint available. To add a waypoint here, choose &apos;Add Waypoint&apos; below or double-tap on a point in the moving map.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádne navigační body nejsou k dispozici. Pro přidání zvolte &apos;Přidat navigační bod&apos; níže, nebo dvakrát klikněte na bod na pohyblivé mapě.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="418"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="422"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omouváme se!&lt;/h3&gt;&lt;p&gt;Nebyly nalezeny žádné navigační body, odpovídající vaším kritériím.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="435"/>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="517"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="439"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="518"/>
         <source>Add Waypoint</source>
         <translation>Přidat navigační bod</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="456"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="460"/>
         <source>Error Exporting Data…</source>
         <translation>Chyba při exportu údajů…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="465"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="469"/>
         <source>Remove from Device?</source>
         <translation>Odstranit ze zařízení?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="466"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="470"/>
         <source>Once the waypoint &lt;strong&gt;%1&lt;/strong&gt; is removed, it cannot be restored.</source>
         <translation>Po odstranění navigačního bodu &lt;strong&gt;%1&lt;/strong&gt; nebude možné jej znovu obnovit.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="474"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="477"/>
         <source>Waypoint removed from device</source>
         <translation>Navigační bod odstraněn ze zařízení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="486"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="488"/>
         <source>Clear Waypoint Library?</source>
         <translation>Smazat knihovnu navigačních bodů?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="489"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="491"/>
         <source>Once cleared, the library cannot be restored.</source>
         <translation>Po odstranění nebude možný návrat k současné knihovně.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="495"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="496"/>
         <source>Waypoint library cleared</source>
         <translation>Knihovna navigačních bofů smazána</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="509"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="510"/>
         <source>Waypoint modified</source>
         <translation>Navigační bod upraven</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="526"/>
+        <location filename="../../../src/qml/pages/WaypointLibraryPage.qml" line="527"/>
         <source>Waypoint added</source>
         <translation>Navigační bod přidán</translation>
     </message>
@@ -7974,7 +8084,7 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>Weather</name>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="32"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="35"/>
         <source>Weather</source>
         <translation>Počasí</translation>
     </message>
@@ -7987,27 +8097,27 @@ můžeme získat.&lt;/p&gt;
         <translation type="vanished">&lt;h3&gt;Probíhá stahování ...&lt;/h3&gt;&lt;p&gt;Čekejte prosím, stahujeme METAR/TAF údaje z Aviation Weather Center...&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="183"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="188"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No METAR/TAF data available. Updates will be requested automatically.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;METAR/TAF údaje nejsou k dispozici. Aktualizace budou vyžádány automaticky.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="184"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="189"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No weather stations match your filter.&lt;/p&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="208"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="213"/>
         <source>&lt;p&gt;Failed to update the list of weather stations.&lt;/p&gt;&lt;p&gt;Reason: %1.&lt;/p&gt;</source>
         <translation>&lt;p&gt;Chyba při stahování seznamu meteorologických stanic.&lt;/p&gt;&lt;p&gt;Důvod: %1.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="209"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="214"/>
         <source>Update Error</source>
         <translation>Chyba při aktualizaci</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Weather.qml" line="259"/>
+        <location filename="../../../src/qml/pages/Weather.qml" line="264"/>
         <source>Downloading data...</source>
         <translation>Stahuji údaje...</translation>
     </message>
@@ -8028,19 +8138,19 @@ můžeme získat.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="91"/>
         <location filename="../../../src/weather/Decoder.cpp" line="148"/>
         <location filename="../../../src/weather/Decoder.cpp" line="277"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="352"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="396"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="424"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="447"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="599"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="624"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="943"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1085"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1137"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1169"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1214"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1924"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1967"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="360"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="404"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="432"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="455"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="607"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="632"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="951"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1093"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1145"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1177"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1222"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1932"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1975"/>
         <source>not reported</source>
         <translation>není hlášena</translation>
     </message>
@@ -8126,2742 +8236,2742 @@ můžeme získat.&lt;/p&gt;
         <translation>žádná hodnota</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="336"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="344"/>
         <source>trace amount</source>
         <translation>stopové množství</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="344"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="352"/>
         <source>[unable to convert precipitation to mm]</source>
         <translation>[nelze převést srážky na mm]</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="360"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="368"/>
         <source>[unable to convert pressure to hPa]</source>
         <translation>[nelze převést tlak na hPa]</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="367"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="375"/>
         <source>all runways</source>
         <translation>všechny dráhy</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="370"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="378"/>
         <source>same runway (repetition of last message)</source>
         <translation>stejná dráha (opakování poslední zprávy)</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="376"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="384"/>
         <source>runway %1</source>
         <translation>dráha %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="379"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="387"/>
         <source>runway %1 LEFT</source>
         <translation>dráha %1 LEVÁ</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="382"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="390"/>
         <source>runway %1 CENTER</source>
         <translation>dráha %1 STŘEDOVÁ</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="385"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="393"/>
         <source>runway %1 RIGHT</source>
         <translation>dráha %1 PRAVÁ</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="406"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="414"/>
         <source>[unable to convert speed to km/h]</source>
         <translation>[nelze převést rychlost na km/h]</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="414"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="422"/>
         <source>[unable to convert speed to knots]</source>
         <translation>[nelze převést rychlost na uzly]</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="429"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="437"/>
         <source>friction coefficient %1</source>
         <translation>koeficient tření %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="431"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="439"/>
         <source>[unable to produce a friction coefficient]</source>
         <translation>[nelze získat koeficient tření]</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="434"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="442"/>
         <source>braking action %1</source>
         <translation>brzdný účinek %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="437"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="445"/>
         <source>unreliable or unmeasurable</source>
         <translation>nespolehlivé nebo neměřitelné</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="450"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="458"/>
         <source>[unable to convert temperature to °C]</source>
         <translation>[nelze převést teplotu na °C]</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="461"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="469"/>
         <source>slightly less than %1</source>
         <translation>trochu méně než %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="464"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="472"/>
         <source>slightly more than %1</source>
         <translation>trochu více než %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="475"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="483"/>
         <source>state of sea surface: %1</source>
         <translation>stav mořské hladiny: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="483"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="491"/>
         <source>wave height: %1 m</source>
         <translation>výška vln: %1 m</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="485"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="493"/>
         <source>[unable to convert wave height to meters]</source>
         <translation>[nelze převést výšku vln na metry]</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="487"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="495"/>
         <source>wave height not reported</source>
         <translation>výška vln nenahlášena</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="522"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="530"/>
         <source>shower</source>
         <translation>přeháňka</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="527"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2010"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="535"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2018"/>
         <source>thunderstorm</source>
         <translation>bouřka</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="536"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="544"/>
         <source>recent %1</source>
         <translation>minulý %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="541"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="549"/>
         <source>%1 in the vicinity</source>
         <translation>%1 v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="568"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="576"/>
         <source>began:</source>
         <translation>začátek:</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="576"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="584"/>
         <source>ended:</source>
         <translation>konec:</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="602"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="610"/>
         <source>poor (friction coefficient 0.0 to 0.25)</source>
         <translation>špatný (koeficient tření 0.0 až 0.25)</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="605"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="613"/>
         <source>medium/poor (friction coefficient 0.26 to 0.29)</source>
         <translation>střední/špatný (koeficient tření 0.26 až 0.29)</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="608"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="616"/>
         <source>medium (friction coefficient 0.30 to 0.35)</source>
         <translation>střední (koeficient tření 0.30 až 0.35)</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="611"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="619"/>
         <source>medium/good (friction coefficient 0.36 to 0.40)</source>
         <translation>střední/dobrý (koeficient tření 0.36 až 0.40)</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="614"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="622"/>
         <source>good (friction coefficient 0.40 to 1.00)</source>
         <translation>dobrý (koeficient tření 0.40 až 1.00)</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="627"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="635"/>
         <source>north</source>
         <translation>sever</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="630"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="638"/>
         <source>south</source>
         <translation>jih</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="633"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="641"/>
         <source>west</source>
         <translation>západ</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="636"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="644"/>
         <source>east</source>
         <translation>východ</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="639"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="647"/>
         <source>northwest</source>
         <translation>severozápad</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="642"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="650"/>
         <source>northeast</source>
         <translation>severovýchod</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="645"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="653"/>
         <source>southwest</source>
         <translation>jihozápad</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="648"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="656"/>
         <source>southeast</source>
         <translation>jihovýchod</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="651"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="659"/>
         <source>true north</source>
         <translation>skutečný sever</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="654"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="662"/>
         <source>true west</source>
         <translation>skutečný západ</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="657"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="665"/>
         <source>true south</source>
         <translation>skutečný jih</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="660"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="668"/>
         <source>true east</source>
         <translation>skutečný východ</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="663"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="671"/>
         <source>no directional variations</source>
         <translation>bez směrového kolísání</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="685"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="693"/>
         <source>Cloud amount not reported</source>
         <translation>Množství oblačnosti nehlášeno</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="688"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="696"/>
         <source>No significant cloud</source>
         <translation>Bez význačné oblačnosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="691"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="699"/>
         <source>No cloud detected</source>
         <translation>Bez pozorované oblačnosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="695"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="703"/>
         <source>Clear sky</source>
         <translation>Jasná obloha</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="698"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="706"/>
         <source>Few clouds</source>
         <translation>Skoro jasno</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="701"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="709"/>
         <source>Scattered clouds</source>
         <translation>Polojasno</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="704"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="712"/>
         <source>Broken clouds</source>
         <translation>Skoro zataženo</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="707"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="715"/>
         <source>Overcast clouds</source>
         <translation>Zataženo</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="710"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="718"/>
         <source>Sky obscured</source>
         <translation>Obloha zastřena</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="713"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="721"/>
         <source>Few -- scattered clouds</source>
         <translation type="unfinished">Skoro jasno -- polojasno</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="716"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="724"/>
         <source>Scattered -- broken clouds</source>
         <translation type="unfinished">Polojasno -- skoro zataženo</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="719"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="727"/>
         <source>Broken -- overcast clouds</source>
         <translation type="unfinished">Skoro zataženo -- zataženo</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="729"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="737"/>
         <source>No high-layer clouds</source>
         <translation type="unfinished">Bez oblačnosti vysokého patra</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="732"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="740"/>
         <source>Cirrus fibratus or Cirrus uncinus</source>
         <translation type="unfinished">Cirrus fibratus nebo Cirrus uncinus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="735"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="743"/>
         <source>Cirrus spissatus or Cirrus castellanus or Cirrus floccus</source>
         <translation type="unfinished">Cirrus spissatus nebo Cirrus castellanus nebo Cirrus floccus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="738"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="746"/>
         <source>Cirrus spissatus cumulonimbogenitus</source>
         <translation type="unfinished">Cirrus spissatus cumulonimbogenitus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="741"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="749"/>
         <source>Cirrus uncinus or Cirrus fibratus progressively invading the sky</source>
         <translation type="unfinished">Cirrus uncinus nebo Cirrus fibratus postupně pokrývající oblohu</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="744"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="752"/>
         <source>Cirrus or Cirrostratus progressively invading the sky, but the continuous veil does not reach 45° above the horizon</source>
         <translation type="unfinished">Cirrus nebo Cirrostratus postupně pokrývající oblohu, souvislý závoj však nedosahuje 45° nad obzor</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="747"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="755"/>
         <source>Cirrus or Cirrostratus progressively invading the sky, the continuous veil extends more than 45° above the horizon, without the sky being totally covered</source>
         <translation type="unfinished">Cirrus nebo Cirrostratus postupně pokrývající oblohu, souvislý závoj přesahuje 45° nad obzor, aniž by obloha byla zcela pokryta</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="750"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="758"/>
         <source>Cirrostratus nebulosus or Cirrostratus fibratus covering the whole sky</source>
         <translation type="unfinished">Cirrostratus nebulosus nebo Cirrostratus fibratus pokrývající celou oblohu</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="753"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="761"/>
         <source>Cirrostratus that is not invading the sky and that does not completely cover the whole sky</source>
         <translation type="unfinished">Cirrostratus, který se nerozšiřuje po obloze a nepokrývá ji celou</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="756"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="764"/>
         <source>Cirrocumulus alone</source>
         <translation type="unfinished">Cirrocumulus samotný</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="759"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="839"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="767"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="847"/>
         <source>Clouds are not observable</source>
         <translation type="unfinished">Oblačnost nelze pozorovat</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="769"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="777"/>
         <source>No low layer clouds</source>
         <translation type="unfinished">Bez oblačnosti nízkého patra</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="772"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="780"/>
         <source>Cumulus humilis or Cumulus fractus</source>
         <translation type="unfinished">Cumulus humilis nebo Cumulus fractus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="775"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="783"/>
         <source>Cumulus clouds with moderate or significant vertical extent</source>
         <translation type="unfinished">Oblaky Cumulus se středním nebo značným vertikálním rozsahem</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="778"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="786"/>
         <source>Cumulonimbus calvus</source>
         <translation type="unfinished">Cumulonimbus calvus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="781"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="789"/>
         <source>Stratocumulus cumulogenitus</source>
         <translation type="unfinished">Stratocumulus cumulogenitus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="784"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="792"/>
         <source>Stratocumulus non-cumulogenitus</source>
         <translation type="unfinished">Stratocumulus jiný než cumulogenitus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="787"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="795"/>
         <source>Stratus nebulosus or Stratus fractus</source>
         <translation type="unfinished">Stratus nebulosus nebo Stratus fractus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="790"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="798"/>
         <source>Stratus fractus or Cumulus fractus</source>
         <translation type="unfinished">Stratus fractus nebo Cumulus fractus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="793"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="801"/>
         <source>Cumulus and Stratocumulus with bases at different levels</source>
         <translation type="unfinished">Cumulus a Stratocumulus se základnami v různých výškách</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="799"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="807"/>
         <source>Clouds are not observable due to fog, blowing dust or sand, or other similar phenomena</source>
         <translation type="unfinished">Oblačnost nelze pozorovat kvůli mlze, zvířenému prachu či písku nebo jiným podobným jevům</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="809"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="817"/>
         <source>No mid-layer clouds</source>
         <translation type="unfinished">Bez oblačnosti středního patra</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="812"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="820"/>
         <source>Altostratus translucidus</source>
         <translation type="unfinished">Altostratus translucidus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="815"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="823"/>
         <source>Altostratus opacus or Nimbostratus</source>
         <translation type="unfinished">Altostratus opacus nebo Nimbostratus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="818"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="826"/>
         <source>Altocumulus translucidus at a single level</source>
         <translation type="unfinished">Altocumulus translucidus v jedné hladině</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="821"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="829"/>
         <source>Patches of Altocumulus translucidus</source>
         <translation type="unfinished">Skupiny oblaků Altocumulus translucidus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="824"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="832"/>
         <source>Altocumulus translucidus in bands</source>
         <translation type="unfinished">Altocumulus translucidus v pásech</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="827"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="835"/>
         <source>Altocumulus cumulogenitus or Altocumulus cumulonimbogenitus</source>
         <translation type="unfinished">Altocumulus cumulogenitus nebo Altocumulus cumulonimbogenitus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="830"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="838"/>
         <source>Altocumulus duplicatus, or Altocumulus opacus in a single layer</source>
         <translation type="unfinished">Altocumulus duplicatus nebo Altocumulus opacus v jedné vrstvě</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="833"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="841"/>
         <source>Altocumulus castellanus or Altocumulus floccus</source>
         <translation type="unfinished">Altocumulus castellanus nebo Altocumulus floccus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="836"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="844"/>
         <source>Broken cloud sheets of ill-defined species or varieties</source>
         <translation type="unfinished">Protrhané vrstvy oblačnosti nejasně určitelných druhů nebo odrůd</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="849"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="857"/>
         <source>unknown cloud type</source>
         <translation type="unfinished">neznámý typ oblačnosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="852"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="949"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="860"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="957"/>
         <source>cumulonimbus</source>
         <translation type="unfinished">cumulonimbus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="855"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="946"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="863"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="954"/>
         <source>towering cumulus</source>
         <translation type="unfinished">věžovitý cumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="858"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="866"/>
         <source>cumulus</source>
         <translation type="unfinished">cumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="861"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="869"/>
         <source>cumulus fractus</source>
         <translation type="unfinished">cumulus fractus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="864"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="872"/>
         <source>stratocumulus</source>
         <translation type="unfinished">stratocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="867"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="875"/>
         <source>nimbostratus</source>
         <translation type="unfinished">nimbostratus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="870"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="878"/>
         <source>stratus</source>
         <translation type="unfinished">stratus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="873"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="881"/>
         <source>stratus fractus</source>
         <translation type="unfinished">stratus fractus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="876"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="884"/>
         <source>altostratus</source>
         <translation type="unfinished">altostratus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="879"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="887"/>
         <source>altocumulus</source>
         <translation type="unfinished">altocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="882"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="890"/>
         <source>altocumulus castellanus</source>
         <translation type="unfinished">altocumulus castellanus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="885"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="893"/>
         <source>cirrus</source>
         <translation type="unfinished">cirrus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="888"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="896"/>
         <source>cirrostratus</source>
         <translation type="unfinished">cirrostratus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="891"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="899"/>
         <source>cirrocumulus</source>
         <translation type="unfinished">cirrocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="894"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1703"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="902"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1711"/>
         <source>blowing snow</source>
         <translation type="unfinished">zvířený sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="897"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1299"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="905"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1307"/>
         <source>blowing dust</source>
         <translation type="unfinished">zvířený prach</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="900"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1622"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="908"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1630"/>
         <source>blowing sand</source>
         <translation type="unfinished">zvířený písek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="903"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2063"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="911"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2071"/>
         <source>ice crystals</source>
         <translation type="unfinished">ledové jehličky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="906"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1514"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2054"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="914"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1522"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2062"/>
         <source>rain</source>
         <translation type="unfinished">déšť</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="909"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1245"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2051"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="917"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1253"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2059"/>
         <source>drizzle</source>
         <translation type="unfinished">mrholení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="912"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2057"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="920"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2065"/>
         <source>snow</source>
         <translation type="unfinished">sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="915"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2066"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="923"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2074"/>
         <source>ice pellets</source>
         <translation type="unfinished">zmrzlý déšť</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="918"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2084"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="926"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2092"/>
         <source>smoke</source>
         <translation type="unfinished">kouř</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="921"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1326"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2081"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="929"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1334"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2089"/>
         <source>fog</source>
         <translation type="unfinished">mlha</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="924"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2078"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="932"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2086"/>
         <source>mist</source>
         <translation type="unfinished">kouřmo</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="927"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2096"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="935"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2104"/>
         <source>haze</source>
         <translation type="unfinished">zákal</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="930"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2087"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="938"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2095"/>
         <source>volcanic ash</source>
         <translation type="unfinished">vulkanický popel</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1002"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1010"/>
         <source>statute miles</source>
         <translation type="unfinished">pozemní míle</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1015"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1023"/>
         <source>Trace icing or no icing</source>
         <translation type="unfinished">Stopová nebo žádná námraza</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1018"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1026"/>
         <source>Light mixed icing</source>
         <translation type="unfinished">Slabá smíšená námraza</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1021"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1029"/>
         <source>Light rime icing in cloud</source>
         <translation type="unfinished">Slabá zrnitá námraza v oblačnosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1024"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1032"/>
         <source>Light clear icing in precipitation</source>
         <translation type="unfinished">Slabá průsvitná námraza v srážkách</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1027"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1035"/>
         <source>Moderate mixed icing</source>
         <translation type="unfinished">Mírná smíšená námraza</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1030"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1038"/>
         <source>Moderate rime icing in cloud</source>
         <translation type="unfinished">Mírná zrnitá námraza v oblačnosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1033"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1041"/>
         <source>Moderate clear icing in precipitation</source>
         <translation type="unfinished">Mírná průsvitná námraza v srážkách</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1036"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1044"/>
         <source>Severe mixed icing</source>
         <translation type="unfinished">Silná smíšená námraza</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1039"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1047"/>
         <source>Severe rime icing in cloud</source>
         <translation type="unfinished">Silná zrnitá námraza v oblačnosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1042"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1050"/>
         <source>Severe clear icing in precipitation</source>
         <translation type="unfinished">Silná průsvitná námraza v srážkách</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1045"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1053"/>
         <source>No turbulence</source>
         <translation type="unfinished">Bez turbulence</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1048"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1056"/>
         <source>Light turbulence</source>
         <translation type="unfinished">Slabá turbulence</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1051"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1059"/>
         <source>Occasional moderate turbulence in clear air</source>
         <translation type="unfinished">Občasná mírná turbulence v čistém ovzduší</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1054"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1062"/>
         <source>Frequent moderate turbulence in clear air</source>
         <translation type="unfinished">Častá mírná turbulence v čistém ovzduší</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1057"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1065"/>
         <source>Occasional moderate turbulence in cloud</source>
         <translation type="unfinished">Občasná mírná turbulence v oblačnosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1060"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1068"/>
         <source>Frequent moderate turbulence in cloud</source>
         <translation type="unfinished">Častá mírná turbulence v oblačnosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1063"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1071"/>
         <source>Occasional severe turbulence in clear air</source>
         <translation type="unfinished">Občasná silná turbulence v čistém ovzduší</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1066"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1074"/>
         <source>Frequent severe turbulence in clear air</source>
         <translation type="unfinished">Častá silná turbulence v čistém ovzduší</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1069"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1077"/>
         <source>Occasional severe turbulence in cloud</source>
         <translation type="unfinished">Občasná silná turbulence v oblačnosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1072"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1080"/>
         <source>Frequent severe turbulence in cloud</source>
         <translation type="unfinished">Častá silná turbulence v oblačnosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1075"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1083"/>
         <source>Extreme turbulence</source>
         <translation type="unfinished">Extrémní turbulence</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1088"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1096"/>
         <source>higher than</source>
         <translation type="unfinished">vyšší než</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1091"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1099"/>
         <source>higher or the same as</source>
         <translation type="unfinished">vyšší nebo stejný jako</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1094"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1102"/>
         <source>same as</source>
         <translation type="unfinished">stejný jako</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1097"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1105"/>
         <source>lower or the same as</source>
         <translation type="unfinished">nižší nebo stejný jako</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1100"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1108"/>
         <source>lower than</source>
         <translation type="unfinished">nižší než</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1110"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1118"/>
         <source>increasing, then decreasing</source>
         <translation type="unfinished">stoupající, poté klesající</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1113"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1121"/>
         <source>increasing more slowly</source>
         <translation type="unfinished">stoupající pomaleji</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1116"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1124"/>
         <source>increasing</source>
         <translation type="unfinished">stoupající</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1119"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1127"/>
         <source>increasing more rapidly</source>
         <translation type="unfinished">stoupající rychleji</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1122"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1130"/>
         <source>steady</source>
         <translation type="unfinished">setrvalý</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1125"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1133"/>
         <source>decreasing, then increasing</source>
         <translation type="unfinished">klesající, poté stoupající</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1128"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1136"/>
         <source>decreasing more slowly</source>
         <translation type="unfinished">klesající pomaleji</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1131"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1139"/>
         <source>decreasing</source>
         <translation type="unfinished">klesající</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1134"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1142"/>
         <source>decreasing more rapidly</source>
         <translation type="unfinished">klesající rychleji</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1140"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1148"/>
         <source>rising rapidly</source>
         <translation type="unfinished">rychle stoupající</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1143"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1151"/>
         <source>falling rapidly</source>
         <translation type="unfinished">rychle klesající</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1153"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1161"/>
         <source>Probability 30%</source>
         <translation type="unfinished">Pravděpodobnost 30 %</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1156"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1164"/>
         <source>Probability 40%</source>
         <translation type="unfinished">Pravděpodobnost 40 %</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1172"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1180"/>
         <source>clear and dry</source>
         <translation type="unfinished">čistá a suchá</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1175"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1183"/>
         <source>damp</source>
         <translation type="unfinished">vlhká</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1178"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1186"/>
         <source>wet and water patches</source>
         <translation type="unfinished">mokrá s kalužemi vody</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1181"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1189"/>
         <source>rime and frost covered</source>
         <translation type="unfinished">pokrytá jinovatkou a námrazou</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1184"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1192"/>
         <source>dry snow</source>
         <translation type="unfinished">suchý sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1187"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1195"/>
         <source>wet snow</source>
         <translation type="unfinished">mokrý sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1190"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1198"/>
         <source>slush</source>
         <translation type="unfinished">rozbředlý sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1193"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1201"/>
         <source>ice</source>
         <translation type="unfinished">led</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1196"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1204"/>
         <source>compacted or rolled snow</source>
         <translation type="unfinished">zhutněný nebo uježděný sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1199"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1207"/>
         <source>frozen ruts or ridges</source>
         <translation type="unfinished">zmrzlé koleje nebo hrboly</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1217"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1225"/>
         <source>none</source>
         <translation type="unfinished">žádné</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1248"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1256"/>
         <source>recent drizzle</source>
         <translation type="unfinished">nedávné mrholení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1251"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1259"/>
         <source>drizzle in the vicinity</source>
         <translation type="unfinished">mrholení v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1254"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1262"/>
         <source>light drizzle</source>
         <translation type="unfinished">slabé mrholení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1257"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1265"/>
         <source>moderate drizzle</source>
         <translation type="unfinished">mírné mrholení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1260"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1268"/>
         <source>heavy drizzle</source>
         <translation type="unfinished">silné mrholení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1272"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1280"/>
         <source>freezing drizzle</source>
         <translation type="unfinished">mrznoucí mrholení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1275"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1283"/>
         <source>freezing drizzle in the vicinity</source>
         <translation type="unfinished">mrznoucí mrholení v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1278"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1286"/>
         <source>light freezing drizzle</source>
         <translation type="unfinished">slabé mrznoucí mrholení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1281"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1289"/>
         <source>moderate freezing drizzle</source>
         <translation type="unfinished">mírné mrznoucí mrholení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1284"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1292"/>
         <source>heavy freezing drizzle</source>
         <translation type="unfinished">silné mrznoucí mrholení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1287"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1295"/>
         <source>recent freezing drizzle</source>
         <translation type="unfinished">nedávné mrznoucí mrholení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1302"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1310"/>
         <source>blowing dust in the vicinity</source>
         <translation type="unfinished">zvířený prach v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1305"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1313"/>
         <source>light blowing dust</source>
         <translation type="unfinished">slabý zvířený prach</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1308"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1316"/>
         <source>moderate blowing dust</source>
         <translation type="unfinished">mírný zvířený prach</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1311"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1319"/>
         <source>heavy blowing dust</source>
         <translation type="unfinished">silný zvířený prach</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1314"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1322"/>
         <source>recent blowing dust</source>
         <translation type="unfinished">nedávný zvířený prach</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1329"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1337"/>
         <source>freezing fog</source>
         <translation type="unfinished">mrznoucí mlha</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1332"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1340"/>
         <source>partial fog</source>
         <translation type="unfinished">částečná mlha</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1335"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1343"/>
         <source>patches of fog</source>
         <translation type="unfinished">chuchvalce mlhy</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1338"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1346"/>
         <source>shallow fog</source>
         <translation type="unfinished">přízemní mlha</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1352"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1360"/>
         <source>hail showers</source>
         <translation type="unfinished">kroupové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1355"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1363"/>
         <source>hail showers in the vicinity</source>
         <translation type="unfinished">kroupové přeháňky v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1358"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1366"/>
         <source>light hail showers</source>
         <translation type="unfinished">slabé kroupové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1361"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1369"/>
         <source>moderate hail showers</source>
         <translation type="unfinished">mírné kroupové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1364"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1372"/>
         <source>heavy hail showers</source>
         <translation type="unfinished">silné kroupové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1367"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1375"/>
         <source>recent hail showers</source>
         <translation type="unfinished">nedávné kroupové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1379"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1387"/>
         <source>thunderstorm with hail</source>
         <translation type="unfinished">bouřka s kroupami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1382"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1390"/>
         <source>thunderstorm with hail in the vicinity</source>
         <translation type="unfinished">bouřka s kroupami v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1385"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1393"/>
         <source>light thunderstorm with hail</source>
         <translation type="unfinished">slabá bouřka s kroupami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1388"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1396"/>
         <source>moderate thunderstorm with hail</source>
         <translation type="unfinished">mírná bouřka s kroupami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1391"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1399"/>
         <source>heavy thunderstorm with hail</source>
         <translation type="unfinished">silná bouřka s kroupami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1394"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1402"/>
         <source>recent thunderstorm with hail</source>
         <translation type="unfinished">nedávná bouřka s kroupami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1406"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1414"/>
         <source>ice pellet precipitation</source>
         <translation type="unfinished">srážky zmrzlého deště</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1409"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1417"/>
         <source>ice pellet precipitation in the vicinity</source>
         <translation type="unfinished">srážky zmrzlého deště v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1412"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1420"/>
         <source>light ice pellet precipitation</source>
         <translation type="unfinished">slabé srážky zmrzlého deště</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1415"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1423"/>
         <source>moderate ice pellet precipitation</source>
         <translation type="unfinished">mírné srážky zmrzlého deště</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1418"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1426"/>
         <source>heavy ice pellet precipitation</source>
         <translation type="unfinished">silné srážky zmrzlého deště</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1421"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1429"/>
         <source>recent ice pellet precipitation</source>
         <translation type="unfinished">nedávné srážky zmrzlého deště</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1433"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1441"/>
         <source>precipitation</source>
         <translation type="unfinished">srážky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1436"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1444"/>
         <source>light precipitation</source>
         <translation type="unfinished">slabé srážky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1439"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1447"/>
         <source>moderate precipitation</source>
         <translation type="unfinished">mírné srážky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1442"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1450"/>
         <source>heavy precipitation</source>
         <translation type="unfinished">silné srážky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1445"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1453"/>
         <source>recent precipitation</source>
         <translation type="unfinished">nedávné srážky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1448"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1456"/>
         <source>precipitation in the vicinity</source>
         <translation type="unfinished">srážky v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1460"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1468"/>
         <source>showers with undetermined precipitation</source>
         <translation type="unfinished">přeháňky s neurčeným druhem srážek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1463"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1471"/>
         <source>recent showers with undetermined precipitation</source>
         <translation type="unfinished">nedávné přeháňky s neurčeným druhem srážek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1466"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1474"/>
         <source>showers in the vicinity with undetermined precipitation</source>
         <translation type="unfinished">přeháňky s neurčeným druhem srážek v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1469"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1477"/>
         <source>light showers with undetermined precipitation</source>
         <translation type="unfinished">slabé přeháňky s neurčeným druhem srážek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1472"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1480"/>
         <source>moderate showers with undetermined precipitation</source>
         <translation type="unfinished">mírné přeháňky s neurčeným druhem srážek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1475"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1483"/>
         <source>heavy showers with undetermined precipitation</source>
         <translation type="unfinished">silné přeháňky s neurčeným druhem srážek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1487"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1495"/>
         <source>thunderstorm with precipitation</source>
         <translation type="unfinished">bouřka se srážkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1490"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1498"/>
         <source>recent thunderstorm with precipitation</source>
         <translation type="unfinished">nedávná bouřka se srážkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1493"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1501"/>
         <source>thunderstorm with precipitation in the vicinity</source>
         <translation type="unfinished">bouřka se srážkami v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1496"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1504"/>
         <source>light thunderstorm with precipitation</source>
         <translation type="unfinished">slabá bouřka se srážkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1499"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1507"/>
         <source>moderate thunderstorm with precipitation</source>
         <translation type="unfinished">mírná bouřka se srážkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1502"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1510"/>
         <source>heavy thunderstorm with precipitation</source>
         <translation type="unfinished">silná bouřka se srážkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1517"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1525"/>
         <source>rain in the vicinity</source>
         <translation type="unfinished">déšť v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1520"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1528"/>
         <source>light rain</source>
         <translation type="unfinished">slabý déšť</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1523"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1531"/>
         <source>moderate rain</source>
         <translation type="unfinished">mírný déšť</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1526"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1534"/>
         <source>heavy rain</source>
         <translation type="unfinished">silný déšť</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1529"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1537"/>
         <source>recent rain</source>
         <translation type="unfinished">nedávný déšť</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1541"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1549"/>
         <source>freezing rain</source>
         <translation type="unfinished">mrznoucí déšť</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1544"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1552"/>
         <source>light freezing rain</source>
         <translation type="unfinished">slabý mrznoucí déšť</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1547"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1555"/>
         <source>moderate freezing rain</source>
         <translation type="unfinished">mírný mrznoucí déšť</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1550"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1558"/>
         <source>heavy freezing rain</source>
         <translation type="unfinished">silný mrznoucí déšť</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1553"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1561"/>
         <source>recent freezing rain</source>
         <translation type="unfinished">nedávný mrznoucí déšť</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1556"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1564"/>
         <source>freezing rain in the vicinity</source>
         <translation type="unfinished">mrznoucí déšť v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1568"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1576"/>
         <source>rain showers</source>
         <translation type="unfinished">dešťové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1571"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1579"/>
         <source>rain showers in the vicinity</source>
         <translation type="unfinished">dešťové přeháňky v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1574"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1582"/>
         <source>light rain showers</source>
         <translation type="unfinished">slabé dešťové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1577"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1585"/>
         <source>moderate rain showers</source>
         <translation type="unfinished">mírné dešťové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1580"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1588"/>
         <source>heavy rain showers</source>
         <translation type="unfinished">silné dešťové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1583"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1591"/>
         <source>recent rain showers</source>
         <translation type="unfinished">nedávné dešťové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1595"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1603"/>
         <source>thunderstorm with rain</source>
         <translation type="unfinished">bouřka s deštěm</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1598"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1606"/>
         <source>thunderstorm with rain in the vicinity</source>
         <translation type="unfinished">bouřka s deštěm v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1601"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1609"/>
         <source>light thunderstorm with rain</source>
         <translation type="unfinished">slabá bouřka s deštěm</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1604"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1612"/>
         <source>moderate thunderstorm with rain</source>
         <translation type="unfinished">mírná bouřka s deštěm</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1607"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1615"/>
         <source>heavy thunderstorm with rain</source>
         <translation type="unfinished">silná bouřka s deštěm</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1610"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1618"/>
         <source>recent thunderstorm with rain</source>
         <translation type="unfinished">nedávná bouřka s deštěm</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1625"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1633"/>
         <source>blowing sand in the vicinity</source>
         <translation type="unfinished">zvířený písek v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1628"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1636"/>
         <source>light blowing sand</source>
         <translation type="unfinished">slabě zvířený písek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1631"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1639"/>
         <source>moderate blowing sand</source>
         <translation type="unfinished">mírně zvířený písek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1634"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1642"/>
         <source>heavy blowing sand</source>
         <translation type="unfinished">silně zvířený písek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1637"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1645"/>
         <source>recent blowing sand</source>
         <translation type="unfinished">nedávno zvířený písek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1649"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1657"/>
         <source>low drifting sand</source>
         <translation type="unfinished">nízko zvířený písek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1652"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1660"/>
         <source>low drifting sand in the vicinity</source>
         <translation type="unfinished">nízko zvířený písek v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1655"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1663"/>
         <source>light low drifting sand</source>
         <translation type="unfinished">slabě nízko zvířený písek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1658"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1666"/>
         <source>moderate low drifting sand</source>
         <translation type="unfinished">mírně nízko zvířený písek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1661"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1669"/>
         <source>heavy low drifting sand</source>
         <translation type="unfinished">silně nízko zvířený písek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1664"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1672"/>
         <source>recent low drifting sand</source>
         <translation type="unfinished">nedávno nízko zvířený písek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1676"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1684"/>
         <source>snowfall</source>
         <translation type="unfinished">sněžení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1679"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1687"/>
         <source>snowfall in the vicinity</source>
         <translation type="unfinished">sněžení v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1682"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1690"/>
         <source>light snowfall</source>
         <translation type="unfinished">slabé sněžení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1685"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1693"/>
         <source>moderate snowfall</source>
         <translation type="unfinished">mírné sněžení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1688"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1696"/>
         <source>heavy snowfall</source>
         <translation type="unfinished">silné sněžení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1691"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1699"/>
         <source>recent snowfall</source>
         <translation type="unfinished">nedávné sněžení</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1706"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1714"/>
         <source>blowing snow in the vicinity</source>
         <translation type="unfinished">zvířený sníh v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1709"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1717"/>
         <source>light blowing snow</source>
         <translation type="unfinished">slabě zvířený sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1712"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1720"/>
         <source>moderate blowing snow</source>
         <translation type="unfinished">mírně zvířený sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1715"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1723"/>
         <source>heavy blowing snow</source>
         <translation type="unfinished">silně zvířený sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1718"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1726"/>
         <source>recent blowing snow</source>
         <translation type="unfinished">nedávno zvířený sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1730"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1738"/>
         <source>snow grain precipitation</source>
         <translation type="unfinished">srážky ve formě sněhových zrn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1733"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1741"/>
         <source>snow grain precipitation in the vicinity</source>
         <translation type="unfinished">srážky ve formě sněhových zrn v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1736"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1744"/>
         <source>light snow grain precipitation</source>
         <translation type="unfinished">slabé srážky ve formě sněhových zrn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1739"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1747"/>
         <source>moderate snow grain precipitation</source>
         <translation type="unfinished">mírné srážky ve formě sněhových zrn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1742"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1750"/>
         <source>heavy snow grain precipitation</source>
         <translation type="unfinished">silné srážky ve formě sněhových zrn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1745"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1753"/>
         <source>recent snow grain precipitation</source>
         <translation type="unfinished">nedávné srážky ve formě sněhových zrn</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1757"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1765"/>
         <source>low drifting snow</source>
         <translation type="unfinished">nízko zvířený sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1760"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1768"/>
         <source>low drifting snow in the vicinity</source>
         <translation type="unfinished">nízko zvířený sníh v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1763"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1771"/>
         <source>light low drifting snow</source>
         <translation type="unfinished">slabě nízko zvířený sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1766"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1774"/>
         <source>moderate low drifting snow</source>
         <translation type="unfinished">mírně nízko zvířený sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1769"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1777"/>
         <source>heavy low drifting snow</source>
         <translation type="unfinished">silně nízko zvířený sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1772"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1780"/>
         <source>recent low drifting snow</source>
         <translation type="unfinished">nedávno nízko zvířený sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1784"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1792"/>
         <source>freezing snow</source>
         <translation type="unfinished">namrzající sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1787"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1795"/>
         <source>freezing snow in the vicinity</source>
         <translation type="unfinished">namrzající sníh v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1790"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1798"/>
         <source>light freezing snow</source>
         <translation type="unfinished">slabý namrzající sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1793"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1801"/>
         <source>moderate freezing snow</source>
         <translation type="unfinished">mírný namrzající sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1796"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1804"/>
         <source>heavy freezing snow</source>
         <translation type="unfinished">silný namrzající sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1799"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1807"/>
         <source>recent freezing snow</source>
         <translation type="unfinished">nedávný namrzající sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1811"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1819"/>
         <source>snow showers</source>
         <translation type="unfinished">sněhové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1814"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1822"/>
         <source>snow showers in the vicinity</source>
         <translation type="unfinished">sněhové přeháňky v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1817"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1825"/>
         <source>light snow showers</source>
         <translation type="unfinished">slabé sněhové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1820"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1828"/>
         <source>moderate snow showers</source>
         <translation type="unfinished">mírné sněhové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1823"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1831"/>
         <source>heavy snow showers</source>
         <translation type="unfinished">silné sněhové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1826"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1834"/>
         <source>recent snow showers</source>
         <translation type="unfinished">nedávné sněhové přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1838"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1846"/>
         <source>thunderstorm with snow</source>
         <translation type="unfinished">bouřka se sněžením</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1841"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1849"/>
         <source>thunderstorm with snow in the vicinity</source>
         <translation type="unfinished">bouřka se sněžením v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1844"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1852"/>
         <source>light thunderstorm with snow</source>
         <translation type="unfinished">slabá bouřka se sněžením</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1847"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1855"/>
         <source>moderate thunderstorm with snow</source>
         <translation type="unfinished">mírná bouřka se sněžením</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1850"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1858"/>
         <source>heavy thunderstorm with snow</source>
         <translation type="unfinished">silná bouřka se sněžením</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1853"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1861"/>
         <source>recent thunderstorm with snow</source>
         <translation type="unfinished">nedávná bouřka se sněžením</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1865"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1873"/>
         <source>shower with small hail</source>
         <translation type="unfinished">přeháňka s krupkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1868"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1876"/>
         <source>shower with small hail in the vicinity</source>
         <translation type="unfinished">přeháňka s krupkami v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1871"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1879"/>
         <source>light shower with small hail</source>
         <translation type="unfinished">slabá přeháňka s krupkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1874"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1882"/>
         <source>moderate shower with small hail</source>
         <translation type="unfinished">mírná přeháňka s krupkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1877"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1885"/>
         <source>heavy shower with small hail</source>
         <translation type="unfinished">silná přeháňka s krupkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1880"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1888"/>
         <source>recent shower with small hail</source>
         <translation type="unfinished">nedávná přeháňka s krupkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1892"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1900"/>
         <source>thunderstorm with small hail</source>
         <translation type="unfinished">bouřka s krupkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1895"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1903"/>
         <source>thunderstorm with small hail in the vicinity</source>
         <translation type="unfinished">bouřka s krupkami v blízkosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1898"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1906"/>
         <source>light thunderstorm with small hail</source>
         <translation type="unfinished">slabá bouřka s krupkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1901"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1909"/>
         <source>moderate thunderstorm with small hail</source>
         <translation type="unfinished">mírná bouřka s krupkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1904"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1912"/>
         <source>heavy thunderstorm with small hail</source>
         <translation type="unfinished">silná bouřka s krupkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1907"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1915"/>
         <source>recent thunderstorm with small hail</source>
         <translation type="unfinished">nedávná bouřka s krupkami</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1927"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1935"/>
         <source>calm (glassy), no waves</source>
         <translation type="unfinished">klidné (zrcadlová hladina), bez vln</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1930"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1938"/>
         <source>calm (rippled), wave height &lt;0.1 meters</source>
         <translation type="unfinished">klidné (zčeřená hladina), výška vln &lt;0,1 metru</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1933"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1941"/>
         <source>smooth, wave height 0.1 to 0.5 meters</source>
         <translation type="unfinished">hladké, výška vln 0,1 až 0,5 metru</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1936"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1944"/>
         <source>slight, wave height 0.5 to 1.25 meters</source>
         <translation type="unfinished">mírně zvlněné, výška vln 0,5 až 1,25 metru</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1939"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1947"/>
         <source>moderate, wave height 1.25 to 2.5 meters</source>
         <translation type="unfinished">středně zvlněné, výška vln 1,25 až 2,5 metru</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1942"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1950"/>
         <source>rough, wave height 2.5 to 4 meters</source>
         <translation type="unfinished">rozbouřené, výška vln 2,5 až 4 metry</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1945"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1953"/>
         <source>very rough, wave height 4 to 6 meters</source>
         <translation type="unfinished">velmi rozbouřené, výška vln 4 až 6 metrů</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1948"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1956"/>
         <source>high, wave height 6 to 9 meters</source>
         <translation type="unfinished">vysoké, výška vln 6 až 9 metrů</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1951"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1959"/>
         <source>very high, wave height 9 to 14 meters</source>
         <translation type="unfinished">velmi vysoké, výška vln 9 až 14 metrů</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1954"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1962"/>
         <source>phenomenal, wave height &gt;14 meters</source>
         <translation type="unfinished">mimořádné, výška vln &gt;14 metrů</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1971"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1979"/>
         <source>upward</source>
         <extracomment>visibility trend</extracomment>
         <translation type="unfinished">stoupající</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1975"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1983"/>
         <source>neutral</source>
         <extracomment>visibility trend</extracomment>
         <translation type="unfinished">neutrální</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1979"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="1987"/>
         <source>downward</source>
         <extracomment>visibility trend</extracomment>
         <translation type="unfinished">klesající</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1992"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2000"/>
         <source>shallow</source>
         <translation type="unfinished">přízemní</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1995"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2003"/>
         <source>partial</source>
         <translation type="unfinished">částečná</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1998"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2006"/>
         <source>patches</source>
         <translation type="unfinished">chuchvalce</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2001"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2009"/>
         <source>low drifting</source>
         <translation type="unfinished">nízko zvířený</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2004"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2012"/>
         <source>blowing</source>
         <translation type="unfinished">zvířený</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2007"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2015"/>
         <source>showers</source>
         <translation type="unfinished">přeháňky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2013"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2021"/>
         <source>freezing</source>
         <translation type="unfinished">namrzající</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2032"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2040"/>
         <source>light</source>
         <translation type="unfinished">slabý</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2035"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2043"/>
         <source>moderate</source>
         <translation type="unfinished">mírný</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2038"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2046"/>
         <source>heavy</source>
         <translation type="unfinished">silný</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2060"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2068"/>
         <source>snow grains</source>
         <translation type="unfinished">sněhová zrna</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2069"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2077"/>
         <source>hail</source>
         <translation type="unfinished">kroupy</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2072"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2080"/>
         <source>small hail</source>
         <translation type="unfinished">krupky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2075"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2083"/>
         <source>undetermined precipitation</source>
         <translation type="unfinished">neurčené srážky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2090"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2098"/>
         <source>dust</source>
         <translation type="unfinished">prach</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2093"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2101"/>
         <source>sand</source>
         <translation type="unfinished">písek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2099"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2107"/>
         <source>spray</source>
         <translation type="unfinished">vodní tříšť</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2102"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2110"/>
         <source>dust or sand whirls</source>
         <translation type="unfinished">prachové nebo písečné víry</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2105"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2113"/>
         <source>squalls</source>
         <translation type="unfinished">húlavy</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2108"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2116"/>
         <source>funnel cloud</source>
         <translation type="unfinished">nálevkovitý oblak</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2111"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2119"/>
         <source>sand storm</source>
         <translation type="unfinished">písečná bouře</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2114"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2122"/>
         <source>dust storm</source>
         <translation type="unfinished">prachová bouře</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2126"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2239"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2256"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2316"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2335"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2409"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2419"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2431"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2469"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2623"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2706"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2740"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2767"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2777"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2816"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2828"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2851"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2960"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2970"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="3079"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="3225"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="3277"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2134"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2247"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2264"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2324"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2343"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2417"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2427"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2439"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2477"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2631"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2714"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2748"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2775"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2785"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2824"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2836"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2859"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2968"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2978"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3087"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3233"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3285"/>
         <source>Invalid data</source>
         <translation type="unfinished">Neplatné údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2140"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2148"/>
         <source>%1 (%2) in %3 AGL</source>
         <translation type="unfinished">%1 (%2) ve výšce %3 AGL</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2145"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2153"/>
         <source>%1 in %2 AGL</source>
         <translation type="unfinished">%1 ve výšce %2 AGL</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2150"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2158"/>
         <source>Vertical visibility %1</source>
         <translation type="unfinished">Vertikální dohlednost %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2156"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2164"/>
         <source>Ceiling height %1 AGL at %2 towards %3</source>
         <translation type="unfinished">Výška základny oblačnosti %1 AGL u %2 směrem na %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2163"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2171"/>
         <source>Ceiling height %1 AGL at %2</source>
         <translation type="unfinished">Výška základny oblačnosti %1 AGL u %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2169"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2177"/>
         <source>Ceiling height %1 AGL towards %2</source>
         <translation type="unfinished">Výška základny oblačnosti %1 AGL směrem na %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2173"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2181"/>
         <source>Ceiling height %1</source>
         <translation type="unfinished">Výška základny oblačnosti %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2179"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2187"/>
         <source>Ceiling height %1 -- %2 AGL at %3 towards %4</source>
         <translation type="unfinished">Výška základny oblačnosti %1 -- %2 AGL u %3 směrem na %4</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2187"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2195"/>
         <source>Ceiling height %1 -- %2 AGL at %3</source>
         <translation type="unfinished">Výška základny oblačnosti %1 -- %2 AGL u %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2194"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2202"/>
         <source>Ceiling height %1 -- %2 AGL towards %3</source>
         <translation type="unfinished">Výška základny oblačnosti %1 -- %2 AGL směrem na %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2199"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2207"/>
         <source>Ceiling height %1 -- %2 AGL</source>
         <translation type="unfinished">Výška základny oblačnosti %1 -- %2 AGL</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2204"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2212"/>
         <source>Ceiling data not available</source>
         <translation type="unfinished">Údaje o výšce základny oblačnosti nejsou k dispozici</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2207"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2215"/>
         <source>Sky condition data (cloud data) is missing</source>
         <translation type="unfinished">Údaje o stavu oblohy (údaje o oblačnosti) chybí</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2214"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2222"/>
         <source>Ground-based obscuration, %1</source>
         <translation type="unfinished">Přízemní zastření, %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2217"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2225"/>
         <source>Ground-based obscuration</source>
         <translation type="unfinished">Přízemní zastření</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2221"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2229"/>
         <source>Aloft obscuration, %1</source>
         <translation type="unfinished">Zastření ve výšce, %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2225"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2233"/>
         <source>Aloft obscuration</source>
         <translation type="unfinished">Zastření ve výšce</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2249"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2257"/>
         <source>Cloud layers: %1</source>
         <translation type="unfinished">Vrstvy oblačnosti: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2262"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2270"/>
         <source>Report type: METAR</source>
         <translation type="unfinished">Typ zprávy: METAR</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2265"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2273"/>
         <source>Report type: unscheduled METAR</source>
         <translation type="unfinished">Typ zprávy: mimořádný METAR</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2268"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2276"/>
         <source>Report type: TAF</source>
         <translation type="unfinished">Typ zprávy: TAF</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2271"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2279"/>
         <source>Amended report</source>
         <translation type="unfinished">Změněná zpráva</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2274"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2282"/>
         <source>Missing report</source>
         <translation type="unfinished">Chybějící zpráva</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2277"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2285"/>
         <source>Canceled report</source>
         <translation type="unfinished">Zrušená zpráva</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2280"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2288"/>
         <source>Correctional report</source>
         <translation type="unfinished">Opravená zpráva</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2283"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2291"/>
         <source>Automated report</source>
         <translation type="unfinished">Automatická zpráva</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2286"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2294"/>
         <source>CAVOK</source>
         <translation type="unfinished">CAVOK</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2289"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2297"/>
         <source>&lt;strong&gt;Remarks&lt;/strong&gt;</source>
         <translation type="unfinished">&lt;strong&gt;Poznámky&lt;/strong&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2292"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2300"/>
         <source>Automated station requires maintenance</source>
         <translation type="unfinished">Automatická stanice vyžaduje údržbu</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2295"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2303"/>
         <source>Automated station w/o precipitation discriminator</source>
         <translation type="unfinished">Automatická stanice bez rozlišovače druhu srážek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2298"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2306"/>
         <source>Automated station with precipitation discriminator</source>
         <translation type="unfinished">Automatická stanice s rozlišovačem druhu srážek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2301"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2309"/>
         <source>Automated station w/o precipitation discriminator, report augmented by a human observer</source>
         <translation type="unfinished">Automatická stanice bez rozlišovače druhu srážek, zpráva doplněna lidským pozorovatelem</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2304"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2312"/>
         <source>Automated station with precipitation discriminator, report augmented by a human observer</source>
         <translation type="unfinished">Automatická stanice s rozlišovačem druhu srážek, zpráva doplněna lidským pozorovatelem</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2307"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2315"/>
         <source>Manual station, does not issue SPECI reports</source>
         <translation type="unfinished">Manuální stanice, nevydává zprávy SPECI</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2321"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2329"/>
         <source>%1 at all heights</source>
         <translation type="unfinished">%1 ve všech výškách</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2325"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2333"/>
         <source>%1 at heights from %2 to %3.</source>
         <translation type="unfinished">%1 ve výškách od %2 do %3.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2339"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2347"/>
         <source>Lightning strikes observed.</source>
         <translation type="unfinished">Pozorovány údery blesků.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2343"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="3060"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2351"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3068"/>
         <source>Distance %1.</source>
         <translation type="unfinished">Vzdálenost %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2352"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2360"/>
         <source>Less than 1 strike per minute.</source>
         <translation type="unfinished">Méně než 1 úder za minutu.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2356"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2364"/>
         <source>1 -- 6 strikes per minute.</source>
         <translation type="unfinished">1 -- 6 úderů za minutu.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2360"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2368"/>
         <source>More than 6 strikes per minute.</source>
         <translation type="unfinished">Více než 6 úderů za minutu.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2368"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2376"/>
         <source>cloud-to-ground</source>
         <translation type="unfinished">oblak-země</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2371"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2379"/>
         <source>in-cloud</source>
         <translation type="unfinished">uvnitř oblaku</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2375"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2383"/>
         <source>cloud-to-cloud</source>
         <translation type="unfinished">oblak-oblak</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2379"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2387"/>
         <source>cloud-to-air without strike to ground</source>
         <translation type="unfinished">oblak-vzduch bez úderu do země</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2383"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2391"/>
         <source>Lightning types: %1.</source>
         <translation type="unfinished">Typy blesků: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2389"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2397"/>
         <source>Lightning strike types not recognized by parser.</source>
         <translation type="unfinished">Typy úderů blesků nebyly parserem rozpoznány.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2399"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2407"/>
         <source>Lightning strikes observed in the following directions: %1</source>
         <translation type="unfinished">Údery blesků pozorovány v následujících směrech: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2412"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2420"/>
         <source>Report for %1</source>
         <translation type="unfinished">Zpráva pro %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2422"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2430"/>
         <source>Low cloud layer: %1 • Mid cloud layer: %2 • High cloud layer: %3</source>
         <translation type="unfinished">Nízká oblačnost: %1 • Střední oblačnost: %2 • Vysoká oblačnost: %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2440"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2448"/>
         <source>Observed 6-hourly minimum/maximum temperature: %1/%2</source>
         <translation type="unfinished">Pozorovaná 6hodinová minimální/maximální teplota: %1/%2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2445"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2453"/>
         <source>Observed 24-hourly minimum/maximum temperature: %1/%2</source>
         <translation type="unfinished">Pozorovaná 24hodinová minimální/maximální teplota: %1/%2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2451"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2459"/>
         <source>Minimum forecast temperature: %1, expected at %2.</source>
         <translation type="unfinished">Minimální předpovídaná teplota: %1, očekávaná v %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2456"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2464"/>
         <source>Maximum forecast temperature: %1, expected at %2.</source>
         <translation type="unfinished">Maximální předpovídaná teplota: %1, očekávaná v %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2472"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2480"/>
         <source>Color code BLACK: aerodrome closed due to snow accumulation or non-weather reasons</source>
         <translation type="unfinished">Barevný kód BLACK: letiště uzavřeno kvůli sněhové pokrývce nebo z jiných než meteorologických důvodů</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2483"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2491"/>
         <source>Duration of sunshine that occurred the previous calendar day is %1 minutes.</source>
         <translation type="unfinished">Doba slunečního svitu za předchozí kalendářní den je %1 minut.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2486"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2494"/>
         <source>No sunshine occurred the previous calendar day</source>
         <translation type="unfinished">Předchozí kalendářní den bez slunečního svitu</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2493"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2501"/>
         <source>This report is the corrected weather observation, correction number is %1</source>
         <translation type="unfinished">Tato zpráva je opraveným meteorologickým pozorováním, číslo opravy je %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2500"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2508"/>
         <source>Density altitude is %1 feet</source>
         <translation type="unfinished">Hustotní výška je %1 stop</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2507"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2515"/>
         <source>Largest hailstone size is %1 inches</source>
         <translation type="unfinished">Velikost největší kroupy je %1 palců</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2516"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2524"/>
         <source>Color code BLUE: visibility &gt;8000 m and lowest cloud base height &gt;2500 ft</source>
         <translation type="unfinished">Barevný kód BLUE: dohlednost &gt;8000 m a výška základny nejnižší oblačnosti &gt;2500 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2526"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2534"/>
         <source>Color code BLUE+: visibility &gt;8000 m or lowest cloud base height &gt;2000 ft</source>
         <translation type="unfinished">Barevný kód BLUE+: dohlednost &gt;8000 m nebo výška základny nejnižší oblačnosti &gt;2000 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2536"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2544"/>
         <source>Color code YELLOW: visibility 1600-3700 m or lowest cloud base height 300-700 ft</source>
         <translation type="unfinished">Barevný kód YELLOW: dohlednost 1600-3700 m nebo výška základny nejnižší oblačnosti 300-700 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2546"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2554"/>
         <source>Color code WHITE: visibility &gt;5000 m and lowest cloud base height &gt;1500 ft</source>
         <translation type="unfinished">Barevný kód WHITE: dohlednost &gt;5000 m a výška základny nejnižší oblačnosti &gt;1500 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2556"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2564"/>
         <source>Color code GREEN: visibility &gt;3700 m and lowest cloud base height &gt;700 ft</source>
         <translation type="unfinished">Barevný kód GREEN: dohlednost &gt;3700 m a výška základny nejnižší oblačnosti &gt;700 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2566"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2574"/>
         <source>Color code YELLOW 1: visibility &gt;2500 m and lowest cloud base height &gt;500 ft</source>
         <translation type="unfinished">Barevný kód YELLOW 1: dohlednost &gt;2500 m a výška základny nejnižší oblačnosti &gt;500 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2576"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2584"/>
         <source>Color code YELLOW 2: visibility &gt;1600 m and lowest cloud base height &gt;300 ft</source>
         <translation type="unfinished">Barevný kód YELLOW 2: dohlednost &gt;1600 m a výška základny nejnižší oblačnosti &gt;300 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2586"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2594"/>
         <source>Color code AMBER: visibility &gt;800 m and lowest cloud base height &gt;200 ft</source>
         <translation type="unfinished">Barevný kód AMBER: dohlednost &gt;800 m a výška základny nejnižší oblačnosti &gt;200 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2596"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2604"/>
         <source>Color code RED: visibility &lt;800 m or lowest cloud base height &lt;200 ft</source>
         <translation type="unfinished">Barevný kód RED: dohlednost &lt;800 m nebo výška základny nejnižší oblačnosti &lt;200 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2600"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2608"/>
         <source>Frost on the instrument (e.g. due to freezing fog depositing rime).</source>
         <translation type="unfinished">Námraza na přístroji (např. jinovatka usazená mrznoucí mlhou).</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2607"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2615"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center Norfolk, VA.</source>
         <translation type="unfinished">Identifikátor vydavatele zprávy je %1. Tato předpověď je vydávána střediskem The Fleet Weather Center Norfolk, VA.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2614"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2622"/>
         <source>Report issuer identifier is %1. This forecast is issued at The Fleet Weather Center San Diego, CA (FS).</source>
         <translation type="unfinished">Identifikátor vydavatele zprávy je %1. Tato předpověď je vydávána střediskem The Fleet Weather Center San Diego, CA (FS).</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2629"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2637"/>
         <source>Total precipitation for the past hour: %1.</source>
         <translation type="unfinished">Celkový úhrn srážek za poslední hodinu: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2633"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2641"/>
         <source>Snow depth on ground: %1</source>
         <translation type="unfinished">Výška sněhové pokrývky: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2637"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2645"/>
         <source>Water equivalent of frozen precipitation for the last 3 or 6 hours: %1.</source>
         <translation type="unfinished">Vodní ekvivalent zmrzlých srážek za poslední 3 nebo 6 hodin: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2641"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2649"/>
         <source>Water equivalent of frozen precipitation for the last 3 hours: %1.</source>
         <translation type="unfinished">Vodní ekvivalent zmrzlých srážek za poslední 3 hodiny: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2645"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2653"/>
         <source>Water equivalent of frozen precipitation for the last 6 hours: %1.</source>
         <translation type="unfinished">Vodní ekvivalent zmrzlých srážek za posledních 6 hodin: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2649"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2657"/>
         <source>Water equivalent of frozen precipitation for the last 24 hours: %1.</source>
         <translation type="unfinished">Vodní ekvivalent zmrzlých srážek za posledních 24 hodin: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2653"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2661"/>
         <source>Snowfall for the last 6 hours: %1.</source>
         <translation type="unfinished">Úhrn sněžení za posledních 6 hodin: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2657"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2665"/>
         <source>Water equivalent of snow on ground: %1.</source>
         <translation type="unfinished">Vodní ekvivalent sněhu na zemi: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2661"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2669"/>
         <source>Ice accretion for the last hour: %1.</source>
         <translation type="unfinished">Přírůstek námrazy za poslední hodinu: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2665"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2673"/>
         <source>Ice accretion for the last 3 hours: %1.</source>
         <translation type="unfinished">Přírůstek námrazy za poslední 3 hodiny: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2669"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2677"/>
         <source>Ice accretion for the last 6 hours: %1.</source>
         <translation type="unfinished">Přírůstek námrazy za posledních 6 hodin: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2673"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2681"/>
         <source>Precipitation accumulation since last report: %1.</source>
         <translation type="unfinished">Úhrn srážek od poslední zprávy: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2677"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2685"/>
         <source>Snow increasing rapidly. For the last hour snow increased by %1. Total snowfall: %2.</source>
         <translation type="unfinished">Sníh rychle přibývá. Za poslední hodinu přibylo %1 sněhu. Celkový úhrn sněžení: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2682"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2690"/>
         <source>Rainfall for the last 10 minutes before report release time: %1. Rainfall since 9:00 local time: %2.</source>
         <translation type="unfinished">Úhrn deště za posledních 10 minut před vydáním zprávy: %1. Úhrn deště od 9:00 místního času: %2.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2687"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2695"/>
         <source>Tipping bucket rain gauge INOP.</source>
         <translation type="unfinished">Člunkový srážkoměr je mimo provoz.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2690"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2698"/>
         <source>Freezing rain sensor INOP.</source>
         <translation type="unfinished">Čidlo mrznoucího deště je mimo provoz.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2693"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2701"/>
         <source>Icing data is missing.</source>
         <translation type="unfinished">Údaje o námraze chybí.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2696"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2704"/>
         <source>Precipitation data is missing.</source>
         <translation type="unfinished">Údaje o srážkách chybí.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2712"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2720"/>
         <source>QNH: %1</source>
         <translation type="unfinished">QNH: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2715"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2723"/>
         <source>Forecast lowest QNH: %1</source>
         <translation type="unfinished">Předpovídané nejnižší QNH: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2719"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2727"/>
         <source>QFE: %1</source>
         <translation type="unfinished">QFE: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2723"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2731"/>
         <source>Standard sea level pressure: %1</source>
         <translation type="unfinished">Standardní tlak na hladině moře: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2727"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2735"/>
         <source>QNH is not available</source>
         <translation type="unfinished">QNH není k dispozici</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2731"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2739"/>
         <source>Atmospheric pressure data is missing</source>
         <translation type="unfinished">Chybí údaje o atmosférickém tlaku</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2746"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2754"/>
         <source>3-hour pressure tendency is not reported. Absolute pressure change is %1.</source>
         <translation type="unfinished">3hodinová tendence tlaku není hlášena. Absolutní změna tlaku je %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2751"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2759"/>
         <source>Atmospheric pressure is %1</source>
         <translation type="unfinished">Atmosférický tlak je %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2756"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2764"/>
         <source>During last 3 hours the atmospheric pressure was %1. Now the atmospheric pressure is %2 3h ago. Absolute pressure change is %3</source>
         <extracomment>Note: the string %2 will be replaced by a text such as &quot;less than&quot;</extracomment>
         <translation type="unfinished">Během posledních 3 hodin byl atmosférický tlak %1. Nyní je atmosférický tlak %2 před 3 h. Absolutní změna tlaku je %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2770"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2778"/>
         <source>Issued at %1</source>
         <translation type="unfinished">Vydáno v %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2780"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2788"/>
         <source>State of %1:</source>
         <translation type="unfinished">Stav %1:</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2788"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2796"/>
         <source>%1 of deposits, %2 of runway contaminated</source>
         <translation type="unfinished">%1 nánosů, znečištěno %2 dráhy</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2795"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2803"/>
         <source>deposits on runway were cleared or ceased to exist</source>
         <translation type="unfinished">nánosy na dráze byly odstraněny nebo zmizely</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2800"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2808"/>
         <source>runway closed due to snow accumulation</source>
         <translation type="unfinished">dráha uzavřena kvůli nahromadění sněhu</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2804"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2812"/>
         <source>Aerodrome closed due to snow accumulation</source>
         <translation type="unfinished">Letiště uzavřeno kvůli nahromadění sněhu</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2807"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2815"/>
         <source>runway is not operational</source>
         <translation type="unfinished">dráha není v provozu</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2819"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2827"/>
         <source>Sea surface temperature: %1, %2</source>
         <translation type="unfinished">Teplota mořské hladiny: %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2834"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2842"/>
         <source>Temperature %1, Dew point %2</source>
         <translation type="unfinished">Teplota %1, rosný bod %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2839"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2847"/>
         <source>Temperature data is missing</source>
         <translation type="unfinished">Chybí údaje o teplotě</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2842"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2850"/>
         <source>Dew point data is missing</source>
         <translation type="unfinished">Chybí údaje o rosném bodu</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2862"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2870"/>
         <source>No significant weather changes expected</source>
         <translation type="unfinished">Neočekávají se žádné význačné změny počasí</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2865"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2873"/>
         <source>Gradually changing</source>
         <translation type="unfinished">Postupná změna</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2868"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2885"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2876"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2893"/>
         <source>from %1</source>
         <translation type="unfinished">od %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2872"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2889"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2880"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2897"/>
         <source>until %1</source>
         <translation type="unfinished">do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2876"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="2893"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2884"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2901"/>
         <source>at %1</source>
         <translation type="unfinished">v %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2882"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2890"/>
         <source>Temporarily</source>
         <translation type="unfinished">Přechodně</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2906"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2914"/>
         <source>Forecast: rapid weather change at %1</source>
         <translation type="unfinished">Předpověď: rychlá změna počasí v %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2915"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2923"/>
         <source>Forecast until %1</source>
         <translation type="unfinished">Předpověď do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2924"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2932"/>
         <source>Forecast for %1</source>
         <translation type="unfinished">Předpověď pro %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2936"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2944"/>
         <source>Forecast from %1 to %2 (%3)</source>
         <translation type="unfinished">Předpověď od %1 do %2 (%3)</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2943"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2951"/>
         <source>Forecast from %1 to %2</source>
         <translation type="unfinished">Předpověď od %1 do %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2950"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2958"/>
         <source>Forecast %1</source>
         <translation type="unfinished">Předpověď %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2963"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2971"/>
         <source>Not recognized by parser: %1</source>
         <translation type="unfinished">Nerozpoznáno parserem: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2978"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2986"/>
         <source>Thunderstorm</source>
         <translation type="unfinished">Bouřka</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2982"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2990"/>
         <source>Cumulonimbus cloud(s)</source>
         <translation type="unfinished">Oblaky cumulonimbus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2986"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2994"/>
         <source>Cumulonimbus cloud(s) with mammatus</source>
         <translation type="unfinished">Oblaky cumulonimbus s mammatus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2990"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="2998"/>
         <source>Towering cumulus cloud(s)</source>
         <translation type="unfinished">Věžovité oblaky cumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2994"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3002"/>
         <source>Altocumulus cloud(s)</source>
         <translation type="unfinished">Oblaky altocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2998"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3006"/>
         <source>Stratocumulus standing lenticular cloud(s)</source>
         <translation type="unfinished">Stacionární čočkovité oblaky stratocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3002"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3010"/>
         <source>Altocumulus standing lenticular cloud(s)</source>
         <translation type="unfinished">Stacionární čočkovité oblaky altocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3006"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3014"/>
         <source>Cirrocumulus standing lenticular cloud(s)</source>
         <translation type="unfinished">Stacionární čočkovité oblaky cirrocumulus</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3010"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3018"/>
         <source>Rotor cloud(s)</source>
         <translation type="unfinished">Rotorové oblaky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3014"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3022"/>
         <source>Virga</source>
         <translation type="unfinished">Virga</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3018"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3026"/>
         <source>Precipitation</source>
         <translation type="unfinished">Srážky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3022"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3030"/>
         <source>Fog</source>
         <translation type="unfinished">Mlha</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3026"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3034"/>
         <source>Shallow fog</source>
         <translation type="unfinished">Přízemní mlha</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3030"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3038"/>
         <source>Patches of fog</source>
         <translation type="unfinished">Chuchvalce mlhy</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3034"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3042"/>
         <source>Haze</source>
         <translation type="unfinished">Zákal</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3038"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3046"/>
         <source>Smoke</source>
         <translation type="unfinished">Kouř</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3042"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3050"/>
         <source>Blowing snow</source>
         <translation type="unfinished">Zvířený sníh</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3046"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3054"/>
         <source>Blowing sand</source>
         <translation type="unfinished">Zvířený písek</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3050"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3058"/>
         <source>Blowing dust</source>
         <translation type="unfinished">Zvířený prach</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3056"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3064"/>
         <source>%1 observed.</source>
         <translation type="unfinished">Pozorováno: %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3064"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3072"/>
         <source>Directions: %1</source>
         <translation type="unfinished">Směry: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3069"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3077"/>
         <source>Moving towards %1.</source>
         <extracomment>%1 is string like &apos;west&apos;</extracomment>
         <translation type="unfinished">Pohybuje se směrem k %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3086"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3094"/>
         <source>Visibility is %1</source>
         <translation type="unfinished">Dohlednost je %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3090"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3098"/>
         <source>Visibility is %1. Station cannot differentiate the directional variation of visibility</source>
         <translation type="unfinished">Dohlednost je %1. Stanice nedokáže rozlišit směrové kolísání dohlednosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3098"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3106"/>
         <source>Visibility toward %1 is %2</source>
         <translation type="unfinished">Dohlednost směrem na %1 je %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3107"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3115"/>
         <source>Visibility for %1 is %2</source>
         <translation type="unfinished">Dohlednost pro %1 je %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3117"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3125"/>
         <source>Runway visual range for %1 is %2 and the trend is %3</source>
         <translation type="unfinished">Dráhová dohlednost pro %1 je %2 a tendence je %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3122"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3130"/>
         <source>Runway visual range for %1 is %2</source>
         <translation type="unfinished">Dráhová dohlednost pro %1 je %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3127"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3135"/>
         <source>Visibility at surface level is %1</source>
         <translation type="unfinished">Přízemní dohlednost je %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3131"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3139"/>
         <source>Visibility from air traffic control tower is %1</source>
         <translation type="unfinished">Dohlednost z řídicí věže je %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3135"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3143"/>
         <source>Sector visibility is %1 in the following directions %2</source>
         <translation type="unfinished">Sektorová dohlednost je %1 v následujících směrech %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3140"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3148"/>
         <source>Visibility is variable from %1 to %2</source>
         <translation type="unfinished">Dohlednost je proměnlivá od %1 do %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3149"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3157"/>
         <source>Directional visibility toward %1 is variable from %2 to %3</source>
         <translation type="unfinished">Směrová dohlednost směrem na %1 je proměnlivá od %2 do %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3159"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3167"/>
         <source>Visibility for %1 is variable from %2 to %3</source>
         <translation type="unfinished">Dohlednost pro %1 je proměnlivá od %2 do %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3171"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3179"/>
         <source>Runway visual range for %1 is variable from %2 to %3 and the trend is %4</source>
         <translation type="unfinished">Dráhová dohlednost pro %1 je proměnlivá od %2 do %3 a tendence je %4</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3177"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3185"/>
         <source>Runway visual range for %1 is variable from %2 to %3</source>
         <translation type="unfinished">Dráhová dohlednost pro %1 je proměnlivá od %2 do %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3183"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3191"/>
         <source>Sector visibility is variable from %1 to %2 in the following directions: %3</source>
         <translation type="unfinished">Sektorová dohlednost je proměnlivá od %1 do %2 v následujících směrech: %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3189"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3197"/>
         <source>Visibility data missing</source>
         <translation type="unfinished">Chybí údaje o dohlednosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3192"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3200"/>
         <source>Runway visual range data is missing</source>
         <translation type="unfinished">Chybí údaje o dráhové dohlednosti</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3195"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3203"/>
         <source>Runway visual range should be reported but is missing</source>
         <translation type="unfinished">Dráhová dohlednost by měla být hlášena, ale chybí</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3202"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3210"/>
         <source>Visibility data not available for %1 in the direction of %2</source>
         <translation type="unfinished">Údaje o dohlednosti nejsou k dispozici pro %1 ve směru %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3208"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3216"/>
         <source>Visibility data not available for %1</source>
         <translation type="unfinished">Údaje o dohlednosti nejsou k dispozici pro %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3213"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3221"/>
         <source>Visibility data not available in the direction of %1</source>
         <translation type="unfinished">Údaje o dohlednosti nejsou k dispozici ve směru %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3216"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3224"/>
         <source>Visibility data not available</source>
         <translation type="unfinished">Údaje o dohlednosti nejsou k dispozici</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3249"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3257"/>
         <source>Recent weather: %1</source>
         <translation type="unfinished">Nedávné počasí: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3252"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3260"/>
         <source>Precipitation beginning/ending time: %1</source>
         <translation type="unfinished">Čas začátku/konce srážek: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3255"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3263"/>
         <source>No significant weather</source>
         <translation type="unfinished">Bez význačného počasí</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3258"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3266"/>
         <source>Automated weather identifier INOP</source>
         <translation type="unfinished">Automatický identifikátor počasí INOP</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3261"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3269"/>
         <source>Lightning detector INOP</source>
         <translation type="unfinished">Detektor blesků INOP</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3264"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3272"/>
         <source>Weather phenomena data is missing</source>
         <translation type="unfinished">Chybí údaje o meteorologických jevech</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3267"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3275"/>
         <source>Thunderstorm / lightning data is missing</source>
         <translation type="unfinished">Chybí údaje o bouřkách / blescích</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3284"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3292"/>
         <source>No wind</source>
         <translation type="unfinished">Bezvětří</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3289"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3297"/>
         <source>Wind direction %1, wind speed %2, gusts at %3</source>
         <translation type="unfinished">Směr větru %1, rychlost větru %2, poryvy %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3294"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3302"/>
         <source>Wind direction %1, wind speed %2</source>
         <translation type="unfinished">Směr větru %1, rychlost větru %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3299"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3307"/>
         <source>Variable wind direction %1 -- %2</source>
         <translation type="unfinished">Proměnlivý směr větru %1 -- %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3306"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3314"/>
         <source>Wind direction %1 (%2 -- %3), wind speed %4, gusts at %5</source>
         <translation type="unfinished">Směr větru %1 (%2 -- %3), rychlost větru %4, poryvy %5</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3313"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3321"/>
         <source>Wind direction %1 (%2 -- %3), wind speed %4</source>
         <translation type="unfinished">Směr větru %1 (%2 -- %3), rychlost větru %4</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3321"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3329"/>
         <source>Wind shear at %1 AGL, wind direction %2, wind speed %3, gusts at %4</source>
         <translation type="unfinished">Střih větru v %1 AGL, směr větru %2, rychlost větru %3, poryvy %4</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3327"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3335"/>
         <source>Wind shear at %1 AGL, wind direction %2, wind speed %3</source>
         <translation type="unfinished">Střih větru v %1 AGL, směr větru %2, rychlost větru %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3336"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3344"/>
         <source>Wind direction changed at %1</source>
         <translation type="unfinished">Směr větru se změnil v %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3338"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3346"/>
         <source>Wind direction changed recently</source>
         <translation type="unfinished">Směr větru se nedávno změnil</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3343"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3351"/>
         <source>Wind direction changed at %1 because of weather front passage</source>
         <translation type="unfinished">Směr větru se změnil v %1 kvůli přechodu povětrnostní fronty</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3345"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3353"/>
         <source>Wind direction changed recently because of weather front passage</source>
         <translation type="unfinished">Směr větru se nedávno změnil kvůli přechodu povětrnostní fronty</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3352"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3360"/>
         <source>Peak wind observed at %1, wind direction %2, wind speed %3</source>
         <translation type="unfinished">Maximální vítr pozorován v %1, směr větru %2, rychlost větru %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3360"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3368"/>
         <source>Wind shear between runway level and 1,600 ft at runway %1</source>
         <translation type="unfinished">Střih větru mezi úrovní dráhy a 1 600 ft na dráze %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3362"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3370"/>
         <source>Wind shear between runway level and 1,600 ft</source>
         <translation type="unfinished">Střih větru mezi úrovní dráhy a 1 600 ft</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3365"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3373"/>
         <source>Potential wind shear</source>
         <translation type="unfinished">Potenciální střih větru</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="3368"/>
+        <location filename="../../../src/weather/Decoder.cpp" line="3376"/>
         <source>Wind data is missing</source>
         <translation type="unfinished">Chybí údaje o větru</translation>
     </message>
@@ -10869,77 +10979,77 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>Weather::METAR</name>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="245"/>
+        <location filename="../../../src/weather/METAR.cpp" line="257"/>
         <source>CAVOK</source>
         <translation>CAVOK</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="249"/>
+        <location filename="../../../src/weather/METAR.cpp" line="261"/>
         <source>VMC</source>
         <translation>VMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="253"/>
+        <location filename="../../../src/weather/METAR.cpp" line="265"/>
         <source>marginal VMC</source>
         <translation>hraniční VMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="256"/>
+        <location filename="../../../src/weather/METAR.cpp" line="268"/>
         <source>IMC</source>
         <translation>IMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="259"/>
+        <location filename="../../../src/weather/METAR.cpp" line="271"/>
         <source>low IMC</source>
         <translation>minimální IMC</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="268"/>
+        <location filename="../../../src/weather/METAR.cpp" line="280"/>
         <source>gusts of %1</source>
         <translation>poryvy %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="272"/>
+        <location filename="../../../src/weather/METAR.cpp" line="284"/>
         <source>wind at %1</source>
         <translation>vítr%1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="284"/>
+        <location filename="../../../src/weather/METAR.cpp" line="296"/>
         <source>METAR %1</source>
         <translation>METAR %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="287"/>
+        <location filename="../../../src/weather/METAR.cpp" line="299"/>
         <source>METAR %1: %2</source>
         <translation>METAR %1:%2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="305"/>
+        <location filename="../../../src/weather/METAR.cpp" line="317"/>
         <source>Density Altitude: %1</source>
         <translation>Hustotní výška: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="310"/>
+        <location filename="../../../src/weather/METAR.cpp" line="322"/>
         <source>Density Altitude: %1, %2 above airfield elevation</source>
         <translation>Hustotní výška: %1, %2 nad nadmořskou výškou letiště</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="314"/>
+        <location filename="../../../src/weather/METAR.cpp" line="326"/>
         <source>Density Altitude: %1, %2 below airfield elevation</source>
         <translation>Hustotní výška: %1, %2 pod nadmořskou výškou letiště</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="390"/>
+        <location filename="../../../src/weather/METAR.cpp" line="402"/>
         <source>Percentages are rough estimates, comparing performance of typical SEP aircraft at density altitude to standard sea level values. Runway conditions might further degrade performance. Always consult the flight manual for exact values.</source>
         <translation>Procenta zobrazují hrubé odhady, porovnávající výkony běžných jednomotorových letounů při hustotní výšce k hodnotám u hladiny moře. Podmínky na dráze mohou dále zhoršit výkonnost. Vždy ověřte přesné hodnoty dle letové příručky.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="393"/>
+        <location filename="../../../src/weather/METAR.cpp" line="405"/>
         <source>Hide this explanation.</source>
         <translation>Skrýt nápovědu.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="398"/>
+        <location filename="../../../src/weather/METAR.cpp" line="410"/>
         <source>Hide performance warnings.</source>
         <translation>Skrýt varování o výkonnosti.</translation>
     </message>
@@ -10976,34 +11086,34 @@ můžeme získat.&lt;/p&gt;
         <translation type="vanished">%1 %2: %3</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="324"/>
+        <location filename="../../../src/weather/METAR.cpp" line="336"/>
         <source>Relative Humidity: %1%</source>
         <translation>Relativní vlhkost: %1%</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="344"/>
-        <location filename="../../../src/weather/METAR.cpp" line="355"/>
-        <location filename="../../../src/weather/METAR.cpp" line="362"/>
+        <location filename="../../../src/weather/METAR.cpp" line="356"/>
+        <location filename="../../../src/weather/METAR.cpp" line="367"/>
+        <location filename="../../../src/weather/METAR.cpp" line="374"/>
         <source>Performance</source>
         <translation>Výkon</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="346"/>
+        <location filename="../../../src/weather/METAR.cpp" line="358"/>
         <source>Expect %1% increase in takeoff distance</source>
         <translation>Očekávejte %1% prodloužení vzletové délky</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="357"/>
+        <location filename="../../../src/weather/METAR.cpp" line="369"/>
         <source>Expect %1% decrease in climb rate</source>
         <translation>Očekávejte %1% zhoršení rychlosti stoupání</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="364"/>
+        <location filename="../../../src/weather/METAR.cpp" line="376"/>
         <source>Expect drastic decrease in climb rate. Flying might be inadvisable.</source>
         <translation>Očekávejte výrazné zhoršení rychlosti stoupání.Může být nevhodné letět.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/METAR.cpp" line="375"/>
+        <location filename="../../../src/weather/METAR.cpp" line="387"/>
         <source>Derived Data</source>
         <translation>Odvozené údaje</translation>
     </message>
@@ -11011,23 +11121,23 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>Weather::WeatherDataProvider</name>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="338"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="340"/>
         <source>Waiting for precise position…</source>
         <translation>Čekám na přesnou polohu...</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="391"/>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="397"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="393"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="399"/>
         <source>SR %1, %2</source>
         <translation>SR %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="395"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="397"/>
         <source>SS %1, %2</source>
         <translation>SS %1, %2</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="486"/>
+        <location filename="../../../src/weather/WeatherDataProvider.cpp" line="488"/>
         <source>%1 hPa in %2, %3</source>
         <translation>%1 hPa in %2, %3</translation>
     </message>
@@ -11035,88 +11145,88 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>main</name>
     <message>
-        <location filename="../../../src/qml/main.qml" line="178"/>
-        <location filename="../../../src/qml/main.qml" line="303"/>
+        <location filename="../../../src/qml/main.qml" line="194"/>
+        <location filename="../../../src/qml/main.qml" line="319"/>
         <source>Aircraft</source>
         <translation>Letadla</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="195"/>
+        <location filename="../../../src/qml/main.qml" line="211"/>
         <source>Route and Wind</source>
         <translation>Trať a vítr</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="213"/>
+        <location filename="../../../src/qml/main.qml" line="229"/>
         <source>Approach Charts</source>
         <translation>Mapy pro vizuální přiblížení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="232"/>
+        <location filename="../../../src/qml/main.qml" line="248"/>
         <source>Nearby Waypoints</source>
         <translation>Blízké navigační body</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="250"/>
+        <location filename="../../../src/qml/main.qml" line="266"/>
         <source>Weather</source>
         <translation>Počasí</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="268"/>
+        <location filename="../../../src/qml/main.qml" line="284"/>
         <source>Flight Log</source>
         <translation type="unfinished">Letový deník</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="291"/>
+        <location filename="../../../src/qml/main.qml" line="307"/>
         <source>Library</source>
         <translation>Knihovna</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="316"/>
+        <location filename="../../../src/qml/main.qml" line="332"/>
         <source>Flight Routes</source>
         <translation>Letové tratě</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="329"/>
+        <location filename="../../../src/qml/main.qml" line="345"/>
         <source>Maps and Data</source>
         <translation>Mapy a údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="330"/>
+        <location filename="../../../src/qml/main.qml" line="346"/>
         <source>Updates available</source>
         <translation>Aktualizace k dispozici</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="331"/>
+        <location filename="../../../src/qml/main.qml" line="347"/>
         <source>Item not available in flight</source>
         <translation>Položka není dostupná za letu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="345"/>
+        <location filename="../../../src/qml/main.qml" line="361"/>
         <source>Waypoints</source>
         <translation>Navigační body</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="366"/>
+        <location filename="../../../src/qml/main.qml" line="382"/>
         <source>Settings</source>
         <translation>Nastavení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="389"/>
+        <location filename="../../../src/qml/main.qml" line="405"/>
         <source>Information</source>
         <translation>Informace</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="401"/>
+        <location filename="../../../src/qml/main.qml" line="417"/>
         <source>SatNav Positioning</source>
         <translation>GPS poloha</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="403"/>
+        <location filename="../../../src/qml/main.qml" line="419"/>
         <source>Receiving position information.</source>
         <translation>Přijímám polohové údaje.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="403"/>
+        <location filename="../../../src/qml/main.qml" line="419"/>
         <source>Not receiving position information.</source>
         <translation>Nepřijímám polohové údaje.</translation>
     </message>
@@ -11133,104 +11243,104 @@ můžeme získat.&lt;/p&gt;
         <translation type="vanished">Nepřijímám tlakovou výšku.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="424"/>
+        <location filename="../../../src/qml/main.qml" line="440"/>
         <source>Traffic Receiver</source>
         <translation>Přijímač leteckého provozu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="426"/>
+        <location filename="../../../src/qml/main.qml" line="442"/>
         <source>Receiving heartbeat.</source>
         <translation>Přijímám heartbeat.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="426"/>
+        <location filename="../../../src/qml/main.qml" line="442"/>
         <source>Not receiving heartbeat.</source>
         <translation>Nepřijímám heartbeat.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="450"/>
+        <location filename="../../../src/qml/main.qml" line="466"/>
         <source>Device Sensors</source>
         <translation type="unfinished">Senzory zařízení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="469"/>
+        <location filename="../../../src/qml/main.qml" line="485"/>
         <source>About Enroute Flight Navigation</source>
         <translation>O Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="482"/>
+        <location filename="../../../src/qml/main.qml" line="498"/>
         <source>Privacy Policy</source>
         <translation>Ochrana osobních údajů</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="495"/>
+        <location filename="../../../src/qml/main.qml" line="511"/>
         <source>Participate</source>
         <translation>Podílejte se na vývoji</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="508"/>
+        <location filename="../../../src/qml/main.qml" line="524"/>
         <source>Donate</source>
         <translation>Přispět</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="532"/>
+        <location filename="../../../src/qml/main.qml" line="548"/>
         <source>Manual</source>
         <translation>Návod</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="545"/>
+        <location filename="../../../src/qml/main.qml" line="561"/>
         <source>Read manual</source>
         <translation>Přečíst návod</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="572"/>
+        <location filename="../../../src/qml/main.qml" line="588"/>
         <source>Open in browser</source>
         <translation>Otevřít v prohlížeči</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="590"/>
+        <location filename="../../../src/qml/main.qml" line="606"/>
         <source>In order to show the manual, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open an external web site hosted by GitHub.</source>
         <translation>Pro zobrazení návodu otevře &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; externí webovou stránku na serveru GitHub.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="599"/>
+        <location filename="../../../src/qml/main.qml" line="615"/>
         <source>Download as ebook</source>
         <translation>Stáhnout jako e-knihu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="617"/>
-        <location filename="../../../src/qml/main.qml" line="643"/>
+        <location filename="../../../src/qml/main.qml" line="633"/>
+        <location filename="../../../src/qml/main.qml" line="659"/>
         <source>In order to download the manual, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open an external web site hosted by GitHub.</source>
         <translation>Pro stažení návodu otevře &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; externí webovou stránku na serveru GitHub.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="625"/>
+        <location filename="../../../src/qml/main.qml" line="641"/>
         <source>Download as PDF</source>
         <translation>Stáhnout jako PDF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="659"/>
+        <location filename="../../../src/qml/main.qml" line="675"/>
         <source>Bug Report</source>
         <translation>Nahlásit chybu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="684"/>
+        <location filename="../../../src/qml/main.qml" line="700"/>
         <source>Exit</source>
         <translation>Ukončit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="752"/>
+        <location filename="../../../src/qml/main.qml" line="769"/>
         <source>Update required!</source>
         <translation>Vyžadována aktualizace!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="765"/>
-        <location filename="../../../src/qml/main.qml" line="779"/>
+        <location filename="../../../src/qml/main.qml" line="782"/>
+        <location filename="../../../src/qml/main.qml" line="796"/>
         <source>What&apos;s new…?</source>
         <translation>Co je nového...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="858"/>
+        <location filename="../../../src/qml/main.qml" line="894"/>
         <source>Unable to import more than one file at once. Please import only one file at a time.</source>
         <translation type="unfinished">Nelze importovat více souborů najednou. Importujte prosím pouze jeden soubor.</translation>
     </message>
@@ -11250,125 +11360,130 @@ můžeme získat.&lt;/p&gt;
         <translation>Připojení k prijímači provozu přerušeno.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="965"/>
+        <location filename="../../../src/qml/main.qml" line="948"/>
         <source>Exit…?</source>
         <translation>Ukončit…?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="966"/>
+        <location filename="../../../src/qml/main.qml" line="949"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Chcete ukončit&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1002"/>
+        <location filename="../../../src/qml/main.qml" line="985"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Zobrazeny vzdušné prostory do %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1004"/>
+        <location filename="../../../src/qml/main.qml" line="987"/>
         <source>Now showing all airspaces.</source>
         <translation>Zobrazeny všechny vzdušné prostory.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1014"/>
+        <location filename="../../../src/qml/main.qml" line="997"/>
         <source>Start Time: %1 UTC</source>
         <translation type="unfinished">Čas startu: %1 UTC</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1018"/>
+        <location filename="../../../src/qml/main.qml" line="1001"/>
         <source>Landing Time: %1 UTC</source>
         <translation type="unfinished">Čas přistání: %1 UTC</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1024"/>
+        <location filename="../../../src/qml/main.qml" line="1007"/>
         <source>Flight log error</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1025"/>
+        <location filename="../../../src/qml/main.qml" line="1008"/>
         <source>The flight log could not be saved to storage. Recent changes will be lost when the app closes.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1026"/>
+        <location filename="../../../src/qml/main.qml" line="1009"/>
         <source>Reason: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1048"/>
+        <location filename="../../../src/qml/main.qml" line="1031"/>
         <source>Network security error</source>
         <translation>Chyba síťového zabezpečení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1060"/>
+        <location filename="../../../src/qml/main.qml" line="1043"/>
         <source>Network security settings</source>
         <translation>Nastavení síťového zabezpečení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1061"/>
+        <location filename="../../../src/qml/main.qml" line="1044"/>
         <source>You have chosen to ignore network security errors in the future.</source>
         <translation>Zvojili jste do budoucna ignorovat chyby při zabezpečení síťového připojení.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1062"/>
+        <location filename="../../../src/qml/main.qml" line="1045"/>
         <source>This poses a security risk.</source>
         <translation>Toto představuje bezpečnostní riziko.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1063"/>
+        <location filename="../../../src/qml/main.qml" line="1046"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Pro obnovení výchozího, zabezpečeného chování aplikace navigujte do sekce &lt;strong&gt;&lt;i&gt;Nastavení&lt;/i&gt;&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="857"/>
-        <location filename="../../../src/qml/main.qml" line="1093"/>
+        <location filename="../../../src/qml/main.qml" line="893"/>
+        <location filename="../../../src/qml/main.qml" line="1076"/>
         <source>Error!</source>
         <translation>Chyba!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1108"/>
+        <location filename="../../../src/qml/main.qml" line="1091"/>
         <source>Starting map update</source>
         <translation>Začínám aktualizovat mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="139"/>
+        <location filename="../../../src/main.cpp" line="149"/>
         <source>Enroute Flight Navigation is a free navigation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation je aplikace zdarma pro VFR Piloty,
 vyvinuta jako projekt Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="144"/>
+        <location filename="../../../src/main.cpp" line="154"/>
         <source>Run simulator and generate screenshots for Google Play</source>
         <translation>Spustit simulátor a vytvořit screenshoty pro Google Play</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="149"/>
+        <location filename="../../../src/main.cpp" line="159"/>
         <source>Run simulator and generate screenshots for macOS</source>
         <translation type="unfinished">Spustit simulátor a vytvořit snímky obrazovky pro macOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="154"/>
+        <location filename="../../../src/main.cpp" line="164"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Spustit simulátor a vytvořit screenshoty pro iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="158"/>
+        <location filename="../../../src/main.cpp" line="168"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Spustit simulátor a vytvořit screenshoty pro návod</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="163"/>
+        <location filename="../../../src/main.cpp" line="173"/>
+        <source>Open every page and dialog once, then quit. The exit code is 1 if the QML engine reported problems. Runs with QStandardPaths test mode, so user data is untouched.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/main.cpp" line="178"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>Vyhledat textový řetězec skrz Librarian::getStringFromResource a přesměrovat do stdout</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="165"/>
+        <location filename="../../../src/main.cpp" line="180"/>
         <source>string name</source>
         <translation>název řetězce</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="167"/>
+        <location filename="../../../src/main.cpp" line="182"/>
         <source>File to import.</source>
         <translation>Soubor k nahrání.</translation>
     </message>
