@@ -1736,7 +1736,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="395"/>
         <source>unable to write to the file &apos;%1&apos; (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>brak możliwości zapisu do pliku &apos;%1&apos; (%2)</translation>
     </message>
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="508"/>
@@ -1911,7 +1911,7 @@ nie mamy lepszych wiadomości. &lt;/p&gt;
     <message>
         <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="706"/>
         <source>unable to replace the file &apos;%1&apos; with the downloaded data (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>brak możliwości zastąpienia pliku &apos;%1&apos; z pobranymi danymi (%2)</translation>
     </message>
 </context>
 <context>
@@ -2426,12 +2426,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="190"/>
         <source>Based on your location, we are downloading the following map for you. Click on &apos;Done&apos; to close this dialog. The download continues in the background.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na podstawie Twojej lokalizacji pobieramy dla Ciebie następującą mapę. Kliknij „Gotowe”, aby zamknąć to okno. Pobieranie będzie kontynuowane w tle.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="192"/>
         <source>Based on your location, we are downloading the following maps for you. Click on &apos;Done&apos; to close this dialog. The download continues in the background.</source>
-        <translation type="unfinished"></translation>
+        <translation>Na podstawie Twojej lokalizacji pobieramy dla Ciebie następujące mapy. Kliknij „Gotowe”, aby zamknąć to okno. Pobieranie będzie kontynuowane w tle.</translation>
     </message>
     <message>
         <source>Permissions</source>
@@ -2504,7 +2504,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="260"/>
         <source>The following additional maps are available for your region. They are not required. Click on a map to start the download.</source>
-        <translation type="unfinished"></translation>
+        <translation>Dla Twojego regionu dostępne są następujące dodatkowe mapy. Nie są one wymagane. Kliknij mapę, aby rozpocząć pobieranie.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FirstRunDialog.qml" line="299"/>
@@ -2776,32 +2776,32 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="242"/>
         <source>Import Flightlog JSON…</source>
-        <translation type="unfinished"></translation>
+        <translation>Importuj dziennik lotów JSON…</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="253"/>
         <source>Import</source>
-        <translation type="unfinished">Import</translation>
+        <translation>Import</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="254"/>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="260"/>
         <source>Flightlog JSON File (*.json)</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik JSON dziennika lotu (*.json)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="273"/>
         <source>%1 flight(s) imported</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 lotów zostało zaimportowanych</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="274"/>
         <source>No new flights to import — already in the log</source>
-        <translation type="unfinished"></translation>
+        <translation>Brak nowych lotów do zaimportowania — już w dzienniku</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="283"/>
@@ -3750,12 +3750,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="518"/>
         <source>Cannot open file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można otworzyć pliku: %1</translation>
     </message>
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="525"/>
         <source>The file does not contain a valid flight log.</source>
-        <translation type="unfinished"></translation>
+        <translation>Plik nie zawiera poprawnego dziennika lotu.</translation>
     </message>
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="752"/>
@@ -3800,7 +3800,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/flightlog/FlightLogStorage.cpp" line="150"/>
         <source>The flight log file could not be read and has been reset (%1). Your previous flight log data is no longer available.</source>
-        <translation type="unfinished">Nie można odczytać pliku dziennika lotów i został on zresetowany (%1). Twoje poprzednie dane z dziennika lotów nie są już dostępne.</translation>
+        <translation>Nie można odczytać pliku dziennika lotów i został on zresetowany (%1). Twoje poprzednie dane z dziennika lotów nie są już dostępne.</translation>
     </message>
     <message>
         <location filename="../../../src/flightlog/FlightLogStorage.cpp" line="205"/>
@@ -3810,7 +3810,7 @@ z danymi konta bankowego.
         <location filename="../../../src/flightlog/FlightLogStorage.cpp" line="342"/>
         <location filename="../../../src/flightlog/FlightLogStorage.cpp" line="374"/>
         <source>The flight log database is not open.</source>
-        <translation type="unfinished"></translation>
+        <translation>Baza danych rejestru lotów nie jest otwarta.</translation>
     </message>
 </context>
 <context>
@@ -3909,7 +3909,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="253"/>
         <source>Error: Unable to write the VAC file &lt;strong&gt;%1&lt;/strong&gt;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Błąd: Nie można zapisać pliku VAC &lt;strong&gt;%1&lt;/strong&gt;: %2</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VACLibrary.cpp" line="346"/>
@@ -3957,7 +3957,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/geomaps/WaypointLibrary.cpp" line="278"/>
         <source>Unable to write to file &apos;%1&apos;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zapisać do pliku &apos;%1&apos;: %2</translation>
     </message>
     <message>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
@@ -6000,7 +6000,7 @@ Wybierz &lt;strong&gt;Biblioteka/Mapy i dane&lt;/strong&gt; aby otworzyć stron�
     <message>
         <location filename="../../../src/navigation/FlightRoute.cpp" line="535"/>
         <source>Unable to write to file &apos;%1&apos;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zapisać do pliku &apos;%1&apos;: %2</translation>
     </message>
     <message>
         <source>Error opening file &apos;%1&apos;</source>
@@ -6464,7 +6464,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/platform/FileExchange_Linux.cpp" line="83"/>
         <location filename="../../../src/platform/FileExchange_MacOS.cpp" line="73"/>
         <source>Unable to write to file &lt;strong&gt;%1&lt;/strong&gt;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zapisać do pliku &lt;strong&gt;%1&lt;/strong&gt;: %2</translation>
     </message>
     <message>
         <source>Export flight route</source>
@@ -6509,7 +6509,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/platform/FileExchange_iOS.cpp" line="94"/>
         <source>Could not find file %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można znaleźć pliku %1</translation>
     </message>
 </context>
 <context>
@@ -7000,7 +7000,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/navigation/Aircraft.cpp" line="259"/>
         <source>Unable to write to file &apos;%1&apos;: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie można zapisać do pliku &apos;%1&apos;: %2</translation>
     </message>
     <message>
         <source>Unable to open the file &apos;%1&apos; for writing.</source>
@@ -7241,7 +7241,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/ZipFile.cpp" line="61"/>
         <source>Zip file %1 contains an entry that is too large.</source>
         <comment>FileFormats::ZipFile</comment>
-        <translation type="unfinished"></translation>
+        <translation>Plik zip %1 zawiera wpis, który jest zbyt duży.</translation>
     </message>
     <message>
         <source>Found corrupt data while reading the data stream.</source>
@@ -8072,7 +8072,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/flightlog/FlightLogExportJSON.cpp" line="173"/>
         <source>Not a flight log file.</source>
         <comment>Flightlog::FlightLogExportJSON</comment>
-        <translation type="unfinished"></translation>
+        <translation>To nie jest plik dziennika lotu.</translation>
     </message>
 </context>
 <context>
@@ -8128,7 +8128,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/dialogs/RenameVACDialog.qml" line="77"/>
         <source>Approach chart renamed</source>
-        <translation type="unfinished"></translation>
+        <translation>Zmieniono nazwę mapy podejścia</translation>
     </message>
     <message>
         <source>Flight route renamed</source>
@@ -14575,7 +14575,7 @@ rozwijana jako projekt Akaflieg Freiburg.</translation>
     <message>
         <location filename="../../../src/main.cpp" line="173"/>
         <source>Open every page and dialog once, then quit. The exit code is 1 if the QML engine reported problems. Runs with QStandardPaths test mode, so user data is untouched.</source>
-        <translation type="unfinished"></translation>
+        <translation>Otwórz jednokrotnie każdą stronę i okno dialogowe, a następnie zakończ działanie. Kod wyjścia wynosi 1, jeśli silnik QML zgłosił problemy. Program uruchamiany jest w trybie testowym QStandardPaths, dzięki czemu dane użytkownika pozostają nienaruszone.</translation>
     </message>
     <message>
         <location filename="../../../src/main.cpp" line="178"/>
