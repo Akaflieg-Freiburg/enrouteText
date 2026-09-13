@@ -83,26 +83,113 @@
     <color type="primary" scheme_preference="light">#8fd4d4</color>
     <color type="primary" scheme_preference="dark">#00494a</color>
   </branding>
+  <!--
+    The screenshots are the ten-inch Google Play renders from the enroute
+    repository (fastlane/metadata/android/<locale>/images/tenInchScreenshots),
+    wrapped in a window frame and uploaded to the GitHub pre-release
+    "screenshots" by packaging/flatpak/publish_screenshots.py, which is run
+    by the fastlane lane flathubRelease. That script fails if this list and
+    the generated files disagree. The scene order follows
+    DemoRunner::generateScreenshotsForDevices in src/DemoRunner.cpp.
+  -->
   <screenshots>
     <screenshot type="default">
-      <caption>Flight Map Overview.</caption>
-      <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/00-Desktop.png</image>
+      <caption>Moving map with flight route, airspaces and navigation data</caption>
+      <caption xml:lang="cs">Pohyblivá mapa s tratí letu, vzdušnými prostory a navigačními údaji</caption>
+      <caption xml:lang="de">Moving Map mit Route, Lufträumen und Navigationsdaten</caption>
+      <caption xml:lang="es">Mapa móvil con ruta de vuelo, espacios aéreos y datos de navegación</caption>
+      <caption xml:lang="fr">Carte mobile avec route, espaces aériens et données de navigation</caption>
+      <caption xml:lang="it">Mappa in movimento con rotta, spazi aerei e dati di navigazione</caption>
+      <caption xml:lang="pl">Mapa mobilna z trasą lotu, przestrzeniami powietrznymi i danymi nawigacyjnymi</caption>
+      <image type="source">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/en-US-1.png</image>
+      <image type="source" xml:lang="de">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/de-DE-1.png</image>
+      <image type="source" xml:lang="fr">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/fr-FR-1.png</image>
+      <image type="source" xml:lang="it">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/it-IT-1.png</image>
+      <image type="source" xml:lang="pl">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/pl-PL-1.png</image>
     </screenshot>
     <screenshot>
-      <caption>Detail Map.</caption>
-      <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/01-Desktop.png</image>
+      <caption>Vertical view of the airspace along the flight path</caption>
+      <caption xml:lang="cs">Vertikální pohled na vzdušný prostor podél dráhy letu</caption>
+      <caption xml:lang="de">Vertikalansicht des Luftraums entlang des Flugwegs</caption>
+      <caption xml:lang="es">Vista vertical del espacio aéreo a lo largo de la trayectoria de vuelo</caption>
+      <caption xml:lang="fr">Vue verticale de l'espace aérien le long de la trajectoire de vol</caption>
+      <caption xml:lang="it">Vista verticale dello spazio aereo lungo la traiettoria di volo</caption>
+      <caption xml:lang="pl">Widok pionowy przestrzeni powietrznej wzdłuż toru lotu</caption>
+      <image type="source">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/en-US-2.png</image>
+      <image type="source" xml:lang="de">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/de-DE-2.png</image>
+      <image type="source" xml:lang="fr">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/fr-FR-2.png</image>
+      <image type="source" xml:lang="it">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/it-IT-2.png</image>
+      <image type="source" xml:lang="pl">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/pl-PL-2.png</image>
     </screenshot>
     <screenshot>
-      <caption>Airfield Information.</caption>
-      <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/02-Desktop.png</image>
+      <caption>Detailed map with controlled airspace and VFR reporting points</caption>
+      <caption xml:lang="cs">Podrobná mapa s řízeným vzdušným prostorem a hlásnými body VFR</caption>
+      <caption xml:lang="de">Detailkarte mit kontrolliertem Luftraum und VFR-Meldepunkten</caption>
+      <caption xml:lang="es">Mapa detallado con espacio aéreo controlado y puntos de notificación VFR</caption>
+      <caption xml:lang="fr">Carte détaillée avec espace aérien contrôlé et points de report VFR</caption>
+      <caption xml:lang="it">Mappa dettagliata con spazio aereo controllato e punti di riporto VFR</caption>
+      <caption xml:lang="pl">Szczegółowa mapa z przestrzenią kontrolowaną i punktami meldunkowymi VFR</caption>
+      <image type="source">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/en-US-3.png</image>
+      <image type="source" xml:lang="de">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/de-DE-3.png</image>
+      <image type="source" xml:lang="fr">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/fr-FR-3.png</image>
+      <image type="source" xml:lang="it">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/it-IT-3.png</image>
+      <image type="source" xml:lang="pl">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/pl-PL-3.png</image>
     </screenshot>
     <screenshot>
-      <caption>NavAid Information.</caption>
-      <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/03-Desktop.png</image>
+      <caption>Traffic display showing a nearby aircraft</caption>
+      <caption xml:lang="cs">Zobrazení provozu s letadlem v blízkosti</caption>
+      <caption xml:lang="de">Verkehrsanzeige mit einem Luftfahrzeug in der Nähe</caption>
+      <caption xml:lang="es">Visualización del tráfico con una aeronave cercana</caption>
+      <caption xml:lang="fr">Affichage du trafic avec un aéronef à proximité</caption>
+      <caption xml:lang="it">Visualizzazione del traffico con un aeromobile nelle vicinanze</caption>
+      <caption xml:lang="pl">Wyświetlanie ruchu z pobliskim statkiem powietrznym</caption>
+      <image type="source">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/en-US-4.png</image>
+      <image type="source" xml:lang="de">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/de-DE-4.png</image>
+      <image type="source" xml:lang="fr">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/fr-FR-4.png</image>
+      <image type="source" xml:lang="it">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/it-IT-4.png</image>
+      <image type="source" xml:lang="pl">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/pl-PL-4.png</image>
     </screenshot>
     <screenshot>
-      <caption>Flight Planning.</caption>
-      <image type="source">https://akaflieg-freiburg.github.io/enroute/assets/images/04-Desktop.png</image>
+      <caption>Airfield information with frequencies, runways and airspace</caption>
+      <caption xml:lang="cs">Informace o letišti s kmitočty, dráhami a vzdušným prostorem</caption>
+      <caption xml:lang="de">Flugplatzinformationen mit Frequenzen, Pisten und Luftraum</caption>
+      <caption xml:lang="es">Información del aeródromo con frecuencias, pistas y espacio aéreo</caption>
+      <caption xml:lang="fr">Informations sur l'aérodrome avec fréquences, pistes et espace aérien</caption>
+      <caption xml:lang="it">Informazioni sull'aeroporto con frequenze, piste e spazio aereo</caption>
+      <caption xml:lang="pl">Informacje o lotnisku z częstotliwościami, pasami i przestrzenią powietrzną</caption>
+      <image type="source">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/en-US-5.png</image>
+      <image type="source" xml:lang="de">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/de-DE-5.png</image>
+      <image type="source" xml:lang="fr">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/fr-FR-5.png</image>
+      <image type="source" xml:lang="it">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/it-IT-5.png</image>
+      <image type="source" xml:lang="pl">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/pl-PL-5.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>Decoded METAR weather report</caption>
+      <caption xml:lang="cs">Dekódovaná meteorologická zpráva METAR</caption>
+      <caption xml:lang="de">Entschlüsselter METAR-Wetterbericht</caption>
+      <caption xml:lang="es">Informe meteorológico METAR decodificado</caption>
+      <caption xml:lang="fr">Bulletin météo METAR décodé</caption>
+      <caption xml:lang="it">Bollettino meteo METAR decodificato</caption>
+      <caption xml:lang="pl">Zdekodowany raport pogodowy METAR</caption>
+      <image type="source">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/en-US-6.png</image>
+      <image type="source" xml:lang="de">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/de-DE-6.png</image>
+      <image type="source" xml:lang="fr">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/fr-FR-6.png</image>
+      <image type="source" xml:lang="it">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/it-IT-6.png</image>
+      <image type="source" xml:lang="pl">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/pl-PL-6.png</image>
+    </screenshot>
+    <screenshot>
+      <caption>List of nearby airfields sorted by distance</caption>
+      <caption xml:lang="cs">Seznam blízkých letišť seřazený podle vzdálenosti</caption>
+      <caption xml:lang="de">Liste nahegelegener Flugplätze, sortiert nach Entfernung</caption>
+      <caption xml:lang="es">Lista de aeródromos cercanos ordenados por distancia</caption>
+      <caption xml:lang="fr">Liste des aérodromes à proximité triés par distance</caption>
+      <caption xml:lang="it">Elenco degli aeroporti vicini ordinati per distanza</caption>
+      <caption xml:lang="pl">Lista pobliskich lotnisk posortowana według odległości</caption>
+      <image type="source">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/en-US-7.png</image>
+      <image type="source" xml:lang="de">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/de-DE-7.png</image>
+      <image type="source" xml:lang="fr">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/fr-FR-7.png</image>
+      <image type="source" xml:lang="it">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/it-IT-7.png</image>
+      <image type="source" xml:lang="pl">https://github.com/Akaflieg-Freiburg/enroute/releases/download/screenshots/pl-PL-7.png</image>
     </screenshot>
   </screenshots>
   <categories>
