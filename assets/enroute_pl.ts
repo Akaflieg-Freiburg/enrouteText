@@ -2781,12 +2781,12 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="251"/>
         <source>Import files</source>
-        <translation type="unfinished">Importuj pliki</translation>
+        <translation>Importuj pliki</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="252"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
-        <translation type="unfinished"></translation>
+        <translation>Znajdź plik w przeglądarce, wybierz &apos;Otwórz za pomocą&apos; z menu udostępniania i wybierz Enroute</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="265"/>
@@ -3760,7 +3760,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="136"/>
         <source>Automatic flight detection may stop working once the app is in the background. Please grant &quot;Always&quot; location access to this app in the system Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne wykrywanie lotów może przestać działać, gdy aplikacja jest w tle. Przyznaj tej aplikacji dostęp do lokalizacji &quot;Zawsze&quot; w ustawieniach systemowych.</translation>
     </message>
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="524"/>
@@ -3775,7 +3775,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="566"/>
         <source>Failed to save the imported flights to storage. Nothing was imported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie udało się zapisać zaimportowanych lotów w pamięci. Nic nie zostało zaimportowane.</translation>
     </message>
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="769"/>
@@ -4162,22 +4162,22 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="531"/>
         <source>Import Flight Log?</source>
-        <translation type="unfinished"></translation>
+        <translation>Zaimportować dziennik lotów?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="535"/>
         <source>This will import flight log entries from the file. Flights already present in the log will be skipped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Spowoduje to zaimportowanie wpisów dziennika lotów z pliku. Loty, które już znajdują się w dzienniku, zostaną pominięte.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="549"/>
         <source>%1 flight(s) imported</source>
-        <translation type="unfinished">%1 lotów zostało zaimportowanych</translation>
+        <translation>%1 lotów zostało zaimportowanych</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="550"/>
         <source>No new flights to import — already in the log</source>
-        <translation type="unfinished">Brak nowych lotów do zaimportowania — już w dzienniku</translation>
+        <translation>Brak nowych lotów do zaimportowania — już w dzienniku</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="574"/>
@@ -14534,7 +14534,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="1019"/>
         <source>Background location access</source>
-        <translation type="unfinished"></translation>
+        <translation>Dostęp do lokalizacji w tle</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="1055"/>

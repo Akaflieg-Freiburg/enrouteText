@@ -2777,12 +2777,12 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="251"/>
         <source>Import files</source>
-        <translation type="unfinished">Dateien importieren</translation>
+        <translation>Dateien importieren</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="252"/>
         <source>Locate your file in the browser, then select &apos;Open with&apos; from the share menu, and choose Enroute</source>
-        <translation type="unfinished">Suchen Sie die Datei im Browser, wählen Sie &apos;Öffnen mit&apos; im Teilen-Menü und dann Enroute</translation>
+        <translation>Suchen Sie die Datei im Browser, wählen Sie &apos;Öffnen mit&apos; im Teilen-Menü und dann Enroute</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightLogPage.qml" line="265"/>
@@ -3756,7 +3756,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="136"/>
         <source>Automatic flight detection may stop working once the app is in the background. Please grant &quot;Always&quot; location access to this app in the system Settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die automatische Flugerkennung funktioniert möglicherweise nicht mehr, sobald die App im Hintergrund läuft. Bitte erlauben Sie dieser App in den Systemeinstellungen den Standortzugriff &quot;Immer&quot;.</translation>
     </message>
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="524"/>
@@ -3771,7 +3771,7 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="566"/>
         <source>Failed to save the imported flights to storage. Nothing was imported.</source>
-        <translation type="unfinished"></translation>
+        <translation>Die importierten Flüge konnten nicht gespeichert werden. Es wurde nichts importiert.</translation>
     </message>
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="769"/>
@@ -4158,22 +4158,22 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="531"/>
         <source>Import Flight Log?</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugbuch importieren?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="535"/>
         <source>This will import flight log entries from the file. Flights already present in the log will be skipped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Damit werden Flugbucheinträge aus der Datei importiert. Flüge, die bereits im Flugbuch vorhanden sind, werden übersprungen.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="549"/>
         <source>%1 flight(s) imported</source>
-        <translation type="unfinished">%1 Flug/Flüge importiert</translation>
+        <translation>%1 Flug/Flüge importiert</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="550"/>
         <source>No new flights to import — already in the log</source>
-        <translation type="unfinished">Keine neuen Flüge zu importieren - sind bereits vorhanden</translation>
+        <translation>Keine neuen Flüge zu importieren — bereits im Flugbuch vorhanden</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/ImportManager.qml" line="574"/>
@@ -14703,7 +14703,7 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="1019"/>
         <source>Background location access</source>
-        <translation type="unfinished"></translation>
+        <translation>Standortzugriff im Hintergrund</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="1055"/>
