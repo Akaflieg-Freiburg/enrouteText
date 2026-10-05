@@ -2772,27 +2772,27 @@ con los datos de la cuenta bancaria.</translation>
         <translation>Ruta y viento</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="716"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="771"/>
         <source>Move Up</source>
         <translation>Subir</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="728"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="783"/>
         <source>Move Down</source>
         <translation>Bajar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="740"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="795"/>
         <source>Remove</source>
         <translation>Eliminar</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="759"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="814"/>
         <source>Add to waypoint library</source>
         <translation>Añadir el punto de ruta a la biblioteca</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="766"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="821"/>
         <source>Added %1 to waypoint library.</source>
         <translation>Añadido %1 a la biblioteca de los puntos de ruta</translation>
     </message>
@@ -2989,7 +2989,7 @@ con los datos de la cuenta bancaria.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="471"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="817"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="872"/>
         <source>Wind</source>
         <translation>Viento</translation>
     </message>
@@ -2999,7 +2999,7 @@ con los datos de la cuenta bancaria.</translation>
         <translation>&lt;h3&gt;Ruta vacía&lt;/h3&gt;&lt;p&gt;Use el botón &lt;strong&gt;Añadir punto de ruta&lt;/strong&gt; a continuación o haga doble clic en cualquier punto del mapa en movimiento.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="827"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="882"/>
         <source>Direction from</source>
         <translation>Directión desde</translation>
     </message>
@@ -3008,28 +3008,28 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">indefinido</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="859"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="914"/>
         <source>Speed</source>
         <translation>Velocidad</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="961"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1016"/>
         <source>One waypoint: direct route from ownship position</source>
         <translation>Un punto de ruta: ruta directa desde la posición de l&apos;avion</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="987"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1042"/>
         <source>Add Waypoint</source>
         <translation>Añadir punto de ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1002"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1130"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1057"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1185"/>
         <source>Add Waypoint to Route</source>
         <translation>Agregar punto de ruta a la Ruta</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1035"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1090"/>
         <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
         <translation>Elija un punto de ruta de la lista a continuación o &lt;a href=&apos;xx&apos;&gt;ingrese las coordenadas manualmente&lt;/a&gt;.</translation>
     </message>
@@ -3038,38 +3038,38 @@ con los datos de la cuenta bancaria.</translation>
         <translation type="vanished">Filtrar por nombre</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1074"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1129"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta que coincidan con tu filtro.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1103"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1158"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta disponibles. Asegúrese de tener instalado un mapa de aviación.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1104"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1159"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay puntos de ruta que coincidan con tus criterios de filtro.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1147"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1202"/>
         <source>Clear Route?</source>
         <translation>Limpiar ruta ?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1150"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1205"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>Una vez borrada, la ruta actual no se puede ssr recuperada</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="438"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1154"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1209"/>
         <source>Flight route cleared</source>
         <translation>Ruta despejada</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1176"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1231"/>
         <source>Error Exporting Data…</source>
         <translation>Error exportando datos ...</translation>
     </message>

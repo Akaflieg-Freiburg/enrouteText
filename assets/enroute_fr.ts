@@ -2172,17 +2172,17 @@ Message: Enroute Flight Navigation
 <context>
     <name>FlightRouteEditor</name>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="716"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="771"/>
         <source>Move Up</source>
         <translation>Déplacer avant</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="728"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="783"/>
         <source>Move Down</source>
         <translation>Déplacer après</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="740"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="795"/>
         <source>Remove</source>
         <translation>Supprimer</translation>
     </message>
@@ -2209,13 +2209,13 @@ Message: Enroute Flight Navigation
         <translation>Route partagée</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1147"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1202"/>
         <source>Clear Route?</source>
         <translation>Effacer la route ?</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="438"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1154"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1209"/>
         <source>Flight route cleared</source>
         <translation>Route supprimée</translation>
     </message>
@@ -2230,12 +2230,12 @@ Message: Enroute Flight Navigation
         <translation>Route et vent</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="759"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="814"/>
         <source>Add to waypoint library</source>
         <translation>Ajouter à la bibiothèque des points de cheminement</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="766"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="821"/>
         <source>Added %1 to waypoint library.</source>
         <translation>%1 ajouté à la bibiothèque des points de cheminement</translation>
     </message>
@@ -2271,13 +2271,13 @@ Message: Enroute Flight Navigation
         <translation>&lt;h3&gt;Route vide&lt;/h3&gt;&lt;p&gt;Utilisez le bouton &lt;strong&gt;Ajouter point de cheminement&lt;/strong&gt; ci-dessous ou double-cliquez sur la carte.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="827"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="882"/>
         <source>Direction from</source>
         <translation>Direction de</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="471"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="817"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="872"/>
         <source>Wind</source>
         <translation>Vent</translation>
     </message>
@@ -2420,28 +2420,28 @@ Message: Enroute Flight Navigation
         <translation>Route réordonnée</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="859"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="914"/>
         <source>Speed</source>
         <translation>Vitesse</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="961"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1016"/>
         <source>One waypoint: direct route from ownship position</source>
         <translation>Un point de cheminement : route directe depuis la position actuelle</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="987"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1042"/>
         <source>Add Waypoint</source>
         <translation>Ajouter un point de cheminement</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1002"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1130"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1057"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1185"/>
         <source>Add Waypoint to Route</source>
         <translation>Ajouter un point de cheminement à la route</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1035"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1090"/>
         <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
         <translation>Choisissez un point de cheminement dans la liste ci-dessous ou &lt;a href=&apos;xx&apos;&gt;entrez les coordonnées manuellement&lt;/a&gt;.</translation>
     </message>
@@ -2450,27 +2450,27 @@ Message: Enroute Flight Navigation
         <translation type="vanished">Filtrer par nom</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1074"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1129"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé!&lt;/h3&gt;&lt;p&gt;Aucun point de cheminement ne correspond à votre filtre.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1103"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1158"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point de cheminement n&apos;a été trouvé. Assurez-vous qu&apos;une carte aéronautique a été installée.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1104"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1159"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun point de cheminement ne correspond à votre critère de recherche.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1176"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1231"/>
         <source>Error Exporting Data…</source>
         <translation>Erreur lors de l&apos;exportation des données...</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1150"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1205"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>La route ne pourra pas être rétablie si elle est effacée.</translation>
     </message>
