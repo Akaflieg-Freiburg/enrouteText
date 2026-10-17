@@ -4421,7 +4421,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/Librarian.cpp" line="338"/>
         <source>Enroute Flight Navigation is now also available for Mac computers. Download it for free from the &lt;a href=&apos;https://apps.apple.com/app/enroute-flight-navigation/id6448892176&apos;&gt;App Store&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation ya está disponible también para ordenadores Mac. Descárgala gratis en la &lt;a href=&apos;https://apps.apple.com/app/enroute-flight-navigation/id6448892176&apos;&gt;App Store&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="341"/>
@@ -7550,42 +7550,42 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="47"/>
         <source>Direct</source>
-        <translation type="unfinished">Directo</translation>
+        <translation>Directo</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="53"/>
         <source>New flight route: direct to %1.</source>
-        <translation type="unfinished">Nueva ruta: direct a %1</translation>
+        <translation>Nueva ruta: directo a %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="68"/>
         <source>Append</source>
-        <translation type="unfinished">Añadir</translation>
+        <translation>Añadir</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="75"/>
         <source>Added %1 to route.</source>
-        <translation type="unfinished">Añadir a la ruta %1.</translation>
+        <translation>%1 añadido a la ruta.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="82"/>
         <source>Insert</source>
-        <translation type="unfinished">Introducir</translation>
+        <translation>Introducir</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="89"/>
         <source>Inserted %1 into route.</source>
-        <translation type="unfinished">Introducido %1 en la ruta.</translation>
+        <translation>Introducido %1 en la ruta.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="96"/>
         <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="106"/>
         <source>Removed %1 from route.</source>
-        <translation type="unfinished">Eliminado 1% de la ruta</translation>
+        <translation>%1 eliminado de la ruta.</translation>
     </message>
 </context>
 <context>

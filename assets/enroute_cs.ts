@@ -3638,7 +3638,7 @@ Zpráva:  Enroute Flight Navigation
     <message>
         <location filename="../../../src/Librarian.cpp" line="338"/>
         <source>Enroute Flight Navigation is now also available for Mac computers. Download it for free from the &lt;a href=&apos;https://apps.apple.com/app/enroute-flight-navigation/id6448892176&apos;&gt;App Store&lt;/a&gt;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enroute Flight Navigation je nyní k dispozici také pro počítače Mac. Stáhněte si aplikaci zdarma z &lt;a href=&apos;https://apps.apple.com/app/enroute-flight-navigation/id6448892176&apos;&gt;App Store&lt;/a&gt;.</translation>
     </message>
     <message>
         <location filename="../../../src/Librarian.cpp" line="341"/>
@@ -5633,42 +5633,42 @@ můžeme získat.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="47"/>
         <source>Direct</source>
-        <translation type="unfinished">Navigovat na bod</translation>
+        <translation>Navigovat na bod</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="53"/>
         <source>New flight route: direct to %1.</source>
-        <translation type="unfinished">Nová trať: přímo na %1.</translation>
+        <translation>Nová trať: přímo na %1.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="68"/>
         <source>Append</source>
-        <translation type="unfinished">Přidat</translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="75"/>
         <source>Added %1 to route.</source>
-        <translation type="unfinished">%1 přidáno k trati.</translation>
+        <translation>%1 přidáno k trati.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="82"/>
         <source>Insert</source>
-        <translation type="unfinished">Vložit</translation>
+        <translation>Vložit</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="89"/>
         <source>Inserted %1 into route.</source>
-        <translation type="unfinished">%1 přidáno do trati.</translation>
+        <translation>%1 vloženo do trati.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="96"/>
         <source>Remove</source>
-        <translation type="unfinished">Odstranit</translation>
+        <translation>Odstranit</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/RouteMenu.qml" line="106"/>
         <source>Removed %1 from route.</source>
-        <translation type="unfinished">%1 odstraněno z trati.</translation>
+        <translation>%1 odstraněno z trati.</translation>
     </message>
 </context>
 <context>
