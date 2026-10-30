@@ -61,9 +61,13 @@
         <translation>Odstranit…</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="178"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft available. To add a route here, choose &apos;Aircraft&apos; from the main menu, and save the current aircraft to the library.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádná letadla nejsou k dispozici. Pro přidání zvolte &apos;Letadla&apos; z hlavní nabídky a uložtě stávající letadlo do knihovny.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádná letadla nejsou k dispozici. Pro přidání zvolte &apos;Letadla&apos; z hlavní nabídky a uložtě stávající letadlo do knihovny.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="178"/>
+        <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft available. To add an aircraft here, choose &apos;Aircraft&apos; from the main menu, and save the current aircraft to the library.&lt;/p&gt;</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="179"/>
@@ -146,78 +150,78 @@
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftPage.qml" line="152"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="173"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="174"/>
         <source>Name</source>
         <translation>Název</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="164"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="165"/>
         <source>Callsign</source>
         <translation>Volací znak</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="175"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="176"/>
         <source>Enter the callsign of your aircraft. Together with the Hex ID, the name is used to filter out your own aircraft when receiving traffic data from the Open Glider Network, preventing it from being displayed twice on the map.</source>
         <translation>Zadejte volací znak svého letadla. Spolu s Hex ID slouží tento název k odfiltrování vašeho vlastního letadla při příjmu dat o provozu ze sítě Open Glider Network, aby se na mapě nezobrazovalo dvakrát.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="182"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="203"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="183"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="205"/>
         <source>Hex ID</source>
         <translation>Hex ID</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="194"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="196"/>
         <source>Transponder/FLARM ID</source>
         <translation>ID transpondéru/FLARM</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="205"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="207"/>
         <source>Enter the “ICAO 24-bit address” of your transponder (e.g., “3D1C11”), the “FLARM Radio ID” of your FLARM device (e.g., “3EDE26”) or the “Open Glider Network Source ID” of your aircraft (e.g., “ICA3D1C11”, “FLR123456”). Together with the name, this identifier is used to filter out your own aircraft when receiving traffic data from the Open Glider Network, preventing it from being displayed twice on the map. If you do not use Open Glider Network traffic data, you can leave this field empty.</source>
         <translation>Zadejte „24bitovou adresu ICAO“ vašeho transpondéru (např. „3D1C11“), „FLARM Radio ID“ vašeho zařízení FLARM (např. „3EDE26“) nebo „Open Glider Network Source ID“ vašeho letadla (např. „ICA3D1C11“, „FLR123456“). Spolu s názvem slouží tento identifikátor k odfiltrování vašeho vlastního letadla při příjmu dat o provozu ze sítě Open Glider Network, aby se na mapě nezobrazovalo dvakrát. Pokud data o provozu z Open Glider Network nepoužíváte, můžete toto pole nechat prázdné.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="207"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="209"/>
         <source>You can enter multiple codes separated by spaces if your aircraft has multiple identifiers. The comparison is case-insensitive.</source>
         <translation>Pokud má vaše letadlo více identifikátorů, můžete zadat více kódů oddělených mezerami. Porovnání nerozlišuje velikost písmen.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="228"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="230"/>
         <source>Use cabin pressure instead of static pressure for pressure altitude calculation.</source>
         <translation>Použít pro výpočet tlakové výšky tlak v kabině místo statického tlaku.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="235"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="237"/>
         <source>Cabin/Altitude Pressure</source>
         <translation>Tlak v kabině / tlaková výška</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="237"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="239"/>
         <source>If this option is checked, Enroute Flight Navigation will use the pressure sensor of your mobile device to measure the pressure altitude and determine vertical distances to airspaces. This option is only available if your device has a pressure sensor.</source>
         <translation>Pokud je tato volba zaškrtnuta, Enroute Flight Navigation použije tlakový senzor vašeho mobilního zařízení k měření tlakové výšky a určení vertikálních vzdáleností od vzdušných prostorů. Tato volba je dostupná pouze v případě, že vaše zařízení má tlakový senzor.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="239"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="241"/>
         <source>If available, Enroute Flight Navigation will always use the pressure altitude provided by an external traffic data receiver instead of the pressure altitude calculated from the pressure sensor of your mobile device.</source>
         <translation>Pokud je k dispozici, Enroute Flight Navigation vždy použije tlakovou výšku poskytovanou externím přijímačem letového provozu namísto tlakové výšky vypočtené z tlakového senzoru vašeho mobilního zařízení.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="247"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="249"/>
         <source>Units</source>
         <translation>Jednotky</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="279"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="281"/>
         <source>Nautical Miles</source>
         <translation>Námořní míle</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="279"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="281"/>
         <source>Kilometers</source>
         <translation>Kilometry</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="279"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="281"/>
         <source>Statute Miles</source>
         <translation>Pozemní míle</translation>
     </message>
@@ -234,12 +238,12 @@
         <translation type="vanished">Zvolte používané jednotky pro toto letadlo. Jednotky se vztahují také na horizontální rychlost.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="305"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="307"/>
         <source>Feet</source>
         <translation>Stopy</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="305"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="307"/>
         <source>Meters</source>
         <translation>Metry</translation>
     </message>
@@ -252,7 +256,7 @@
         <translation type="vanished">Zvolte používané jednotky pro toto letadlo. Jednotky se vztahují také na vertikální rychlost.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="331"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="333"/>
         <source>Liters</source>
         <translation>Litry</translation>
     </message>
@@ -261,7 +265,7 @@
         <translation type="vanished">Galony</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="310"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="312"/>
         <source>Volume</source>
         <translation>Objem</translation>
     </message>
@@ -274,98 +278,98 @@
         <translation type="vanished">Zvolte používané jednotky pro toto letadlo.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="255"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="257"/>
         <source>Horizontal</source>
         <translation>Horizontální</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="284"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="286"/>
         <source>Vertical</source>
         <translation>Vertikální</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="331"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="333"/>
         <source>U.S. Gallons</source>
         <translation>U.S. Galony</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="337"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="339"/>
         <source>True Airspeed</source>
         <translation>Pravá vzdušná rychlost</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="346"/>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="591"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="348"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="593"/>
         <source>Cruise</source>
         <translation>Přímý let</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="425"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="427"/>
         <source>Descent</source>
         <translation>Klesání</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="504"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="506"/>
         <source>Minimum</source>
         <translation>Minimum</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="583"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="585"/>
         <source>Fuel Consumption</source>
         <translation>Spotřeba paliva</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="681"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="685"/>
         <source>Flight Safety Warning!</source>
         <translation>Varování k bezpečnosti letu!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="683"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="687"/>
         <source>Know what you are doing!</source>
         <translation>Je nezbytné vědět, co děláte!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="684"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="688"/>
         <source>If you enable this option, Enroute Flight Navigation will use the pressure sensor of your mobile device to determine pressure altitude and vertical distances to airspaces.</source>
         <translation>Pokud tuto volbu povolíte, Enroute Flight Navigation použije tlakový senzor vašeho mobilního zařízení k určení tlakové výšky a vertikálních vzdáleností od vzdušných prostorů.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="685"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="689"/>
         <source>This is safety critical.</source>
         <translation>Toto je kritické z hlediska bezpečnosti.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="688"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="692"/>
         <source>The pressure sensor of your device is probably not certified for use in aviation.</source>
         <translation>Tlakový senzor vašeho zařízení pravděpodobně není certifikován pro použití v letectví.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="689"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="693"/>
         <source>In typical GA aircraft, cabin pressure is not equal to static pressure.</source>
         <translation>V typických letadlech všeobecného letectví se tlak v kabině nerovná statickému tlaku.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="690"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="694"/>
         <source>The precise difference depends on factors such as airspeed and configuration of ventilation and heating.</source>
         <translation>Přesný rozdíl závisí na faktorech, jako je rychlost letu a nastavení ventilace a topení.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="692"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="696"/>
         <source>Do not enable this option unless you convinced yourself that the data provided by your sensor is good enough for the intended use.</source>
         <translation>Nepovolujte tuto volbu, pokud jste se sami nepřesvědčili, že data poskytovaná vaším senzorem jsou pro zamýšlené použití dostatečně kvalitní.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="693"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="697"/>
         <source>Do not rely on data shown in this app.</source>
         <translation>Nespoléhejte se na data zobrazená v této aplikaci.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="694"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="698"/>
         <source>Always use an approved altimeter to judge vertical distance to airspaces.</source>
         <translation>K posouzení vertikální vzdálenosti od vzdušných prostorů vždy používejte schválený výškoměr.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/AircraftPage.qml" line="697"/>
+        <location filename="../../../src/qml/pages/AircraftPage.qml" line="701"/>
         <source>We strongly recommend connecting Enroute Flight Navigation to a proper traffic data receiver, such as a FLARM or ADS-B device, that provides static pressure data.</source>
         <translation>Důrazně doporučujeme připojit Enroute Flight Navigation k řádnému přijímači letového provozu, jako je zařízení FLARM nebo ADS-B, který poskytuje údaje o statickém tlaku.</translation>
     </message>
@@ -1064,182 +1068,182 @@ mají vždy přednost.&lt;/p&gt;
         <translation>neznámá velikost souboru</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="395"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="394"/>
         <source>unable to write to the file &apos;%1&apos; (%2)</source>
         <translation>nelze zapisovat do souboru &apos;%1&apos; (%2)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="508"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="507"/>
         <source>the remote server refused the connection (the server is not accepting requests)</source>
         <translation>vzdálený server odmítl připojení (server odmítá žádosti)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="512"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="511"/>
         <source>the remote server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>Vzdálený server předčasně ukončil spojení, dříve než mohla být doručena a zpracována odpověď</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="517"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="516"/>
         <source>the remote host name was not found (invalid hostname)</source>
         <translation>Vzdálený server nenalezen (neznámý hostname)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="521"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="520"/>
         <source>the connection to the remote server timed out</source>
         <translation>při připojení ke vzdálenému serveru nastal timeout</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="526"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="525"/>
         <source>the operation was canceled via calls to abort() or close() before it was finished</source>
         <translation>operace byla zrušena skrz volání abort() nebo close() předtím, než mohla být dokončena</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="530"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="529"/>
         <source>the SSL/TLS handshake failed and the encrypted channel could not be established.</source>
         <translation>SSL/TLS handshake selhal; zabezpečené spojení nebylo vytvořeno.</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="534"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="533"/>
         <source>the connection was broken due to disconnection from the network</source>
         <translation>spojení bylo přerušeno kvůli odpojení ze sítě</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="538"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="537"/>
         <source>the connection was broken due to disconnection from the network or failure to start the network</source>
         <translation>spojení bylo přerušeno kvůli odpojení ze sítě nebo kvůli chybě při navazování spojení</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="543"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="542"/>
         <source>the background request is not currently allowed due to platform policy</source>
         <translation>požadavek na pozadí v současnosti není povolen kvůli bezpečnostním pravidlům platformy</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="547"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="546"/>
         <source>while following redirects, the maximum limit was reached</source>
         <translation>došlo k vyčerání limitů při následování přesměrování</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="551"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="550"/>
         <source>while following redirects, the network access API detected a redirect from an encrypted protocol (https) to an unencrypted one (http)</source>
         <translation>při následování přesměrování detekovalo API pro síťové spojení  přesměrování z šifrovaného protokolu (https) na nešifrovaný (http)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="556"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="555"/>
         <source>the connection to the proxy server was refused (the proxy server is not accepting requests)</source>
         <translation>spojení na proxy server bylo zamítnuto (proxy server nepřijímá požadavky)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="561"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="560"/>
         <source>the proxy server closed the connection prematurely, before the entire reply was received and processed</source>
         <translation>proxy server předčasně ukončil spojení, dříve než mohla být doručena a zpracována odpověď</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="566"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="565"/>
         <source>the proxy host name was not found (invalid proxy hostname)</source>
         <translation>Proxy Hostname nenalezeno(nevalidní název)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="570"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="569"/>
         <source>the connection to the proxy timed out or the proxy did not reply in time to the request sent</source>
         <translation>při připojení k proxy nastal timeout, případně proxy neodpověděla včas na zaslaný požadavek</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="575"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="574"/>
         <source>the proxy requires authentication in order to honor the request but did not accept any credentials offered (if any)</source>
         <translation>proxy vyžaduje autentizaci pro zpracování požadavku, ale nepřijala autentizační údaje (pokud byly dodány)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="580"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="579"/>
         <source>the access to the remote content was denied (similar to HTTP error 403)</source>
         <translation>přístup ke vzdálenému obsahu byl odepřen (obdoba HTTP chyby 403)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="584"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="583"/>
         <source>the operation requested on the remote content is not permitted</source>
         <translation>požadovaná operace není na vzdáleném obsahu povolena</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="588"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="587"/>
         <source>the remote content was not found at the server (similar to HTTP error 404)</source>
         <translation>vzdálený obsah nebyl na serveru nalezen (obdoba HTTP chyby 404)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="592"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="591"/>
         <source>the remote server requires authentication to serve the content but the credentials provided were not accepted (if any)</source>
         <translation>vzdálený server vyžaduje autentizaci pro zpracování požadavku, ale nepřijal autentizační údaje (pokud byly dodány)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="597"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="596"/>
         <source>the request needed to be sent again, but this failed for example because the upload data could not be read a second time</source>
         <translation>požadavek bylo nutné zaslat znovu, toto se ale nepodařilo - nebylo například možné načíst údaje ani při druhém pokusu</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="602"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="601"/>
         <source>the request could not be completed due to a conflict with the current state of the resource</source>
         <translation>požadavek nemohl být splněn kvůli konfliktu se stávajícím stavem zdroje</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="607"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="606"/>
         <source>the requested resource is no longer available at the server</source>
         <translation>požadovaný zdroj dat již není na serveru k dispozici</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="611"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="610"/>
         <source>the server encountered an unexpected condition which prevented it from fulfilling the request</source>
         <translation>na serveru nastala neočekávaná chyba, která znemožnila odpovědět na požadavek</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="617"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="616"/>
         <source>the server does not support the functionality required to fulfill the request</source>
         <translation>server nepodporuje požadovanou funkčnost</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="621"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="620"/>
         <source>the server is unable to handle the request at this time</source>
         <translation>server není schopen v tuto chvíli zpracovat požadavek</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="626"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="625"/>
         <source>the Network Access API cannot honor the request because the protocol is not known</source>
         <translation>API pro síťový přístup nedokáže zpracovat požadavek kvůli neznámému protokolu</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="630"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="629"/>
         <source>the requested operation is invalid for this protocol</source>
         <translation>požadovaná operace není platná pro tento protokol</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="634"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="633"/>
         <source>an unknown network-related error was detected</source>
         <translation>byla detekována neznámá síťová chyba</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="638"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="637"/>
         <source>an unknown proxy-related error was detected</source>
         <translation>byla detekována neznámá chyba, související s proxy</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="642"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="641"/>
         <source>an unknown error related to the remote content was detected</source>
         <translation>byla detekována neznámá chyba, související se vzdáleným obsahem</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="646"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="645"/>
         <source>a breakdown in protocol was detected (parsing error, invalid or unexpected responses, etc.)</source>
         <translation>byla detekována chyba ve zpracování protokolu (chyba při extrakci údajů, nevalidní nebo neočekávané odpovědí, apod.)</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="651"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="650"/>
         <source>an unknown error related to the server response was detected</source>
         <translation>byla detekována neznámá chyba, související s odpovědí ze serveru</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="655"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="654"/>
         <source>unknown</source>
         <translation>neznámo</translation>
     </message>
     <message>
-        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="706"/>
+        <location filename="../../../src/dataManagement/Downloadable_SingleFile.cpp" line="705"/>
         <source>unable to replace the file &apos;%1&apos; with the downloaded data (%2)</source>
         <translation>nelze nahradit soubor &apos;%1&apos; staženými daty (%2)</translation>
     </message>
@@ -2406,12 +2410,12 @@ Zpráva:  Enroute Flight Navigation
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1057"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1185"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1176"/>
         <source>Add Waypoint to Route</source>
         <translation>Přidat bod do trati</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1090"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1093"/>
         <source>Choose a waypoint from the list below or &lt;a href=&apos;xx&apos;&gt;enter coordinates manually&lt;/a&gt;.</source>
         <translation>Vyberte navigační bod ze seznamu níže, nebo &lt;a href=&apos;xx&apos;&gt;zadejte souřadnice ručně&lt;/a&gt;.</translation>
     </message>
@@ -2420,38 +2424,37 @@ Zpráva:  Enroute Flight Navigation
         <translation type="vanished">Filtrovat podle názvu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1129"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
-        <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné navigační body neodpovídají vašemu filtru.&lt;/p&gt;</translation>
+        <translation type="vanished">&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné navigační body neodpovídají vašemu filtru.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1158"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1149"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints available. Please make sure that an aviation map is installed.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné navigační body nejsou k dispozici. Ujistěte se prosím, že je nainstalována letecká mapa.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1159"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1150"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter criteria.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné navigační body neodpovídají vaším vyhledávaným údajům.&lt;/p&gt;</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1202"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1193"/>
         <source>Clear Route?</source>
         <translation>Odstranit vše z tratě?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1205"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1196"/>
         <source>Once erased, the current flight route cannot be restored.</source>
         <translation>Po odstranění nebude možný návrat k současné trati.</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="438"/>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1209"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1200"/>
         <source>Flight route cleared</source>
         <translation>Traťové body odstraněny</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1231"/>
+        <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="1222"/>
         <source>Error Exporting Data…</source>
         <translation>Chyba při exportování údajů…</translation>
     </message>
@@ -2695,71 +2698,76 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>Flightlog::FlightLog</name>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="136"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="161"/>
         <source>Automatic flight detection may stop working once the app is in the background. Please grant &quot;Always&quot; location access to this app in the system Settings.</source>
         <translation>Automatická detekce letu může přestat fungovat, jakmile bude aplikace na pozadí. Povolte prosím této aplikaci v systémovém Nastavení přístup k poloze „Vždy“.</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="155"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="180"/>
         <source>No Position Data</source>
         <translation>Žádná data o poloze</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="156"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="181"/>
         <source>Automatic flight detection is active but no GPS or traffic receiver data is being received. Enable Location Service.</source>
         <translation>Automatická detekce letu je aktivní, ale nejsou přijímána žádná data z GPS ani z přijímače provozu. Zapněte služby určování polohy.</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="524"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="596"/>
         <source>Cannot open file: %1</source>
         <translation>Nelze otevřít soubor: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="531"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="603"/>
         <source>The file does not contain a valid flight log.</source>
         <translation>Soubor neobsahuje platný letový záznam.</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="566"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="638"/>
         <source>Failed to save the imported flights to storage. Nothing was imported.</source>
         <translation>Importované lety se nepodařilo uložit do úložiště. Nic nebylo importováno.</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="769"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="778"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="848"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="857"/>
         <source>Takeoff Detected</source>
         <translation>Detekován vzlet</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="770"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="779"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="849"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="858"/>
         <source>Departed %1 at %2 UTC</source>
         <translation>Odlet z %1 v %2 UTC</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="771"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="780"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="838"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="847"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="850"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="859"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="917"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="926"/>
         <source>unknown</source>
         <translation>neznámo</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="819"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="898"/>
         <source>Failed to save GPS track for flight from %1.</source>
         <translation>Nepodařilo se uložit GPS trasu letu z %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="836"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="845"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="915"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="924"/>
         <source>Landing Detected</source>
         <translation>Detekováno přistání</translation>
     </message>
     <message>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="837"/>
-        <location filename="../../../src/flightlog/FlightLog.cpp" line="846"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="916"/>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="925"/>
         <source>Landed %1 at %2 UTC</source>
         <translation>Přistání v %1 v %2 UTC</translation>
+    </message>
+    <message>
+        <location filename="../../../src/flightlog/FlightLog.cpp" line="1076"/>
+        <source>Automatic flight detection needs access to the device location to keep running while the app is in the background. Please grant location access to this app in the system settings.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2783,42 +2791,42 @@ Zpráva:  Enroute Flight Navigation
 <context>
     <name>GeoMaps::GeoMapProvider</name>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="119"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="123"/>
         <source>Aviation Maps</source>
         <translation>Letecké mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="120"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="124"/>
         <source>The aeronautical maps are compiled from databases provided by the &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; and &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt; projects.</source>
         <translation>Letecké mapy jsou převzaty z databází projektů &lt;a href=&apos;http://openaip.net&apos;&gt;openAIP&lt;/a&gt; a &lt;a href=&apos;https://www.openflightmaps.org/&apos;&gt;open flightmaps&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="130"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="134"/>
         <source>Base Maps</source>
         <translation>Základní mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="131"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="135"/>
         <source>The base maps are generated from &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;OpenStreetMap&lt;/a&gt; data.</source>
         <translation>Základní mapy jsou vygenerovány z údajů z &lt;a href=&apos;https://www.openstreetmap.org&apos;&gt;Open Streetmap&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="138"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="142"/>
         <source>Terrain Maps</source>
         <translation>Mapy terénu</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="139"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="143"/>
         <source>The terrain maps are derived from the &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset on Amazon AWS&lt;/a&gt;.</source>
         <translation>Mapy terénu jsou vygenerovány z údajů z &lt;a href=&apos;https://registry.opendata.aws/terrain-tiles/&apos;&gt;Terrain Tiles Open Dataset na Amazon AWS&lt;/a&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="180"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="184"/>
         <source>Approach Charts</source>
         <translation>Mapy pro vizuální přiblížení</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="181"/>
+        <location filename="../../../src/geomaps/GeoMapProvider.cpp" line="185"/>
         <source>The approach charts are provided by the following agencies.</source>
         <translation>Mapy pro vizuální přiblížení poskytují následující organizace.</translation>
     </message>
@@ -2871,17 +2879,17 @@ Zpráva:  Enroute Flight Navigation
         <translation>Chyba: Nelze zapsat soubor VAC &lt;strong&gt;%1&lt;/strong&gt;: %2</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="380"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="389"/>
         <source>VAC &lt;strong&gt;%1&lt;/strong&gt; does not exist.</source>
         <translation>Vizuální přiblížovací mapa &lt;strong&gt;%1&lt;/strong&gt; neexistuje.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="384"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="393"/>
         <source>VAC &lt;strong&gt;%1&lt;/strong&gt; is part of a chart collection and cannot be renamed.</source>
         <translation>VAC &lt;strong&gt;%1&lt;/strong&gt; je součástí sbírky map a nelze ji přejmenovat.</translation>
     </message>
     <message>
-        <location filename="../../../src/geomaps/VACLibrary.cpp" line="391"/>
+        <location filename="../../../src/geomaps/VACLibrary.cpp" line="400"/>
         <source>VAC file renaming failed.</source>
         <translation>Chyba při přejmenování vizuální přiblížovací mapy.</translation>
     </message>
@@ -3791,22 +3799,22 @@ Zpráva:  Enroute Flight Navigation
         <translation type="vanished">Neni nainstalována žádná letecká mapa.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="501"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="528"/>
         <source>No aviation map installed for your present location.</source>
         <translation>Pro vaši aktuální polohu není nainstalována žádná letecká mapa.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="503"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="530"/>
         <source>Please wait for the download to complete.</source>
         <translation>Vyčkejte prosím, než skončí stahování.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="504"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="531"/>
         <source>In order to install a map, please open the menu using the menu button in the upper left corner of this screen.</source>
         <translation>Pro nahrání mapy použijte prosím tlačítko v levém horním rohu této obrazovky.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="505"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="532"/>
         <source>Choose &lt;a href=&apos;xx&apos;&gt;Library/Maps and Data&lt;/a&gt; to open the map management page.</source>
         <translation>Pro správu map zvolte &lt;a href=&apos;xx&apos;&gt;Knihovna/Mapy a data&lt;/a&gt;.</translation>
     </message>
@@ -3815,22 +3823,22 @@ Zpráva:  Enroute Flight Navigation
         <translation type="vanished">Mapa: Automatické centrování</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="688"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="715"/>
         <source>Airspaces up to %1</source>
         <translation>Letecké prostory do %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="691"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="718"/>
         <source>Downloading Maps and Data</source>
         <translation>Stahuji mapy a data</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="715"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="742"/>
         <source>ⓒ Map Data</source>
         <translation>ⓒ Mapové údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/items/MFM.qml" line="725"/>
+        <location filename="../../../src/qml/items/MFM.qml" line="752"/>
         <source>Map Data Copyright Information</source>
         <translation>Mapy - Copyright informace</translation>
     </message>
@@ -3996,7 +4004,7 @@ Zpráva:  Enroute Flight Navigation
         <translation>Soubor &apos;%1&apos; obsahuje příliš mnoho navigačních bodů. Tratě s více než 100 body nejsou podporovány.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="535"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="548"/>
         <source>Unable to write to file &apos;%1&apos;: %2</source>
         <translation>Nelze zapisovat do souboru &apos;%1&apos;: %2</translation>
     </message>
@@ -4009,8 +4017,8 @@ Zpráva:  Enroute Flight Navigation
         <translation type="vanished">Nelze zapisovat do souboru &apos;%1&apos;.</translation>
     </message>
     <message>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="544"/>
-        <location filename="../../../src/navigation/FlightRoute.cpp" line="601"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="557"/>
+        <location filename="../../../src/navigation/FlightRoute.cpp" line="614"/>
         <source>Flight Route</source>
         <translation>Trať</translation>
     </message>
@@ -4065,7 +4073,7 @@ Zpráva:  Enroute Flight Navigation
         <translation type="vanished">Filtrovat podle názvu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/pages/Nearby.qml" line="202"/>
+        <location filename="../../../src/qml/pages/Nearby.qml" line="204"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No waypoints match your filter.&lt;/p&gt;</source>
         <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádné navigační body neodpovídají vaším kritériím.&lt;/p&gt;</translation>
     </message>
@@ -4868,13 +4876,13 @@ můžeme získat.&lt;/p&gt;
         <translation>Nelze načíst tabulku metadat ze souboru MBTILES.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="65"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="66"/>
         <source>Found corrupt data while reading the data stream.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Při čtení datového proudu byla nalezena poškozená data.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="67"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="68"/>
         <source>Read past end of data stream.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Čtení za koncem datového proudu.</translation>
@@ -4886,77 +4894,83 @@ můžeme získat.&lt;/p&gt;
         <translation>Data jsou větší, než aktuální platforma podporuje.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="73"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="72"/>
         <source>Error writing to data stream.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Chyba při zápisu do datového proudu.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="134"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="133"/>
         <source>Found invalid TIFF file data.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Nalezena neplatná data souboru TIFF.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="142"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="141"/>
         <source>BigTIFF files are not supported.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Soubory BigTIFF nejsou podporovány.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="146"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="145"/>
         <source>Found an unsupported TIFF version.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Nalezena nepodporovaná verze TIFF.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="163"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="162"/>
         <source>Found more than 100 tags in the TIFF file. Reading only the first 100.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>V souboru TIFF bylo nalezeno více než 100 tagů. Čtu pouze prvních 100.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="253"/>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="265"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="252"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="264"/>
         <source>Cannot read data.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Nelze číst data.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="315"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="323"/>
         <source>No data for tag 256.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Žádná data pro tag 256.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="321"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="329"/>
         <source>Invalid data for tag 256.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Neplatná data pro tag 256.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="326"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="334"/>
         <source>Tag 256 is not set.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Tag 256 není nastaven.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="338"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="346"/>
         <source>No data for tag 257.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Žádná data pro tag 257.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="344"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="352"/>
         <source>Invalid data for tag 257.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Neplatná data pro tag 257.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/TIFF.cpp" line="349"/>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="357"/>
         <source>Tag 257 is not set.</source>
         <comment>FileFormats::TIFF</comment>
         <translation>Tag 257 není nastaven.</translation>
+    </message>
+    <message>
+        <location filename="../../../src/fileFormats/TIFF.cpp" line="364"/>
+        <source>Raster size is too large.</source>
+        <comment>FileFormats::TIFF</comment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="147"/>
@@ -6418,7 +6432,7 @@ můžeme získat.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/traffic/TrafficDataSource_Abstract_FLARM.cpp" line="787"/>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="269"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="276"/>
         <source>No GPS reception</source>
         <translation>Žádný příjem GPS</translation>
     </message>
@@ -6428,12 +6442,12 @@ můžeme získat.&lt;/p&gt;
         <translation>Příliš nízké nebo vysoké napětí</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="274"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="281"/>
         <source>Maintenance required</source>
         <translation>Požadován servisní zásah</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="278"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Abstract_GDL90.cpp" line="285"/>
         <source>GPS Battery low voltage</source>
         <translation>Nízké napětí baterie GPS</translation>
     </message>
@@ -7107,12 +7121,12 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>Traffic::TrafficDataSource_Udp</name>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp.cpp" line="93"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp.cpp" line="99"/>
         <source>Receiving Data.</source>
         <translation>Přijímám data.</translation>
     </message>
     <message>
-        <location filename="../../../src/traffic/TrafficDataSource_Udp.h" line="98"/>
+        <location filename="../../../src/traffic/TrafficDataSource_Udp.h" line="99"/>
         <source>UDP connection to port %1</source>
         <translation>UDP připojení k portu %1</translation>
     </message>
@@ -11226,88 +11240,88 @@ můžeme získat.&lt;/p&gt;
 <context>
     <name>main</name>
     <message>
-        <location filename="../../../src/qml/main.qml" line="248"/>
-        <location filename="../../../src/qml/main.qml" line="374"/>
+        <location filename="../../../src/qml/main.qml" line="315"/>
+        <location filename="../../../src/qml/main.qml" line="441"/>
         <source>Aircraft</source>
         <translation>Letadla</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="265"/>
+        <location filename="../../../src/qml/main.qml" line="332"/>
         <source>Route and Wind</source>
         <translation>Trať a vítr</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="283"/>
+        <location filename="../../../src/qml/main.qml" line="350"/>
         <source>Approach Charts</source>
         <translation>Mapy pro vizuální přiblížení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="302"/>
+        <location filename="../../../src/qml/main.qml" line="369"/>
         <source>Nearby Waypoints</source>
         <translation>Blízké navigační body</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="320"/>
+        <location filename="../../../src/qml/main.qml" line="387"/>
         <source>Weather</source>
         <translation>Počasí</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="338"/>
+        <location filename="../../../src/qml/main.qml" line="405"/>
         <source>Flight Log</source>
         <translation>Letový záznam</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="362"/>
+        <location filename="../../../src/qml/main.qml" line="429"/>
         <source>Library</source>
         <translation>Knihovna</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="387"/>
+        <location filename="../../../src/qml/main.qml" line="454"/>
         <source>Flight Routes</source>
         <translation>Letové tratě</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="400"/>
+        <location filename="../../../src/qml/main.qml" line="467"/>
         <source>Maps and Data</source>
         <translation>Mapy a údaje</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="401"/>
+        <location filename="../../../src/qml/main.qml" line="468"/>
         <source>Updates available</source>
         <translation>Aktualizace k dispozici</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="402"/>
+        <location filename="../../../src/qml/main.qml" line="469"/>
         <source>Item not available in flight</source>
         <translation>Položka není dostupná za letu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="416"/>
+        <location filename="../../../src/qml/main.qml" line="483"/>
         <source>Waypoints</source>
         <translation>Navigační body</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="437"/>
+        <location filename="../../../src/qml/main.qml" line="504"/>
         <source>Settings</source>
         <translation>Nastavení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="460"/>
+        <location filename="../../../src/qml/main.qml" line="527"/>
         <source>Information</source>
         <translation>Informace</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="472"/>
+        <location filename="../../../src/qml/main.qml" line="539"/>
         <source>SatNav Positioning</source>
         <translation>GPS poloha</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="474"/>
+        <location filename="../../../src/qml/main.qml" line="541"/>
         <source>Receiving position information.</source>
         <translation>Přijímám polohové údaje.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="474"/>
+        <location filename="../../../src/qml/main.qml" line="541"/>
         <source>Not receiving position information.</source>
         <translation>Nepřijímám polohové údaje.</translation>
     </message>
@@ -11324,252 +11338,257 @@ můžeme získat.&lt;/p&gt;
         <translation type="vanished">Nepřijímám tlakovou výšku.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="495"/>
+        <location filename="../../../src/qml/main.qml" line="562"/>
         <source>Traffic Receiver</source>
         <translation>Přijímač leteckého provozu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="497"/>
+        <location filename="../../../src/qml/main.qml" line="564"/>
         <source>Receiving heartbeat.</source>
         <translation>Přijímám heartbeat.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="497"/>
+        <location filename="../../../src/qml/main.qml" line="564"/>
         <source>Not receiving heartbeat.</source>
         <translation>Nepřijímám heartbeat.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="521"/>
+        <location filename="../../../src/qml/main.qml" line="588"/>
         <source>Device Sensors</source>
         <translation>Senzory zařízení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="540"/>
+        <location filename="../../../src/qml/main.qml" line="607"/>
         <source>About Enroute Flight Navigation</source>
         <translation>O Enroute Flight Navigation</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="553"/>
+        <location filename="../../../src/qml/main.qml" line="620"/>
         <source>Privacy Policy</source>
         <translation>Ochrana osobních údajů</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="566"/>
+        <location filename="../../../src/qml/main.qml" line="633"/>
         <source>Participate</source>
         <translation>Podílejte se na vývoji</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="579"/>
+        <location filename="../../../src/qml/main.qml" line="646"/>
         <source>Donate</source>
         <translation>Přispět</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="603"/>
+        <location filename="../../../src/qml/main.qml" line="670"/>
         <source>Manual</source>
         <translation>Návod</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="616"/>
+        <location filename="../../../src/qml/main.qml" line="683"/>
         <source>Read manual</source>
         <translation>Přečíst návod</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="643"/>
+        <location filename="../../../src/qml/main.qml" line="710"/>
         <source>Open in browser</source>
         <translation>Otevřít v prohlížeči</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="661"/>
+        <location filename="../../../src/qml/main.qml" line="728"/>
         <source>In order to show the manual, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open an external web site hosted by GitHub.</source>
         <translation>Pro zobrazení návodu otevře &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; externí webovou stránku na serveru GitHub.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="670"/>
+        <location filename="../../../src/qml/main.qml" line="737"/>
         <source>Download as ebook</source>
         <translation>Stáhnout jako e-knihu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="688"/>
-        <location filename="../../../src/qml/main.qml" line="714"/>
+        <location filename="../../../src/qml/main.qml" line="755"/>
+        <location filename="../../../src/qml/main.qml" line="781"/>
         <source>In order to download the manual, &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; will ask your system to open an external web site hosted by GitHub.</source>
         <translation>Pro stažení návodu otevře &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt; externí webovou stránku na serveru GitHub.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="696"/>
+        <location filename="../../../src/qml/main.qml" line="763"/>
         <source>Download as PDF</source>
         <translation>Stáhnout jako PDF</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="730"/>
+        <location filename="../../../src/qml/main.qml" line="797"/>
         <source>Bug Report</source>
         <translation>Nahlásit chybu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="755"/>
+        <location filename="../../../src/qml/main.qml" line="822"/>
         <source>Exit</source>
         <translation>Ukončit</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="824"/>
+        <location filename="../../../src/qml/main.qml" line="891"/>
         <source>Update required!</source>
         <translation>Vyžadována aktualizace!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="837"/>
-        <location filename="../../../src/qml/main.qml" line="851"/>
+        <location filename="../../../src/qml/main.qml" line="904"/>
+        <location filename="../../../src/qml/main.qml" line="918"/>
         <source>What&apos;s new…?</source>
         <translation>Co je nového...?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="949"/>
+        <location filename="../../../src/qml/main.qml" line="1016"/>
         <source>Unable to import more than one file at once. Please import only one file at a time.</source>
         <translation>Nelze importovat více souborů najednou. Importujte prosím pouze jeden soubor.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="967"/>
+        <location filename="../../../src/qml/main.qml" line="1034"/>
         <source>Connected to internet service providing traffic data.</source>
         <translation>Připojeno k internetové službě poskytující údaje o leteckém provozu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="969"/>
+        <location filename="../../../src/qml/main.qml" line="1036"/>
         <source>Connected to traffic receiver.</source>
         <translation>Připojeno k prijímači provozu.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="971"/>
+        <location filename="../../../src/qml/main.qml" line="1038"/>
         <source>Lost connection to traffic receiver.</source>
         <translation>Připojení k prijímači provozu přerušeno.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1003"/>
+        <location filename="../../../src/qml/main.qml" line="1070"/>
         <source>Exit…?</source>
         <translation>Ukončit…?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1004"/>
+        <location filename="../../../src/qml/main.qml" line="1071"/>
         <source>Do you wish to exit &lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</source>
         <translation>Chcete ukončit&lt;strong&gt;Enroute Flight Navigation&lt;/strong&gt;?</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1040"/>
+        <location filename="../../../src/qml/main.qml" line="1107"/>
         <source>Now showing airspaces up to %1.</source>
         <translation>Zobrazeny vzdušné prostory do %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1042"/>
+        <location filename="../../../src/qml/main.qml" line="1109"/>
         <source>Now showing all airspaces.</source>
         <translation>Zobrazeny všechny vzdušné prostory.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1052"/>
+        <location filename="../../../src/qml/main.qml" line="1119"/>
         <source>Start Time: %1 UTC</source>
         <translation>Čas startu: %1 UTC</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1056"/>
+        <location filename="../../../src/qml/main.qml" line="1123"/>
         <source>Landing Time: %1 UTC</source>
         <translation>Čas přistání: %1 UTC</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1062"/>
+        <location filename="../../../src/qml/main.qml" line="1129"/>
         <source>Flight log error</source>
         <translation>Chyba letového záznamu</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1063"/>
+        <location filename="../../../src/qml/main.qml" line="1130"/>
         <source>The flight log could not be saved to storage. Recent changes will be lost when the app closes.</source>
         <translation>Letový záznam se nepodařilo uložit do úložiště. Nedávné změny budou při zavření aplikace ztraceny.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1064"/>
+        <location filename="../../../src/qml/main.qml" line="1131"/>
         <source>Reason: %1</source>
         <translation>Důvod: %1</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1073"/>
+        <location filename="../../../src/qml/main.qml" line="1140"/>
         <source>Background location access</source>
         <translation>Přístup k poloze na pozadí</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1096"/>
+        <location filename="../../../src/qml/main.qml" line="1163"/>
         <source>Network security error</source>
         <translation>Chyba síťového zabezpečení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1108"/>
+        <location filename="../../../src/qml/main.qml" line="1175"/>
         <source>Network security settings</source>
         <translation>Nastavení síťového zabezpečení</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1109"/>
+        <location filename="../../../src/qml/main.qml" line="1176"/>
         <source>You have chosen to ignore network security errors in the future.</source>
         <translation>Zvojili jste do budoucna ignorovat chyby při zabezpečení síťového připojení.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1110"/>
+        <location filename="../../../src/qml/main.qml" line="1177"/>
         <source>This poses a security risk.</source>
         <translation>Toto představuje bezpečnostní riziko.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1111"/>
+        <location filename="../../../src/qml/main.qml" line="1178"/>
         <source>Go to the &apos;Settings&apos; page if you wish to restore the original, safe, behavior of this app.</source>
         <translation>Pro obnovení výchozího, zabezpečeného chování aplikace navigujte do sekce &lt;strong&gt;&lt;i&gt;Nastavení&lt;/i&gt;&lt;/strong&gt;.</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="948"/>
-        <location filename="../../../src/qml/main.qml" line="1141"/>
+        <location filename="../../../src/qml/main.qml" line="1015"/>
+        <location filename="../../../src/qml/main.qml" line="1208"/>
         <source>Error!</source>
         <translation>Chyba!</translation>
     </message>
     <message>
-        <location filename="../../../src/qml/main.qml" line="1156"/>
+        <location filename="../../../src/qml/main.qml" line="191"/>
+        <source>Help</source>
+        <translation type="unfinished">Nápověda</translation>
+    </message>
+    <message>
+        <location filename="../../../src/qml/main.qml" line="1223"/>
         <source>Starting map update</source>
         <translation>Začínám aktualizovat mapy</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="152"/>
+        <location filename="../../../src/main.cpp" line="156"/>
         <source>Enroute Flight Navigation is a free navigation app for VFR pilots,
 developed as a project of Akaflieg Freiburg.</source>
         <translation>Enroute Flight Navigation je aplikace zdarma pro VFR Piloty,
 vyvinuta jako projekt Akaflieg Freiburg.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="157"/>
+        <location filename="../../../src/main.cpp" line="161"/>
         <source>Run simulator and generate screenshots for Google Play</source>
         <translation>Spustit simulátor a vytvořit screenshoty pro Google Play</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="162"/>
+        <location filename="../../../src/main.cpp" line="166"/>
         <source>Run simulator and generate screenshots for macOS</source>
         <translation>Spustit simulátor a vytvořit snímky obrazovky pro macOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="167"/>
+        <location filename="../../../src/main.cpp" line="171"/>
         <source>Run simulator and generate screenshots for iOS</source>
         <translation>Spustit simulátor a vytvořit screenshoty pro iOS</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="171"/>
+        <location filename="../../../src/main.cpp" line="175"/>
         <source>Run simulator and generate screenshots for the manual</source>
         <translation>Spustit simulátor a vytvořit screenshoty pro návod</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="176"/>
+        <location filename="../../../src/main.cpp" line="180"/>
         <source>Open every page and dialog once, then quit. The exit code is 1 if the QML engine reported problems. Runs with QStandardPaths test mode, so user data is untouched.</source>
         <translation>Otevře jednou každou stránku a dialog a poté se ukončí. Návratový kód je 1, pokud QML engine nahlásil problémy. Běží v testovacím režimu QStandardPaths, takže uživatelská data zůstanou nedotčena.</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="181"/>
+        <location filename="../../../src/main.cpp" line="185"/>
         <source>look up string using Librarian::getStringFromRessource and print it to stdout</source>
         <translation>Vyhledat textový řetězec skrz Librarian::getStringFromResource a přesměrovat do stdout</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="183"/>
+        <location filename="../../../src/main.cpp" line="187"/>
         <source>string name</source>
         <translation>název řetězce</translation>
     </message>
     <message>
-        <location filename="../../../src/main.cpp" line="185"/>
+        <location filename="../../../src/main.cpp" line="189"/>
         <source>File to import.</source>
         <translation>Soubor k nahrání.</translation>
     </message>
