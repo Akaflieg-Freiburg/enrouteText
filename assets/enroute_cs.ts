@@ -67,7 +67,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="178"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft available. To add an aircraft here, choose &apos;Aircraft&apos; from the main menu, and save the current aircraft to the library.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Omlouváme se!&lt;/h3&gt;&lt;p&gt;Žádná letadla nejsou k dispozici. Pro přidání letadla zvolte &apos;Letadla&apos; z hlavní nabídky a uložte stávající letadlo do knihovny.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="179"/>
@@ -2767,7 +2767,7 @@ Zpráva:  Enroute Flight Navigation
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="1076"/>
         <source>Automatic flight detection needs access to the device location to keep running while the app is in the background. Please grant location access to this app in the system settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatická detekce letu potřebuje přístup k poloze zařízení, aby mohla běžet i tehdy, když je aplikace na pozadí. Povolte prosím této aplikaci v systémovém Nastavení přístup k poloze.</translation>
     </message>
 </context>
 <context>
@@ -4970,7 +4970,7 @@ můžeme získat.&lt;/p&gt;
         <location filename="../../../src/fileFormats/TIFF.cpp" line="364"/>
         <source>Raster size is too large.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Velikost rastru je příliš velká.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/TripKit.cpp" line="147"/>
@@ -11538,7 +11538,7 @@ můžeme získat.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="191"/>
         <source>Help</source>
-        <translation type="unfinished">Nápověda</translation>
+        <translation>Nápověda</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="1223"/>

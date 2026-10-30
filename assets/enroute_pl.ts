@@ -114,7 +114,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="178"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft available. To add an aircraft here, choose &apos;Aircraft&apos; from the main menu, and save the current aircraft to the library.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Przepraszamy!&lt;/h3&gt;&lt;p&gt;Brak dostępnych samolotów. Aby dodać tutaj samolot, wybierz &apos;Samolot&apos; z głównego menu i zapisz aktualny samolot do biblioteki.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="204"/>
@@ -3820,7 +3820,7 @@ z danymi konta bankowego.
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="1076"/>
         <source>Automatic flight detection needs access to the device location to keep running while the app is in the background. Please grant location access to this app in the system settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatyczne wykrywanie lotów potrzebuje dostępu do lokalizacji urządzenia, aby działać, gdy aplikacja jest w tle. Przyznaj tej aplikacji dostęp do lokalizacji w ustawieniach systemowych.</translation>
     </message>
 </context>
 <context>
@@ -7615,7 +7615,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/fileFormats/TIFF.cpp" line="364"/>
         <source>Raster size is too large.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>Rozmiar rastra jest zbyt duży.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="97"/>
@@ -14564,7 +14564,7 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/qml/main.qml" line="191"/>
         <source>Help</source>
-        <translation type="unfinished">Pomoc</translation>
+        <translation>Pomoc</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="1119"/>

@@ -82,7 +82,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="178"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft available. To add an aircraft here, choose &apos;Aircraft&apos; from the main menu, and save the current aircraft to the library.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;Désolé !&lt;/h3&gt;&lt;p&gt;Aucun avion disponible. Pour ajouter un avion ici, choisissez &apos;Avion&apos; depuis le menu principal, et sauvegardez l&apos;avion actuel dans la bibliothèque.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="204"/>
@@ -2790,7 +2790,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="1076"/>
         <source>Automatic flight detection needs access to the device location to keep running while the app is in the background. Please grant location access to this app in the system settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>La détection automatique des vols a besoin d&apos;accéder à la position de l&apos;appareil pour continuer à fonctionner lorsque l&apos;application est en arrière-plan. Veuillez accorder à cette application l&apos;accès à la position dans les réglages du système.</translation>
     </message>
 </context>
 <context>
@@ -5537,7 +5537,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
         <location filename="../../../src/fileFormats/TIFF.cpp" line="364"/>
         <source>Raster size is too large.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>La taille du raster est trop grande.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="97"/>
@@ -11919,7 +11919,7 @@ en programmation C++/Qt et avec les sytèmes Apple, contactez-nous via GitHub.&l
     <message>
         <location filename="../../../src/qml/main.qml" line="191"/>
         <source>Help</source>
-        <translation type="unfinished">Aide</translation>
+        <translation>Aide</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="1107"/>

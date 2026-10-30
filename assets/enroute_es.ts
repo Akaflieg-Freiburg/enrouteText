@@ -79,7 +79,7 @@
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="178"/>
         <source>&lt;h3&gt;Sorry!&lt;/h3&gt;&lt;p&gt;No aircraft available. To add an aircraft here, choose &apos;Aircraft&apos; from the main menu, and save the current aircraft to the library.&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;h3&gt;¡Lo sentimos!&lt;/h3&gt;&lt;p&gt;No hay aviones disponibles. Para agregar un avión aquí, elija &apos;Avión&apos; en el menú principal y guarde el avión actual en la biblioteca.&lt;/p&gt;</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/AircraftLibrary.qml" line="179"/>
@@ -3409,7 +3409,7 @@ con los datos de la cuenta bancaria.</translation>
     <message>
         <location filename="../../../src/flightlog/FlightLog.cpp" line="1076"/>
         <source>Automatic flight detection needs access to the device location to keep running while the app is in the background. Please grant location access to this app in the system settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>La detección automática de vuelos necesita acceso a la ubicación del dispositivo para seguir funcionando mientras la aplicación está en segundo plano. Conceda a esta aplicación el acceso a la ubicación en los ajustes del sistema.</translation>
     </message>
 </context>
 <context>
@@ -6867,7 +6867,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
         <location filename="../../../src/fileFormats/TIFF.cpp" line="364"/>
         <source>Raster size is too large.</source>
         <comment>FileFormats::TIFF</comment>
-        <translation type="unfinished"></translation>
+        <translation>El tamaño del ráster es demasiado grande.</translation>
     </message>
     <message>
         <location filename="../../../src/geomaps/VAC.cpp" line="97"/>
@@ -13718,7 +13718,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/qml/main.qml" line="191"/>
         <source>Help</source>
-        <translation type="unfinished">Ayuda</translation>
+        <translation>Ayuda</translation>
     </message>
     <message>
         <location filename="../../../src/qml/main.qml" line="797"/>
