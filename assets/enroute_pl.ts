@@ -12583,32 +12583,32 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1093"/>
         <source>It is not reported whether the pressure is now higher or lower than 3 hours ago.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nie podano, czy ciśnienie jest teraz wyższe, czy niższe niż 3 godziny temu.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1096"/>
         <source>The pressure is now higher than 3 hours ago.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciśnienie jest teraz wyższe niż 3 godziny temu.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1099"/>
         <source>The pressure is now higher than or the same as 3 hours ago.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciśnienie jest teraz wyższe niż 3 godziny temu lub takie samo.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1102"/>
         <source>The pressure is now the same as 3 hours ago.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciśnienie jest teraz takie samo jak 3 godziny temu.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1105"/>
         <source>The pressure is now lower than or the same as 3 hours ago.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciśnienie jest teraz niższe niż 3 godziny temu lub takie samo.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1108"/>
         <source>The pressure is now lower than 3 hours ago.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciśnienie jest teraz niższe niż 3 godziny temu.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1259"/>
@@ -14140,13 +14140,13 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2759"/>
         <source>Atmospheric pressure is %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ciśnienie atmosferyczne jest %1.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2764"/>
         <source>During the last 3 hours, the atmospheric pressure was %1. %2 The absolute pressure change is %3.</source>
         <extracomment>Note: %1 will be replaced by a text such as &quot;increasing more slowly&quot;. %2 will be replaced by a complete sentence such as &quot;The pressure is now higher than 3 hours ago.&quot; %3 will be replaced by a pressure value such as &quot;1.2 hPa&quot;.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>W ciągu ostatnich 3 godzin ciśnienie atmosferyczne było %1. %2 Bezwzględna zmiana ciśnienia wynosi %3.</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2850"/>
