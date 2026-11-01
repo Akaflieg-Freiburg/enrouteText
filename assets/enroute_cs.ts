@@ -5341,82 +5341,82 @@ můžeme získat.&lt;/p&gt;
         <translation>Soubor FPL %1 nelze načíst jako XML.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="77"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="81"/>
         <source>Waypoint %1 has more than one identifier.</source>
         <comment>FileFormats::FPL</comment>
         <translation>Navigační bod %1 má více než jeden identifikátor.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="86"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="90"/>
         <source>Waypoint %1 has more than one latitude.</source>
         <comment>FileFormats::FPL</comment>
         <translation>Navigační bod %1 má více než jednu zeměpisnou šířku.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="93"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="97"/>
         <source>Waypoint %1 does not have a valid latitude.</source>
         <comment>FileFormats::FPL</comment>
         <translation>Navigační bod %1 nemá platnou zeměpisnou šířku.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="101"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="105"/>
         <source>Waypoint %1 has more than one longitude.</source>
         <comment>FileFormats::FPL</comment>
         <translation>Navigační bod %1 má více než jednu zeměpisnou délku.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="108"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="112"/>
         <source>Waypoint %1 does not have a valid longitude.</source>
         <comment>FileFormats::FPL</comment>
         <translation>Navigační bod %1 nemá platnou zeměpisnou délku.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="116"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="120"/>
         <source>Waypoint %1 has more than one elevation.</source>
         <comment>FileFormats::FPL</comment>
         <translation>Navigační bod %1 má více než jednu nadmořskou výšku.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="123"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="127"/>
         <source>Waypoint %1 does not have a valid elevation.</source>
         <comment>FileFormats::FPL</comment>
         <translation>Navigační bod %1 nemá platnou nadmořskou výšku.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="134"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="138"/>
         <source>Waypoint %1 does not have an identifier.</source>
         <comment>FileFormats::FPL</comment>
         <translation>Navigační bod %1 nemá identifikátor.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="139"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="143"/>
         <source>Waypoint %1 does not have valid coordinates.</source>
         <comment>FileFormats::FPL</comment>
         <translation>Navigační bod %1 nemá platné souřadnice.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="147"/>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="198"/>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="209"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="151"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="204"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="215"/>
         <source>File %1 does not contain waypoints.</source>
         <comment>FileFormats::FPL</comment>
         <translation>Soubor %1 neobsahuje žádné navigační body.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="180"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="184"/>
         <source>Waypoint %1 does not have a unique waypoint identifier.</source>
         <comment>FileFormats::FPL</comment>
         <translation>Navigační bod %1 nemá jedinečný identifikátor navigačního bodu.</translation>
     </message>
     <message>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="190"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="196"/>
         <source>Waypoint identifier for point %1 of the flight route does not exist.</source>
         <comment>FileFormats::FPL</comment>
         <translation>Identifikátor navigačního bodu pro bod %1 trati neexistuje.</translation>
     </message>
     <message>
         <location filename="../../../src/fileFormats/FPL.cpp" line="47"/>
-        <location filename="../../../src/fileFormats/FPL.cpp" line="214"/>
+        <location filename="../../../src/fileFormats/FPL.cpp" line="220"/>
         <source>File %1 does not contain a route.</source>
         <comment>FileFormats::FPL</comment>
         <translation>Soubor %1 neobsahuje trať.</translation>
