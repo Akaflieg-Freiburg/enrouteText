@@ -11116,7 +11116,7 @@ můžeme získat.&lt;/p&gt;
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="299"/>
         <source>METAR %1: %2</source>
-        <translation>METAR %1:%2</translation>
+        <translation>METAR %1: %2</translation>
     </message>
     <message>
         <location filename="../../../src/weather/METAR.cpp" line="317"/>
