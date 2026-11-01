@@ -12145,29 +12145,24 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Extreme Turbulenz</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1096"/>
         <source>higher than</source>
-        <translation>höher als</translation>
+        <translation type="vanished">höher als</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1099"/>
         <source>higher or the same as</source>
-        <translation>höher als oder gleich wie</translation>
+        <translation type="vanished">höher als oder gleich wie</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1102"/>
         <source>same as</source>
-        <translation>gleich wie</translation>
+        <translation type="vanished">gleich wie</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1105"/>
         <source>lower or the same as</source>
-        <translation>niedriger als oder gleich wie</translation>
+        <translation type="vanished">niedriger als oder gleich wie</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1108"/>
         <source>lower than</source>
-        <translation>niedriger als</translation>
+        <translation type="vanished">niedriger als</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1118"/>
@@ -12944,7 +12939,6 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="607"/>
         <location filename="../../../src/weather/Decoder.cpp" line="632"/>
         <location filename="../../../src/weather/Decoder.cpp" line="951"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1093"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1145"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1177"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1222"/>
@@ -13267,6 +13261,36 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="1711"/>
         <source>blowing snow</source>
         <translation>Flugschnee</translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1093"/>
+        <source>It is not reported whether the pressure is now higher or lower than 3 hours ago.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1096"/>
+        <source>The pressure is now higher than 3 hours ago.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1099"/>
+        <source>The pressure is now higher than or the same as 3 hours ago.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1102"/>
+        <source>The pressure is now the same as 3 hours ago.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1105"/>
+        <source>The pressure is now lower than or the same as 3 hours ago.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1108"/>
+        <source>The pressure is now lower than 3 hours ago.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1717"/>
@@ -13806,15 +13830,13 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <translation>Keine Dreistundentendenz beim Luftdruck vorhanden. Absolute Druckänderung ist %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2759"/>
         <source>Atmospheric pressure is %1</source>
-        <translation>Luftdruck ist %1</translation>
+        <translation type="vanished">Luftdruck ist %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2764"/>
         <source>During last 3 hours the atmospheric pressure was %1. Now the atmospheric pressure is %2 3h ago. Absolute pressure change is %3</source>
         <extracomment>Note: the string %2 will be replaced by a text such as &quot;less than&quot;</extracomment>
-        <translation>In den letzten 3 Std. war der Luftdruck %1, jetzt ist er %2 vor 3 Std. Die absolute Veränderung ist %3</translation>
+        <translation type="vanished">In den letzten 3 Std. war der Luftdruck %1, jetzt ist er %2 vor 3 Std. Die absolute Veränderung ist %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2778"/>
@@ -14279,6 +14301,17 @@ haben, melden Sie sich bitte bei uns über einen neuen GitHub-Issue.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="2847"/>
         <source>Temperature data is missing</source>
         <translation>Temperaturangabe fehlt</translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="2759"/>
+        <source>Atmospheric pressure is %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="2764"/>
+        <source>During the last 3 hours, the atmospheric pressure was %1. %2 The absolute pressure change is %3.</source>
+        <extracomment>Note: %1 will be replaced by a text such as &quot;increasing more slowly&quot;. %2 will be replaced by a complete sentence such as &quot;The pressure is now higher than 3 hours ago.&quot; %3 will be replaced by a pressure value such as &quot;1.2 hPa&quot;.</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2850"/>

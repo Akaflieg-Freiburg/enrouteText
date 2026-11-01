@@ -11419,7 +11419,6 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="607"/>
         <location filename="../../../src/weather/Decoder.cpp" line="632"/>
         <location filename="../../../src/weather/Decoder.cpp" line="951"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1093"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1145"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1177"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1222"/>
@@ -12342,29 +12341,24 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Ekstremalne turbulencje</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1096"/>
         <source>higher than</source>
-        <translation>wyżej niż</translation>
+        <translation type="vanished">wyżej niż</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1099"/>
         <source>higher or the same as</source>
-        <translation>wyżej lub tak samo jak</translation>
+        <translation type="vanished">wyżej lub tak samo jak</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1102"/>
         <source>same as</source>
-        <translation>tak samo jak</translation>
+        <translation type="vanished">tak samo jak</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1105"/>
         <source>lower or the same as</source>
-        <translation>niżej lub tak samo jak</translation>
+        <translation type="vanished">niżej lub tak samo jak</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1108"/>
         <source>lower than</source>
-        <translation>niżej niż</translation>
+        <translation type="vanished">niżej niż</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1118"/>
@@ -12585,6 +12579,36 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="857"/>
         <source>unknown cloud type</source>
         <translation>niezany typ chmur</translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1093"/>
+        <source>It is not reported whether the pressure is now higher or lower than 3 hours ago.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1096"/>
+        <source>The pressure is now higher than 3 hours ago.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1099"/>
+        <source>The pressure is now higher than or the same as 3 hours ago.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1102"/>
+        <source>The pressure is now the same as 3 hours ago.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1105"/>
+        <source>The pressure is now lower than or the same as 3 hours ago.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1108"/>
+        <source>The pressure is now lower than 3 hours ago.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1259"/>
@@ -13622,15 +13646,13 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <translation>Nie odnotowano tendencji 3-godzinnego ciśnienia. Bezwzględna zmiana ciśnienia wynosi %1.</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2759"/>
         <source>Atmospheric pressure is %1</source>
-        <translation>Ciśnienie atmosferyczne wynosi %1</translation>
+        <translation type="vanished">Ciśnienie atmosferyczne wynosi %1</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="2764"/>
         <source>During last 3 hours the atmospheric pressure was %1. Now the atmospheric pressure is %2 3h ago. Absolute pressure change is %3</source>
         <extracomment>Note: the string %2 will be replaced by a text such as &quot;less than&quot;</extracomment>
-        <translation>W ciągu ostatnich 3 godzin ciśnienie atmosferyczne wynosiło %1. Teraz ciśnienie atmosferyczne wynosi %2 3 godziny temu. Bezwzględna zmiana ciśnienia wynosi %3</translation>
+        <translation type="vanished">W ciągu ostatnich 3 godzin ciśnienie atmosferyczne wynosiło %1. Teraz ciśnienie atmosferyczne wynosi %2 3 godziny temu. Bezwzględna zmiana ciśnienia wynosi %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2778"/>
@@ -14114,6 +14136,17 @@ skontaktuj się z nami, otwierając zgłoszenie na GitHub. &lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="2604"/>
         <source>Color code RED: visibility &lt;800 m or lowest cloud base height &lt;200 ft</source>
         <translation>Kod barwny CZERWONY: widzialność &lt;800 m lub najniższa wysokość podstawy chmur &lt;200 stóp</translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="2759"/>
+        <source>Atmospheric pressure is %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="2764"/>
+        <source>During the last 3 hours, the atmospheric pressure was %1. %2 The absolute pressure change is %3.</source>
+        <extracomment>Note: %1 will be replaced by a text such as &quot;increasing more slowly&quot;. %2 will be replaced by a complete sentence such as &quot;The pressure is now higher than 3 hours ago.&quot; %3 will be replaced by a pressure value such as &quot;1.2 hPa&quot;.</extracomment>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2850"/>

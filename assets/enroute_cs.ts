@@ -8240,7 +8240,6 @@ můžeme získat.&lt;/p&gt;
         <location filename="../../../src/weather/Decoder.cpp" line="607"/>
         <location filename="../../../src/weather/Decoder.cpp" line="632"/>
         <location filename="../../../src/weather/Decoder.cpp" line="951"/>
-        <location filename="../../../src/weather/Decoder.cpp" line="1093"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1145"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1177"/>
         <location filename="../../../src/weather/Decoder.cpp" line="1222"/>
@@ -9046,29 +9045,54 @@ můžeme získat.&lt;/p&gt;
         <translation>Extrémní turbulence</translation>
     </message>
     <message>
-        <location filename="../../../src/weather/Decoder.cpp" line="1096"/>
         <source>higher than</source>
-        <translation>vyšší než</translation>
+        <translation type="vanished">vyšší než</translation>
+    </message>
+    <message>
+        <source>higher or the same as</source>
+        <translation type="vanished">vyšší nebo stejný jako</translation>
+    </message>
+    <message>
+        <source>same as</source>
+        <translation type="vanished">stejný jako</translation>
+    </message>
+    <message>
+        <source>lower or the same as</source>
+        <translation type="vanished">nižší nebo stejný jako</translation>
+    </message>
+    <message>
+        <source>lower than</source>
+        <translation type="vanished">nižší než</translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1093"/>
+        <source>It is not reported whether the pressure is now higher or lower than 3 hours ago.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../../src/weather/Decoder.cpp" line="1096"/>
+        <source>The pressure is now higher than 3 hours ago.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1099"/>
-        <source>higher or the same as</source>
-        <translation>vyšší nebo stejný jako</translation>
+        <source>The pressure is now higher than or the same as 3 hours ago.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1102"/>
-        <source>same as</source>
-        <translation>stejný jako</translation>
+        <source>The pressure is now the same as 3 hours ago.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1105"/>
-        <source>lower or the same as</source>
-        <translation>nižší nebo stejný jako</translation>
+        <source>The pressure is now lower than or the same as 3 hours ago.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1108"/>
-        <source>lower than</source>
-        <translation>nižší než</translation>
+        <source>The pressure is now lower than 3 hours ago.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1118"/>
@@ -10597,14 +10621,23 @@ můžeme získat.&lt;/p&gt;
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2759"/>
-        <source>Atmospheric pressure is %1</source>
-        <translation>Atmosférický tlak je %1</translation>
+        <source>Atmospheric pressure is %1.</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2764"/>
+        <source>During the last 3 hours, the atmospheric pressure was %1. %2 The absolute pressure change is %3.</source>
+        <extracomment>Note: %1 will be replaced by a text such as &quot;increasing more slowly&quot;. %2 will be replaced by a complete sentence such as &quot;The pressure is now higher than 3 hours ago.&quot; %3 will be replaced by a pressure value such as &quot;1.2 hPa&quot;.</extracomment>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Atmospheric pressure is %1</source>
+        <translation type="vanished">Atmosférický tlak je %1</translation>
+    </message>
+    <message>
         <source>During last 3 hours the atmospheric pressure was %1. Now the atmospheric pressure is %2 3h ago. Absolute pressure change is %3</source>
         <extracomment>Note: the string %2 will be replaced by a text such as &quot;less than&quot;</extracomment>
-        <translation>Během posledních 3 hodin byl atmosférický tlak %1. Nyní je atmosférický tlak %2 před 3 h. Absolutní změna tlaku je %3</translation>
+        <translation type="vanished">Během posledních 3 hodin byl atmosférický tlak %1. Nyní je atmosférický tlak %2 před 3 h. Absolutní změna tlaku je %3</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="2778"/>
