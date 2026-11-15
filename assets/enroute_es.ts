@@ -12034,7 +12034,7 @@ por favor, póngase en contacto con nosotros abriendo una solicitud GitHub.&lt;/
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1822"/>
         <source>snow showers in the vicinity</source>
-        <translation>aguacero de nieve</translation>
+        <translation>aguacero de nieve en las proximidades</translation>
     </message>
     <message>
         <location filename="../../../src/weather/Decoder.cpp" line="1825"/>
