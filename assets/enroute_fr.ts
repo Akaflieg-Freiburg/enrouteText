@@ -2262,7 +2262,7 @@ Message: Enroute Flight Navigation
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="445"/>
         <source>Reverse</source>
-        <translation>Annuler</translation>
+        <translation>Inverser</translation>
     </message>
     <message>
         <location filename="../../../src/qml/pages/FlightRouteEditor.qml" line="470"/>
