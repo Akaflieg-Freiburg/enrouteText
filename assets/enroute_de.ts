@@ -2252,12 +2252,12 @@ anderes dazu sagen können.&lt;/p&gt;
     <message>
         <location filename="../../../src/qml/items/DateInput.qml" line="266"/>
         <source>Today</source>
-        <translation type="unfinished"></translation>
+        <translation>Heute</translation>
     </message>
     <message>
         <location filename="../../../src/qml/items/DateInput.qml" line="271"/>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -2598,155 +2598,155 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="58"/>
         <source>Invalid takeoff date</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültiges Startdatum</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="60"/>
         <source>Invalid off-block time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Off-Block-Zeit</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="62"/>
         <source>No takeoff time</source>
-        <translation type="unfinished"></translation>
+        <translation>Keine Startzeit</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="64"/>
         <source>Invalid takeoff time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Startzeit</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="66"/>
         <source>Invalid landing time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige Landeszeit</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="68"/>
         <source>Invalid on-block time</source>
-        <translation type="unfinished"></translation>
+        <translation>Ungültige On-Block-Zeit</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="73"/>
         <source>Off-block time in the future</source>
-        <translation type="unfinished"></translation>
+        <translation>Off-Block-Zeit in der Zukunft</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="75"/>
         <source>Takeoff time in the future</source>
-        <translation type="unfinished"></translation>
+        <translation>Startzeit in der Zukunft</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="77"/>
         <source>Landing time in the future</source>
-        <translation type="unfinished"></translation>
+        <translation>Landezeit in der Zukunft</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="79"/>
         <source>On-block time in the future</source>
-        <translation type="unfinished"></translation>
+        <translation>On-Block-Zeit in der Zukunft</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="81"/>
         <source>Invalid number of landings</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl der Landungen ungültig</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="97"/>
         <source>No departure location</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Abflugort</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="100"/>
         <source>No arrival location</source>
-        <translation type="unfinished"></translation>
+        <translation>Kein Ankunftsort</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="102"/>
         <source>More than 1 h between off-block and takeoff</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr als eine Stunde zwischen Off-Block und Start</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="104"/>
         <source>Flight time more than 12 h</source>
-        <translation type="unfinished"></translation>
+        <translation>Flugzeit mehr als 12 Stunden</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="106"/>
         <source>More than 1 h between landing and on-block</source>
-        <translation type="unfinished"></translation>
+        <translation>Mehr als 1 h zwischen Landung und On-Block</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="268"/>
         <source>hh:mm</source>
-        <translation type="unfinished"></translation>
+        <translation>hh:mm</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="325"/>
         <source>ddd d MMM</source>
         <extracomment>Format of the date in the marker next to a time that falls on another day than the takeoff, as in &quot;+1 Sat 22 Nov&quot;. See QDate::toString() for the format characters.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ddd d MMM</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="328"/>
         <source>%1 %2</source>
         <extracomment>Marker next to a time that falls on another day than the takeoff. %1 is the difference in days (&quot;+1&quot;), %2 the date.</extracomment>
-        <translation type="unfinished">%1 %2</translation>
+        <translation>%1 %2</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="407"/>
         <source>Location</source>
-        <translation type="unfinished"></translation>
+        <translation>Ort</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="414"/>
         <source>Departure</source>
-        <translation type="unfinished"></translation>
+        <translation>Abflug</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="430"/>
         <source>Arrival</source>
-        <translation type="unfinished"></translation>
+        <translation>Ankunft</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="450"/>
         <source>Date and Time (UTC)</source>
-        <translation type="unfinished"></translation>
+        <translation>Datum und Uhrzeit (UTC)</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="458"/>
         <source>Takeoff date</source>
-        <translation type="unfinished"></translation>
+        <translation>Startdatum</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="467"/>
         <source>ddd, d MMM yyyy</source>
         <extracomment>Format of the takeoff date in the flight editor. See QDate::toString() for the format characters.</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>ddd, d MMM yyyy</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="474"/>
         <source>Off-Block</source>
-        <translation type="unfinished"></translation>
+        <translation>Off-Block</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="485"/>
         <source>Takeoff</source>
-        <translation type="unfinished"></translation>
+        <translation>Start</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="498"/>
         <source>Landing</source>
-        <translation type="unfinished"></translation>
+        <translation>Landung</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="509"/>
         <source>On-Block</source>
-        <translation type="unfinished"></translation>
+        <translation>On-Block</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="521"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation>Details</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="528"/>
@@ -2789,28 +2789,28 @@ Wenn Sie lieber mit einem Schreibtisch-PC arbeiten, können sie sich die Bankver
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="566"/>
         <source>Number of landings</source>
-        <translation type="unfinished"></translation>
+        <translation>Anzahl Landungen</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="593"/>
         <source>Error: %1</source>
         <extracomment>Prefix of the list of problems in the flight editor. The list is a heading-like enumeration, so only singular and plural are distinguished.</extracomment>
-        <translation type="unfinished">Fehler: %1</translation>
+        <translation>Fehler: %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="595"/>
         <source>Errors: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Fehler: %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="597"/>
         <source>Warning: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Warnung: %1</translation>
     </message>
     <message>
         <location filename="../../../src/qml/dialogs/FlightLogEntryEditor.qml" line="599"/>
         <source>Warnings: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Warnungen: %1</translation>
     </message>
     <message>
         <source>Duration: %1</source>
